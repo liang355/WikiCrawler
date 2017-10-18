@@ -1,0 +1,636 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Dugald Stewart - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Dugald_Stewart","wgTitle":"Dugald Stewart","wgCurRevisionId":800594878,"wgRevisionId":800594878,"wgArticleId":174717,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference","Wikipedia articles incorporating text from the 1911 Encyclopædia Britannica","EngvarB from August 2014","Use dmy dates from August 2014","Articles with hCards","Articles containing French-language text","Articles containing Hebrew-language text","Articles containing Latin-language text","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","Wikipedia articles with SNAC-ID identifiers","1753 births","1828 deaths","18th-century philosophers","18th-century Scottish people","People from Edinburgh","People educated at the Royal High School, Edinburgh","Alumni of the University of Edinburgh","Academics of the University of Edinburgh","Burials at the Kirk of the Canongate","Enlightenment philosophers","Founder Fellows of the Royal Society of Edinburgh","Fellows of the American Academy of Arts and Sciences","Fellows of the Royal Society","Historians of Scotland","Members of the Philosophical Society of Edinburgh","Scottish historians","Scottish mathematicians","Scottish philosophers","18th-century British mathematicians","Moral philosophers","Political philosophers","19th-century British mathematicians"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Dugald_Stewart","wgRelevantArticleId":174717,"wgRequestId":"WeYlzwpAMFAAAH0HmnUAAABN","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q218254","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.3"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/0/09/DugaldStewart.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Dugald_Stewart"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Dugald_Stewart&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Dugald_Stewart&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Dugald_Stewart"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Dugald_Stewart rootpage-Dugald_Stewart vector-experimental-print-styles vector-nav-directionality skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Dugald Stewart</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For the Canadian politician, see <a href="/wiki/Dugald_Stewart_(politician)" title="Dugald Stewart (politician)">Dugald Stewart (politician)</a>. For the Vermont politician, see <a href="/wiki/Dugald_Stewart_(Vermont)" title="Dugald Stewart (Vermont)">Dugald Stewart (Vermont)</a>.</div>
+<table class="infobox biography vcard" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><span class="fn">Dugald Stewart</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:DugaldStewart.jpg" class="image"><img alt="DugaldStewart.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/DugaldStewart.jpg/200px-DugaldStewart.jpg" width="200" height="238" srcset="//upload.wikimedia.org/wikipedia/commons/0/09/DugaldStewart.jpg 1.5x" data-file-width="260" data-file-height="310" /></a>
+<div>Dugald Stewart as painted by <a href="/wiki/Henry_Raeburn" title="Henry Raeburn">Henry Raeburn</a>, c. 1810.</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td><span style="display:none">(<span class="bday">1753-11-22</span>)</span>November 22, 1753</td>
+</tr>
+<tr>
+<th scope="row">Died</th>
+<td>June 11, 1828<span style="display:none">(<span class="dday deathdate">1828-06-11</span>)</span> (aged&#160;74)</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"></td>
+</tr>
+<tr>
+<th scope="row">Era</th>
+<td class="category"><a href="/wiki/18th-century_philosophy" class="mw-redirect" title="18th-century philosophy">18th-century philosophy</a></td>
+</tr>
+<tr>
+<th scope="row">Region</th>
+<td class="category">Western Philosophy</td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/List_of_schools_of_philosophy" title="List of schools of philosophy">School</a></th>
+<td class="category"><a href="/wiki/Scottish_Common_Sense_Realism" class="mw-redirect" title="Scottish Common Sense Realism">Scottish Common Sense Realism</a></td>
+</tr>
+<tr class="note">
+<td colspan="2" style="text-align:center">
+<div class="NavFrame collapsed" style="border: none; padding: 0;">
+<div class="NavHead" style="font-size: 105%; background: transparent; text-align: left;">Influences</div>
+<ul class="NavContent" style="list-style: none none; margin-left: 0; text-align: left; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;">
+<li style="line-height: inherit; margin: 0">
+<div class="center" style="width:auto; margin-left:auto; margin-right:auto;"><a href="/wiki/Thomas_Reid" title="Thomas Reid">Thomas Reid</a></div>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="display:none">
+<td colspan="2"></td>
+</tr>
+</table>
+<p><b>Dugald Stewart</b> <span class="noexcerpt" style="font-size:85%;"><a href="/wiki/Fellow_of_the_Royal_Society_of_Edinburgh" title="Fellow of the Royal Society of Edinburgh">FRSE</a> <a href="/wiki/Fellow_of_the_Royal_Society_of_London" class="mw-redirect" title="Fellow of the Royal Society of London">FRS</a></span> (<span class="nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="/ˈ/: primary stress follows">ˈ</span><span title="'d' in 'dye'">d</span><span title="/uː/: 'oo' in 'goose'">uː</span><span title="/ɡ/: 'g' in 'guy'">ɡ</span><span title="/ə/: 'a' in 'about'">ə</span><span title="'l' in 'lie'">l</span><span title="'d' in 'dye'">d</span></span>, <span style="border-bottom:1px dotted"><span title="/ˈ/: primary stress follows">ˈ</span><span title="'d' in 'dye'">d</span><span title="/j/: 'y' in 'yes'">j</span><span title="/uː/: 'oo' in 'goose'">uː</span></span>-, <span style="border-bottom:1px dotted"><span title="/ˈ/: primary stress follows">ˈ</span><span title="'s' in 'sigh'">s</span><span title="'t' in 'tie'">t</span><span title="/uː/: 'oo' in 'goose'">uː</span><span title="/ər/: 'er' in 'letter'">ər</span><span title="'t' in 'tie'">t</span></span>, <span style="border-bottom:1px dotted"><span title="/ˈ/: primary stress follows">ˈ</span><span title="'s' in 'sigh'">s</span><span title="'t' in 'tie'">t</span><span title="/j/: 'y' in 'yes'">j</span><span title="/uː/: 'oo' in 'goose'">uː</span></span>-/</a></span></span>; 22 November 1753&#160;– 11 June 1828) was a Scottish philosopher and mathematician. He is best known for popularizing the <a href="/wiki/Scottish_Enlightenment" title="Scottish Enlightenment">Scottish Enlightenment</a>, for his lectures at the University of Edinburgh were widely disseminated by his many influential students.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Early_life"><span class="tocnumber">1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Professor_at_Edinburgh"><span class="tocnumber">2</span> <span class="toctext">Professor at Edinburgh</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Later_life"><span class="tocnumber">3</span> <span class="toctext">Later life</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Works"><span class="tocnumber">4</span> <span class="toctext">Works</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Influence"><span class="tocnumber">5</span> <span class="toctext">Influence</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Family"><span class="tocnumber">6</span> <span class="toctext">Family</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Further_reading"><span class="tocnumber">8</span> <span class="toctext">Further reading</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Primary_sources"><span class="tocnumber">8.1</span> <span class="toctext">Primary sources</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dugald_Stewart&amp;action=edit&amp;section=1" title="Edit section: Early life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>He was the son of <a href="/wiki/Matthew_Stewart_(mathematician)" title="Matthew Stewart (mathematician)">Matthew Stewart</a> (1715–1785), professor of mathematics at the <a href="/wiki/University_of_Edinburgh" title="University of Edinburgh">University of Edinburgh</a> (1747–1772), and was born in Edinburgh. He was educated at the <a href="/wiki/Royal_High_School_(Edinburgh)" class="mw-redirect" title="Royal High School (Edinburgh)">Royal High School</a> and the University of Edinburgh, where he read mathematics and <a href="/wiki/Moral_philosophy" class="mw-redirect" title="Moral philosophy">moral philosophy</a> under <a href="/wiki/Adam_Ferguson" title="Adam Ferguson">Adam Ferguson</a>. In 1771, in the hope of gaining a <a href="/wiki/Snell_Exhibition" title="Snell Exhibition">Snell Exhibition</a> and proceeding to <a href="/wiki/University_of_Oxford" title="University of Oxford">Oxford</a> to study for the English Church, he went to the University of Glasgow to attend the classes of <a href="/wiki/Thomas_Reid" title="Thomas Reid">Thomas Reid</a>. To Reid he later owed his theory of <a href="/wiki/Morality" title="Morality">morality</a>. In Glasgow, Stewart boarded in the same house as <a href="/wiki/Archibald_Alison_(Scottish_author)" class="mw-redirect" title="Archibald Alison (Scottish author)">Archibald Alison</a>, author of the <i>Essay on Taste</i>, and a lasting friendship sprang up between them.<sup id="cite_ref-EB1911_1-0" class="reference"><a href="#cite_note-EB1911-1">[1]</a></sup></p>
+<p>After a single session in Glasgow, at the age of nineteen, Dugald was asked by his father, whose health was beginning to fail, to give his mathematical classes in the University of Edinburgh. After three years there Dugald was elected professor of mathematics in conjunction with his father in 1775. Three years later Ferguson was appointed secretary to the commissioners sent out to the <a href="/wiki/13_colonies" class="mw-redirect" title="13 colonies">American colonies</a>, and at his request Stewart lectured as his substitute during the session 1778–1779, delivering an original course of lectures on morals.<sup id="cite_ref-EB1911_1-1" class="reference"><a href="#cite_note-EB1911-1">[1]</a></sup> In his early years he was influenced by <a href="/wiki/Lord_Monboddo" class="mw-redirect" title="Lord Monboddo">Lord Monboddo</a>, with whom he corresponded.</p>
+<h2><span class="mw-headline" id="Professor_at_Edinburgh">Professor at Edinburgh</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dugald_Stewart&amp;action=edit&amp;section=2" title="Edit section: Professor at Edinburgh">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In 1785 Stewart succeeded Ferguson in the chair of <a href="/wiki/Moral_philosophy" class="mw-redirect" title="Moral philosophy">moral philosophy</a>, which he filled for twenty-five years, making it a centre of intellectual and moral influence. Young men were attracted by his reputation from England, Europe and America. Stewart's course on moral philosophy embraced, besides ethics proper, lectures on <a href="/wiki/Political_philosophy" title="Political philosophy">political philosophy</a> or the theory of government.<sup id="cite_ref-EB1911_1-2" class="reference"><a href="#cite_note-EB1911-1">[1]</a></sup></p>
+<p>Stewart spent the summers of 1788 and 1789 in France, where he met <a href="/wiki/Jean_Baptiste_Antoine_Suard" class="mw-redirect" title="Jean Baptiste Antoine Suard">Suard</a>, <a href="/wiki/Deg%C3%A9rando" class="mw-redirect" title="Degérando">Degérando</a>, and <a href="/wiki/Guillaume_Thomas_Fran%C3%A7ois_Raynal" title="Guillaume Thomas François Raynal">Raynal</a>, and came to sympathise with the revolutionary movement.<sup id="cite_ref-EB1911_1-3" class="reference"><a href="#cite_note-EB1911-1">[1]</a></sup> His political teaching, after the <a href="/wiki/French_Revolution" title="French Revolution">French Revolution</a>, drew suspicion on him.</p>
+<p>From 1800 to 1801, Stewart gave lectures to undergraduate students on the subject of <a href="/wiki/Political_economy" title="Political economy">political economy</a>, the first person to do so.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<h2><span class="mw-headline" id="Later_life">Later life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dugald_Stewart&amp;action=edit&amp;section=3" title="Edit section: Later life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In 1806 Stewart received in lieu of a pension the nominal office of the writership of the <i>Edinburgh Gazette</i>, with a salary of £300. When he ceased lecturing during the session of 1809–1810, his place was taken, at his own request, by <a href="/wiki/Thomas_Brown_(philosopher)" title="Thomas Brown (philosopher)">Thomas Brown</a>, who in 1810 was appointed conjoint professor. On the death of Brown in 1820 Stewart retired altogether from the professorship. His successor was <a href="/wiki/John_Wilson_(Scottish_writer)" title="John Wilson (Scottish writer)">John Wilson</a>, known as "Christopher North".<sup id="cite_ref-EB1911_1-4" class="reference"><a href="#cite_note-EB1911-1">[1]</a></sup></p>
+<p>From 1809 onwards Stewart lived mainly at <a href="/wiki/Kinneil_House" title="Kinneil House">Kinneil House</a>, Bo'ness, which was placed at his disposal by the <a href="/wiki/Archibald_Hamilton,_9th_Duke_of_Hamilton" title="Archibald Hamilton, 9th Duke of Hamilton">Duke of Hamilton</a>.<sup id="cite_ref-EB1911_1-5" class="reference"><a href="#cite_note-EB1911-1">[1]</a></sup> In June 1814 he was elected a <a href="/wiki/Fellow_of_the_Royal_Society" title="Fellow of the Royal Society">Fellow of the Royal Society</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> He was elected a Foreign Honorary Member of the <a href="/wiki/American_Academy_of_Arts_and_Sciences" title="American Academy of Arts and Sciences">American Academy of Arts and Sciences</a> in 1817.<sup id="cite_ref-AAAS_4-0" class="reference"><a href="#cite_note-AAAS-4">[4]</a></sup></p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:152px;"><a href="/wiki/File:DugaldStewartMonument.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/DugaldStewartMonument.jpg/150px-DugaldStewartMonument.jpg" width="150" height="200" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/DugaldStewartMonument.jpg/225px-DugaldStewartMonument.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3b/DugaldStewartMonument.jpg/300px-DugaldStewartMonument.jpg 2x" data-file-width="2112" data-file-height="2816" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:DugaldStewartMonument.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Dugald_Stewart_Monument" title="Dugald Stewart Monument">Dugald Stewart Monument</a>, Edinburgh</div>
+</div>
+</div>
+<p>In 1822 he was struck with <a href="/wiki/Paralysis" title="Paralysis">paralysis</a>, but recovered a fair degree of health, sufficient to enable him to resume his studies. He died in Edinburgh, where he was buried in <a href="/wiki/Canongate_Churchyard" class="mw-redirect" title="Canongate Churchyard">Canongate Churchyard</a>. Additionally, and of greater public note, a <a href="/wiki/Dugald_Stewart_Monument" title="Dugald Stewart Monument">monument</a> to his memory was erected on <a href="/wiki/Calton_Hill,_Edinburgh" class="mw-redirect" title="Calton Hill, Edinburgh">Calton Hill</a>.<sup id="cite_ref-EB1911_1-6" class="reference"><a href="#cite_note-EB1911-1">[1]</a></sup> His memory is also honoured by the newly constructed Dugald Stewart Building at the University of Edinburgh, on Charles Street.</p>
+<h2><span class="mw-headline" id="Works">Works</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dugald_Stewart&amp;action=edit&amp;section=4" title="Edit section: Works">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Stewart as a student in Glasgow wrote an essay on <i>Dreaming</i>. In 1792 he published the first volume of the <i>Elements of the Philosophy of the Human Mind</i>; the second volume appeared in 1814, the third not till 1827. In 1793 he printed a textbook, <i>Outlines of Moral Philosophy</i>, which went through many editions; and in the same year he read before the Royal Society of Edinburgh his <i>Account of the Life and Writings of <a href="/wiki/Adam_Smith" title="Adam Smith">Adam Smith</a></i>. Similar memoirs of Robertson the historian and of Reid were afterwards read before the same body and appear in his published works.<sup id="cite_ref-EB1911_1-7" class="reference"><a href="#cite_note-EB1911-1">[1]</a></sup></p>
+<p>In 1805 Stewart published pamphlets defending <a href="/wiki/John_Leslie_(physicist)" title="John Leslie (physicist)">John Leslie</a> against the charges of unorthodoxy made by the presbytery of Edinburgh. In 1810 appeared the <i>Philosophical Essays</i>,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> in 1814 the second volume of the <i>Elements</i>, in 1811 the first part and in 1821 the second part of the "Dissertation" written for the <i>Encyclopædia Britannica Supplement</i>, entitled "A General View of the Progress of Metaphysical, Ethical, and Political Philosophy since the Revival of Letters." In 1827 he published the third volume of the <i>Elements</i>, and in 1828, a few weeks before his death, <i>The Philosophy of the Active and Moral Powers</i>.<sup id="cite_ref-EB1911_1-8" class="reference"><a href="#cite_note-EB1911-1">[1]</a></sup></p>
+<p>Stewart's works were edited in 11 vols. (1854–1858) by <a href="/wiki/Sir_William_Hamilton,_9th_Baronet" title="Sir William Hamilton, 9th Baronet">Sir William Hamilton</a> and completed with a memoir by <a href="/wiki/John_Veitch_(poet)" title="John Veitch (poet)">John Veitch</a>.<sup id="cite_ref-EB1911_1-9" class="reference"><a href="#cite_note-EB1911-1">[1]</a></sup></p>
+<h2><span class="mw-headline" id="Influence">Influence</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dugald_Stewart&amp;action=edit&amp;section=5" title="Edit section: Influence">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Among Stewart's pupils were <a href="/wiki/Lord_Palmerston" class="mw-redirect" title="Lord Palmerston">Lord Palmerston</a>, <a href="/wiki/Walter_Scott" title="Walter Scott">Sir Walter Scott</a>, <a href="/wiki/Francis_Jeffrey" class="mw-redirect" title="Francis Jeffrey">Francis Jeffrey</a>, <a href="/wiki/Henry_Thomas_Cockburn" class="mw-redirect" title="Henry Thomas Cockburn">Henry Thomas Cockburn</a>, <a href="/wiki/Francis_Horner" title="Francis Horner">Francis Horner</a>, <a href="/wiki/Sydney_Smith" title="Sydney Smith">Sydney Smith</a>, <a href="/wiki/John_Ward,_1st_Earl_of_Dudley" title="John Ward, 1st Earl of Dudley">John William Ward</a>, <a href="/wiki/Henry_Peter_Brougham" class="mw-redirect" title="Henry Peter Brougham">Lord Brougham</a>, <a href="/wiki/Thomas_Brown_(philosopher)" title="Thomas Brown (philosopher)">Dr. Thomas Brown</a>, <a href="/wiki/James_Mill" title="James Mill">James Mill</a>, <a href="/wiki/James_Mackintosh" title="James Mackintosh">Sir James Mackintosh</a> and <a href="/wiki/Archibald_Alison_(author)" title="Archibald Alison (author)">Sir Archibald Alison</a>.<sup id="cite_ref-EB1911_1-10" class="reference"><a href="#cite_note-EB1911-1">[1]</a></sup></p>
+<p>His reputation rested as much on his eloquence, populism, and style as on original work.<sup id="cite_ref-scottishphilosophy.org_6-0" class="reference"><a href="#cite_note-scottishphilosophy.org-6">[6]</a></sup> He was principally responsible for making the "Scottish philosophy" predominant in early 19th-century Europe.<sup id="cite_ref-scottishphilosophy.org_6-1" class="reference"><a href="#cite_note-scottishphilosophy.org-6">[6]</a></sup> In the second half of the century, Stewart's reputation fell to that of a follower of the work of Thomas Reid.<sup id="cite_ref-EB1911_1-11" class="reference"><a href="#cite_note-EB1911-1">[1]</a></sup></p>
+<p>Stewart upheld Reid's psychological method and expounded the <a href="/wiki/Scottish_Common_Sense_Realism" class="mw-redirect" title="Scottish Common Sense Realism">Scottish Common Sense Realism</a>,<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> which was attacked by <a href="/wiki/James_Mill" title="James Mill">James Mill</a> and <a href="/wiki/John_Stuart_Mill" title="John Stuart Mill">John Stuart Mill</a>. Part of his originality lay in his incorporation of elements of moderate <a href="/wiki/Empiricism" title="Empiricism">empiricism</a> and the French ideologists <a href="/wiki/Pierre_Laromigui%C3%A8re" title="Pierre Laromiguière">Laromiguière</a>, <a href="/wiki/Pierre_Jean_George_Cabanis" class="mw-redirect" title="Pierre Jean George Cabanis">Cabanis</a> and <a href="/wiki/Antoine_Destutt_de_Tracy" title="Antoine Destutt de Tracy">Destutt de Tracy</a>. He opposed the argument of <a href="/wiki/Ontology" title="Ontology">ontology</a>, and <a href="/wiki/%C3%89tienne_Bonnot_de_Condillac" title="Étienne Bonnot de Condillac">Condillac</a>'s sensationalism. <a href="/wiki/Immanuel_Kant" title="Immanuel Kant">Immanuel Kant</a> he said he could not understand.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p>
+<h2><span class="mw-headline" id="Family">Family</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dugald_Stewart&amp;action=edit&amp;section=6" title="Edit section: Family">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In 1783 Stewart married Helen Bannatyne, who died in 1787, leaving an only son, Colonel Matthew Stewart. In 1790 he married <a href="/wiki/Helen_D%27Arcy_Cranstoun" class="mw-redirect" title="Helen D'Arcy Cranstoun">Helen D'Arcy Cranstoun</a>, sister of <a href="/wiki/George_Cranstoun,_Lord_Corehouse" title="George Cranstoun, Lord Corehouse">George Cranstoun</a>. His second wife was well-born and accomplished, and he was in the habit of submitting to her criticism whatever he wrote. They had a son and a daughter. The son's death in 1809 brought about his retirement from the active duties of his chair.<sup id="cite_ref-EB1911_1-12" class="reference"><a href="#cite_note-EB1911-1">[1]</a></sup></p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dugald_Stewart&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-EB1911-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-EB1911_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-EB1911_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-EB1911_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-EB1911_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-EB1911_1-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-EB1911_1-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-EB1911_1-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-EB1911_1-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-EB1911_1-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-EB1911_1-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-EB1911_1-10"><sup><i><b>k</b></i></sup></a> <a href="#cite_ref-EB1911_1-11"><sup><i><b>l</b></i></sup></a> <a href="#cite_ref-EB1911_1-12"><sup><i><b>m</b></i></sup></a></span> <span class="reference-text"><a href="/wiki/File:Wikisource-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png" width="12" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/18px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/24px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></a>&#160;One or more of the preceding sentences&#160;incorporates text from a publication now in the <a href="/wiki/Public_domain" title="Public domain">public domain</a>:&#160;<cite id="CITEREFChisholm1911" class="citation encyclopaedia">Chisholm, Hugh, ed. (1911). "<a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Stewart,_Dugald" class="extiw" title="wikisource:1911 Encyclopædia Britannica/Stewart, Dugald">Stewart, Dugald</a>". <i><a href="/wiki/Encyclop%C3%A6dia_Britannica_Eleventh_Edition" title="Encyclopædia Britannica Eleventh Edition">Encyclopædia Britannica</a></i>. <b>25</b> (11th ed.). Cambridge University Press. pp.&#160;913–914.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADugald+Stewart&amp;rft.atitle=Stewart%2C+Dugald&amp;rft.btitle=Encyclop%C3%A6dia+Britannica&amp;rft.date=1911&amp;rft.edition=11th&amp;rft.genre=bookitem&amp;rft.pages=913-914&amp;rft.pub=Cambridge+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ed.ac.uk/schools-departments/economics/about-us/history/early-years">The early years</a> at <a href="/wiki/University_of_Edinburgh_School_of_Economics" title="University of Edinburgh School of Economics">University of Edinburgh School of Economics</a>'s official website. Accessed 24 February 2013.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www2.royalsociety.org/DServe/dserve.exe?dsqIni=Dserve.ini&amp;dsqApp=Archive&amp;dsqCmd=Show.tcl&amp;dsqDb=Persons&amp;dsqPos=3&amp;dsqSearch=%28Surname%3D%27stewart%27%29">"Library and Archive Catalogue"</a>. Royal Society<span class="reference-accessdate">. Retrieved <span class="nowrap">22 October</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADugald+Stewart&amp;rft.btitle=Library+and+Archive+Catalogue&amp;rft.genre=unknown&amp;rft.pub=Royal+Society&amp;rft_id=http%3A%2F%2Fwww2.royalsociety.org%2FDServe%2Fdserve.exe%3FdsqIni%3DDserve.ini%26dsqApp%3DArchive%26dsqCmd%3DShow.tcl%26dsqDb%3DPersons%26dsqPos%3D3%26dsqSearch%3D%2528Surname%253D%2527stewart%2527%2529&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-AAAS-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-AAAS_4-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.amacad.org/publications/BookofMembers/ChapterS.pdf">"Book of Members, 1780–2010: Chapter S"</a> <span style="font-size:85%;">(PDF)</span>. American Academy of Arts and Sciences<span class="reference-accessdate">. Retrieved <span class="nowrap">28 July</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADugald+Stewart&amp;rft.btitle=Book+of+Members%2C+1780%E2%80%932010%3A+Chapter+S&amp;rft.genre=unknown&amp;rft.pub=American+Academy+of+Arts+and+Sciences&amp;rft_id=http%3A%2F%2Fwww.amacad.org%2Fpublications%2FBookofMembers%2FChapterS.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a rel="nofollow" class="external text" href="https://babel.hathitrust.org/cgi/pt?id=uc1.c031993806;view=1up;seq=13">"Review of <i>Philosophical Essays</i> by Dugald Stewart"</a>. <i>The Quarterly Review</i>. <b>6</b>: 1–37. October 1811.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADugald+Stewart&amp;rft.atitle=Review+of+Philosophical+Essays+by+Dugald+Stewart&amp;rft.date=1811-10&amp;rft.genre=article&amp;rft.jtitle=The+Quarterly+Review&amp;rft.pages=1-37&amp;rft.volume=6&amp;rft_id=https%3A%2F%2Fbabel.hathitrust.org%2Fcgi%2Fpt%3Fid%3Duc1.c031993806%3Bview%3D1up%3Bseq%3D13&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-scottishphilosophy.org-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-scottishphilosophy.org_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-scottishphilosophy.org_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.scottishphilosophy.org/dugaldstewart.html">http://www.scottishphilosophy.org/dugaldstewart.html</a></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><i>Selections from the Scottish Philosophy of Common Sense</i>, ed. by G. A. Johnston (1915), essays by Thomas Reid, <a href="/wiki/Adam_Ferguson" title="Adam Ferguson">Adam Ferguson</a>, James Beattie, and Dugald Stewart (<a rel="nofollow" class="external text" href="http://oll.libertyfund.org/index.php?option=com_staticxt&amp;staticfile=show.php%3Ftitle=2044&amp;Itemid=28">online version</a>).</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Jonathan Friday (2005): Dugald Stewart on Reid, Kant and the Refutation of Idealism, British Journal for the History of Philosophy, 13:2, 263–286</span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dugald_Stewart&amp;action=edit&amp;section=8" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Corsi, Pietro. "The heritage of Dugald Stewart: Oxford philosophy and the method of political economy." <i>Nuncius</i> (1987) 2#2 pp: 89-144 (<a rel="nofollow" class="external text" href="https://web.archive.org/web/20141221102538/http://hsmt.history.ox.ac.uk/hsmt/courses_reading/undergraduate/victorian_britain/dugald_stewart.pdf">online</a>).</li>
+<li>Haakonssen, Knud. "From moral philosophy to political economy: the contribution of Dugald Stewart." in <i>Philosophers of the Scottish Enlightenment</i> (1984), pp.&#160;211–32.</li>
+<li>Rashid, Salim. "Dugald Stewart, 'Baconian' Methodology, and Political Economy." <i>Journal of the History of Ideas</i> (1985): 245-257 (<a rel="nofollow" class="external text" href="http://www.jstor.org/stable/2709637">online on JSTOR</a>).</li>
+<li>Wood, Paul. "Dugald Stewart and the Invention of “the Scottish Enlightenment”." <i>The Scottish Enlightenment: Essays in Reinterpretation</i> (2000), pp.&#160;1–35.</li>
+</ul>
+<h3><span class="mw-headline" id="Primary_sources">Primary sources</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dugald_Stewart&amp;action=edit&amp;section=9" title="Edit section: Primary sources">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>Stewart, Dugald, and John Veitch. <i>The collected works of Dugald Stewart</i> (1877) (<a rel="nofollow" class="external text" href="https://books.google.com/books?hl=en&amp;lr=&amp;id=H3Y_AQAAMAAJ&amp;oi=fnd&amp;pg=PA1&amp;dq=%22Dugald+Stewart%22&amp;ots=UUcqNUZsFq&amp;sig=5m_XJRuu-c26EEeR3IRz2PMDzaU">online</a>).</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dugald_Stewart&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/File:Wikisource-logo.svg" class="image" title="Wikisource logo"><img alt="Wikisource logo" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/16px-Wikisource-logo.svg.png" width="16" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/24px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/32px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></a> Works written by or about <a href="https://en.wikisource.org/wiki/Author:Dugald_Stewart" class="extiw" title="s:Author:Dugald Stewart">Dugald Stewart</a> at <a href="/wiki/Wikisource" title="Wikisource">Wikisource</a></li>
+<li><a href="/wiki/File:Wikiquote-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/13px-Wikiquote-logo.svg.png" width="13" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/20px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/27px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></a> Quotations related to <a href="https://en.wikiquote.org/wiki/Special:Search/Dugald_Stewart" class="extiw" title="wikiquote:Special:Search/Dugald Stewart">Dugald Stewart</a> at Wikiquote</li>
+<li><cite class="citation"><a href="/wiki/John_J._O%27Connor_(mathematician)" class="mw-redirect" title="John J. O'Connor (mathematician)">O'Connor, John J.</a>; <a href="/wiki/Edmund_F._Robertson" title="Edmund F. Robertson">Robertson, Edmund F.</a>, <a rel="nofollow" class="external text" href="http://www-history.mcs.st-andrews.ac.uk/Biographies/Stewart_Dugald.html">"Dugald Stewart"</a>, <i><a href="/wiki/MacTutor_History_of_Mathematics_archive" title="MacTutor History of Mathematics archive">MacTutor History of Mathematics archive</a></i>, <a href="/wiki/University_of_St_Andrews" title="University of St Andrews">University of St Andrews</a></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADugald+Stewart&amp;rft.atitle=Dugald+Stewart&amp;rft.au=Robertson%2C+Edmund+F.&amp;rft.aufirst=John+J.&amp;rft.aulast=O%27Connor&amp;rft.btitle=MacTutor+History+of+Mathematics+archive&amp;rft.genre=bookitem&amp;rft.pub=University+of+St+Andrews&amp;rft_id=http%3A%2F%2Fwww-history.mcs.st-andrews.ac.uk%2FBiographies%2FStewart_Dugald.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span>.</li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070416213044/http://oll.libertyfund.org/Home3/Author.php?recordID=0409">Dugald Stewart</a> at <a rel="nofollow" class="external text" href="https://web.archive.org/web/20070608070935/http://oll.libertyfund.org/Home3/index.php"><i>The Online Library of Liberty</i></a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="The_Age_of_Enlightenment" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Age_of_Enlightenment" title="Template:Age of Enlightenment"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Age_of_Enlightenment" title="Template talk:Age of Enlightenment"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Age_of_Enlightenment&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="The_Age_of_Enlightenment" style="font-size:114%;margin:0 4em">The <a href="/wiki/Age_of_Enlightenment" title="Age of Enlightenment">Age of Enlightenment</a></div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible autocollapse navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";">
+<div id="Topics" style="font-size:114%;margin:0 4em">Topics</div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Atheism_in_the_Age_of_the_Enlightenment" title="Atheism in the Age of the Enlightenment">Atheism</a></li>
+<li><a href="/wiki/Capitalism" title="Capitalism">Capitalism</a></li>
+<li><a href="/wiki/Civil_liberties" title="Civil liberties">Civil liberties</a></li>
+<li><a href="/wiki/Counter-Enlightenment" title="Counter-Enlightenment">Counter-Enlightenment</a></li>
+<li><a href="/wiki/Critical_thinking" title="Critical thinking">Critical thinking</a></li>
+<li><a href="/wiki/Deism" title="Deism">Deism</a></li>
+<li><a href="/wiki/Democracy" title="Democracy">Democracy</a></li>
+<li><a href="/wiki/Empiricism" title="Empiricism">Empiricism</a></li>
+<li><span lang="fr" xml:lang="fr"><a href="/wiki/Encyclop%C3%A9distes" title="Encyclopédistes">Encyclopédistes</a></span></li>
+<li><a href="/wiki/Enlightened_absolutism" title="Enlightened absolutism">Enlightened absolutism</a></li>
+<li><a href="/wiki/Free_market" title="Free market">Free markets</a></li>
+<li><span lang="he-Latn" xml:lang="he-Latn"><a href="/wiki/Haskalah" title="Haskalah">Haskalah</a></span></li>
+<li><a href="/wiki/Humanism" title="Humanism">Humanism</a></li>
+<li><a href="/wiki/Human_rights" title="Human rights">Human rights</a></li>
+<li><a href="/wiki/Classical_liberalism" title="Classical liberalism">Liberalism</a></li>
+<li><i><span lang="fr" xml:lang="fr"><a href="/wiki/Libert%C3%A9,_%C3%A9galit%C3%A9,_fraternit%C3%A9" title="Liberté, égalité, fraternité">Liberté, égalité, fraternité</a></span></i></li>
+<li><a href="/wiki/Cartesian_doubt" title="Cartesian doubt">Methodological skepticism</a></li>
+<li><a href="/wiki/Nationalism" title="Nationalism">Nationalism</a></li>
+<li><a href="/wiki/Natural_philosophy" title="Natural philosophy">Natural philosophy</a></li>
+<li><a href="/wiki/Objectivity_(philosophy)" title="Objectivity (philosophy)">Objectivity</a></li>
+<li><a href="/wiki/Rationality" title="Rationality">Rationality</a></li>
+<li><a href="/wiki/Rationalism" title="Rationalism">Rationalism</a></li>
+<li><a href="/wiki/Reason" title="Reason">Reason</a></li>
+<li><a href="/wiki/Reductionism" title="Reductionism">Reductionism</a></li>
+<li><span lang="la" xml:lang="la"><a href="/wiki/Sapere_aude" title="Sapere aude">Sapere aude</a></span></li>
+<li><a href="/wiki/Science" title="Science">Science</a></li>
+<li><a href="/wiki/Scientific_method" title="Scientific method">Scientific method</a></li>
+<li><a href="/wiki/Socialism" title="Socialism">Socialism</a></li>
+<li><a href="/wiki/Universality_(philosophy)" title="Universality (philosophy)">Universality</a></li>
+<li><a href="/wiki/Weimar_Classicism" title="Weimar Classicism">Weimar Classicism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";">
+<div id="Thinkers" style="font-size:114%;margin:0 4em">Thinkers</div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">France</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Jean_le_Rond_d%27Alembert" title="Jean le Rond d'Alembert">Jean le Rond d'Alembert</a></li>
+<li><a href="/wiki/%C3%89tienne_Bonnot_de_Condillac" title="Étienne Bonnot de Condillac">Étienne Bonnot de Condillac</a></li>
+<li><a href="/wiki/Marquis_de_Condorcet" title="Marquis de Condorcet">Marquis de Condorcet</a></li>
+<li><a href="/wiki/Denis_Diderot" title="Denis Diderot">Denis Diderot</a></li>
+<li><a href="/wiki/Claude_Adrien_Helv%C3%A9tius" title="Claude Adrien Helvétius">Claude Adrien Helvétius</a></li>
+<li><a href="/wiki/Baron_d%27Holbach" title="Baron d'Holbach">Baron d'Holbach</a></li>
+<li><a href="/wiki/Georges-Louis_Leclerc,_Comte_de_Buffon" title="Georges-Louis Leclerc, Comte de Buffon">Georges-Louis Leclerc</a></li>
+<li><a href="/wiki/Montesquieu" title="Montesquieu">Montesquieu</a></li>
+<li><a href="/wiki/Fran%C3%A7ois_Quesnay" title="François Quesnay">François Quesnay</a></li>
+<li><a href="/wiki/Jean-Jacques_Rousseau" title="Jean-Jacques Rousseau">Jean-Jacques Rousseau</a></li>
+<li><a href="/wiki/Marquis_de_Sade" title="Marquis de Sade">Marquis de Sade</a></li>
+<li><a href="/wiki/Voltaire" title="Voltaire">Voltaire</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Germany</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Johann_Wolfgang_von_Goethe" title="Johann Wolfgang von Goethe">Johann Wolfgang von Goethe</a></li>
+<li><a href="/wiki/Johann_Georg_Hamann" title="Johann Georg Hamann">Johann Georg Hamann</a></li>
+<li><a href="/wiki/Johann_Gottfried_Herder" title="Johann Gottfried Herder">Johann Gottfried von Herder</a></li>
+<li><a href="/wiki/Friedrich_Heinrich_Jacobi" title="Friedrich Heinrich Jacobi">Friedrich Heinrich Jacobi</a></li>
+<li><a href="/wiki/Immanuel_Kant" title="Immanuel Kant">Immanuel Kant</a></li>
+<li><a href="/wiki/Gotthold_Ephraim_Lessing" title="Gotthold Ephraim Lessing">Gotthold Ephraim Lessing</a></li>
+<li><a href="/wiki/Moses_Mendelssohn" title="Moses Mendelssohn">Moses Mendelssohn</a></li>
+<li><a href="/wiki/Friedrich_Schiller" title="Friedrich Schiller">Friedrich Schiller</a></li>
+<li><a href="/wiki/Thomas_Wizenmann" title="Thomas Wizenmann">Thomas Wizenmann</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Modern_Greek_Enlightenment" title="Modern Greek Enlightenment">Greece</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Neophytos_Doukas" title="Neophytos Doukas">Neophytos Doukas</a></li>
+<li><a href="/wiki/Theoklitos_Farmakidis" title="Theoklitos Farmakidis">Theoklitos Farmakidis</a></li>
+<li><a href="/wiki/Rigas_Feraios" title="Rigas Feraios">Rigas Feraios</a></li>
+<li><a href="/wiki/Theophilos_Kairis" title="Theophilos Kairis">Theophilos Kairis</a></li>
+<li><a href="/wiki/Adamantios_Korais" title="Adamantios Korais">Adamantios Korais</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Ireland</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Robert_Boyle" title="Robert Boyle">Robert Boyle</a></li>
+<li><a href="/wiki/Edmund_Burke" title="Edmund Burke">Edmund Burke</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Italy</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cesare_Beccaria" title="Cesare Beccaria">Cesare Beccaria</a></li>
+<li><a href="/wiki/Gaetano_Filangieri" title="Gaetano Filangieri">Gaetano Filangieri</a></li>
+<li><a href="/wiki/Antonio_Genovesi" title="Antonio Genovesi">Antonio Genovesi</a></li>
+<li><a href="/wiki/Pietro_Verri" title="Pietro Verri">Pietro Verri</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Enlightenment_in_Poland" title="Enlightenment in Poland">Poland</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Tadeusz_Czacki" title="Tadeusz Czacki">Tadeusz Czacki</a></li>
+<li><a href="/wiki/Hugo_Ko%C5%82%C5%82%C4%85taj" title="Hugo Kołłątaj">Hugo Kołłątaj</a></li>
+<li><a href="/wiki/Stanis%C5%82aw_Konarski" title="Stanisław Konarski">Stanisław Konarski</a></li>
+<li><a href="/wiki/Ignacy_Krasicki" title="Ignacy Krasicki">Ignacy Krasicki</a></li>
+<li><a href="/wiki/Julian_Ursyn_Niemcewicz" title="Julian Ursyn Niemcewicz">Julian Ursyn Niemcewicz</a></li>
+<li><a href="/wiki/Stanis%C5%82aw_August_Poniatowski" title="Stanisław August Poniatowski">Stanisław August Poniatowski</a></li>
+<li><a href="/wiki/J%C4%99drzej_%C5%9Aniadecki" title="Jędrzej Śniadecki">Jędrzej Śniadecki</a></li>
+<li><a href="/wiki/Stanis%C5%82aw_Staszic" title="Stanisław Staszic">Stanisław Staszic</a></li>
+<li><a href="/wiki/J%C3%B3zef_Wybicki" title="Józef Wybicki">Józef Wybicki</a></li>
+<li><a href="/wiki/Andrzej_Stanis%C5%82aw_Za%C5%82uski" title="Andrzej Stanisław Załuski">Andrzej Stanisław Załuski</a></li>
+<li><a href="/wiki/J%C3%B3zef_Andrzej_Za%C5%82uski" title="Józef Andrzej Załuski">Józef Andrzej Załuski</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Portugal</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sebasti%C3%A3o_Jos%C3%A9_de_Carvalho_e_Melo,_1st_Marquis_of_Pombal" title="Sebastião José de Carvalho e Melo, 1st Marquis of Pombal">Sebastião José de Carvalho e Melo</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Russian_Enlightenment" title="Russian Enlightenment">Russia</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Catherine_the_Great" title="Catherine the Great">Catherine II</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Enlightenment_in_Spain" title="Enlightenment in Spain">Spain</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Charles_III_of_Spain" title="Charles III of Spain">Charles III</a></li>
+<li><a href="/wiki/Benito_Jer%C3%B3nimo_Feij%C3%B3o_y_Montenegro" title="Benito Jerónimo Feijóo y Montenegro">Benito Jerónimo Feijóo y Montenegro</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">United Kingdom<br />
+(<a href="/wiki/Scottish_Enlightenment" title="Scottish Enlightenment">Scotland</a>)</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Francis_Bacon" title="Francis Bacon">Francis Bacon</a></li>
+<li><a href="/wiki/Jeremy_Bentham" title="Jeremy Bentham">Jeremy Bentham</a></li>
+<li><a href="/wiki/Joseph_Black" title="Joseph Black">Joseph Black</a></li>
+<li><a href="/wiki/James_Boswell" title="James Boswell">James Boswell</a></li>
+<li><a href="/wiki/Adam_Ferguson" title="Adam Ferguson">Adam Ferguson</a></li>
+<li><a href="/wiki/Edward_Gibbon" title="Edward Gibbon">Edward Gibbon</a></li>
+<li><a href="/wiki/Robert_Hooke" title="Robert Hooke">Robert Hooke</a></li>
+<li><a href="/wiki/David_Hume" title="David Hume">David Hume</a></li>
+<li><a href="/wiki/Francis_Hutcheson_(philosopher)" title="Francis Hutcheson (philosopher)">Francis Hutcheson</a></li>
+<li><a href="/wiki/Samuel_Johnson" title="Samuel Johnson">Samuel Johnson</a></li>
+<li><a href="/wiki/John_Locke" title="John Locke">John Locke</a></li>
+<li><a href="/wiki/Isaac_Newton" title="Isaac Newton">Isaac Newton</a></li>
+<li><a href="/wiki/Thomas_Reid" title="Thomas Reid">Thomas Reid</a></li>
+<li><a href="/wiki/Adam_Smith" title="Adam Smith">Adam Smith</a></li>
+<li><a href="/wiki/Mary_Wollstonecraft" title="Mary Wollstonecraft">Mary Wollstonecraft</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/American_Enlightenment" title="American Enlightenment">United States</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Benjamin_Franklin" title="Benjamin Franklin">Benjamin Franklin</a></li>
+<li><a href="/wiki/Thomas_Jefferson" title="Thomas Jefferson">Thomas Jefferson</a></li>
+<li><a href="/wiki/James_Madison" title="James Madison">James Madison</a></li>
+<li><a href="/wiki/George_Mason" title="George Mason">George Mason</a></li>
+<li><a href="/wiki/Thomas_Paine" title="Thomas Paine">Thomas Paine</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/27111748">WorldCat Identities</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/27111748">27111748</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n50022639">n50022639</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000106534917">0000 0001 0653 4917</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/117242632">117242632</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.idref.fr/030501229">030501229</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb12190283j">cb12190283j</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb12190283j">(data)</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.ndl.go.jp/auth/ndlna/00457709">00457709</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Biblioteca_Nacional_de_Espa%C3%B1a" title="Biblioteca Nacional de España">BNE</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogo.bne.es/uhtbin/authoritybrowse.cgi?action=display&amp;authority_id=XX1446626">XX1446626</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Institute_for_Advanced_Technology_in_the_Humanities" title="Institute for Advanced Technology in the Humanities">IATH</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://socialarchive.iath.virginia.edu/ark:/99166/w6nz8kbx">w6nz8kbx</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1261
+Cached time: 20171017141956
+Cache expiry: 86400
+Dynamic content: true
+CPU time usage: 0.392 seconds
+Real time usage: 0.522 seconds
+Preprocessor visited node count: 3564/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 88488/2097152 bytes
+Template argument size: 9874/2097152 bytes
+Highest expansion depth: 19/40
+Expensive parser function count: 8/500
+Lua time usage: 0.146/10.000 seconds
+Lua memory usage: 4.84 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  468.355      1 -total
+ 30.15%  141.230      1 Template:Infobox_philosopher
+ 28.80%  134.886      1 Template:Infobox_person
+ 23.43%  109.752      2 Template:Infobox
+ 19.02%   89.074      1 Template:Reflist
+ 13.29%   62.262      1 Template:Age_of_Enlightenment
+ 12.68%   59.386      1 Template:Navbox_with_collapsible_groups
+ 12.61%   59.060      1 Template:EB1911
+ 10.71%   50.165      1 Template:Cite_EB1911
+  8.62%   40.386      1 Template:Cite_encyclopedia
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:174717-0!canonical and timestamp 20171017141955 and revision id 800594878
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Dugald_Stewart&amp;oldid=800594878">https://en.wikipedia.org/w/index.php?title=Dugald_Stewart&amp;oldid=800594878</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1753_births" title="Category:1753 births">1753 births</a></li><li><a href="/wiki/Category:1828_deaths" title="Category:1828 deaths">1828 deaths</a></li><li><a href="/wiki/Category:18th-century_philosophers" title="Category:18th-century philosophers">18th-century philosophers</a></li><li><a href="/wiki/Category:18th-century_Scottish_people" title="Category:18th-century Scottish people">18th-century Scottish people</a></li><li><a href="/wiki/Category:People_from_Edinburgh" title="Category:People from Edinburgh">People from Edinburgh</a></li><li><a href="/wiki/Category:People_educated_at_the_Royal_High_School,_Edinburgh" title="Category:People educated at the Royal High School, Edinburgh">People educated at the Royal High School, Edinburgh</a></li><li><a href="/wiki/Category:Alumni_of_the_University_of_Edinburgh" title="Category:Alumni of the University of Edinburgh">Alumni of the University of Edinburgh</a></li><li><a href="/wiki/Category:Academics_of_the_University_of_Edinburgh" title="Category:Academics of the University of Edinburgh">Academics of the University of Edinburgh</a></li><li><a href="/wiki/Category:Burials_at_the_Kirk_of_the_Canongate" title="Category:Burials at the Kirk of the Canongate">Burials at the Kirk of the Canongate</a></li><li><a href="/wiki/Category:Enlightenment_philosophers" title="Category:Enlightenment philosophers">Enlightenment philosophers</a></li><li><a href="/wiki/Category:Founder_Fellows_of_the_Royal_Society_of_Edinburgh" title="Category:Founder Fellows of the Royal Society of Edinburgh">Founder Fellows of the Royal Society of Edinburgh</a></li><li><a href="/wiki/Category:Fellows_of_the_American_Academy_of_Arts_and_Sciences" title="Category:Fellows of the American Academy of Arts and Sciences">Fellows of the American Academy of Arts and Sciences</a></li><li><a href="/wiki/Category:Fellows_of_the_Royal_Society" title="Category:Fellows of the Royal Society">Fellows of the Royal Society</a></li><li><a href="/wiki/Category:Historians_of_Scotland" title="Category:Historians of Scotland">Historians of Scotland</a></li><li><a href="/wiki/Category:Members_of_the_Philosophical_Society_of_Edinburgh" title="Category:Members of the Philosophical Society of Edinburgh">Members of the Philosophical Society of Edinburgh</a></li><li><a href="/wiki/Category:Scottish_historians" title="Category:Scottish historians">Scottish historians</a></li><li><a href="/wiki/Category:Scottish_mathematicians" title="Category:Scottish mathematicians">Scottish mathematicians</a></li><li><a href="/wiki/Category:Scottish_philosophers" title="Category:Scottish philosophers">Scottish philosophers</a></li><li><a href="/wiki/Category:18th-century_British_mathematicians" title="Category:18th-century British mathematicians">18th-century British mathematicians</a></li><li><a href="/wiki/Category:Moral_philosophers" title="Category:Moral philosophers">Moral philosophers</a></li><li><a href="/wiki/Category:Political_philosophers" title="Category:Political philosophers">Political philosophers</a></li><li><a href="/wiki/Category:19th-century_British_mathematicians" title="Category:19th-century British mathematicians">19th-century British mathematicians</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_articles_incorporating_a_citation_from_the_1911_Encyclopaedia_Britannica_with_Wikisource_reference" title="Category:Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference">Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference</a></li><li><a href="/wiki/Category:Wikipedia_articles_incorporating_text_from_the_1911_Encyclop%C3%A6dia_Britannica" title="Category:Wikipedia articles incorporating text from the 1911 Encyclopædia Britannica">Wikipedia articles incorporating text from the 1911 Encyclopædia Britannica</a></li><li><a href="/wiki/Category:EngvarB_from_August_2014" title="Category:EngvarB from August 2014">EngvarB from August 2014</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_August_2014" title="Category:Use dmy dates from August 2014">Use dmy dates from August 2014</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Articles_containing_French-language_text" title="Category:Articles containing French-language text">Articles containing French-language text</a></li><li><a href="/wiki/Category:Articles_containing_Hebrew-language_text" title="Category:Articles containing Hebrew-language text">Articles containing Hebrew-language text</a></li><li><a href="/wiki/Category:Articles_containing_Latin-language_text" title="Category:Articles containing Latin-language text">Articles containing Latin-language text</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_SNAC-ID_identifiers" title="Category:Wikipedia articles with SNAC-ID identifiers">Wikipedia articles with SNAC-ID identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Dugald+Stewart" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Dugald+Stewart" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Dugald_Stewart" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Dugald_Stewart" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Dugald_Stewart">Read</a></span></li>
+							<li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Dugald_Stewart&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Dugald_Stewart&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Dugald_Stewart" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Dugald_Stewart" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Dugald_Stewart&amp;oldid=800594878" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Dugald_Stewart&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q218254" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Dugald_Stewart&amp;id=800594878" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Dugald+Stewart">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Dugald+Stewart&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Dugald_Stewart&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Dugald_Stewart" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikiquote"><a href="https://en.wikiquote.org/wiki/Dugald_Stewart" hreflang="en">Wikiquote</a></li><li class="wb-otherproject-link wb-otherproject-wikisource"><a href="https://en.wikisource.org/wiki/Author:Dugald_Stewart" hreflang="en">Wikisource</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Dugald_Stewart" title="Dugald Stewart – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Dugald_Stewart" title="Dugald Stewart – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Dugald_Stewart_(Philosoph)" title="Dugald Stewart (Philosoph) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%AF%D9%88%DA%AF%D8%A7%D9%84%D8%AF_%D8%A7%D8%B3%D8%AA%D9%88%D8%A7%D8%B1%D8%AA" title="دوگالد استوارت – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Dugald_Stewart" title="Dugald Stewart – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Dugald_Stewart" title="Dugald Stewart – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Dugald_Stewart" title="Dugald Stewart – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Dugald_Stewart" title="Dugald Stewart – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Dugald_Stewart" title="Dugald Stewart – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D1%8E%D0%B0%D1%80%D1%82,_%D0%94%D1%83%D0%B3%D0%B0%D0%BB%D0%B4" title="Стюарт, Дугалд – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Dugald_Stewart" title="Dugald Stewart – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Dugald_Stewart" title="Dugald Stewart – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Dugald_Stewart" title="Dugald Stewart – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q218254#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 14 September 2017, at 14:22.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Dugald_Stewart&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.392","walltime":"0.522","ppvisitednodes":{"value":3564,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":88488,"limit":2097152},"templateargumentsize":{"value":9874,"limit":2097152},"expansiondepth":{"value":19,"limit":40},"expensivefunctioncount":{"value":8,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  468.355      1 -total"," 30.15%  141.230      1 Template:Infobox_philosopher"," 28.80%  134.886      1 Template:Infobox_person"," 23.43%  109.752      2 Template:Infobox"," 19.02%   89.074      1 Template:Reflist"," 13.29%   62.262      1 Template:Age_of_Enlightenment"," 12.68%   59.386      1 Template:Navbox_with_collapsible_groups"," 12.61%   59.060      1 Template:EB1911"," 10.71%   50.165      1 Template:Cite_EB1911","  8.62%   40.386      1 Template:Cite_encyclopedia"]},"scribunto":{"limitreport-timeusage":{"value":"0.146","limit":"10.000"},"limitreport-memusage":{"value":5071965,"limit":52428800}},"cachereport":{"origin":"mw1261","timestamp":"20171017141956","ttl":86400,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":70,"wgHostname":"mw1245"});});</script>
+	</body>
+</html>

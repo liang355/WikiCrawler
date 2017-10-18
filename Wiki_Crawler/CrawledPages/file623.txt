@@ -1,0 +1,623 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Sever Hall - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Sever_Hall","wgTitle":"Sever Hall","wgCurRevisionId":798128000,"wgRevisionId":798128000,"wgArticleId":10410693,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Coordinates on Wikidata","All articles with unsourced statements","Articles with unsourced statements from January 2010","Wikipedia references cleanup from January 2010","All articles needing references cleanup","Articles covered by WikiProject Wikify from January 2010","All articles covered by WikiProject Wikify","Harvard University buildings","National Historic Landmarks in Cambridge, Massachusetts","Henry Hobson Richardson buildings","Richardsonian Romanesque architecture in Massachusetts","Harvard Square","Historic district contributing properties in Massachusetts","National Register of Historic Places in Cambridge, Massachusetts"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Sever_Hall","wgRelevantArticleId":10410693,"wgRequestId":"WeTb2QpAICoAACWY1UAAAAAJ","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCoordinates":{"lat":42.374361111111,"lon":-71.115472222222},"wgWikibaseItemId":"Q7457805","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.3"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Sever_Hall_%28Harvard_University%29_-_east_facade.JPG/1200px-Sever_Hall_%28Harvard_University%29_-_east_facade.JPG"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Sever_Hall"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Sever_Hall&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Sever_Hall&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Sever_Hall"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Sever_Hall rootpage-Sever_Hall vector-experimental-print-styles vector-nav-directionality skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Sever Hall</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox" style="width:22em;width:250px; border-spacing:1px;">
+<tr>
+<td colspan="2" style="text-align:center;padding:0; border:none;"></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center">
+<div style="width:100%; font-size:105%; font-weight:bold; background: #A8EDEF; line-height:1.5">Sever Hall, Harvard University</div>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center">
+<div style="width:100%; text-align:center; line-height:1.5; background: #A8EDEF;"><a href="/wiki/National_Register_of_Historic_Places" title="National Register of Historic Places">U.S. National Register of Historic Places</a></div>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center">
+<div style="width:100%; text-align:center; line-height:1.4; background: #87CEEB"><a href="/wiki/National_Historic_Landmark" title="National Historic Landmark">U.S. National Historic Landmark</a></div>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center">
+<div style="width:100%; text-align:center; line-height:1.5; background: #CCFFCC"><a href="/wiki/Historic_districts_in_the_United_States" title="Historic districts in the United States">U.S. Historic district</a><br />
+<a href="/wiki/Contributing_property" title="Contributing property">Contributing property</a></div>
+</td>
+</tr>
+<tr style="display:none">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Sever_Hall_(Harvard_University)_-_east_facade.JPG" class="image"><img alt="Sever Hall (Harvard University) - east facade.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Sever_Hall_%28Harvard_University%29_-_east_facade.JPG/250px-Sever_Hall_%28Harvard_University%29_-_east_facade.JPG" width="250" height="188" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Sever_Hall_%28Harvard_University%29_-_east_facade.JPG/375px-Sever_Hall_%28Harvard_University%29_-_east_facade.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Sever_Hall_%28Harvard_University%29_-_east_facade.JPG/500px-Sever_Hall_%28Harvard_University%29_-_east_facade.JPG 2x" data-file-width="2560" data-file-height="1920" /></a>
+<div style="font-size:95%;">Sever Hall, east facade.</div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="font-weight:bold; border: 0;">Location</th>
+<td style="border: 0;"><a href="/wiki/Cambridge,_Massachusetts" title="Cambridge, Massachusetts">Cambridge, Massachusetts</a></td>
+</tr>
+<tr>
+<th scope="row" style="font-weight:bold; border: 0;">Coordinates</th>
+<td style="border: 0;"><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Sever_Hall&amp;params=42_22_27.7_N_71_06_55.7_W_type:landmark_region:US"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">42°22′27.7″N</span> <span class="longitude">71°06′55.7″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">42.374361°N 71.115472°W</span><span style="display:none">﻿ / <span class="geo">42.374361; -71.115472</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Sever_Hall&amp;params=42_22_27.7_N_71_06_55.7_W_type:landmark_region:US"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">42°22′27.7″N</span> <span class="longitude">71°06′55.7″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">42.374361°N 71.115472°W</span><span style="display:none">﻿ / <span class="geo">42.374361; -71.115472</span></span></span></a></span></span></span></td>
+</tr>
+<tr>
+<th scope="row" style="font-weight:bold; border: 0;">Built</th>
+<td style="border: 0;">1878</td>
+</tr>
+<tr>
+<th scope="row" style="font-weight:bold; border: 0;">Architect</th>
+<td style="border: 0;"><a href="/wiki/Henry_Hobson_Richardson" title="Henry Hobson Richardson">Henry Hobson Richardson</a></td>
+</tr>
+<tr>
+<th scope="row" style="font-weight:bold; border: 0;">Architectural&#160;style</th>
+<td style="border: 0;">Other, Romanesque</td>
+</tr>
+<tr>
+<th scope="row" style="font-weight:bold; border: 0;">Part of</th>
+<td style="border: 0;"><a href="/wiki/Old_Harvard_Yard" class="mw-redirect" title="Old Harvard Yard">Harvard Yard Historic District</a> (<a rel="nofollow" class="external text" href="https://npgallery.nps.gov/AssetDetail/NRIS/87002137">#87002137</a>)</td>
+</tr>
+<tr>
+<th scope="row" style="font-weight:bold; border: 0;">NRHP&#160;reference&#160;#</th>
+<td style="border: 0;"><a rel="nofollow" class="external text" href="https://npgallery.nps.gov/AssetDetail/NRIS/70000732">70000732</a> <sup id="cite_ref-nris_1-0" class="reference"><a href="#cite_note-nris-1">[1]</a></sup></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background: #A8EDEF">Significant dates</th>
+</tr>
+<tr>
+<th scope="row" style="font-weight:bold; border: 0;">Added to NRHP</th>
+<td style="border: 0;">December 30, 1970</td>
+</tr>
+<tr>
+<th scope="row" style="font-weight:bold; border: 0;">Designated&#160;NHL</th>
+<td style="border: 0;">December 30, 1970</td>
+</tr>
+<tr>
+<th scope="row" style="font-weight:bold; border: 0;">Designated&#160;CP</th>
+<td style="border: 0;">December 14, 1987</td>
+</tr>
+</table>
+<p><b>Sever Hall</b> is a notable building designed by famed American architect <a href="/wiki/Henry_Hobson_Richardson" title="Henry Hobson Richardson">H. H. Richardson</a> and built in the late 1870s. It is located on the grounds of <a href="/wiki/Harvard_University" title="Harvard University">Harvard University</a> in <a href="/wiki/Cambridge,_Massachusetts" title="Cambridge, Massachusetts">Cambridge, Massachusetts</a>, within <a href="/wiki/Harvard_Yard" title="Harvard Yard">Harvard Yard</a>. It was designated a <a href="/wiki/National_Historic_Landmark" title="National Historic Landmark">National Historic Landmark</a> in 1970, recognized as one of Richardson's mature masterpieces.<sup id="cite_ref-nhl_2-0" class="reference"><a href="#cite_note-nhl-2">[2]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Usage"><span class="tocnumber">2</span> <span class="toctext">Usage</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Gallery"><span class="tocnumber">3</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Bibliography"><span class="tocnumber">5</span> <span class="toctext">Bibliography</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sever_Hall&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Sever Hall was built from 1878 to 1880 with a gift from Anne Sever in honor of her deceased husband, James Warren Sever. It was designed as an academic building with classrooms, lecture halls, rooms for professors, etc., in a style now known as <a href="/wiki/Richardsonian_Romanesque" title="Richardsonian Romanesque">Richardsonian Romanesque</a> though in red brick rather than stone.</p>
+<p>The building is 176 feet and 4&#160;inches long, by 74 feet and 4&#160;inches wide, with a height to <a href="/wiki/Cornice" title="Cornice">cornice</a> of about 50 feet, above which the hipped roof rises a further 30 feet. It is three stories tall, with a fourth story set within the roof. The main facade (west side) features two round bays set symmetrically about an entrance within a deeply recessed semi-circular archway. The east facade is similar but with a simpler, rectangular entrance. North and south facades are relatively austere expanses punctuated with windows.</p>
+<p>About 1.3 million <a href="/wiki/Brick" title="Brick">bricks</a> were used in its construction. Of these, some 100,000 form the exterior facades, which feature 60 different varieties of red molded brick, as well as elaborate brick carvings. <a href="/w/index.php?title=Blood_mortar&amp;action=edit&amp;redlink=1" class="new" title="Blood mortar (page does not exist)">Blood mortar</a> was used as a joiner originally, though <a href="/w/index.php?title=Polybond&amp;action=edit&amp;redlink=1" class="new" title="Polybond (page does not exist)">polybond</a> compounds have been used in restoration efforts since 1967.</p>
+<p>The archway admitting entrance into the west facade possesses an acoustical oddity. Whispering directly into the bricks of the archway, while standing very close to one side of the arch, can be heard clearly on the other side of the arch (approximately twelve feet away).</p>
+<p>In recent years, there has been renewed interest in Sever Hall among architectural historians,<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2010)">citation needed</span></a></i>]</sup> due to <a href="/wiki/Robert_Venturi" title="Robert Venturi">Robert Venturi</a>'s comment that it is his "favorite building in America."<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> He told <i><a href="/wiki/Boston_Globe" class="mw-redirect" title="Boston Globe">Boston Globe</a></i> critic <a href="/wiki/Robert_Campbell_(journalist)" title="Robert Campbell (journalist)">Robert Campbell</a>: "I have come to understand the validity of architecture as generic shelter rather than abstract-expressive sculpture, and as flexible loft for accommodating evolving functions. ... And then I love Sever Hall also for its aesthetic tension deriving from its vital details. I could stand and look at it all day. Thank you, H.H. Richardson."<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<h2><span class="mw-headline" id="Usage">Usage</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sever_Hall&amp;action=edit&amp;section=2" title="Edit section: Usage">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Sever has small classrooms and larger lecture halls, so it is mostly used as a general-purpose classroom building for humanities courses especially small sections, beginning language courses, and <a href="/wiki/Harvard_Extension_School" title="Harvard Extension School">Harvard Extension School</a> classes. <a href="/wiki/Grossman_Library" title="Grossman Library">Grossman Library</a>, a non-circulating library serving Extension School students, is located on the third floor. The fourth floor of Sever, unnoticed by many of its students as the central stairwell does not lead to it, contains offices for Harvard's <a href="/wiki/Harvard_College#Concentrations" title="Harvard College">Visual and Environmental Studies</a> department. In the evenings and on weekends student groups hold meetings or run annual events. One of Sever's notable annual events is <a href="/wiki/Vericon" title="Vericon">Vericon</a>, run during the break between semesters by the <a href="/wiki/HRSFA" class="mw-redirect" title="HRSFA">Harvard-Radcliffe Science-Fiction Association</a>.</p>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sever_Hall&amp;action=edit&amp;section=3" title="Edit section: Gallery">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Sever_Hall_(Harvard_University)_-_east_facade_entry.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Sever_Hall_%28Harvard_University%29_-_east_facade_entry.JPG/90px-Sever_Hall_%28Harvard_University%29_-_east_facade_entry.JPG" width="90" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Sever_Hall_%28Harvard_University%29_-_east_facade_entry.JPG/135px-Sever_Hall_%28Harvard_University%29_-_east_facade_entry.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/46/Sever_Hall_%28Harvard_University%29_-_east_facade_entry.JPG/180px-Sever_Hall_%28Harvard_University%29_-_east_facade_entry.JPG 2x" data-file-width="1920" data-file-height="2560" /></a></div>
+</div>
+<div class="gallerytext">
+<p>East facade entrance.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Sever_Hall_(Harvard_University)_-_west_facade.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Sever_Hall_%28Harvard_University%29_-_west_facade.JPG/120px-Sever_Hall_%28Harvard_University%29_-_west_facade.JPG" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Sever_Hall_%28Harvard_University%29_-_west_facade.JPG/180px-Sever_Hall_%28Harvard_University%29_-_west_facade.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Sever_Hall_%28Harvard_University%29_-_west_facade.JPG/240px-Sever_Hall_%28Harvard_University%29_-_west_facade.JPG 2x" data-file-width="2560" data-file-height="1920" /></a></div>
+</div>
+<div class="gallerytext">
+<p>West facade</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Sever_Hall_(Harvard_University)_-_west_facade_entry.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Sever_Hall_%28Harvard_University%29_-_west_facade_entry.JPG/90px-Sever_Hall_%28Harvard_University%29_-_west_facade_entry.JPG" width="90" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Sever_Hall_%28Harvard_University%29_-_west_facade_entry.JPG/135px-Sever_Hall_%28Harvard_University%29_-_west_facade_entry.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/17/Sever_Hall_%28Harvard_University%29_-_west_facade_entry.JPG/180px-Sever_Hall_%28Harvard_University%29_-_west_facade_entry.JPG 2x" data-file-width="1920" data-file-height="2560" /></a></div>
+</div>
+<div class="gallerytext">
+<p>West facade entrance</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:39.5px auto;"><a href="/wiki/File:Sever_Hall.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Sever_Hall.jpg/120px-Sever_Hall.jpg" width="120" height="71" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Sever_Hall.jpg/180px-Sever_Hall.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Sever_Hall.jpg/240px-Sever_Hall.jpg 2x" data-file-width="2000" data-file-height="1179" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Sever Hall west facade</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:35px auto;"><a href="/wiki/File:Sever_Hall,_west_side_entrance.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Sever_Hall%2C_west_side_entrance.jpg/120px-Sever_Hall%2C_west_side_entrance.jpg" width="120" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Sever_Hall%2C_west_side_entrance.jpg/180px-Sever_Hall%2C_west_side_entrance.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Sever_Hall%2C_west_side_entrance.jpg/240px-Sever_Hall%2C_west_side_entrance.jpg 2x" data-file-width="2000" data-file-height="1333" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Detail of west side entrance</p>
+</div>
+</div>
+</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sever_Hall&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/List_of_National_Historic_Landmarks_in_Massachusetts" title="List of National Historic Landmarks in Massachusetts">List of National Historic Landmarks in Massachusetts</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Cambridge,_Massachusetts" title="National Register of Historic Places listings in Cambridge, Massachusetts">National Register of Historic Places listings in Cambridge, Massachusetts</a></li>
+</ul>
+<h2><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sever_Hall&amp;action=edit&amp;section=5" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Sever_Hall" class="extiw" title="commons:Category:Sever Hall">Sever Hall</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li>Moses King, <a rel="nofollow" class="external text" href="https://books.google.com/books?id=LO8fAAAAYAAJ&amp;printsec=frontcover"><i>The Harvard Register</i></a>, Harvard University, 1880, page 35.</li>
+<li>Roger H. Clark and Michael Pause, <i>Precedents in Architecture</i>, New York: Van Nostrand Reinhold, 1985. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-442-21668-8" title="Special:BookSources/0-442-21668-8">0-442-21668-8</a>.</li>
+<li>Jeffrey Karl Ochsner, <i>H. H. Richardson, Complete Architectural Works</i>, Cambridge, Massachusetts: MIT Press, 1982.</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sever_Hall&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox ambox-style ambox-citation_style" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48" /></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This article <b>has an unclear citation style</b>. <span class="hide-when-compact">The references used may be made clearer with a different or consistent style of <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">citation</a>, <a href="/wiki/Help:Footnotes" title="Help:Footnotes">footnoting</a>, or <a href="/wiki/Wikipedia:External_links" title="Wikipedia:External links">external linking</a>.</span> <small><i>(January 2010)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-nris-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-nris_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a href="/wiki/National_Park_Service" title="National Park Service">National Park Service</a> (2007-01-23). <a rel="nofollow" class="external text" href="http://nrhp.focus.nps.gov/natreg/docs/All_Data.html">"National Register Information System"</a>. <i>National Register of Historic Places</i>. National Park Service.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASever+Hall&amp;rft.atitle=National+Register+Information+System&amp;rft.au=National+Park+Service&amp;rft.date=2007-01-23&amp;rft.genre=unknown&amp;rft.jtitle=National+Register+of+Historic+Places&amp;rft_id=http%3A%2F%2Fnrhp.focus.nps.gov%2Fnatreg%2Fdocs%2FAll_Data.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-nhl-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-nhl_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://focus.nps.gov/pdfhost/docs/NHLS/Text/70000732.pdf">"NHL nomination for Sever Hall, Harvard University"</a> <span style="font-size:85%;">(PDF)</span>. National Park Service<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-02-28</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASever+Hall&amp;rft.btitle=NHL+nomination+for+Sever+Hall%2C+Harvard+University&amp;rft.genre=unknown&amp;rft.pub=National+Park+Service&amp;rft_id=http%3A%2F%2Ffocus.nps.gov%2Fpdfhost%2Fdocs%2FNHLS%2FText%2F70000732.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation book">Venturi, Robert; Denise Scott Brown (2004). <i>Architecture as Signs and Systems: For a Mannerist Time</i>. Belknap Press. p.&#160;36. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-674-01571-1" title="Special:BookSources/0-674-01571-1">0-674-01571-1</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASever+Hall&amp;rft.au=Denise+Scott+Brown&amp;rft.aufirst=Robert&amp;rft.aulast=Venturi&amp;rft.btitle=Architecture+as+Signs+and+Systems%3A+For+a+Mannerist+Time&amp;rft.date=2004&amp;rft.genre=book&amp;rft.isbn=0-674-01571-1&amp;rft.pages=36&amp;rft.pub=Belknap+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation news">Campbell, Robert (November 28, 2004). <a rel="nofollow" class="external text" href="http://www.boston.com/ae/theater_arts/articles/2004/11/28/is_harvard_hall_the_best_us_building/">"Is Harvard hall the best US building?"</a>. <i>Boston Globe</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASever+Hall&amp;rft.atitle=Is+Harvard+hall+the+best+US+building%3F&amp;rft.aufirst=Robert&amp;rft.aulast=Campbell&amp;rft.date=2004-11-28&amp;rft.genre=article&amp;rft.jtitle=Boston+Globe&amp;rft_id=http%3A%2F%2Fwww.boston.com%2Fae%2Ftheater_arts%2Farticles%2F2004%2F11%2F28%2Fis_harvard_hall_the_best_us_building%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="U.S._National_Register_of_Historic_Places_in_Massachusetts" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3" style="background-color:#A8EDEF">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:National_Register_of_Historic_Places_in_Massachusetts" title="Template:National Register of Historic Places in Massachusetts"><abbr title="View this template" style="background-color:#A8EDEF;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:National_Register_of_Historic_Places_in_Massachusetts" title="Template talk:National Register of Historic Places in Massachusetts"><abbr title="Discuss this template" style="background-color:#A8EDEF;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:National_Register_of_Historic_Places_in_Massachusetts&amp;action=edit"><abbr title="Edit this template" style="background-color:#A8EDEF;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="U.S._National_Register_of_Historic_Places_in_Massachusetts" style="font-size:114%;margin:0 4em"><a href="/wiki/National_Register_of_Historic_Places_listings_in_Massachusetts" title="National Register of Historic Places listings in Massachusetts">U.S. National Register of Historic Places in Massachusetts</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A8EDEF;width:1%">Topics</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Contributing_property" title="Contributing property">Contributing property</a></li>
+<li><a href="/wiki/Keeper_of_the_Register" title="Keeper of the Register">Keeper of the Register</a></li>
+<li><a href="/wiki/Historic_districts_in_the_United_States" title="Historic districts in the United States">Historic district</a></li>
+<li><a href="/wiki/History_of_the_National_Register_of_Historic_Places" title="History of the National Register of Historic Places">History of the National Register of Historic Places</a></li>
+<li><a href="/wiki/National_Park_Service" title="National Park Service">National Park Service</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_property_types" title="National Register of Historic Places property types">Property types</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="4" style="width:1px;padding:0px 0px 0px 2px">
+<div><img alt="Map of the United States with Massachusetts highlighted" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Map_of_USA_MA.svg/100px-Map_of_USA_MA.svg.png" width="100" height="65" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Map_of_USA_MA.svg/151px-Map_of_USA_MA.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Map_of_USA_MA.svg/200px-Map_of_USA_MA.svg.png 2x" data-file-width="286" data-file-height="186" /></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A8EDEF;width:1%">Lists by county</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Barnstable_County,_Massachusetts" title="National Register of Historic Places listings in Barnstable County, Massachusetts">Barnstable</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Berkshire_County,_Massachusetts" title="National Register of Historic Places listings in Berkshire County, Massachusetts">Berkshire</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Bristol_County,_Massachusetts" title="National Register of Historic Places listings in Bristol County, Massachusetts">Bristol</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Dukes_County,_Massachusetts" title="National Register of Historic Places listings in Dukes County, Massachusetts">Dukes</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Essex_County,_Massachusetts" title="National Register of Historic Places listings in Essex County, Massachusetts">Essex</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Franklin_County,_Massachusetts" title="National Register of Historic Places listings in Franklin County, Massachusetts">Franklin</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Hampden_County,_Massachusetts" title="National Register of Historic Places listings in Hampden County, Massachusetts">Hampden</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Hampshire_County,_Massachusetts" title="National Register of Historic Places listings in Hampshire County, Massachusetts">Hampshire</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Middlesex_County,_Massachusetts" title="National Register of Historic Places listings in Middlesex County, Massachusetts">Middlesex</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Nantucket_County,_Massachusetts" title="National Register of Historic Places listings in Nantucket County, Massachusetts">Nantucket</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Norfolk_County,_Massachusetts" title="National Register of Historic Places listings in Norfolk County, Massachusetts">Norfolk</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Plymouth_County,_Massachusetts" title="National Register of Historic Places listings in Plymouth County, Massachusetts">Plymouth</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Suffolk_County,_Massachusetts" title="National Register of Historic Places listings in Suffolk County, Massachusetts">Suffolk</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Worcester_County,_Massachusetts" title="National Register of Historic Places listings in Worcester County, Massachusetts">Worcester</a> (<a href="/wiki/National_Register_of_Historic_Places_listings_in_northern_Worcester_County,_Massachusetts" title="National Register of Historic Places listings in northern Worcester County, Massachusetts">northern</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A8EDEF;width:1%">Lists by city</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;background-color:#A8EDEF">Barnstable County</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Barnstable,_Massachusetts" title="National Register of Historic Places listings in Barnstable, Massachusetts">Barnstable</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Harwich,_Massachusetts" title="National Register of Historic Places listings in Harwich, Massachusetts">Harwich</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;background-color:#A8EDEF">Bristol County</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Fall_River,_Massachusetts" title="National Register of Historic Places listings in Fall River, Massachusetts">Fall River</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_New_Bedford,_Massachusetts" title="National Register of Historic Places listings in New Bedford, Massachusetts">New Bedford</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Taunton,_Massachusetts" title="National Register of Historic Places listings in Taunton, Massachusetts">Taunton</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;background-color:#A8EDEF">Essex County</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Andover,_Massachusetts" title="National Register of Historic Places listings in Andover, Massachusetts">Andover</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Gloucester,_Massachusetts" title="National Register of Historic Places listings in Gloucester, Massachusetts">Gloucester</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Ipswich,_Massachusetts" title="National Register of Historic Places listings in Ipswich, Massachusetts">Ipswich</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Lawrence,_Massachusetts" title="National Register of Historic Places listings in Lawrence, Massachusetts">Lawrence</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Lynn,_Massachusetts" title="National Register of Historic Places listings in Lynn, Massachusetts">Lynn</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Methuen,_Massachusetts" title="National Register of Historic Places listings in Methuen, Massachusetts">Methuen</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Salem,_Massachusetts" title="National Register of Historic Places listings in Salem, Massachusetts">Salem</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;background-color:#A8EDEF">Hampden County</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Springfield,_Massachusetts" title="National Register of Historic Places listings in Springfield, Massachusetts">Springfield</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;background-color:#A8EDEF">Middlesex County</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Arlington,_Massachusetts" title="National Register of Historic Places listings in Arlington, Massachusetts">Arlington</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Cambridge,_Massachusetts" title="National Register of Historic Places listings in Cambridge, Massachusetts">Cambridge</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Concord,_Massachusetts" title="National Register of Historic Places listings in Concord, Massachusetts">Concord</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Framingham,_Massachusetts" title="National Register of Historic Places listings in Framingham, Massachusetts">Framingham</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Lexington,_Massachusetts" title="National Register of Historic Places listings in Lexington, Massachusetts">Lexington</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Lowell,_Massachusetts" title="National Register of Historic Places listings in Lowell, Massachusetts">Lowell</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Marlborough,_Massachusetts" title="National Register of Historic Places listings in Marlborough, Massachusetts">Marlborough</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Medford,_Massachusetts" title="National Register of Historic Places listings in Medford, Massachusetts">Medford</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Newton,_Massachusetts" title="National Register of Historic Places listings in Newton, Massachusetts">Newton</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Reading,_Massachusetts" title="National Register of Historic Places listings in Reading, Massachusetts">Reading</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Sherborn,_Massachusetts" title="National Register of Historic Places listings in Sherborn, Massachusetts">Sherborn</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Somerville,_Massachusetts" title="National Register of Historic Places listings in Somerville, Massachusetts">Somerville</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Stoneham,_Massachusetts" title="National Register of Historic Places listings in Stoneham, Massachusetts">Stoneham</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Wakefield,_Massachusetts" title="National Register of Historic Places listings in Wakefield, Massachusetts">Wakefield</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Waltham,_Massachusetts" title="National Register of Historic Places listings in Waltham, Massachusetts">Waltham</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Weston,_Massachusetts" title="National Register of Historic Places listings in Weston, Massachusetts">Weston</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Winchester,_Massachusetts" title="National Register of Historic Places listings in Winchester, Massachusetts">Winchester</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;background-color:#A8EDEF">Norfolk County</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Brookline,_Massachusetts" title="National Register of Historic Places listings in Brookline, Massachusetts">Brookline</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Milton,_Massachusetts" title="National Register of Historic Places listings in Milton, Massachusetts">Milton</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Quincy,_Massachusetts" title="National Register of Historic Places listings in Quincy, Massachusetts">Quincy</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;background-color:#A8EDEF">Suffolk County</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Boston" title="National Register of Historic Places listings in Boston">Boston</a>
+<ul>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_northern_Boston" title="National Register of Historic Places listings in northern Boston">northern</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_southern_Boston" title="National Register of Historic Places listings in southern Boston">southern</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;background-color:#A8EDEF">Worcester County</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Southbridge,_Massachusetts" title="National Register of Historic Places listings in Southbridge, Massachusetts">Southbridge</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Uxbridge,_Massachusetts" title="National Register of Historic Places listings in Uxbridge, Massachusetts">Uxbridge</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Worcester,_Massachusetts" title="National Register of Historic Places listings in Worcester, Massachusetts">Worcester</a>
+<ul>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_eastern_Worcester,_Massachusetts" title="National Register of Historic Places listings in eastern Worcester, Massachusetts">eastern</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_northwestern_Worcester,_Massachusetts" title="National Register of Historic Places listings in northwestern Worcester, Massachusetts">northwestern</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_southwestern_Worcester,_Massachusetts" title="National Register of Historic Places listings in southwestern Worcester, Massachusetts">southwestern</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A8EDEF;width:1%">Other lists</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_bridges_on_the_National_Register_of_Historic_Places_in_Massachusetts" title="List of bridges on the National Register of Historic Places in Massachusetts">Bridges</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Cape_Cod_National_Seashore" title="National Register of Historic Places listings in Cape Cod National Seashore">Cape Cod National Seashore</a></li>
+<li><a href="/wiki/List_of_National_Historic_Landmarks_in_Massachusetts" title="List of National Historic Landmarks in Massachusetts">National Historic Landmarks</a>
+<ul>
+<li><a href="/wiki/List_of_National_Historic_Landmarks_in_Boston" title="List of National Historic Landmarks in Boston">Boston</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3" style="background-color:#A8EDEF">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:National_Register_of_Historic_Places_in_Massachusetts" title="Category:National Register of Historic Places in Massachusetts">Category</a></li>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <a href="/wiki/Portal:National_Register_of_Historic_Places" title="Portal:National Register of Historic Places">NRHP portal</a></li>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <a href="/wiki/Portal:Massachusetts" title="Portal:Massachusetts">Massachusetts portal</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1325
+Cached time: 20171011200231
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.284 seconds
+Real time usage: 0.391 seconds
+Preprocessor visited node count: 3486/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 87781/2097152 bytes
+Template argument size: 5029/2097152 bytes
+Highest expansion depth: 19/40
+Expensive parser function count: 3/500
+Lua time usage: 0.110/10.000 seconds
+Lua memory usage: 4.04 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  343.183      1 -total
+ 49.92%  171.328      2 Template:Infobox
+ 42.89%  147.203      1 Template:Infobox_NRHP
+ 19.28%   66.181      1 Template:Reflist
+ 11.25%   38.622      1 Template:Coord
+ 11.19%   38.400      2 Template:Cite_web
+ 10.23%   35.105      1 Template:Citation_needed
+  9.56%   32.796      1 Template:NRISref
+  9.43%   32.377      2 Template:Navbox
+  9.15%   31.408      1 Template:Fix
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:10410693-0!canonical and timestamp 20171011200231 and revision id 798128000
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Sever_Hall&amp;oldid=798128000">https://en.wikipedia.org/w/index.php?title=Sever_Hall&amp;oldid=798128000</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Harvard_University_buildings" title="Category:Harvard University buildings">Harvard University buildings</a></li><li><a href="/wiki/Category:National_Historic_Landmarks_in_Cambridge,_Massachusetts" title="Category:National Historic Landmarks in Cambridge, Massachusetts">National Historic Landmarks in Cambridge, Massachusetts</a></li><li><a href="/wiki/Category:Henry_Hobson_Richardson_buildings" title="Category:Henry Hobson Richardson buildings">Henry Hobson Richardson buildings</a></li><li><a href="/wiki/Category:Richardsonian_Romanesque_architecture_in_Massachusetts" title="Category:Richardsonian Romanesque architecture in Massachusetts">Richardsonian Romanesque architecture in Massachusetts</a></li><li><a href="/wiki/Category:Harvard_Square" title="Category:Harvard Square">Harvard Square</a></li><li><a href="/wiki/Category:Historic_district_contributing_properties_in_Massachusetts" title="Category:Historic district contributing properties in Massachusetts">Historic district contributing properties in Massachusetts</a></li><li><a href="/wiki/Category:National_Register_of_Historic_Places_in_Cambridge,_Massachusetts" title="Category:National Register of Historic Places in Cambridge, Massachusetts">National Register of Historic Places in Cambridge, Massachusetts</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_January_2010" title="Category:Articles with unsourced statements from January 2010">Articles with unsourced statements from January 2010</a></li><li><a href="/wiki/Category:Wikipedia_references_cleanup_from_January_2010" title="Category:Wikipedia references cleanup from January 2010">Wikipedia references cleanup from January 2010</a></li><li><a href="/wiki/Category:All_articles_needing_references_cleanup" title="Category:All articles needing references cleanup">All articles needing references cleanup</a></li><li><a href="/wiki/Category:Articles_covered_by_WikiProject_Wikify_from_January_2010" title="Category:Articles covered by WikiProject Wikify from January 2010">Articles covered by WikiProject Wikify from January 2010</a></li><li><a href="/wiki/Category:All_articles_covered_by_WikiProject_Wikify" title="Category:All articles covered by WikiProject Wikify">All articles covered by WikiProject Wikify</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Sever+Hall" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Sever+Hall" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Sever_Hall" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Sever_Hall" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Sever_Hall">Read</a></span></li>
+							<li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Sever_Hall&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Sever_Hall&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Sever_Hall" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Sever_Hall" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Sever_Hall&amp;oldid=798128000" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Sever_Hall&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7457805" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Sever_Hall&amp;id=798128000" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Sever+Hall">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Sever+Hall&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Sever_Hall&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Sever_Hall" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+											</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7457805#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 31 August 2017, at 04:36.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Sever_Hall&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.284","walltime":"0.391","ppvisitednodes":{"value":3486,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":87781,"limit":2097152},"templateargumentsize":{"value":5029,"limit":2097152},"expansiondepth":{"value":19,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  343.183      1 -total"," 49.92%  171.328      2 Template:Infobox"," 42.89%  147.203      1 Template:Infobox_NRHP"," 19.28%   66.181      1 Template:Reflist"," 11.25%   38.622      1 Template:Coord"," 11.19%   38.400      2 Template:Cite_web"," 10.23%   35.105      1 Template:Citation_needed","  9.56%   32.796      1 Template:NRISref","  9.43%   32.377      2 Template:Navbox","  9.15%   31.408      1 Template:Fix"]},"scribunto":{"limitreport-timeusage":{"value":"0.110","limit":"10.000"},"limitreport-memusage":{"value":4240495,"limit":52428800}},"cachereport":{"origin":"mw1325","timestamp":"20171011200231","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":91,"wgHostname":"mw1321"});});</script>
+	</body>
+</html>

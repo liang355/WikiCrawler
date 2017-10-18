@@ -1,0 +1,602 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Leslie Valiant - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Leslie_Valiant","wgTitle":"Leslie Valiant","wgCurRevisionId":802652822,"wgRevisionId":802652822,"wgArticleId":3006751,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["EngvarB from August 2014","Use dmy dates from August 2014","Articles with hCards","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","Wikipedia articles with DBLP identifiers","Wikipedia articles with ACM-DL identifiers","1949 births","Living people","Members of the United States National Academy of Sciences","Turing Award laureates","Nevanlinna Prize laureates","Knuth Prize laureates","British computer scientists","Theoretical computer scientists","Alumni of Imperial College London","Alumni of the University of Warwick","Academics of the University of Edinburgh","Harvard University faculty","Fellows of the Royal Society","Fellows of the Association for the Advancement of Artificial Intelligence","Fellows of the American Association for the Advancement of Science","People from Belmont, Massachusetts","Guggenheim Fellows","People from Budapest"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Leslie_Valiant","wgRelevantArticleId":3006751,"wgRequestId":"WdlqtgpAMEwAAE6ZqLMAAAAJ","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q93154","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.math.scripts","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.2"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/7/70/Leslie_Valiant.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Leslie_Valiant"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Leslie_Valiant&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Leslie_Valiant&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Leslie_Valiant"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Leslie_Valiant rootpage-Leslie_Valiant vector-nav-directionality skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Leslie Valiant</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox biography vcard" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><span class="fn">Leslie Valiant</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Leslie_Valiant.jpg" class="image"><img alt="Leslie Valiant.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Leslie_Valiant.jpg/225px-Leslie_Valiant.jpg" width="225" height="169" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Leslie_Valiant.jpg/338px-Leslie_Valiant.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/7/70/Leslie_Valiant.jpg 2x" data-file-width="400" data-file-height="300" /></a>
+<div>Leslie Valiant in 2005 (photo from MFO)</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td><span class="nickname">Leslie Gabriel Valiant</span><br />
+<span style="display:none">(<span class="bday">1949-03-28</span>)</span> 28 March 1949 <span class="noprint ForceAgeToShow">(age&#160;68)</span><br />
+<span class="birthplace"><a href="/wiki/Budapest" title="Budapest">Budapest</a>, <a href="/wiki/Hungarian_Republic_(1946%E2%80%9349)" class="mw-redirect" title="Hungarian Republic (1946–49)">Hungarian Republic</a></span></td>
+</tr>
+<tr>
+<th scope="row">Nationality</th>
+<td class="category">United Kingdom</td>
+</tr>
+<tr>
+<th scope="row">Alma&#160;mater</th>
+<td>
+<div class="plainlist">
+<ul>
+<li><a href="/wiki/University_of_Cambridge" title="University of Cambridge">University of Cambridge</a></li>
+<li><a href="/wiki/Imperial_College_London" title="Imperial College London">Imperial College London</a></li>
+<li><a href="/wiki/University_of_Warwick" title="University of Warwick">University of Warwick</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Known&#160;for</th>
+<td>
+<div class="plainlist">
+<ul>
+<li><a href="/wiki/Valiant%E2%80%93Vazirani_theorem" title="Valiant–Vazirani theorem">Valiant–Vazirani theorem</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></li>
+<li><a href="/wiki/Counting_problem_(complexity)" title="Counting problem (complexity)">Counting problem (complexity)</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Awards</th>
+<td>
+<div class="plainlist">
+<ul>
+<li><a href="/wiki/Turing_Award" title="Turing Award">ACM Turing Award</a> (2010)</li>
+<li><a href="/wiki/EATCS_Award" class="mw-redirect" title="EATCS Award">EATCS Award</a> (2008)</li>
+<li><a href="/wiki/Knuth_Prize" title="Knuth Prize">Knuth Prize</a> (1997)</li>
+<li><a href="/wiki/AAAI" class="mw-redirect" title="AAAI">AAAI</a> Fellow (1992)</li>
+<li><a href="/wiki/Fellow_of_the_Royal_Society" title="Fellow of the Royal Society">FRS</a> (1991)</li>
+<li><a href="/wiki/Nevanlinna_Prize" title="Nevanlinna Prize">Nevanlinna Prize</a> (1986)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
+</tr>
+<tr>
+<th scope="row">Fields</th>
+<td class="category">Mathematics<br />
+<a href="/wiki/Computer_Science" class="mw-redirect" title="Computer Science">Computer Science</a></td>
+</tr>
+<tr>
+<th scope="row">Institutions</th>
+<td>
+<div class="plainlist">
+<ul>
+<li><a href="/wiki/Harvard_University" title="Harvard University">Harvard University</a></li>
+<li><a href="/wiki/University_of_Edinburgh" title="University of Edinburgh">University of Edinburgh</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Thesis" title="Thesis">Thesis</a></th>
+<td><a rel="nofollow" class="external text" href="http://wrap.warwick.ac.uk/34701/"><i>Decision Procedures for Families of Deterministic Pushdown Automata</i></a>&#160;<span style="font-size:90%;">(1974)</span></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Doctoral_advisor" title="Doctoral advisor">Doctoral advisor</a></th>
+<td><a href="/wiki/Mike_Paterson" title="Mike Paterson">Mike Paterson</a><sup id="cite_ref-mathgene_3-0" class="reference"><a href="#cite_note-mathgene-3">[3]</a></sup></td>
+</tr>
+<tr>
+<th scope="row">Doctoral students</th>
+<td>
+<div class="plainlist">
+<ul>
+<li><a href="/wiki/Mark_Jerrum" title="Mark Jerrum">Mark Jerrum</a></li>
+<li><a href="/wiki/Michael_Kearns_(computer_scientist)" title="Michael Kearns (computer scientist)">Michael Kearns</a></li>
+<li><a href="/wiki/Dan_Roth" title="Dan Roth">Dan Roth</a></li>
+<li>Rocco Siffredi <sup id="cite_ref-mathgene_3-1" class="reference"><a href="#cite_note-mathgene-3">[3]</a></sup></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="display:none">
+<td colspan="2"></td>
+</tr>
+</table>
+<p><b>Leslie Gabriel Valiant</b> <a href="/wiki/Fellow_of_the_Royal_Society" title="Fellow of the Royal Society">FRS</a><sup id="cite_ref-royal_4-0" class="reference"><a href="#cite_note-royal-4">[4]</a></sup> (born 28 March 1949) is a British computer scientist and <a href="/wiki/Computational_theorist" class="mw-redirect" title="Computational theorist">computational theorist</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> He is currently the T. Jefferson Coolidge Professor of Computer Science and Applied Mathematics at <a href="/wiki/Harvard_University" title="Harvard University">Harvard University</a>.<sup id="cite_ref-acm_6-0" class="reference"><a href="#cite_note-acm-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-dblp_8-0" class="reference"><a href="#cite_note-dblp-8">[8]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Education"><span class="tocnumber">1</span> <span class="toctext">Education</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Research"><span class="tocnumber">2</span> <span class="toctext">Research</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Career"><span class="tocnumber">3</span> <span class="toctext">Career</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Books"><span class="tocnumber">4</span> <span class="toctext">Books</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Awards_and_honors"><span class="tocnumber">5</span> <span class="toctext">Awards and honors</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Family"><span class="tocnumber">6</span> <span class="toctext">Family</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Education">Education</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Leslie_Valiant&amp;action=edit&amp;section=1" title="Edit section: Education">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Valiant was educated at <a href="/wiki/King%27s_College,_Cambridge" title="King's College, Cambridge">King's College, Cambridge</a>, <a href="/wiki/Imperial_College_London" title="Imperial College London">Imperial College London</a>, and <a href="/wiki/University_of_Warwick" title="University of Warwick">University of Warwick</a> where he received a PhD in computer science in 1974.<sup id="cite_ref-mathgene_3-2" class="reference"><a href="#cite_note-mathgene-3">[3]</a></sup></p>
+<h2><span class="mw-headline" id="Research">Research</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Leslie_Valiant&amp;action=edit&amp;section=2" title="Edit section: Research">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Valiant is world-renowned for his work in <a href="/wiki/Theoretical_computer_science" title="Theoretical computer science">theoretical computer science</a>. Among his many contributions to <a href="/wiki/Computational_complexity_theory" title="Computational complexity theory">complexity theory</a>, he introduced the notion of <a href="/wiki/Sharp-P-complete" title="Sharp-P-complete">#P-completeness</a> to explain why enumeration and reliability problems are intractable. He also introduced the "probably approximately correct" (<a href="/wiki/Probably_approximately_correct_learning" title="Probably approximately correct learning">PAC</a>) model of machine learning that has helped the field of computational learning theory grow, and the concept of <a href="/wiki/Holographic_algorithm" title="Holographic algorithm">holographic algorithms</a>. His earlier work in <a href="/wiki/Automata_theory" title="Automata theory">automata theory</a> includes an <a href="/wiki/CYK_algorithm#Valiant.27s_algorithm" title="CYK algorithm">algorithm for context-free parsing</a>, which is (as of 2010) still the asymptotically fastest known. He also works in <a href="/wiki/Computational_neuroscience" title="Computational neuroscience">computational neuroscience</a> focusing on understanding memory and learning.</p>
+<p>Valiant's 2013 book is <i><a href="/wiki/Probably_approximately_correct_learning" title="Probably approximately correct learning">Probably Approximately Correct: Nature's Algorithms for Learning and Prospering in a Complex World</a></i> (Basic Books, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780465032716" title="Special:BookSources/9780465032716">9780465032716</a>). In it he argues, among other things, that evolutionary biology does not explain the rate at which evolution occurs, writing, for example, "The evidence for Darwin's general schema for evolution being essentially correct is convincing to the great majority of biologists. This author has been to enough natural history museums to be convinced himself. All this, however, does not mean the current theory of evolution is adequately explanatory. At present the theory of evolution can offer no account of the rate at which evolution progresses to develop complex mechanisms or to maintain them in changing environments."</p>
+<h2><span class="mw-headline" id="Career">Career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Leslie_Valiant&amp;action=edit&amp;section=3" title="Edit section: Career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Valiant started teaching at <a href="/wiki/Harvard_University" title="Harvard University">Harvard University</a> in 1982 and is currently the T. Jefferson Coolidge Professor of Computer Science and Applied Mathematics in the <a href="/wiki/Harvard_School_of_Engineering_and_Applied_Sciences" class="mw-redirect" title="Harvard School of Engineering and Applied Sciences">Harvard School of Engineering and Applied Sciences</a>. Prior to 1982 he taught at <a href="/wiki/Carnegie_Mellon_University" title="Carnegie Mellon University">Carnegie Mellon University</a>, the <a href="/wiki/University_of_Leeds" title="University of Leeds">University of Leeds</a>, and the <a href="/wiki/University_of_Edinburgh" title="University of Edinburgh">University of Edinburgh</a>.</p>
+<h2><span class="mw-headline" id="Books">Books</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Leslie_Valiant&amp;action=edit&amp;section=4" title="Edit section: Books">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Valiant, Leslie (2013). <i><a rel="nofollow" class="external text" href="https://books.google.com/books/about/Probably_Approximately_Correct.html?id=LBW_dOJ3hoMC&amp;printsec=frontcover&amp;source=kp_read_button&amp;hl=en#v=onepage&amp;q&amp;f=false">Probably Approximately Correct</a></i></li>
+<li>Valiant, Leslie (2000). <i><a rel="nofollow" class="external text" href="https://books.google.com/books?id=YUSNGiFv9CEC&amp;printsec=frontcover&amp;dq=Circuits+of+the+Mind&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwj4zdKh6qfJAhWXKYgKHYN1CFkQ6AEIHTAA#v=onepage&amp;q=Circuits%20of%20the%20Mind&amp;f=false">Circuits of the Mind</a></i></li>
+</ul>
+<h2><span class="mw-headline" id="Awards_and_honors">Awards and honors</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Leslie_Valiant&amp;action=edit&amp;section=5" title="Edit section: Awards and honors">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Valiant received the <a href="/wiki/Nevanlinna_Prize" title="Nevanlinna Prize">Nevanlinna Prize</a> in 1986, the <a href="/wiki/Knuth_Prize" title="Knuth Prize">Knuth Prize</a> in 1997, the <a href="/wiki/EATCS_Award" class="mw-redirect" title="EATCS Award">EATCS Award</a> in 2008,<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> and the <a href="/wiki/ACM_Turing_Award" class="mw-redirect" title="ACM Turing Award">ACM Turing Award</a> in 2010.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> He is a Fellow of the <a href="/wiki/Royal_Society" title="Royal Society">Royal Society</a> (London), a Fellow of the <a href="/wiki/American_Association_for_Artificial_Intelligence" class="mw-redirect" title="American Association for Artificial Intelligence">American Association for Artificial Intelligence</a>, and a member of the <a href="/wiki/United_States_National_Academy_of_Sciences" class="mw-redirect" title="United States National Academy of Sciences">National Academy of Sciences</a> (USA).</p>
+<p>Valiant's nomination for the <a href="/wiki/Royal_Society" title="Royal Society">Royal Society</a> reads:</p>
+<table class="cquote" role="presentation" style="margin:auto; border-collapse: collapse; border: none; background-color: transparent; width: auto;">
+<tr>
+<td style="width: 20px; vertical-align: top; border: none; color: #B2B7F2; font-size: 40px; font-family: 'Times New Roman', Times, serif; font-weight: bold; line-height: .6em; text-align: left; padding: 10px 10px;">“</td>
+<td style="vertical-align: top; border: none; padding: 4px 10px;">Valiant has contributed in a decisive way to the growth of almost every branch of theoretical computer science. His work is concerned mainly with quantifying mathematically the resource costs of solving problems on a computer. In early work (1975) he found the asymptotically fastest algorithm known for recognising context-free languages. At the same time, he pioneered the use of communication properties of graphs for analysing computations. In 1977 he defined the notion of #P-completeness ("sharp-P") and established its utility in classifying counting or enumeration problems according to computational tractability. The first application was to counting matchings (the matrix permanent function). In 1984 Valiant introduced a definition of inductive learning that for the first time reconciles computational feasibility with the applicability to non-trivial classes of logical rules to be learned.* More recently he has devised a scheme for efficient routing of communications in a multiprocessor system. He showed that the overheads involved even in a sparse network need not grow with the size of the system. This establishes, from a theoretical viewpoint, the possibility of efficient general purpose parallel computers.<sup id="cite_ref-royal_4-1" class="reference"><a href="#cite_note-royal-4">[4]</a></sup></td>
+<td style="width: 20px; vertical-align: bottom; border: none; color: #B2B7F2; font-size: 40px; font-family: 'Times New Roman', Times, serif; font-weight: bold; line-height: .6em; text-align: right; padding: 10px 10px;">”</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Family">Family</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Leslie_Valiant&amp;action=edit&amp;section=6" title="Edit section: Family">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>His two sons <a rel="nofollow" class="external text" href="http://theory.stanford.edu/~valiant/">Gregory Valiant</a> and <a rel="nofollow" class="external text" href="http://cs.brown.edu/~pvaliant/">Paul Valiant</a> are both theoretical computer scientists, as faculty at <a href="/wiki/Stanford_University" title="Stanford University">Stanford University</a> and <a href="/wiki/Brown_University" title="Brown University">Brown University</a> respectively.</p>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Leslie_Valiant&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="https://people.seas.harvard.edu/~valiant/">Webpage</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Leslie_Valiant&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation journal">Valiant, L.; Vazirani, V. (1986). <a rel="nofollow" class="external text" href="http://www.cs.princeton.edu/courses/archive/fall05/cos528/handouts/NP_is_as.pdf">"NP is as easy as detecting unique solutions"</a> <span style="font-size:85%;">(PDF)</span>. <i>Theoretical Computer Science</i>. <b>47</b>: 85–93. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2F0304-3975%2886%2990135-0">10.1016/0304-3975(86)90135-0</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALeslie+Valiant&amp;rft.atitle=NP+is+as+easy+as+detecting+unique+solutions&amp;rft.au=Vazirani%2C+V.&amp;rft.aufirst=L.&amp;rft.aulast=Valiant&amp;rft.date=1986&amp;rft.genre=article&amp;rft.jtitle=Theoretical+Computer+Science&amp;rft.pages=85-93&amp;rft.volume=47&amp;rft_id=http%3A%2F%2Fwww.cs.princeton.edu%2Fcourses%2Farchive%2Ffall05%2Fcos528%2Fhandouts%2FNP_is_as.pdf&amp;rft_id=info%3Adoi%2F10.1016%2F0304-3975%2886%2990135-0&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation journal">Valiant, L. G. (1979). "The Complexity of Enumeration and Reliability Problems". <i>SIAM Journal on Computing</i>. <b>8</b> (3): 410. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1137%2F0208032">10.1137/0208032</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALeslie+Valiant&amp;rft.atitle=The+Complexity+of+Enumeration+and+Reliability+Problems&amp;rft.aufirst=L.+G.&amp;rft.aulast=Valiant&amp;rft.date=1979&amp;rft.genre=article&amp;rft.issue=3&amp;rft.jtitle=SIAM+Journal+on+Computing&amp;rft.pages=410&amp;rft.volume=8&amp;rft_id=info%3Adoi%2F10.1137%2F0208032&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-mathgene-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-mathgene_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-mathgene_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-mathgene_3-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.genealogy.math.ndsu.nodak.edu/id.php?id=18757">Leslie Valiant</a> at the <a href="/wiki/Mathematics_Genealogy_Project" title="Mathematics Genealogy Project">Mathematics Genealogy Project</a></span></li>
+<li id="cite_note-royal-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-royal_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-royal_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://royalsociety.org/DServe/dserve.exe?dsqIni=Dserve.ini&amp;dsqApp=Archive&amp;dsqDb=Catalog&amp;dsqCmd=show.tcl&amp;dsqSearch=(RefNo==%27EC%2F1991%2F35%27)">http://royalsociety.org/DServe/dserve.exe?dsqIni=Dserve.ini&amp;dsqApp=Archive&amp;dsqDb=Catalog&amp;dsqCmd=show.tcl&amp;dsqSearch=(RefNo==%27EC%2F1991%2F35%27)</a></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation journal">Hoffmann, L. (2011). "Q&amp;A: Leslie Valiant discusses machine learning, parallel computing, and computational neuroscience". <i><a href="/wiki/Communications_of_the_ACM" title="Communications of the ACM">Communications of the ACM</a></i>. <b>54</b> (6): 128. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1145%2F1953122.1953152">10.1145/1953122.1953152</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALeslie+Valiant&amp;rft.atitle=Q%26A%3A+Leslie+Valiant+discusses+machine+learning%2C+parallel+computing%2C+and+computational+neuroscience&amp;rft.aufirst=L.&amp;rft.aulast=Hoffmann&amp;rft.date=2011&amp;rft.genre=article&amp;rft.issue=6&amp;rft.jtitle=Communications+of+the+ACM&amp;rft.pages=128&amp;rft.volume=54&amp;rft_id=info%3Adoi%2F10.1145%2F1953122.1953152&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-acm-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-acm_6-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://dl.acm.org/author_page.cfm?id=81100502250">Leslie Valiant</a> author profile page at the <a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">ACM</a> Digital Library</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation book">Wigderson, A. (2009). "The work of Leslie Valiant". <i>Proceedings of the 41st annual ACM symposium on Symposium on theory of computing - STOC '09</i>. p.&#160;1. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9781605585062" title="Special:BookSources/9781605585062">9781605585062</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1145%2F1536414.1536415">10.1145/1536414.1536415</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALeslie+Valiant&amp;rft.atitle=The+work+of+Leslie+Valiant&amp;rft.aufirst=A.&amp;rft.aulast=Wigderson&amp;rft.btitle=Proceedings+of+the+41st+annual+ACM+symposium+on+Symposium+on+theory+of+computing+-+STOC+%2709&amp;rft.date=2009&amp;rft.genre=bookitem&amp;rft.isbn=9781605585062&amp;rft.pages=1&amp;rft_id=info%3Adoi%2F10.1145%2F1536414.1536415&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-dblp-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-dblp_8-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://dblp.org/pid/v/LeslieGValiant">Leslie G. Valiant</a> at <a href="/wiki/DBLP" title="DBLP">DBLP</a> Bibliography Server</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation journal">Valiant, Leslie (Nov 1984). <a rel="nofollow" class="external text" href="http://web.mit.edu/6.435/www/Valiant84.pdf">"A theory of the learnable"</a> <span style="font-size:85%;">(PDF)</span>. <i>Communications of the ACM</i>. <b>27</b> (11): 1134–1142. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1145%2F1968.1972">10.1145/1968.1972</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALeslie+Valiant&amp;rft.atitle=A+theory+of+the+learnable&amp;rft.aufirst=Leslie&amp;rft.aulast=Valiant&amp;rft.date=1984-11&amp;rft.genre=article&amp;rft.issue=11&amp;rft.jtitle=Communications+of+the+ACM&amp;rft.pages=1134-1142&amp;rft.volume=27&amp;rft_id=http%3A%2F%2Fweb.mit.edu%2F6.435%2Fwww%2FValiant84.pdf&amp;rft_id=info%3Adoi%2F10.1145%2F1968.1972&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">David Peleg <a rel="nofollow" class="external text" href="https://www.eatcs.org/index.php/eatcs-award/625">The EATCS Award 2008 – Laudatio for Professor Leslie Valiant</a> European Association of Theoretical Computer Science.</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Josh Fishman <a rel="nofollow" class="external text" href="http://chronicle.com/blogs/wiredcampus/probably-approximately-correct-inventor-from-harvard-u-wins-turing-award/30211">"‘Probably Approximately Correct’ Inventor, From Harvard U., Wins Turing Award"</a> <i>Chronicle of Higher Education</i> 9 March 2011.</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.acm.org/news/featured/turing-award-2010">ACM Turing Award Goes to Innovator in Machine Learning</a> ACM Computing News</span></li>
+</ol>
+</div>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="A._M._Turing_Award_laureates" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Turing_Award_laureates" title="Template:Turing Award laureates"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Turing_Award_laureates" title="Template talk:Turing Award laureates"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Turing_Award_laureates&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="A._M._Turing_Award_laureates" style="font-size:114%;margin:0 4em"><a href="/wiki/Turing_Award" title="Turing Award">A. M. Turing Award</a> laureates</div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alan_Perlis" title="Alan Perlis">Alan Perlis</a> <small>(1966)</small></li>
+<li><a href="/wiki/Maurice_Wilkes" title="Maurice Wilkes">Maurice Vincent Wilkes</a> <small>(1967)</small></li>
+<li><a href="/wiki/Richard_Hamming" title="Richard Hamming">Richard Hamming</a> <small>(1968)</small></li>
+<li><a href="/wiki/Marvin_Minsky" title="Marvin Minsky">Marvin Minsky</a> <small>(1969)</small></li>
+<li><a href="/wiki/James_H._Wilkinson" title="James H. Wilkinson">James H. Wilkinson</a> <small>(1970)</small></li>
+<li><a href="/wiki/John_McCarthy_(computer_scientist)" title="John McCarthy (computer scientist)">John McCarthy</a> <small>(1971)</small></li>
+<li><a href="/wiki/Edsger_W._Dijkstra" title="Edsger W. Dijkstra">Edsger W. Dijkstra</a> <small>(1972)</small></li>
+<li><a href="/wiki/Charles_Bachman" title="Charles Bachman">Charles Bachman</a> <small>(1973)</small></li>
+<li><a href="/wiki/Donald_Knuth" title="Donald Knuth">Donald Knuth</a> <small>(1974)</small></li>
+<li><a href="/wiki/Allen_Newell" title="Allen Newell">Allen Newell</a> / <a href="/wiki/Herbert_A._Simon" title="Herbert A. Simon">Herbert A. Simon</a> <small>(1975)</small></li>
+<li><a href="/wiki/Michael_O._Rabin" title="Michael O. Rabin">Michael O. Rabin</a> / <a href="/wiki/Dana_Scott" title="Dana Scott">Dana Scott</a> <small>(1976)</small></li>
+<li><a href="/wiki/John_Backus" title="John Backus">John Backus</a> <small>(1977)</small></li>
+<li><a href="/wiki/Robert_W._Floyd" title="Robert W. Floyd">Robert W. Floyd</a> <small>(1978)</small></li>
+<li><a href="/wiki/Kenneth_E._Iverson" title="Kenneth E. Iverson">Kenneth E. Iverson</a> <small>(1979)</small></li>
+<li><a href="/wiki/Tony_Hoare" title="Tony Hoare">Tony Hoare</a> <small>(1980)</small></li>
+<li><a href="/wiki/Edgar_F._Codd" title="Edgar F. Codd">Edgar F. Codd</a> <small>(1981)</small></li>
+<li><a href="/wiki/Stephen_Cook" title="Stephen Cook">Stephen Cook</a> <small>(1982)</small></li>
+<li><a href="/wiki/Ken_Thompson" title="Ken Thompson">Ken Thompson</a> / <a href="/wiki/Dennis_Ritchie" title="Dennis Ritchie">Dennis Ritchie</a> <small>(1983)</small></li>
+<li><a href="/wiki/Niklaus_Wirth" title="Niklaus Wirth">Niklaus Wirth</a> <small>(1984)</small></li>
+<li><a href="/wiki/Richard_M._Karp" title="Richard M. Karp">Richard Karp</a> <small>(1985)</small></li>
+<li><a href="/wiki/John_Hopcroft" title="John Hopcroft">John Hopcroft</a> / <a href="/wiki/Robert_Tarjan" title="Robert Tarjan">Robert Tarjan</a> <small>(1986)</small></li>
+<li><a href="/wiki/John_Cocke" title="John Cocke">John Cocke</a> <small>(1987)</small></li>
+<li><a href="/wiki/Ivan_Sutherland" title="Ivan Sutherland">Ivan Sutherland</a> <small>(1988)</small></li>
+<li><a href="/wiki/William_Kahan" title="William Kahan">William Kahan</a> <small>(1989)</small></li>
+<li><a href="/wiki/Fernando_J._Corbat%C3%B3" title="Fernando J. Corbató">Fernando J. Corbató</a> <small>(1990)</small></li>
+<li><a href="/wiki/Robin_Milner" title="Robin Milner">Robin Milner</a> <small>(1991)</small></li>
+<li><a href="/wiki/Butler_Lampson" title="Butler Lampson">Butler Lampson</a> <small>(1992)</small></li>
+<li><a href="/wiki/Juris_Hartmanis" title="Juris Hartmanis">Juris Hartmanis</a> / <a href="/wiki/Richard_E._Stearns" title="Richard E. Stearns">Richard E. Stearns</a> <small>(1993)</small></li>
+<li><a href="/wiki/Edward_Feigenbaum" title="Edward Feigenbaum">Edward Feigenbaum</a> / <a href="/wiki/Raj_Reddy" title="Raj Reddy">Raj Reddy</a> <small>(1994)</small></li>
+<li><a href="/wiki/Manuel_Blum" title="Manuel Blum">Manuel Blum</a> <small>(1995)</small></li>
+<li><a href="/wiki/Amir_Pnueli" title="Amir Pnueli">Amir Pnueli</a> <small>(1996)</small></li>
+<li><a href="/wiki/Douglas_Engelbart" title="Douglas Engelbart">Douglas Engelbart</a> <small>(1997)</small></li>
+<li><a href="/wiki/Jim_Gray_(computer_scientist)" title="Jim Gray (computer scientist)">Jim Gray</a> <small>(1998)</small></li>
+<li><a href="/wiki/Fred_Brooks" title="Fred Brooks">Fred Brooks</a> <small>(1999)</small></li>
+<li><a href="/wiki/Andrew_Yao" title="Andrew Yao">Andrew Yao</a> <small>(2000)</small></li>
+<li><a href="/wiki/Ole-Johan_Dahl" title="Ole-Johan Dahl">Ole-Johan Dahl</a> / <a href="/wiki/Kristen_Nygaard" title="Kristen Nygaard">Kristen Nygaard</a> <small>(2001)</small></li>
+<li><a href="/wiki/Ron_Rivest" title="Ron Rivest">Ron Rivest</a> / <a href="/wiki/Adi_Shamir" title="Adi Shamir">Adi Shamir</a> / <a href="/wiki/Leonard_Adleman" title="Leonard Adleman">Leonard Adleman</a> <small>(2002)</small></li>
+<li><a href="/wiki/Alan_Kay" title="Alan Kay">Alan Kay</a> <small>(2003)</small></li>
+<li><a href="/wiki/Vint_Cerf" title="Vint Cerf">Vint Cerf</a> / <a href="/wiki/Bob_Kahn" title="Bob Kahn">Bob Kahn</a> <small>(2004)</small></li>
+<li><a href="/wiki/Peter_Naur" title="Peter Naur">Peter Naur</a> <small>(2005)</small></li>
+<li><a href="/wiki/Frances_E._Allen" title="Frances E. Allen">Frances E. Allen</a> <small>(2006)</small></li>
+<li><a href="/wiki/Edmund_M._Clarke" title="Edmund M. Clarke">Edmund M. Clarke</a> / <a href="/wiki/E._Allen_Emerson" title="E. Allen Emerson">E. Allen Emerson</a> / <a href="/wiki/Joseph_Sifakis" title="Joseph Sifakis">Joseph Sifakis</a> <small>(2007)</small></li>
+<li><a href="/wiki/Barbara_Liskov" title="Barbara Liskov">Barbara Liskov</a> <small>(2008)</small></li>
+<li><a href="/wiki/Charles_P._Thacker" title="Charles P. Thacker">Charles P. Thacker</a> <small>(2009)</small></li>
+<li><a class="mw-selflink selflink">Leslie G. Valiant</a> <small>(2010)</small></li>
+<li><a href="/wiki/Judea_Pearl" title="Judea Pearl">Judea Pearl</a> <small>(2011)</small></li>
+<li><a href="/wiki/Shafi_Goldwasser" title="Shafi Goldwasser">Shafi Goldwasser</a> / <a href="/wiki/Silvio_Micali" title="Silvio Micali">Silvio Micali</a> <small>(2012)</small></li>
+<li><a href="/wiki/Leslie_Lamport" title="Leslie Lamport">Leslie Lamport</a> <small>(2013)</small></li>
+<li><a href="/wiki/Michael_Stonebraker" title="Michael Stonebraker">Michael Stonebraker</a> <small>(2014)</small></li>
+<li><a href="/wiki/Martin_Hellman" title="Martin Hellman">Martin Hellman</a> / <a href="/wiki/Whitfield_Diffie" title="Whitfield Diffie">Whitfield Diffie</a> <small>(2015)</small></li>
+<li><a href="/wiki/Tim_Berners-Lee" title="Tim Berners-Lee">Tim Berners-Lee</a> <small>(2016)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="EATCS_Award_laureates" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:EATCS_Award_laureates" title="Template:EATCS Award laureates"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:EATCS_Award_laureates" title="Template talk:EATCS Award laureates"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:EATCS_Award_laureates&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="EATCS_Award_laureates" style="font-size:114%;margin:0 4em"><a href="/wiki/European_Association_for_Theoretical_Computer_Science" title="European Association for Theoretical Computer Science">EATCS Award</a> laureates</div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Richard_M._Karp" title="Richard M. Karp">Karp</a> <small>(2000)</small></li>
+<li><a href="/wiki/Corrado_B%C3%B6hm" title="Corrado Böhm">Böhm</a> <small>(2001)</small></li>
+<li><a href="/wiki/Maurice_Nivat" title="Maurice Nivat">Nivat</a> <small>(2002)</small></li>
+<li><a href="/wiki/Grzegorz_Rozenberg" title="Grzegorz Rozenberg">Rozenberg</a> <small>(2003)</small></li>
+<li><a href="/wiki/Arto_Salomaa" title="Arto Salomaa">Salomaa</a> <small>(2004)</small></li>
+<li><a href="/wiki/Robin_Milner" title="Robin Milner">Milner</a> <small>(2005)</small></li>
+<li><a href="/wiki/Mike_Paterson" title="Mike Paterson">Paterson</a> <small>(2006)</small></li>
+<li><a href="/wiki/Dana_Scott" title="Dana Scott">Scott</a> <small>(2007)</small></li>
+<li><a class="mw-selflink selflink">Valiant</a> <small>(2008)</small></li>
+<li><a href="/wiki/G%C3%A9rard_Huet" title="Gérard Huet">Huet</a> <small>(2009)</small></li>
+<li><a href="/wiki/Kurt_Mehlhorn" title="Kurt Mehlhorn">Mehlhorn</a> <small>(2010)</small></li>
+<li><a href="/wiki/Boris_Trakhtenbrot" title="Boris Trakhtenbrot">Trakhtenbrot</a> <small>(2011)</small></li>
+<li><a href="/wiki/Moshe_Vardi" title="Moshe Vardi">Vardi</a> <small>(2012)</small></li>
+<li><a href="/wiki/Martin_Dyer" title="Martin Dyer">Dyer</a> <small>(2013)</small></li>
+<li><a href="/wiki/Gordon_Plotkin" title="Gordon Plotkin">Plotkin</a> <small>(2014)</small></li>
+<li><a href="/wiki/Christos_Papadimitriou" title="Christos Papadimitriou">Papadimitriou</a> <small>(2015)</small></li>
+<li><a href="/wiki/Dexter_Kozen" title="Dexter Kozen">Kozen</a> <small>(2016)</small></li>
+<li><a href="/wiki/%C3%89va_Tardos" title="Éva Tardos">Tardos</a> <small>(2017)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Knuth_Prize_laureates" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Knuth_Prize_laureates" title="Template:Knuth Prize laureates"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Knuth_Prize_laureates" title="Template talk:Knuth Prize laureates"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Knuth_Prize_laureates&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Knuth_Prize_laureates" style="font-size:114%;margin:0 4em"><a href="/wiki/Knuth_Prize" title="Knuth Prize">Knuth Prize</a> laureates</div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Andrew_Yao" title="Andrew Yao">Yao</a> <small>(1996)</small></li>
+<li><a class="mw-selflink selflink">Valiant</a> <small>(1997)</small></li>
+<li><a href="/wiki/L%C3%A1szl%C3%B3_Lov%C3%A1sz" title="László Lovász">Lovász</a> <small>(1999)</small></li>
+<li><a href="/wiki/Jeffrey_Ullman" title="Jeffrey Ullman">Ullman</a> <small>(2000)</small></li>
+<li><a href="/wiki/Christos_Papadimitriou" title="Christos Papadimitriou">Papadimitriou</a> <small>(2002)</small></li>
+<li><a href="/wiki/Mikl%C3%B3s_Ajtai" title="Miklós Ajtai">Ajtai</a> <small>(2003)</small></li>
+<li><a href="/wiki/Mihalis_Yannakakis" title="Mihalis Yannakakis">Yannakakis</a> <small>(2005)</small></li>
+<li><a href="/wiki/Nancy_Lynch" title="Nancy Lynch">Lynch</a> <small>(2007)</small></li>
+<li><a href="/wiki/Volker_Strassen" title="Volker Strassen">Strassen</a> <small>(2008)</small></li>
+<li><a href="/wiki/David_S._Johnson" title="David S. Johnson">Johnson</a> <small>(2010)</small></li>
+<li><a href="/wiki/Ravindran_Kannan" title="Ravindran Kannan">Kannan</a> <small>(2011)</small></li>
+<li><a href="/wiki/Leonid_Levin" title="Leonid Levin">Levin</a> <small>(2012)</small></li>
+<li><a href="/wiki/Gary_Miller_(computer_scientist)" title="Gary Miller (computer scientist)">Miller</a> <small>(2013)</small></li>
+<li><a href="/wiki/Richard_J._Lipton" class="mw-redirect" title="Richard J. Lipton">Lipton</a> <small>(2014)</small></li>
+<li><a href="/wiki/L%C3%A1szl%C3%B3_Babai" title="László Babai">Babai</a> <small>(2015)</small></li>
+<li><a href="/wiki/Noam_Nisan" title="Noam Nisan">Nisan</a> <small>(2016)</small></li>
+<li><a href="/wiki/Oded_Goldreich" title="Oded Goldreich">Goldreich</a> <small>(2017)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Nevanlinna_Prize_winners" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background:silver;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Nevanlinna_Prize_winners" title="Template:Nevanlinna Prize winners"><abbr title="View this template" style=";background:silver;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Nevanlinna_Prize_winners" title="Template talk:Nevanlinna Prize winners"><abbr title="Discuss this template" style=";background:silver;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Nevanlinna_Prize_winners&amp;action=edit"><abbr title="Edit this template" style=";background:silver;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Nevanlinna_Prize_winners" style="font-size:114%;margin:0 4em"><a href="/wiki/Nevanlinna_Prize" title="Nevanlinna Prize">Nevanlinna Prize</a> winners</div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Robert_Tarjan" title="Robert Tarjan">Tarjan</a> <small>(1982)</small></li>
+<li><a class="mw-selflink selflink">Valiant</a> <small>(1986)</small></li>
+<li><a href="/wiki/Alexander_Razborov" title="Alexander Razborov">Razborov</a> <small>(1990)</small></li>
+<li><a href="/wiki/Avi_Wigderson" title="Avi Wigderson">Wigderson</a> <small>(1994)</small></li>
+<li><a href="/wiki/Peter_Shor" title="Peter Shor">Shor</a> <small>(1998)</small></li>
+<li><a href="/wiki/Madhu_Sudan" title="Madhu Sudan">Sudan</a> <small>(2002)</small></li>
+<li><a href="/wiki/Jon_Kleinberg" title="Jon Kleinberg">Kleinberg</a> <small>(2006)</small></li>
+<li><a href="/wiki/Daniel_Spielman" title="Daniel Spielman">Spielman</a> <small>(2010)</small></li>
+<li><a href="/wiki/Subhash_Khot" title="Subhash Khot">Khot</a> <small>(2014)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/56713854">WorldCat Identities</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/56713854">56713854</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n91063548">n91063548</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000033901981">0000 0000 3390 1981</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/1036657280">1036657280</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.idref.fr/034148035">034148035</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb12493508v">cb12493508v</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb12493508v">(data)</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Mathematics_Genealogy_Project" title="Mathematics Genealogy Project">MGP</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.genealogy.ams.org/id.php?id=18757">18757</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.ndl.go.jp/auth/ndlna/00662635">00662635</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/DBLP" title="DBLP">DBLP</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://dblp.org/pid/v/LeslieGValiant">v/LeslieGValiant</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/ACM_Digital_Library" class="mw-redirect" title="ACM Digital Library">ACM DL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://dl.acm.org/author_page.cfm?id=81100502250">81100502250</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1241
+Cached time: 20171008000054
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 0.244 seconds
+Real time usage: 0.328 seconds
+Preprocessor visited node count: 2487/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 64611/2097152 bytes
+Template argument size: 7236/2097152 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 2/500
+Lua time usage: 0.089/10.000 seconds
+Lua memory usage: 3.47 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  281.892      1 -total
+ 41.96%  118.279      1 Template:Infobox_scientist
+ 39.27%  110.686      1 Template:Infobox_person
+ 30.64%   86.362      2 Template:Infobox
+ 24.44%   68.890      1 Template:Reflist
+ 13.28%   37.425      4 Template:Cite_journal
+  8.91%   25.121      1 Template:EngvarB
+  7.66%   21.603      6 Template:Main_other
+  7.05%   19.876      5 Template:Br_separated_entries
+  6.72%   18.933      1 Template:ISBN
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:3006751-0!canonical and timestamp 20171008000054 and revision id 802652822
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Leslie_Valiant&amp;oldid=802652822">https://en.wikipedia.org/w/index.php?title=Leslie_Valiant&amp;oldid=802652822</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1949_births" title="Category:1949 births">1949 births</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:Members_of_the_United_States_National_Academy_of_Sciences" title="Category:Members of the United States National Academy of Sciences">Members of the United States National Academy of Sciences</a></li><li><a href="/wiki/Category:Turing_Award_laureates" title="Category:Turing Award laureates">Turing Award laureates</a></li><li><a href="/wiki/Category:Nevanlinna_Prize_laureates" title="Category:Nevanlinna Prize laureates">Nevanlinna Prize laureates</a></li><li><a href="/wiki/Category:Knuth_Prize_laureates" title="Category:Knuth Prize laureates">Knuth Prize laureates</a></li><li><a href="/wiki/Category:British_computer_scientists" title="Category:British computer scientists">British computer scientists</a></li><li><a href="/wiki/Category:Theoretical_computer_scientists" title="Category:Theoretical computer scientists">Theoretical computer scientists</a></li><li><a href="/wiki/Category:Alumni_of_Imperial_College_London" title="Category:Alumni of Imperial College London">Alumni of Imperial College London</a></li><li><a href="/wiki/Category:Alumni_of_the_University_of_Warwick" title="Category:Alumni of the University of Warwick">Alumni of the University of Warwick</a></li><li><a href="/wiki/Category:Academics_of_the_University_of_Edinburgh" title="Category:Academics of the University of Edinburgh">Academics of the University of Edinburgh</a></li><li><a href="/wiki/Category:Harvard_University_faculty" title="Category:Harvard University faculty">Harvard University faculty</a></li><li><a href="/wiki/Category:Fellows_of_the_Royal_Society" title="Category:Fellows of the Royal Society">Fellows of the Royal Society</a></li><li><a href="/wiki/Category:Fellows_of_the_Association_for_the_Advancement_of_Artificial_Intelligence" title="Category:Fellows of the Association for the Advancement of Artificial Intelligence">Fellows of the Association for the Advancement of Artificial Intelligence</a></li><li><a href="/wiki/Category:Fellows_of_the_American_Association_for_the_Advancement_of_Science" title="Category:Fellows of the American Association for the Advancement of Science">Fellows of the American Association for the Advancement of Science</a></li><li><a href="/wiki/Category:People_from_Belmont,_Massachusetts" title="Category:People from Belmont, Massachusetts">People from Belmont, Massachusetts</a></li><li><a href="/wiki/Category:Guggenheim_Fellows" title="Category:Guggenheim Fellows">Guggenheim Fellows</a></li><li><a href="/wiki/Category:People_from_Budapest" title="Category:People from Budapest">People from Budapest</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:EngvarB_from_August_2014" title="Category:EngvarB from August 2014">EngvarB from August 2014</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_August_2014" title="Category:Use dmy dates from August 2014">Use dmy dates from August 2014</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_DBLP_identifiers" title="Category:Wikipedia articles with DBLP identifiers">Wikipedia articles with DBLP identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ACM-DL_identifiers" title="Category:Wikipedia articles with ACM-DL identifiers">Wikipedia articles with ACM-DL identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Leslie+Valiant" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Leslie+Valiant" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Leslie_Valiant" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Leslie_Valiant" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Leslie_Valiant">Read</a></span></li>
+							<li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Leslie_Valiant&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Leslie_Valiant&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Leslie_Valiant" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Leslie_Valiant" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Leslie_Valiant&amp;oldid=802652822" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Leslie_Valiant&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q93154" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Leslie_Valiant&amp;id=802652822" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Leslie+Valiant">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Leslie+Valiant&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Leslie_Valiant&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Leslie_Valiant" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%84%D9%8A%D8%B2%D9%84%D9%8A_%D9%81%D8%A7%D9%84%D9%8A%D9%86%D8%AA" title="ليزلي فالينت – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D9%84%D8%B3%D9%84%DB%8C_%D9%88%D8%A7%D9%84%DB%8C%D9%86%D8%AA" title="لسلی والینت – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%B2%E0%A7%87%E0%A6%B8%E0%A6%B2%E0%A6%BF_%E0%A6%AD%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%9F" title="লেসলি ভ্যালিয়ান্ট – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Leslie_Valiant" title="Leslie Valiant – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Leslie_Valiant" title="Leslie Valiant – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Leslie_Valiant" title="Leslie Valiant – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%84%D8%B3%D9%84%DB%8C_%D9%88%D8%A7%D9%84%DB%8C%D9%86%D8%AA" title="لسلی والینت – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Leslie_Valiant" title="Leslie Valiant – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Leslie_Valiant" title="Leslie Valiant – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%9C%D7%A1%D7%9C%D7%99_%D7%95%D7%9C%D7%99%D7%90%D7%A0%D7%98" title="לסלי וליאנט – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Leslie_Valiant" title="Leslie Valiant – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%B4%E3%82%A1%E3%83%AA%E3%82%A2%E3%83%B3%E3%83%88" title="レスリー・ヴァリアント – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Leslie_Valiant" title="Leslie Valiant – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Leslie_Valiant" title="Leslie Valiant – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%92%D1%8D%D0%BB%D0%B8%D0%B0%D0%BD%D1%82,_%D0%9B%D0%B5%D1%81%D0%BB%D0%B8" title="Вэлиант, Лесли – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Leslie_Valiant" title="Leslie Valiant – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9B%D0%B5%D1%81%D0%BB%D1%96_%D0%92%D0%B5%D0%BB%D1%96%D0%B5%D0%BD%D1%82" title="Леслі Веліент – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E8%8E%B1%E6%96%AF%E5%88%A9%C2%B7%E7%93%A6%E5%88%A9%E5%AE%89%E7%89%B9" title="莱斯利·瓦利安特 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q93154#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 27 September 2017, at 15:47.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Leslie_Valiant&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.244","walltime":"0.328","ppvisitednodes":{"value":2487,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":64611,"limit":2097152},"templateargumentsize":{"value":7236,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  281.892      1 -total"," 41.96%  118.279      1 Template:Infobox_scientist"," 39.27%  110.686      1 Template:Infobox_person"," 30.64%   86.362      2 Template:Infobox"," 24.44%   68.890      1 Template:Reflist"," 13.28%   37.425      4 Template:Cite_journal","  8.91%   25.121      1 Template:EngvarB","  7.66%   21.603      6 Template:Main_other","  7.05%   19.876      5 Template:Br_separated_entries","  6.72%   18.933      1 Template:ISBN"]},"scribunto":{"limitreport-timeusage":{"value":"0.089","limit":"10.000"},"limitreport-memusage":{"value":3639199,"limit":52428800}},"cachereport":{"origin":"mw1241","timestamp":"20171008000054","ttl":3600,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":411,"wgHostname":"mw1241"});});</script>
+	</body>
+</html>

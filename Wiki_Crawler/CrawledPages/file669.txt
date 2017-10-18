@@ -1,0 +1,465 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Pell Grant - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Pell_Grant","wgTitle":"Pell Grant","wgCurRevisionId":799493023,"wgRevisionId":799493023,"wgArticleId":3180351,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 errors: external links","Use mdy dates from April 2012","Articles containing potentially dated statements from 2016","All articles containing potentially dated statements","Wikipedia articles in need of updating from March 2016","All Wikipedia articles in need of updating","Articles needing additional references from February 2012","All articles needing additional references","Student financial aid","Federal assistance in the United States","Liberalism in the United States","Subsidies","United States Department of Education","Grants (money)"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Pell_Grant","wgRelevantArticleId":3180351,"wgRequestId":"WdsDfApAADsAABwbLMsAAABN","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q2068057","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.2"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Pell_Grant"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Pell_Grant&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Pell_Grant&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Pell_Grant"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Pell_Grant rootpage-Pell_Grant vector-nav-directionality skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Pell Grant</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>A <b>Pell Grant</b> is a <a href="/wiki/Subsidy" title="Subsidy">subsidy</a> the <a href="/wiki/U.S._federal_government" class="mw-redirect" title="U.S. federal government">U.S. federal government</a> provides for students who need it to pay for college. Federal Pell Grants are limited to students with financial need, who have not earned their first <a href="/wiki/Bachelor%27s_degree" title="Bachelor's degree">bachelor's degree</a>, or who are enrolled in certain post-baccalaureate programs, through participating institutions.<sup id="cite_ref-PELL_1-0" class="reference"><a href="#cite_note-PELL-1">[1]</a></sup> <sup id="cite_ref-HowCalculated_2-0" class="reference"><a href="#cite_note-HowCalculated-2">[2]</a></sup> The Pell Grant is named after <a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">Democratic</a> U.S. Senator <a href="/wiki/Claiborne_Pell" title="Claiborne Pell">Claiborne Pell</a> of <a href="/wiki/Rhode_Island" title="Rhode Island">Rhode Island</a>, and was originally known as the Basic Educational Opportunity Grant. A Pell Grant is generally considered the foundation of a student's financial aid package, to which other forms of aid are added.<sup id="cite_ref-USDOE_1_3-0" class="reference"><a href="#cite_note-USDOE_1-3">[3]</a></sup> The Federal Pell Grant program is administered by the <a href="/wiki/United_States_Department_of_Education" title="United States Department of Education">United States Department of Education</a>, which determines the student's financial need and through it, the student's Pell eligibility. The U.S. Department of Education uses a standard formula to evaluate financial information reported on the <a href="/wiki/Free_Application_for_Federal_Student_Aid" class="mw-redirect" title="Free Application for Federal Student Aid">Free Application for Federal Student Aid</a> (FAFSA) for determining the student's <a href="/wiki/Expected_Family_Contribution" title="Expected Family Contribution">expected family contribution</a> (EFC).<sup id="cite_ref-College_Board_4-0" class="reference"><a href="#cite_note-College_Board-4">[4]</a></sup></p>
+<p>Pell Grants were created by the <a href="/wiki/Higher_Education_Act_of_1965" title="Higher Education Act of 1965">Higher Education Act of 1965</a>. These federal funded grants are not like loans, and need not be repaid. Students may use their grants at any one of approximately 5,400 participating postsecondary institutions. These federally funded grants help about 5.4 million full-time and part-time college and vocational school students nationally.<sup id="cite_ref-MOHE_5-0" class="reference"><a href="#cite_note-MOHE-5">[5]</a></sup> As of 2016<sup class="plainlinks noprint asof-tag update" style="display:none;"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Pell_Grant&amp;action=edit">[update]</a></sup>, eight of the top ten colleges (by total Pell Grant money awarded) were <a href="/wiki/Public_university" title="Public university">public</a> or non-profit institutions.<sup id="cite_ref-Pell_Grants_2015-2016_6-0" class="reference"><a href="#cite_note-Pell_Grants_2015-2016-6">[6]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Higher_Education_Amendments_of_1972"><span class="tocnumber">1.1</span> <span class="toctext">Higher Education Amendments of 1972</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Education_Amendments_of_1978"><span class="tocnumber">1.2</span> <span class="toctext">Education Amendments of 1978</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Recent_legislation"><span class="tocnumber">1.3</span> <span class="toctext">Recent legislation</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Application"><span class="tocnumber">2</span> <span class="toctext">Application</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Eligibility"><span class="tocnumber">2.1</span> <span class="toctext">Eligibility</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Award_amount"><span class="tocnumber">2.2</span> <span class="toctext">Award amount</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Uses_of_grant"><span class="tocnumber">3</span> <span class="toctext">Uses of grant</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Impact"><span class="tocnumber">4</span> <span class="toctext">Impact</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Appropriations"><span class="tocnumber">5</span> <span class="toctext">Appropriations</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Awards_Information"><span class="tocnumber">6</span> <span class="toctext">Awards Information</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Federal_Pell_Grant_Lifetime_Eligibility_calculator"><span class="tocnumber">7</span> <span class="toctext">Federal Pell Grant Lifetime Eligibility calculator</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pell_Grant&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox ambox-content ambox-Update" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="Ambox current red.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ambox_current_red.svg/42px-Ambox_current_red.svg.png" width="42" height="34" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ambox_current_red.svg/63px-Ambox_current_red.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ambox_current_red.svg/84px-Ambox_current_red.svg.png 2x" data-file-width="360" data-file-height="290" /></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This article needs to be <b>updated</b>. <span class="hide-when-compact">Please update this article to reflect recent events or newly available information.</span> <small><i>(March 2016)</i></small></div>
+</td>
+</tr>
+</table>
+<table class="vertical-navbox vcard plainlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em"><a href="/wiki/Education_in_the_United_States" title="Education in the United States">Education in the United States</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Category:Education_in_the_United_States_by_state" title="Category:Education in the United States by state">By state</a> + <a href="/wiki/Category:Education_in_insular_areas_of_the_United_States" title="Category:Education in insular areas of the United States">insular areas</a></li>
+<li><a href="/wiki/Category:Education_in_the_United_States_by_subject" title="Category:Education in the United States by subject">By subject area</a></li>
+<li><a href="/wiki/History_of_education_in_the_United_States" title="History of education in the United States">History of</a></li>
+<li>Issues: <i><a href="/wiki/Category:Education_finance_in_the_United_States" title="Category:Education finance in the United States">Finance</a> – <a href="/wiki/Category:United_States_education_law" title="Category:United States education law">Law</a> – <a href="/wiki/Literacy_in_the_United_States" title="Literacy in the United States">Literacy</a> – <a href="/wiki/Education_reform" title="Education reform">Reform</a></i></li>
+<li>Levels: <i><a href="/wiki/Primary_education_in_the_United_States" title="Primary education in the United States">Primary</a> – <a href="/wiki/Secondary_education_in_the_United_States" title="Secondary education in the United States">Secondary</a> – <a href="/wiki/Higher_education_in_the_United_States" title="Higher education in the United States">Higher</a></i></li>
+<li><a href="/wiki/Category:Educational_organizations_based_in_the_United_States" title="Category:Educational organizations based in the United States">Organizations</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top:#aaa 1px solid; border-bottom:#aaa 1px solid;"><a href="/wiki/File:Nuvola_apps_bookcase.svg" class="image"><img alt="Nuvola apps bookcase.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Nuvola_apps_bookcase.svg/16px-Nuvola_apps_bookcase.svg.png" width="16" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Nuvola_apps_bookcase.svg/24px-Nuvola_apps_bookcase.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Nuvola_apps_bookcase.svg/32px-Nuvola_apps_bookcase.svg.png 2x" data-file-width="128" data-file-height="128" /></a> <a href="/wiki/Portal:Education" title="Portal:Education">Education portal</a><br />
+<a href="/wiki/File:Flag_of_the_United_States.svg" class="image"><img alt="Flag of the United States.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/16px-Flag_of_the_United_States.svg.png" width="16" height="8" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/24px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/32px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a> <a href="/wiki/Portal:United_States" title="Portal:United States">United States portal</a></td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Education_in_the_U.S." title="Template:Education in the U.S."><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Education_in_the_U.S." title="Template talk:Education in the U.S."><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Education_in_the_U.S.&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p>Today, the Pell Grant program assists undergraduates of low-income families, who are actively attending universities and or other secondary institutions. However, before the Pell Grant became what it is today, it went through numerous changes.</p>
+<p>In 1965, <a href="/wiki/United_States_Congress" title="United States Congress">Congress</a> passed the <a href="/wiki/Higher_Education_Act_of_1965" title="Higher Education Act of 1965">Higher Education Act of 1965</a> (HEA). President <a href="/wiki/Lyndon_B._Johnson" title="Lyndon B. Johnson">Lyndon B. Johnson</a> implemented the HEA as a part of his administration's agenda to assist and improve higher education in the United States. It was the initial legislation to benefit lower- and middle-income students. The HEA program included not only grants but also low interest loans to students who did not qualify for grants. Universities and other institutions, such as vocational schools, benefited as well from the HEA program, by receiving federal aid to improve the quality of the education process. Student aid programs administered by the US Department of Education are contained in Title IV of the HEA and so are called "Title IV Programs."</p>
+<p>In 1972, <a href="/wiki/Title_IX" title="Title IX">Title IX</a> Higher Education Amendments were a response to the distribution of aid in the current grant. Senator Claiborne Pell set forth the initial movements to reform the HEA. Opportunity Grant Program (Basic Grant) were intended to serve as the "floor" or "foundation" of an undergraduate student's financial aid package. Other financial aid, to the extent that it was available, would be added to the Basic Grant up to the limit of a student's financial need. Most changes to the federal student aid program result from a process called <i><a href="/wiki/Reauthorization" class="mw-redirect" title="Reauthorization">reauthorization</a></i>. Through the process of reauthorization, Congress examines the status of each program and decides whether to continue that program and whether a continued program requires changes in structure or purpose. Congress has reauthorized campus-based programs every five or six years, beginning in 1972.</p>
+<p>In 1994, Congress passed the Violent Crime Control and Law Enforcement Act (VCCLEA), a provision of which revoked Pell Grant funding “to any individual who is incarcerated in any federal or state penal institution.” <sup id="cite_ref-ssrn.com_7-0" class="reference"><a href="#cite_note-ssrn.com-7">[7]</a></sup> A provision of this Act overturned a section of the Higher Education Act of 1965, which created the Pell Grant for postsecondary education. The provision reads, “No basic grant shall be awarded under this subpart to any individual who is incarcerated in any Federal or State penal institution.” <sup id="cite_ref-ssrn.com_7-1" class="reference"><a href="#cite_note-ssrn.com-7">[7]</a></sup> Prisoners first became eligible for basic grant funding in 1972. As the principal design of the Pell Grant was to help low-income individuals attain post-secondary education, including prisoners was consistent with the goal. The grant aimed to reach those who might not otherwise have an opportunity to enroll in college study or vocational training programs. Including prisoners for funding was based on the notion that higher education improved inmates, reduced recidivism, and contributed to a more orderly institution.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> There is growing advocacy for reinstating Pell Grant funding for all prisoners who would qualify, despite their incarceration status by members of the House of Representatives who introduced the Restoring Education and Learning Act (REAL Act) in the spring of 2015. Education represents an opportunity to take the straight and narrow, to break the cycle.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> At the executive level, the Obama Administration is backing a program under development at the Department of Education that would allow for a limited lifting of the ban for some prisoners called the Second Chance Pell Pilot.<sup id="cite_ref-ssrn.com_7-2" class="reference"><a href="#cite_note-ssrn.com-7">[7]</a></sup></p>
+<h3><span class="mw-headline" id="Higher_Education_Amendments_of_1972">Higher Education Amendments of 1972</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pell_Grant&amp;action=edit&amp;section=2" title="Edit section: Higher Education Amendments of 1972">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:182px;"><a href="/wiki/File:Claiborne_Pell.jpg" class="image"><img alt="Claiborne Pell" src="//upload.wikimedia.org/wikipedia/commons/2/26/Claiborne_Pell.jpg" width="180" height="225" class="thumbimage" data-file-width="180" data-file-height="225" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Claiborne_Pell.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Claiborne_Pell" title="Claiborne Pell">Claiborne Pell</a></div>
+</div>
+</div>
+<p>The Higher <a href="/wiki/Education_Amendments_of_1972" title="Education Amendments of 1972">Education Amendments of 1972</a> reauthorized the three campus-based programs, leaving the <a href="/w/index.php?title=Economic_Opportunity_Grant_Program&amp;action=edit&amp;redlink=1" class="new" title="Economic Opportunity Grant Program (page does not exist)">Economic Opportunity Grant Program</a> with the same name, but renaming the two others: the National Defense Student Loan Program became the National Direct Student Loan or <a href="/wiki/Federal_Direct_Student_Loan_Program" title="Federal Direct Student Loan Program">Federal Direct Student Loan Program</a> and the <a href="/wiki/Federal_Supplemental_Educational_Opportunity_Grant" title="Federal Supplemental Educational Opportunity Grant">Federal Supplemental Educational Opportunity Grant</a> Program (<a href="/wiki/SEOG" class="mw-redirect" title="SEOG">SEOG</a>). In addition, Proprietary (profit-making) schools became eligible to use Title IV Funds. Also, the Educational Opportunity Grant Program would no longer function as a stand-alone program of gift aid but instead would be linked with the Basic Grant Program.</p>
+<p>In 1978, the Middle Income Student Assistance Act of 1978 (<a href="/w/index.php?title=MISAA&amp;action=edit&amp;redlink=1" class="new" title="MISAA (page does not exist)">MISAA</a>) was signed into act by President <a href="/wiki/Jimmy_Carter" title="Jimmy Carter">Jimmy Carter</a>. This bill provides more generous Basic Educational Opportunity Grant, Pell Grants to low-income students, and makes students from families with incomes up to about $250,000 eligible. An additional 1.5 million students from middle-income families became eligible for the Basic Grants program.<sup id="cite_ref-APP_10-0" class="reference"><a href="#cite_note-APP-10">[10]</a></sup></p>
+<p>In 1978, the alterations to the HEA were made to honor Claiborne Pell with his hard work and dedication to improving the higher education of the students in the United States.</p>
+<h3><span class="mw-headline" id="Education_Amendments_of_1978">Education Amendments of 1978</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pell_Grant&amp;action=edit&amp;section=3" title="Edit section: Education Amendments of 1978">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Families were now able to borrow $300 a year for each dependent child in school regardless of income.</p>
+<h3><span class="mw-headline" id="Recent_legislation">Recent legislation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pell_Grant&amp;action=edit&amp;section=4" title="Edit section: Recent legislation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Several changes to the program occurred in 2011. The maximum award amount for the 2011–2012 award year is $5,500.<sup id="cite_ref-USDOE_2_11-0" class="reference"><a href="#cite_note-USDOE_2-11">[11]</a></sup> Despite a shortened application process, fewer funds for the 2011–2012 program could lead to financial problems for many students. The government funded the program at $17.1 billion from 2008–2010, as part of the <a href="/wiki/American_Recovery_and_Reinvestment_Act_of_2009" title="American Recovery and Reinvestment Act of 2009">American Recovery and Reinvestment Act of 2009</a>. However, the additional funding does not match the needs of increasing numbers of students who enroll in college and qualify for aid through the recession.<sup id="cite_ref-Hopkins_12-0" class="reference"><a href="#cite_note-Hopkins-12">[12]</a></sup> The Pell Grant program was subject to a $5.7 billion decrease in funding as part of a <a href="/wiki/Continuing_resolution" title="Continuing resolution">continuing resolution</a> (H.R. 1), which cleared the <a href="/wiki/United_States_House_of_Representatives" title="United States House of Representatives">House</a> in February 2011 and cut about $60 billion from the federal budget.<sup id="cite_ref-Hopkins_12-1" class="reference"><a href="#cite_note-Hopkins-12">[12]</a></sup> The changes would take effect for the 2011–2012 school year, decreasing the maximum amount of aid for the most needy students from $5,550 to $4,705 a year; in addition, about 1.7 million students who receive smaller Pell Grants would become ineligible for the program. Approval for the cuts is not certain because of long-standing bipartisan support from the <a href="/wiki/United_States_Senate" title="United States Senate">Senate</a>.<sup id="cite_ref-Hopkins_12-2" class="reference"><a href="#cite_note-Hopkins-12">[12]</a></sup> As of April 6, 2011, funds have not been approved, as the Senate has not voted to pass this legislation.</p>
+<h2><span class="mw-headline" id="Application">Application</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pell_Grant&amp;action=edit&amp;section=5" title="Edit section: Application">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This section <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Pell_Grant&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(February 2012)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<p>The application process requires the student and the student's family complete a Free Application for Federal Student Aid (<a href="/wiki/FAFSA" title="FAFSA">FAFSA</a>) form. The applicant should complete the FAFSA form for the first time prior to starting the <a href="/wiki/Freshman" title="Freshman">freshman</a> undergraduate year and then update the form each year as the applicant progresses through the college undergraduate term. The first step in applying for the Pell Grant is to complete or update the FAFSA form on or after March 1 of each year. If an applicant must correct a completed FAFSA form, it can be done in step 3 of the application, in the "Make corrections to a processed FAFSA" section. When the student completes or updates the FAFSA application, answers to questions determine eligibility for the Pell Grant, among other government grants and funding. After the initial FAFSA application is submitted, the student is notified by email or regular postal delivery if funding is awarded. Copies of the confirmation sheet should be made for personal records.</p>
+<h3><span class="mw-headline" id="Eligibility">Eligibility</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pell_Grant&amp;action=edit&amp;section=6" title="Edit section: Eligibility">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Department of Education has a standard formula that it uses to evaluate the information that each person supplies when applying for the Pell Grant. The formula used was created by Congress from criteria submitted through the FAFSA form. The formula produces a number that is called the <a href="/wiki/Expected_Family_Contribution" title="Expected Family Contribution">Expected Family Contribution</a> (EFC), which determines the student's eligibility.<sup id="cite_ref-DofEd-PELL_13-0" class="reference"><a href="#cite_note-DofEd-PELL-13">[13]</a></sup></p>
+<p>This grant requires each applicant to be an undergraduate student who has not yet earned a bachelor's degree, and a United States citizen or an eligible non-citizen (usually, a permanent resident). In addition, the applicant must have a high school diploma or a <a href="/wiki/General_Educational_Development" title="General Educational Development">GED</a> or be able to demonstrate the <a href="/wiki/Ability_to_benefit" title="Ability to benefit">ability to benefit</a> from the program.<sup id="cite_ref-College_Board_4-1" class="reference"><a href="#cite_note-College_Board-4">[4]</a></sup> Applicants must also sign a statement certifying that they will use the aid only for education-related purposes, that they are not currently in default for any federal student loans, and that they owe no refund for any federal education grants.</p>
+<p>The Pell Grant also requires that students maintain satisfactory academic progress in a degree-oriented program as defined by the school they attend. Males between the ages of 18 and 25 must register with the <a href="/wiki/Selective_Service" class="mw-redirect" title="Selective Service">Selective Service</a>. A person may be eligible if previously incarcerated but with limited eligibility, depending on the offense.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></p>
+<p>Students may be ineligible if they have been convicted of a drug-related offense, but it depends on the actual charge, when it happened, and if they attended a drug rehabilitation program. They must not have an outstanding Pell overpayment on record. Students who received a full scholarship of any kind are ineligible.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></p>
+<p>An applicant may not receive Pell Grant funds from more than one college at a time.<sup id="cite_ref-College_Board_4-2" class="reference"><a href="#cite_note-College_Board-4">[4]</a></sup></p>
+<h3><span class="mw-headline" id="Award_amount">Award amount</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pell_Grant&amp;action=edit&amp;section=7" title="Edit section: Award amount">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>As with all grants, there is a maximum amount that the government funds for each applicant. For the 2010–2011, 2011–2012, 2012–2013, and 2013-2014 award years, the maximum amount was $5,645.<sup id="cite_ref-College_Board_4-3" class="reference"><a href="#cite_note-College_Board-4">[4]</a></sup><sup id="cite_ref-Hopkins_12-3" class="reference"><a href="#cite_note-Hopkins-12">[12]</a></sup> The maximum amount has increased for the 2014-2015 award year to $5,730. The maximum amount of the grant usually depends on the EFC and several other factors, including cost of attendance, the amount of time the student plans to attend college, whether it is a full academic year, and whether one is a full-time or part-time student<sup id="cite_ref-College_Board_4-4" class="reference"><a href="#cite_note-College_Board-4">[4]</a></sup> Once one has been considered eligible, the money can be obtained a couple of ways: the student's school can apply Pell Grant funds to school costs, pay the student directly, usually by check, or combine these methods.</p>
+<p>The school must tell the student in writing how much the award will be and how and when it will be paid, and it must disburse Pell Grant funds once a semester/term or twice during the academic year.<sup id="cite_ref-College_Board_4-5" class="reference"><a href="#cite_note-College_Board-4">[4]</a></sup> Under certain circumstances, Pell funds can also be used to fund <a href="/wiki/Career_Pathways" title="Career Pathways">Career Pathways</a> programs and support services.<sup id="cite_ref-CLASP_16-0" class="reference"><a href="#cite_note-CLASP-16">[16]</a></sup></p>
+<p>Advocacy efforts are growing to reinstate prisoner eligibility for the Pell Grant. There is growing focus on education as a preventative to re-incarceration. An increasing number of studies underscore education as a critical factor. In 1997, one study on 3,200 prisoners in three states showed that simply attending school behind bars reduced the likelihood of re-incarceration by 29 percent.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup></p>
+<h2><span class="mw-headline" id="Uses_of_grant">Uses of grant</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pell_Grant&amp;action=edit&amp;section=8" title="Edit section: Uses of grant">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Typically, the college first applies the grant or loan money toward a student's tuition, fees, and (if the student lives on campus) room and board. Any money left over is paid to the student for other expenses: books, living expenses if the student does not live on campus, and transportation.<sup id="cite_ref-PELL_1-1" class="reference"><a href="#cite_note-PELL-1">[1]</a></sup><sup id="cite_ref-HowCalculated_2-1" class="reference"><a href="#cite_note-HowCalculated-2">[2]</a></sup></p>
+<h2><span class="mw-headline" id="Impact">Impact</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pell_Grant&amp;action=edit&amp;section=9" title="Edit section: Impact">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Students coming from low-income families already face increased challenges that hinder their ability to receive a higher education. The Pell Grant addresses one of the issues by making college accessible to students that may need the financial assistance. It has been shown to increase the college enrollment of students coming from lower and moderate-income families. It can also reduce the chances of them dropping out.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup></p>
+<h2><span class="mw-headline" id="Appropriations">Appropriations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pell_Grant&amp;action=edit&amp;section=10" title="Edit section: Appropriations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Fiscal Year 2011: $41,674,180,000 Fiscal Year 2010: $21,772,000,000 Fiscal Year 2009&#160;: $19,378,000,000 Fiscal Year 2008&#160;: $16,256,000,000 Fiscal Year 2007&#160;: $13,660,711,000 Note: The amount for FY 2006 includes $4.3 billion to retire prior-year funding shortfalls; the amount for FY 2008 includes $2 billion in mandatory funds.</p>
+<p>Note: The amounts for FY 2008 and FY 2009 include $2,000,000,000 and $2,100,000,000, respectively, in mandatory funds. In addition, the $17,114,000,000 in 70 U .S. Department of Education Recovery Act funds includes $1,474,000,000 in mandatory funds, of which 831,000,000 is for use in academic year 2010–11.</p>
+<p>Note: The amount for FY 2009 includes $2,090,000,000 in definite mandatory funds and $16,283,000,000 in American Recovery and Reinvestment Act of 2009 funds, of which $643,000,000 is mandatory. The FY 2010 appropriation amount includes $5,299,816,000 in indefinite mandatory funds. The FY 2011 appropriation above includes $13,500,000,000 in mandatory funds to help reduce discretionary need and $5,218,184,000, which is the estimate of indefinite mandatory funds needed. <a rel="nofollow" class="external free" href="http://www2.ed.gov/programs/fpg/funding.html">http://www2.ed.gov/programs/fpg/funding.html</a></p>
+<table class="wikitable">
+<caption>2015-2016 (3rd Qtr) Award Year Grant Volume by School (Top Ten) <sup id="cite_ref-Pell_Grants_2015-2016_6-1" class="reference"><a href="#cite_note-Pell_Grants_2015-2016-6">[6]</a></sup></caption>
+<tr>
+<th>School</th>
+<th>State</th>
+<th>Type</th>
+<th>Students</th>
+<th>Amount</th>
+</tr>
+<tr>
+<td><a href="/wiki/University_Of_Phoenix" class="mw-redirect" title="University Of Phoenix">University Of Phoenix</a></td>
+<td><a href="/wiki/Arizona" title="Arizona">AZ</a></td>
+<td>Proprietary</td>
+<td>38,015</td>
+<td>$96,589,867</td>
+</tr>
+<tr>
+<td><a href="/wiki/Miami_Dade_College" title="Miami Dade College">Miami Dade College</a></td>
+<td><a href="/wiki/Florida" title="Florida">FL</a></td>
+<td>Public</td>
+<td>31,349</td>
+<td>$63,061,660</td>
+</tr>
+<tr>
+<td><a href="/wiki/Ivy_Tech_Community_College_of_Indiana" title="Ivy Tech Community College of Indiana">Ivy Tech Community College of Indiana</a></td>
+<td><a href="/wiki/Indiana" title="Indiana">IN</a></td>
+<td>Public</td>
+<td>30,380</td>
+<td>$57,363,995</td>
+</tr>
+<tr>
+<td><a href="/wiki/Arizona_State_University" title="Arizona State University">Arizona State University</a></td>
+<td><a href="/wiki/Arizona" title="Arizona">AZ</a></td>
+<td>Public</td>
+<td>25,343</td>
+<td>$54,307,781</td>
+</tr>
+<tr>
+<td><a href="/wiki/California_State_University_Northridge" class="mw-redirect" title="California State University Northridge">California State University Northridge</a></td>
+<td><a href="/wiki/California" title="California">CA</a></td>
+<td>Public</td>
+<td>18,530</td>
+<td>$44,434,518</td>
+</tr>
+<tr>
+<td><a href="/wiki/ITT_Technical_Institute" title="ITT Technical Institute">ITT Technical Institute</a></td>
+<td><a href="/wiki/Indiana" title="Indiana">IN</a></td>
+<td>Proprietary</td>
+<td>23,516</td>
+<td>$42,645,418</td>
+</tr>
+<tr>
+<td><a href="/wiki/Liberty_University" title="Liberty University">Liberty University</a></td>
+<td><a href="/wiki/Virginia" title="Virginia">VA</a></td>
+<td>Private-Nonprofit</td>
+<td>20,744</td>
+<td>$42,217,819</td>
+</tr>
+<tr>
+<td><a href="/wiki/University_of_Central_Florida" title="University of Central Florida">University of Central Florida</a> Main Campus</td>
+<td><a href="/wiki/Florida" title="Florida">FL</a></td>
+<td>Public</td>
+<td>19,845</td>
+<td>$41,751,049</td>
+</tr>
+<tr>
+<td><a href="/wiki/Florida_International_University" title="Florida International University">Florida International University</a></td>
+<td><a href="/wiki/Florida" title="Florida">FL</a></td>
+<td>Public</td>
+<td>18,355</td>
+<td>$39,699,267</td>
+</tr>
+<tr>
+<td><a href="/wiki/Pennsylvania_State_University" title="Pennsylvania State University">Pennsylvania State University</a></td>
+<td><a href="/wiki/Pennsylvania" title="Pennsylvania">PA</a></td>
+<td>Public</td>
+<td>18,353</td>
+<td>$39,633,749</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Awards_Information">Awards Information</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pell_Grant&amp;action=edit&amp;section=11" title="Edit section: Awards Information">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>2011</p>
+<p>Amount of Aid Available: $35,772,935,000 Amount of Aid Available represents the amount of funds to be awarded to participants in this program. Number of New Awards Anticipated: 9,413,000 Average New Award: $3,800 Range of New Awards: $555–$5,550</p>
+<p>2010</p>
+<p>Amount of Aid Available: $32,295,226,000 Amount of Aid Available represents the amount of funds to be awarded to participants in this program. Number of New Awards Anticipated: 8,355,000 Average New Award: $3,865 Range of New Awards: $555–$5,550</p>
+<p>2009</p>
+<p>Amount of Aid Available: $25,328,889,000 Amount of Aid Available represents the amount of funds awarded to participants in the Federal Student Aid programs. Depending upon the program, this total may include federal appropriated dollars, institutional or state matching dollars, and federal or private loan capital. Number of New Awards Anticipated: 7,022,000 Average New Award: $3,611 Range of New Awards: $486–$5,350</p>
+<p>2008</p>
+<p>Amount of Aid Available: $16,428,110,000 Amount of Aid Available represents the amount of funds awarded to participants in the Federal Student Aid programs. Depending upon the program, this total may include federal appropriated dollars, institutional or state matching dollars, and federal or private loan capital. Number of New Awards Anticipated: 5,578,000 Average New Award: $2,945 Range of New Awards: $400–$4,731</p>
+<p>2007</p>
+<p>Amount of Aid Available: $13,989,305,000 Amount of Aid Available represents the amount of funds awarded to participants in the Federal Student Aid programs. Depending upon the program, this total may include federal appropriated dollars, institutional or state matching dollars, and federal or private loan capital. Number of New Awards Anticipated: 5,339,000 Average New Award: $2,620 Range of New Awards: $400–$4,310<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup></p>
+<h2><span class="mw-headline" id="Federal_Pell_Grant_Lifetime_Eligibility_calculator">Federal Pell Grant Lifetime Eligibility calculator</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pell_Grant&amp;action=edit&amp;section=12" title="Edit section: Federal Pell Grant Lifetime Eligibility calculator">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The scheduled award is the maximum amount of Federal Pell Grant funding a student can receive is calculated for an award year. An award year is a period from July 1 of one calendar year to June 30 of the next year.</p>
+<p>The scheduled award is partially determined using the student's expected family contribution (EFC), which the program calculates from the information the student and family provided in the Free Application for Federal Student Aid (FAFSA). The result is the maximum amount the student can receive for the award year if enrolled full-time for the full school year. It represents 100% of the Pell Grant eligibility for that award year.</p>
+<p>To determine how much of the maximum six years (600%) of Pell Grant the student uses each year, the U.S. Department of Education (ED) compares the actual amount awarded for the award year with the scheduled award amount for that award year. A student who uses 100% receives the full award. A student might not receive the entire scheduled award for an award year, most commonly if the student did not enroll for the full year, did not enroll full-time, or both. If the student does not receive the full award, ED calculates the percentage of the scheduled award they received. Before the 2011-2012 Aid Year, the FAFSA limit was 18 semesters, but it was cut to 12 semesters by Congress.</p>
+<p>ED tracks the Lifetime Eligibility Used by adding the percentages of the Pell Grant scheduled awards a student receives each award year.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup></p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pell_Grant&amp;action=edit&amp;section=13" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 50em; -webkit-column-width: 50em; column-width: 50em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-PELL-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-PELL_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-PELL_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://studentaid.ed.gov/sa/types/grants-scholarships/pell">"Federal Pell Grants are usually awarded only to undergraduate students."</a><span class="reference-accessdate">. Retrieved <span class="nowrap">March 10,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APell+Grant&amp;rft.btitle=Federal+Pell+Grants+are+usually+awarded+only+to+undergraduate+students.&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fstudentaid.ed.gov%2Fsa%2Ftypes%2Fgrants-scholarships%2Fpell&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-HowCalculated-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-HowCalculated_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-HowCalculated_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://studentaid.ed.gov/sa/fafsa/next-steps/how-calculated">"Wondering how the amount of your federal student aid is determined?"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">March 10,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APell+Grant&amp;rft.btitle=Wondering+how+the+amount+of+your+federal+student+aid+is+determined%3F&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fstudentaid.ed.gov%2Fsa%2Ffafsa%2Fnext-steps%2Fhow-calculated&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-USDOE_1-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-USDOE_1_3-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www2.ed.gov/about/overview/budget/budget11/justifications/p-pell.pdf">"Federal Pell Grants"</a> <span style="font-size:85%;">(PDF)</span>. Department of Education<span class="reference-accessdate">. Retrieved <span class="nowrap">April 6,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APell+Grant&amp;rft.btitle=Federal+Pell+Grants&amp;rft.genre=unknown&amp;rft.pub=Department+of+Education&amp;rft_id=http%3A%2F%2Fwww2.ed.gov%2Fabout%2Foverview%2Fbudget%2Fbudget11%2Fjustifications%2Fp-pell.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-College_Board-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-College_Board_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-College_Board_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-College_Board_4-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-College_Board_4-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-College_Board_4-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-College_Board_4-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.collegeboard.com/student/pay/scholarships-and-aid/36318.html">"What is a Pell Grant?"</a>. <a href="/wiki/College_Board" title="College Board">College Board</a><span class="reference-accessdate">. Retrieved <span class="nowrap">March 26,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APell+Grant&amp;rft.btitle=What+is+a+Pell+Grant%3F&amp;rft.genre=unknown&amp;rft.pub=College+Board&amp;rft_id=http%3A%2F%2Fwww.collegeboard.com%2Fstudent%2Fpay%2Fscholarships-and-aid%2F36318.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-MOHE-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-MOHE_5-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.getreadyforcollege.org/gPg.cfm?pageID=139&amp;1534-D83A_1933715A=f07538b484e4efd0ba6d933da0d63412d7e48b3c">"Federal Pell Grant"</a>. Minnesota Office of Higher Education<span class="reference-accessdate">. Retrieved <span class="nowrap">March 26,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APell+Grant&amp;rft.btitle=Federal+Pell+Grant&amp;rft.genre=unknown&amp;rft.pub=Minnesota+Office+of+Higher+Education&amp;rft_id=http%3A%2F%2Fwww.getreadyforcollege.org%2FgPg.cfm%3FpageID%3D139%261534-D83A_1933715A%3Df07538b484e4efd0ba6d933da0d63412d7e48b3c&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Pell_Grants_2015-2016-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-Pell_Grants_2015-2016_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Pell_Grants_2015-2016_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://studentaid.ed.gov/sa/about/data-center/student/title-iv">https://studentaid.ed.gov/sa/about/data-center/student/title-iv</a>, AY 2015-2016 Q3,</span></li>
+<li id="cite_note-ssrn.com-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-ssrn.com_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ssrn.com_7-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-ssrn.com_7-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">SpearIt, Keeping It REAL: Why Congress Must Act to Restore Pell Grant Funding for Prisoners (January 6, 2016). University of Massachusetts Law Review, Vol. 11, 2016. Available at SSRN: <a rel="nofollow" class="external free" href="http://ssrn.com/abstract=2711979">http://ssrn.com/abstract=2711979</a></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">SpearIt, Restoring Pell Grants for Prisoners- Growing Momentum for Reform <a rel="nofollow" class="external free" href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2814358">http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2814358</a></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">SpearIt, Restoring Pell Grants for Prisoners - Growing Momentum For Reform <a rel="nofollow" class="external free" href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2814358">http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2814358</a></span></li>
+<li id="cite_note-APP-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-APP_10-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.presidency.ucsb.edu/ws/index.php?pid=30087#axzz1HsOkGXHW">"The American Presidency Project"</a>. Gerhard Peters<span class="reference-accessdate">. Retrieved <span class="nowrap">March 26,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APell+Grant&amp;rft.btitle=The+American+Presidency+Project&amp;rft.genre=unknown&amp;rft.pub=Gerhard+Peters&amp;rft_id=http%3A%2F%2Fwww.presidency.ucsb.edu%2Fws%2Findex.php%3Fpid%3D30087%23axzz1HsOkGXHW&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-USDOE_2-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-USDOE_2_11-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www2.ed.gov/programs/fpg/index.html">"Federal Pell Grant Program"</a>. U.S. Department of Education<span class="reference-accessdate">. Retrieved <span class="nowrap">June 7,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APell+Grant&amp;rft.btitle=Federal+Pell+Grant+Program&amp;rft.genre=unknown&amp;rft.pub=U.S.+Department+of+Education&amp;rft_id=http%3A%2F%2Fwww2.ed.gov%2Fprograms%2Ffpg%2Findex.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Hopkins-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-Hopkins_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Hopkins_12-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Hopkins_12-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Hopkins_12-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Hopkins, Katy. <a rel="nofollow" class="external text" href="https://www.usnews.com/education/best-colleges/paying-for-college/articles/2011/03/02/potential-cuts-to-pell-grant-could-affect-students-in-2011">"Potential Cuts to Pell Grant Could Affect Students in 2011"</a>. U.S. News<span class="reference-accessdate">. Retrieved <span class="nowrap">March 26,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APell+Grant&amp;rft.aufirst=Katy&amp;rft.aulast=Hopkins&amp;rft.btitle=Potential+Cuts+to+Pell+Grant+Could+Affect+Students+in+2011&amp;rft.genre=unknown&amp;rft.pub=U.S.+News&amp;rft_id=https%3A%2F%2Fwww.usnews.com%2Feducation%2Fbest-colleges%2Fpaying-for-college%2Farticles%2F2011%2F03%2F02%2Fpotential-cuts-to-pell-grant-could-affect-students-in-2011&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-DofEd-PELL-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-DofEd-PELL_13-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://ifap.ed.gov/efcformulaguide/attachments/082511EFCFormulaGuide1213.pdf">"THE EFC FORMULA, 2012-2013"</a> <span style="font-size:85%;">(PDF)</span>. <i><a rel="nofollow" class="external text" href="http://ifap.ed.gov/ifap/byTopic.jsp?program=4">iLibrary - Federal Pell Grant (Pell Grant) Program</a>, <a rel="nofollow" class="external text" href="http://ifap.ed.gov">Information for Financial Aid Professionals (IFAP)</a></i>. <a rel="nofollow" class="external text" href="http://www.ed.gov/">U.S. Department of Education</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APell+Grant&amp;rft.atitle=THE+EFC+FORMULA%2C+2012-2013&amp;rft.genre=unknown&amp;rft.jtitle=%5Bhttp%3A%2F%2Fifap.ed.gov%2Fifap%2FbyTopic.jsp%3Fprogram%3D4+iLibrary+-+Federal+Pell+Grant+%28Pell+Grant%29+Program%5D%2C+%5Bhttp%3A%2F%2Fifap.ed.gov+Information+for+Financial+Aid+Professionals+%28IFAP%29%5D&amp;rft_id=http%3A%2F%2Fifap.ed.gov%2Fefcformulaguide%2Fattachments%2F082511EFCFormulaGuide1213.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="font-size:100%" class="error citation-comment">External link in <code style="color:inherit; border:inherit; padding:inherit;">|publisher=, |work=</code> (<a href="/wiki/Help:CS1_errors#param_has_ext_link" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://studentaid.ed.gov/sa/eligibility/criminal-convictions">"Students with Criminal Convictions"</a>. Federal Student Aid Information Center. 2014-12-01<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-09-11</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APell+Grant&amp;rft.btitle=Students+with+Criminal+Convictions&amp;rft.date=2014-12-01&amp;rft.genre=unknown&amp;rft.pub=Federal+Student+Aid+Information+Center&amp;rft_id=https%3A%2F%2Fstudentaid.ed.gov%2Fsa%2Feligibility%2Fcriminal-convictions&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://pellgranteligibility.org/">"Pell Grant Eligibility"</a>. Pell Grant Eligibility. 1999-02-22<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-02-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APell+Grant&amp;rft.btitle=Pell+Grant+Eligibility&amp;rft.date=1999-02-22&amp;rft.genre=unknown&amp;rft.pub=Pell+Grant+Eligibility&amp;rft_id=http%3A%2F%2Fpellgranteligibility.org%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-CLASP-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-CLASP_16-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.clasp.org/admin/site/documents/files/FundingCareerPathways_Pell.pdf">"Funding Career Pathways: Pell Grants"</a> <span style="font-size:85%;">(PDF)</span>. <a href="/wiki/Center_for_Law_and_Social_Policy" title="Center for Law and Social Policy">Center for Law and Social Policy</a><span class="reference-accessdate">. Retrieved <span class="nowrap">August 9,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APell+Grant&amp;rft.btitle=Funding+Career+Pathways%3A+Pell+Grants&amp;rft.genre=unknown&amp;rft.pub=Center+for+Law+and+Social+Policy&amp;rft_id=http%3A%2F%2Fwww.clasp.org%2Fadmin%2Fsite%2Fdocuments%2Ffiles%2FFundingCareerPathways_Pell.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">SpearIt, The Return of Pell Grants for Prisoners? <a rel="nofollow" class="external free" href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2814364">http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2814364</a></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">Boteach, Melissa, Erik Stegman, Sarah Baron, Tracey Ross, and Katie Wright. "The War on Poverty: Then and Now." The War on Poverty: Then and Now (2014): 1-34. Center for American Progress. Center for American Progress. Web. 14 Apr. 2015. &lt;<a rel="nofollow" class="external free" href="https://www.americanprogress.org/wp-content/uploads/2014/01/PovertyAnniversary.pdf">https://www.americanprogress.org/wp-content/uploads/2014/01/PovertyAnniversary.pdf</a>&gt;.</span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www2.ed.gov/programs/fpg/funding.html">"Funding Status - Federal Pell Grant Program"</a>. .ed.gov. 2011-11-21<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-02-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APell+Grant&amp;rft.btitle=Funding+Status+-+Federal+Pell+Grant+Program&amp;rft.date=2011-11-21&amp;rft.genre=unknown&amp;rft.pub=.ed.gov&amp;rft_id=http%3A%2F%2Fwww2.ed.gov%2Fprograms%2Ffpg%2Ffunding.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://studentaid.ed.gov/types/grants-scholarships/pell/calculate-eligibility">"Calculating Pell Grant Lifetime Eligibility Used | Federal Student Aid"</a>. Studentaid.ed.gov. 2012-06-15<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-02-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APell+Grant&amp;rft.btitle=Calculating+Pell+Grant+Lifetime+Eligibility+Used+%26%23124%3B+Federal+Student+Aid&amp;rft.date=2012-06-15&amp;rft.genre=unknown&amp;rft.pub=Studentaid.ed.gov&amp;rft_id=http%3A%2F%2Fstudentaid.ed.gov%2Ftypes%2Fgrants-scholarships%2Fpell%2Fcalculate-eligibility&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pell_Grant&amp;action=edit&amp;section=14" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.fafsa.ed.gov/">FAFSA on the Web</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.independent.org/pdf/tir/tir_15_03_1_bankston.pdf">'The Mass Production of Credentials: Subsidies and the Rise of the Higher Education Industry.' "The Independent Review" 15 (3): 325–349</a></li>
+<li><a rel="nofollow" class="external text" href="http://www2.ed.gov/programs/fpg/funding.html">ed.gov</a></li>
+<li><a rel="nofollow" class="external text" href="http://studentaid.ed.gov/types/grants-scholarships/pell/calculate-eligibility">studentaid.ed.gov</a></li>
+<li><a rel="nofollow" class="external text" href="http://pellgranteligibility.org/">pellgranteligibility.org</a></li>
+<li><a rel="nofollow" class="external text" href="http://leb.fbi.gov/2014/february/pell-grant-fraud-awareness-white-collar-crime-challenges">Pell Grant Fraud Awareness: White-Collar Crime Challenges</a> <a href="/wiki/FBI" class="mw-redirect" title="FBI">FBI</a></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1272
+Cached time: 20171009045300
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.236 seconds
+Real time usage: 0.298 seconds
+Preprocessor visited node count: 1186/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 37947/2097152 bytes
+Template argument size: 1301/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 4/500
+Lua time usage: 0.104/10.000 seconds
+Lua memory usage: 4.35 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  256.857      1 -total
+ 43.90%  112.762      1 Template:Reflist
+ 33.08%   84.957     14 Template:Cite_web
+ 16.27%   41.786      1 Template:Update
+ 15.43%   39.631      2 Template:Ambox
+ 14.20%   36.483      2 Template:Main_other
+ 11.96%   30.719      1 Template:Use_mdy_dates
+ 10.36%   26.620      1 Template:Education_in_the_U.S.
+  9.69%   24.883      1 Template:Sidebar
+  6.25%   16.065      2 Template:DMCA
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:3180351-0!canonical and timestamp 20171009045300 and revision id 799493023
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Pell_Grant&amp;oldid=799493023">https://en.wikipedia.org/w/index.php?title=Pell_Grant&amp;oldid=799493023</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Student_financial_aid" title="Category:Student financial aid">Student financial aid</a></li><li><a href="/wiki/Category:Federal_assistance_in_the_United_States" title="Category:Federal assistance in the United States">Federal assistance in the United States</a></li><li><a href="/wiki/Category:Liberalism_in_the_United_States" title="Category:Liberalism in the United States">Liberalism in the United States</a></li><li><a href="/wiki/Category:Subsidies" title="Category:Subsidies">Subsidies</a></li><li><a href="/wiki/Category:United_States_Department_of_Education" title="Category:United States Department of Education">United States Department of Education</a></li><li><a href="/wiki/Category:Grants_(money)" title="Category:Grants (money)">Grants (money)</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_errors:_external_links" title="Category:CS1 errors: external links">CS1 errors: external links</a></li><li><a href="/wiki/Category:Use_mdy_dates_from_April_2012" title="Category:Use mdy dates from April 2012">Use mdy dates from April 2012</a></li><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_2016" title="Category:Articles containing potentially dated statements from 2016">Articles containing potentially dated statements from 2016</a></li><li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">All articles containing potentially dated statements</a></li><li><a href="/wiki/Category:Wikipedia_articles_in_need_of_updating_from_March_2016" title="Category:Wikipedia articles in need of updating from March 2016">Wikipedia articles in need of updating from March 2016</a></li><li><a href="/wiki/Category:All_Wikipedia_articles_in_need_of_updating" title="Category:All Wikipedia articles in need of updating">All Wikipedia articles in need of updating</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_February_2012" title="Category:Articles needing additional references from February 2012">Articles needing additional references from February 2012</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Pell+Grant" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Pell+Grant" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Pell_Grant" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Pell_Grant" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Pell_Grant">Read</a></span></li>
+							<li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Pell_Grant&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Pell_Grant&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Pell_Grant" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Pell_Grant" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Pell_Grant&amp;oldid=799493023" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Pell_Grant&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2068057" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Pell_Grant&amp;id=799493023" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Pell+Grant">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Pell+Grant&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Pell_Grant&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Pell_Grant" title="Pell Grant – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Donum_Pellianum" title="Donum Pellianum – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2068057#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 8 September 2017, at 01:41.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Pell_Grant&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.236","walltime":"0.298","ppvisitednodes":{"value":1186,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":37947,"limit":2097152},"templateargumentsize":{"value":1301,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  256.857      1 -total"," 43.90%  112.762      1 Template:Reflist"," 33.08%   84.957     14 Template:Cite_web"," 16.27%   41.786      1 Template:Update"," 15.43%   39.631      2 Template:Ambox"," 14.20%   36.483      2 Template:Main_other"," 11.96%   30.719      1 Template:Use_mdy_dates"," 10.36%   26.620      1 Template:Education_in_the_U.S.","  9.69%   24.883      1 Template:Sidebar","  6.25%   16.065      2 Template:DMCA"]},"scribunto":{"limitreport-timeusage":{"value":"0.104","limit":"10.000"},"limitreport-memusage":{"value":4559067,"limit":52428800}},"cachereport":{"origin":"mw1272","timestamp":"20171009045300","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":84,"wgHostname":"mw1264"});});</script>
+	</body>
+</html>

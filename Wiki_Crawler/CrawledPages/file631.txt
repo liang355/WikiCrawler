@@ -1,0 +1,689 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Cambridge Common - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Cambridge_Common","wgTitle":"Cambridge Common","wgCurRevisionId":789793131,"wgRevisionId":789793131,"wgArticleId":4109017,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using infobox NRHP with unknown parameters","Coordinates on Wikidata","All stub articles","National Register of Historic Places in Cambridge, Massachusetts","Urban public parks","Parks in Middlesex County, Massachusetts","Tourist attractions in Cambridge, Massachusetts","Harvard Square","Historic districts on the National Register of Historic Places in Massachusetts","Cambridge, Massachusetts Registered Historic Place stubs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Cambridge_Common","wgRelevantArticleId":4109017,"wgRequestId":"WeacqApAAEMAACayr5gAAACR","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCoordinates":{"lat":42.37651,"lon":-71.12049},"wgWikibaseItemId":"Q5025392","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.3"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Cambridge_Common_from_the_Seat_of_Caleb_Gannett_1808.jpg/1200px-Cambridge_Common_from_the_Seat_of_Caleb_Gannett_1808.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Cambridge_Common"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Cambridge_Common&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Cambridge_Common&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Cambridge_Common"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Cambridge_Common rootpage-Cambridge_Common vector-experimental-print-styles vector-nav-directionality skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Cambridge Common</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox" style="width:22em;width:250px; border-spacing:1px;">
+<tr>
+<td colspan="2" style="text-align:center;padding:0; border:none;"></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center">
+<div style="width:100%; font-size:105%; font-weight:bold; background: #A8EDEF; line-height:1.5">Cambridge Common Historic District</div>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center">
+<div style="width:100%; text-align:center; line-height:1.5; background: #A8EDEF;"><a href="/wiki/National_Register_of_Historic_Places" title="National Register of Historic Places">U.S. National Register of Historic Places</a></div>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center">
+<div style="width:100%; text-align:center; line-height:1.4; background: #E6E6FA"><a href="/wiki/Historic_districts_in_the_United_States" title="Historic districts in the United States">U.S. Historic district</a></div>
+</td>
+</tr>
+<tr style="display:none">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Cambridge_Common_from_the_Seat_of_Caleb_Gannett_1808.jpg" class="image"><img alt="Cambridge Common from the Seat of Caleb Gannett 1808.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Cambridge_Common_from_the_Seat_of_Caleb_Gannett_1808.jpg/250px-Cambridge_Common_from_the_Seat_of_Caleb_Gannett_1808.jpg" width="250" height="137" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Cambridge_Common_from_the_Seat_of_Caleb_Gannett_1808.jpg/375px-Cambridge_Common_from_the_Seat_of_Caleb_Gannett_1808.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/85/Cambridge_Common_from_the_Seat_of_Caleb_Gannett_1808.jpg/500px-Cambridge_Common_from_the_Seat_of_Caleb_Gannett_1808.jpg 2x" data-file-width="2025" data-file-height="1108" /></a>
+<div style="font-size:95%;">View of the Cambridge Common, ca. 1808-09, with <a href="/wiki/Harvard_College" title="Harvard College">Harvard College</a> on the left and <a href="/wiki/Christ_Church_(Cambridge,_Massachusetts)" title="Christ Church (Cambridge, Massachusetts)">Christ Church</a> on the right.</div>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center">
+<div class="switcher-container">
+<div class="center">
+<div style="width:250px;float:none;clear:both;margin-left:auto;margin-right:auto">
+<div style="width:250px;padding:0">
+<div style="position:relative;width:250px"><a href="/wiki/File:USA_Massachusetts_location_map.svg" class="image" title="Cambridge Common is located in Massachusetts"><img alt="Cambridge Common is located in Massachusetts" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/USA_Massachusetts_location_map.svg/250px-USA_Massachusetts_location_map.svg.png" width="250" height="171" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/USA_Massachusetts_location_map.svg/375px-USA_Massachusetts_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/79/USA_Massachusetts_location_map.svg/500px-USA_Massachusetts_location_map.svg.png 2x" data-file-width="1050" data-file-height="717" /></a>
+<div style="position:absolute;top:34.452%;left:64.487%">
+<div style="position:absolute;left:-4px;top:-4px;line-height:0"><img alt="Cambridge Common" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/7px-Red_pog.svg.png" title="Cambridge Common" width="7" height="7" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/11px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/14px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div>
+</div>
+</div>
+<span class="switcher-label" style="display:none">Show map of Massachusetts</span></div>
+</div>
+</div>
+<div class="center">
+<div style="width:250px;float:none;clear:both;margin-left:auto;margin-right:auto">
+<div style="width:250px;padding:0">
+<div style="position:relative;width:250px"><a href="/wiki/File:Usa_edcp_location_map.svg" class="image" title="Cambridge Common is located in the US"><img alt="Cambridge Common is located in the US" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Usa_edcp_location_map.svg/250px-Usa_edcp_location_map.svg.png" width="250" height="155" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Usa_edcp_location_map.svg/375px-Usa_edcp_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Usa_edcp_location_map.svg/500px-Usa_edcp_location_map.svg.png 2x" data-file-width="1181" data-file-height="731" /></a>
+<div style="position:absolute;top:28.087%;left:89.361%">
+<div style="position:absolute;left:-4px;top:-4px;line-height:0"><img alt="Cambridge Common" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/7px-Red_pog.svg.png" title="Cambridge Common" width="7" height="7" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/11px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/14px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div>
+</div>
+</div>
+<span class="switcher-label" style="display:none">Show map of the US</span></div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="font-weight:bold; border: 0;">Location</th>
+<td style="border: 0;">Roughly SE of Waterhouse St., bordered by Garden St. and <a href="/wiki/Massachusetts_Avenue_(metropolitan_Boston)" title="Massachusetts Avenue (metropolitan Boston)">Massachusetts Ave.</a>, <a href="/wiki/Cambridge,_Massachusetts" title="Cambridge, Massachusetts">Cambridge, Massachusetts</a></td>
+</tr>
+<tr>
+<th scope="row" style="font-weight:bold; border: 0;">Area</th>
+<td style="border: 0;">8.5 acres (3.4&#160;ha)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="font-weight:bold; border: 0;">Built</th>
+<td style="border: 0;">1770</td>
+</tr>
+<tr>
+<th scope="row" style="font-weight:bold; border: 0;">Architectural&#160;style</th>
+<td style="border: 0;">Greek Revival, Federal</td>
+</tr>
+<tr>
+<th scope="row" style="font-weight:bold; border: 0;"><a href="/wiki/Multiple_Property_Submission" class="mw-redirect" title="Multiple Property Submission">MPS</a></th>
+<td style="border: 0;"><a rel="nofollow" class="external text" href="http://focus.nps.gov/pdfhost/docs/NRHP/Text/64000275.pdf">Cambridge MRA</a></td>
+</tr>
+<tr>
+<th scope="row" style="font-weight:bold; border: 0;">NRHP&#160;reference&#160;#</th>
+<td style="border: 0;"><a rel="nofollow" class="external text" href="https://npgallery.nps.gov/AssetDetail/NRIS/87000499">87000499</a><sup id="cite_ref-nris_1-0" class="reference"><a href="#cite_note-nris-1">[1]</a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="font-weight:bold; border: 0;">Added to NRHP</th>
+<td style="border: 0;">January 26, 1987</td>
+</tr>
+</table>
+<p><b>Cambridge Common</b> is a public park in <a href="/wiki/Cambridge,_Massachusetts" title="Cambridge, Massachusetts">Cambridge, Massachusetts</a>, <a href="/wiki/United_States" title="United States">United States</a>. It is located near <a href="/wiki/Harvard_Square" title="Harvard Square">Harvard Square</a> and borders on several parts of <a href="/wiki/Harvard_University" title="Harvard University">Harvard University</a>. This park is a popular place to play kickball, softball, soccer, and frisbee. The north end of the park has a large playground. The park is maintained by the Cambridge Department of Public Works.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:1510-Cambridge_Common_001.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/1510-Cambridge_Common_001.jpg/220px-1510-Cambridge_Common_001.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/1510-Cambridge_Common_001.jpg/330px-1510-Cambridge_Common_001.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6b/1510-Cambridge_Common_001.jpg/440px-1510-Cambridge_Common_001.jpg 2x" data-file-width="3648" data-file-height="2736" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:1510-Cambridge_Common_001.jpg" class="internal" title="Enlarge"></a></div>
+Entrance to Cambridge Common</div>
+</div>
+</div>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:1510-Cambridge_Common_077.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/1510-Cambridge_Common_077.jpg/220px-1510-Cambridge_Common_077.jpg" width="220" height="293" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/1510-Cambridge_Common_077.jpg/330px-1510-Cambridge_Common_077.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/71/1510-Cambridge_Common_077.jpg/440px-1510-Cambridge_Common_077.jpg 2x" data-file-width="2736" data-file-height="3648" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:1510-Cambridge_Common_077.jpg" class="internal" title="Enlarge"></a></div>
+Cambridge Common</div>
+</div>
+</div>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:1510-Cambridge_Common_079.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/1510-Cambridge_Common_079.jpg/220px-1510-Cambridge_Common_079.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/1510-Cambridge_Common_079.jpg/330px-1510-Cambridge_Common_079.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/29/1510-Cambridge_Common_079.jpg/440px-1510-Cambridge_Common_079.jpg 2x" data-file-width="3648" data-file-height="2736" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:1510-Cambridge_Common_079.jpg" class="internal" title="Enlarge"></a></div>
+Cambridge Common</div>
+</div>
+</div>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Gallery"><span class="tocnumber">2</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cambridge_Common&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Cannons_on_the_Common_-_Cambridge,_MA.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Cannons_on_the_Common_-_Cambridge%2C_MA.jpg/220px-Cannons_on_the_Common_-_Cambridge%2C_MA.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Cannons_on_the_Common_-_Cambridge%2C_MA.jpg/330px-Cannons_on_the_Common_-_Cambridge%2C_MA.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Cannons_on_the_Common_-_Cambridge%2C_MA.jpg/440px-Cannons_on_the_Common_-_Cambridge%2C_MA.jpg 2x" data-file-width="3264" data-file-height="2448" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Cannons_on_the_Common_-_Cambridge,_MA.jpg" class="internal" title="Enlarge"></a></div>
+A modern view of the common</div>
+</div>
+</div>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:USA-Cambridge_Common0.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/USA-Cambridge_Common0.jpg/220px-USA-Cambridge_Common0.jpg" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/USA-Cambridge_Common0.jpg/330px-USA-Cambridge_Common0.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/USA-Cambridge_Common0.jpg/440px-USA-Cambridge_Common0.jpg 2x" data-file-width="5135" data-file-height="3432" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:USA-Cambridge_Common0.jpg" class="internal" title="Enlarge"></a></div>
+Cambridge Common</div>
+</div>
+</div>
+<p>General <a href="/wiki/George_Washington" title="George Washington">George Washington</a> gathered troops on Cambridge Common during the <a href="/wiki/American_Revolutionary_War" title="American Revolutionary War">American Revolutionary War</a>. A commemorative plaque marks the location of the <a href="/wiki/Washington_Elm" title="Washington Elm">Washington Elm</a>, a tree under which legend claims Washington stood as he first assumed command of the <a href="/wiki/Continental_Army" title="Continental Army">Continental Army</a>. Nearby is a trio of <a href="/wiki/Bronze" title="Bronze">bronze</a> cannons, a plaque for <a href="/wiki/Henry_Knox" title="Henry Knox">Henry Knox</a>, and another for <a href="/wiki/Tadeusz_Ko%C5%9Bciuszko" title="Tadeusz Kościuszko">Tadeusz Kościuszko</a>.</p>
+<p>Slightly southeast of the center of the Common is a memorial to the <a href="/wiki/American_Civil_War" title="American Civil War">American Civil War</a> with a statue of <a href="/wiki/Abraham_Lincoln" title="Abraham Lincoln">Abraham Lincoln</a> in a covered area near the base of the memorial. On top of the memorial is a statue of a soldier.</p>
+<p>Cambridge Common is also the site of an Irish Famine Memorial, dedicated on July 23, 1997 by then <a href="/wiki/President_of_Ireland" title="President of Ireland">President of Ireland</a>, <a href="/wiki/Mary_Robinson" title="Mary Robinson">Mary Robinson</a>, and unveiled to an audience of 3,000 people. The Memorial <a href="/wiki/Sculpture" title="Sculpture">sculpture</a> was created by <a href="/wiki/Maurice_Harron" title="Maurice Harron">Maurice Harron</a>, a sculptor from <a href="/wiki/Derry" title="Derry">Derry</a>, <a href="/wiki/Northern_Ireland" title="Northern Ireland">Northern Ireland</a>. There is a similar memorial in downtown <a href="/wiki/Boston" title="Boston">Boston</a>.</p>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cambridge_Common&amp;action=edit&amp;section=2" title="Edit section: Gallery">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Civil_War_Memorial_on_Cambridge_Common,_Cambridge_MA,_USA.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Civil_War_Memorial_on_Cambridge_Common%2C_Cambridge_MA%2C_USA.jpg/90px-Civil_War_Memorial_on_Cambridge_Common%2C_Cambridge_MA%2C_USA.jpg" width="90" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Civil_War_Memorial_on_Cambridge_Common%2C_Cambridge_MA%2C_USA.jpg/135px-Civil_War_Memorial_on_Cambridge_Common%2C_Cambridge_MA%2C_USA.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Civil_War_Memorial_on_Cambridge_Common%2C_Cambridge_MA%2C_USA.jpg/180px-Civil_War_Memorial_on_Cambridge_Common%2C_Cambridge_MA%2C_USA.jpg 2x" data-file-width="768" data-file-height="1024" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Civil War Memorial</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Memorial_to_the_Great_Hunger_in_Ireland,_Cambridge_Common,_Cambridge_MA.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Memorial_to_the_Great_Hunger_in_Ireland%2C_Cambridge_Common%2C_Cambridge_MA.jpg/120px-Memorial_to_the_Great_Hunger_in_Ireland%2C_Cambridge_Common%2C_Cambridge_MA.jpg" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Memorial_to_the_Great_Hunger_in_Ireland%2C_Cambridge_Common%2C_Cambridge_MA.jpg/180px-Memorial_to_the_Great_Hunger_in_Ireland%2C_Cambridge_Common%2C_Cambridge_MA.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Memorial_to_the_Great_Hunger_in_Ireland%2C_Cambridge_Common%2C_Cambridge_MA.jpg/240px-Memorial_to_the_Great_Hunger_in_Ireland%2C_Cambridge_Common%2C_Cambridge_MA.jpg 2x" data-file-width="1024" data-file-height="768" /></a></div>
+</div>
+<div class="gallerytext">
+<p>The Great Hunger in Ireland Memorial</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:1510-Cambridge_Common_008.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/1510-Cambridge_Common_008.jpg/120px-1510-Cambridge_Common_008.jpg" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/1510-Cambridge_Common_008.jpg/180px-1510-Cambridge_Common_008.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/1510-Cambridge_Common_008.jpg/240px-1510-Cambridge_Common_008.jpg 2x" data-file-width="3648" data-file-height="2736" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Plaque at entrance: Near this spot on July 3, 1775, George Washington took command of the American Army</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:1510-Cambridge_Common_003.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/1510-Cambridge_Common_003.jpg/120px-1510-Cambridge_Common_003.jpg" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/1510-Cambridge_Common_003.jpg/180px-1510-Cambridge_Common_003.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/95/1510-Cambridge_Common_003.jpg/240px-1510-Cambridge_Common_003.jpg 2x" data-file-width="3648" data-file-height="2736" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Plaque at entrance: In memory of this event, this gate was erected A.D. October, 1906</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:1510-Cambridge_Common_033.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/1510-Cambridge_Common_033.jpg/90px-1510-Cambridge_Common_033.jpg" width="90" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/1510-Cambridge_Common_033.jpg/135px-1510-Cambridge_Common_033.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4d/1510-Cambridge_Common_033.jpg/180px-1510-Cambridge_Common_033.jpg 2x" data-file-width="2736" data-file-height="3648" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Plaque: Way to Charlestown</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:1510-Cambridge_Common_061.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/1510-Cambridge_Common_061.jpg/120px-1510-Cambridge_Common_061.jpg" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/1510-Cambridge_Common_061.jpg/180px-1510-Cambridge_Common_061.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/1510-Cambridge_Common_061.jpg/240px-1510-Cambridge_Common_061.jpg 2x" data-file-width="3648" data-file-height="2736" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Kemp Playground</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:1510-Cambridge_Common_066.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/1510-Cambridge_Common_066.jpg/120px-1510-Cambridge_Common_066.jpg" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/1510-Cambridge_Common_066.jpg/180px-1510-Cambridge_Common_066.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/28/1510-Cambridge_Common_066.jpg/240px-1510-Cambridge_Common_066.jpg 2x" data-file-width="3648" data-file-height="2736" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Kemp Playground</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:1510-Cambridge_Common_095.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/1510-Cambridge_Common_095.jpg/90px-1510-Cambridge_Common_095.jpg" width="90" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/1510-Cambridge_Common_095.jpg/135px-1510-Cambridge_Common_095.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3f/1510-Cambridge_Common_095.jpg/180px-1510-Cambridge_Common_095.jpg 2x" data-file-width="2736" data-file-height="3648" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Commemoration of Dawes's ride. Bronze horseshoes embedded in the sidewalk with inscription: "William Dawes to Lexington April 19, 1775" (correct date was April 18)</p>
+</div>
+</div>
+</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cambridge_Common&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Cambridge_Common_Historic_District" title="Cambridge Common Historic District">Cambridge Common Historic District</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cambridge_Common&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Cambridge_Common" class="extiw" title="commons:Category:Cambridge Common">Cambridge Common</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070927204709/http://www.irishheritagetrail.com/famine_camb.htm">Cambridge Common Irish Famine Memorial</a> (archived 2007)</li>
+</ul>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-nris-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-nris_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a href="/wiki/National_Park_Service" title="National Park Service">National Park Service</a> (2010-07-09). <a rel="nofollow" class="external text" href="http://nrhp.focus.nps.gov/natreg/docs/All_Data.html">"National Register Information System"</a>. <i>National Register of Historic Places</i>. National Park Service.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACambridge+Common&amp;rft.atitle=National+Register+Information+System&amp;rft.au=National+Park+Service&amp;rft.date=2010-07-09&amp;rft.genre=unknown&amp;rft.jtitle=National+Register+of+Historic+Places&amp;rft_id=http%3A%2F%2Fnrhp.focus.nps.gov%2Fnatreg%2Fdocs%2FAll_Data.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.historicmapworks.com/Map/US/8143/Plate+021/Cambridge+1916/Massachusetts/">G. W. Bromley map showing area in square feet</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Community Development Department. <i>Public Parks, Playgrounds, and Reservations</i>. August, 2012.</span></li>
+</ol>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="U.S._National_Register_of_Historic_Places_in_Massachusetts" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3" style="background-color:#A8EDEF">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:National_Register_of_Historic_Places_in_Massachusetts" title="Template:National Register of Historic Places in Massachusetts"><abbr title="View this template" style="background-color:#A8EDEF;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:National_Register_of_Historic_Places_in_Massachusetts" title="Template talk:National Register of Historic Places in Massachusetts"><abbr title="Discuss this template" style="background-color:#A8EDEF;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:National_Register_of_Historic_Places_in_Massachusetts&amp;action=edit"><abbr title="Edit this template" style="background-color:#A8EDEF;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="U.S._National_Register_of_Historic_Places_in_Massachusetts" style="font-size:114%;margin:0 4em"><a href="/wiki/National_Register_of_Historic_Places_listings_in_Massachusetts" title="National Register of Historic Places listings in Massachusetts">U.S. National Register of Historic Places in Massachusetts</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A8EDEF;width:1%">Topics</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Contributing_property" title="Contributing property">Contributing property</a></li>
+<li><a href="/wiki/Keeper_of_the_Register" title="Keeper of the Register">Keeper of the Register</a></li>
+<li><a href="/wiki/Historic_districts_in_the_United_States" title="Historic districts in the United States">Historic district</a></li>
+<li><a href="/wiki/History_of_the_National_Register_of_Historic_Places" title="History of the National Register of Historic Places">History of the National Register of Historic Places</a></li>
+<li><a href="/wiki/National_Park_Service" title="National Park Service">National Park Service</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_property_types" title="National Register of Historic Places property types">Property types</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="4" style="width:1px;padding:0px 0px 0px 2px">
+<div><img alt="Map of the United States with Massachusetts highlighted" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Map_of_USA_MA.svg/100px-Map_of_USA_MA.svg.png" width="100" height="65" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Map_of_USA_MA.svg/151px-Map_of_USA_MA.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Map_of_USA_MA.svg/200px-Map_of_USA_MA.svg.png 2x" data-file-width="286" data-file-height="186" /></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A8EDEF;width:1%">Lists by county</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Barnstable_County,_Massachusetts" title="National Register of Historic Places listings in Barnstable County, Massachusetts">Barnstable</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Berkshire_County,_Massachusetts" title="National Register of Historic Places listings in Berkshire County, Massachusetts">Berkshire</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Bristol_County,_Massachusetts" title="National Register of Historic Places listings in Bristol County, Massachusetts">Bristol</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Dukes_County,_Massachusetts" title="National Register of Historic Places listings in Dukes County, Massachusetts">Dukes</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Essex_County,_Massachusetts" title="National Register of Historic Places listings in Essex County, Massachusetts">Essex</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Franklin_County,_Massachusetts" title="National Register of Historic Places listings in Franklin County, Massachusetts">Franklin</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Hampden_County,_Massachusetts" title="National Register of Historic Places listings in Hampden County, Massachusetts">Hampden</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Hampshire_County,_Massachusetts" title="National Register of Historic Places listings in Hampshire County, Massachusetts">Hampshire</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Middlesex_County,_Massachusetts" title="National Register of Historic Places listings in Middlesex County, Massachusetts">Middlesex</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Nantucket_County,_Massachusetts" title="National Register of Historic Places listings in Nantucket County, Massachusetts">Nantucket</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Norfolk_County,_Massachusetts" title="National Register of Historic Places listings in Norfolk County, Massachusetts">Norfolk</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Plymouth_County,_Massachusetts" title="National Register of Historic Places listings in Plymouth County, Massachusetts">Plymouth</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Suffolk_County,_Massachusetts" title="National Register of Historic Places listings in Suffolk County, Massachusetts">Suffolk</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Worcester_County,_Massachusetts" title="National Register of Historic Places listings in Worcester County, Massachusetts">Worcester</a> (<a href="/wiki/National_Register_of_Historic_Places_listings_in_northern_Worcester_County,_Massachusetts" title="National Register of Historic Places listings in northern Worcester County, Massachusetts">northern</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A8EDEF;width:1%">Lists by city</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;background-color:#A8EDEF">Barnstable County</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Barnstable,_Massachusetts" title="National Register of Historic Places listings in Barnstable, Massachusetts">Barnstable</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Harwich,_Massachusetts" title="National Register of Historic Places listings in Harwich, Massachusetts">Harwich</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;background-color:#A8EDEF">Bristol County</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Fall_River,_Massachusetts" title="National Register of Historic Places listings in Fall River, Massachusetts">Fall River</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_New_Bedford,_Massachusetts" title="National Register of Historic Places listings in New Bedford, Massachusetts">New Bedford</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Taunton,_Massachusetts" title="National Register of Historic Places listings in Taunton, Massachusetts">Taunton</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;background-color:#A8EDEF">Essex County</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Andover,_Massachusetts" title="National Register of Historic Places listings in Andover, Massachusetts">Andover</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Gloucester,_Massachusetts" title="National Register of Historic Places listings in Gloucester, Massachusetts">Gloucester</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Ipswich,_Massachusetts" title="National Register of Historic Places listings in Ipswich, Massachusetts">Ipswich</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Lawrence,_Massachusetts" title="National Register of Historic Places listings in Lawrence, Massachusetts">Lawrence</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Lynn,_Massachusetts" title="National Register of Historic Places listings in Lynn, Massachusetts">Lynn</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Methuen,_Massachusetts" title="National Register of Historic Places listings in Methuen, Massachusetts">Methuen</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Salem,_Massachusetts" title="National Register of Historic Places listings in Salem, Massachusetts">Salem</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;background-color:#A8EDEF">Hampden County</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Springfield,_Massachusetts" title="National Register of Historic Places listings in Springfield, Massachusetts">Springfield</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;background-color:#A8EDEF">Middlesex County</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Arlington,_Massachusetts" title="National Register of Historic Places listings in Arlington, Massachusetts">Arlington</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Cambridge,_Massachusetts" title="National Register of Historic Places listings in Cambridge, Massachusetts">Cambridge</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Concord,_Massachusetts" title="National Register of Historic Places listings in Concord, Massachusetts">Concord</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Framingham,_Massachusetts" title="National Register of Historic Places listings in Framingham, Massachusetts">Framingham</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Lexington,_Massachusetts" title="National Register of Historic Places listings in Lexington, Massachusetts">Lexington</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Lowell,_Massachusetts" title="National Register of Historic Places listings in Lowell, Massachusetts">Lowell</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Marlborough,_Massachusetts" title="National Register of Historic Places listings in Marlborough, Massachusetts">Marlborough</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Medford,_Massachusetts" title="National Register of Historic Places listings in Medford, Massachusetts">Medford</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Newton,_Massachusetts" title="National Register of Historic Places listings in Newton, Massachusetts">Newton</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Reading,_Massachusetts" title="National Register of Historic Places listings in Reading, Massachusetts">Reading</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Sherborn,_Massachusetts" title="National Register of Historic Places listings in Sherborn, Massachusetts">Sherborn</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Somerville,_Massachusetts" title="National Register of Historic Places listings in Somerville, Massachusetts">Somerville</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Stoneham,_Massachusetts" title="National Register of Historic Places listings in Stoneham, Massachusetts">Stoneham</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Wakefield,_Massachusetts" title="National Register of Historic Places listings in Wakefield, Massachusetts">Wakefield</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Waltham,_Massachusetts" title="National Register of Historic Places listings in Waltham, Massachusetts">Waltham</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Weston,_Massachusetts" title="National Register of Historic Places listings in Weston, Massachusetts">Weston</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Winchester,_Massachusetts" title="National Register of Historic Places listings in Winchester, Massachusetts">Winchester</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;background-color:#A8EDEF">Norfolk County</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Brookline,_Massachusetts" title="National Register of Historic Places listings in Brookline, Massachusetts">Brookline</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Milton,_Massachusetts" title="National Register of Historic Places listings in Milton, Massachusetts">Milton</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Quincy,_Massachusetts" title="National Register of Historic Places listings in Quincy, Massachusetts">Quincy</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;background-color:#A8EDEF">Suffolk County</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Boston" title="National Register of Historic Places listings in Boston">Boston</a>
+<ul>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_northern_Boston" title="National Register of Historic Places listings in northern Boston">northern</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_southern_Boston" title="National Register of Historic Places listings in southern Boston">southern</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;background-color:#A8EDEF">Worcester County</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Southbridge,_Massachusetts" title="National Register of Historic Places listings in Southbridge, Massachusetts">Southbridge</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Uxbridge,_Massachusetts" title="National Register of Historic Places listings in Uxbridge, Massachusetts">Uxbridge</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Worcester,_Massachusetts" title="National Register of Historic Places listings in Worcester, Massachusetts">Worcester</a>
+<ul>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_eastern_Worcester,_Massachusetts" title="National Register of Historic Places listings in eastern Worcester, Massachusetts">eastern</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_northwestern_Worcester,_Massachusetts" title="National Register of Historic Places listings in northwestern Worcester, Massachusetts">northwestern</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_southwestern_Worcester,_Massachusetts" title="National Register of Historic Places listings in southwestern Worcester, Massachusetts">southwestern</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A8EDEF;width:1%">Other lists</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_bridges_on_the_National_Register_of_Historic_Places_in_Massachusetts" title="List of bridges on the National Register of Historic Places in Massachusetts">Bridges</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Cape_Cod_National_Seashore" title="National Register of Historic Places listings in Cape Cod National Seashore">Cape Cod National Seashore</a></li>
+<li><a href="/wiki/List_of_National_Historic_Landmarks_in_Massachusetts" title="List of National Historic Landmarks in Massachusetts">National Historic Landmarks</a>
+<ul>
+<li><a href="/wiki/List_of_National_Historic_Landmarks_in_Boston" title="List of National Historic Landmarks in Boston">Boston</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3" style="background-color:#A8EDEF">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:National_Register_of_Historic_Places_in_Massachusetts" title="Category:National Register of Historic Places in Massachusetts">Category</a></li>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <a href="/wiki/Portal:National_Register_of_Historic_Places" title="Portal:National Register of Historic Places">NRHP portal</a></li>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <a href="/wiki/Portal:Massachusetts" title="Portal:Massachusetts">Massachusetts portal</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<p><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Cambridge_Common&amp;params=42.37651_N_71.12049_W_source:placeopedia"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">42°22′35″N</span> <span class="longitude">71°07′14″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">42.37651°N 71.12049°W</span><span style="display:none">﻿ / <span class="geo">42.37651; -71.12049</span></span></span></a></span></span></span></p>
+<p><br /></p>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent">
+<tr>
+<td><i>This article about a <a href="/wiki/National_Register_of_Historic_Places" title="National Register of Historic Places">National Register of Historic Places</a> listing in <a href="/wiki/Cambridge,_Massachusetts" title="Cambridge, Massachusetts">Cambridge</a>, <a href="/wiki/Massachusetts" title="Massachusetts">Massachusetts</a> is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Cambridge_Common&amp;action=edit">expanding it</a>.</i>
+<div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:CambridgeMA-NRHP-stub" title="Template:CambridgeMA-NRHP-stub"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:CambridgeMA-NRHP-stub" title="Template talk:CambridgeMA-NRHP-stub"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:CambridgeMA-NRHP-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1182
+Cached time: 20171014024719
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.384 seconds
+Real time usage: 0.515 seconds
+Preprocessor visited node count: 2318/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 75665/2097152 bytes
+Template argument size: 1395/2097152 bytes
+Highest expansion depth: 19/40
+Expensive parser function count: 2/500
+Lua time usage: 0.142/10.000 seconds
+Lua memory usage: 4.67 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  426.228      1 -total
+ 62.62%  266.922      2 Template:Infobox
+ 54.94%  234.166      1 Template:Infobox_NRHP
+ 16.04%   68.353      1 Template:Reflist
+ 12.80%   54.578      1 Template:NRISref
+ 11.94%   50.908      1 Template:Cite_web
+  9.50%   40.478      2 Template:Navbox
+  8.89%   37.897      1 Template:Convert
+  8.65%   36.883      1 Template:National_Register_of_Historic_Places_in_Massachusetts
+  7.57%   32.257      1 Template:Location_map
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:4109017-0!canonical and timestamp 20171014024719 and revision id 789793131
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Cambridge_Common&amp;oldid=789793131">https://en.wikipedia.org/w/index.php?title=Cambridge_Common&amp;oldid=789793131</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:National_Register_of_Historic_Places_in_Cambridge,_Massachusetts" title="Category:National Register of Historic Places in Cambridge, Massachusetts">National Register of Historic Places in Cambridge, Massachusetts</a></li><li><a href="/wiki/Category:Urban_public_parks" title="Category:Urban public parks">Urban public parks</a></li><li><a href="/wiki/Category:Parks_in_Middlesex_County,_Massachusetts" title="Category:Parks in Middlesex County, Massachusetts">Parks in Middlesex County, Massachusetts</a></li><li><a href="/wiki/Category:Tourist_attractions_in_Cambridge,_Massachusetts" title="Category:Tourist attractions in Cambridge, Massachusetts">Tourist attractions in Cambridge, Massachusetts</a></li><li><a href="/wiki/Category:Harvard_Square" title="Category:Harvard Square">Harvard Square</a></li><li><a href="/wiki/Category:Historic_districts_on_the_National_Register_of_Historic_Places_in_Massachusetts" title="Category:Historic districts on the National Register of Historic Places in Massachusetts">Historic districts on the National Register of Historic Places in Massachusetts</a></li><li><a href="/wiki/Category:Cambridge,_Massachusetts_Registered_Historic_Place_stubs" title="Category:Cambridge, Massachusetts Registered Historic Place stubs">Cambridge, Massachusetts Registered Historic Place stubs</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_infobox_NRHP_with_unknown_parameters" title="Category:Pages using infobox NRHP with unknown parameters">Pages using infobox NRHP with unknown parameters</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Cambridge+Common" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Cambridge+Common" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Cambridge_Common" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Cambridge_Common" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Cambridge_Common">Read</a></span></li>
+							<li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Cambridge_Common&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Cambridge_Common&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Cambridge_Common" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Cambridge_Common" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Cambridge_Common&amp;oldid=789793131" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Cambridge_Common&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5025392" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Cambridge_Common&amp;id=789793131" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Cambridge+Common">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Cambridge+Common&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Cambridge_Common&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Cambridge_Common" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Cambridge_Common" title="Cambridge Common – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5025392#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 9 July 2017, at 16:22.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Cambridge_Common&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.384","walltime":"0.515","ppvisitednodes":{"value":2318,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":75665,"limit":2097152},"templateargumentsize":{"value":1395,"limit":2097152},"expansiondepth":{"value":19,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  426.228      1 -total"," 62.62%  266.922      2 Template:Infobox"," 54.94%  234.166      1 Template:Infobox_NRHP"," 16.04%   68.353      1 Template:Reflist"," 12.80%   54.578      1 Template:NRISref"," 11.94%   50.908      1 Template:Cite_web","  9.50%   40.478      2 Template:Navbox","  8.89%   37.897      1 Template:Convert","  8.65%   36.883      1 Template:National_Register_of_Historic_Places_in_Massachusetts","  7.57%   32.257      1 Template:Location_map"]},"scribunto":{"limitreport-timeusage":{"value":"0.142","limit":"10.000"},"limitreport-memusage":{"value":4892191,"limit":52428800}},"cachereport":{"origin":"mw1182","timestamp":"20171014024719","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":79,"wgHostname":"mw1272"});});</script>
+	</body>
+</html>

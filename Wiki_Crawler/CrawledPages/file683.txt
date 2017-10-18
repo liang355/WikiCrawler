@@ -1,0 +1,398 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Carnegie Foundation for the Advancement of Teaching - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Carnegie_Foundation_for_the_Advancement_of_Teaching","wgTitle":"Carnegie Foundation for the Advancement of Teaching","wgCurRevisionId":797637546,"wgRevisionId":797637546,"wgArticleId":2038887,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using deprecated image syntax","Andrew Carnegie","Educational foundations","Organizations established in 1905","Foundations based in the United States","1905 establishments in New Jersey"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Carnegie_Foundation_for_the_Advancement_of_Teaching","wgRelevantArticleId":2038887,"wgRequestId":"WePj4QpAAEYAAFWEgXQAAAAU","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"The_Carnegie_Foundation_for_the_Advancement_of_Teaching","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Carnegie_Foundation_for_the_Advancement_of_Teaching","wgWikibaseItemId":"Q4491651","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.3"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/c/c0/Carnegie_Foundation_for_the_Advancement_of_Teaching_logo.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Carnegie_Foundation_for_the_Advancement_of_Teaching"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Carnegie_Foundation_for_the_Advancement_of_Teaching&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Carnegie_Foundation_for_the_Advancement_of_Teaching&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Carnegie_Foundation_for_the_Advancement_of_Teaching"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Carnegie_Foundation_for_the_Advancement_of_Teaching rootpage-Carnegie_Foundation_for_the_Advancement_of_Teaching vector-experimental-print-styles vector-nav-directionality skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Carnegie Foundation for the Advancement of Teaching</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a href="/w/index.php?title=The_Carnegie_Foundation_for_the_Advancement_of_Teaching&amp;redirect=no" class="mw-redirect" title="The Carnegie Foundation for the Advancement of Teaching">The Carnegie Foundation for the Advancement of Teaching</a>)</span></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">This article is about a United States organization for academic policy and research. For other uses, see <a href="/wiki/Carnegie_Foundation_(disambiguation)" class="mw-redirect mw-disambig" title="Carnegie Foundation (disambiguation)">Carnegie Foundation (disambiguation)</a>.</div>
+<table class="infobox vcard" style="width:22em">
+<caption class="fn org">Carnegie Foundation for the Advancement of Teaching</caption>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Carnegie_Foundation_for_the_Advancement_of_Teaching_logo.png" class="image"><img alt="Carnegie Foundation for the Advancement of Teaching logo.png" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c0/Carnegie_Foundation_for_the_Advancement_of_Teaching_logo.png/300px-Carnegie_Foundation_for_the_Advancement_of_Teaching_logo.png" width="300" height="112" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c0/Carnegie_Foundation_for_the_Advancement_of_Teaching_logo.png/450px-Carnegie_Foundation_for_the_Advancement_of_Teaching_logo.png 1.5x, //upload.wikimedia.org/wikipedia/en/c/c0/Carnegie_Foundation_for_the_Advancement_of_Teaching_logo.png 2x" data-file-width="468" data-file-height="174" /></a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">Founded</th>
+<td class="note">1905<span class="noprint">; 112&#160;years ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">1905</span>)</span></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">Founder</th>
+<td>Andrew Carnegie</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">Focus</th>
+<td><a href="/wiki/Education" title="Education">Education</a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">Location</th>
+<td class="label">
+<div class="plainlist">
+<ul>
+<li>Princeton, NJ (original) &amp; Stanford, CA (current)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">
+<div style="padding:0.1em 0;line-height:1.2em;">Area served</div>
+</th>
+<td>Global</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">Method</th>
+<td>Donations, Grants, Reports</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">
+<div style="padding:0.1em 0;line-height:1.2em;">Key people</div>
+</th>
+<td><a href="/wiki/Andrew_Carnegie" title="Andrew Carnegie">Andrew Carnegie</a>, <a href="/wiki/Henry_Pritchett" class="mw-redirect" title="Henry Pritchett">Henry Pritchett</a>, <a href="/wiki/Abraham_Flexner" title="Abraham Flexner">Abraham Flexner</a>, <a href="/wiki/Clark_Kerr" title="Clark Kerr">Clark Kerr</a>, <a href="/wiki/Ernest_L._Boyer" title="Ernest L. Boyer">Ernest L. Boyer</a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">
+<div style="padding:0.1em 0;line-height:1.2em;">Revenue <span style="font-weight:normal;">(2013)</span></div>
+</th>
+<td>$12,221,983<sup id="cite_ref-Ratings_1-0" class="reference"><a href="#cite_note-Ratings-1">[1]</a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">Expenses <span style="font-weight:normal;">(2013)</span></th>
+<td>$14,088,356<sup id="cite_ref-Ratings_1-1" class="reference"><a href="#cite_note-Ratings-1">[1]</a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.6em;">Website</th>
+<td><a rel="nofollow" class="external text" href="http://www.carnegiefoundation.org/">www.carnegiefoundation.org</a></td>
+</tr>
+</table>
+<p>The <b>Carnegie Foundation for the Advancement of Teaching</b> (<b>CFAT</b>) is a U.S.-based education policy and research center. It was founded by <a href="/wiki/Andrew_Carnegie" title="Andrew Carnegie">Andrew Carnegie</a> in 1905 and chartered in 1906 by an act of the <a href="/wiki/United_States_Congress" title="United States Congress">United States Congress</a>. Among its most notable accomplishments are the development of the <a href="/wiki/Teachers_Insurance_and_Annuity_Association" class="mw-redirect" title="Teachers Insurance and Annuity Association">Teachers Insurance and Annuity Association</a> (TIAA), the <a href="/wiki/Flexner_Report" title="Flexner Report">Flexner Report</a> on medical education, the <a href="/wiki/Carnegie_Unit_and_Student_Hour" title="Carnegie Unit and Student Hour">Carnegie Unit</a>, the <a href="/wiki/Educational_Testing_Service" title="Educational Testing Service">Educational Testing Service</a>, and the <a href="/wiki/Carnegie_Classification_of_Institutions_of_Higher_Education" title="Carnegie Classification of Institutions of Higher Education">Carnegie Classification of Institutions of Higher Education</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Presidents"><span class="tocnumber">2</span> <span class="toctext">Presidents</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#6_Improvement_Science_Principles"><span class="tocnumber">3</span> <span class="toctext">6 Improvement Science Principles</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Networked_Improvement_Communities"><span class="tocnumber">3.1</span> <span class="toctext">Networked Improvement Communities</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Further_reading"><span class="tocnumber">6</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carnegie_Foundation_for_the_Advancement_of_Teaching&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="vertical-navbox vcard plainlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em"><a href="/wiki/Education_in_the_United_States" title="Education in the United States">Education in the United States</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Category:Education_in_the_United_States_by_state" title="Category:Education in the United States by state">By state</a> + <a href="/wiki/Category:Education_in_insular_areas_of_the_United_States" title="Category:Education in insular areas of the United States">insular areas</a></li>
+<li><a href="/wiki/Category:Education_in_the_United_States_by_subject" title="Category:Education in the United States by subject">By subject area</a></li>
+<li><a href="/wiki/History_of_education_in_the_United_States" title="History of education in the United States">History of</a></li>
+<li>Issues: <i><a href="/wiki/Category:Education_finance_in_the_United_States" title="Category:Education finance in the United States">Finance</a> – <a href="/wiki/Category:United_States_education_law" title="Category:United States education law">Law</a> – <a href="/wiki/Literacy_in_the_United_States" title="Literacy in the United States">Literacy</a> – <a href="/wiki/Education_reform" title="Education reform">Reform</a></i></li>
+<li>Levels: <i><a href="/wiki/Primary_education_in_the_United_States" title="Primary education in the United States">Primary</a> – <a href="/wiki/Secondary_education_in_the_United_States" title="Secondary education in the United States">Secondary</a> – <a href="/wiki/Higher_education_in_the_United_States" title="Higher education in the United States">Higher</a></i></li>
+<li><a href="/wiki/Category:Educational_organizations_based_in_the_United_States" title="Category:Educational organizations based in the United States">Organizations</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top:#aaa 1px solid; border-bottom:#aaa 1px solid;"><a href="/wiki/File:Nuvola_apps_bookcase.svg" class="image"><img alt="Nuvola apps bookcase.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Nuvola_apps_bookcase.svg/16px-Nuvola_apps_bookcase.svg.png" width="16" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Nuvola_apps_bookcase.svg/24px-Nuvola_apps_bookcase.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Nuvola_apps_bookcase.svg/32px-Nuvola_apps_bookcase.svg.png 2x" data-file-width="128" data-file-height="128" /></a> <a href="/wiki/Portal:Education" title="Portal:Education">Education portal</a><br />
+<a href="/wiki/File:Flag_of_the_United_States.svg" class="image"><img alt="Flag of the United States.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/16px-Flag_of_the_United_States.svg.png" width="16" height="8" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/24px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/32px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a> <a href="/wiki/Portal:United_States" title="Portal:United States">United States portal</a></td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Education_in_the_U.S." title="Template:Education in the U.S."><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Education_in_the_U.S." title="Template talk:Education in the U.S."><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Education_in_the_U.S.&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p>The foundation was founded by <a href="/wiki/Andrew_Carnegie" title="Andrew Carnegie">Andrew Carnegie</a> in 1905 and chartered in 1906 by an act of the <a href="/wiki/United_States_Congress" title="United States Congress">United States Congress</a> under the leadership of its first president, <a href="/wiki/Henry_Pritchett" class="mw-redirect" title="Henry Pritchett">Henry Pritchett</a>. The foundation credits Pritchett with broadening their mission to include work in education policy and standards. <a href="/wiki/John_W._Gardner" title="John W. Gardner">John W. Gardner</a> became president in 1955 while also serving as president of the <a href="/wiki/Carnegie_Corporation_of_New_York" title="Carnegie Corporation of New York">Carnegie Corporation of New York</a>. He was followed by Alan Pifer whose most notable accomplishment was the 1967 establishment of a task force with <a href="/wiki/Clark_Kerr" title="Clark Kerr">Clark Kerr</a> at its helm.</p>
+<p>In 1979, the Carnegie Foundation for the Advancement of Teaching separated from the <a href="/wiki/Carnegie_Corporation_of_New_York" title="Carnegie Corporation of New York">Carnegie Corporation</a> and came into its own with <a href="/wiki/Ernest_L._Boyer" title="Ernest L. Boyer">Ernest L. Boyer</a> as president. Under his leadership, the foundation moved to <a href="/wiki/Princeton,_New_Jersey" title="Princeton, New Jersey">Princeton, New Jersey</a>, where it remained until 1997 when then-president <a href="/wiki/Lee_Shulman" title="Lee Shulman">Lee Shulman</a> relocated it to <a href="/wiki/Stanford,_California" title="Stanford, California">Stanford, California</a>.<sup id="cite_ref-history_2-0" class="reference"><a href="#cite_note-history-2">[2]</a></sup></p>
+<h2><span class="mw-headline" id="Presidents">Presidents</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carnegie_Foundation_for_the_Advancement_of_Teaching&amp;action=edit&amp;section=2" title="Edit section: Presidents">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Henry_Smith_Pritchett" title="Henry Smith Pritchett">Henry Smith Pritchett</a>, 1906-1930</li>
+<li><a href="/wiki/Henry_Suzzallo" title="Henry Suzzallo">Henry Suzzallo</a>, 1930-1933</li>
+<li>Walter A. Jessup, 1933-1944</li>
+<li><a href="/wiki/Oliver_Carmichael" title="Oliver Carmichael">Oliver Carmichael</a>, 1945-1953</li>
+<li><a href="/wiki/John_W._Gardner" title="John W. Gardner">John W. Gardner</a>, 1955-1963</li>
+<li>Alan Pifer, 1965-1979</li>
+<li><a href="/wiki/Ernest_L._Boyer" title="Ernest L. Boyer">Ernest L. Boyer</a>, 1979-1995</li>
+<li><a href="/wiki/Lee_Shulman" title="Lee Shulman">Lee Shulman</a>, 1997-2008</li>
+<li>Anthony Bryk, 2008–present</li>
+</ul>
+<h2><span class="mw-headline" id="6_Improvement_Science_Principles">6 Improvement Science Principles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carnegie_Foundation_for_the_Advancement_of_Teaching&amp;action=edit&amp;section=3" title="Edit section: 6 Improvement Science Principles">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Carnegie Foundation for Advancement of Teaching promotes the use of improvement science as an approach to research that supports system reform.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Improvement Science is a set of approaches designed to facilitate innovation and implementation of new organizational practices.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Research scholar Catherine Langley’s framework builds-off of <a href="/wiki/W._Edwards_Deming" title="W. Edwards Deming">W. Edwards Deming’s</a> <a href="/wiki/PDCA" title="PDCA">plan-do-study-act cycle</a> and couples it with three foundational questions:</p>
+<ul>
+<li>What are we trying to accomplish?</li>
+<li>How will we know that a change is an improvement?</li>
+<li>What change can we make that will result in improvement?</li>
+</ul>
+<p>Approaches may vary in design and structure, but are always rooted in research-practitioner partnerships. The Carnegie Foundation for the Advancement of Teaching outlines six principles for improvement on their website.</p>
+<ol>
+<li><b>Make the work problem-specific and user centered:</b>The Carnegie Foundation adopted a “learning by doing orientation” recognizing that action along with reflection spurs learning. The purpose of the improvement work is to design, implement, evaluate, and refine practices, but why do this work alone when a network will “form a robust information infrastructure to inform continuous improvement.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></li>
+<li><b>Variation in performance is the core problem to address:</b> Improvement science treats variation differently than traditional, randomized controlled trials, the gold standard for research. Improvement science sees the variation of implementation settings as a key source of information and an important way to learn and inform redesign of interventions and the system.<sup id="cite_ref-:0_6-0" class="reference"><a href="#cite_note-:0-6">[6]</a></sup></li>
+<li><b>See the system that produces the current outcomes:</b> Implementation is shaped by local organizational and system factors. So improvement science demands that work is made public in order to develop a collective knowledge of the practice and the organizational factors that were part of the implementation. In this way a shared ownership of improvement is built across varied contexts.<sup id="cite_ref-:0_6-1" class="reference"><a href="#cite_note-:0-6">[6]</a></sup></li>
+<li><b>We cannot improve at scale what we cannot measure.</b> Scale-up of a practice in the research field means to implement it with fidelity in new settings, but improvement science focuses on the integration of what is learned from studying implementation within a setting.<sup id="cite_ref-:0_6-2" class="reference"><a href="#cite_note-:0-6">[6]</a></sup> Measurements are used to collect data prior to implementation to learn about the current system, about participants needs (both social and psychological), and establish baseline data to aid in measuring impact once improvement efforts begin. Then the organization need a system in place to study processes and provide feedback in order to learn about and from improvement efforts, tailor them to participant needs, and test the practical theory of improvement.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></li>
+<li><b>Anchor practice improvement in discipline inquiry:</b> Plan-do-study-act cycles are used to study improvement efforts while engaging in remediation of problems. The cycles of improvement test to see if we implemented the practice as intended and if so, what impacts or effects it had on teacher and student practice(s).<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></li>
+<li><b>Accelerate improvements through networked communities:</b> Educators have been working on implementing and adapting evidence-based practices for decades, however the improvement that are made through this isolated design process are often hidden or known as pockets of excellence with no mechanism to scale. Improvement efforts, when linked to networks, offer a supportive, innovative environment that allows participants to learn from testing, detect problems or patterns, and provide a social connection to accelerate knowledge production and dissemination.<sup id="cite_ref-:1_9-0" class="reference"><a href="#cite_note-:1-9">[9]</a></sup></li>
+</ol>
+<p>Carnegie researcher Paul LeMahieu and his colleagues have summarized these six principles as “three interdependent, overlapping, and highly recursive aspects of improvement work: problem definition, analysis and specification; iterative prototyping and testing...; and organizing as networks to...spread learning”.<sup id="cite_ref-:1_9-1" class="reference"><a href="#cite_note-:1-9">[9]</a></sup> Professional learning communities (PLCs) are increasing in popularity in education to promote problem solving and often align with many of these design principles. Researcher Anthony Bryk sees PLCs as a place to begin applying these principles, but also notes that PLC success is often isolated by teams or within schools and remains heavily dependent on the individual educators involved.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> A mechanism is needed to accumulate, detail, test, redesign knowledge in partnerships like PLCs so that it can be transformed and transferred as collective professional knowledge across diverse and complex settings.</p>
+<h3><span class="mw-headline" id="Networked_Improvement_Communities">Networked Improvement Communities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carnegie_Foundation_for_the_Advancement_of_Teaching&amp;action=edit&amp;section=4" title="Edit section: Networked Improvement Communities">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Networked Improvement Communities are another form of Improvement Science. <a href="/wiki/Douglas_Engelbart" title="Douglas Engelbart">Douglas Engelbart</a> originally coined the term "Network Improvement Community" in relation to his work in the software and engineering field as network of human and technical resources to enable the community to get better at getting better.<sup id="cite_ref-:2_11-0" class="reference"><a href="#cite_note-:2-11">[11]</a></sup> Anthony Bryk and his team have defined Networked Improvement Communities as social arrangements that involve individuals from many different contexts working together with a common interest in achieving common goals to surface and test new ideas across varied contexts to enhance design at scale.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> <a href="/wiki/Douglas_Engelbart" title="Douglas Engelbart">Douglas Engelbart</a> sees three levels of human and technical resources that need to work together: on the ground practitioners, organizational level structures and resources to support the data collection and analysis of practitioners, and inter-institutional resources to share, adapt, and expand on information learned across varied contexts.<sup id="cite_ref-:2_11-1" class="reference"><a href="#cite_note-:2-11">[11]</a></sup> In education, these communities are problem-centered and link academic research, clinical practice, and local expertise to focus on implementation and adaptation for context.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carnegie_Foundation_for_the_Advancement_of_Teaching&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Abraham_Flexner" title="Abraham Flexner">Abraham Flexner</a>, lead author of the <a href="/wiki/Flexner_Report" title="Flexner Report">Flexner Report</a> (1910), a seminal study of medical education in the United States and Canada</li>
+<li><a href="/wiki/Gunnar_Myrdal" title="Gunnar Myrdal">Gunnar Myrdal</a>, author of <a href="/wiki/An_American_Dilemma" title="An American Dilemma">An American Dilemma</a> (1944), a highly influential study of race relations in the United States</li>
+<li><a href="/wiki/The_Goose-Step_(book)" title="The Goose-Step (book)"><i>The Goose-Step</i></a> (1923), a book by <a href="/wiki/Upton_Sinclair" title="Upton Sinclair">Upton Sinclair</a> criticizing the dominance of <a href="/wiki/Plutocracy" title="Plutocracy">plutocrats</a> in American higher education</li>
+<li><a href="/wiki/Carnegie_Unit_and_Student_Hour" title="Carnegie Unit and Student Hour">Carnegie Unit and Student Hour</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carnegie_Foundation_for_the_Advancement_of_Teaching&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap mw-references-columns">
+<ol class="references">
+<li id="cite_note-Ratings-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Ratings_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Ratings_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://990s.foundationcenter.org/990pf_pdf_archive/131/131623924/131623924_201406_990PF.pdf">"Carnegie Foundation for the Advancement of Teaching"</a> <span style="font-size:85%;">(PDF)</span>. <i>Foundation Center</i><span class="reference-accessdate">. Retrieved <span class="nowrap">30 June</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarnegie+Foundation+for+the+Advancement+of+Teaching&amp;rft.atitle=Carnegie+Foundation+for+the+Advancement+of+Teaching&amp;rft.genre=unknown&amp;rft.jtitle=Foundation+Center&amp;rft_id=http%3A%2F%2F990s.foundationcenter.org%2F990pf_pdf_archive%2F131%2F131623924%2F131623924_201406_990PF.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-history-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-history_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Carnegie Foundation for the Advancement of Teaching (2013). <a rel="nofollow" class="external text" href="http://www.carnegiefoundation.org/about-us/foundation-history">"Foundation History"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">October 19,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarnegie+Foundation+for+the+Advancement+of+Teaching&amp;rft.au=Carnegie+Foundation+for+the+Advancement+of+Teaching&amp;rft.btitle=Foundation+History&amp;rft.date=2013&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.carnegiefoundation.org%2Fabout-us%2Ffoundation-history&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.carnegiefoundation.org/our-ideas/six-core-principles-improvement/">"The Six Core Principles of Improvement | Carnegie Foundation for the Advancement of Teaching"</a>. <i>Carnegie Foundation for the Advancement of Teaching</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-04-28</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarnegie+Foundation+for+the+Advancement+of+Teaching&amp;rft.atitle=The+Six+Core+Principles+of+Improvement+%7C+Carnegie+Foundation+for+the+Advancement+of+Teaching&amp;rft.genre=unknown&amp;rft.jtitle=Carnegie+Foundation+for+the+Advancement+of+Teaching&amp;rft_id=https%3A%2F%2Fwww.carnegiefoundation.org%2Four-ideas%2Fsix-core-principles-improvement%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation book">Langley, G. (2009). <i>The improvement guide: A practical approach to enhancing organizational performance</i>. San Francisco: Jossey-Bass.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarnegie+Foundation+for+the+Advancement+of+Teaching&amp;rft.aufirst=G.&amp;rft.aulast=Langley&amp;rft.btitle=The+improvement+guide%3A+A+practical+approach+to+enhancing+organizational+performance&amp;rft.date=2009&amp;rft.genre=book&amp;rft.place=San+Francisco&amp;rft.pub=Jossey-Bass&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation journal">Bryk, Anthony (2011). <a rel="nofollow" class="external text" href="https://www.carnegiefoundation.org/resources/publications/getting-ideas-action-building-networked-improvement-communities-education/">"Getting Ideas into Action: Building Networked Improvement Communities in Education"</a>. <i>Frontiers in Sociology in Education</i>: 9.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarnegie+Foundation+for+the+Advancement+of+Teaching&amp;rft.atitle=Getting+Ideas+into+Action%3A+Building+Networked+Improvement+Communities+in+Education&amp;rft.aufirst=Anthony&amp;rft.aulast=Bryk&amp;rft.date=2011&amp;rft.genre=article&amp;rft.jtitle=Frontiers+in+Sociology+in+Education&amp;rft.pages=9&amp;rft_id=https%3A%2F%2Fwww.carnegiefoundation.org%2Fresources%2Fpublications%2Fgetting-ideas-action-building-networked-improvement-communities-education%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-:0-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:0_6-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Lewis, C. (2015). "What is improvement science? Do we need it in education?". <i>Educational Researcher</i>. <b>44</b>: 54–60.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarnegie+Foundation+for+the+Advancement+of+Teaching&amp;rft.atitle=What+is+improvement+science%3F+Do+we+need+it+in+education%3F&amp;rft.aufirst=C.&amp;rft.aulast=Lewis&amp;rft.date=2015&amp;rft.genre=article&amp;rft.jtitle=Educational+Researcher&amp;rft.pages=54-60&amp;rft.volume=44&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.carnegiefoundation.org/blog/revisiting-purposes-practical-measurement-improvement-learning-bten-measurement-system/">"Revisiting the Purposes of Practical Measurement for Improvement: Learning from the BTEN Measurement System | Carnegie Foundation for the Advancement of Teaching"</a>. <i>Carnegie Foundation for the Advancement of Teaching</i>. 2014-08-21<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-04-28</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarnegie+Foundation+for+the+Advancement+of+Teaching&amp;rft.atitle=Revisiting+the+Purposes+of+Practical+Measurement+for+Improvement%3A+Learning+from+the+BTEN+Measurement+System+%7C+Carnegie+Foundation+for+the+Advancement+of+Teaching&amp;rft.date=2014-08-21&amp;rft.genre=article&amp;rft.jtitle=Carnegie+Foundation+for+the+Advancement+of+Teaching&amp;rft_id=https%3A%2F%2Fwww.carnegiefoundation.org%2Fblog%2Frevisiting-purposes-practical-measurement-improvement-learning-bten-measurement-system%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.carnegiefoundation.org/blog/why-a-nic/">"Why a NIC? | Carnegie Foundation for the Advancement of Teaching"</a>. <i>Carnegie Foundation for the Advancement of Teaching</i>. 2015-08-18<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-04-28</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarnegie+Foundation+for+the+Advancement+of+Teaching&amp;rft.atitle=Why+a+NIC%3F+%7C+Carnegie+Foundation+for+the+Advancement+of+Teaching&amp;rft.date=2015-08-18&amp;rft.genre=article&amp;rft.jtitle=Carnegie+Foundation+for+the+Advancement+of+Teaching&amp;rft_id=https%3A%2F%2Fwww.carnegiefoundation.org%2Fblog%2Fwhy-a-nic%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-:1-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-:1_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:1_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">LeMahieu, P.; Edwards, E.; Gomez, L. (2015). "At the nexus of improvement science and teaching". <i>Journal of Teacher Education</i>. <b>66</b>: 446–449.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarnegie+Foundation+for+the+Advancement+of+Teaching&amp;rft.atitle=At+the+nexus+of+improvement+science+and+teaching&amp;rft.au=Edwards%2C+E.&amp;rft.au=Gomez%2C+L.&amp;rft.aufirst=P.&amp;rft.aulast=LeMahieu&amp;rft.date=2015&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Teacher+Education&amp;rft.pages=446-449&amp;rft.volume=66&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation journal">Bryk, Anthony (2015). "Accelerating how we learn to improve". <i>Educational Researcher</i>. <b>4</b>: 467–477.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarnegie+Foundation+for+the+Advancement+of+Teaching&amp;rft.atitle=Accelerating+how+we+learn+to+improve&amp;rft.aufirst=Anthony&amp;rft.aulast=Bryk&amp;rft.date=2015&amp;rft.genre=article&amp;rft.jtitle=Educational+Researcher&amp;rft.pages=467-477&amp;rft.volume=4&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-:2-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-:2_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:2_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Englebart, Douglas (2003). "Improving our ability to improve: A call for investment in a new future". <i>IBM Co-Evolution Symposium</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarnegie+Foundation+for+the+Advancement+of+Teaching&amp;rft.atitle=Improving+our+ability+to+improve%3A+A+call+for+investment+in+a+new+future&amp;rft.aufirst=Douglas&amp;rft.aulast=Englebart&amp;rft.date=2003&amp;rft.genre=article&amp;rft.jtitle=IBM+Co-Evolution+Symposium&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation book">Bryk, Anthony (2015). <i>Learning to improve: How America's schools can get better at getting better</i>. Cambridge: Harvard Education Press.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarnegie+Foundation+for+the+Advancement+of+Teaching&amp;rft.aufirst=Anthony&amp;rft.aulast=Bryk&amp;rft.btitle=Learning+to+improve%3A+How+America%27s+schools+can+get+better+at+getting+better&amp;rft.date=2015&amp;rft.genre=book&amp;rft.place=Cambridge&amp;rft.pub=Harvard+Education+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carnegie_Foundation_for_the_Advancement_of_Teaching&amp;action=edit&amp;section=7" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.columbia.edu/cu/lweb/indiv/rbml/collections/carnegie/index.html">CFAT archive at Columbia University</a></li>
+<li>Ellen Condliffe Lagemann, <i>Private power for the public good&#160;: a history of the Carnegie Foundation for the Advancement of Teaching</i>. With a new foreword by Lee S. Shulman, New York&#160;: College Entrance Examination Board, 1999 (Originally published: 1st ed. Middletown, Conn.&#160;: Wesleyan University Press, 1983)</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carnegie_Foundation_for_the_Advancement_of_Teaching&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/38px-Wikisource-logo.svg.png" width="38" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/57px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/76px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></td>
+<td class="mbox-text plainlist"><a href="/wiki/Wikisource" title="Wikisource">Wikisource</a> has the text of the 1920 <i><a href="/wiki/Encyclopedia_Americana" title="Encyclopedia Americana">Encyclopedia Americana</a></i> article <i><b><a href="https://en.wikisource.org/wiki/The_Encyclopedia_Americana_(1920)/Carnegie_Foundation" class="extiw" title="s:The Encyclopedia Americana (1920)/Carnegie Foundation">Carnegie Foundation</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.carnegiefoundation.org">Official website</a></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1275
+Cached time: 20171015224033
+Cache expiry: 86400
+Dynamic content: true
+CPU time usage: 0.256 seconds
+Real time usage: 0.322 seconds
+Preprocessor visited node count: 1617/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 33915/2097152 bytes
+Template argument size: 1294/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 0/500
+Lua time usage: 0.124/10.000 seconds
+Lua memory usage: 4.2 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  288.928      1 -total
+ 34.82%  100.608      1 Template:Infobox_organization
+ 22.20%   64.137      1 Template:Infobox
+ 20.24%   58.471      3 Template:Cite_web
+  8.83%   25.511      5 Template:Cite_journal
+  8.27%   23.900      1 Template:Education_in_the_U.S.
+  7.69%   22.227      1 Template:Tfm/dated
+  7.66%   22.145      1 Template:Sidebar
+  6.68%   19.298      1 Template:About
+  6.25%   18.069      2 Template:Unbulleted_list
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2038887-0!canonical and timestamp 20171015224033 and revision id 797637546
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Carnegie_Foundation_for_the_Advancement_of_Teaching&amp;oldid=797637546">https://en.wikipedia.org/w/index.php?title=Carnegie_Foundation_for_the_Advancement_of_Teaching&amp;oldid=797637546</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Andrew_Carnegie" title="Category:Andrew Carnegie">Andrew Carnegie</a></li><li><a href="/wiki/Category:Educational_foundations" title="Category:Educational foundations">Educational foundations</a></li><li><a href="/wiki/Category:Organizations_established_in_1905" title="Category:Organizations established in 1905">Organizations established in 1905</a></li><li><a href="/wiki/Category:Foundations_based_in_the_United_States" title="Category:Foundations based in the United States">Foundations based in the United States</a></li><li><a href="/wiki/Category:1905_establishments_in_New_Jersey" title="Category:1905 establishments in New Jersey">1905 establishments in New Jersey</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_deprecated_image_syntax" title="Category:Pages using deprecated image syntax">Pages using deprecated image syntax</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Carnegie+Foundation+for+the+Advancement+of+Teaching" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Carnegie+Foundation+for+the+Advancement+of+Teaching" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Carnegie_Foundation_for_the_Advancement_of_Teaching" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Carnegie_Foundation_for_the_Advancement_of_Teaching" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Carnegie_Foundation_for_the_Advancement_of_Teaching">Read</a></span></li>
+							<li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Carnegie_Foundation_for_the_Advancement_of_Teaching&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Carnegie_Foundation_for_the_Advancement_of_Teaching&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Carnegie_Foundation_for_the_Advancement_of_Teaching" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Carnegie_Foundation_for_the_Advancement_of_Teaching" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Carnegie_Foundation_for_the_Advancement_of_Teaching&amp;oldid=797637546" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Carnegie_Foundation_for_the_Advancement_of_Teaching&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4491651" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Carnegie_Foundation_for_the_Advancement_of_Teaching&amp;id=797637546" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Carnegie+Foundation+for+the+Advancement+of+Teaching">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Carnegie+Foundation+for+the+Advancement+of+Teaching&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Carnegie_Foundation_for_the_Advancement_of_Teaching&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Fondation_Carnegie_pour_la_promotion_de_l%27enseignement" title="Fondation Carnegie pour la promotion de l'enseignement – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Carnegie_Foundation_for_the_Advancement_of_Teaching" title="Carnegie Foundation for the Advancement of Teaching – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%BC%E3%83%8D%E3%82%AE%E3%83%BC%E6%95%99%E8%82%B2%E6%8C%AF%E8%88%88%E8%B2%A1%E5%9B%A3" title="カーネギー教育振興財団 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A4%D0%BE%D0%BD%D0%B4_%D0%9A%D0%B0%D1%80%D0%BD%D0%B5%D0%B3%D0%B8_%D0%BF%D0%BE_%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8E_%D0%BF%D1%80%D0%B5%D0%BF%D0%BE%D0%B4%D0%B0%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F" title="Фонд Карнеги по улучшению преподавания – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4491651#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 28 August 2017, at 10:50.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Carnegie_Foundation_for_the_Advancement_of_Teaching&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.256","walltime":"0.322","ppvisitednodes":{"value":1617,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":33915,"limit":2097152},"templateargumentsize":{"value":1294,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  288.928      1 -total"," 34.82%  100.608      1 Template:Infobox_organization"," 22.20%   64.137      1 Template:Infobox"," 20.24%   58.471      3 Template:Cite_web","  8.83%   25.511      5 Template:Cite_journal","  8.27%   23.900      1 Template:Education_in_the_U.S.","  7.69%   22.227      1 Template:Tfm/dated","  7.66%   22.145      1 Template:Sidebar","  6.68%   19.298      1 Template:About","  6.25%   18.069      2 Template:Unbulleted_list"]},"scribunto":{"limitreport-timeusage":{"value":"0.124","limit":"10.000"},"limitreport-memusage":{"value":4399556,"limit":52428800}},"cachereport":{"origin":"mw1275","timestamp":"20171015224033","ttl":86400,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":417,"wgHostname":"mw1275"});});</script>
+	</body>
+</html>

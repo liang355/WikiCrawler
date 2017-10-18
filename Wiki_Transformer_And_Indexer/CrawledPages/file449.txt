@@ -1,0 +1,812 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Ansbach - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Ansbach","wgTitle":"Ansbach","wgCurRevisionId":800908261,"wgRevisionId":800908261,"wgArticleId":3236,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 German-language sources (de)","CS1 maint: BOT: original-url status unknown","Coordinates on Wikidata","Articles with hAudio microformats","All articles with unsourced statements","Articles with unsourced statements from June 2015","Articles with unsourced statements from January 2017","Wikipedia articles incorporating a citation from EB9","Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference","Wikipedia articles with VIAF identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","Towns in Bavaria","Ansbach","Holocaust locations in Germany"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Ansbach","wgRelevantArticleId":3236,"wgRequestId":"WeYBTwpAMFUAAIR88GkAAAAQ","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCoordinates":{"lat":49.3,"lon":10.583333333333},"wgWikibaseItemId":"Q14859","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.3"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/5/56/Ansbach_Centre.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Ansbach"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Ansbach&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Ansbach&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Ansbach"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Ansbach rootpage-Ansbach vector-experimental-print-styles vector-nav-directionality skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Ansbach</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For other uses, see <a href="/wiki/Ansbach_(disambiguation)" class="mw-disambig" title="Ansbach (disambiguation)">Ansbach (disambiguation)</a>.</div>
+<table class="infobox geography vcard" style="width:22em;width:23em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap"><span class="fn org"><span class="wrap">Ansbach</span></span></th>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Ansbach_Centre.jpg" class="image"><img alt="Ansbach Centre.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Ansbach_Centre.jpg/250px-Ansbach_Centre.jpg" width="250" height="188" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Ansbach_Centre.jpg/375px-Ansbach_Centre.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/56/Ansbach_Centre.jpg/500px-Ansbach_Centre.jpg 2x" data-file-width="1024" data-file-height="768" /></a></td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" class="maptable" style="text-align:center">
+<table style="width:100%; background:none;">
+<tr>
+<td style="vertical-align:middle; text-align:center;"><a href="/wiki/File:Wappen_von_Ansbach.svg" class="image" title="Coat of arms of Ansbach  "><img alt="Coat of arms of Ansbach  " src="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Wappen_von_Ansbach.svg/66px-Wappen_von_Ansbach.svg.png" width="66" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Wappen_von_Ansbach.svg/98px-Wappen_von_Ansbach.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/29/Wappen_von_Ansbach.svg/131px-Wappen_von_Ansbach.svg.png 2x" data-file-width="394" data-file-height="480" /></a><br />
+<small>Coat of arms</small></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center">
+<div class="center">
+<div style="width:170px;float:none;clear:both;margin-left:auto;margin-right:auto">
+<div style="width:170px;padding:0">
+<div style="position:relative;width:170px"><a href="/wiki/File:Germany_adm_location_map.svg" class="image" title="Ansbach   is located in Germany"><img alt="Ansbach   is located in Germany" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/170px-Germany_adm_location_map.svg.png" width="170" height="202" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/255px-Germany_adm_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/340px-Germany_adm_location_map.svg.png 2x" data-file-width="1073" data-file-height="1272" /></a>
+<div style="position:absolute;top:73.418%;left:50.833%">
+<div style="position:absolute;left:-3px;top:-3px;line-height:0"><img alt="Ansbach  " src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png" title="Ansbach  " width="6" height="6" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/9px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div>
+<div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:4px;text-align:left"><span style="padding:1px;float:left"><span class="wrap">Ansbach</span></span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr class="mergedbottomrow">
+<td colspan="2" style="text-align:center">Coordinates: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Ansbach&amp;params=49_18_0_N_10_35_0_E_type:city(41159)_region:DE-BY"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">49°18′0″N</span> <span class="longitude">10°35′0″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">49.30000°N 10.58333°E</span><span style="display:none">﻿ / <span class="geo">49.30000; 10.58333</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Ansbach&amp;params=49_18_0_N_10_35_0_E_type:city(41159)_region:DE-BY"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">49°18′0″N</span> <span class="longitude">10°35′0″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">49.30000°N 10.58333°E</span><span style="display:none">﻿ / <span class="geo">49.30000; 10.58333</span></span></span></a></span></span></span></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Country</th>
+<td><a href="/wiki/Germany" title="Germany">Germany</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/States_of_Germany" title="States of Germany">State</a></th>
+<td><a href="/wiki/Bavaria" title="Bavaria">Bavaria</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Regierungsbezirk" title="Regierungsbezirk">Admin. region</a></th>
+<td><a href="/wiki/Middle_Franconia" title="Middle Franconia">Middle Franconia</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Districts_of_Germany" title="Districts of Germany">District</a></th>
+<td><a href="/wiki/Urban_districts_of_Germany" class="mw-redirect" title="Urban districts of Germany">Urban district</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Government</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;<a href="/wiki/Lord_Mayor" class="mw-redirect" title="Lord Mayor">Lord Mayor</a></th>
+<td>Carda Seidel (BAP/<a href="/wiki/Freie_W%C3%A4hler" class="mw-redirect" title="Freie Wähler">FWG</a>/<a href="/wiki/Ecological_Democratic_Party" title="Ecological Democratic Party">ödp</a>)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Area</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Total</th>
+<td>99.92&#160;km<sup>2</sup> (38.58&#160;sq&#160;mi)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Elevation</th>
+<td>405&#160;m (1,329&#160;ft)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Population <span style="font-weight:normal">(2015-12-31)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></span></th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Total</th>
+<td>41,159</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Density</th>
+<td>410/km<sup>2</sup> (1,100/sq&#160;mi)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/Time_zone" title="Time zone">Time zone</a></th>
+<td><a href="/wiki/Central_European_Time" title="Central European Time">CET</a>/<a href="/wiki/Central_European_Summer_Time" title="Central European Summer Time">CEST</a> (UTC+1/+2)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/List_of_postal_codes_in_Germany" title="List of postal codes in Germany">Postal codes</a></th>
+<td class="adr"><span class="postal-code">91522</span></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/List_of_dialling_codes_in_Germany" title="List of dialling codes in Germany">Dialling codes</a></th>
+<td>0981</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Vehicle_registration_plate" title="Vehicle registration plate">Vehicle registration</a></th>
+<td>AN</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Website</th>
+<td><a rel="nofollow" class="external text" href="http://www.ansbach.de/">www.ansbach.de</a></td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:282px;"><a href="/wiki/File:Ansbach,_ehemaliges_Geb%C3%A4ude_des_Gewerbevereins_Ansbach_DmD-5-61-000-113_foto11_2016-08-05_09.05.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Ansbach%2C_ehemaliges_Geb%C3%A4ude_des_Gewerbevereins_Ansbach_DmD-5-61-000-113_foto11_2016-08-05_09.05.jpg/280px-Ansbach%2C_ehemaliges_Geb%C3%A4ude_des_Gewerbevereins_Ansbach_DmD-5-61-000-113_foto11_2016-08-05_09.05.jpg" width="280" height="210" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Ansbach%2C_ehemaliges_Geb%C3%A4ude_des_Gewerbevereins_Ansbach_DmD-5-61-000-113_foto11_2016-08-05_09.05.jpg/420px-Ansbach%2C_ehemaliges_Geb%C3%A4ude_des_Gewerbevereins_Ansbach_DmD-5-61-000-113_foto11_2016-08-05_09.05.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/44/Ansbach%2C_ehemaliges_Geb%C3%A4ude_des_Gewerbevereins_Ansbach_DmD-5-61-000-113_foto11_2016-08-05_09.05.jpg/560px-Ansbach%2C_ehemaliges_Geb%C3%A4ude_des_Gewerbevereins_Ansbach_DmD-5-61-000-113_foto11_2016-08-05_09.05.jpg 2x" data-file-width="4352" data-file-height="3264" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Ansbach,_ehemaliges_Geb%C3%A4ude_des_Gewerbevereins_Ansbach_DmD-5-61-000-113_foto11_2016-08-05_09.05.jpg" class="internal" title="Enlarge"></a></div>
+Former building Gewerbevereins Ansbach</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:282px;"><a href="/wiki/File:De_Merian_Frankoniae_108.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/De_Merian_Frankoniae_108.jpg/280px-De_Merian_Frankoniae_108.jpg" width="280" height="152" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/De_Merian_Frankoniae_108.jpg/420px-De_Merian_Frankoniae_108.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/De_Merian_Frankoniae_108.jpg/560px-De_Merian_Frankoniae_108.jpg 2x" data-file-width="4428" data-file-height="2409" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:De_Merian_Frankoniae_108.jpg" class="internal" title="Enlarge"></a></div>
+Ansbach in the 17th century</div>
+</div>
+</div>
+<p><b>Ansbach</b> (<span class="nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="/ˈ/: primary stress follows">ˈ</span><span title="/æ/: 'a' in 'bad'">æ</span><span title="'n' in 'nigh'">n</span><span title="'z' in 'zoom'">z</span><span title="'b' in 'buy'">b</span><span title="/æ/: 'a' in 'bad'">æ</span><span title="'k' in 'kind'">k</span></span>/</a></span></span>; <small>German pronunciation:</small> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA/Standard_German" title="Help:IPA/Standard German">[ˈansbax]</a></span><small class="nowrap metadata">&#160;(<span class="unicode haudio"><span class="fn"><span style="white-space:nowrap"><a href="/wiki/File:Ansbach.ogg" title="About this sound"><img alt="About this sound" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" data-file-width="20" data-file-height="20" /></a>&#160;</span><a href="//upload.wikimedia.org/wikipedia/commons/5/5e/Ansbach.ogg" class="internal" title="Ansbach.ogg">listen</a></span></span>)</small>) is a city in the <a href="/wiki/Germany" title="Germany">German</a> state of <a href="/wiki/Bavaria" title="Bavaria">Bavaria</a>. It is the capital of the <a href="/wiki/Regierungsbezirk" title="Regierungsbezirk">administrative region</a> of <a href="/wiki/Mittelfranken" class="mw-redirect" title="Mittelfranken">Middle Franconia</a>. Ansbach is 25 miles (40&#160;km) southwest of <a href="/wiki/Nuremberg" title="Nuremberg">Nuremberg</a> and 90 miles (140&#160;km) north of <a href="/wiki/Munich" title="Munich">Munich</a>, on the <a href="/wiki/Fr%C3%A4nkische_Rezat" class="mw-redirect" title="Fränkische Rezat">Fränkische Rezat</a> (Rezat River), a tributary of the <a href="/wiki/Main_(river)" title="Main (river)">Main</a> river. In 2004, its population was 40,723.</p>
+<p>Developed in the 8th century as a <a href="/wiki/Benedictine_monastery" class="mw-redirect" title="Benedictine monastery">Benedictine monastery</a>, it became the seat of the <a href="/wiki/House_of_Hohenzollern" title="House of Hohenzollern">Hohenzollern</a> family in 1331. In 1460, the Margraves of <a href="/w/index.php?title=Margraviate_of_Brandenburg%E2%80%93Ansbach&amp;action=edit&amp;redlink=1" class="new" title="Margraviate of Brandenburg–Ansbach (page does not exist)">Brandenburg-Ansbach</a> lived here. The city has a castle known as <a href="/wiki/Markgrafenschlo%C3%9F" class="mw-redirect" title="Markgrafenschloß">Margrafen–Schloss</a>, built between 1704–1738. It was not badly damaged during the <a href="/wiki/World_Wars" class="mw-redirect" title="World Wars">World Wars</a> and hence retains its original historical baroque sheen. Ansbach is now home to a US military base and to the <a href="/wiki/Ansbach_University_of_Applied_Sciences" title="Ansbach University of Applied Sciences">Ansbach University of Applied Sciences</a>.</p>
+<p>The city has connections via autobahn <a href="/wiki/Bundesautobahn_6" title="Bundesautobahn 6">A6</a> and highways <a href="/w/index.php?title=Bundesstra%C3%9Fe_13&amp;action=edit&amp;redlink=1" class="new" title="Bundesstraße 13 (page does not exist)">B13</a> and <a href="/wiki/Bundesstra%C3%9Fe_14" title="Bundesstraße 14">B14</a>. <a href="/wiki/Ansbach_station" title="Ansbach station">Ansbach station</a> is on the <a href="/wiki/Nuremberg%E2%80%93Crailsheim_railway" title="Nuremberg–Crailsheim railway">Nürnberg–Crailsheim</a> and <a href="/wiki/Treuchtlingen%E2%80%93W%C3%BCrzburg_railway" title="Treuchtlingen–Würzburg railway">Treuchtlingen–Würzburg</a> railways and is the terminus of line S4 of the <a href="/wiki/Nuremberg_S-Bahn" title="Nuremberg S-Bahn">Nuremberg S-Bahn</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Name_origin"><span class="tocnumber">1</span> <span class="toctext">Name origin</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Boroughs"><span class="tocnumber">3</span> <span class="toctext">Boroughs</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Lord_Mayors"><span class="tocnumber">4</span> <span class="toctext">Lord Mayors</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Sights"><span class="tocnumber">5</span> <span class="toctext">Sights</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Climate"><span class="tocnumber">6</span> <span class="toctext">Climate</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Economy"><span class="tocnumber">7</span> <span class="toctext">Economy</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Notable_people"><span class="tocnumber">8</span> <span class="toctext">Notable people</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Born_in_Ansbach"><span class="tocnumber">9</span> <span class="toctext">Born in Ansbach</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#International_relations"><span class="tocnumber">10</span> <span class="toctext">International relations</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#In_popular_culture"><span class="tocnumber">11</span> <span class="toctext">In popular culture</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#See_also"><span class="tocnumber">12</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Notes"><span class="tocnumber">13</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#References"><span class="tocnumber">14</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#External_links"><span class="tocnumber">15</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Name_origin">Name origin</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ansbach&amp;action=edit&amp;section=1" title="Edit section: Name origin">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><b>Ansbach</b> was originally called <b>Onoltesbach</b> (about 790 AD), a term composed of three parts.</p>
+<p>The individual word elements are "Onold" (the city founder's name), the <a href="/wiki/Suffix" title="Suffix">Suffix</a> "-es" (a possessive ending, like "-'s" in English) and the <a href="/wiki/Old_High_German" title="Old High German">Old High German</a> expression "pah" or "bach" (for <a href="/wiki/Stream" title="Stream">brook</a>). The name of the city has slightly changed throughout the centuries into <b>Onoltespah</b> (837 AD), <b>Onoldesbach</b> (1141 AD), <b>Onoldsbach</b> (1230 AD), <b>Onelspach</b> (1338 AD), <b>Onsbach</b> (1508 AD) and finally <b>Ansbach</b> (1732 AD).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p>
+<p>It was also formerly known as <b>Anspach</b>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ansbach&amp;action=edit&amp;section=2" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>According to folklore, towards the end of the 7th century a group of Franconian peasants and their families went up into the wilderness to found a new settlement. Their leader Onold led them to an area called the "Rezattal" (Rezat valley). This is where they founded the "Urhöfe" (meaning the first farms: Knollenhof, Voggenhof and Rabenhof). Gradually more settlers, such as the "Winden-Tribe" came, and the farms grew into a small village. Many villages around Ansbach were founded by the "Winden" during that period (even today their settlements can easily identified by their names, like "Meinhardsz<b>winden</b>", "Dauten<b>winden</b>" or "Brods<b>winden</b>" for example). A <a href="/wiki/Benedictine_Order" class="mw-redirect" title="Benedictine Order">Benedictine monastery</a> was established there around 748 by the <a href="/wiki/Franks" title="Franks">Frankish</a> noble <a href="/w/index.php?title=Gumbertus&amp;action=edit&amp;redlink=1" class="new" title="Gumbertus (page does not exist)">St&#160;Gumbertus</a>. The adjoining village of Onoltesbach is first noticed as a proper town in 1221.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></p>
+<p>The counts of <a href="/wiki/County_of_%C3%96ttingen" class="mw-redirect" title="County of Öttingen">Öttingen</a> ruled over Ansbach until the <a href="/wiki/Hohenzollern" class="mw-redirect" title="Hohenzollern">Hohenzollern</a> burgrave of <a href="/wiki/Burgraviate_of_N%C3%BCrnberg" class="mw-redirect" title="Burgraviate of Nürnberg">Nürnberg</a> took over in 1331. The Hohenzollerns made Ansbach the seat of their dynasty until their acquisition of the <a href="/wiki/Margraviate_of_Brandenburg" title="Margraviate of Brandenburg">Margraviate of Brandenburg</a> in 1415. After the 1440 death of <a href="/wiki/Frederick_I,_Elector_of_Brandenburg" title="Frederick I, Elector of Brandenburg">Frederick&#160;I</a>, a cadet branch of the family established itself as the <a href="/wiki/Brandenburg-Ansbach" class="mw-redirect" title="Brandenburg-Ansbach">margraves of Ansbach</a>. <a href="/wiki/George,_Margrave_of_Brandenburg-Ansbach" title="George, Margrave of Brandenburg-Ansbach">George the Pious</a> introduced the <a href="/wiki/Protestant_Reformation" class="mw-redirect" title="Protestant Reformation">Protestant Reformation</a> to Ansbach in 1528, leading to the secularization of <a href="/wiki/St._Gumbertus,_Ansbach" title="St. Gumbertus, Ansbach">Gumbertus Abbey</a> in 1563.</p>
+<p>The <a href="/wiki/Markgrafenschlo%C3%9F" class="mw-redirect" title="Markgrafenschloß">Markgrafenschloß</a> was built between 1704–1738.<sup id="cite_ref-Spaltro2005_6-0" class="reference"><a href="#cite_note-Spaltro2005-6">[6]</a></sup> Its gardens continued to be a notable attraction into the 19th century.<sup id="cite_ref-FOOTNOTEEB1878_7-0" class="reference"><a href="#cite_note-FOOTNOTEEB1878-7">[7]</a></sup> In 1791, the last margrave sold his realm to the <a href="/wiki/Kingdom_of_Prussia" title="Kingdom of Prussia">Kingdom of Prussia</a>.<sup id="cite_ref-FOOTNOTEEB1878_7-1" class="reference"><a href="#cite_note-FOOTNOTEEB1878-7">[7]</a></sup> In 1796, the Duke of <a href="/wiki/Duchy_of_Zweibr%C3%BCcken" class="mw-redirect" title="Duchy of Zweibrücken">Zweibrücken</a>, <a href="/wiki/Maximilian_I_Joseph_of_Bavaria" title="Maximilian I Joseph of Bavaria">Maximilian Joseph</a> — the future Bavarian king Max I Joseph — was exiled to Ansbach after Zweibrücken had been taken by the French. In Ansbach, <a href="/wiki/Maximilian_von_Montgelas" title="Maximilian von Montgelas">Maximilian von Montgelas</a> wrote an elaborate concept for the future political organization of Bavaria, which is known as the Ansbacher Mémoire.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Napoleon forced Prussia to cede Ansbach and its principality to <a href="/wiki/Kingdom_of_Bavaria" title="Kingdom of Bavaria">Bavaria</a><sup id="cite_ref-FOOTNOTEEB1878_7-2" class="reference"><a href="#cite_note-FOOTNOTEEB1878-7">[7]</a></sup> in the Franco-Prussian treaty of alliance signed at <a href="/wiki/Sch%C3%B6nbrunn_Palace" title="Schönbrunn Palace">Schönbrunn Palace</a> on 15 December 1805 at the end of the <a href="/wiki/Third_Coalition" class="mw-redirect" title="Third Coalition">Third Coalition</a>. The act was confirmed by the 1815 <a href="/wiki/Congress_of_Vienna" title="Congress of Vienna">Congress of Vienna</a>;<sup id="cite_ref-FOOTNOTEEB1878_7-3" class="reference"><a href="#cite_note-FOOTNOTEEB1878-7">[7]</a></sup> Prussia was compensated with the Bavarian <a href="/wiki/Berg_(German_region)" class="mw-redirect" title="Berg (German region)">duchy of Berg</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (June 2015)">citation needed</span></a></i>]</sup> Ansbach became the capital of the circle of Middle Franconia following the <a href="/wiki/Unification_of_Germany" title="Unification of Germany">unification of Germany</a>; at the time, it had a population of 12,635.<sup id="cite_ref-FOOTNOTEEB1878_7-4" class="reference"><a href="#cite_note-FOOTNOTEEB1878-7">[7]</a></sup></p>
+<p>Jewish families were resident in Ansbach from at least the end of the 18th century. They set up a Jewish Cemetery in the Ruglaender Strasse, which was vandalised and razed under the Nazi regime in the <a href="/wiki/Kristallnacht" title="Kristallnacht">Kristallnacht</a>. It was repaired in 1946, but it was damaged several times more. A plaque on the wall of the cemetery commemorates these events. The Jewish Congregation built its synagogue at No 3 Rosenbadstrasse, but it too was damaged by the SA, though it was not burnt down for fear of damaging the neighbouring buildings. It serves today as a "Symbolic House of God". A plaque in the entrance serves as a memorial to the synagogue and to Jewish residents who were murdered during the Holocaust.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="German Wikipedia is not a reliable source (January 2017)">citation needed</span></a></i>]</sup> In 1940, at least 500 patients were deported from the Heil- und Pflegeanstalt Ansbach [<i>Ansbach Medical and Nursing Clinic</i>] to the extermination facilities Sonnenstein and Hartheim which were disguised as psychiatric institutions, as part of the <a href="/wiki/Action_T4" class="mw-redirect" title="Action T4">Action T4</a> euthanasia action. They were gassed there. At the clinic in Ansbach itself, around 50 intellectually disabled children were injected with the drug Luminal and killed that way. A plaque was erected in their memory in 1988 in the local hospital at No. 38 Feuchtwangerstrasse.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="German Wikipedia is not a reliable source (January 2017)">citation needed</span></a></i>]</sup></p>
+<p>During <a href="/wiki/World_War_II" title="World War II">World War II</a>, a subcamp of <a href="/wiki/Flossenb%C3%BCrg_concentration_camp" title="Flossenbürg concentration camp">Flossenbürg concentration camp</a> was located here.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> Also during the Second World War the Luftwaffe and Wehrmacht had bases here. The nearby airbase was the home station for the Stab &amp; I/KG53 (Staff &amp; 1st Group of Kampfgeschwader 53) operating 38 <a href="/wiki/Heinkel_He_111" title="Heinkel He 111">Heinkel He 111</a> bombers. On 1 September 1939 this unit was one of the many that participated in the <a href="/wiki/Invasion_of_Poland_(1939)" class="mw-redirect" title="Invasion of Poland (1939)">attack on Poland</a> that started the war. All of its bridges were destroyed during the course of the war. During the <a href="/wiki/Western_Allied_invasion_of_Germany" title="Western Allied invasion of Germany">Western Allied invasion of Germany</a> in April 1945, the airfield was seized by the <a href="/wiki/United_States_Third_Army" class="mw-redirect" title="United States Third Army">United States Third Army</a>, and used by the <a href="/wiki/USAAF" class="mw-redirect" title="USAAF">USAAF</a> <a href="/wiki/354th_Fighter_Wing" title="354th Fighter Wing">354th Fighter Group</a> which flew <a href="/wiki/P-47_Thunderbolts" class="mw-redirect" title="P-47 Thunderbolts">P-47 Thunderbolts</a> from the aerodrome (designated <a href="/wiki/Advanced_Landing_Ground" title="Advanced Landing Ground">ALG R-82</a>) from late April until the German capitulation on 7 May 1945.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> At the end of the war, 19-year-old student Robert Limpert tried to get the town to surrender to the US Forces without a fight. He was betrayed by <a href="/wiki/Hitler_Youth" title="Hitler Youth">Hitler Youth</a> and was hung from the portal of the City Hall by the city's military commander, Col. (<i>Oberst</i>) Ernst Meyer. Several memorials to his heroic deed have been erected over the years, despite opposition from some residents — in the Ludwigskirche, in the Gymnasium Carolinum and at No 6 Kronenstrasse.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="German Wikipedia is not a reliable source (January 2017)">citation needed</span></a></i>]</sup> After the Second World War, Ansbach belonged to the American Zone. The American Military authorities established a displaced persons (DP) camp in what used to be a sanatorium in what is today the Strüth quarter.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="German Wikipedia is not a reliable source (January 2017)">citation needed</span></a></i>]</sup></p>
+<p><a href="/wiki/Bachwoche_Ansbach" title="Bachwoche Ansbach">Bachwoche Ansbach</a> has been held in Ansbach since 1947. Since 1970, Ansbach has enlarged its municipal area by incorporating adjacent communities. Ansbach hosts several units of the U.S. armed forces, associated with German units under <a href="/wiki/NATO" title="NATO">NATO</a>. There are five separate U.S. installations: Shipton Kaserne, home to <a href="/wiki/412th_Aviation_Support_Battalion" title="412th Aviation Support Battalion">412th Aviation Support Battalion</a>, Katterbach Kaserne, formerly the home of the <a href="/wiki/1st_Infantry_Division_(United_States)" title="1st Infantry Division (United States)">1st Infantry Division's</a> <a href="/w/index.php?title=4th_Combat_Aviation_Brigade&amp;action=edit&amp;redlink=1" class="new" title="4th Combat Aviation Brigade (page does not exist)">4th Combat Aviation Brigade</a>, which has been replaced by the <a href="/wiki/12th_Combat_Aviation_Brigade_(United_States)" class="mw-redirect" title="12th Combat Aviation Brigade (United States)">12th Combat Aviation Brigade</a> as of 2006, as part of the 1st Infantry Division's return to <a href="/wiki/Fort_Riley" title="Fort Riley">Fort Riley</a>, Kansas; Bismarck Kaserne, which functions as a satellite post to Katterbach, hosting their Post Theater, barracks, Von Steuben Community Center, Military Police, and other support agencies, Barton Barracks, home to the USAG Ansbach and Bleidorn Barracks, which has a library and housing, and Urlas, which hosts the <a href="/wiki/Post_Exchange" class="mw-redirect" title="Post Exchange">Post Exchange</a> as well as a housing area opened in 2010. Ansbach was also home to the headquarters of the <a href="/wiki/1st_Armored_Division_(United_States)" title="1st Armored Division (United States)">1st Armored Division (United States)</a> from 1972 to the early 1990s.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></p>
+<p>On 24 July 2016 <a href="/wiki/2016_Ansbach_bombing" title="2016 Ansbach bombing">a bomb was detonated</a> in a restaurant in the city, killing at least one person and injuring multiple people. The perpetrator was reported to be a Syrian refugee whose asylum application had been rejected but who had been given exceptional leave to remain until the security situation in Syria returned to a safe condition. Witnesses reported he had tried to enter a nearby music festival but had been turned away, before detonating his device outside a nearby wine bar.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></p>
+<h2><span class="mw-headline" id="Boroughs">Boroughs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ansbach&amp;action=edit&amp;section=3" title="Edit section: Boroughs">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Eyb" title="Eyb">Eyb</a>, part of Ansbach since 1 October 1970</li>
+<li><a href="/w/index.php?title=Bernhardswinden&amp;action=edit&amp;redlink=1" class="new" title="Bernhardswinden (page does not exist)">Bernhardswinden</a>, part of Ansbach since 1 July 1972</li>
+<li><a href="/w/index.php?title=Brodswinden&amp;action=edit&amp;redlink=1" class="new" title="Brodswinden (page does not exist)">Brodswinden</a>, part of Ansbach since 1 July 1972</li>
+<li><a href="/w/index.php?title=Claffheim&amp;action=edit&amp;redlink=1" class="new" title="Claffheim (page does not exist)">Claffheim</a>, part of Ansbach since 1 July 1972</li>
+<li><a href="/w/index.php?title=Elpersdorf_bei_Ansbach&amp;action=edit&amp;redlink=1" class="new" title="Elpersdorf bei Ansbach (page does not exist)">Elpersdorf bei Ansbach</a>, part of Ansbach since 1 July 1972</li>
+<li><a href="/wiki/Hennenbach" title="Hennenbach">Hennenbach</a>, part of Ansbach since 1 July 1972</li>
+<li><a href="/w/index.php?title=Neuses_bei_Ansbach&amp;action=edit&amp;redlink=1" class="new" title="Neuses bei Ansbach (page does not exist)">Neuses bei Ansbach</a>, part of Ansbach since 1 July 1972
+<ul>
+<li><a href="/w/index.php?title=Str%C3%BCth_(Ansbach)&amp;action=edit&amp;redlink=1" class="new" title="Strüth (Ansbach) (page does not exist)">Strüth</a></li>
+<li><a href="/w/index.php?title=Wasserzell_(Ansbach)&amp;action=edit&amp;redlink=1" class="new" title="Wasserzell (Ansbach) (page does not exist)">Wasserzell</a></li>
+</ul>
+</li>
+<li><a href="/w/index.php?title=Schalkhausen&amp;action=edit&amp;redlink=1" class="new" title="Schalkhausen (page does not exist)">Schalkhausen</a>, part of Ansbach since 1 July 1972
+<ul>
+<li><a href="/w/index.php?title=Geisengrund&amp;action=edit&amp;redlink=1" class="new" title="Geisengrund (page does not exist)">Geisengrund</a></li>
+<li><a href="/w/index.php?title=Dornberg_(Ansbach)&amp;action=edit&amp;redlink=1" class="new" title="Dornberg (Ansbach) (page does not exist)">Dornberg</a></li>
+<li><a href="/w/index.php?title=Neudorf_(Ansbach)&amp;action=edit&amp;redlink=1" class="new" title="Neudorf (Ansbach) (page does not exist)">Neudorf</a></li>
+<li><a href="/w/index.php?title=Steinersdorf&amp;action=edit&amp;redlink=1" class="new" title="Steinersdorf (page does not exist)">Steinersdorf</a></li>
+</ul>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Lord_Mayors">Lord Mayors</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ansbach&amp;action=edit&amp;section=4" title="Edit section: Lord Mayors">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>1877–1905: Ludwig Keller (1839–1911)</li>
+<li>1905–1919: Ernst Rohmeder</li>
+<li>1919–1934: Wilhelm Borkholder (1886–1945)</li>
+<li>1934–1945: Richard Hänel (<a href="/wiki/Nazi_Party" title="Nazi Party">NSDAP</a>) (1895-date of death unknown)</li>
+<li>1945: Hans Schregle (1890–1970), (<a href="/w/index.php?title=SPD_Bayern&amp;action=edit&amp;redlink=1" class="new" title="SPD Bayern (page does not exist)">SPD</a>), introduced by the <a href="/wiki/Office_of_Military_Government,_United_States" title="Office of Military Government, United States">Office of Military Government, United States</a></li>
+<li>1945–1950: Ernst Körner (SPD)</li>
+<li>1950–1952: Friedrich Böhner</li>
+<li>1952–1957: Karl Burkhardt (<a href="/wiki/Christian-Social_Union_in_Bavaria" class="mw-redirect" title="Christian-Social Union in Bavaria">CSU</a>)</li>
+<li>1957–1971: Ludwig Schönecker (CSU)</li>
+<li>1971–1990: Ernst-Günther Zumach (CSU)</li>
+<li>1990–2008: Ralf Felber (SPD)</li>
+<li>since May 2008: Carda Seidel (<a href="/wiki/Independent_politician" title="Independent politician">independent</a>)</li>
+</ul>
+<h2><span class="mw-headline" id="Sights">Sights</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ansbach&amp;action=edit&amp;section=5" title="Edit section: Sights">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Residenz_Ansbach" class="mw-redirect" title="Residenz Ansbach">Castle of the Margraves of Brandenburg-Ansbach</a></li>
+<li>Margrave museum</li>
+<li>Kaspar Hauser Monument</li>
+<li><a href="/wiki/St._Gumbertus,_Ansbach" title="St. Gumbertus, Ansbach">St. Gumbertus</a> and <a href="/wiki/St._Johannis,_Ansbach" title="St. Johannis, Ansbach">St. Johannis</a> churches, both 15th century</li>
+<li><a href="/wiki/Theater_Ansbach" title="Theater Ansbach">Theater Ansbach</a></li>
+<li>Ansbacher Kammerspiele</li>
+<li>LOFT – projectspace for contemporary art</li>
+</ul>
+<h2><span class="mw-headline" id="Climate">Climate</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ansbach&amp;action=edit&amp;section=6" title="Edit section: Climate">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Climate in this area has mild differences between highs and lows, and there is adequate rainfall year-round. The <a href="/wiki/K%C3%B6ppen_climate_classification" title="Köppen climate classification">Köppen climate classification</a> subtype for this climate is "<a href="/wiki/K%C3%B6ppen_climate_classification#GROUP_C:_Mild_Temperate.2Fmesothermal_climates" title="Köppen climate classification">Cfb</a>" (Marine West Coast Climate/<a href="/wiki/Oceanic_climate" title="Oceanic climate">Oceanic climate</a>).<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup></p>
+<table class="wikitable collapsible" style="width:90%; text-align:center; font-size:90%; line-height: 1.2em; margin:auto;">
+<tr>
+<th colspan="14">Climate data for Ansbach</th>
+</tr>
+<tr>
+<th scope="row">Month</th>
+<th scope="col">Jan</th>
+<th scope="col">Feb</th>
+<th scope="col">Mar</th>
+<th scope="col">Apr</th>
+<th scope="col">May</th>
+<th scope="col">Jun</th>
+<th scope="col">Jul</th>
+<th scope="col">Aug</th>
+<th scope="col">Sep</th>
+<th scope="col">Oct</th>
+<th scope="col">Nov</th>
+<th scope="col">Dec</th>
+<th scope="col" style="border-left-width:medium">Year</th>
+</tr>
+<tr style="text-align: center;">
+<th scope="row" style="height: 16px;">Average high °C (°F)</th>
+<td style="background: #ECECFF; color:#000000;">1<br />
+(33)</td>
+<td style="background: #F6F6FF; color:#000000;">3<br />
+(37)</td>
+<td style="background: #FFEDDC; color:#000000;">7<br />
+(45)</td>
+<td style="background: #FFCB97; color:#000000;">12<br />
+(53)</td>
+<td style="background: #FFA852; color:#000000;">17<br />
+(62)</td>
+<td style="background: #FF9B37; color:#000000;">19<br />
+(67)</td>
+<td style="background: #FF860D; color:#000000;">22<br />
+(71)</td>
+<td style="background: #FF860D; color:#000000;">22<br />
+(71)</td>
+<td style="background: #FFA144; color:#000000;">18<br />
+(65)</td>
+<td style="background: #FFC489; color:#000000;">13<br />
+(55)</td>
+<td style="background: #FFF4EA; color:#000000;">6<br />
+(42)</td>
+<td style="background: #F1F1FF; color:#000000;">2<br />
+(36)</td>
+<td style="background: #FFCB97; color:#000000; border-left-width:medium">12<br />
+(53)</td>
+</tr>
+<tr style="text-align: center;">
+<th scope="row" style="height: 16px;">Average low °C (°F)</th>
+<td style="background: #D6D6FF; color:#000000;">−3<br />
+(27)</td>
+<td style="background: #DBDBFF; color:#000000;">−2<br />
+(28)</td>
+<td style="background: #ECECFF; color:#000000;">1<br />
+(33)</td>
+<td style="background: #F6F6FF; color:#000000;">3<br />
+(38)</td>
+<td style="background: #FFE6CE; color:#000000;">8<br />
+(46)</td>
+<td style="background: #FFD2A5; color:#000000;">11<br />
+(52)</td>
+<td style="background: #FFC489; color:#000000;">13<br />
+(55)</td>
+<td style="background: #FFC489; color:#000000;">13<br />
+(55)</td>
+<td style="background: #FFDFC0; color:#000000;">9<br />
+(49)</td>
+<td style="background: #FFF4EA; color:#000000;">6<br />
+(42)</td>
+<td style="background: #ECECFF; color:#000000;">1<br />
+(34)</td>
+<td style="background: #E1E1FF; color:#000000;">−1<br />
+(30)</td>
+<td style="background: #FFFBF8; color:#000000; border-left-width:medium">5<br />
+(41)</td>
+</tr>
+<tr style="text-align: center;">
+<th scope="row" style="height: 16px;">Average <a href="/wiki/Precipitation" title="Precipitation">precipitation</a> mm (inches)</th>
+<td style="background: #C6C6FF; color:#000000;">38<br />
+(1.5)</td>
+<td style="background: #C0C0FF; color:#000000;">38<br />
+(1.5)</td>
+<td style="background: #CDCDFF; color:#000000;">33<br />
+(1.3)</td>
+<td style="background: #D0D0FF; color:#000000;">30<br />
+(1.2)</td>
+<td style="background: #A8A8FF; color:#000000;">58<br />
+(2.3)</td>
+<td style="background: #A1A1FF; color:#000000;">61<br />
+(2.4)</td>
+<td style="background: #9C9CFF; color:#000000;">66<br />
+(2.6)</td>
+<td style="background: #7272FF; color:#FFFFFF;">94<br />
+(3.7)</td>
+<td style="background: #B8B8FF; color:#000000;">46<br />
+(1.8)</td>
+<td style="background: #B4B4FF; color:#000000;">50<br />
+(2)</td>
+<td style="background: #D0D0FF; color:#000000;">30<br />
+(1.2)</td>
+<td style="background: #ABABFF; color:#000000;">56<br />
+(2.2)</td>
+<td style="background: #B3B3FF; color:#000000; border-left-width:medium">599<br />
+(23.6)</td>
+</tr>
+<tr>
+<td colspan="14" style="text-align:center;font-size:95%;">Source: Weatherbase<sup id="cite_ref-Weatherbase_17-0" class="reference"><a href="#cite_note-Weatherbase-17">[17]</a></sup></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Economy">Economy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ansbach&amp;action=edit&amp;section=7" title="Edit section: Economy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Around the time of the <a href="/wiki/Unification_of_Germany" title="Unification of Germany">unification of Germany</a> in 1871, the chief manufactures of Ansbach were <a href="/wiki/Woolens" class="mw-redirect" title="Woolens">woollen</a>, <a href="/wiki/Textiles" class="mw-redirect" title="Textiles">cotton</a>, and half-<a href="/wiki/Silk" title="Silk">silk</a> goods; <a href="/wiki/Earthenware" title="Earthenware">earthenware</a>; <a href="/wiki/Tobacco" title="Tobacco">tobacco</a>; <a href="/wiki/Cutlery" title="Cutlery">cutlery</a>; and <a href="/wiki/Playing_cards" class="mw-redirect" title="Playing cards">playing cards</a>. A considerable trade in grain, <a href="/wiki/Wool" title="Wool">wool</a>, and <a href="/wiki/Flax" title="Flax">flax</a> was also supported.<sup id="cite_ref-FOOTNOTEEB1878_7-5" class="reference"><a href="#cite_note-FOOTNOTEEB1878-7">[7]</a></sup> By the onset of the <a href="/wiki/First_World_War" class="mw-redirect" title="First World War">First World War</a>, it also produced <a href="/wiki/Machinery" class="mw-redirect" title="Machinery">machinery</a>, <a href="/wiki/Toy" title="Toy">toys</a>, and <a href="/wiki/Embroidery" title="Embroidery">embroidery</a>.<sup id="cite_ref-FOOTNOTEEB1911_18-0" class="reference"><a href="#cite_note-FOOTNOTEEB1911-18">[18]</a></sup></p>
+<p>Today there is a large density of <a href="/wiki/Plastics_industry" title="Plastics industry">plastics industry</a> in the City and rural districts around Ansbach.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup></p>
+<h2><span class="mw-headline" id="Notable_people">Notable people</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ansbach&amp;action=edit&amp;section=8" title="Edit section: Notable people">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:152px;"><a href="/wiki/File:Kaspar_hauser.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Kaspar_hauser.jpg/150px-Kaspar_hauser.jpg" width="150" height="252" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Kaspar_hauser.jpg/225px-Kaspar_hauser.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Kaspar_hauser.jpg/300px-Kaspar_hauser.jpg 2x" data-file-width="343" data-file-height="577" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Kaspar_hauser.jpg" class="internal" title="Enlarge"></a></div>
+Kaspar Hauser 1828/1829</div>
+</div>
+</div>
+<ul>
+<li><a href="/wiki/Frederick_I,_Margrave_of_Brandenburg-Ansbach" title="Frederick I, Margrave of Brandenburg-Ansbach">Frederick I, Margrave of Brandenburg-Ansbach</a> (1460–1536).</li>
+<li><a href="/wiki/Albert_of_Prussia" class="mw-redirect" title="Albert of Prussia">Albert of Prussia</a> (1490–1568), Grand Master of the <a href="/wiki/Teutonic_Order" title="Teutonic Order">Teutonic Order</a> and the first duke of <a href="/wiki/Duchy_of_Prussia" title="Duchy of Prussia">Prussia</a>.</li>
+<li>In the late 16th century, the physician to margrave Georg Friedrich was the famous botanist, <a href="/wiki/Leonhart_Fuchs" title="Leonhart Fuchs">Leonhart Fuchs</a> (1501–1566).</li>
+<li>Ansbach was home of the astronomer <a href="/wiki/Simon_Marius" title="Simon Marius">Simon Marius</a> (1573–1625), who observed <a href="/wiki/Jupiter" title="Jupiter">Jupiter</a>'s moons from the castle's tower. Later he claimed to be the discoverer of the moons, which led to a dispute with the true discoverer, <a href="/wiki/Galileo_Galilei" title="Galileo Galilei">Galileo Galilei</a>.</li>
+<li><a href="/wiki/Johann_Peter_Uz" class="mw-redirect" title="Johann Peter Uz">Johann Peter Uz</a> (1720–1796), poet.</li>
+<li><a href="/wiki/August_von_Platen-Hallerm%C3%BCnde" title="August von Platen-Hallermünde">August von Platen-Hallermünde</a>, poet.</li>
+<li><a href="/wiki/Georges_Oberhaeuser" title="Georges Oberhaeuser">Georges Oberhaeuser</a> (1798–1868), optician.</li>
+<li><a href="/wiki/Kaspar_Hauser" title="Kaspar Hauser">Kaspar Hauser</a> (1812–1833), lived in Ansbach from 1830 to 1833. He was stabbed (possibly self-inflicted) in the palace gardens.</li>
+<li><a href="/wiki/Pinchas_Kohn" title="Pinchas Kohn">Pinchas Kohn</a> (1867–1941), was the last rabbi of Ansbach. He was the rabbinical advisor to the German occupying forces of Poland in the First World War and was also one of the founders of the <a href="/wiki/World_Agudath_Israel" title="World Agudath Israel">World Agudath Israel</a> movement.</li>
+<li><a href="/wiki/Max_Westenh%C3%B6fer" title="Max Westenhöfer">Max Westenhöfer</a> (1871–1957), pathologist, professor at the <a href="/wiki/University_of_Berlin" class="mw-redirect" title="University of Berlin">University of Berlin</a> and the <a href="/wiki/University_of_Chile" title="University of Chile">University of Chile</a>. Proposed the <a href="/wiki/Aquatic_ape_hypothesis" title="Aquatic ape hypothesis">Aquatic ape hypothesis</a>.</li>
+<li><a href="/wiki/Herbert_Blendinger" title="Herbert Blendinger">Herbert Blendinger</a>, Violinist and composer was born in Ansbach in 1936.</li>
+<li><a href="/wiki/Matthias_Buchinger" title="Matthias Buchinger">Matthias Buchinger</a> (1674–1740), a German artist, magician and illustrator, born without hands or legs.</li>
+</ul>
+<h2><span class="mw-headline" id="Born_in_Ansbach">Born in Ansbach</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ansbach&amp;action=edit&amp;section=9" title="Edit section: Born in Ansbach">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Manfred_Ach" title="Manfred Ach">Manfred Ach</a>, (born 1940), politician, from 1994 to 2008 Member of the Bavarian Parliament.</li>
+<li><a href="/wiki/Wilhelm_Adam" title="Wilhelm Adam">Wilhelm Adam</a>, (1893–1978), Colonel General.</li>
+<li><a href="/wiki/Caroline_of_Ansbach" title="Caroline of Ansbach">Caroline of Ansbach</a>, (1683–1737), wife of King George II (UK).</li>
+<li><a href="/wiki/Marcus_Eliezer_Bloch" class="mw-redirect" title="Marcus Eliezer Bloch">Marcus Eliezer Bloch</a>, (1723–1799), ichthyologist.</li>
+<li><a href="/wiki/Eleonore_Juliane_von_Brandenburg-Ansbach" class="mw-redirect" title="Eleonore Juliane von Brandenburg-Ansbach">Eleonore Juliane von Brandenburg-Ansbach</a>, (1663–1724), Princess of Brandenburg-Ansbach, by marriage Duchess of Württemberg-Winnental.</li>
+<li><a href="/wiki/Elisabeth_of_Brandenburg_(1451%E2%80%931524)" class="mw-redirect" title="Elisabeth of Brandenburg (1451–1524)">Elisabeth von Brandenburg-Ansbach</a>, Princess of Brandenburg, by marriage Duchess of Württemberg.</li>
+<li><a href="/wiki/Walter_Brandm%C3%BCller" title="Walter Brandmüller">Walter Brandmüller</a>, (born 1929), theologian and church historian, president of the Pontifical Committee for Historical Sciences.</li>
+<li><a href="/wiki/George_H._Brickner" title="George H. Brickner">George H. Brickner</a>, (1834–1904), U.S. Representative from <a href="/wiki/Wisconsin" title="Wisconsin">Wisconsin</a>.</li>
+<li><a href="/wiki/Danilo_Dittrich" title="Danilo Dittrich">Danilo Dittrich</a> (born 1995), football player.</li>
+</ul>
+<div class="thumb tright">
+<div class="thumbinner" style="width:122px;"><a href="/wiki/File:Theodor_Escherich.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Theodor_Escherich.jpg/120px-Theodor_Escherich.jpg" width="120" height="209" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Theodor_Escherich.jpg/180px-Theodor_Escherich.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/de/Theodor_Escherich.jpg/240px-Theodor_Escherich.jpg 2x" data-file-width="429" data-file-height="747" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Theodor_Escherich.jpg" class="internal" title="Enlarge"></a></div>
+Theodor Escherich</div>
+</div>
+</div>
+<ul>
+<li><a href="/wiki/Theodor_Escherich" title="Theodor Escherich">Theodor Escherich</a>, (1857–1911), pediatrician and bacteriologist.</li>
+<li><a href="/wiki/Hermann_Fegelein" title="Hermann Fegelein">Hermann Fegelein</a>, (1906–1945), General of the Waffen-SS, was married to the sister of <a href="/wiki/Eva_Braun" title="Eva Braun">Eva Braun</a>.</li>
+<li><a href="/wiki/Waldemar_Fegelein" class="mw-redirect" title="Waldemar Fegelein">Waldemar Fegelein</a>, (1912–2000), officer in the Waffen-SS.</li>
+<li><a href="/wiki/Ludwig_F%C3%B6rster" title="Ludwig Förster">Ludwig von Förster</a>, (1792–1863), architect: Ringstrasse, 3 synagogues (Vienna, Budapest).</li>
+<li><a href="/wiki/Fritz_Hommel" title="Fritz Hommel">Fritz Hommel</a>, (1854–1936), orientalist.</li>
+<li><a href="/wiki/Alex_King_(basketball)" title="Alex King (basketball)">Alex King</a>, basketball player.</li>
+<li><a href="/wiki/Georg_Christian_Oeder" title="Georg Christian Oeder">Georg Christian Oeder</a>, (1728–1791), <a href="/wiki/Carl_Linnaeus" title="Carl Linnaeus">pre-Linnean</a> botanist.</li>
+<li><a href="/wiki/John_James_Maximilian_Oertel" title="John James Maximilian Oertel">John James Maximilian Oertel</a> (1811–1882), born in Ansbach, was a <a href="/wiki/Lutheran" class="mw-redirect" title="Lutheran">Lutheran</a> <a href="/wiki/Clergyman" class="mw-redirect" title="Clergyman">clergyman</a> who later converted to <a href="/wiki/Roman_Catholicism" class="mw-redirect" title="Roman Catholicism">Roman Catholicism</a> and moved to the United States.</li>
+<li><a href="/wiki/Sebastian_Preiss" class="mw-redirect" title="Sebastian Preiss">Sebastian Preiss</a>, (born 1981), handball player.</li>
+<li><a href="/wiki/Moritz_von_Spies" title="Moritz von Spies">Moritz Ritter von Spies</a> (1805–1862), Bavarian Major General and War Minister.</li>
+<li><a href="/wiki/Georg_Ernst_Stahl" title="Georg Ernst Stahl">Georg Ernst Stahl</a> (1659–1734), chemist, physician and metallurgist.</li>
+</ul>
+<h2><span class="mw-headline" id="International_relations">International relations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ansbach&amp;action=edit&amp;section=10" title="Edit section: International relations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/List_of_twin_towns_and_sister_cities_in_Germany" title="List of twin towns and sister cities in Germany">List of twin towns and sister cities in Germany</a></div>
+<p>Ansbach is <a href="/wiki/Twin_towns_and_sister_cities" class="mw-redirect" title="Twin towns and sister cities">twinned</a> with:</p>
+<ul>
+<li><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Anglet" title="Anglet">Anglet</a>, France</li>
+<li><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/Bay_City,_Michigan" title="Bay City, Michigan">Bay City, Michigan</a></li>
+<li><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Fermo" title="Fermo">Fermo</a>, Italy</li>
+<li><span class="flagicon"><a href="/wiki/China" title="China"><img alt="China" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Jingjiang" title="Jingjiang">Jingjiang</a>, China</li>
+</ul>
+<h2><span class="mw-headline" id="In_popular_culture">In popular culture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ansbach&amp;action=edit&amp;section=11" title="Edit section: In popular culture">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In the novel <i>The Schirmer Inheritance</i> (1953) by <a href="/wiki/Eric_Ambler" title="Eric Ambler">Eric Ambler</a> (1909–1998), Sergeant Franz Schirmer of the Ansbach Dragoons is wounded in the battle of <a href="/wiki/Battle_of_Eylau" title="Battle of Eylau">Preussisch-Eylau</a> in 1807. He returns to Ansbach to settle but changes his name as he has been posted as a deserter. The bulk of the novel concerns efforts by an American law firm to trace his descendants to claim an inheritance.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ansbach&amp;action=edit&amp;section=12" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="flag" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Bavaria_%28lozengy%29.svg/32px-Flag_of_Bavaria_%28lozengy%29.svg.png" width="32" height="19" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Bavaria_%28lozengy%29.svg/48px-Flag_of_Bavaria_%28lozengy%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Bavaria_%28lozengy%29.svg/64px-Flag_of_Bavaria_%28lozengy%29.svg.png 2x" data-file-width="1000" data-file-height="600" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Bavaria" title="Portal:Bavaria">Bavaria portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Wolf_of_Ansbach" title="Wolf of Ansbach">Wolf of Ansbach</a></li>
+</ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ansbach&amp;action=edit&amp;section=13" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.statistikdaten.bayern.de/genesis/online?sequenz=tabelleErgebnis&amp;selectionname=12411-001">"Fortschreibung des Bevölkerungsstandes"</a>. <i><a href="/wiki/Bayerisches_Landesamt_f%C3%BCr_Statistik_und_Datenverarbeitung" class="mw-redirect" title="Bayerisches Landesamt für Statistik und Datenverarbeitung">Bayerisches Landesamt für Statistik und Datenverarbeitung</a></i> (in German). June 2016.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsbach&amp;rft.atitle=Fortschreibung+des+Bev%C3%B6lkerungsstandes&amp;rft.date=2016-06&amp;rft.genre=unknown&amp;rft.jtitle=Bayerisches+Landesamt+f%C3%BCr+Statistik+und+Datenverarbeitung&amp;rft_id=https%3A%2F%2Fwww.statistikdaten.bayern.de%2Fgenesis%2Fonline%3Fsequenz%3DtabelleErgebnis%26selectionname%3D12411-001&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Wolf-Armin von Reitzenstein: <i><a rel="nofollow" class="external text" href="https://books.google.com/books?id=CBTv-Jl3DkYC&amp;printsec=frontcover&amp;hl=de#v=onepage&amp;q&amp;f=false">Lexikon fränkischer Ortsnamen</a></i> (eng: "Lexicon to franconian toponymy"), <a href="/wiki/Verlag_C._H._Beck" class="mw-redirect" title="Verlag C. H. Beck">Verlag C. H. Beck</a>, Munich 2009, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-3-406-59131-0" title="Special:BookSources/978-3-406-59131-0">978-3-406-59131-0</a>. (in German)</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Heinz Bischof, Wilhelm Sturmfels: <i>Unsere Ortsnamen. Im ABC erklärt nach Herkunft und Bedeutung</i> (eng: "Names of our towns. A Guide to name origins and significance"), Dümmler Verlag, <a href="/wiki/Rastatt" title="Rastatt">Rastatt</a> 1961, (in German)</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.grosser-generalstab.de/tafeln/knoe02/knoe02_02.jpg">"Anspach-Baireuth"</a> (in German)<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-02-21</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsbach&amp;rft.btitle=Anspach-Baireuth&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.grosser-generalstab.de%2Ftafeln%2Fknoe02%2Fknoe02_02.jpg&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Werner Bürger: <i>Heimatgeschichte der Stadt Ansbach</i> (eng: "The history of Ansbach"), Oldenburg Verlag, <a href="/wiki/Munich" title="Munich">Munich</a> 1990, (in German)</span></li>
+<li id="cite_note-Spaltro2005-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-Spaltro2005_6-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Spaltro, Kathleen; et al. (2005). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=UUOzgLiyd54C&amp;pg=PA262"><i>Royals of England: A Guide for Readers, Travelers, and Genealogists</i></a>. iUniverse. p.&#160;262. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780595373123" title="Special:BookSources/9780595373123">9780595373123</a><span class="reference-accessdate">. Retrieved <span class="nowrap">16 September</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsbach&amp;rft.au=Bridge%2C+Noeline&amp;rft.aufirst=Kathleen&amp;rft.aulast=Spaltro&amp;rft.btitle=Royals+of+England%3A+A+Guide+for+Readers%2C+Travelers%2C+and+Genealogists&amp;rft.date=2005&amp;rft.genre=book&amp;rft.isbn=9780595373123&amp;rft.pages=262&amp;rft.pub=iUniverse&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DUUOzgLiyd54C%26pg%3DPA262&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-FOOTNOTEEB1878-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-FOOTNOTEEB1878_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTEEB1878_7-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-FOOTNOTEEB1878_7-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-FOOTNOTEEB1878_7-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-FOOTNOTEEB1878_7-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-FOOTNOTEEB1878_7-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFEB1878">EB (1878)</a>.</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.hdbg.de/montgelas/pages/hmv33.htm">"Montgelas"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsbach&amp;rft.btitle=Montgelas&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.hdbg.de%2Fmontgelas%2Fpages%2Fhmv33.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.tartanplace.com/tartanhistory/concentrationcamps.html">Christine O'Keefe. <i>Concentration Camps.</i></a></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20130104172433/http://www.afhra.af.mil/factsheets/factsheet.asp?id=9966">"Factsheets&#160;: 354 Operations Group (PACAF)"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.afhra.af.mil/factsheets/factsheet.asp?id=9966">the original</a> on 2013-01-04.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsbach&amp;rft.btitle=Factsheets+%3A+354+Operations+Group+%28PACAF%29&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.afhra.af.mil%2Ffactsheets%2Ffactsheet.asp%3Fid%3D9966&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.skylighters.org/history/airfields">"Skylighters, The Web Site of the 225th AAA Searchlight Battalion: USAAF Airfields in the ETO"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsbach&amp;rft.btitle=Skylighters%2C+The+Web+Site+of+the+225th+AAA+Searchlight+Battalion%3A+USAAF+Airfields+in+the+ETO&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.skylighters.org%2Fhistory%2Fairfields&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090106021147/http://www.eucmh.com/2008/08/10/aaf-airfields-fr-be-nl-lu-deprocessing/">"AAF Airfields"</a>. Archived from the original on 2009-01-06.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsbach&amp;rft.btitle=AAF+Airfields&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.eucmh.com%2F2008%2F08%2F10%2Faaf-airfields-fr-be-nl-lu-deprocessing%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: BOT: original-url status unknown (<a href="/wiki/Category:CS1_maint:_BOT:_original-url_status_unknown" title="Category:CS1 maint: BOT: original-url status unknown">link</a>)</span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20100423213040/http://www.ridinthewave.com/thinkytees/1stArmorDivision.html">A Summary History of the 1st Armored Division</a></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web">Tannenberg, Robert (26 July 2016). <a rel="nofollow" class="external text" href="https://www.welt.de/politik/deutschland/article157265491/27-Jaehriger-sprengt-sich-in-die-Luft-zwoelf-Verletzte.html">"Seehofer fordert Überprüfung aller Flüchtlinge"</a> – via Welt Online.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsbach&amp;rft.aufirst=Robert&amp;rft.aulast=Tannenberg&amp;rft.btitle=Seehofer+fordert+%C3%9Cberpr%C3%BCfung+aller+Fl%C3%BCchtlinge&amp;rft.date=2016-07-26&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.welt.de%2Fpolitik%2Fdeutschland%2Farticle157265491%2F27-Jaehriger-sprengt-sich-in-die-Luft-zwoelf-Verletzte.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.bbc.co.uk/news/world-europe-36880758">"Ansbach explosion: Syrian asylum seeker blows himself up in Germany"</a>. BBC News.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsbach&amp;rft.btitle=Ansbach+explosion%3A+Syrian+asylum+seeker+blows+himself+up+in+Germany&amp;rft.genre=unknown&amp;rft.pub=BBC+News&amp;rft_id=http%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fworld-europe-36880758&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.weatherbase.com/weather/weather-summary.php3?s=55701&amp;cityname=Ansbach,%20Bavaria,%20Germany&amp;units=">"Ansbach, Germany Köppen Climate Classification (Weatherbase)"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsbach&amp;rft.btitle=Ansbach%2C+Germany+K%C3%B6ppen+Climate+Classification+%28Weatherbase%29&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.weatherbase.com%2Fweather%2Fweather-summary.php3%3Fs%3D55701%26cityname%3DAnsbach%2C%2520Bavaria%2C%2520Germany%26units%3D&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Weatherbase-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-Weatherbase_17-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.weatherbase.com/weather/weather.php3?s=55701&amp;cityname=Ansbach-">"Weatherbase.com"</a>. Weatherbase. 2013.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsbach&amp;rft.btitle=Weatherbase.com&amp;rft.date=2013&amp;rft.genre=unknown&amp;rft.pub=Weatherbase&amp;rft_id=http%3A%2F%2Fwww.weatherbase.com%2Fweather%2Fweather.php3%3Fs%3D55701%26cityname%3DAnsbach-&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> Retrieved on 6 July 2013.</span></li>
+<li id="cite_note-FOOTNOTEEB1911-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEEB1911_18-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFEB1911">EB (1911)</a>.</span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.wifoe-landkreis-ansbach.de/Kompetenzregion/Kompetenz-Kunststoff.html"><i>website of the Ansbach economic forum</i></a> (in German)</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ansbach&amp;action=edit&amp;section=14" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><img alt="Wikisource-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png" width="12" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/18px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/24px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" />&#160;<cite id="CITEREFEB1878" class="citation encyclopaedia">Baynes, T.S., ed. (1878), "<a href="https://en.wikisource.org/wiki/Encyclop%C3%A6dia_Britannica,_Ninth_Edition/Ansbach" class="extiw" title="s:Encyclopædia Britannica, Ninth Edition/Ansbach">Ansbach</a>", <i><a href="/wiki/Encyclop%C3%A6dia_Britannica" title="Encyclopædia Britannica">Encyclopædia Britannica</a></i>, <b>2</b> (9th ed.), New York: Charles Scribner's Sons, p.&#160;91</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsbach&amp;rft.atitle=Ansbach&amp;rft.btitle=Encyclop%C3%A6dia+Britannica&amp;rft.date=1878&amp;rft.edition=9th&amp;rft.genre=bookitem&amp;rft.pages=91&amp;rft.place=New+York&amp;rft.pub=Charles+Scribner%27s+Sons&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><img alt="Wikisource-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png" width="12" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/18px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/24px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" />&#160;<cite id="CITEREFEB1911" class="citation encyclopaedia">Chisholm, Hugh, ed. (1911), "<a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Ansbach" class="extiw" title="wikisource:1911 Encyclopædia Britannica/Ansbach">Ansbach</a>", <i><a href="/wiki/Encyclop%C3%A6dia_Britannica_Eleventh_Edition" title="Encyclopædia Britannica Eleventh Edition">Encyclopædia Britannica</a></i>, <b>2</b> (11th ed.), Cambridge University Press, p.&#160;81</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsbach&amp;rft.atitle=Ansbach&amp;rft.btitle=Encyclop%C3%A6dia+Britannica&amp;rft.date=1911&amp;rft.edition=11th&amp;rft.genre=bookitem&amp;rft.pages=81&amp;rft.pub=Cambridge+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ansbach&amp;action=edit&amp;section=15" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Ansbach" class="extiw" title="commons:Category:Ansbach">Ansbach</a></b></i>.</td>
+</tr>
+</table>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/38px-Wikisource-logo.svg.png" width="38" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/57px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/76px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></td>
+<td class="mbox-text plainlist"><a href="/wiki/Wikisource" title="Wikisource">Wikisource</a> has the text of the 1905 <i><a href="/wiki/New_International_Encyclopedia" title="New International Encyclopedia">New International Encyclopedia</a></i> article <i><b><a href="https://en.wikisource.org/wiki/The_New_International_Encyclop%C3%A6dia/Ansbach" class="extiw" title="s:The New International Encyclopædia/Ansbach">Ansbach</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.ansbach.de">Official Website</a> (German, English, French)</li>
+<li><a rel="nofollow" class="external text" href="http://www.globalsecurity.org/military/facility/ansbach.htm">Ansbach information</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.ansbach.army.mil">US Army Garrison Ansbach – Ansbach Military Community</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080413115048/http://www2.fh-ansbach.de/">Ansbach University of Applied Sciences</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="border.7C30px.7CFlag_of_Bavaria_Urban_and_rural_districts_in_the_Free_State_of_Bavaria_in_Germany_border.7C30px.7CFlag_of_Germany" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Germany_districts_Bavaria" title="Template:Germany districts Bavaria"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Germany_districts_Bavaria" title="Template talk:Germany districts Bavaria"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Germany_districts_Bavaria&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="border.7C30px.7CFlag_of_Bavaria_Urban_and_rural_districts_in_the_Free_State_of_Bavaria_in_Germany_border.7C30px.7CFlag_of_Germany" style="font-size:114%;margin:0 4em"><a href="/wiki/File:Flag_of_Bavaria_(lozengy).svg" class="image" title="Flag of Bavaria"><img alt="Flag of Bavaria" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Bavaria_%28lozengy%29.svg/30px-Flag_of_Bavaria_%28lozengy%29.svg.png" width="30" height="18" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Bavaria_%28lozengy%29.svg/45px-Flag_of_Bavaria_%28lozengy%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Bavaria_%28lozengy%29.svg/60px-Flag_of_Bavaria_%28lozengy%29.svg.png 2x" data-file-width="1000" data-file-height="600" /></a> Urban and rural districts in the <a href="/wiki/Bavaria" title="Bavaria">Free State of Bavaria</a> in Germany <a href="/wiki/File:Flag_of_Germany.svg" class="image" title="Flag of Germany"><img alt="Flag of Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/30px-Flag_of_Germany.svg.png" width="30" height="18" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/45px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/60px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Urban<br />
+districts</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Amberg" title="Amberg">Amberg</a></li>
+<li><a class="mw-selflink selflink">Ansbach</a></li>
+<li><a href="/wiki/Aschaffenburg" title="Aschaffenburg">Aschaffenburg</a></li>
+<li><a href="/wiki/Augsburg" title="Augsburg">Augsburg</a></li>
+<li><a href="/wiki/Bamberg" title="Bamberg">Bamberg</a></li>
+<li><a href="/wiki/Bayreuth" title="Bayreuth">Bayreuth</a></li>
+<li><a href="/wiki/Coburg" title="Coburg">Coburg</a></li>
+<li><a href="/wiki/Erlangen" title="Erlangen">Erlangen</a></li>
+<li><a href="/wiki/F%C3%BCrth" title="Fürth">Fürth</a></li>
+<li><a href="/wiki/Hof,_Bavaria" title="Hof, Bavaria">Hof</a></li>
+<li><a href="/wiki/Ingolstadt" title="Ingolstadt">Ingolstadt</a></li>
+<li><a href="/wiki/Kaufbeuren" title="Kaufbeuren">Kaufbeuren</a></li>
+<li><a href="/wiki/Kempten" title="Kempten">Kempten</a></li>
+<li><a href="/wiki/Landshut" title="Landshut">Landshut</a></li>
+<li><a href="/wiki/Memmingen" title="Memmingen">Memmingen</a></li>
+<li><a href="/wiki/Munich" title="Munich">München (<i>Munich</i>)</a></li>
+<li><a href="/wiki/Nuremberg" title="Nuremberg">Nürnberg (<i>Nuremberg</i>)</a></li>
+<li><a href="/wiki/Passau" title="Passau">Passau</a></li>
+<li><a href="/wiki/Regensburg" title="Regensburg">Regensburg</a></li>
+<li><a href="/wiki/Rosenheim" title="Rosenheim">Rosenheim</a></li>
+<li><a href="/wiki/Schwabach" title="Schwabach">Schwabach</a></li>
+<li><a href="/wiki/Schweinfurt" title="Schweinfurt">Schweinfurt</a></li>
+<li><a href="/wiki/Straubing" title="Straubing">Straubing</a></li>
+<li><a href="/wiki/Weiden_in_der_Oberpfalz" title="Weiden in der Oberpfalz">Weiden</a></li>
+<li><a href="/wiki/W%C3%BCrzburg" title="Würzburg">Würzburg</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Rural<br />
+districts</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aichach-Friedberg" title="Aichach-Friedberg">Aichach-Friedberg</a></li>
+<li><a href="/wiki/Alt%C3%B6tting_(district)" title="Altötting (district)">Altötting</a></li>
+<li><a href="/wiki/Amberg-Sulzbach" title="Amberg-Sulzbach">Amberg-Sulzbach</a></li>
+<li><a href="/wiki/Ansbach_(district)" title="Ansbach (district)">Ansbach</a></li>
+<li><a href="/wiki/Aschaffenburg_(district)" title="Aschaffenburg (district)">Aschaffenburg</a></li>
+<li><a href="/wiki/Augsburg_(district)" title="Augsburg (district)">Augsburg</a></li>
+<li><a href="/wiki/Bad_Kissingen_(district)" title="Bad Kissingen (district)">Bad Kissingen</a></li>
+<li><a href="/wiki/Bad_T%C3%B6lz-Wolfratshausen" title="Bad Tölz-Wolfratshausen">Bad Tölz-Wolfratshausen</a></li>
+<li><a href="/wiki/Bamberg_(district)" title="Bamberg (district)">Bamberg</a></li>
+<li><a href="/wiki/Bayreuth_(district)" title="Bayreuth (district)">Bayreuth</a></li>
+<li><a href="/wiki/Berchtesgadener_Land" title="Berchtesgadener Land">Berchtesgadener Land</a></li>
+<li><a href="/wiki/Cham_(district)" title="Cham (district)">Cham</a></li>
+<li><a href="/wiki/Coburg_(district)" title="Coburg (district)">Coburg</a></li>
+<li><a href="/wiki/Dachau_(district)" title="Dachau (district)">Dachau</a></li>
+<li><a href="/wiki/Deggendorf_(district)" title="Deggendorf (district)">Deggendorf</a></li>
+<li><a href="/wiki/Dillingen_(district)" title="Dillingen (district)">Dillingen</a></li>
+<li><a href="/wiki/Dingolfing-Landau" title="Dingolfing-Landau">Dingolfing-Landau</a></li>
+<li><a href="/wiki/Donau-Ries" title="Donau-Ries">Donau-Ries</a></li>
+<li><a href="/wiki/Ebersberg_(district)" title="Ebersberg (district)">Ebersberg</a></li>
+<li><a href="/wiki/Eichst%C3%A4tt_(district)" title="Eichstätt (district)">Eichstätt</a></li>
+<li><a href="/wiki/Erding_(district)" title="Erding (district)">Erding</a></li>
+<li><a href="/wiki/Erlangen-H%C3%B6chstadt" title="Erlangen-Höchstadt">Erlangen-Höchstadt</a></li>
+<li><a href="/wiki/Forchheim_(district)" title="Forchheim (district)">Forchheim</a></li>
+<li><a href="/wiki/Freising_(district)" title="Freising (district)">Freising</a></li>
+<li><a href="/wiki/Freyung-Grafenau" title="Freyung-Grafenau">Freyung-Grafenau</a></li>
+<li><a href="/wiki/F%C3%BCrstenfeldbruck_(district)" title="Fürstenfeldbruck (district)">Fürstenfeldbruck</a></li>
+<li><a href="/wiki/F%C3%BCrth_(district)" title="Fürth (district)">Fürth</a></li>
+<li><a href="/wiki/Garmisch-Partenkirchen_(district)" title="Garmisch-Partenkirchen (district)">Garmisch-Partenkirchen</a></li>
+<li><a href="/wiki/G%C3%BCnzburg_(district)" title="Günzburg (district)">Günzburg</a></li>
+<li><a href="/wiki/Ha%C3%9Fberge_(district)" title="Haßberge (district)">Haßberge</a></li>
+<li><a href="/wiki/Hof_(district)" title="Hof (district)">Hof</a></li>
+<li><a href="/wiki/Kelheim_(district)" title="Kelheim (district)">Kelheim</a></li>
+<li><a href="/wiki/Kitzingen_(district)" title="Kitzingen (district)">Kitzingen</a></li>
+<li><a href="/wiki/Kronach_(district)" title="Kronach (district)">Kronach</a></li>
+<li><a href="/wiki/Kulmbach_(district)" title="Kulmbach (district)">Kulmbach</a></li>
+<li><a href="/wiki/Landsberg_(district)" title="Landsberg (district)">Landsberg</a></li>
+<li><a href="/wiki/Landshut_(district)" title="Landshut (district)">Landshut</a></li>
+<li><a href="/wiki/Lichtenfels_(district)" title="Lichtenfels (district)">Lichtenfels</a></li>
+<li><a href="/wiki/Lindau_(district)" title="Lindau (district)">Lindau</a></li>
+<li><a href="/wiki/Main-Spessart" title="Main-Spessart">Main-Spessart</a></li>
+<li><a href="/wiki/Miesbach_(district)" title="Miesbach (district)">Miesbach</a></li>
+<li><a href="/wiki/Miltenberg_(district)" title="Miltenberg (district)">Miltenberg</a></li>
+<li><a href="/wiki/M%C3%BChldorf_(district)" title="Mühldorf (district)">Mühldorf</a></li>
+<li><a href="/wiki/Munich_(district)" title="Munich (district)">München (<i>Munich</i>)</a></li>
+<li><a href="/wiki/Neuburg-Schrobenhausen" title="Neuburg-Schrobenhausen">Neuburg-Schrobenhausen</a></li>
+<li><a href="/wiki/Neumarkt_(district)" title="Neumarkt (district)">Neumarkt</a></li>
+<li><a href="/wiki/Neustadt_(Aisch)-Bad_Windsheim" title="Neustadt (Aisch)-Bad Windsheim">Neustadt (Aisch)-Bad Windsheim</a></li>
+<li><a href="/wiki/Neustadt_an_der_Waldnaab_(district)" title="Neustadt an der Waldnaab (district)">Neustadt an der Waldnaab</a></li>
+<li><a href="/wiki/Neu-Ulm_(district)" title="Neu-Ulm (district)">Neu-Ulm</a></li>
+<li><a href="/wiki/N%C3%BCrnberger_Land" title="Nürnberger Land">Nürnberger Land</a></li>
+<li><a href="/wiki/Oberallg%C3%A4u" title="Oberallgäu">Oberallgäu</a></li>
+<li><a href="/wiki/Ostallg%C3%A4u" title="Ostallgäu">Ostallgäu</a></li>
+<li><a href="/wiki/Passau_(district)" title="Passau (district)">Passau</a></li>
+<li><a href="/wiki/Pfaffenhofen_(district)" title="Pfaffenhofen (district)">Pfaffenhofen</a></li>
+<li><a href="/wiki/Regen_(district)" title="Regen (district)">Regen</a></li>
+<li><a href="/wiki/Regensburg_(district)" title="Regensburg (district)">Regensburg</a></li>
+<li><a href="/wiki/Rh%C3%B6n-Grabfeld" title="Rhön-Grabfeld">Rhön-Grabfeld</a></li>
+<li><a href="/wiki/Rosenheim_(district)" title="Rosenheim (district)">Rosenheim</a></li>
+<li><a href="/wiki/Roth_(district)" title="Roth (district)">Roth</a></li>
+<li><a href="/wiki/Rottal-Inn" title="Rottal-Inn">Rottal-Inn</a></li>
+<li><a href="/wiki/Schwandorf_(district)" title="Schwandorf (district)">Schwandorf</a></li>
+<li><a href="/wiki/Schweinfurt_(district)" title="Schweinfurt (district)">Schweinfurt</a></li>
+<li><a href="/wiki/Starnberg_(district)" title="Starnberg (district)">Starnberg</a></li>
+<li><a href="/wiki/Straubing-Bogen" title="Straubing-Bogen">Straubing-Bogen</a></li>
+<li><a href="/wiki/Tirschenreuth_(district)" title="Tirschenreuth (district)">Tirschenreuth</a></li>
+<li><a href="/wiki/Traunstein_(district)" title="Traunstein (district)">Traunstein</a></li>
+<li><a href="/wiki/Unterallg%C3%A4u" title="Unterallgäu">Unterallgäu</a></li>
+<li><a href="/wiki/Weilheim-Schongau" title="Weilheim-Schongau">Weilheim-Schongau</a></li>
+<li><a href="/wiki/Wei%C3%9Fenburg-Gunzenhausen" title="Weißenburg-Gunzenhausen">Weißenburg-Gunzenhausen</a></li>
+<li><a href="/wiki/Wunsiedel_(district)" title="Wunsiedel (district)">Wunsiedel</a></li>
+<li><a href="/wiki/W%C3%BCrzburg_(district)" title="Würzburg (district)">Würzburg</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/137210688">WorldCat Identities</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/137210688">137210688</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/4002170-1">4002170-1</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb12078801c">cb12078801c</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb12078801c">(data)</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1273
+Cached time: 20171017125807
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.744 seconds
+Real time usage: 0.918 seconds
+Preprocessor visited node count: 14773/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 111719/2097152 bytes
+Template argument size: 21218/2097152 bytes
+Highest expansion depth: 26/40
+Expensive parser function count: 8/500
+Lua time usage: 0.281/10.000 seconds
+Lua memory usage: 9.5 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  817.758      1 -total
+ 50.62%  413.924      1 Template:Infobox_German_location
+ 47.72%  390.261      1 Template:Infobox_settlement
+ 42.29%  345.841      1 Template:Infobox
+ 19.29%  157.714      7 Template:Population_Germany
+ 14.76%  120.715      7 Template:Metadata_Population_DE-BY
+  8.47%   69.280      1 Template:Reflist
+  8.09%   66.189      5 Template:Citation_needed
+  7.79%   63.676     10 Template:Cite_web
+  7.08%   57.923      5 Template:Fix
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:3236-0!canonical and timestamp 20171017125806 and revision id 800908261
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Ansbach&amp;oldid=800908261">https://en.wikipedia.org/w/index.php?title=Ansbach&amp;oldid=800908261</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Towns_in_Bavaria" title="Category:Towns in Bavaria">Towns in Bavaria</a></li><li><a href="/wiki/Category:Ansbach" title="Category:Ansbach">Ansbach</a></li><li><a href="/wiki/Category:Holocaust_locations_in_Germany" title="Category:Holocaust locations in Germany">Holocaust locations in Germany</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_German-language_sources_(de)" title="Category:CS1 German-language sources (de)">CS1 German-language sources (de)</a></li><li><a href="/wiki/Category:CS1_maint:_BOT:_original-url_status_unknown" title="Category:CS1 maint: BOT: original-url status unknown">CS1 maint: BOT: original-url status unknown</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_June_2015" title="Category:Articles with unsourced statements from June 2015">Articles with unsourced statements from June 2015</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_January_2017" title="Category:Articles with unsourced statements from January 2017">Articles with unsourced statements from January 2017</a></li><li><a href="/wiki/Category:Wikipedia_articles_incorporating_a_citation_from_EB9" title="Category:Wikipedia articles incorporating a citation from EB9">Wikipedia articles incorporating a citation from EB9</a></li><li><a href="/wiki/Category:Wikipedia_articles_incorporating_a_citation_from_the_1911_Encyclopaedia_Britannica_with_Wikisource_reference" title="Category:Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference">Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Ansbach" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Ansbach" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Ansbach" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Ansbach" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Ansbach">Read</a></span></li>
+							<li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Ansbach&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Ansbach&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Ansbach" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Ansbach" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Ansbach&amp;oldid=800908261" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Ansbach&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q14859" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Ansbach&amp;id=800908261" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Ansbach">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Ansbach&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Ansbach&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Ansbach" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A2%D9%86%D8%B3%D8%A8%D8%A7%D8%AE" title="آنسباخ – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-an"><a href="https://an.wikipedia.org/wiki/Ansbach" title="Ansbach – Aragonese" lang="an" hreflang="an" class="interlanguage-link-target">Aragonés</a></li><li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D8%A2%D9%86%D8%B3%D8%A8%D8%A7%D8%AE" title="آنسباخ – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%90%D0%BD%D1%81%D0%B1%D0%B0%D1%85" title="Ансбах – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/%D0%90%D0%BD%D1%81%D0%B1%D0%B0%D1%85" title="Ансбах – Belarusian (Taraškievica orthography)" lang="be-x-old" hreflang="be-x-old" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%90%D0%BD%D1%81%D0%B1%D0%B0%D1%85" title="Ансбах – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bar"><a href="https://bar.wikipedia.org/wiki/Ansbach" title="Ansbach – Bavarian" lang="bar" hreflang="bar" class="interlanguage-link-target">Boarisch</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Ansbach" title="Ansbach – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cv"><a href="https://cv.wikipedia.org/wiki/%D0%90%D0%BD%D1%81%D0%B1%D0%B0%D1%85" title="Ансбах – Chuvash" lang="cv" hreflang="cv" class="interlanguage-link-target">Чӑвашла</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Ansbach_(kapital_sa_distrito_nga_gobyerno)" title="Ansbach (kapital sa distrito nga gobyerno) – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Ansbach" title="Ansbach – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Ansbach" title="Ansbach – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Ansbach" title="Ansbach – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Ansbach" title="Ansbach – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Ansbach" title="Ansbach – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Ansbach" title="Ansbach – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Ansbach" title="Ansbach – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A2%D9%86%D8%B3%D8%A8%D8%A7%D8%AE" title="آنسباخ – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Ansbach" title="Ansbach – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Ansbach" title="Ansbach – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-hak"><a href="https://hak.wikipedia.org/wiki/Ansbach" title="Ansbach – Hakka Chinese" lang="hak" hreflang="hak" class="interlanguage-link-target">客家語/Hak-kâ-ngî</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%95%88%EC%8A%A4%EB%B0%94%ED%9D%90" title="안스바흐 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%B1%D5%B6%D5%BD%D5%A2%D5%A1%D5%AD" title="Անսբախ – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Ansbach" title="Ansbach – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ie"><a href="https://ie.wikipedia.org/wiki/Ansbach" title="Ansbach – Interlingue" lang="ie" hreflang="ie" class="interlanguage-link-target">Interlingue</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Ansbach" title="Ansbach – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/%D0%90%D0%BD%D1%81%D0%B1%D0%B0%D1%85" title="Ансбах – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Onoldum" title="Onoldum – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Ansbachas" title="Ansbachas – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-lmo"><a href="https://lmo.wikipedia.org/wiki/Ansbach" title="Ansbach – Lombard" lang="lmo" hreflang="lmo" class="interlanguage-link-target">Lumbaart</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Ansbach" title="Ansbach – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Ansbach_(stad)" title="Ansbach (stad) – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%82%B9%E3%83%90%E3%83%83%E3%83%8F" title="アンスバッハ – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Ansbach" title="Ansbach – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Ansbach" title="Ansbach – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%D8%A7%DB%8C%D9%86%D8%B2%D8%A8%D8%A7%DA%86" title="اینزباچ – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li><li class="interlanguage-link interwiki-ps"><a href="https://ps.wikipedia.org/wiki/%D8%A2%D9%86%D8%B3%D8%A8%D8%A7%D8%AE" title="آنسباخ – Pashto" lang="ps" hreflang="ps" class="interlanguage-link-target">پښتو</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Ansbach" title="Ansbach – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Ansbach" title="Ansbach – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Ansbach" title="Ansbach – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D1%81%D0%B1%D0%B0%D1%85" title="Ансбах – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Ansbach" title="Ansbach – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Ansbach" title="Ansbach – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Ansbach" title="Ansbach – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%90%D0%BD%D1%81%D0%B1%D0%B0%D1%85" title="Ансбах – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Ansbach" title="Ansbach – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Ansbach" title="Ansbach – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Ansbach" title="Ansbach – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%90%D0%BD%D1%81%D0%B1%D0%B0%D1%85" title="Ансбах – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Ansbach" title="Ansbach – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%90%D0%BD%D1%81%D0%B1%D0%B0%D1%85" title="Ансбах – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Ansbach" title="Ansbach – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/Ansbach" title="Ansbach – Volapük" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Ansbach" title="Ansbach – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%AE%89%E6%96%AF%E5%B7%B4%E8%B5%AB" title="安斯巴赫 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q14859#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 16 September 2017, at 13:09.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Ansbach&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.744","walltime":"0.918","ppvisitednodes":{"value":14773,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":111719,"limit":2097152},"templateargumentsize":{"value":21218,"limit":2097152},"expansiondepth":{"value":26,"limit":40},"expensivefunctioncount":{"value":8,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  817.758      1 -total"," 50.62%  413.924      1 Template:Infobox_German_location"," 47.72%  390.261      1 Template:Infobox_settlement"," 42.29%  345.841      1 Template:Infobox"," 19.29%  157.714      7 Template:Population_Germany"," 14.76%  120.715      7 Template:Metadata_Population_DE-BY","  8.47%   69.280      1 Template:Reflist","  8.09%   66.189      5 Template:Citation_needed","  7.79%   63.676     10 Template:Cite_web","  7.08%   57.923      5 Template:Fix"]},"scribunto":{"limitreport-timeusage":{"value":"0.281","limit":"10.000"},"limitreport-memusage":{"value":9964109,"limit":52428800}},"cachereport":{"origin":"mw1273","timestamp":"20171017125807","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":79,"wgHostname":"mw1250"});});</script>
+	</body>
+</html>

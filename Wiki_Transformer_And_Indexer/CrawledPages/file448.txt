@@ -1,0 +1,1635 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>List of cities in Germany by population - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"List_of_cities_in_Germany_by_population","wgTitle":"List of cities in Germany by population","wgCurRevisionId":800149449,"wgRevisionId":800149449,"wgArticleId":21863332,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 German-language sources (de)","Lists of cities in Germany","Lists of cities by population"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"List_of_cities_in_Germany_by_population","wgRelevantArticleId":21863332,"wgRequestId":"WeEYaQpAEKoAADkhKBYAAADW","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q4242225","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.3"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Landkreise%2C_Kreise_und_kreisfreie_St%C3%A4dte_in_Deutschland_2011-09-04.svg/1200px-Landkreise%2C_Kreise_und_kreisfreie_St%C3%A4dte_in_Deutschland_2011-09-04.svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/List_of_cities_in_Germany_by_population"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=List_of_cities_in_Germany_by_population&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=List_of_cities_in_Germany_by_population&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/List_of_cities_in_Germany_by_population"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-List_of_cities_in_Germany_by_population rootpage-List_of_cities_in_Germany_by_population vector-experimental-print-styles vector-nav-directionality skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">List of cities in Germany by population</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="noviewer thumb tright">
+<div class="thumbinner" style="width:252px">
+<div style="position:relative;width:250px;border:1px solid lightgray"><a href="/wiki/File:Landkreise,_Kreise_und_kreisfreie_St%C3%A4dte_in_Deutschland_2011-09-04.svg" class="image" title="List of cities in Germany by population is located in Germany"><img alt="List of cities in Germany by population is located in Germany" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Landkreise%2C_Kreise_und_kreisfreie_St%C3%A4dte_in_Deutschland_2011-09-04.svg/250px-Landkreise%2C_Kreise_und_kreisfreie_St%C3%A4dte_in_Deutschland_2011-09-04.svg.png" width="250" height="331" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Landkreise%2C_Kreise_und_kreisfreie_St%C3%A4dte_in_Deutschland_2011-09-04.svg/375px-Landkreise%2C_Kreise_und_kreisfreie_St%C3%A4dte_in_Deutschland_2011-09-04.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Landkreise%2C_Kreise_und_kreisfreie_St%C3%A4dte_in_Deutschland_2011-09-04.svg/500px-Landkreise%2C_Kreise_und_kreisfreie_St%C3%A4dte_in_Deutschland_2011-09-04.svg.png 2x" data-file-width="9463" data-file-height="12526" /></a>
+<div style="position:absolute;top:32.82%;left:76.458%">
+<div style="position:absolute;left:-4px;top:-4px;line-height:0"><img alt="Berlin" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/8px-Red_pog.svg.png" title="Berlin" width="8" height="8" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/16px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div>
+<div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;right:5px;text-align:right"><span style="padding:1px;float:right"><a href="/wiki/Berlin" title="Berlin">Berlin</a></span></div>
+</div>
+<div style="position:absolute;top:19.427%;left:45.014%">
+<div style="position:absolute;left:-4px;top:-4px;line-height:0"><img alt="Hamburg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/8px-Red_pog.svg.png" title="Hamburg" width="8" height="8" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/16px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div>
+<div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;right:5px;text-align:right"><span style="padding:1px;float:right"><a href="/wiki/Hamburg" title="Hamburg">Hamburg</a></span></div>
+</div>
+<div style="position:absolute;top:88.186%;left:60.667%">
+<div style="position:absolute;left:-4px;top:-4px;line-height:0"><img alt="Munich" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/8px-Red_pog.svg.png" title="Munich" width="8" height="8" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/16px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div>
+<div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:5px;text-align:left"><span style="padding:1px;float:left"><a href="/wiki/Munich" title="Munich">Munich</a></span></div>
+</div>
+<div style="position:absolute;top:52.704%;left:14.528%">
+<div style="position:absolute;left:-4px;top:-4px;line-height:0"><img alt="Cologne" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/8px-Red_pog.svg.png" title="Cologne" width="8" height="8" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/16px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div>
+<div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:5px;text-align:left"><span style="padding:1px;float:left"><a href="/wiki/Cologne" title="Cologne">Cologne</a></span></div>
+</div>
+<div style="position:absolute;top:63.08%;left:31.833%">
+<div style="position:absolute;left:-4px;top:-4px;line-height:0"><img alt="Frankfurt" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/8px-Red_pog.svg.png" title="Frankfurt" width="8" height="8" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/16px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div>
+<div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:5px;text-align:left"><span style="padding:1px;float:left"><a href="/wiki/Frankfurt" title="Frankfurt">Frankfurt</a></span></div>
+</div>
+<div style="position:absolute;top:79.958%;left:36.833%">
+<div style="position:absolute;left:-4px;top:-4px;line-height:0"><img alt="Stuttgart" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/8px-Red_pog.svg.png" title="Stuttgart" width="8" height="8" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/16px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div>
+<div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:5px;text-align:left"><span style="padding:1px;float:left"><a href="/wiki/Stuttgart" title="Stuttgart">Stuttgart</a></span></div>
+</div>
+<div style="position:absolute;top:48.945%;left:12.833%">
+<div style="position:absolute;left:-4px;top:-4px;line-height:0"><img alt="Düsseldorf" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/8px-Red_pog.svg.png" title="Düsseldorf" width="8" height="8" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/16px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div>
+<div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:5px;text-align:left"><span style="padding:1px;float:left"><a href="/wiki/D%C3%BCsseldorf" title="Düsseldorf">Düsseldorf</a></span></div>
+</div>
+<div style="position:absolute;top:45.359%;left:19.667%">
+<div style="position:absolute;left:-4px;top:-4px;line-height:0"><img alt="Dortmund" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/8px-Red_pog.svg.png" title="Dortmund" width="8" height="8" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/16px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div>
+<div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:5px;text-align:left"><span style="padding:1px;float:left"><a href="/wiki/Dortmund" title="Dortmund">Dortmund</a></span></div>
+</div>
+<div style="position:absolute;top:46.192%;left:15.131%">
+<div style="position:absolute;left:-4px;top:-4px;line-height:0"><img alt="Essen" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/8px-Red_pog.svg.png" title="Essen" width="8" height="8" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/16px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div>
+<div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;right:5px;text-align:right"><span style="padding:1px;float:right"><a href="/wiki/Essen" title="Essen">Essen</a></span></div>
+</div>
+<div style="position:absolute;top:47.679%;left:68.833%">
+<div style="position:absolute;left:-4px;top:-4px;line-height:0"><img alt="Leipzig" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/8px-Red_pog.svg.png" title="Leipzig" width="8" height="8" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/16px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div>
+<div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:5px;text-align:left"><span style="padding:1px;float:left"><a href="/wiki/Leipzig" title="Leipzig">Leipzig</a></span></div>
+</div>
+</div>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Landkreise,_Kreise_und_kreisfreie_St%C3%A4dte_in_Deutschland.svg" title="File:Landkreise, Kreise und kreisfreie Städte in Deutschland.svg"></a></div>
+Location of the ten largest cities in <a href="/wiki/Germany" title="Germany">Germany</a>, <a href="/wiki/Urban_districts_of_Germany" class="mw-redirect" title="Urban districts of Germany">urban districts</a> highlighted</div>
+</div>
+</div>
+<p>The following is a list of the most populated cities in Germany. A German <i>Großstadt</i> is defined as a city with more than 100,000 inhabitants.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> As of December 31, 2015, 79 cities fulfil this criterion. Four of Germany's <i>Großstädte</i> have more than one million inhabitants.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#List"><span class="tocnumber">1</span> <span class="toctext">List</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Gallery"><span class="tocnumber">2</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="List">List</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_cities_in_Germany_by_population&amp;action=edit&amp;section=1" title="Edit section: List">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The following table lists the 79 cities in Germany with a population of at least 100,000 on December 31, 2015, as estimated by the <a href="/wiki/Federal_Statistical_Office_of_Germany" title="Federal Statistical Office of Germany">Federal Statistical Office of Germany</a>. A city is displayed in <b>bold</b> if it is a state or federal capital, and in <i>italics</i> if it is the most populous city in the state. The table below contains the following information:</p>
+<ol>
+<li>The city rank by population as of December 31, 2015, as estimated by the Federal Statistical Office of Germany<sup id="cite_ref-destatis1_2-0" class="reference"><a href="#cite_note-destatis1-2">[2]</a></sup></li>
+<li>The city name<sup id="cite_ref-destatis1_2-1" class="reference"><a href="#cite_note-destatis1-2">[2]</a></sup></li>
+<li>The name of the state in which the city lies<sup id="cite_ref-destatis2_3-0" class="reference"><a href="#cite_note-destatis2-3">[3]</a></sup></li>
+<li>The city population as of December 31, 2015, as estimated by the Federal Statistical Office of Germany<sup id="cite_ref-destatis1_2-2" class="reference"><a href="#cite_note-destatis1-2">[2]</a></sup></li>
+<li>The city population as of May 9, 2011, as enumerated by the <a href="/wiki/2011_European_Union_census" title="2011 European Union census">2011 European Union census</a><sup id="cite_ref-destatis2_3-1" class="reference"><a href="#cite_note-destatis2-3">[3]</a></sup></li>
+<li>The city percent population change from May 9, 2011 to December 31, 2015</li>
+<li>The city land area as of December 31, 2015<sup id="cite_ref-destatis1_2-3" class="reference"><a href="#cite_note-destatis1-2">[2]</a></sup></li>
+<li>The city population density as of December 31, 2015 (residents per unit of land area)<sup id="cite_ref-destatis1_2-4" class="reference"><a href="#cite_note-destatis1-2">[2]</a></sup></li>
+<li>The city latitude and longitude coordinates</li>
+</ol>
+<table class="wikitable sortable" style="font-size: 95%; text-align:center">
+<tr>
+<th>2015 rank</th>
+<th>City</th>
+<th><a href="/wiki/States_of_Germany" title="States of Germany">State</a></th>
+<th>2015 Estimate</th>
+<th>2011 Census</th>
+<th>Change</th>
+<th data-sort-type="number">2015 land area</th>
+<th data-sort-type="number">2015 population density</th>
+<th>Location</th>
+</tr>
+<tr>
+<td>1</td>
+<td align="left"><i><b><a href="/wiki/Berlin" title="Berlin">Berlin</a></b></i></td>
+<td align="left"><a href="/wiki/Berlin" title="Berlin">Berlin</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">3,520,031</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">3,292,365</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">7000691496841935810♠</span><span style="color:green">+6.91%</span></td>
+<td>891.68&#160;km<sup>2</sup><br />
+344.28&#160;sq&#160;mi</td>
+<td>3,948/km<sup>2</sup><br />
+10,230/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=52_30_26_N_13_8_45_E_&amp;title=1+Berlin"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">52°30′26″N</span> <span class="longitude">13°8′45″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">52.50722°N 13.14583°E</span><span style="display:none">﻿ / <span class="geo">52.50722; 13.14583</span></span><span style="display:none">﻿ (<span class="fn org">1 Berlin</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>2</td>
+<td align="left"><i><b><a href="/wiki/Hamburg" title="Hamburg">Hamburg</a></b></i></td>
+<td align="left"><a href="/wiki/Hamburg" title="Hamburg">Hamburg</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">1,787,408</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">1,706,696</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">7000472913746794980♠</span><span style="color:green">+4.73%</span></td>
+<td>755.3&#160;km<sup>2</sup><br />
+291.6&#160;sq&#160;mi</td>
+<td>2,366/km<sup>2</sup><br />
+6,130/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=53_32_55_N_10_00_05_E_&amp;title=2+Hamburg"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">53°32′55″N</span> <span class="longitude">10°00′05″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">53.54861°N 10.00139°E</span><span style="display:none">﻿ / <span class="geo">53.54861; 10.00139</span></span><span style="display:none">﻿ (<span class="fn org">2 Hamburg</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>3</td>
+<td align="left"><i><b><a href="/wiki/M%C3%BCnchen" class="mw-redirect" title="München">München</a></b></i> (Munich)</td>
+<td align="left"><a href="/wiki/Bavaria" title="Bavaria">Bavaria</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">1,450,381</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">1,348,335</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">7000756829719617160♠</span><span style="color:green">+7.57%</span></td>
+<td>310.7&#160;km<sup>2</sup><br />
+120.0&#160;sq&#160;mi</td>
+<td>4,668/km<sup>2</sup><br />
+12,090/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=48_08_N_11_34_E_&amp;title=3+Munich"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">48°08′N</span> <span class="longitude">11°34′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">48.133°N 11.567°E</span><span style="display:none">﻿ / <span class="geo">48.133; 11.567</span></span><span style="display:none">﻿ (<span class="fn org">3 Munich</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>4</td>
+<td align="left"><i><a href="/wiki/K%C3%B6ln" class="mw-redirect" title="Köln">Köln</a></i> (Cologne)</td>
+<td align="left"><a href="/wiki/North_Rhine-Westphalia" title="North Rhine-Westphalia">North Rhine-Westphalia</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">1,060,582</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">1,005,775</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">7000544923069274940♠</span><span style="color:green">+5.45%</span></td>
+<td>405.02&#160;km<sup>2</sup><br />
+156.38&#160;sq&#160;mi</td>
+<td>2,619/km<sup>2</sup><br />
+6,780/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=50_56_11_N_6_57_10_E_&amp;title=4+Cologne"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">50°56′11″N</span> <span class="longitude">6°57′10″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">50.93639°N 6.95278°E</span><span style="display:none">﻿ / <span class="geo">50.93639; 6.95278</span></span><span style="display:none">﻿ (<span class="fn org">4 Cologne</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>5</td>
+<td align="left"><i><a href="/wiki/Frankfurt_am_Main" class="mw-redirect" title="Frankfurt am Main">Frankfurt am Main</a></i></td>
+<td align="left"><a href="/wiki/Hesse" title="Hesse">Hesse</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">732,688</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">667,925</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">7000969614851966910♠</span><span style="color:green">+9.70%</span></td>
+<td>248.31&#160;km<sup>2</sup><br />
+95.87&#160;sq&#160;mi</td>
+<td>2,951/km<sup>2</sup><br />
+7,640/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=50_7_N_8_41_E_&amp;title=5+Frankfurt"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">50°7′N</span> <span class="longitude">8°41′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">50.117°N 8.683°E</span><span style="display:none">﻿ / <span class="geo">50.117; 8.683</span></span><span style="display:none">﻿ (<span class="fn org">5 Frankfurt</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>6</td>
+<td align="left"><i><b><a href="/wiki/Stuttgart" title="Stuttgart">Stuttgart</a></b></i></td>
+<td align="left"><a href="/wiki/Baden-W%C3%BCrttemberg" title="Baden-Württemberg">Baden-Württemberg</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">623,738</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">585,890</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">7000645991568383140♠</span><span style="color:green">+6.46%</span></td>
+<td>207.35&#160;km<sup>2</sup><br />
+80.06&#160;sq&#160;mi</td>
+<td>3,008/km<sup>2</sup><br />
+7,790/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=48_47_N_9_11_E_&amp;title=6+Stuttgart"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">48°47′N</span> <span class="longitude">9°11′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">48.783°N 9.183°E</span><span style="display:none">﻿ / <span class="geo">48.783; 9.183</span></span><span style="display:none">﻿ (<span class="fn org">6 Stuttgart</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>7</td>
+<td align="left"><b><a href="/wiki/D%C3%BCsseldorf" title="Düsseldorf">Düsseldorf</a></b></td>
+<td align="left"><a href="/wiki/North_Rhine-Westphalia" title="North Rhine-Westphalia">North Rhine-Westphalia</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">612,178</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">586,291</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">7000441538416929480♠</span><span style="color:green">+4.42%</span></td>
+<td>217.41&#160;km<sup>2</sup><br />
+83.94&#160;sq&#160;mi</td>
+<td>2,816/km<sup>2</sup><br />
+7,290/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=51_14_N_6_47_E_&amp;title=7+D%C3%BCsseldorf"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">51°14′N</span> <span class="longitude">6°47′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">51.233°N 6.783°E</span><span style="display:none">﻿ / <span class="geo">51.233; 6.783</span></span><span style="display:none">﻿ (<span class="fn org">7 Düsseldorf</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>8</td>
+<td align="left"><a href="/wiki/Dortmund" title="Dortmund">Dortmund</a></td>
+<td align="left"><a href="/wiki/North_Rhine-Westphalia" title="North Rhine-Westphalia">North Rhine-Westphalia</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">586,181</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">571,143</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">7000263296582467090♠</span><span style="color:green">+2.63%</span></td>
+<td>280.71&#160;km<sup>2</sup><br />
+108.38&#160;sq&#160;mi</td>
+<td>2,088/km<sup>2</sup><br />
+5,410/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=51_31_N_7_28_E_&amp;title=8+Dortmund"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">51°31′N</span> <span class="longitude">7°28′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">51.517°N 7.467°E</span><span style="display:none">﻿ / <span class="geo">51.517; 7.467</span></span><span style="display:none">﻿ (<span class="fn org">8 Dortmund</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>9</td>
+<td align="left"><a href="/wiki/Essen" title="Essen">Essen</a></td>
+<td align="left"><a href="/wiki/North_Rhine-Westphalia" title="North Rhine-Westphalia">North Rhine-Westphalia</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">582,624</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">566,201</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">7000290056004846340♠</span><span style="color:green">+2.90%</span></td>
+<td>210.34&#160;km<sup>2</sup><br />
+81.21&#160;sq&#160;mi</td>
+<td>2,770/km<sup>2</sup><br />
+7,200/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=51_27_3_N_7_0_47_E_&amp;title=9+Essen"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">51°27′3″N</span> <span class="longitude">7°0′47″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">51.45083°N 7.01306°E</span><span style="display:none">﻿ / <span class="geo">51.45083; 7.01306</span></span><span style="display:none">﻿ (<span class="fn org">9 Essen</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>10</td>
+<td align="left"><i><a href="/wiki/Leipzig" title="Leipzig">Leipzig</a></i></td>
+<td align="left"><a href="/wiki/Saxony" title="Saxony">Saxony</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">560,472</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">502,979</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">7001114304970982880♠</span><span style="color:green">+11.43%</span></td>
+<td>297.8&#160;km<sup>2</sup><br />
+115.0&#160;sq&#160;mi</td>
+<td>1,882/km<sup>2</sup><br />
+4,870/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=51_20_N_12_23_E_&amp;title=10+Leipzig"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">51°20′N</span> <span class="longitude">12°23′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">51.333°N 12.383°E</span><span style="display:none">﻿ / <span class="geo">51.333; 12.383</span></span><span style="display:none">﻿ (<span class="fn org">10 Leipzig</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>11</td>
+<td align="left"><i><b><a href="/wiki/Bremen" title="Bremen">Bremen</a></b></i></td>
+<td align="left"><a href="/wiki/Bremen_(state)" title="Bremen (state)">Bremen</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">557,464</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">542,707</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">7000271914679560060♠</span><span style="color:green">+2.72%</span></td>
+<td>326.18&#160;km<sup>2</sup><br />
+125.94&#160;sq&#160;mi</td>
+<td>1,709/km<sup>2</sup><br />
+4,430/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=53_5_N_8_48_E_&amp;title=11+Bremen"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">53°5′N</span> <span class="longitude">8°48′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">53.083°N 8.800°E</span><span style="display:none">﻿ / <span class="geo">53.083; 8.800</span></span><span style="display:none">﻿ (<span class="fn org">11 Bremen</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>12</td>
+<td align="left"><b><a href="/wiki/Dresden" title="Dresden">Dresden</a></b></td>
+<td align="left"><a href="/wiki/Saxony" title="Saxony">Saxony</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">543,825</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">512,354</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">7000614243277109190♠</span><span style="color:green">+6.14%</span></td>
+<td>328.48&#160;km<sup>2</sup><br />
+126.83&#160;sq&#160;mi</td>
+<td>1,656/km<sup>2</sup><br />
+4,290/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=51_2_N_13_44_E_&amp;title=12+Dresden"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">51°2′N</span> <span class="longitude">13°44′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">51.033°N 13.733°E</span><span style="display:none">﻿ / <span class="geo">51.033; 13.733</span></span><span style="display:none">﻿ (<span class="fn org">12 Dresden</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>13</td>
+<td align="left"><i><b><a href="/wiki/Hannover" class="mw-redirect" title="Hannover">Hannover</a></b></i></td>
+<td align="left"><a href="/wiki/Lower_Saxony" title="Lower Saxony">Lower Saxony</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">532,163</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">506,416</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">7000508416005813399♠</span><span style="color:green">+5.08%</span></td>
+<td>204.14&#160;km<sup>2</sup><br />
+78.82&#160;sq&#160;mi</td>
+<td>2,607/km<sup>2</sup><br />
+6,750/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=52_22_N_9_43_E_&amp;title=13+Hanover"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">52°22′N</span> <span class="longitude">9°43′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">52.367°N 9.717°E</span><span style="display:none">﻿ / <span class="geo">52.367; 9.717</span></span><span style="display:none">﻿ (<span class="fn org">13 Hanover</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>14</td>
+<td align="left"><a href="/wiki/N%C3%BCrnberg" class="mw-redirect" title="Nürnberg">Nürnberg</a></td>
+<td align="left"><a href="/wiki/Bavaria" title="Bavaria">Bavaria</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">509,975</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">486,314</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">7000486537504575230♠</span><span style="color:green">+4.87%</span></td>
+<td>186.38&#160;km<sup>2</sup><br />
+71.96&#160;sq&#160;mi</td>
+<td>2,736/km<sup>2</sup><br />
+7,090/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=49_27_N_11_5_E_&amp;title=14+Nuremberg"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">49°27′N</span> <span class="longitude">11°5′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">49.450°N 11.083°E</span><span style="display:none">﻿ / <span class="geo">49.450; 11.083</span></span><span style="display:none">﻿ (<span class="fn org">14 Nuremberg</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>15</td>
+<td align="left"><a href="/wiki/Duisburg" title="Duisburg">Duisburg</a></td>
+<td align="left"><a href="/wiki/North_Rhine-Westphalia" title="North Rhine-Westphalia">North Rhine-Westphalia</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">491,231</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">488,468</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">6999565646060745030♠</span><span style="color:green">+0.57%</span></td>
+<td>232.8&#160;km<sup>2</sup><br />
+89.9&#160;sq&#160;mi</td>
+<td>2,110/km<sup>2</sup><br />
+5,500/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=51_26_6.53_N_6_45_45.69_E_&amp;title=15+Duisburg"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">51°26′6.53″N</span> <span class="longitude">6°45′45.69″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">51.4351472°N 6.7626917°E</span><span style="display:none">﻿ / <span class="geo">51.4351472; 6.7626917</span></span><span style="display:none">﻿ (<span class="fn org">15 Duisburg</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>16</td>
+<td align="left"><a href="/wiki/Bochum" title="Bochum">Bochum</a></td>
+<td align="left"><a href="/wiki/North_Rhine-Westphalia" title="North Rhine-Westphalia">North Rhine-Westphalia</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">364,742</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">362,286</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">6999677917446437350♠</span><span style="color:green">+0.68%</span></td>
+<td>145.66&#160;km<sup>2</sup><br />
+56.24&#160;sq&#160;mi</td>
+<td>2,504/km<sup>2</sup><br />
+6,490/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=51_28_55_N_07_12_57_E_&amp;title=16+Bochum"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">51°28′55″N</span> <span class="longitude">07°12′57″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">51.48194°N 7.21583°E</span><span style="display:none">﻿ / <span class="geo">51.48194; 7.21583</span></span><span style="display:none">﻿ (<span class="fn org">16 Bochum</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>17</td>
+<td align="left"><a href="/wiki/Wuppertal" title="Wuppertal">Wuppertal</a></td>
+<td align="left"><a href="/wiki/North_Rhine-Westphalia" title="North Rhine-Westphalia">North Rhine-Westphalia</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">350,046</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">342,661</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">7000215519128234610♠</span><span style="color:green">+2.16%</span></td>
+<td>168.39&#160;km<sup>2</sup><br />
+65.02&#160;sq&#160;mi</td>
+<td>2,079/km<sup>2</sup><br />
+5,380/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=51_16_0_N_07_11_0_E_&amp;title=17+Wuppertal"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">51°16′0″N</span> <span class="longitude">07°11′0″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">51.26667°N 7.18333°E</span><span style="display:none">﻿ / <span class="geo">51.26667; 7.18333</span></span><span style="display:none">﻿ (<span class="fn org">17 Wuppertal</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>18</td>
+<td align="left"><a href="/wiki/Bielefeld" title="Bielefeld">Bielefeld</a></td>
+<td align="left"><a href="/wiki/North_Rhine-Westphalia" title="North Rhine-Westphalia">North Rhine-Westphalia</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">333,090</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">326,870</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">7000190289717624740♠</span><span style="color:green">+1.90%</span></td>
+<td>258.82&#160;km<sup>2</sup><br />
+99.93&#160;sq&#160;mi</td>
+<td>1,287/km<sup>2</sup><br />
+3,330/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=52_1_N_8_32_E_&amp;title=18+Bielefeld"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">52°1′N</span> <span class="longitude">8°32′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">52.017°N 8.533°E</span><span style="display:none">﻿ / <span class="geo">52.017; 8.533</span></span><span style="display:none">﻿ (<span class="fn org">18 Bielefeld</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>19</td>
+<td align="left"><a href="/wiki/Bonn" title="Bonn">Bonn</a></td>
+<td align="left"><a href="/wiki/North_Rhine-Westphalia" title="North Rhine-Westphalia">North Rhine-Westphalia</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">318,809</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">305,765</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">7000426602129086060♠</span><span style="color:green">+4.27%</span></td>
+<td>141.06&#160;km<sup>2</sup><br />
+54.46&#160;sq&#160;mi</td>
+<td>2,260/km<sup>2</sup><br />
+5,900/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=50_44_02.37_N_7_5_59.33_E_&amp;title=19+Bonn"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">50°44′02.37″N</span> <span class="longitude">7°5′59.33″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">50.7339917°N 7.0998139°E</span><span style="display:none">﻿ / <span class="geo">50.7339917; 7.0998139</span></span><span style="display:none">﻿ (<span class="fn org">19 Bonn</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>20</td>
+<td align="left"><a href="/wiki/M%C3%BCnster" title="Münster">Münster</a></td>
+<td align="left"><a href="/wiki/North_Rhine-Westphalia" title="North Rhine-Westphalia">North Rhine-Westphalia</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">310,039</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">289,576</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">7000706653866342510♠</span><span style="color:green">+7.07%</span></td>
+<td>303.28&#160;km<sup>2</sup><br />
+117.10&#160;sq&#160;mi</td>
+<td>1,022/km<sup>2</sup><br />
+2,650/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=51_58_N_7_38_E_&amp;title=20+M%C3%BCnster"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">51°58′N</span> <span class="longitude">7°38′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">51.967°N 7.633°E</span><span style="display:none">﻿ / <span class="geo">51.967; 7.633</span></span><span style="display:none">﻿ (<span class="fn org">20 Münster</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>21</td>
+<td align="left"><a href="/wiki/Karlsruhe" title="Karlsruhe">Karlsruhe</a></td>
+<td align="left"><a href="/wiki/Baden-W%C3%BCrttemberg" title="Baden-Württemberg">Baden-Württemberg</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">307,755</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">289,173</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">7000642591113278210♠</span><span style="color:green">+6.43%</span></td>
+<td>173.46&#160;km<sup>2</sup><br />
+66.97&#160;sq&#160;mi</td>
+<td>1,774/km<sup>2</sup><br />
+4,590/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=49_00_33_N_8_24_14_E_&amp;title=21+Karlsruhe"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">49°00′33″N</span> <span class="longitude">8°24′14″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">49.00917°N 8.40389°E</span><span style="display:none">﻿ / <span class="geo">49.00917; 8.40389</span></span><span style="display:none">﻿ (<span class="fn org">21 Karlsruhe</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>22</td>
+<td align="left"><a href="/wiki/Mannheim" title="Mannheim">Mannheim</a></td>
+<td align="left"><a href="/wiki/Baden-W%C3%BCrttemberg" title="Baden-Württemberg">Baden-Württemberg</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">305,780</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">290,117</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">7000539885632348330♠</span><span style="color:green">+5.40%</span></td>
+<td>144.96&#160;km<sup>2</sup><br />
+55.97&#160;sq&#160;mi</td>
+<td>2,109/km<sup>2</sup><br />
+5,460/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=49_29_20_N_8_28_9_E_&amp;title=22+Mannheim"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">49°29′20″N</span> <span class="longitude">8°28′9″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">49.48889°N 8.46917°E</span><span style="display:none">﻿ / <span class="geo">49.48889; 8.46917</span></span><span style="display:none">﻿ (<span class="fn org">22 Mannheim</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>23</td>
+<td align="left"><a href="/wiki/Augsburg" title="Augsburg">Augsburg</a></td>
+<td align="left"><a href="/wiki/Bavaria" title="Bavaria">Bavaria</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">286,374</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">267,767</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">7000694895188727510♠</span><span style="color:green">+6.95%</span></td>
+<td>146.86&#160;km<sup>2</sup><br />
+56.70&#160;sq&#160;mi</td>
+<td>1,950/km<sup>2</sup><br />
+5,100/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=48_22_N_10_54_E_&amp;title=23+Augsburg"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">48°22′N</span> <span class="longitude">10°54′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">48.367°N 10.900°E</span><span style="display:none">﻿ / <span class="geo">48.367; 10.900</span></span><span style="display:none">﻿ (<span class="fn org">23 Augsburg</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>24</td>
+<td align="left"><b><a href="/wiki/Wiesbaden" title="Wiesbaden">Wiesbaden</a></b></td>
+<td align="left"><a href="/wiki/Hesse" title="Hesse">Hesse</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">276,218</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">269,121</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">7000263710375630290♠</span><span style="color:green">+2.64%</span></td>
+<td>203.93&#160;km<sup>2</sup><br />
+78.74&#160;sq&#160;mi</td>
+<td>1,354/km<sup>2</sup><br />
+3,510/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=50_05_N_8_14_E_&amp;title=24+Wiesbaden"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">50°05′N</span> <span class="longitude">8°14′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">50.083°N 8.233°E</span><span style="display:none">﻿ / <span class="geo">50.083; 8.233</span></span><span style="display:none">﻿ (<span class="fn org">24 Wiesbaden</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>25</td>
+<td align="left"><a href="/wiki/Gelsenkirchen" title="Gelsenkirchen">Gelsenkirchen</a></td>
+<td align="left"><a href="/wiki/North_Rhine-Westphalia" title="North Rhine-Westphalia">North Rhine-Westphalia</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">260,368</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">258,766</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">6999619092152755770♠</span><span style="color:green">+0.62%</span></td>
+<td>104.94&#160;km<sup>2</sup><br />
+40.52&#160;sq&#160;mi</td>
+<td>2,481/km<sup>2</sup><br />
+6,430/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=51_31_N_07_06_E_&amp;title=25+Gelsenkirchen"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">51°31′N</span> <span class="longitude">07°06′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">51.517°N 7.100°E</span><span style="display:none">﻿ / <span class="geo">51.517; 7.100</span></span><span style="display:none">﻿ (<span class="fn org">25 Gelsenkirchen</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>26</td>
+<td align="left"><a href="/wiki/M%C3%B6nchengladbach" title="Mönchengladbach">Mönchengladbach</a></td>
+<td align="left"><a href="/wiki/North_Rhine-Westphalia" title="North Rhine-Westphalia">North Rhine-Westphalia</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">259,996</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">255,188</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">7000188410113328210♠</span><span style="color:green">+1.88%</span></td>
+<td>170.47&#160;km<sup>2</sup><br />
+65.82&#160;sq&#160;mi</td>
+<td>1,525/km<sup>2</sup><br />
+3,950/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=51_12_0_N_06_26_0_E_&amp;title=26+M%C3%B6nchengladbach"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">51°12′0″N</span> <span class="longitude">06°26′0″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">51.20000°N 6.43333°E</span><span style="display:none">﻿ / <span class="geo">51.20000; 6.43333</span></span><span style="display:none">﻿ (<span class="fn org">26 Mönchengladbach</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>27</td>
+<td align="left"><a href="/wiki/Braunschweig" title="Braunschweig">Braunschweig</a></td>
+<td align="left"><a href="/wiki/Lower_Saxony" title="Lower Saxony">Lower Saxony</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">251,364</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">242,537</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">7000363944470328240♠</span><span style="color:green">+3.64%</span></td>
+<td>192.18&#160;km<sup>2</sup><br />
+74.20&#160;sq&#160;mi</td>
+<td>1,308/km<sup>2</sup><br />
+3,390/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=52_16_N_10_31_E_&amp;title=27+Braunschweig"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">52°16′N</span> <span class="longitude">10°31′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">52.267°N 10.517°E</span><span style="display:none">﻿ / <span class="geo">52.267; 10.517</span></span><span style="display:none">﻿ (<span class="fn org">27 Braunschweig</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>28</td>
+<td align="left"><a href="/wiki/Chemnitz" title="Chemnitz">Chemnitz</a></td>
+<td align="left"><a href="/wiki/Saxony" title="Saxony">Saxony</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">248,645</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">240,253</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">7000349298447886190♠</span><span style="color:green">+3.49%</span></td>
+<td>221.05&#160;km<sup>2</sup><br />
+85.35&#160;sq&#160;mi</td>
+<td>1,125/km<sup>2</sup><br />
+2,910/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=50_50_N_12_55_E_&amp;title=28+Chemnitz"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">50°50′N</span> <span class="longitude">12°55′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">50.833°N 12.917°E</span><span style="display:none">﻿ / <span class="geo">50.833; 12.917</span></span><span style="display:none">﻿ (<span class="fn org">28 Chemnitz</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>29</td>
+<td align="left"><i><b><a href="/wiki/Kiel" title="Kiel">Kiel</a></b></i></td>
+<td align="left"><a href="/wiki/Schleswig-Holstein" title="Schleswig-Holstein">Schleswig-Holstein</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">246,306</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">235,782</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">7000446344504669570♠</span><span style="color:green">+4.46%</span></td>
+<td>118.65&#160;km<sup>2</sup><br />
+45.81&#160;sq&#160;mi</td>
+<td>2,076/km<sup>2</sup><br />
+5,380/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=54_20_N_10_8_E_&amp;title=29+Kiel"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">54°20′N</span> <span class="longitude">10°8′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">54.333°N 10.133°E</span><span style="display:none">﻿ / <span class="geo">54.333; 10.133</span></span><span style="display:none">﻿ (<span class="fn org">29 Kiel</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>30</td>
+<td align="left"><a href="/wiki/Aachen" title="Aachen">Aachen</a></td>
+<td align="left"><a href="/wiki/North_Rhine-Westphalia" title="North Rhine-Westphalia">North Rhine-Westphalia</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">245,885</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">236,420</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">7000400346840368830♠</span><span style="color:green">+4.00%</span></td>
+<td>160.85&#160;km<sup>2</sup><br />
+62.10&#160;sq&#160;mi</td>
+<td>1,529/km<sup>2</sup><br />
+3,960/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=50_47_N_6_5_E_&amp;title=30+Aachen"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">50°47′N</span> <span class="longitude">6°5′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">50.783°N 6.083°E</span><span style="display:none">﻿ / <span class="geo">50.783; 6.083</span></span><span style="display:none">﻿ (<span class="fn org">30 Aachen</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>31</td>
+<td align="left"><i><a href="/wiki/Halle_(Saale)" title="Halle (Saale)">Halle (Saale)</a></i></td>
+<td align="left"><a href="/wiki/Saxony-Anhalt" title="Saxony-Anhalt">Saxony-Anhalt</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">236,991</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">229,153</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">7000342042216335810♠</span><span style="color:green">+3.42%</span></td>
+<td>135.02&#160;km<sup>2</sup><br />
+52.13&#160;sq&#160;mi</td>
+<td>1,755/km<sup>2</sup><br />
+4,550/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=51_29_N_11_58_E_&amp;title=31+Halle+%28Saale%29"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">51°29′N</span> <span class="longitude">11°58′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">51.483°N 11.967°E</span><span style="display:none">﻿ / <span class="geo">51.483; 11.967</span></span><span style="display:none">﻿ (<span class="fn org">31 Halle (Saale)</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>32</td>
+<td align="left"><b><a href="/wiki/Magdeburg" title="Magdeburg">Magdeburg</a></b></td>
+<td align="left"><a href="/wiki/Saxony-Anhalt" title="Saxony-Anhalt">Saxony-Anhalt</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">235,723</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">228,144</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">7000332202468616310♠</span><span style="color:green">+3.32%</span></td>
+<td>201&#160;km<sup>2</sup><br />
+78&#160;sq&#160;mi</td>
+<td>1,173/km<sup>2</sup><br />
+3,040/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=52_8_0_N_11_37_0_E_&amp;title=32+Magdeburg"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">52°8′0″N</span> <span class="longitude">11°37′0″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">52.13333°N 11.61667°E</span><span style="display:none">﻿ / <span class="geo">52.13333; 11.61667</span></span><span style="display:none">﻿ (<span class="fn org">32 Magdeburg</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>33</td>
+<td align="left"><a href="/wiki/Freiburg_im_Breisgau" title="Freiburg im Breisgau">Freiburg im Breisgau</a></td>
+<td align="left"><a href="/wiki/Baden-W%C3%BCrttemberg" title="Baden-Württemberg">Baden-Württemberg</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">226,393</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">209,628</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">7000799750033392490♠</span><span style="color:green">+8.00%</span></td>
+<td>153.06&#160;km<sup>2</sup><br />
+59.10&#160;sq&#160;mi</td>
+<td>1,479/km<sup>2</sup><br />
+3,830/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=47_59_N_7_51_E_&amp;title=33+Freiburg+im+Breisgau"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">47°59′N</span> <span class="longitude">7°51′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">47.983°N 7.850°E</span><span style="display:none">﻿ / <span class="geo">47.983; 7.850</span></span><span style="display:none">﻿ (<span class="fn org">33 Freiburg im Breisgau</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>34</td>
+<td align="left"><a href="/wiki/Krefeld" title="Krefeld">Krefeld</a></td>
+<td align="left"><a href="/wiki/North_Rhine-Westphalia" title="North Rhine-Westphalia">North Rhine-Westphalia</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">225,144</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">222,247</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">7000130350465923050♠</span><span style="color:green">+1.30%</span></td>
+<td>137.77&#160;km<sup>2</sup><br />
+53.19&#160;sq&#160;mi</td>
+<td>1,634/km<sup>2</sup><br />
+4,230/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=51_20_0_N_06_34_0_E_&amp;title=34+Krefeld"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">51°20′0″N</span> <span class="longitude">06°34′0″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">51.33333°N 6.56667°E</span><span style="display:none">﻿ / <span class="geo">51.33333; 6.56667</span></span><span style="display:none">﻿ (<span class="fn org">34 Krefeld</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>35</td>
+<td align="left"><a href="/wiki/L%C3%BCbeck" title="Lübeck">Lübeck</a></td>
+<td align="left"><a href="/wiki/Schleswig-Holstein" title="Schleswig-Holstein">Schleswig-Holstein</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">216,253</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">210,305</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">7000282827322222490♠</span><span style="color:green">+2.83%</span></td>
+<td>214.21&#160;km<sup>2</sup><br />
+82.71&#160;sq&#160;mi</td>
+<td>1,010/km<sup>2</sup><br />
+2,600/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=53_52_11_N_10_41_11_E_&amp;title=35+L%C3%BCbeck"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">53°52′11″N</span> <span class="longitude">10°41′11″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">53.86972°N 10.68639°E</span><span style="display:none">﻿ / <span class="geo">53.86972; 10.68639</span></span><span style="display:none">﻿ (<span class="fn org">35 Lübeck</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>36</td>
+<td align="left"><a href="/wiki/Oberhausen" title="Oberhausen">Oberhausen</a></td>
+<td align="left"><a href="/wiki/North_Rhine-Westphalia" title="North Rhine-Westphalia">North Rhine-Westphalia</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">210,934</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">210,216</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">6999341553449784990♠</span><span style="color:green">+0.34%</span></td>
+<td>77.09&#160;km<sup>2</sup><br />
+29.76&#160;sq&#160;mi</td>
+<td>2,736/km<sup>2</sup><br />
+7,090/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=51_29_48_N_06_52_14_E_&amp;title=36+Oberhausen"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">51°29′48″N</span> <span class="longitude">06°52′14″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">51.49667°N 6.87056°E</span><span style="display:none">﻿ / <span class="geo">51.49667; 6.87056</span></span><span style="display:none">﻿ (<span class="fn org">36 Oberhausen</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>37</td>
+<td align="left"><i><b><a href="/wiki/Erfurt" title="Erfurt">Erfurt</a></b></i></td>
+<td align="left"><a href="/wiki/Thuringia" title="Thuringia">Thuringia</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">210,118</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">200,868</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">7000460501423820620♠</span><span style="color:green">+4.61%</span></td>
+<td>269.91&#160;km<sup>2</sup><br />
+104.21&#160;sq&#160;mi</td>
+<td>778/km<sup>2</sup><br />
+2,020/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=50_59_0_N_11_2_0_E_&amp;title=37+Erfurt"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">50°59′0″N</span> <span class="longitude">11°2′0″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">50.98333°N 11.03333°E</span><span style="display:none">﻿ / <span class="geo">50.98333; 11.03333</span></span><span style="display:none">﻿ (<span class="fn org">37 Erfurt</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>38</td>
+<td align="left"><i><b><a href="/wiki/Mainz" title="Mainz">Mainz</a></b></i></td>
+<td align="left"><a href="/wiki/Rhineland-Palatinate" title="Rhineland-Palatinate">Rhineland-Palatinate</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">209,779</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">200,344</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">7000470939983228850♠</span><span style="color:green">+4.71%</span></td>
+<td>97.74&#160;km<sup>2</sup><br />
+37.74&#160;sq&#160;mi</td>
+<td>2,146/km<sup>2</sup><br />
+5,560/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=50_0_N_8_16_E_&amp;title=38+Mainz"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">50°0′N</span> <span class="longitude">8°16′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">50.000°N 8.267°E</span><span style="display:none">﻿ / <span class="geo">50.000; 8.267</span></span><span style="display:none">﻿ (<span class="fn org">38 Mainz</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>39</td>
+<td align="left"><i><a href="/wiki/Rostock" title="Rostock">Rostock</a></i></td>
+<td align="left"><a href="/wiki/Mecklenburg-Vorpommern" title="Mecklenburg-Vorpommern">Mecklenburg-Vorpommern</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">206,011</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">200,265</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">7000286919831223630♠</span><span style="color:green">+2.87%</span></td>
+<td>181.26&#160;km<sup>2</sup><br />
+69.98&#160;sq&#160;mi</td>
+<td>1,137/km<sup>2</sup><br />
+2,940/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=54_5_0_N_12_8_0_E_&amp;title=39+Rostock"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">54°5′0″N</span> <span class="longitude">12°8′0″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">54.08333°N 12.13333°E</span><span style="display:none">﻿ / <span class="geo">54.08333; 12.13333</span></span><span style="display:none">﻿ (<span class="fn org">39 Rostock</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>40</td>
+<td align="left"><a href="/wiki/Kassel" title="Kassel">Kassel</a></td>
+<td align="left"><a href="/wiki/Hesse" title="Hesse">Hesse</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">197,984</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">190,765</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">7000378423715042070♠</span><span style="color:green">+3.78%</span></td>
+<td>106.78&#160;km<sup>2</sup><br />
+41.23&#160;sq&#160;mi</td>
+<td>1,854/km<sup>2</sup><br />
+4,800/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=51_19_N_9_30_E_&amp;title=40+Kassel"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">51°19′N</span> <span class="longitude">9°30′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">51.317°N 9.500°E</span><span style="display:none">﻿ / <span class="geo">51.317; 9.500</span></span><span style="display:none">﻿ (<span class="fn org">40 Kassel</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>41</td>
+<td align="left"><a href="/wiki/Hagen" title="Hagen">Hagen</a></td>
+<td align="left"><a href="/wiki/North_Rhine-Westphalia" title="North Rhine-Westphalia">North Rhine-Westphalia</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">189,044</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">187,944</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">6999585280721917170♠</span><span style="color:green">+0.59%</span></td>
+<td>160.45&#160;km<sup>2</sup><br />
+61.95&#160;sq&#160;mi</td>
+<td>1,178/km<sup>2</sup><br />
+3,050/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=51_22_N_7_29_E_&amp;title=41+Hagen"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">51°22′N</span> <span class="longitude">7°29′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">51.367°N 7.483°E</span><span style="display:none">﻿ / <span class="geo">51.367; 7.483</span></span><span style="display:none">﻿ (<span class="fn org">41 Hagen</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>42</td>
+<td align="left"><a href="/wiki/Hamm" title="Hamm">Hamm</a></td>
+<td align="left"><a href="/wiki/North_Rhine-Westphalia" title="North Rhine-Westphalia">North Rhine-Westphalia</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">179,397</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">176,037</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">7000190868965047120♠</span><span style="color:green">+1.91%</span></td>
+<td>226.43&#160;km<sup>2</sup><br />
+87.43&#160;sq&#160;mi</td>
+<td>792/km<sup>2</sup><br />
+2,050/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=51_41_N_7_49_E_&amp;title=42+Hamm"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">51°41′N</span> <span class="longitude">7°49′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">51.683°N 7.817°E</span><span style="display:none">﻿ / <span class="geo">51.683; 7.817</span></span><span style="display:none">﻿ (<span class="fn org">42 Hamm</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>43</td>
+<td align="left"><i><b><a href="/wiki/Saarbr%C3%BCcken" title="Saarbrücken">Saarbrücken</a></b></i></td>
+<td align="left"><a href="/wiki/Saarland" title="Saarland">Saarland</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">178,151</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">175,853</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">7000130677327085690♠</span><span style="color:green">+1.31%</span></td>
+<td>167.09&#160;km<sup>2</sup><br />
+64.51&#160;sq&#160;mi</td>
+<td>1,066/km<sup>2</sup><br />
+2,760/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=49_14_N_7_0_E_&amp;title=43+Saarbr%C3%BCcken"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">49°14′N</span> <span class="longitude">7°0′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">49.233°N 7.000°E</span><span style="display:none">﻿ / <span class="geo">49.233; 7.000</span></span><span style="display:none">﻿ (<span class="fn org">43 Saarbrücken</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>44</td>
+<td align="left"><a href="/wiki/M%C3%BClheim_an_der_Ruhr" class="mw-redirect" title="Mülheim an der Ruhr">Mülheim an der Ruhr</a></td>
+<td align="left"><a href="/wiki/North_Rhine-Westphalia" title="North Rhine-Westphalia">North Rhine-Westphalia</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">169,278</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">166,865</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">7000144607916579270♠</span><span style="color:green">+1.45%</span></td>
+<td>91.28&#160;km<sup>2</sup><br />
+35.24&#160;sq&#160;mi</td>
+<td>1,854/km<sup>2</sup><br />
+4,800/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=51_26_N_06_53_E_&amp;title=44+M%C3%BClheim"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">51°26′N</span> <span class="longitude">06°53′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">51.433°N 6.883°E</span><span style="display:none">﻿ / <span class="geo">51.433; 6.883</span></span><span style="display:none">﻿ (<span class="fn org">44 Mülheim</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>45</td>
+<td align="left"><i><b><a href="/wiki/Potsdam" title="Potsdam">Potsdam</a></b></i></td>
+<td align="left"><a href="/wiki/Brandenburg" title="Brandenburg">Brandenburg</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">167,745</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">156,021</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">7000751437306516430♠</span><span style="color:green">+7.51%</span></td>
+<td>188.26&#160;km<sup>2</sup><br />
+72.69&#160;sq&#160;mi</td>
+<td>891/km<sup>2</sup><br />
+2,310/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=52_24_N_13_4_E_&amp;title=45+Potsdam"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">52°24′N</span> <span class="longitude">13°4′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">52.400°N 13.067°E</span><span style="display:none">﻿ / <span class="geo">52.400; 13.067</span></span><span style="display:none">﻿ (<span class="fn org">45 Potsdam</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>46</td>
+<td align="left"><a href="/wiki/Ludwigshafen_am_Rhein" class="mw-redirect" title="Ludwigshafen am Rhein">Ludwigshafen am Rhein</a></td>
+<td align="left"><a href="/wiki/Rhineland-Palatinate" title="Rhineland-Palatinate">Rhineland-Palatinate</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">164,718</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">157,584</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">7000452710935120320♠</span><span style="color:green">+4.53%</span></td>
+<td>77.55&#160;km<sup>2</sup><br />
+29.94&#160;sq&#160;mi</td>
+<td>2,124/km<sup>2</sup><br />
+5,500/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=49_28_52_N_8_26_07_E_&amp;title=46+Ludwigshafen"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">49°28′52″N</span> <span class="longitude">8°26′07″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">49.48111°N 8.43528°E</span><span style="display:none">﻿ / <span class="geo">49.48111; 8.43528</span></span><span style="display:none">﻿ (<span class="fn org">46 Ludwigshafen</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>47</td>
+<td align="left"><a href="/wiki/Oldenburg" title="Oldenburg">Oldenburg</a></td>
+<td align="left"><a href="/wiki/Lower_Saxony" title="Lower Saxony">Lower Saxony</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">163,830</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">157,267</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">7000417315775083140♠</span><span style="color:green">+4.17%</span></td>
+<td>102.99&#160;km<sup>2</sup><br />
+39.76&#160;sq&#160;mi</td>
+<td>1,591/km<sup>2</sup><br />
+4,120/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=53_08_38_N_8_12_50_E_&amp;title=47+Oldenburg"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">53°08′38″N</span> <span class="longitude">8°12′50″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">53.14389°N 8.21389°E</span><span style="display:none">﻿ / <span class="geo">53.14389; 8.21389</span></span><span style="display:none">﻿ (<span class="fn org">47 Oldenburg</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>48</td>
+<td align="left"><a href="/wiki/Leverkusen" title="Leverkusen">Leverkusen</a></td>
+<td align="left"><a href="/wiki/North_Rhine-Westphalia" title="North Rhine-Westphalia">North Rhine-Westphalia</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">163,487</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">158,984</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">7000283236048910580♠</span><span style="color:green">+2.83%</span></td>
+<td>78.87&#160;km<sup>2</sup><br />
+30.45&#160;sq&#160;mi</td>
+<td>2,073/km<sup>2</sup><br />
+5,370/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=51_02_N_06_59_E_&amp;title=48+Leverkusen"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">51°02′N</span> <span class="longitude">06°59′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">51.033°N 6.983°E</span><span style="display:none">﻿ / <span class="geo">51.033; 6.983</span></span><span style="display:none">﻿ (<span class="fn org">48 Leverkusen</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>49</td>
+<td align="left"><a href="/wiki/Osnabr%C3%BCck" title="Osnabrück">Osnabrück</a></td>
+<td align="left"><a href="/wiki/Lower_Saxony" title="Lower Saxony">Lower Saxony</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">162,403</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">153,699</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">7000566301667545010♠</span><span style="color:green">+5.66%</span></td>
+<td>119.8&#160;km<sup>2</sup><br />
+46.3&#160;sq&#160;mi</td>
+<td>1,356/km<sup>2</sup><br />
+3,510/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=52_17_N_8_3_E_&amp;title=49+Osnabr%C3%BCck"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">52°17′N</span> <span class="longitude">8°3′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">52.283°N 8.050°E</span><span style="display:none">﻿ / <span class="geo">52.283; 8.050</span></span><span style="display:none">﻿ (<span class="fn org">49 Osnabrück</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>50</td>
+<td align="left"><a href="/wiki/Solingen" title="Solingen">Solingen</a></td>
+<td align="left"><a href="/wiki/North_Rhine-Westphalia" title="North Rhine-Westphalia">North Rhine-Westphalia</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">158,726</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">155,265</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">7000222909219721120♠</span><span style="color:green">+2.23%</span></td>
+<td>89.54&#160;km<sup>2</sup><br />
+34.57&#160;sq&#160;mi</td>
+<td>1,773/km<sup>2</sup><br />
+4,590/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=51_10_0_N_07_05_0_E_&amp;title=50+Solingen"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">51°10′0″N</span> <span class="longitude">07°05′0″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">51.16667°N 7.08333°E</span><span style="display:none">﻿ / <span class="geo">51.16667; 7.08333</span></span><span style="display:none">﻿ (<span class="fn org">50 Solingen</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>51</td>
+<td align="left"><a href="/wiki/Heidelberg" title="Heidelberg">Heidelberg</a></td>
+<td align="left"><a href="/wiki/Baden-W%C3%BCrttemberg" title="Baden-Württemberg">Baden-Württemberg</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">156,267</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">146,751</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">7000648445325755870♠</span><span style="color:green">+6.48%</span></td>
+<td>108.84&#160;km<sup>2</sup><br />
+42.02&#160;sq&#160;mi</td>
+<td>1,436/km<sup>2</sup><br />
+3,720/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=49_25_N_08_43_E_&amp;title=51+Heidelberg"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">49°25′N</span> <span class="longitude">08°43′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">49.417°N 8.717°E</span><span style="display:none">﻿ / <span class="geo">49.417; 8.717</span></span><span style="display:none">﻿ (<span class="fn org">51 Heidelberg</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>52</td>
+<td align="left"><a href="/wiki/Herne,_North_Rhine-Westphalia" title="Herne, North Rhine-Westphalia">Herne</a></td>
+<td align="left"><a href="/wiki/North_Rhine-Westphalia" title="North Rhine-Westphalia">North Rhine-Westphalia</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">155,851</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">155,160</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">6999445346738850220♠</span><span style="color:green">+0.45%</span></td>
+<td>51.42&#160;km<sup>2</sup><br />
+19.85&#160;sq&#160;mi</td>
+<td>3,031/km<sup>2</sup><br />
+7,850/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=51_33_0_N_07_13_0_E_&amp;title=52+Herne"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">51°33′0″N</span> <span class="longitude">07°13′0″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">51.55000°N 7.21667°E</span><span style="display:none">﻿ / <span class="geo">51.55000; 7.21667</span></span><span style="display:none">﻿ (<span class="fn org">52 Herne</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>53</td>
+<td align="left"><a href="/wiki/Neuss" title="Neuss">Neuss</a></td>
+<td align="left"><a href="/wiki/North_Rhine-Westphalia" title="North Rhine-Westphalia">North Rhine-Westphalia</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">155,414</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">150,568</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">7000321847935816380♠</span><span style="color:green">+3.22%</span></td>
+<td>99.52&#160;km<sup>2</sup><br />
+38.42&#160;sq&#160;mi</td>
+<td>1,562/km<sup>2</sup><br />
+4,050/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=51_12_N_6_42_E_&amp;title=53+Neuss"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">51°12′N</span> <span class="longitude">6°42′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">51.200°N 6.700°E</span><span style="display:none">﻿ / <span class="geo">51.200; 6.700</span></span><span style="display:none">﻿ (<span class="fn org">53 Neuss</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>54</td>
+<td align="left"><a href="/wiki/Darmstadt" title="Darmstadt">Darmstadt</a></td>
+<td align="left"><a href="/wiki/Hesse" title="Hesse">Hesse</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">155,353</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">143,499</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">7000826068474344769♠</span><span style="color:green">+8.26%</span></td>
+<td>122.09&#160;km<sup>2</sup><br />
+47.14&#160;sq&#160;mi</td>
+<td>1,272/km<sup>2</sup><br />
+3,290/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=49_52_N_8_39_E_&amp;title=54+Darmstadt"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">49°52′N</span> <span class="longitude">8°39′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">49.867°N 8.650°E</span><span style="display:none">﻿ / <span class="geo">49.867; 8.650</span></span><span style="display:none">﻿ (<span class="fn org">54 Darmstadt</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>55</td>
+<td align="left"><a href="/wiki/Paderborn" title="Paderborn">Paderborn</a></td>
+<td align="left"><a href="/wiki/North_Rhine-Westphalia" title="North Rhine-Westphalia">North Rhine-Westphalia</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">148,126</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">142,365</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">7000404664067713270♠</span><span style="color:green">+4.05%</span></td>
+<td>179.59&#160;km<sup>2</sup><br />
+69.34&#160;sq&#160;mi</td>
+<td>825/km<sup>2</sup><br />
+2,140/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=51_43_N_8_46_E_&amp;title=55+Paderborn"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">51°43′N</span> <span class="longitude">8°46′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">51.717°N 8.767°E</span><span style="display:none">﻿ / <span class="geo">51.717; 8.767</span></span><span style="display:none">﻿ (<span class="fn org">55 Paderborn</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>56</td>
+<td align="left"><a href="/wiki/Regensburg" title="Regensburg">Regensburg</a></td>
+<td align="left"><a href="/wiki/Bavaria" title="Bavaria">Bavaria</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">145,465</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">135,403</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">7000743114997452050♠</span><span style="color:green">+7.43%</span></td>
+<td>80.7&#160;km<sup>2</sup><br />
+31.2&#160;sq&#160;mi</td>
+<td>1,803/km<sup>2</sup><br />
+4,670/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=49_1_N_12_5_E_&amp;title=56+Regensburg"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">49°1′N</span> <span class="longitude">12°5′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">49.017°N 12.083°E</span><span style="display:none">﻿ / <span class="geo">49.017; 12.083</span></span><span style="display:none">﻿ (<span class="fn org">56 Regensburg</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>57</td>
+<td align="left"><a href="/wiki/Ingolstadt" title="Ingolstadt">Ingolstadt</a></td>
+<td align="left"><a href="/wiki/Bavaria" title="Bavaria">Bavaria</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">132,438</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">124,927</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">7000601231118973480♠</span><span style="color:green">+6.01%</span></td>
+<td>133.37&#160;km<sup>2</sup><br />
+51.49&#160;sq&#160;mi</td>
+<td>993/km<sup>2</sup><br />
+2,570/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=48_46_N_11_26_E_&amp;title=57+Ingolstadt"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">48°46′N</span> <span class="longitude">11°26′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">48.767°N 11.433°E</span><span style="display:none">﻿ / <span class="geo">48.767; 11.433</span></span><span style="display:none">﻿ (<span class="fn org">57 Ingolstadt</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>58</td>
+<td align="left"><a href="/wiki/W%C3%BCrzburg" title="Würzburg">Würzburg</a></td>
+<td align="left"><a href="/wiki/Bavaria" title="Bavaria">Bavaria</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">124,873</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">124,297</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">6999463406196448820♠</span><span style="color:green">+0.46%</span></td>
+<td>87.63&#160;km<sup>2</sup><br />
+33.83&#160;sq&#160;mi</td>
+<td>1,425/km<sup>2</sup><br />
+3,690/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=49_47_N_9_56_E_&amp;title=58+W%C3%BCrzburg"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">49°47′N</span> <span class="longitude">9°56′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">49.783°N 9.933°E</span><span style="display:none">﻿ / <span class="geo">49.783; 9.933</span></span><span style="display:none">﻿ (<span class="fn org">58 Würzburg</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>59</td>
+<td align="left"><a href="/wiki/F%C3%BCrth" title="Fürth">Fürth</a></td>
+<td align="left"><a href="/wiki/Bavaria" title="Bavaria">Bavaria</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">124,171</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">115,613</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">7000740228175032220♠</span><span style="color:green">+7.40%</span></td>
+<td>63.35&#160;km<sup>2</sup><br />
+24.46&#160;sq&#160;mi</td>
+<td>1,960/km<sup>2</sup><br />
+5,100/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=49_28_N_11_0_E_&amp;title=59+F%C3%BCrth"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">49°28′N</span> <span class="longitude">11°0′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">49.467°N 11.000°E</span><span style="display:none">﻿ / <span class="geo">49.467; 11.000</span></span><span style="display:none">﻿ (<span class="fn org">59 Fürth</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>60</td>
+<td align="left"><a href="/wiki/Wolfsburg" title="Wolfsburg">Wolfsburg</a></td>
+<td align="left"><a href="/wiki/Lower_Saxony" title="Lower Saxony">Lower Saxony</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">124,045</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">119,984</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">7000338461794905990♠</span><span style="color:green">+3.38%</span></td>
+<td>204.09&#160;km<sup>2</sup><br />
+78.80&#160;sq&#160;mi</td>
+<td>608/km<sup>2</sup><br />
+1,570/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=52_25_23_N_10_47_14_E_&amp;title=60+Wolfsburg"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">52°25′23″N</span> <span class="longitude">10°47′14″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">52.42306°N 10.78722°E</span><span style="display:none">﻿ / <span class="geo">52.42306; 10.78722</span></span><span style="display:none">﻿ (<span class="fn org">60 Wolfsburg</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>61</td>
+<td align="left"><a href="/wiki/Offenbach_am_Main" title="Offenbach am Main">Offenbach am Main</a></td>
+<td align="left"><a href="/wiki/Hesse" title="Hesse">Hesse</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">123,734</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">113,443</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">7000907151609178180♠</span><span style="color:green">+9.07%</span></td>
+<td>44.89&#160;km<sup>2</sup><br />
+17.33&#160;sq&#160;mi</td>
+<td>2,756/km<sup>2</sup><br />
+7,140/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=50_6_0_N_8_48_0_E_&amp;title=61+Offenbach+am+Main"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">50°6′0″N</span> <span class="longitude">8°48′0″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">50.10000°N 8.80000°E</span><span style="display:none">﻿ / <span class="geo">50.10000; 8.80000</span></span><span style="display:none">﻿ (<span class="fn org">61 Offenbach am Main</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>62</td>
+<td align="left"><a href="/wiki/Ulm" title="Ulm">Ulm</a></td>
+<td align="left"><a href="/wiki/Baden-W%C3%BCrttemberg" title="Baden-Württemberg">Baden-Württemberg</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">122,636</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">116,761</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">7000503164584064890♠</span><span style="color:green">+5.03%</span></td>
+<td>118.69&#160;km<sup>2</sup><br />
+45.83&#160;sq&#160;mi</td>
+<td>1,033/km<sup>2</sup><br />
+2,680/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=48_24_N_09_59_E_&amp;title=62+Ulm"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">48°24′N</span> <span class="longitude">09°59′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">48.400°N 9.983°E</span><span style="display:none">﻿ / <span class="geo">48.400; 9.983</span></span><span style="display:none">﻿ (<span class="fn org">62 Ulm</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>63</td>
+<td align="left"><a href="/wiki/Heilbronn" title="Heilbronn">Heilbronn</a></td>
+<td align="left"><a href="/wiki/Baden-W%C3%BCrttemberg" title="Baden-Württemberg">Baden-Württemberg</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">122,567</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">116,059</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">7000560749274076119♠</span><span style="color:green">+5.61%</span></td>
+<td>99.88&#160;km<sup>2</sup><br />
+38.56&#160;sq&#160;mi</td>
+<td>1,227/km<sup>2</sup><br />
+3,180/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=49_9_N_9_13_E_&amp;title=63+Heilbronn"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">49°9′N</span> <span class="longitude">9°13′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">49.150°N 9.217°E</span><span style="display:none">﻿ / <span class="geo">49.150; 9.217</span></span><span style="display:none">﻿ (<span class="fn org">63 Heilbronn</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>64</td>
+<td align="left"><a href="/wiki/Pforzheim" title="Pforzheim">Pforzheim</a></td>
+<td align="left"><a href="/wiki/Baden-W%C3%BCrttemberg" title="Baden-Württemberg">Baden-Württemberg</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">122,247</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">114,411</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">7000684899179274720♠</span><span style="color:green">+6.85%</span></td>
+<td>98&#160;km<sup>2</sup><br />
+38&#160;sq&#160;mi</td>
+<td>1,247/km<sup>2</sup><br />
+3,230/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=48_54_7_N_08_43_0_E_&amp;title=64+Pforzheim"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">48°54′7″N</span> <span class="longitude">08°43′0″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">48.90194°N 8.71667°E</span><span style="display:none">﻿ / <span class="geo">48.90194; 8.71667</span></span><span style="display:none">﻿ (<span class="fn org">64 Pforzheim</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>65</td>
+<td align="left"><a href="/wiki/G%C3%B6ttingen" title="Göttingen">Göttingen</a></td>
+<td align="left"><a href="/wiki/Lower_Saxony" title="Lower Saxony">Lower Saxony</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">118,914</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">115,843</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">7000265100178690120♠</span><span style="color:green">+2.65%</span></td>
+<td>116.89&#160;km<sup>2</sup><br />
+45.13&#160;sq&#160;mi</td>
+<td>1,017/km<sup>2</sup><br />
+2,630/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=51_32_02_N_09_56_08_E_&amp;title=65+G%C3%B6ttingen"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">51°32′02″N</span> <span class="longitude">09°56′08″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">51.53389°N 9.93556°E</span><span style="display:none">﻿ / <span class="geo">51.53389; 9.93556</span></span><span style="display:none">﻿ (<span class="fn org">65 Göttingen</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>66</td>
+<td align="left"><a href="/wiki/Bottrop" title="Bottrop">Bottrop</a></td>
+<td align="left"><a href="/wiki/North_Rhine-Westphalia" title="North Rhine-Westphalia">North Rhine-Westphalia</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">117,143</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">117,311</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">3000856790923272330♠</span><span style="color:red">−0.14%</span></td>
+<td>100.61&#160;km<sup>2</sup><br />
+38.85&#160;sq&#160;mi</td>
+<td>1,164/km<sup>2</sup><br />
+3,010/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=51_31_29_N_06_55_22_E_&amp;title=66+Bottrop"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">51°31′29″N</span> <span class="longitude">06°55′22″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">51.52472°N 6.92278°E</span><span style="display:none">﻿ / <span class="geo">51.52472; 6.92278</span></span><span style="display:none">﻿ (<span class="fn org">66 Bottrop</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>67</td>
+<td align="left"><a href="/wiki/Trier" title="Trier">Trier</a></td>
+<td align="left"><a href="/wiki/Rhineland-Palatinate" title="Rhineland-Palatinate">Rhineland-Palatinate</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">114,914</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">105,671</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">7000874695990385250♠</span><span style="color:green">+8.75%</span></td>
+<td>117.13&#160;km<sup>2</sup><br />
+45.22&#160;sq&#160;mi</td>
+<td>981/km<sup>2</sup><br />
+2,540/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=49_45_N_6_38_E_&amp;title=67+Trier"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">49°45′N</span> <span class="longitude">6°38′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">49.750°N 6.633°E</span><span style="display:none">﻿ / <span class="geo">49.750; 6.633</span></span><span style="display:none">﻿ (<span class="fn org">67 Trier</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>68</td>
+<td align="left"><a href="/wiki/Recklinghausen" title="Recklinghausen">Recklinghausen</a></td>
+<td align="left"><a href="/wiki/North_Rhine-Westphalia" title="North Rhine-Westphalia">North Rhine-Westphalia</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">114,330</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">115,958</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">2999859604339502229♠</span><span style="color:red">−1.40%</span></td>
+<td>66.5&#160;km<sup>2</sup><br />
+25.7&#160;sq&#160;mi</td>
+<td>1,719/km<sup>2</sup><br />
+4,450/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=51_35_6_N_7_9_43_E_&amp;title=68+Recklinghausen"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">51°35′6″N</span> <span class="longitude">7°9′43″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">51.58500°N 7.16194°E</span><span style="display:none">﻿ / <span class="geo">51.58500; 7.16194</span></span><span style="display:none">﻿ (<span class="fn org">68 Recklinghausen</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>69</td>
+<td align="left"><a href="/wiki/Reutlingen" title="Reutlingen">Reutlingen</a></td>
+<td align="left"><a href="/wiki/Baden-W%C3%BCrttemberg" title="Baden-Württemberg">Baden-Württemberg</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">114,310</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">109,799</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">7000410841628794429♠</span><span style="color:green">+4.11%</span></td>
+<td>87.06&#160;km<sup>2</sup><br />
+33.61&#160;sq&#160;mi</td>
+<td>1,313/km<sup>2</sup><br />
+3,400/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=48_29_N_9_13_E_&amp;title=69+Reutlingen"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">48°29′N</span> <span class="longitude">9°13′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">48.483°N 9.217°E</span><span style="display:none">﻿ / <span class="geo">48.483; 9.217</span></span><span style="display:none">﻿ (<span class="fn org">69 Reutlingen</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>70</td>
+<td align="left"><a href="/wiki/Bremerhaven" title="Bremerhaven">Bremerhaven</a></td>
+<td align="left"><a href="/wiki/Bremen" title="Bremen">Bremen</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">114,025</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">108,156</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">7000542642109545469♠</span><span style="color:green">+5.43%</span></td>
+<td>93.66&#160;km<sup>2</sup><br />
+36.16&#160;sq&#160;mi</td>
+<td>1,217/km<sup>2</sup><br />
+3,150/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=53_33_0_N_8_35_0_E_&amp;title=70+Bremerhaven"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">53°33′0″N</span> <span class="longitude">8°35′0″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">53.55000°N 8.58333°E</span><span style="display:none">﻿ / <span class="geo">53.55000; 8.58333</span></span><span style="display:none">﻿ (<span class="fn org">70 Bremerhaven</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>71</td>
+<td align="left"><a href="/wiki/Koblenz" title="Koblenz">Koblenz</a></td>
+<td align="left"><a href="/wiki/Rhineland-Palatinate" title="Rhineland-Palatinate">Rhineland-Palatinate</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">112,586</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">107,825</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">7000441548805935539♠</span><span style="color:green">+4.42%</span></td>
+<td>105.16&#160;km<sup>2</sup><br />
+40.60&#160;sq&#160;mi</td>
+<td>1,071/km<sup>2</sup><br />
+2,770/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=50_21_35_N_7_35_52_E_&amp;title=71+Koblenz"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">50°21′35″N</span> <span class="longitude">7°35′52″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">50.35972°N 7.59778°E</span><span style="display:none">﻿ / <span class="geo">50.35972; 7.59778</span></span><span style="display:none">﻿ (<span class="fn org">71 Koblenz</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>72</td>
+<td align="left"><a href="/wiki/Bergisch_Gladbach" title="Bergisch Gladbach">Bergisch Gladbach</a></td>
+<td align="left"><a href="/wiki/North_Rhine-Westphalia" title="North Rhine-Westphalia">North Rhine-Westphalia</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">111,366</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">108,878</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">7000228512647183090♠</span><span style="color:green">+2.29%</span></td>
+<td>83.09&#160;km<sup>2</sup><br />
+32.08&#160;sq&#160;mi</td>
+<td>1,340/km<sup>2</sup><br />
+3,500/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=51_06_N_07_07_E_&amp;title=72+Bergisch+Gladbach"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">51°06′N</span> <span class="longitude">07°07′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">51.100°N 7.117°E</span><span style="display:none">﻿ / <span class="geo">51.100; 7.117</span></span><span style="display:none">﻿ (<span class="fn org">72 Bergisch Gladbach</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>73</td>
+<td align="left"><a href="/wiki/Jena" title="Jena">Jena</a></td>
+<td align="left"><a href="/wiki/Thuringia" title="Thuringia">Thuringia</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">109,527</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">105,739</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">7000358240573487550♠</span><span style="color:green">+3.58%</span></td>
+<td>114.76&#160;km<sup>2</sup><br />
+44.31&#160;sq&#160;mi</td>
+<td>954/km<sup>2</sup><br />
+2,470/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=50_55_38_N_11_35_10_E_&amp;title=73+Jena"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">50°55′38″N</span> <span class="longitude">11°35′10″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">50.92722°N 11.58611°E</span><span style="display:none">﻿ / <span class="geo">50.92722; 11.58611</span></span><span style="display:none">﻿ (<span class="fn org">73 Jena</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>74</td>
+<td align="left"><a href="/wiki/Remscheid" title="Remscheid">Remscheid</a></td>
+<td align="left"><a href="/wiki/North_Rhine-Westphalia" title="North Rhine-Westphalia">North Rhine-Westphalia</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">109,499</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">110,708</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">2999890793799906060♠</span><span style="color:red">−1.09%</span></td>
+<td>74.52&#160;km<sup>2</sup><br />
+28.77&#160;sq&#160;mi</td>
+<td>1,469/km<sup>2</sup><br />
+3,800/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=51_11_0_N_07_12_0_E_&amp;title=74+Remscheid"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">51°11′0″N</span> <span class="longitude">07°12′0″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">51.18333°N 7.20000°E</span><span style="display:none">﻿ / <span class="geo">51.18333; 7.20000</span></span><span style="display:none">﻿ (<span class="fn org">74 Remscheid</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>75</td>
+<td align="left"><a href="/wiki/Erlangen" title="Erlangen">Erlangen</a></td>
+<td align="left"><a href="/wiki/Bavaria" title="Bavaria">Bavaria</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">108,336</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">103,719</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">7000445145055390039♠</span><span style="color:green">+4.45%</span></td>
+<td>76.95&#160;km<sup>2</sup><br />
+29.71&#160;sq&#160;mi</td>
+<td>1,408/km<sup>2</sup><br />
+3,650/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=49_35_N_11_1_E_&amp;title=75+Erlangen"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">49°35′N</span> <span class="longitude">11°1′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">49.583°N 11.017°E</span><span style="display:none">﻿ / <span class="geo">49.583; 11.017</span></span><span style="display:none">﻿ (<span class="fn org">75 Erlangen</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>76</td>
+<td align="left"><a href="/wiki/Moers" title="Moers">Moers</a></td>
+<td align="left"><a href="/wiki/North_Rhine-Westphalia" title="North Rhine-Westphalia">North Rhine-Westphalia</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">104,529</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">104,009</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">6999499956734513350♠</span><span style="color:green">+0.50%</span></td>
+<td>67.68&#160;km<sup>2</sup><br />
+26.13&#160;sq&#160;mi</td>
+<td>1,544/km<sup>2</sup><br />
+4,000/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=51_27_33_N_6_37_11_E_&amp;title=76+Moers"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">51°27′33″N</span> <span class="longitude">6°37′11″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">51.45917°N 6.61972°E</span><span style="display:none">﻿ / <span class="geo">51.45917; 6.61972</span></span><span style="display:none">﻿ (<span class="fn org">76 Moers</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>77</td>
+<td align="left"><a href="/wiki/Siegen" title="Siegen">Siegen</a></td>
+<td align="left"><a href="/wiki/North_Rhine-Westphalia" title="North Rhine-Westphalia">North Rhine-Westphalia</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">102,355</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">99,187</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">7000319396695131420♠</span><span style="color:green">+3.19%</span></td>
+<td>114.69&#160;km<sup>2</sup><br />
+44.28&#160;sq&#160;mi</td>
+<td>892/km<sup>2</sup><br />
+2,310/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=50_53_N_8_1_E_&amp;title=77+Siegen"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">50°53′N</span> <span class="longitude">8°1′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">50.883°N 8.017°E</span><span style="display:none">﻿ / <span class="geo">50.883; 8.017</span></span><span style="display:none">﻿ (<span class="fn org">77 Siegen</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>78</td>
+<td align="left"><a href="/wiki/Hildesheim" title="Hildesheim">Hildesheim</a></td>
+<td align="left"><a href="/wiki/Lower_Saxony" title="Lower Saxony">Lower Saxony</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">101,667</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">99,554</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">7000212246619924870♠</span><span style="color:green">+2.12%</span></td>
+<td>92.18&#160;km<sup>2</sup><br />
+35.59&#160;sq&#160;mi</td>
+<td>1,103/km<sup>2</sup><br />
+2,860/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=52_09_N_09_57_E_&amp;title=78+Hildesheim"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">52°09′N</span> <span class="longitude">09°57′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">52.150°N 9.950°E</span><span style="display:none">﻿ / <span class="geo">52.150; 9.950</span></span><span style="display:none">﻿ (<span class="fn org">78 Hildesheim</span>)</span></span></span></a></span></td>
+</tr>
+<tr>
+<td>79</td>
+<td align="left"><a href="/wiki/Salzgitter" title="Salzgitter">Salzgitter</a></td>
+<td align="left"><a href="/wiki/Lower_Saxony" title="Lower Saxony">Lower Saxony</a></td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">101,079</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9">98,895</td>
+<td align="right" rowspan="1" bgcolor="#F9F9F9"><span style="display:none" class="sortkey">7000220840285150920♠</span><span style="color:green">+2.21%</span></td>
+<td>223.92&#160;km<sup>2</sup><br />
+86.46&#160;sq&#160;mi</td>
+<td>451/km<sup>2</sup><br />
+1,170/sq&#160;mi</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=List_of_cities_in_Germany_by_population&amp;params=52_09_0_N_10_20_0_E_&amp;title=79+Salzgitter"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">52°09′0″N</span> <span class="longitude">10°20′0″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">52.15000°N 10.33333°E</span><span style="display:none">﻿ / <span class="geo">52.15000; 10.33333</span></span><span style="display:none">﻿ (<span class="fn org">79 Salzgitter</span>)</span></span></span></a></span></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_cities_in_Germany_by_population&amp;action=edit&amp;section=2" title="Edit section: Gallery">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table style="background:transparent;margin-top:0.5em;margin-left:auto;margin-right:auto">
+<tr>
+<td>
+<table style="width:260px;float:left;border-collapse:collapse;margin:3px">
+<tr>
+<td style="height:180px;border:1px solid #CCCCCC;background-color:#F8F8F8;padding:0px;text-align:center">
+<div class="center">
+<div class="floatnone"><a href="/wiki/File:%C3%9Cber_den_D%C3%A4chern_von_Berlin.jpg" class="image" title="1. Berlin"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/%C3%9Cber_den_D%C3%A4chern_von_Berlin.jpg/240px-%C3%9Cber_den_D%C3%A4chern_von_Berlin.jpg" width="240" height="137" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/%C3%9Cber_den_D%C3%A4chern_von_Berlin.jpg/360px-%C3%9Cber_den_D%C3%A4chern_von_Berlin.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/53/%C3%9Cber_den_D%C3%A4chern_von_Berlin.jpg/480px-%C3%9Cber_den_D%C3%A4chern_von_Berlin.jpg 2x" data-file-width="1155" data-file-height="658" /></a></div>
+</div>
+</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="display:block;font-size:94%;padding:0px">
+<div class="gallerytext" style="min-height:3.1em;width:247px;line-height:1.3em;padding:2px 6px 1px 6px;margin:0px;border:none;border-width:0px">1. <a href="/wiki/Berlin" title="Berlin">Berlin</a>&#160;</div>
+</td>
+</tr>
+</table>
+<table style="width:260px;float:left;border-collapse:collapse;margin:3px">
+<tr>
+<td style="height:180px;border:1px solid #CCCCCC;background-color:#F8F8F8;padding:0px;text-align:center">
+<div class="center">
+<div class="floatnone"><a href="/wiki/File:Hamburg_Rathaus.jpg" class="image" title="2. Hamburg"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Hamburg_Rathaus.jpg/240px-Hamburg_Rathaus.jpg" width="240" height="160" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Hamburg_Rathaus.jpg/360px-Hamburg_Rathaus.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/e/ed/Hamburg_Rathaus.jpg 2x" data-file-width="480" data-file-height="319" /></a></div>
+</div>
+</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="display:block;font-size:94%;padding:0px">
+<div class="gallerytext" style="min-height:3.1em;width:247px;line-height:1.3em;padding:2px 6px 1px 6px;margin:0px;border:none;border-width:0px">2. <a href="/wiki/Hamburg" title="Hamburg">Hamburg</a>&#160;</div>
+</td>
+</tr>
+</table>
+<table style="width:260px;float:left;border-collapse:collapse;margin:3px">
+<tr>
+<td style="height:180px;border:1px solid #CCCCCC;background-color:#F8F8F8;padding:0px;text-align:center">
+<div class="center">
+<div class="floatnone"><a href="/wiki/File:Ludwigstra%C3%9FeMUC.jpg" class="image" title="3. Munich"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ludwigstra%C3%9FeMUC.jpg/240px-Ludwigstra%C3%9FeMUC.jpg" width="240" height="160" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ludwigstra%C3%9FeMUC.jpg/360px-Ludwigstra%C3%9FeMUC.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ludwigstra%C3%9FeMUC.jpg/480px-Ludwigstra%C3%9FeMUC.jpg 2x" data-file-width="3456" data-file-height="2304" /></a></div>
+</div>
+</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="display:block;font-size:94%;padding:0px">
+<div class="gallerytext" style="min-height:3.1em;width:247px;line-height:1.3em;padding:2px 6px 1px 6px;margin:0px;border:none;border-width:0px">3. <a href="/wiki/Munich" title="Munich">Munich</a>&#160;</div>
+</td>
+</tr>
+</table>
+<table style="width:260px;float:left;border-collapse:collapse;margin:3px">
+<tr>
+<td style="height:180px;border:1px solid #CCCCCC;background-color:#F8F8F8;padding:0px;text-align:center">
+<div class="center">
+<div class="floatnone"><a href="/wiki/File:Nightview_of_Cologne_Cathedrale_across_the_River_Rhine.jpg" class="image" title="4. Cologne"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Nightview_of_Cologne_Cathedrale_across_the_River_Rhine.jpg/240px-Nightview_of_Cologne_Cathedrale_across_the_River_Rhine.jpg" width="240" height="160" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Nightview_of_Cologne_Cathedrale_across_the_River_Rhine.jpg/360px-Nightview_of_Cologne_Cathedrale_across_the_River_Rhine.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Nightview_of_Cologne_Cathedrale_across_the_River_Rhine.jpg/480px-Nightview_of_Cologne_Cathedrale_across_the_River_Rhine.jpg 2x" data-file-width="1000" data-file-height="667" /></a></div>
+</div>
+</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="display:block;font-size:94%;padding:0px">
+<div class="gallerytext" style="min-height:3.1em;width:247px;line-height:1.3em;padding:2px 6px 1px 6px;margin:0px;border:none;border-width:0px">4. <a href="/wiki/Cologne" title="Cologne">Cologne</a>&#160;</div>
+</td>
+</tr>
+</table>
+<table style="width:260px;float:left;border-collapse:collapse;margin:3px">
+<tr>
+<td style="height:180px;border:1px solid #CCCCCC;background-color:#F8F8F8;padding:0px;text-align:center">
+<div class="center">
+<div class="floatnone"><a href="/wiki/File:Hauptwache_Frankfurt_am_Main.jpg" class="image" title="5. Frankfurt"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Hauptwache_Frankfurt_am_Main.jpg/239px-Hauptwache_Frankfurt_am_Main.jpg" width="239" height="160" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Hauptwache_Frankfurt_am_Main.jpg/359px-Hauptwache_Frankfurt_am_Main.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/27/Hauptwache_Frankfurt_am_Main.jpg/478px-Hauptwache_Frankfurt_am_Main.jpg 2x" data-file-width="2560" data-file-height="1714" /></a></div>
+</div>
+</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="display:block;font-size:94%;padding:0px">
+<div class="gallerytext" style="min-height:3.1em;width:247px;line-height:1.3em;padding:2px 6px 1px 6px;margin:0px;border:none;border-width:0px">5. <a href="/wiki/Frankfurt" title="Frankfurt">Frankfurt</a>&#160;</div>
+</td>
+</tr>
+</table>
+<table style="width:260px;float:left;border-collapse:collapse;margin:3px">
+<tr>
+<td style="height:180px;border:1px solid #CCCCCC;background-color:#F8F8F8;padding:0px;text-align:center">
+<div class="center">
+<div class="floatnone"><a href="/wiki/File:Stuttgart_Leonhardsviertel.JPG" class="image" title="6. Stuttgart"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Stuttgart_Leonhardsviertel.JPG/240px-Stuttgart_Leonhardsviertel.JPG" width="240" height="160" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Stuttgart_Leonhardsviertel.JPG/360px-Stuttgart_Leonhardsviertel.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/44/Stuttgart_Leonhardsviertel.JPG/480px-Stuttgart_Leonhardsviertel.JPG 2x" data-file-width="2496" data-file-height="1664" /></a></div>
+</div>
+</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="display:block;font-size:94%;padding:0px">
+<div class="gallerytext" style="min-height:3.1em;width:247px;line-height:1.3em;padding:2px 6px 1px 6px;margin:0px;border:none;border-width:0px">6. <a href="/wiki/Stuttgart" title="Stuttgart">Stuttgart</a>&#160;</div>
+</td>
+</tr>
+</table>
+<table style="width:260px;float:left;border-collapse:collapse;margin:3px">
+<tr>
+<td style="height:180px;border:1px solid #CCCCCC;background-color:#F8F8F8;padding:0px;text-align:center">
+<div class="center">
+<div class="floatnone"><a href="/wiki/File:Medienhafen-M%C3%A4rz-09-13_spiegelung_zusammengezogen.jpg" class="image" title="7. Düsseldorf"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Medienhafen-M%C3%A4rz-09-13_spiegelung_zusammengezogen.jpg/213px-Medienhafen-M%C3%A4rz-09-13_spiegelung_zusammengezogen.jpg" width="213" height="160" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Medienhafen-M%C3%A4rz-09-13_spiegelung_zusammengezogen.jpg/320px-Medienhafen-M%C3%A4rz-09-13_spiegelung_zusammengezogen.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Medienhafen-M%C3%A4rz-09-13_spiegelung_zusammengezogen.jpg/427px-Medienhafen-M%C3%A4rz-09-13_spiegelung_zusammengezogen.jpg 2x" data-file-width="3072" data-file-height="2304" /></a></div>
+</div>
+</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="display:block;font-size:94%;padding:0px">
+<div class="gallerytext" style="min-height:3.1em;width:247px;line-height:1.3em;padding:2px 6px 1px 6px;margin:0px;border:none;border-width:0px">7. <a href="/wiki/D%C3%BCsseldorf" title="Düsseldorf">Düsseldorf</a>&#160;</div>
+</td>
+</tr>
+</table>
+<table style="width:260px;float:left;border-collapse:collapse;margin:3px">
+<tr>
+<td style="height:180px;border:1px solid #CCCCCC;background-color:#F8F8F8;padding:0px;text-align:center">
+<div class="center">
+<div class="floatnone"><a href="/wiki/File:Dortmund_Panorama.jpg" class="image" title="8. Dortmund"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Dortmund_Panorama.jpg/240px-Dortmund_Panorama.jpg" width="240" height="131" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Dortmund_Panorama.jpg/360px-Dortmund_Panorama.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Dortmund_Panorama.jpg/480px-Dortmund_Panorama.jpg 2x" data-file-width="3456" data-file-height="1892" /></a></div>
+</div>
+</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="display:block;font-size:94%;padding:0px">
+<div class="gallerytext" style="min-height:3.1em;width:247px;line-height:1.3em;padding:2px 6px 1px 6px;margin:0px;border:none;border-width:0px">8. <a href="/wiki/Dortmund" title="Dortmund">Dortmund</a>&#160;</div>
+</td>
+</tr>
+</table>
+<table style="width:260px;float:left;border-collapse:collapse;margin:3px">
+<tr>
+<td style="height:180px;border:1px solid #CCCCCC;background-color:#F8F8F8;padding:0px;text-align:center">
+<div class="center">
+<div class="floatnone"><a href="/wiki/File:Essen-S%C3%BCdviertel_Luft.jpg" class="image" title="9. Essen"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Essen-S%C3%BCdviertel_Luft.jpg/240px-Essen-S%C3%BCdviertel_Luft.jpg" width="240" height="160" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Essen-S%C3%BCdviertel_Luft.jpg/360px-Essen-S%C3%BCdviertel_Luft.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Essen-S%C3%BCdviertel_Luft.jpg/480px-Essen-S%C3%BCdviertel_Luft.jpg 2x" data-file-width="1435" data-file-height="957" /></a></div>
+</div>
+</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="display:block;font-size:94%;padding:0px">
+<div class="gallerytext" style="min-height:3.1em;width:247px;line-height:1.3em;padding:2px 6px 1px 6px;margin:0px;border:none;border-width:0px">9. <a href="/wiki/Essen" title="Essen">Essen</a>&#160;</div>
+</td>
+</tr>
+</table>
+<table style="width:260px;float:left;border-collapse:collapse;margin:3px">
+<tr>
+<td style="height:180px;border:1px solid #CCCCCC;background-color:#F8F8F8;padding:0px;text-align:center">
+<div class="center">
+<div class="floatnone"><a href="/wiki/File:Leipzig_Fockeberg_Zentrum.jpg" class="image" title="10. Leipzig"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Leipzig_Fockeberg_Zentrum.jpg/213px-Leipzig_Fockeberg_Zentrum.jpg" width="213" height="160" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Leipzig_Fockeberg_Zentrum.jpg/320px-Leipzig_Fockeberg_Zentrum.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Leipzig_Fockeberg_Zentrum.jpg/427px-Leipzig_Fockeberg_Zentrum.jpg 2x" data-file-width="3648" data-file-height="2736" /></a></div>
+</div>
+</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="display:block;font-size:94%;padding:0px">
+<div class="gallerytext" style="min-height:3.1em;width:247px;line-height:1.3em;padding:2px 6px 1px 6px;margin:0px;border:none;border-width:0px">10. <a href="/wiki/Leipzig" title="Leipzig">Leipzig</a>&#160;</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_cities_in_Germany_by_population&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/List_of_towns_and_cities_in_Germany" class="mw-redirect" title="List of towns and cities in Germany">List of towns and cities in Germany</a></li>
+<li><a href="/wiki/Metropolitan_regions_in_Germany" title="Metropolitan regions in Germany">Metropolitan regions in Germany</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_cities_in_Germany_by_population&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.landeskunde-baden-wuerttemberg.de/grossstadtleben.html">"Großstädte in Baden-Württemberg"</a> (in German). Landeszentrale für politische Bildung Baden-Württemberg<span class="reference-accessdate">. Retrieved <span class="nowrap">June 10,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+cities+in+Germany+by+population&amp;rft.btitle=Gro%C3%9Fst%C3%A4dte+in+Baden-W%C3%BCrttemberg&amp;rft.genre=unknown&amp;rft.pub=Landeszentrale+f%C3%BCr+politische+Bildung+Baden-W%C3%BCrttemberg&amp;rft_id=http%3A%2F%2Fwww.landeskunde-baden-wuerttemberg.de%2Fgrossstadtleben.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-destatis1-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-destatis1_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-destatis1_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-destatis1_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-destatis1_2-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-destatis1_2-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.destatis.de/DE/ZahlenFakten/LaenderRegionen/Regionales/Gemeindeverzeichnis/Administrativ/Aktuell/05Staedte.xls?__blob=publicationFile">"Städte in Deutschland nach Fläche und Bevölkerung auf Grundlage des ZENSUS 2011 und Bevölkerungsdichte: Gebietsstand 31.12.2015"</a> <span style="font-size:85%;">(XLS)</span> (in German). <a href="/wiki/Wiesbaden" title="Wiesbaden">Wiesbaden</a>: <a href="/wiki/Federal_Statistical_Office_of_Germany" title="Federal Statistical Office of Germany">Federal Statistical Office of Germany</a>. December 13, 2016.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+cities+in+Germany+by+population&amp;rft.btitle=St%C3%A4dte+in+Deutschland+nach+Fl%C3%A4che+und+Bev%C3%B6lkerung+auf+Grundlage+des+ZENSUS+2011+und+Bev%C3%B6lkerungsdichte%3A+Gebietsstand+31.12.2015&amp;rft.date=2016-12-13&amp;rft.genre=unknown&amp;rft.place=Wiesbaden&amp;rft.pub=Federal+Statistical+Office+of+Germany&amp;rft_id=https%3A%2F%2Fwww.destatis.de%2FDE%2FZahlenFakten%2FLaenderRegionen%2FRegionales%2FGemeindeverzeichnis%2FAdministrativ%2FAktuell%2F05Staedte.xls%3F__blob%3DpublicationFile&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-destatis2-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-destatis2_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-destatis2_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.destatis.de/DE/Methoden/Zensus_/Downloads/1A_EinwohnerzahlGeschlecht.xls">"Bevölkerung nach Geschlecht für Kreise und kreisfreie Städte"</a> <span style="font-size:85%;">(XLS)</span> (in German). Wiesbaden: Federal Statistical Office of Germany. April 10, 2014.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+cities+in+Germany+by+population&amp;rft.btitle=Bev%C3%B6lkerung+nach+Geschlecht+f%C3%BCr+Kreise+und+kreisfreie+St%C3%A4dte&amp;rft.date=2014-04-10&amp;rft.genre=unknown&amp;rft.place=Wiesbaden&amp;rft.pub=Federal+Statistical+Office+of+Germany&amp;rft_id=https%3A%2F%2Fwww.destatis.de%2FDE%2FMethoden%2FZensus_%2FDownloads%2F1A_EinwohnerzahlGeschlecht.xls&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Cities_in_Germany_by_population" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Cities_in_Germany" title="Template:Cities in Germany"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Cities_in_Germany" title="Template talk:Cities in Germany"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cities_in_Germany&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Cities_in_Germany_by_population" style="font-size:114%;margin:0 4em">Cities in Germany by population</div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">1,000,000+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Berlin" title="Berlin">Berlin</a></li>
+<li><a href="/wiki/Cologne" title="Cologne">Cologne</a></li>
+<li><a href="/wiki/Hamburg" title="Hamburg">Hamburg</a></li>
+<li><a href="/wiki/Munich" title="Munich">Munich</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">500,000+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bremen" title="Bremen">Bremen</a></li>
+<li><a href="/wiki/Dortmund" title="Dortmund">Dortmund</a></li>
+<li><a href="/wiki/Dresden" title="Dresden">Dresden</a></li>
+<li><a href="/wiki/D%C3%BCsseldorf" title="Düsseldorf">Düsseldorf</a></li>
+<li><a href="/wiki/Essen" title="Essen">Essen</a></li>
+<li><a href="/wiki/Frankfurt" title="Frankfurt">Frankfurt</a></li>
+<li><a href="/wiki/Hanover" title="Hanover">Hanover</a></li>
+<li><a href="/wiki/Leipzig" title="Leipzig">Leipzig</a></li>
+<li><a href="/wiki/Nuremberg" title="Nuremberg">Nuremberg</a></li>
+<li><a href="/wiki/Stuttgart" title="Stuttgart">Stuttgart</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">200,000+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aachen" title="Aachen">Aachen</a></li>
+<li><a href="/wiki/Augsburg" title="Augsburg">Augsburg</a></li>
+<li><a href="/wiki/Bielefeld" title="Bielefeld">Bielefeld</a></li>
+<li><a href="/wiki/Bochum" title="Bochum">Bochum</a></li>
+<li><a href="/wiki/Bonn" title="Bonn">Bonn</a></li>
+<li><a href="/wiki/Braunschweig" title="Braunschweig">Braunschweig</a></li>
+<li><a href="/wiki/Chemnitz" title="Chemnitz">Chemnitz</a></li>
+<li><a href="/wiki/Duisburg" title="Duisburg">Duisburg</a></li>
+<li><a href="/wiki/Erfurt" title="Erfurt">Erfurt</a></li>
+<li><a href="/wiki/Freiburg_im_Breisgau" title="Freiburg im Breisgau">Freiburg im Breisgau</a></li>
+<li><a href="/wiki/Gelsenkirchen" title="Gelsenkirchen">Gelsenkirchen</a></li>
+<li><a href="/wiki/Halle_(Saale)" title="Halle (Saale)">Halle (Saale)</a></li>
+<li><a href="/wiki/Karlsruhe" title="Karlsruhe">Karlsruhe</a></li>
+<li><a href="/wiki/Kiel" title="Kiel">Kiel</a></li>
+<li><a href="/wiki/Krefeld" title="Krefeld">Krefeld</a></li>
+<li><a href="/wiki/L%C3%BCbeck" title="Lübeck">Lübeck</a></li>
+<li><a href="/wiki/Magdeburg" title="Magdeburg">Magdeburg</a></li>
+<li><a href="/wiki/Mainz" title="Mainz">Mainz</a></li>
+<li><a href="/wiki/Mannheim" title="Mannheim">Mannheim</a></li>
+<li><a href="/wiki/M%C3%BCnster" title="Münster">Münster</a></li>
+<li><a href="/wiki/M%C3%B6nchengladbach" title="Mönchengladbach">Mönchengladbach</a></li>
+<li><a href="/wiki/Oberhausen" title="Oberhausen">Oberhausen</a></li>
+<li><a href="/wiki/Rostock" title="Rostock">Rostock</a></li>
+<li><a href="/wiki/Wiesbaden" title="Wiesbaden">Wiesbaden</a></li>
+<li><a href="/wiki/Wuppertal" title="Wuppertal">Wuppertal</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">100,000+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bergisch_Gladbach" title="Bergisch Gladbach">Bergisch Gladbach</a></li>
+<li><a href="/wiki/Bottrop" title="Bottrop">Bottrop</a></li>
+<li><a href="/wiki/Bremerhaven" title="Bremerhaven">Bremerhaven</a></li>
+<li><a href="/wiki/Cottbus" title="Cottbus">Cottbus</a></li>
+<li><a href="/wiki/Darmstadt" title="Darmstadt">Darmstadt</a></li>
+<li><a href="/wiki/Erlangen" title="Erlangen">Erlangen</a></li>
+<li><a href="/wiki/F%C3%BCrth" title="Fürth">Fürth</a></li>
+<li><a href="/wiki/G%C3%B6ttingen" title="Göttingen">Göttingen</a></li>
+<li><a href="/wiki/Hagen" title="Hagen">Hagen</a></li>
+<li><a href="/wiki/Hamm" title="Hamm">Hamm</a></li>
+<li><a href="/wiki/Heidelberg" title="Heidelberg">Heidelberg</a></li>
+<li><a href="/wiki/Heilbronn" title="Heilbronn">Heilbronn</a></li>
+<li><a href="/wiki/Herne,_North_Rhine-Westphalia" title="Herne, North Rhine-Westphalia">Herne</a></li>
+<li><a href="/wiki/Hildesheim" title="Hildesheim">Hildesheim</a></li>
+<li><a href="/wiki/Ingolstadt" title="Ingolstadt">Ingolstadt</a></li>
+<li><a href="/wiki/Jena" title="Jena">Jena</a></li>
+<li><a href="/wiki/Kassel" title="Kassel">Kassel</a></li>
+<li><a href="/wiki/Koblenz" title="Koblenz">Koblenz</a></li>
+<li><a href="/wiki/Leverkusen" title="Leverkusen">Leverkusen</a></li>
+<li><a href="/wiki/Ludwigshafen" title="Ludwigshafen">Ludwigshafen</a></li>
+<li><a href="/wiki/Moers" title="Moers">Moers</a></li>
+<li><a href="/wiki/M%C3%BClheim" title="Mülheim">Mülheim an der Ruhr</a></li>
+<li><a href="/wiki/Neuss" title="Neuss">Neuss</a></li>
+<li><a href="/wiki/Offenbach_am_Main" title="Offenbach am Main">Offenbach am Main</a></li>
+<li><a href="/wiki/Oldenburg_(Oldenburg)" class="mw-redirect" title="Oldenburg (Oldenburg)">Oldenburg</a></li>
+<li><a href="/wiki/Osnabr%C3%BCck" title="Osnabrück">Osnabrück</a></li>
+<li><a href="/wiki/Paderborn" title="Paderborn">Paderborn</a></li>
+<li><a href="/wiki/Pforzheim" title="Pforzheim">Pforzheim</a></li>
+<li><a href="/wiki/Potsdam" title="Potsdam">Potsdam</a></li>
+<li><a href="/wiki/Recklinghausen" title="Recklinghausen">Recklinghausen</a></li>
+<li><a href="/wiki/Regensburg" title="Regensburg">Regensburg</a></li>
+<li><a href="/wiki/Remscheid" title="Remscheid">Remscheid</a></li>
+<li><a href="/wiki/Reutlingen" title="Reutlingen">Reutlingen</a></li>
+<li><a href="/wiki/Saarbr%C3%BCcken" title="Saarbrücken">Saarbrücken</a></li>
+<li><a href="/wiki/Salzgitter" title="Salzgitter">Salzgitter</a></li>
+<li><a href="/wiki/Siegen" title="Siegen">Siegen</a></li>
+<li><a href="/wiki/Solingen" title="Solingen">Solingen</a></li>
+<li><a href="/wiki/Trier" title="Trier">Trier</a></li>
+<li><a href="/wiki/Ulm" title="Ulm">Ulm</a></li>
+<li><a href="/wiki/Wolfsburg" title="Wolfsburg">Wolfsburg</a></li>
+<li><a href="/wiki/W%C3%BCrzburg" title="Würzburg">Würzburg</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/List_of_cities_and_towns_in_Germany" title="List of cities and towns in Germany">complete list</a></li>
+<li><a href="/wiki/List_of_municipalities_in_Germany" title="List of municipalities in Germany">municipalities</a></li>
+<li><a href="/wiki/Metropolitan_regions_in_Germany" title="Metropolitan regions in Germany">metropolitan regions</a></li>
+<li><a class="mw-selflink selflink">cities with more than 100,000 inhabitants</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1250
+Cached time: 20171013194722
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.976 seconds
+Real time usage: 1.047 seconds
+Preprocessor visited node count: 21412/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 284665/2097152 bytes
+Template argument size: 24271/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 1/500
+Lua time usage: 0.384/10.000 seconds
+Lua memory usage: 4.93 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  764.981      1 -total
+ 36.44%  278.745     79 Template:Change
+ 34.33%  262.627     79 Template:Change/rowIonSoff
+ 28.97%  221.593    158 Template:Convert
+ 25.21%  192.832     79 Template:Change/outIonSon
+ 16.92%  129.439     79 Template:Coord
+ 10.82%   82.746     79 Template:Ntsh
+  7.28%   55.702      1 Template:Reflist
+  7.09%   54.222     76 Template:Number_table_sorting/Qyes/0
+  5.68%   43.471      3 Template:Cite_web
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:21863332-0!canonical and timestamp 20171013194721 and revision id 800149449
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=List_of_cities_in_Germany_by_population&amp;oldid=800149449">https://en.wikipedia.org/w/index.php?title=List_of_cities_in_Germany_by_population&amp;oldid=800149449</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Lists_of_cities_in_Germany" title="Category:Lists of cities in Germany">Lists of cities in Germany</a></li><li><a href="/wiki/Category:Lists_of_cities_by_population" title="Category:Lists of cities by population">Lists of cities by population</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_German-language_sources_(de)" title="Category:CS1 German-language sources (de)">CS1 German-language sources (de)</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=List+of+cities+in+Germany+by+population" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=List+of+cities+in+Germany+by+population" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/List_of_cities_in_Germany_by_population" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:List_of_cities_in_Germany_by_population" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="collapsible selected"><span><a href="/wiki/List_of_cities_in_Germany_by_population">Read</a></span></li>
+							<li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=List_of_cities_in_Germany_by_population&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=List_of_cities_in_Germany_by_population&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/List_of_cities_in_Germany_by_population" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/List_of_cities_in_Germany_by_population" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=List_of_cities_in_Germany_by_population&amp;oldid=800149449" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=List_of_cities_in_Germany_by_population&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4242225" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=List_of_cities_in_Germany_by_population&amp;id=800149449" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=List+of+cities+in+Germany+by+population">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=List+of+cities+in+Germany+by+population&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=List_of_cities_in_Germany_by_population&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AF%D9%86_%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7_%D8%AD%D8%B3%D8%A8_%D8%B9%D8%AF%D8%AF_%D8%A7%D9%84%D8%B3%D9%83%D8%A7%D9%86" title="قائمة مدن ألمانيا حسب عدد السكان – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Almaniya_%C5%9F%C9%99h%C9%99rl%C9%99rinin_siyah%C4%B1s%C4%B1" title="Almaniya şəhərlərinin siyahısı – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D8%A2%D9%84%D9%85%D8%A7%D9%86_%D8%B4%D9%87%D8%B1%D9%84%D8%B1%DB%8C%D9%86_%D9%86%DB%86%D9%81%D9%88%D8%B3%D8%A7_%DA%AF%D8%A4%D8%B1%D9%87_%D8%B3%DB%8C%D8%B1%D8%A7%D9%84%D8%A7%D9%86%D9%85%D8%A7%D8%B3%DB%8C" title="آلمان شهرلرین نۆفوسا گؤره سیرالانماسی – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D1%8A%D0%BA_%D0%BD%D0%B0_%D0%B3%D1%80%D0%B0%D0%B4%D0%BE%D0%B2%D0%B5%D1%82%D0%B5_%D0%B2_%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F" title="Списък на градовете в Германия – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bar"><a href="https://bar.wikipedia.org/wiki/Grou%C3%9Fst%C3%A4dt_in_Deitschland" title="Groußstädt in Deitschland – Bavarian" lang="bar" hreflang="bar" class="interlanguage-link-target">Boarisch</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Spisak_gradova_u_Njema%C4%8Dkoj_po_broju_stanovnika" title="Spisak gradova u Njemačkoj po broju stanovnika – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Llista_de_les_grans_ciutats_d%27Alemanya" title="Llista de les grans ciutats d'Alemanya – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Seznam_m%C4%9Bst_v_N%C4%9Bmecku" title="Seznam měst v Německu – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/St%C3%B8rste_byer_i_Tyskland" title="Største byer i Tyskland – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de badge-Q17506997 badge-featuredlist" title="featured list"><a href="https://de.wikipedia.org/wiki/Liste_der_Gro%C3%9Fst%C3%A4dte_in_Deutschland" title="Liste der Großstädte in Deutschland – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%9A%CE%B1%CF%84%CE%AC%CE%BB%CE%BF%CE%B3%CE%BF%CF%82_%CF%80%CF%8C%CE%BB%CE%B5%CF%89%CE%BD_%CF%84%CE%B7%CF%82_%CE%93%CE%B5%CF%81%CE%BC%CE%B1%CE%BD%CE%AF%CE%B1%CF%82" title="Κατάλογος πόλεων της Γερμανίας – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Anexo:Ciudades_alemanas_por_poblaci%C3%B3n" title="Anexo:Ciudades alemanas por población – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Listo_de_grandurboj_en_Germanio_per_populacio" title="Listo de grandurboj en Germanio per populacio – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Alemaniako_hiri_nagusien_zerrenda" title="Alemaniako hiri nagusien zerrenda – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%81%D9%87%D8%B1%D8%B3%D8%AA_%D8%B4%D9%87%D8%B1%D9%87%D8%A7%DB%8C_%D8%A8%D8%A7_%D8%A8%DB%8C%D8%B4_%D8%A7%D8%B2_%DB%B1%DB%B0%DB%B0%D9%AC%DB%B0%DB%B0%DB%B0_%D9%86%D9%81%D8%B1_%D8%AC%D9%85%D8%B9%DB%8C%D8%AA_%D8%A2%D9%84%D9%85%D8%A7%D9%86" title="فهرست شهرهای با بیش از ۱۰۰٬۰۰۰ نفر جمعیت آلمان – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fo"><a href="https://fo.wikipedia.org/wiki/Listi_yvir_st%C3%B8rstu_b%C3%BDir_%C3%AD_T%C3%BDsklandi" title="Listi yvir størstu býir í Týsklandi – Faroese" lang="fo" hreflang="fo" class="interlanguage-link-target">Føroyskt</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Liste_des_plus_grandes_villes_d%27Allemagne" title="Liste des plus grandes villes d'Allemagne – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/List_fan_grutste_st%C3%AAden_yn_D%C3%BAtsl%C3%A2n" title="List fan grutste stêden yn Dútslân – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%8F%85%EC%9D%BC%EC%9D%98_%EC%9D%B8%EA%B5%AC%EC%88%9C_%EB%8F%84%EC%8B%9C_%EB%AA%A9%EB%A1%9D" title="독일의 인구순 도시 목록 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%B3%D5%A5%D6%80%D5%B4%D5%A1%D5%B6%D5%AB%D5%A1%D5%B5%D5%AB_%D6%84%D5%A1%D5%B2%D5%A1%D6%84%D5%B6%D5%A5%D6%80%D5%AB_%D6%81%D5%A1%D5%B6%D5%AF_%D5%A8%D5%BD%D5%BF_%D5%A2%D5%B6%D5%A1%D5%AF%D5%B9%D5%B8%D6%82%D5%A9%D5%B5%D5%A1%D5%B6" title="Գերմանիայի քաղաքների ցանկ ըստ բնակչության – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Sni%C3%B0:Prettytable" title="Snið:Prettytable – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Grandi_citt%C3%A0_della_Germania" title="Grandi città della Germania – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%92%E1%83%94%E1%83%A0%E1%83%9B%E1%83%90%E1%83%9C%E1%83%98%E1%83%98%E1%83%A1_%E1%83%93%E1%83%98%E1%83%93%E1%83%98_%E1%83%A5%E1%83%90%E1%83%9A%E1%83%90%E1%83%A5%E1%83%94%E1%83%91%E1%83%98%E1%83%A1_%E1%83%A1%E1%83%98%E1%83%90" title="გერმანიის დიდი ქალაქების სია – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Orodha_ya_miji_ya_Ujerumani" title="Orodha ya miji ya Ujerumani – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Index_maximarum_urbium_Germaniae" title="Index maximarum urbium Germaniae – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/N%C3%A9metorsz%C3%A1g_nagyv%C3%A1rosai" title="Németország nagyvárosai – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BD%D0%B0_%D0%B3%D1%80%D0%B0%D0%B4%D0%BE%D0%B2%D0%B8_%D0%B2%D0%BE_%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%98%D0%B0_%D1%81%D0%BE_%D0%BF%D0%BE%D0%B2%D0%B5%D1%9C%D0%B5_%D0%BE%D0%B4_100.000_%D0%B6%D0%B8%D1%82%D0%B5%D0%BB%D0%B8" title="Список на градови во Германија со повеќе од 100.000 жители – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Lijst_van_grote_Duitse_steden" title="Lijst van grote Duitse steden – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Liste_over_st%C3%B8rste_byer_i_Tyskland" title="Liste over største byer i Tyskland – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/List_vun_de_Grootst%C3%A4der_in_D%C3%BC%C3%BCtschland" title="List vun de Grootstäder in Düütschland – Low German" lang="nds" hreflang="nds" class="interlanguage-link-target">Plattdüütsch</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Lista_wi%C4%99kszych_miast_w_Niemczech" title="Lista większych miast w Niemczech – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Lista_ora%C8%99elor_Germaniei_dup%C4%83_m%C4%83rime" title="Lista orașelor Germaniei după mărime – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D1%83%D0%BF%D0%BD%D0%B5%D0%B9%D1%88%D0%B8%D0%B5_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0_%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D0%B8" title="Крупнейшие города Германии – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Leet_o_ceeties_in_Germany_bi_population" title="Leet o ceeties in Germany bi population – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/List_of_cities_in_Germany_with_more_than_100,000_inhabitants" title="List of cities in Germany with more than 100,000 inhabitants – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Zoznam_miest_v_Nemecku" title="Zoznam miest v Nemecku – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_storst%C3%A4der_i_Tyskland" title="Lista över storstäder i Tyskland – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/N%C3%BCfuslar%C4%B1na_g%C3%B6re_Almanya%27daki_%C5%9Fehirler" title="Nüfuslarına göre Almanya'daki şehirler – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_nh%E1%BB%AFng_th%C3%A0nh_ph%E1%BB%91_l%E1%BB%9Bn_c%E1%BB%A7a_%C4%90%E1%BB%A9c" title="Danh sách những thành phố lớn của Đức – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%BE%B7%E5%9B%BD%E5%9F%8E%E5%B8%82%E5%88%97%E8%A1%A8_(%E6%8C%89%E4%BA%BA%E5%8F%A3%E6%8E%92%E5%88%97)" title="德国城市列表 (按人口排列) – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4242225#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 11 September 2017, at 19:45.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=List_of_cities_in_Germany_by_population&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.976","walltime":"1.047","ppvisitednodes":{"value":21412,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":284665,"limit":2097152},"templateargumentsize":{"value":24271,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  764.981      1 -total"," 36.44%  278.745     79 Template:Change"," 34.33%  262.627     79 Template:Change/rowIonSoff"," 28.97%  221.593    158 Template:Convert"," 25.21%  192.832     79 Template:Change/outIonSon"," 16.92%  129.439     79 Template:Coord"," 10.82%   82.746     79 Template:Ntsh","  7.28%   55.702      1 Template:Reflist","  7.09%   54.222     76 Template:Number_table_sorting/Qyes/0","  5.68%   43.471      3 Template:Cite_web"]},"scribunto":{"limitreport-timeusage":{"value":"0.384","limit":"10.000"},"limitreport-memusage":{"value":5165506,"limit":52428800}},"cachereport":{"origin":"mw1250","timestamp":"20171013194722","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":84,"wgHostname":"mw1215"});});</script>
+	</body>
+</html>

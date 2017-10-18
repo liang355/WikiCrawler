@@ -1,0 +1,427 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Samuel Webber - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Samuel_Webber","wgTitle":"Samuel Webber","wgCurRevisionId":730559192,"wgRevisionId":730559192,"wgArticleId":783497,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles incorporating a citation from Appleton's Cyclopedia","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with NLA identifiers","Wikipedia articles with SNAC-ID identifiers","18th-century American mathematicians","19th-century American mathematicians","Harvard University alumni","Presidents of Harvard University","American Congregationalists","Fellows of the American Academy of Arts and Sciences","1759 births","1810 deaths","Hollis Chair of Mathematics and Natural Philosophy"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Samuel_Webber","wgRelevantArticleId":783497,"wgRequestId":"WeWijQpAEKgAAEnCPocAAAFX","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q7412898","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.math.scripts","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.3"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Samuel_Webber"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Samuel_Webber&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Samuel_Webber&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Samuel_Webber"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Samuel_Webber rootpage-Samuel_Webber vector-experimental-print-styles vector-nav-directionality skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Samuel Webber</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox vcard" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size: 130%;"><span class="fn">Samuel Webber</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background:lavender">President of <a href="/wiki/Harvard_University" title="Harvard University">Harvard University</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;border-bottom:none"><span class="nowrap"><b>In office</b></span><br />
+1804–1810</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left"><span class="nowrap">Preceded by</span></th>
+<td><a href="/wiki/Eliphalet_Pearson" title="Eliphalet Pearson">Eliphalet Pearson</a> <small><i>acting</i></small></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left"><span class="nowrap">Succeeded by</span></th>
+<td><a href="/wiki/John_Thornton_Kirkland" title="John Thornton Kirkland">John Thornton Kirkland</a></td>
+</tr>
+<tr style="display:none">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background:lavender">Personal details</th>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td>1759<br />
+<a href="/wiki/Byfield,_Massachusetts" title="Byfield, Massachusetts">Byfield, Massachusetts</a></td>
+</tr>
+<tr>
+<th scope="row">Died</th>
+<td>July 17, 1810 (aged&#160;50–51)<br />
+<a href="/wiki/Cambridge,_Massachusetts" title="Cambridge, Massachusetts">Cambridge, Massachusetts</a></td>
+</tr>
+</table>
+<p><b>Samuel Webber</b> (1759 – July 17, 1810) was an <a href="/wiki/United_States" title="United States">American</a> <a href="/wiki/Clergyman" class="mw-redirect" title="Clergyman">clergyman</a>, <a href="/wiki/Mathematician" title="Mathematician">mathematician</a>, <a href="/wiki/Academic" class="mw-redirect" title="Academic">academic</a>, and president of <a href="/wiki/Harvard_University" title="Harvard University">Harvard University</a> from 1806 until his death in 1810.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Family"><span class="tocnumber">2</span> <span class="toctext">Family</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Works"><span class="tocnumber">3</span> <span class="toctext">Works</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Samuel_Webber&amp;action=edit&amp;section=1" title="Edit section: Biography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Webber was educated at Dummer Academy (now known as <a href="/wiki/The_Governor%27s_Academy" title="The Governor's Academy">The Governor's Academy</a>) and <a href="/wiki/Harvard_College" title="Harvard College">Harvard College</a> (<a href="/wiki/Bachelor_of_Arts" title="Bachelor of Arts">B.A.</a>, 1784; <a href="/wiki/Master%27s_degree" title="Master's degree">M.A.</a>, 1787) where he distinguished himself in <a href="/wiki/Mathematics" title="Mathematics">mathematics</a>. He was a member of the <a href="/wiki/Hasty_Pudding_Theatricals" title="Hasty Pudding Theatricals">Hasty Pudding</a>. Webber was ordained as <a href="/wiki/Congregational_Church" class="mw-redirect" title="Congregational Church">Congregational</a> minister in 1787 and two years later became <a href="/wiki/Hollis_Chair_of_Mathematics_and_Natural_Philosophy" title="Hollis Chair of Mathematics and Natural Philosophy">Hollis Professor of Mathematick and Natural Philosophy</a> at Harvard.<sup id="cite_ref-Quin1915_1-0" class="reference"><a href="#cite_note-Quin1915-1">[1]</a></sup> He served in the commission that drew the boundaries, later recognized by the <a href="/wiki/Treaty_of_Paris_(1783)" title="Treaty of Paris (1783)">Treaty of Paris</a>, between the new <a href="/wiki/United_States_of_America" class="mw-redirect" title="United States of America">United States of America</a> and the surrounding <a href="/wiki/United_Kingdom" title="United Kingdom">British</a> provinces. He was elected a Fellow of the <a href="/wiki/American_Academy_of_Arts_and_Sciences" title="American Academy of Arts and Sciences">American Academy of Arts and Sciences</a> in 1789<sup id="cite_ref-AAAS_2-0" class="reference"><a href="#cite_note-AAAS-2">[2]</a></sup> and also served as vice-president of the Academy. He authored <i>System of Mathematics</i>, which for many years served as the only textbook on the subject in <a href="/wiki/New_England" title="New England">New England</a>.<sup id="cite_ref-appletons_3-0" class="reference"><a href="#cite_note-appletons-3">[3]</a></sup></p>
+<p>Webber was appointed <a href="/wiki/President_of_Harvard_University" title="President of Harvard University">president</a> of Harvard in 1806. That same year he received an honorary <a href="/wiki/Doctor_of_Divinity" title="Doctor of Divinity">Doctor of Divinity</a> degree from that institution. He led Harvard until his death in 1810.</p>
+<h2><span class="mw-headline" id="Family">Family</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Samuel_Webber&amp;action=edit&amp;section=2" title="Edit section: Family">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Webber married Anna Winslow Green, a granddaughter of <a href="/wiki/David_Mathews" title="David Mathews">David Mathews</a>, <a href="/wiki/Loyalist" class="mw-redirect" title="Loyalist">Loyalist</a> <a href="/wiki/Mayor_of_New_York_City" title="Mayor of New York City">Mayor of New York City</a> under the <a href="/wiki/Great_Britain" title="Great Britain">British</a> during the <a href="/wiki/American_Revolution" title="American Revolution">American Revolution</a>. Webber's son, also named Samuel (September 15, 1797 <a href="/wiki/Cambridge,_Massachusetts" title="Cambridge, Massachusetts">Cambridge, Massachusetts</a> – December 5, 1880 <a href="/wiki/Charlestown,_New_Hampshire" title="Charlestown, New Hampshire">Charlestown, New Hampshire</a>), was a distinguished <a href="/wiki/Physician" title="Physician">physician</a>, <a href="/wiki/Chemist" title="Chemist">chemist</a> and author.<sup id="cite_ref-appletons_3-1" class="reference"><a href="#cite_note-appletons-3">[3]</a></sup></p>
+<h2><span class="mw-headline" id="Works">Works</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Samuel_Webber&amp;action=edit&amp;section=3" title="Edit section: Works">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>“Introduction” to <a href="/wiki/Jedidiah_Morse" title="Jedidiah Morse">Jedidiah Morse</a>, <i>American Universal Geography</i>, 1796 (revision)</li>
+<li><i>System of Mathematics</i>, (2 vols.), 1801</li>
+<li><i>Eulogy on President Willard</i>, 1804</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Samuel_Webber&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-Quin1915-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Quin1915_1-0">^</a></b></span> <span class="reference-text"><cite class="citation book"><a rel="nofollow" class="external text" href="https://books.google.com/books?id=JiNOAAAAMAAJ&amp;pg=PA21#v=onepage&amp;q&amp;f=false"><i>Quinquennial catalogue of the officers and graduates of Harvard university, 1636–1915</i></a>. Cambridge, MA: <a href="/wiki/Harvard_University_Press" title="Harvard University Press">Harvard University Press</a>. 1915. p.&#160;21<span class="reference-accessdate">. Retrieved <span class="nowrap">May 24,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASamuel+Webber&amp;rft.btitle=Quinquennial+catalogue+of+the+officers+and+graduates+of+Harvard+university%2C+1636%E2%80%931915&amp;rft.date=1915&amp;rft.genre=book&amp;rft.pages=21&amp;rft.place=Cambridge%2C+MA&amp;rft.pub=Harvard+University+Press&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DJiNOAAAAMAAJ%26pg%3DPA21%23v%3Donepage%26q%26f%3Dfalse&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-AAAS-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-AAAS_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.amacad.org/publications/BookofMembers/ChapterW.pdf">"Book of Members, 1780–2010: Chapter W"</a> <span style="font-size:85%;">(PDF)</span>. American Academy of Arts and Sciences<span class="reference-accessdate">. Retrieved <span class="nowrap">August 7,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASamuel+Webber&amp;rft.btitle=Book+of+Members%2C+1780%E2%80%932010%3A+Chapter+W&amp;rft.genre=unknown&amp;rft.pub=American+Academy+of+Arts+and+Sciences&amp;rft_id=http%3A%2F%2Fwww.amacad.org%2Fpublications%2FBookofMembers%2FChapterW.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-appletons-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-appletons_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-appletons_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><img alt="Wikisource-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png" width="12" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/18px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/24px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" />&#160;<cite class="citation encyclopaedia">Wilson, James Grant; Fiske, John, eds. (1889). "<a href="https://en.wikisource.org/wiki/Appletons%27_Cyclop%C3%A6dia_of_American_Biography/Webber,_Samuel" class="extiw" title="s:Appletons' Cyclopædia of American Biography/Webber, Samuel">Webber, Samuel</a>". <i><a href="/wiki/Appletons%27_Cyclop%C3%A6dia_of_American_Biography" title="Appletons' Cyclopædia of American Biography">Appletons' Cyclopædia of American Biography</a></i>. New York: D. Appleton.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASamuel+Webber&amp;rft.atitle=Webber%2C+Samuel&amp;rft.btitle=Appletons%27+Cyclop%C3%A6dia+of+American+Biography&amp;rft.date=1889&amp;rft.genre=bookitem&amp;rft.place=New+York&amp;rft.pub=D.+Appleton&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+</div>
+<table class="wikitable succession-box" style="margin:0.5em auto; font-size:95%;clear:both;">
+<tr>
+<th colspan="3" style="border-top: 5px solid #DAA520;">Academic offices</th>
+</tr>
+<tr style="text-align:center;">
+<td style="width:30%;" rowspan="1">Preceded&#160;by<br />
+<span style="font-weight: bold"><a href="/wiki/Eliphalet_Pearson" title="Eliphalet Pearson">Eliphalet Pearson</a>, <i>acting</i></span></td>
+<td style="width: 40%; text-align: center;" rowspan="1"><b><a href="/wiki/President_of_Harvard_University" title="President of Harvard University">President of Harvard University</a></b><br />
+1806–1810</td>
+<td style="width: 30%; text-align: center;" rowspan="1">Succeeded&#160;by<br />
+<span style="font-weight: bold"><a href="/wiki/John_Thornton_Kirkland" title="John Thornton Kirkland">John Thornton Kirkland</a></span></td>
+</tr>
+<tr style="text-align:center;">
+<td style="width:30%;" rowspan="1">Preceded&#160;by<br />
+<span style="font-weight: bold"><a href="/w/index.php?title=Samuel_Williams_(Harvard)&amp;action=edit&amp;redlink=1" class="new" title="Samuel Williams (Harvard) (page does not exist)">Samuel Williams</a></span></td>
+<td style="width: 40%; text-align: center;" rowspan="1"><b><a href="/wiki/Hollis_Chair_of_Mathematics_and_Natural_Philosophy" title="Hollis Chair of Mathematics and Natural Philosophy">Hollis Chair of Mathematics and Natural Philosophy</a></b><br />
+1789-1806</td>
+<td style="width: 30%; text-align: center;" rowspan="1">Succeeded&#160;by<br />
+<span style="font-weight: bold"><a href="/wiki/John_Farrar_(scientist)" title="John Farrar (scientist)">John Farrar</a></span></td>
+</tr>
+</table>
+<div role="navigation" class="navbox" aria-labelledby="Presidents_of_Harvard_University" style="padding:3px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Harvard_University_presidents" title="Template:Harvard University presidents"><abbr title="View this template" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Harvard_University_presidents" title="Template talk:Harvard University presidents"><abbr title="Discuss this template" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Harvard_University_presidents&amp;action=edit"><abbr title="Edit this template" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Presidents_of_Harvard_University" style="font-size:114%;margin:0 4em"><a href="/wiki/President_of_Harvard_University" title="President of Harvard University"><span style="color:white">Presidents of Harvard University</span></a></div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a href="/wiki/Nathaniel_Eaton" title="Nathaniel Eaton">Eaton</a><sup>†</sup> (1637–1639)</span></li>
+<li><span class="nowrap"><a href="/wiki/Henry_Dunster" title="Henry Dunster">Dunster</a> (1640–1654)</span></li>
+<li><span class="nowrap"><a href="/wiki/Charles_Chauncy" title="Charles Chauncy">Chauncy</a> (1654–1672)</span></li>
+<li><span class="nowrap"><a href="/wiki/Leonard_Hoar" title="Leonard Hoar">Hoar</a> (1672–1675)</span></li>
+<li><span class="nowrap"><a href="/wiki/Urian_Oakes" title="Urian Oakes">Oakes</a> (1675–1681)</span></li>
+<li><span class="nowrap"><a href="/wiki/John_Rogers_(Harvard)" title="John Rogers (Harvard)">Rogers</a> (1682–1684)</span></li>
+<li><span class="nowrap"><a href="/wiki/Increase_Mather" title="Increase Mather">Mather</a> # (1685–1701)</span></li>
+<li><span class="nowrap"><a href="/wiki/Samuel_Willard" title="Samuel Willard">S. Willard</a> # (1701–1707)</span></li>
+<li><span class="nowrap"><a href="/wiki/John_Leverett_the_Younger" title="John Leverett the Younger">Leverett</a> (1708–1724)</span></li>
+<li><span class="nowrap"><a href="/wiki/Benjamin_Wadsworth" title="Benjamin Wadsworth">Wadsworth</a> (1725–1737)</span></li>
+<li><span class="nowrap"><a href="/wiki/Edward_Holyoke" title="Edward Holyoke">Holyoke</a> (1737–1769)</span></li>
+<li><span class="nowrap"><a href="/wiki/John_Winthrop_(educator)" title="John Winthrop (educator)">Winthrop</a> # (1769)</span></li>
+<li><span class="nowrap"><a href="/wiki/Samuel_Locke" title="Samuel Locke">Locke</a> # (1770–1773)</span></li>
+<li><span class="nowrap">Winthrop # (1773)</span></li>
+<li><span class="nowrap"><a href="/wiki/Samuel_Langdon" title="Samuel Langdon">Langdon</a> (1774–1780)</span></li>
+<li><span class="nowrap"><a href="/wiki/Joseph_Willard" title="Joseph Willard">J. Willard</a> (1781–1804)</span></li>
+<li><span class="nowrap"><a href="/wiki/Eliphalet_Pearson" title="Eliphalet Pearson">Pearson</a> # (1804–1806)</span></li>
+<li><span class="nowrap"><a class="mw-selflink selflink">Webber</a> (1806–1810)</span></li>
+<li><span class="nowrap"><a href="/wiki/John_Thornton_Kirkland" title="John Thornton Kirkland">Kirkland</a> (1810–1828)</span></li>
+<li><span class="nowrap"><a href="/wiki/Josiah_Quincy_III" title="Josiah Quincy III">Quincy</a> (1829–1845)</span></li>
+<li><span class="nowrap"><a href="/wiki/Edward_Everett" title="Edward Everett">Everett</a> (1846–1849)</span></li>
+<li><span class="nowrap"><a href="/wiki/Jared_Sparks" title="Jared Sparks">Sparks</a> (1849–1853)</span></li>
+<li><span class="nowrap"><a href="/wiki/James_Walker_(Harvard)" title="James Walker (Harvard)">Walker</a> (1853–1860)</span></li>
+<li><span class="nowrap"><a href="/wiki/Cornelius_Conway_Felton" title="Cornelius Conway Felton">Felton</a> (1860–1862)</span></li>
+<li><span class="nowrap"><a href="/wiki/Thomas_Hill_(clergyman)" title="Thomas Hill (clergyman)">Hill</a> (1862–1868)</span></li>
+<li><span class="nowrap"><a href="/wiki/Charles_William_Eliot" title="Charles William Eliot">Eliot</a> (1869–1909)</span></li>
+<li><span class="nowrap"><a href="/wiki/Abbott_Lawrence_Lowell" title="Abbott Lawrence Lowell">Lowell</a> (1909–1933)</span></li>
+<li><span class="nowrap"><a href="/wiki/James_Bryant_Conant" title="James Bryant Conant">Conant</a> (1933–1953)</span></li>
+<li><span class="nowrap"><a href="/wiki/Nathan_M._Pusey" title="Nathan M. Pusey">Pusey</a> (1953–1971)</span></li>
+<li><span class="nowrap"><a href="/wiki/Derek_Bok" title="Derek Bok">Bok</a> (1971–1991)</span></li>
+<li><span class="nowrap"><a href="/wiki/Neil_Leon_Rudenstine" class="mw-redirect" title="Neil Leon Rudenstine">Rudenstine</a> (1991–2001)</span></li>
+<li><span class="nowrap"><a href="/wiki/Lawrence_Summers" title="Lawrence Summers">Summers</a> (2001–2006)</span></li>
+<li><span class="nowrap"><a href="/wiki/Derek_Bok" title="Derek Bok">Bok</a> # (2006–2007)</span></li>
+<li><span class="nowrap"><a href="/wiki/Drew_Gilpin_Faust" title="Drew Gilpin Faust">Faust</a> (2007– )</span></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;">
+<div><sup>†</sup> – Eaton was known as the Schoolmaster;<span class="nowrap">&#160;</span># indicates acting president</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Hollis_Chair_of_Mathematics_and_Natural_Philosophy" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Hollisian_Professors_of_Mathematics" title="Template:Hollisian Professors of Mathematics"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/w/index.php?title=Template_talk:Hollisian_Professors_of_Mathematics&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Hollisian Professors of Mathematics (page does not exist)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Hollisian_Professors_of_Mathematics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Hollis_Chair_of_Mathematics_and_Natural_Philosophy" style="font-size:114%;margin:0 4em"><a href="/wiki/Hollis_Chair_of_Mathematics_and_Natural_Philosophy" title="Hollis Chair of Mathematics and Natural Philosophy">Hollis Chair of Mathematics and Natural Philosophy</a></div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Isaac_Greenwood" title="Isaac Greenwood">Isaac Greenwood</a> <small>(1727)</small></li>
+<li><a href="/wiki/John_Winthrop_(educator)" title="John Winthrop (educator)">John Winthrop</a> <small>(1737)</small></li>
+<li><a href="/w/index.php?title=Samuel_Williams_(Harvard)&amp;action=edit&amp;redlink=1" class="new" title="Samuel Williams (Harvard) (page does not exist)">Samuel Williams</a> <small>(1779)</small></li>
+<li><a class="mw-selflink selflink">Samuel Webber</a> <small>(1789)</small></li>
+<li><a href="/wiki/John_Farrar_(scientist)" title="John Farrar (scientist)">John Farrar</a> <small>(1807)</small></li>
+<li><a href="/wiki/Joseph_Lovering" title="Joseph Lovering">Joseph Lovering</a> <small>(1838)</small></li>
+<li><a href="/wiki/Benjamin_Osgood_Peirce" title="Benjamin Osgood Peirce">Benjamin Osgood Peirce</a> <small>(1888)</small></li>
+<li><a href="/wiki/Wallace_Clement_Sabine" title="Wallace Clement Sabine">Wallace Clement Sabine</a> <small>(1914)</small></li>
+<li><small>(1919-1921)</small></li>
+<li><a href="/wiki/Theodore_Lyman" title="Theodore Lyman">Theodore Lyman</a> <small>(1921)</small></li>
+<li><a href="/wiki/Percy_Williams_Bridgman" title="Percy Williams Bridgman">Percy Williams Bridgman</a> <small>(1926)</small></li>
+<li><a href="/wiki/John_Hasbrouck_Van_Vleck" title="John Hasbrouck Van Vleck">John Hasbrouck Van Vleck</a> <small>(1951)</small></li>
+<li><a href="/wiki/Andrew_M._Gleason" title="Andrew M. Gleason">Andrew Gleason</a> <small>(1969)</small></li>
+<li><a href="/wiki/Bertrand_Halperin" title="Bertrand Halperin">Bertrand Halperin</a> <small>(1992)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/77815801">WorldCat Identities</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/77815801">77815801</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n86840653">n86840653</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000067012998">0000 0000 6701 2998</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/National_Library_of_Australia" title="National Library of Australia">NLA</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://nla.gov.au/anbd.aut-an35595711">35595711</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Institute_for_Advanced_Technology_in_the_Humanities" title="Institute for Advanced Technology in the Humanities">IATH</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://socialarchive.iath.virginia.edu/ark:/99166/w65b1mn5">w65b1mn5</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1213
+Cached time: 20171017062622
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.360 seconds
+Real time usage: 0.421 seconds
+Preprocessor visited node count: 8774/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 41552/2097152 bytes
+Template argument size: 1681/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 0/500
+Lua time usage: 0.118/10.000 seconds
+Lua memory usage: 3.31 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  377.613      1 -total
+ 58.82%  222.109      1 Template:Infobox_officeholder
+ 41.71%  157.497      3 Template:Infobox
+ 18.95%   71.562     17 Template:Infobox_officeholder/office
+ 16.62%   62.748      1 Template:Reflist
+  9.89%   37.355      2 Template:Navbox
+  9.36%   35.334      1 Template:Harvard_University_presidents
+  8.54%   32.231      1 Template:Cite_book
+  7.78%   29.374      1 Template:Authority_control
+  5.25%   19.819      1 Template:CollegePrimaryStyle
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:783497-0!canonical and timestamp 20171017062621 and revision id 730559192
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Samuel_Webber&amp;oldid=730559192">https://en.wikipedia.org/w/index.php?title=Samuel_Webber&amp;oldid=730559192</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:18th-century_American_mathematicians" title="Category:18th-century American mathematicians">18th-century American mathematicians</a></li><li><a href="/wiki/Category:19th-century_American_mathematicians" title="Category:19th-century American mathematicians">19th-century American mathematicians</a></li><li><a href="/wiki/Category:Harvard_University_alumni" title="Category:Harvard University alumni">Harvard University alumni</a></li><li><a href="/wiki/Category:Presidents_of_Harvard_University" title="Category:Presidents of Harvard University">Presidents of Harvard University</a></li><li><a href="/wiki/Category:American_Congregationalists" title="Category:American Congregationalists">American Congregationalists</a></li><li><a href="/wiki/Category:Fellows_of_the_American_Academy_of_Arts_and_Sciences" title="Category:Fellows of the American Academy of Arts and Sciences">Fellows of the American Academy of Arts and Sciences</a></li><li><a href="/wiki/Category:1759_births" title="Category:1759 births">1759 births</a></li><li><a href="/wiki/Category:1810_deaths" title="Category:1810 deaths">1810 deaths</a></li><li><a href="/wiki/Category:Hollis_Chair_of_Mathematics_and_Natural_Philosophy" title="Category:Hollis Chair of Mathematics and Natural Philosophy">Hollis Chair of Mathematics and Natural Philosophy</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_articles_incorporating_a_citation_from_Appleton%27s_Cyclopedia" title="Category:Wikipedia articles incorporating a citation from Appleton's Cyclopedia">Wikipedia articles incorporating a citation from Appleton's Cyclopedia</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NLA_identifiers" title="Category:Wikipedia articles with NLA identifiers">Wikipedia articles with NLA identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_SNAC-ID_identifiers" title="Category:Wikipedia articles with SNAC-ID identifiers">Wikipedia articles with SNAC-ID identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Samuel+Webber" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Samuel+Webber" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Samuel_Webber" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Samuel_Webber" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Samuel_Webber">Read</a></span></li>
+							<li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Samuel_Webber&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Samuel_Webber&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Samuel_Webber" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Samuel_Webber" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Samuel_Webber&amp;oldid=730559192" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Samuel_Webber&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7412898" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Samuel_Webber&amp;id=730559192" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Samuel+Webber">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Samuel+Webber&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Samuel_Webber&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%B3%D8%A7%D9%85%D9%88%D8%A6%D9%84_%D9%88%D8%A8%D8%B1" title="ساموئل وبر – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7412898#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 19 July 2016, at 19:58.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Samuel_Webber&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.360","walltime":"0.421","ppvisitednodes":{"value":8774,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":41552,"limit":2097152},"templateargumentsize":{"value":1681,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  377.613      1 -total"," 58.82%  222.109      1 Template:Infobox_officeholder"," 41.71%  157.497      3 Template:Infobox"," 18.95%   71.562     17 Template:Infobox_officeholder/office"," 16.62%   62.748      1 Template:Reflist","  9.89%   37.355      2 Template:Navbox","  9.36%   35.334      1 Template:Harvard_University_presidents","  8.54%   32.231      1 Template:Cite_book","  7.78%   29.374      1 Template:Authority_control","  5.25%   19.819      1 Template:CollegePrimaryStyle"]},"scribunto":{"limitreport-timeusage":{"value":"0.118","limit":"10.000"},"limitreport-memusage":{"value":3468035,"limit":52428800}},"cachereport":{"origin":"mw1213","timestamp":"20171017062622","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":515,"wgHostname":"mw1213"});});</script>
+	</body>
+</html>

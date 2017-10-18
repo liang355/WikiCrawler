@@ -1,0 +1,650 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>University-preparatory school - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"University-preparatory_school","wgTitle":"University-preparatory school","wgCurRevisionId":803094125,"wgRevisionId":803094125,"wgArticleId":299970,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing Turkish-language text","All articles with unsourced statements","Articles with unsourced statements from April 2016","Articles needing additional references from April 2016","All articles needing additional references","Use dmy dates from October 2010","School types","University-preparatory schools","High schools and secondary schools"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"University-preparatory_school","wgRelevantArticleId":299970,"wgRequestId":"WeYohApAADkAAARxJfAAAABG","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q428602","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.3"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/University-preparatory_school"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=University-preparatory_school&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=University-preparatory_school&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/University-preparatory_school"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-University-preparatory_school rootpage-University-preparatory_school vector-experimental-print-styles vector-nav-directionality skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">University-preparatory school</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">"College Prep" and "College preparatory school" redirect here. For the high school in Oakland, California, see <a href="/wiki/The_College_Preparatory_School" title="The College Preparatory School">The College Preparatory School</a>.</div>
+<p>A <b>university-preparatory school</b> or <b>college-preparatory school</b> (shortened to <b>preparatory school</b>, <b>prep school</b>, or <b>college prep</b>) is a type of <a href="/wiki/Secondary_school" title="Secondary school">secondary school</a>. The term can refer to <a href="/wiki/State_school" title="State school">public</a>, <a href="/wiki/Private_school" title="Private school">private independent</a> or <a href="/wiki/Parochial_school" title="Parochial school">parochial</a> schools primarily designed to prepare students for <a href="/wiki/Higher_education" title="Higher education">higher education</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#North_America"><span class="tocnumber">1</span> <span class="toctext">North America</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#United_States"><span class="tocnumber">1.1</span> <span class="toctext">United States</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Europe"><span class="tocnumber">2</span> <span class="toctext">Europe</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#France"><span class="tocnumber">2.1</span> <span class="toctext">France</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Germany"><span class="tocnumber">2.2</span> <span class="toctext">Germany</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Italy"><span class="tocnumber">2.3</span> <span class="toctext">Italy</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Netherlands"><span class="tocnumber">2.4</span> <span class="toctext">Netherlands</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Slovakia"><span class="tocnumber">2.5</span> <span class="toctext">Slovakia</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Spain"><span class="tocnumber">2.6</span> <span class="toctext">Spain</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#United_Kingdom"><span class="tocnumber">2.7</span> <span class="toctext">United Kingdom</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Turkey"><span class="tocnumber">2.8</span> <span class="toctext">Turkey</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Asia"><span class="tocnumber">3</span> <span class="toctext">Asia</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#South_Korea"><span class="tocnumber">3.1</span> <span class="toctext">South Korea</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Malaysia"><span class="tocnumber">3.2</span> <span class="toctext">Malaysia</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#India"><span class="tocnumber">3.3</span> <span class="toctext">India</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Pakistan"><span class="tocnumber">3.4</span> <span class="toctext">Pakistan</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Philippines"><span class="tocnumber">3.5</span> <span class="toctext">Philippines</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Singapore"><span class="tocnumber">3.6</span> <span class="toctext">Singapore</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Hong_Kong"><span class="tocnumber">3.7</span> <span class="toctext">Hong Kong</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#Japan"><span class="tocnumber">3.8</span> <span class="toctext">Japan</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-21"><a href="#Oceania"><span class="tocnumber">4</span> <span class="toctext">Oceania</span></a>
+<ul>
+<li class="toclevel-2 tocsection-22"><a href="#New_Zealand"><span class="tocnumber">4.1</span> <span class="toctext">New Zealand</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-23"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-24"><a href="#Bibliography"><span class="tocnumber">6</span> <span class="toctext">Bibliography</span></a></li>
+<li class="toclevel-1 tocsection-25"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-26"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="North_America">North America</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University-preparatory_school&amp;action=edit&amp;section=1" title="Edit section: North America">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="United_States">United States</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University-preparatory_school&amp;action=edit&amp;section=2" title="Edit section: United States">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the United States, there are <a href="/wiki/State_school" title="State school">public</a>, <a href="/wiki/Private_school" title="Private school">private</a>, and <a href="/wiki/Charter_school" title="Charter school">charter</a> college preparatory schools and they can be either <a href="/wiki/Parochial_school" title="Parochial school">parochial</a> or <a href="/wiki/Secular" class="mw-redirect" title="Secular">secular</a>. Admission is sometimes based on specific <a href="/wiki/Selective_school" title="Selective school">selection criteria</a>, usually academic, but some schools have open enrollment.<sup id="cite_ref-greatkids_1-0" class="reference"><a href="#cite_note-greatkids-1">[1]</a></sup> Fewer than 1% of students enrolled in school in the United States attend an independent, private prep school, compared to 9% who attend <a href="/wiki/Parochial_school" title="Parochial school">parochial schools</a> and 88% who attend <a href="/wiki/Public_school_(government_funded)" class="mw-redirect" title="Public school (government funded)">public schools</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (April 2016)">citation needed</span></a></i>]</sup></p>
+<p>Public and charter college prep schools are typically connected to a local <a href="/wiki/School_district" title="School district">school district</a> and draw from the entire district instead of the closest <a href="/wiki/School_zone" title="School zone">school zone</a>. Some offer specialized courses or <a href="/wiki/Curricula" class="mw-redirect" title="Curricula">curricula</a> that prepare students for a specific field of study, while others use the label as a promotional tool without offering programs that differ from a conventional high school.<sup id="cite_ref-greatkids_1-1" class="reference"><a href="#cite_note-greatkids-1">[1]</a></sup></p>
+<p>The term "prep school" in the U.S. is usually associated with private, elite institutions that have very <a href="/wiki/Selective_school" title="Selective school">selective</a> admission criteria and high tuition fees.<sup id="cite_ref-laneri_2-0" class="reference"><a href="#cite_note-laneri-2">[2]</a></sup> Prep schools can be <a href="/wiki/Day_school" title="Day school">day schools</a>, <a href="/wiki/Boarding_school" title="Boarding school">boarding schools</a>, or both, and may be <a href="/wiki/Co-educational" class="mw-redirect" title="Co-educational">co-educational</a> or <a href="/wiki/Single-sex_education" title="Single-sex education">single-sex</a>. Currently day schools are more common than boarding, and since the 1970s co-educational schools are more common than single-sex.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Unlike the public schools which are free, they charge tuition ($10,000 to 40,000+ a year in 2014)<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Some prep schools are affiliated with a particular religious denomination. Unlike parochial schools, independent preparatory schools are not governed by a religious organization, and students are usually not required to receive instruction in one particular religion. While independent prep schools in the United States are not subject to government oversight or regulation, they are <a href="/wiki/Educational_accreditation" title="Educational accreditation">accredited</a> by one of the six <a href="/wiki/Regional_accreditation" title="Regional accreditation">regional accreditation agencies</a> for educational institutions.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></p>
+<h2><span class="mw-headline" id="Europe">Europe</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University-preparatory_school&amp;action=edit&amp;section=3" title="Edit section: Europe">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Gymnasium_(school)" title="Gymnasium (school)">Gymnasium (school)</a></div>
+<table class="plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This section <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=University-preparatory_school&amp;action=edit">improve this section</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span> <small><i>(April 2016)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<p>In most parts of Europe, such as <a href="/wiki/Germany" title="Germany">Germany</a>, the <a href="/wiki/Netherlands" title="Netherlands">Netherlands</a>, <a href="/wiki/France" title="France">France</a>, <a href="/wiki/Italy" title="Italy">Italy</a>, and <a href="/wiki/Scandinavia" title="Scandinavia">Scandinavia</a>, there are state-funded secondary schools specializing in university-preparatory education. These go by many names depending on the country but may be called <a href="/wiki/Gymnasium_(school)" title="Gymnasium (school)">gymnasia</a>, <a href="/wiki/Voorbereidend_wetenschappelijk_onderwijs" title="Voorbereidend wetenschappelijk onderwijs">athenaea</a>, a <a href="/wiki/Lycee" class="mw-redirect" title="Lycee">lycee</a> or a liceo, depending on the nation.</p>
+<h3><span class="mw-headline" id="France">France</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University-preparatory_school&amp;action=edit&amp;section=4" title="Edit section: France">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In <a href="/wiki/France" title="France">France</a>, certain private or public secondary schools offer special post-secondary classes called <a href="/wiki/Classes_Pr%C3%A9paratoires" class="mw-redirect" title="Classes Préparatoires">classes préparatoires</a>, equivalent in level to the first years of <a href="/wiki/University" title="University">university</a>, for students who wish to prepare for the competitive exams for the entrance in the <a href="/wiki/Grandes_%C3%A9coles" title="Grandes écoles">Grandes écoles</a>. Unlike American prep schools then, they begin after high-school graduation. The most famous French classes préparatoires are exceptionally intensive and selective, taking only the very best students graduating from high schools but generally not charging fees. Nevertheless, there exist many less prestigious classes préparatoires. As a result, 90% of the students in the scientific classes préparatoires eventually become engineers or scientists.</p>
+<h3><span class="mw-headline" id="Germany">Germany</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University-preparatory_school&amp;action=edit&amp;section=5" title="Edit section: Germany">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Maulbronn_Hof_und_Kirche.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Maulbronn_Hof_und_Kirche.jpg/220px-Maulbronn_Hof_und_Kirche.jpg" width="220" height="145" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Maulbronn_Hof_und_Kirche.jpg/330px-Maulbronn_Hof_und_Kirche.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Maulbronn_Hof_und_Kirche.jpg/440px-Maulbronn_Hof_und_Kirche.jpg 2x" data-file-width="800" data-file-height="528" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Maulbronn_Hof_und_Kirche.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Evangelical_Seminaries_of_Maulbronn_and_Blaubeuren" title="Evangelical Seminaries of Maulbronn and Blaubeuren">Evangelical Seminaries of Maulbronn and Blaubeuren</a> - church and courtyard</div>
+</div>
+</div>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Gymnasium_(Germany)" title="Gymnasium (Germany)">Gymnasium (Germany)</a></div>
+<p>A Gymnasium (plural: Gymnasien) is a particular type of school in <a href="/wiki/Germany" title="Germany">Germany</a> and other countries in <a href="/wiki/Europe" title="Europe">Europe</a>, with the goal to prepare its pupils to enter a university.</p>
+<p>The <a href="/wiki/Gymnasium_(ancient_Greece)" title="Gymnasium (ancient Greece)">γυμνάσιον (gymnasion)</a> of <a href="/wiki/Ancient_Greece" title="Ancient Greece">Ancient Greece</a> was a place for physical and eventually also intellectual <a href="/wiki/Education" title="Education">education</a> of young men. The later meaning of intellectual education persisted in <a href="/wiki/German_language" title="German language">German</a> and other languages, whereas in <a href="/wiki/English_language" title="English language">English</a>, the older meaning of physical education was retained. The German Gymnasien are selective and competitive schools. They enroll students after completing 4th or 6th grade (depending on the "Bundesland", i.e., state) and prepare them for college. The vast majority of Gymnasien is public and does not charge tuition fees. Article 7, Paragraph 4 of the German constitution, forbids segregation of students according to the means of their parents (the so-called Sondierungsverbot). Therefore, most private Gymnasien have rather low tuition fees and/or offer scholarships.</p>
+<p>Recently, there has been some debate about the Gymnasium and some people put forward the opinion that the Gymnasien are not enrolling enough students from non-east-Asian immigrant families and from working class and lower-class families. As a result of that discussion, the <a href="/wiki/Senate_of_Berlin" title="Senate of Berlin">Senate of Berlin</a> ruled that the Gymnasien in the jurisdiction of Berlin should only be able to pick 70% to 65% of their students, the other places at the Gymnasien are to be allocated by lottery. Every child will be able to enter the lottery, no matter how he or she performed in primary school. It is hoped that this policy will increase the number of lower and working class students attending a Gymnasium.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></p>
+<p>However, according to a 2012 Forsa study for the Berlin Newspaper, the majority of the people in Berlin think that the performance in primary school should dictate whether or not someone can be enrolled at a Gymnasium. A total of zero percent was in favour of the lottery.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p>
+<p>Germany's oldest Gymnasien include <a href="/wiki/Gymnasium_Paulinum" title="Gymnasium Paulinum">Gymnasium Paulinum</a> (founded around 797), Gymnasium Theodorianum (founded in 799) and <a href="/wiki/Gymnasium_Carolinum_(Osnabr%C3%BCck)" title="Gymnasium Carolinum (Osnabrück)">Gymnasium Carolinum</a> (founded in 804).</p>
+<h3><span class="mw-headline" id="Italy">Italy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University-preparatory_school&amp;action=edit&amp;section=6" title="Edit section: Italy">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In Italy, there are several kinds of high schools, both public and private, whose curriculum has as a primary aim the preparation for university. These are called "Liceo", plural "Licei". The name comes from "Lyceum", the <a href="/wiki/Latin" title="Latin">Latin</a> rendering of the <a href="/wiki/Ancient_Greek" title="Ancient Greek">Ancient Greek</a> Λύκειον ("Lykeion"), the name of a <i><a href="/wiki/Gymnasium_(ancient_Greece)" title="Gymnasium (ancient Greece)">gymnasium</a></i> in <a href="/wiki/Classical_Athens" title="Classical Athens">Classical Athens</a> dedicated to <a href="/wiki/Apollo_Lyceus" class="mw-redirect" title="Apollo Lyceus">Apollo Lyceus</a>. <a href="/wiki/Lyceum_(Classical)" title="Lyceum (Classical)">This original Lyceum</a> is remembered as the location of the <a href="/wiki/Peripatetic_school" title="Peripatetic school">peripatetic school</a> of <a href="/wiki/Aristotle" title="Aristotle">Aristotle</a>.</p>
+<p>Until 1969, the <a href="/wiki/Liceo_Classico" class="mw-redirect" title="Liceo Classico">Liceo Classico</a> was the only secondary education track that allowed a student access to any kind of Italian university, while other secondary education tracks allowed only a restricted access path; nowadays it carries the reputation of being a highly formative school, one of the few European secondary school types where the study of ancient languages and their literature are compulsory.</p>
+<p>There are four main types of Liceo: <a href="/wiki/Liceo_Classico" class="mw-redirect" title="Liceo Classico">Liceo Classico</a> (focusing on classical subjects, such as <a href="/wiki/Italian_language" title="Italian language">Italian</a>, <a href="/wiki/Latin" title="Latin">Latin</a> and Ancient Greek studies, and traditionally divided in two years of "Ginnasio" plus three years of "Liceo"), <a href="/wiki/Liceo_Scientifico" class="mw-redirect" title="Liceo Scientifico">Liceo Scientifico</a> (lacking Greek to devote approximately equal time to the remaining classical subjects and scientific subjects), Liceo Artistico (focusing on artistic subjects as <a href="/wiki/Art_History" class="mw-redirect" title="Art History">Art History</a> and <a href="/wiki/Drawing" title="Drawing">Drawing</a> and Liceo Linguistico (focusing on foreign languages such as <a href="/wiki/French_Language" class="mw-redirect" title="French Language">French</a>, <a href="/wiki/German_Language" class="mw-redirect" title="German Language">German</a>, <a href="/wiki/Spanish_Language" class="mw-redirect" title="Spanish Language">Spanish</a>, <a href="/wiki/Chinese_language" title="Chinese language">Chinese</a>: two of these are added to the study of the mandatory language, <a href="/wiki/English_Language" class="mw-redirect" title="English Language">English</a>).</p>
+<p>Other kind of high schools, usually referred to as "technical institutes", also offer the possibility to attain university after graduation, although they also form students to have some kind of professional prospective after graduation.</p>
+<h3><span class="mw-headline" id="Netherlands">Netherlands</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University-preparatory_school&amp;action=edit&amp;section=7" title="Edit section: Netherlands">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Education_in_the_Netherlands" title="Education in the Netherlands">Education in the Netherlands</a></div>
+<p>In the <a href="/wiki/Netherlands" title="Netherlands">Netherlands</a>, the official terminology is <i><a href="/wiki/Voorbereidend_wetenschappelijk_onderwijs" title="Voorbereidend wetenschappelijk onderwijs">voorbereidend wetenschappelijk onderwijs</a></i> (or <i>vwo</i>) meaning "preparatory academic education". The vwo is divided into the <a href="/wiki/Atheneum_(school)" title="Atheneum (school)">atheneum</a> and <a href="/wiki/Gymnasium_(school)" title="Gymnasium (school)">gymnasium</a>. These are identical in duration (six years) and level of education, except that the gymnasium includes <a href="/wiki/Latin" title="Latin">Latin</a> and <a href="/wiki/Ancient_Greek" title="Ancient Greek">Ancient Greek</a> as compulsory subjects in the first few years, and a pupil must include at least one of these classical languages in his final exams. In the Netherlands, education is usually public.</p>
+<h3><span class="mw-headline" id="Slovakia">Slovakia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University-preparatory_school&amp;action=edit&amp;section=8" title="Edit section: Slovakia">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Education_in_Slovakia" title="Education in Slovakia">Education in Slovakia</a></div>
+<p>In the <a href="/wiki/Slovak_Republic" class="mw-redirect" title="Slovak Republic">Slovak Republic</a>, <a href="/wiki/Gymnasium_(school)" title="Gymnasium (school)">gymnázium</a> is one of the school types providing secondary education that leads to the <i><a href="/wiki/Maturita" class="mw-redirect" title="Maturita">maturita</a></i> exam, a prerequisite for <a href="/wiki/Higher_education_in_Slovakia" class="mw-redirect" title="Higher education in Slovakia">higher education</a>. Gymnáziums are the main school type to prepare students for tertiary education (<i><a href="/wiki/Vysok%C3%A1_%C5%A1kola" title="Vysoká škola">vysoká škola</a></i>).</p>
+<h3><span class="mw-headline" id="Spain">Spain</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University-preparatory_school&amp;action=edit&amp;section=9" title="Edit section: Spain">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a href="/wiki/International_Baccalaureate" title="International Baccalaureate">International Baccalaureate</a>'s Diploma Programme in <a href="/wiki/Spain" title="Spain">Spain</a> was created in 1968. It is a demanding pre-university course of study that leads to examinations. It is designed for highly motivated secondary school students aged 16 to 19. It recognizes the IB diploma as academically equivalent to "Titulo de bachillerato español". The programme has earned a reputation for rigorous assessment, giving IB diploma holders access to the world’s leading universities. The Diploma Programme is rigorous and is world-renowned. Each student’s performance is measured against well-defined levels of achievement and high standards of academics. These are consistent from one examination session to the next and are applied equally to all schools. The International Baccalaureate has shown that students are well prepared for university work. They are accepted by universities in more than 110 countries.</p>
+<p>One school is the Academy School in the <a href="/wiki/Balearic_Islands" title="Balearic Islands">Balearic Islands</a>, which is a member of the National Association of British Schools in <a href="/wiki/Spain" title="Spain">Spain</a>. It is inspected regularly both by British Inspectors and Inspectors from the <a href="/wiki/Spanish_Ministry_of_Education_and_Science" class="mw-redirect" title="Spanish Ministry of Education and Science">Spanish Ministry of Education and Science</a>. Among other prestigious schools are the <a href="/wiki/Hastings_School" class="mw-redirect" title="Hastings School">Hastings School</a> in <a href="/wiki/Madrid" title="Madrid">Madrid</a>, the <a href="/wiki/Caxton_College" title="Caxton College">Caxton College</a> in <a href="/wiki/Valencia,_Spain" class="mw-redirect" title="Valencia, Spain">Valencia</a>, and the Bellver International College in <a href="/wiki/Mallorca" class="mw-redirect" title="Mallorca">Mallorca</a>. These are internationally recognized by the IB Diploma Programme and academically ranked accordingly.</p>
+<p>The International Preparatory Schools are ranked and recognised by the <a href="/wiki/Spanish_Ministry_of_Education_and_Science" class="mw-redirect" title="Spanish Ministry of Education and Science">Spanish Ministry of Education and Science</a> (MEC) and all teach a minimum level of Spanish language, science, literature, geography, biology and history. The curriculum also varies from one international school to another.</p>
+<p>In addition to disciplinary and interdisciplinary study, the Diploma Programme features three core elements that broaden students’ educational experience and challenge them to apply their knowledge and skills. Students can study and take examinations, in English, French or Spanish.</p>
+<h3><span class="mw-headline" id="United_Kingdom">United Kingdom</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University-preparatory_school&amp;action=edit&amp;section=10" title="Edit section: United Kingdom">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<dl>
+<dd><i>Notes: In the UK, <a href="/wiki/Preparatory_school_(United_Kingdom)" title="Preparatory school (United Kingdom)">"prep school"</a> refers to a tuition-based school for children ages 8 to 13. In England and Wales, <a href="/wiki/Public_school_(United_Kingdom)" title="Public school (United Kingdom)">"public school"</a> refers to exclusive and private, tuition-based secondary school for children ages 13 to 18.</i></dd>
+</dl>
+<p><a href="/wiki/Comprehensive_school" title="Comprehensive school">Comprehensive schools</a> and <a href="/wiki/Sixth_form_college" title="Sixth form college">sixth form colleges</a>, which are both funded by the state, prepare students for university, as do fee-paying <a href="/wiki/Public_school_(United_Kingdom)" title="Public school (United Kingdom)">public schools</a> (so named as they are open to the public, as opposed to being restricted to a religious denomination). Historically <a href="/wiki/Grammar_school" title="Grammar school">grammar schools</a> would prepare some or most of their pupils for university entrance. Most have since been converted to comprehensive schools although 233 remain in England and Northern Ireland. The only other institutions specialising in university entrance are <a href="/wiki/Cram_school" title="Cram school">crammers</a> for (usually) privately educated pupils who have failed to gain entrance to their university of choice directly from school.</p>
+<h3><span class="mw-headline" id="Turkey">Turkey</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University-preparatory_school&amp;action=edit&amp;section=11" title="Edit section: Turkey">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In Turkey, university-preparatory schools are private schools and called <b>basic lyceum</b>(<a href="/wiki/Turkish_language" title="Turkish language">Turkish</a>: <span lang="tr" xml:lang="tr"><i>temel lise</i></span>).<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[note 1]</a></sup> They are formed in 2016 as a result of <a href="/wiki/Cram_school#Turkey" title="Cram school">anti-cramming movement initiated by Turkish government</a>. They are subsidised by Turkish government for conversion and to boost student enrolment.</p>
+<h2><span class="mw-headline" id="Asia">Asia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University-preparatory_school&amp;action=edit&amp;section=12" title="Edit section: Asia">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This section <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=University-preparatory_school&amp;action=edit">improve this section</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span> <small><i>(April 2016)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="South_Korea">South Korea</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University-preparatory_school&amp;action=edit&amp;section=13" title="Edit section: South Korea">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Education_in_South_Korea" title="Education in South Korea">Education in South Korea</a></div>
+<p>In South Korea, many high schools designated as foreign language high or science high are often considered university-preparatory schools.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[8]</a></sup></p>
+<h3><span class="mw-headline" id="Malaysia">Malaysia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University-preparatory_school&amp;action=edit&amp;section=14" title="Edit section: Malaysia">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Malaysian Higher School Certificate, or more popularly known as the <a href="/wiki/Sijil_Tinggi_Persekolahan_Malaysia" title="Sijil Tinggi Persekolahan Malaysia">Sijil Tinggi Persekolahan Malaysia</a> (STPM) is one of the two major pre-university systems for admission to Malaysian public universities. STPM students are housed at selected regular secondary schools and are known as Sixth Formers. The other Ministry programme is a one-year <a href="/wiki/Malaysian_Matriculation_Programme" title="Malaysian Matriculation Programme">Malaysian Matriculation Programme</a>, where students attend Matriculation Colleges. Both fall under the Ministry of Education. Candidates technically may apply for admission to degree-level courses with a variety of pre-university examinations considered equivalent with STPM, including A-Level.</p>
+<h3><span class="mw-headline" id="India">India</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University-preparatory_school&amp;action=edit&amp;section=15" title="Edit section: India">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In <a href="/wiki/India" title="India">India</a>, junior colleges substitute preparatory schools.</p>
+<h3><span class="mw-headline" id="Pakistan">Pakistan</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University-preparatory_school&amp;action=edit&amp;section=16" title="Edit section: Pakistan">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Aitchison_College" title="Aitchison College">Aitchison College</a>, <a href="/wiki/Sadiq_Public_School" title="Sadiq Public School">Sadiq Public School</a>, <a href="/wiki/Cadet_College_Petaro" title="Cadet College Petaro">Cadet College Petaro</a>, <a href="/wiki/Cadet_College_Hasan_Abdal" title="Cadet College Hasan Abdal">Cadet College Hasan Abdal</a>, <a href="/wiki/Army_Burn_Hall_College" title="Army Burn Hall College">Army Burn Hall College</a>, and <a href="/wiki/Lawrence_College_Ghora_Gali" class="mw-redirect" title="Lawrence College Ghora Gali">Lawrence College Ghora Gali</a> are notable preparatory schools in Pakistan.</p>
+<h3><span class="mw-headline" id="Philippines">Philippines</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University-preparatory_school&amp;action=edit&amp;section=17" title="Edit section: Philippines">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a href="/wiki/Brent_International_School" title="Brent International School">Brent International School</a> and similar schools were founded by Americans upon the American college preparatory model in the early 20th Century during the country's <a href="/wiki/History_of_the_Philippines_(1898%E2%80%931946)" title="History of the Philippines (1898–1946)">American colonial period</a>.</p>
+<h3><span class="mw-headline" id="Singapore">Singapore</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University-preparatory_school&amp;action=edit&amp;section=18" title="Edit section: Singapore">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Education_in_Singapore" title="Education in Singapore">Education in Singapore</a></div>
+<p>In <a href="/wiki/Singapore" title="Singapore">Singapore</a>, prep schools for universities are known as "junior colleges".</p>
+<h3><span class="mw-headline" id="Hong_Kong">Hong Kong</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University-preparatory_school&amp;action=edit&amp;section=19" title="Edit section: Hong Kong">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In Hong Kong, some schools offer the 2-year Advanced-level Matriculation Course particularly, such as <a href="/wiki/Hang_Seng_School_of_Commerce" title="Hang Seng School of Commerce">Hang Seng School of Commerce</a>, Po Leung Kuk Vicwood K. T. Chong Sixth Form College.</p>
+<h3><span class="mw-headline" id="Japan">Japan</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University-preparatory_school&amp;action=edit&amp;section=20" title="Edit section: Japan">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In Japan, prep schools are called "shin-gakkou" (進学校), which literally means a school used to progress into another school. Prep schools in Japan are usually considered prestigious and are often difficult to get into. However, there are many tiers of prep schools, the entry into which depends on the university that the school leads into.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[9]</a></sup> Japanese prep schools started as "chu-gakkou" (中学校), secondary schools for boys which were founded after the secondary school law in 1886. Later, "koutou-jo-gakkou" (高等女学校), secondary school for girls (1891) and "jitsugyo-gakkou" (実業学校), vocational schools (1924) were included into "chutou-gakkou" and were legally regarded as schools on the same level as school for boys, but the pupils graduated from those two types of schools were required much more criteria on college entrance. Such Japanese secondary schools in modern period were five-year schools except for a short term from 1943 to 1946. The social status of "chu-gakkou", or "kyusei chu-gakkou" (旧制中学校), secondary schools for boys under the old system didn't disappear even after the new system (6-3-3) took effect in 1947. A plenty number of "shin-gakkou" are <a href="/w/index.php?title=Six-year_schools&amp;action=edit&amp;redlink=1" class="new" title="Six-year schools (page does not exist)">six-year schools</a> these days, and many of them has their origin in "kyusei chu-gakkou" and "kotou jo-gakkou", or ones attached to universities. Japanese pupils who aspire prep school education take written examinations when they are in sixth grade in each prep school. Other than six-year prep schools, the top municipal senior high school (three-year schools) in each school zone and some high-ranked private senior high schools (ditto) are also regarded as "shin-gakkou". In the 21st Century, some trial cases that connect public junior and senior high schools are seen in each region, too, which brodens education for college entrance. As Japanese government provides grant-in-aid to private schools, the tuition is 5,000 - 10,000 US dollar per a year even if it is a private school.</p>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E4%B8%AD%E9%AB%98%E4%B8%80%E8%B2%AB%E6%A0%A1" class="extiw" title="ja:日本の中高一貫校">ja:日本の中高一貫校</a></div>
+<h2><span class="mw-headline" id="Oceania">Oceania</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University-preparatory_school&amp;action=edit&amp;section=21" title="Edit section: Oceania">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="New_Zealand">New Zealand</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University-preparatory_school&amp;action=edit&amp;section=22" title="Edit section: New Zealand">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Some of the elite private and public schools in New Zealand, for example <a href="/wiki/King%27s_College,_Auckland" title="King's College, Auckland">Kings College</a> (an <a href="/wiki/Anglican_Church_in_Aotearoa,_New_Zealand_and_Polynesia" title="Anglican Church in Aotearoa, New Zealand and Polynesia">Anglican</a> independent school) and <a href="/wiki/Auckland_Grammar_School" title="Auckland Grammar School">Auckland Grammar School</a> (a prestigious state-school in the elite central Auckland suburb of Epsom), profess their purpose to be the education of their students to attend university in preparation for a career in the professions or in the service of the nation.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University-preparatory_school&amp;action=edit&amp;section=23" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/School.svg/28px-School.svg.png" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/School.svg/42px-School.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/School.svg/56px-School.svg.png 2x" data-file-width="500" data-file-height="500" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Schools" title="Portal:Schools">Schools portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/International_Baccalaureate" title="International Baccalaureate">International Baccalaureate</a></li>
+<li><a href="/wiki/Remedial_education" title="Remedial education">Remedial education</a></li>
+<li><a href="/wiki/Gymnasium_(school)" title="Gymnasium (school)">Gymnasium (school)</a></li>
+</ul>
+<h2><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University-preparatory_school&amp;action=edit&amp;section=24" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Peter W. Cookson Jr. and Caroline Hodges Persell, <i>Preparing For Power: America's Elite Boarding Schools</i> (1987)</li>
+<li>Adam Hochschild, <i>Finding the Trapdoor: Essays, Portraits, Travels</i> (Syracuse University Press, 1997), "World on a Hilltop," pp.&#160;123–139.</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University-preparatory_school&amp;action=edit&amp;section=25" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-greatkids-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-greatkids_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-greatkids_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFYednak" class="citation">Yednak, Crystal, <a rel="nofollow" class="external text" href="http://www.greatschools.org/gk/articles/college-prep-school/">"What does "college prep" school really mean?"</a>, <i>GreatKids, GreatSchools</i><span class="reference-accessdate">, retrieved <span class="nowrap">7 Apr</span> 2016</span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity-preparatory+school&amp;rft.atitle=What+does+%22college+prep%22+school+really+mean%3F&amp;rft.aufirst=Crystal&amp;rft.aulast=Yednak&amp;rft.genre=article&amp;rft.jtitle=GreatKids%2C+GreatSchools&amp;rft_id=http%3A%2F%2Fwww.greatschools.org%2Fgk%2Farticles%2Fcollege-prep-school%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-laneri-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-laneri_2-0">^</a></b></span> <span class="reference-text"><cite id="CITEREFLaneri2010" class="citation">Laneri, Raquel (29 Apr 2010), <a rel="nofollow" class="external text" href="https://www.forbes.com/2010/04/29/best-prep-schools-2010-opinions-private-education.html">"America's Best Prep Schools"</a>, <i>Forbes</i><span class="reference-accessdate">, retrieved <span class="nowrap">7 Apr</span> 2016</span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity-preparatory+school&amp;rft.atitle=America%27s+Best+Prep+Schools&amp;rft.aufirst=Raquel&amp;rft.aulast=Laneri&amp;rft.date=2010-04-29&amp;rft.genre=article&amp;rft.jtitle=Forbes&amp;rft_id=https%3A%2F%2Fwww.forbes.com%2F2010%2F04%2F29%2Fbest-prep-schools-2010-opinions-private-education.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Sarah Alexander Chase, <i>Perfectly prep: Gender extremes at a New England prep school</i> (Oxford University Press, 2008)</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Lisa R. Bass, "Boarding schools and capital benefits: Implications for urban school reform." <i>The Journal of Educational Research</i> (2014) 107#1 pp: 16-35.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Peter W. Cookson Jr, and Caroline Persell, <i>Preparing for power: America's elite boarding schools</i> (Basic Books, 2008).</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Heinz-Peter Meidinger: "Berliner Schullotterie". Profil 07-08/2009 (August 24th. 2009)</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.berliner-zeitung.de/berlin/forsa-umfrage-berliner-sind-gegen-schullotterie,10809148,11725200.html">http://www.berliner-zeitung.de/berlin/forsa-umfrage-berliner-sind-gegen-schullotterie,10809148,11725200.html</a></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Kim, Kyung-keun, and Soo-yong Byun. "Determinants of Academic Achievement in Republic of Korea." in <i>Korean Education in Changing Economic and Demographic Contexts</i> (Springer Singapore, 2014) pp. 13-37.</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">William K. Cummings, <i>Education and equality in Japan</i> (Princeton University Press, 2014).</span></li>
+</ol>
+</div>
+</div>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Turkey had a school type called generic lyceum(<a href="/wiki/Turkish_language" title="Turkish language">Turkish</a>: <span lang="tr" xml:lang="tr"><i>genel lise</i></span>), or <b>straight lyceum</b>(<a href="/wiki/Turkish_language" title="Turkish language">Turkish</a>: <span lang="tr" xml:lang="tr"><i>düz lise</i></span>) until 2014. Basic lyceum's curriculum resembles generic lyceum's in many regards except for electives and university preparation aspects.</span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University-preparatory_school&amp;action=edit&amp;section=26" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.independentschools.com">The Independent Schools Directory (Global)</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.nais.org">National Association of Independent Schools</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.isasw.org">Independent Schools Association of the Southwest</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.cais.ca">Canadian Association of Independent Schools</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.boardingschools.com">The Association of Boarding Schools</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="School_types" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Schools" title="Template:Schools"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Schools" title="Template talk:Schools"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Schools&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="School_types" style="font-size:114%;margin:0 4em">School types</div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">By <a href="/wiki/Educational_stage" title="Educational stage">educational stage</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Early_childhood_education" title="Early childhood education">Early childhood</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Preschool" title="Preschool">Preschool</a></li>
+<li><a href="/wiki/Pre-kindergarten" title="Pre-kindergarten">Pre-kindergarten</a></li>
+<li><a href="/wiki/Kindergarten" title="Kindergarten">Kindergarten</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Primary_education" title="Primary education">Primary</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Elementary_school" title="Elementary school">Elementary school</a></li>
+<li><a href="/wiki/First_school" title="First school">First school</a></li>
+<li><a href="/wiki/Infant_school" title="Infant school">Infant school</a></li>
+<li><a href="/wiki/Junior_school" title="Junior school">Junior school</a></li>
+<li><a href="/wiki/Primary_school" title="Primary school">Primary school</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Secondary_education" title="Secondary education">Secondary</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Adult_high_school" title="Adult high school">Adult high school</a></li>
+<li><a href="/wiki/Comprehensive_school" title="Comprehensive school">Comprehensive school</a></li>
+<li><a href="/wiki/Grammar_school" title="Grammar school">Grammar school</a></li>
+<li><a href="/wiki/Gymnasium_(school)" title="Gymnasium (school)">Gymnasium</a></li>
+<li><a href="/wiki/High_school" class="mw-redirect" title="High school">High school</a></li>
+<li><a href="/wiki/Lyceum" title="Lyceum">Lyceum</a></li>
+<li><a href="/wiki/Middle_school" title="Middle school">Middle school</a></li>
+<li><a href="/wiki/Secondary_school" title="Secondary school">Secondary school</a></li>
+<li><a href="/wiki/Sixth_form_college" title="Sixth form college">Sixth form college</a></li>
+<li><a href="/wiki/Studio_school" title="Studio school">Studio school</a></li>
+<li><a class="mw-selflink selflink">University-preparatory school</a></li>
+<li><a href="/wiki/University_technical_college" title="University technical college">University technical college</a></li>
+<li><a href="/wiki/Upper_school" title="Upper school">Upper school</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Tertiary_education" title="Tertiary education">Tertiary</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Continuing_education" title="Continuing education">Continuing education</a></li>
+<li><a href="/wiki/Further_education" title="Further education">Further education</a></li>
+<li><a href="/wiki/Professional_school" title="Professional school">Professional school</a></li>
+<li><a href="/wiki/Vocational_school" title="Vocational school">Vocational school</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/Higher_education" title="Higher education">Higher</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Academy" title="Academy">Academy</a></li>
+<li><a href="/wiki/College" title="College">College</a></li>
+<li><a href="/wiki/Community_college" title="Community college">Community college</a></li>
+<li><a href="/wiki/Graduate_school" title="Graduate school">Graduate school</a></li>
+<li><a href="/wiki/Institute_of_technology" title="Institute of technology">Institute of technology</a></li>
+<li><a href="/wiki/Junior_college" title="Junior college">Junior college</a></li>
+<li><a href="/wiki/University" title="University">University</a></li>
+<li><a href="/wiki/Upper_division_college" title="Upper division college">Upper division college</a></li>
+<li><a href="/wiki/Vocational_university" title="Vocational university">Vocational university</a></li>
+<li><a href="/wiki/Seminary" title="Seminary">Seminary</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">By funding / eligibility</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Academy_(English_school)" title="Academy (English school)">Academy <span style="font-size:90%;">(England)</span></a></li>
+<li><a href="/wiki/Charter_school" title="Charter school">Charter school</a></li>
+<li><a href="/wiki/Comprehensive_school" title="Comprehensive school">Comprehensive school</a></li>
+<li><a href="/wiki/For-profit_education" title="For-profit education">For-profit education</a></li>
+<li><a href="/wiki/Free_education" title="Free education">Free education</a></li>
+<li><a href="/wiki/Free_school_(England)" title="Free school (England)">Free school <span style="font-size:90%;">(England)</span></a></li>
+<li><a href="/wiki/Independent_school" title="Independent school">Independent school</a></li>
+<li><a href="/wiki/Independent_school_(United_Kingdom)" title="Independent school (United Kingdom)">UK Independent school</a>
+<ul>
+<li><a href="/wiki/Preparatory_school_(United_Kingdom)" title="Preparatory school (United Kingdom)">preparatory</a></li>
+<li><a href="/wiki/Public_school_(United_Kingdom)" title="Public school (United Kingdom)">public</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Private_school" title="Private school">Private school</a></li>
+<li><a href="/wiki/Selective_school" title="Selective school">Selective school</a></li>
+<li><a href="/wiki/Separate_school" title="Separate school">Separate school</a></li>
+<li><a href="/wiki/State_school" title="State school">State or public school</a></li>
+<li><a href="/wiki/State-integrated_school" title="State-integrated school">State-integrated school <span style="font-size:90%;">(New Zealand)</span></a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">By style of education</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Adult_education" title="Adult education">Adult education</a></li>
+<li><a href="/wiki/Alternative_school" title="Alternative school">Alternative school</a></li>
+<li><a href="/wiki/Boarding_school" title="Boarding school">Boarding school</a></li>
+<li><a href="/wiki/Day_school" title="Day school">Day school</a></li>
+<li><a href="/wiki/Folk_high_school" title="Folk high school">Folk high school</a></li>
+<li><a href="/wiki/Anarchistic_free_school" title="Anarchistic free school">Free skool</a></li>
+<li><a href="/wiki/Homeschooling" title="Homeschooling">Homeschool</a></li>
+<li><a href="/wiki/International_school" title="International school">International school</a></li>
+<li><a href="/wiki/K-12" class="mw-redirect" title="K-12">K-12</a></li>
+<li><a href="/wiki/Madrasa" title="Madrasa">Madrasa</a></li>
+<li><a href="/wiki/Magnet_school" title="Magnet school">Magnet school</a></li>
+<li><a href="/wiki/Montessori_education" title="Montessori education">Montessori school</a></li>
+<li><a href="/wiki/One-room_school" title="One-room school">One-room schools</a></li>
+<li><a href="/wiki/Parochial_school" title="Parochial school">Parochial school</a></li>
+<li><a href="/wiki/Ranch_school" title="Ranch school">Ranch school</a></li>
+<li><a href="/wiki/Sink_school" title="Sink school">Sink school</a></li>
+<li><a href="/wiki/Virtual_school" title="Virtual school">Virtual school</a></li>
+<li><a href="/wiki/Vocal_school" title="Vocal school">Vocal school</a></li>
+<li><a href="/wiki/Yeshiva" title="Yeshiva">Yeshiva</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">By scope</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/College_preparatory_course" title="College preparatory course">College preparatory</a></li>
+<li><a href="/wiki/Compulsory_education" title="Compulsory education">Compulsory education</a></li>
+<li><a href="/wiki/Democratic_education" title="Democratic education">Democratic education</a></li>
+<li><a href="/wiki/Gifted_education" title="Gifted education">Gifted education</a></li>
+<li><a href="/wiki/Remedial_education" title="Remedial education">Remedial education</a></li>
+<li><a href="/wiki/Vocational_education" title="Vocational education">Vocational education</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Historical</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ancient_higher-learning_institutions" title="Ancient higher-learning institutions">Ancient higher-learning institutions</a>
+<ul>
+<li><a href="/wiki/Platonic_Academy" title="Platonic Academy">Platonic Academy</a></li>
+<li><a href="/wiki/Lyceum_(Classical)" title="Lyceum (Classical)">Lyceum</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Monastic_school" title="Monastic school">Monastic schools</a></li>
+<li><a href="/wiki/Cathedral_school" title="Cathedral school">Cathedral schools</a></li>
+<li><a href="/wiki/Medieval_university" title="Medieval university">Medieval universities</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;">
+<div style="padding:0.1em 0;line-height:1.2em;">Schools imposed on<br />
+<a href="/wiki/Indigenous_peoples" title="Indigenous peoples">indigenous peoples</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Canadian_Indian_residential_school_system" title="Canadian Indian residential school system">in Canada</a></li>
+<li><a href="/wiki/Native_schools" title="Native schools">in New Zealand</a></li>
+<li><a href="/wiki/American_Indian_boarding_schools" title="American Indian boarding schools">in the United States</a></li>
+<li><a href="/wiki/Department_of_Bantu_Education" title="Department of Bantu Education">in South Africa</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;">Informal or illegal</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hedge_school" title="Hedge school">in Ireland</a></li>
+<li><a href="/wiki/Krifo_scholio" title="Krifo scholio">in Greece</a></li>
+<li><a href="/wiki/Katakombenschule" title="Katakombenschule">in South Tyrol</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="font-weight:bold;">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:School_types" title="Category:School types">Category</a></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <a href="https://commons.wikimedia.org/wiki/Category:Schools_by_type" class="extiw" title="commons:Category:Schools by type">Commons</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1262
+Cached time: 20171017155756
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.260 seconds
+Real time usage: 0.346 seconds
+Preprocessor visited node count: 1472/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 60256/2097152 bytes
+Template argument size: 1306/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 6/500
+Lua time usage: 0.103/10.000 seconds
+Lua memory usage: 3.53 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  272.423      1 -total
+ 27.44%   74.750      2 Template:Reflist
+ 18.44%   50.241      1 Template:Citation_needed
+ 17.89%   48.738      2 Template:Citation
+ 16.51%   44.985      1 Template:Fix
+ 15.18%   41.343      4 Template:Navbox
+ 13.27%   36.151      5 Template:Category_handler
+ 12.10%   32.956      1 Template:Schools
+ 11.87%   32.341      1 Template:Redirect2
+  7.93%   21.591      2 Template:Unreferenced_section
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:299970-0!canonical and timestamp 20171017155756 and revision id 803094125
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=University-preparatory_school&amp;oldid=803094125">https://en.wikipedia.org/w/index.php?title=University-preparatory_school&amp;oldid=803094125</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:School_types" title="Category:School types">School types</a></li><li><a href="/wiki/Category:University-preparatory_schools" title="Category:University-preparatory schools">University-preparatory schools</a></li><li><a href="/wiki/Category:High_schools_and_secondary_schools" title="Category:High schools and secondary schools">High schools and secondary schools</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_containing_Turkish-language_text" title="Category:Articles containing Turkish-language text">Articles containing Turkish-language text</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_April_2016" title="Category:Articles with unsourced statements from April 2016">Articles with unsourced statements from April 2016</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_April_2016" title="Category:Articles needing additional references from April 2016">Articles needing additional references from April 2016</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_October_2010" title="Category:Use dmy dates from October 2010">Use dmy dates from October 2010</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=University-preparatory+school" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=University-preparatory+school" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/University-preparatory_school" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:University-preparatory_school" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="collapsible selected"><span><a href="/wiki/University-preparatory_school">Read</a></span></li>
+							<li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=University-preparatory_school&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=University-preparatory_school&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/University-preparatory_school" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/University-preparatory_school" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=University-preparatory_school&amp;oldid=803094125" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=University-preparatory_school&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q428602" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=University-preparatory_school&amp;id=803094125" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=University-preparatory+school">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=University-preparatory+school&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=University-preparatory_school&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Preparatory_schools" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%BE%DB%8C%D8%B4%E2%80%8C%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87%DB%8C" title="پیش‌دانشگاهی – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%ED%8A%B9%EC%88%98%EB%AA%A9%EC%A0%81_%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90" title="특수목적 고등학교 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Schola_praeparatoria" title="Schola praeparatoria – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-km"><a href="https://km.wikipedia.org/wiki/University-preparatory_school" title="University-preparatory school – Khmer" lang="km" hreflang="km" class="interlanguage-link-target">ភាសាខ្មែរ</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E9%A2%84%E7%A7%91%E5%AD%A6%E6%A0%A1" title="预科学校 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q428602#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 30 September 2017, at 12:01.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=University-preparatory_school&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.260","walltime":"0.346","ppvisitednodes":{"value":1472,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":60256,"limit":2097152},"templateargumentsize":{"value":1306,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":6,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  272.423      1 -total"," 27.44%   74.750      2 Template:Reflist"," 18.44%   50.241      1 Template:Citation_needed"," 17.89%   48.738      2 Template:Citation"," 16.51%   44.985      1 Template:Fix"," 15.18%   41.343      4 Template:Navbox"," 13.27%   36.151      5 Template:Category_handler"," 12.10%   32.956      1 Template:Schools"," 11.87%   32.341      1 Template:Redirect2","  7.93%   21.591      2 Template:Unreferenced_section"]},"scribunto":{"limitreport-timeusage":{"value":"0.103","limit":"10.000"},"limitreport-memusage":{"value":3705971,"limit":52428800}},"cachereport":{"origin":"mw1262","timestamp":"20171017155756","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":455,"wgHostname":"mw1262"});});</script>
+	</body>
+</html>

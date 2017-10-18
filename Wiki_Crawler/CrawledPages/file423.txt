@@ -1,0 +1,1375 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Jena - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Jena","wgTitle":"Jena","wgCurRevisionId":791598264,"wgRevisionId":791598264,"wgArticleId":182922,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 German-language sources (de)","CS1 maint: Multiple names: authors list","Coordinates on Wikidata","Articles with hAudio microformats","Articles containing German-language text","Articles with German-language external links","Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with GND identifiers","Cities in Thuringia","Jena","University towns in Germany","Grand Duchy of Saxe-Weimar-Eisenach","Holocaust locations in Germany"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Jena","wgRelevantArticleId":182922,"wgRequestId":"WeauWApAMFgAALzl5N4AAAAU","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCoordinates":{"lat":50.927222222222,"lon":11.586111111111},"wgWikibaseItemId":"Q3150","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.3"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Zentrum_Jenas_im_Tal_2008-05-24.JPG/1200px-Zentrum_Jenas_im_Tal_2008-05-24.JPG"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Jena"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Jena&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Jena&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Jena"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Jena rootpage-Jena vector-experimental-print-styles vector-nav-directionality skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Jena</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For other uses, see <a href="/wiki/Jena_(disambiguation)" class="mw-disambig" title="Jena (disambiguation)">Jena (disambiguation)</a>.</div>
+<table class="infobox geography vcard" style="width:22em;width:23em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap"><span class="fn org"><span class="wrap">Jena</span></span></th>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Zentrum_Jenas_im_Tal_2008-05-24.JPG" class="image" title="Jena skyline"><img alt="Jena skyline" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Zentrum_Jenas_im_Tal_2008-05-24.JPG/250px-Zentrum_Jenas_im_Tal_2008-05-24.JPG" width="250" height="167" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Zentrum_Jenas_im_Tal_2008-05-24.JPG/375px-Zentrum_Jenas_im_Tal_2008-05-24.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/44/Zentrum_Jenas_im_Tal_2008-05-24.JPG/500px-Zentrum_Jenas_im_Tal_2008-05-24.JPG 2x" data-file-width="3888" data-file-height="2592" /></a>
+<div>Jena skyline</div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" class="maptable" style="text-align:center">
+<table style="width:100%; background:none;">
+<tr>
+<td style="vertical-align:middle; text-align:center;"><a href="/wiki/File:Wappen_Jena.png" class="image" title="Coat of arms of Jena  "><img alt="Coat of arms of Jena  " src="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Wappen_Jena.png/68px-Wappen_Jena.png" width="68" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Wappen_Jena.png/103px-Wappen_Jena.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/64/Wappen_Jena.png/137px-Wappen_Jena.png 2x" data-file-width="438" data-file-height="512" /></a><br />
+<small>Coat of arms</small></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center">
+<div class="center">
+<div style="width:170px;float:none;clear:both;margin-left:auto;margin-right:auto">
+<div style="width:170px;padding:0">
+<div style="position:relative;width:170px"><a href="/wiki/File:Germany_adm_location_map.svg" class="image" title="Jena   is located in Germany"><img alt="Jena   is located in Germany" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/170px-Germany_adm_location_map.svg.png" width="170" height="202" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/255px-Germany_adm_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/340px-Germany_adm_location_map.svg.png 2x" data-file-width="1073" data-file-height="1272" /></a>
+<div style="position:absolute;top:52.82%;left:60.861%">
+<div style="position:absolute;left:-3px;top:-3px;line-height:0"><img alt="Jena  " src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png" title="Jena  " width="6" height="6" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/9px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div>
+<div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:4px;text-align:left"><span style="padding:1px;float:left"><span class="wrap">Jena</span></span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr class="mergedbottomrow">
+<td colspan="2" style="text-align:center">Coordinates: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Jena&amp;params=50_55_38_N_11_35_10_E_type:city(109527)_region:DE-TH"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">50°55′38″N</span> <span class="longitude">11°35′10″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">50.92722°N 11.58611°E</span><span style="display:none">﻿ / <span class="geo">50.92722; 11.58611</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Jena&amp;params=50_55_38_N_11_35_10_E_type:city(109527)_region:DE-TH"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">50°55′38″N</span> <span class="longitude">11°35′10″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">50.92722°N 11.58611°E</span><span style="display:none">﻿ / <span class="geo">50.92722; 11.58611</span></span></span></a></span></span></span></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Country</th>
+<td><a href="/wiki/Germany" title="Germany">Germany</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/States_of_Germany" title="States of Germany">State</a></th>
+<td><a href="/wiki/Thuringia" title="Thuringia">Thuringia</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Districts_of_Germany" title="Districts of Germany">District</a></th>
+<td><a href="/wiki/Urban_districts_of_Germany" class="mw-redirect" title="Urban districts of Germany">Urban district</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Government</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;<a href="/wiki/Lord_Mayor" class="mw-redirect" title="Lord Mayor">Lord Mayor</a></th>
+<td><a href="/wiki/Albrecht_Schr%C3%B6ter" title="Albrecht Schröter">Albrecht Schröter</a> (<a href="/wiki/Social_Democratic_Party_of_Germany" title="Social Democratic Party of Germany">SPD</a>)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Area</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Total</th>
+<td>114.30&#160;km<sup>2</sup> (44.13&#160;sq&#160;mi)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Elevation</th>
+<td>155&#160;m (509&#160;ft)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Population <span style="font-weight:normal">(2015-12-31)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></span></th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Total</th>
+<td>109,527</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Density</th>
+<td>960/km<sup>2</sup> (2,500/sq&#160;mi)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/Time_zone" title="Time zone">Time zone</a></th>
+<td><a href="/wiki/Central_European_Time" title="Central European Time">CET</a>/<a href="/wiki/Central_European_Summer_Time" title="Central European Summer Time">CEST</a> (UTC+1/+2)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/List_of_postal_codes_in_Germany" title="List of postal codes in Germany">Postal codes</a></th>
+<td class="adr"><span class="postal-code">07701–07751</span></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/List_of_dialling_codes_in_Germany" title="List of dialling codes in Germany">Dialling codes</a></th>
+<td>03641</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Vehicle_registration_plate" title="Vehicle registration plate">Vehicle registration</a></th>
+<td>J</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Website</th>
+<td><a rel="nofollow" class="external text" href="http://www.jena.de/">www.jena.de</a></td>
+</tr>
+</table>
+<p><b>Jena</b> (<small>German pronunciation:</small> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA/Standard_German" title="Help:IPA/Standard German">[ˈjeːna]</a></span><small class="nowrap metadata">&#160;(<span class="unicode haudio"><span class="fn"><span style="white-space:nowrap"><a href="/wiki/File:Jena.ogg" title="About this sound"><img alt="About this sound" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" data-file-width="20" data-file-height="20" /></a>&#160;</span><a href="//upload.wikimedia.org/wikipedia/commons/f/f8/Jena.ogg" class="internal" title="Jena.ogg">listen</a></span></span>)</small>) is a German university city and the second largest city in <a href="/wiki/Thuringia" title="Thuringia">Thuringia</a>. Together with the nearby cities of <a href="/wiki/Erfurt" title="Erfurt">Erfurt</a> and <a href="/wiki/Weimar" title="Weimar">Weimar</a>, it forms the central metropolitan area of Thuringia with approximately 500,000 inhabitants, while the city itself has a population of nearly 110,000. Jena is a centre of education and research; the <a href="/wiki/University_of_Jena" title="University of Jena">Friedrich Schiller University</a> was founded in 1558 and has 21,000 students today and the Ernst-Abbe-Fachhochschule Jena counts another 5,000 students. Furthermore, there are many institutes of the leading German research societies.</p>
+<p>Jena was first mentioned in 1182 and stayed a small town until the 19th century, when industry developed. For most of the 20th century, Jena was a world centre of the optical industry around companies like <a href="/wiki/Carl_Zeiss_AG" title="Carl Zeiss AG">Carl Zeiss</a>, <a href="/wiki/Schott_AG" title="Schott AG">Schott</a> and <a href="/wiki/Jenoptik" title="Jenoptik">Jenoptik</a> (since 1990). As one of only a few medium-sized cities in Germany, it has some high-rise buildings in the city centre, like the <a href="/wiki/Jen_Tower" class="mw-redirect" title="Jen Tower">Jen Tower</a>. These also have their origin in the former Carl Zeiss factory. Between 1790 and 1850, Jena was a focal point of the German <a href="/wiki/Vorm%C3%A4rz" title="Vormärz">Vormärz</a> as well as of the student liberal and <a href="/wiki/Unification_of_Germany" title="Unification of Germany">unification</a> movement and <a href="/wiki/German_Romanticism" title="German Romanticism">German Romanticism</a>. Notable persons of this period in Jena were <a href="/wiki/Friedrich_Schiller" title="Friedrich Schiller">Friedrich Schiller</a>, <a href="/wiki/Johann_Gottlieb_Fichte" title="Johann Gottlieb Fichte">Johann Gottlieb Fichte</a>, <a href="/wiki/Georg_Wilhelm_Friedrich_Hegel" title="Georg Wilhelm Friedrich Hegel">Georg Wilhelm Friedrich Hegel</a>, <a href="/wiki/Novalis" title="Novalis">Novalis</a> and <a href="/wiki/August_Wilhelm_Schlegel" title="August Wilhelm Schlegel">August Wilhelm Schlegel</a>.</p>
+<p>The city's economy is based on the high-technology industry and research. The optical and precision industry is the leading branch to date, while software engineering, other digital businesses and biotechnology are of growing importance. Furthermore, Jena is also a service hub for the surrounding regions.</p>
+<p>Jena lies in a hilly landscape in the east of Thuringia, within the wide valley of the <a href="/wiki/Saale" title="Saale">Saale</a> river.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Middle_Ages"><span class="tocnumber">1.1</span> <span class="toctext">Middle Ages</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Early_modern_period"><span class="tocnumber">1.2</span> <span class="toctext">Early modern period</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#19th_century"><span class="tocnumber">1.3</span> <span class="toctext">19th century</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#20th_century"><span class="tocnumber">1.4</span> <span class="toctext">20th century</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Geography_and_demographics"><span class="tocnumber">2</span> <span class="toctext">Geography and demographics</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Topography"><span class="tocnumber">2.1</span> <span class="toctext">Topography</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Climate"><span class="tocnumber">2.2</span> <span class="toctext">Climate</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Administrative_division"><span class="tocnumber">2.3</span> <span class="toctext">Administrative division</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Demographics"><span class="tocnumber">2.4</span> <span class="toctext">Demographics</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Culture.2C_sights_and_cityscape"><span class="tocnumber">3</span> <span class="toctext">Culture, sights and cityscape</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#Museums"><span class="tocnumber">3.1</span> <span class="toctext">Museums</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Cityscape"><span class="tocnumber">3.2</span> <span class="toctext">Cityscape</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Sights_and_architectural_heritage"><span class="tocnumber">3.3</span> <span class="toctext">Sights and architectural heritage</span></a>
+<ul>
+<li class="toclevel-3 tocsection-15"><a href="#Churches"><span class="tocnumber">3.3.1</span> <span class="toctext">Churches</span></a></li>
+<li class="toclevel-3 tocsection-16"><a href="#Other_sights"><span class="tocnumber">3.3.2</span> <span class="toctext">Other sights</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-17"><a href="#Theatre_and_music"><span class="tocnumber">3.4</span> <span class="toctext">Theatre and music</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Sports"><span class="tocnumber">3.5</span> <span class="toctext">Sports</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-19"><a href="#Economy_and_infrastructure"><span class="tocnumber">4</span> <span class="toctext">Economy and infrastructure</span></a>
+<ul>
+<li class="toclevel-2 tocsection-20"><a href="#Agriculture.2C_industry_and_services"><span class="tocnumber">4.1</span> <span class="toctext">Agriculture, industry and services</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#Transport"><span class="tocnumber">4.2</span> <span class="toctext">Transport</span></a>
+<ul>
+<li class="toclevel-3 tocsection-22"><a href="#By_rail"><span class="tocnumber">4.2.1</span> <span class="toctext">By rail</span></a></li>
+<li class="toclevel-3 tocsection-23"><a href="#By_road"><span class="tocnumber">4.2.2</span> <span class="toctext">By road</span></a></li>
+<li class="toclevel-3 tocsection-24"><a href="#By_aviation"><span class="tocnumber">4.2.3</span> <span class="toctext">By aviation</span></a></li>
+<li class="toclevel-3 tocsection-25"><a href="#By_bike"><span class="tocnumber">4.2.4</span> <span class="toctext">By bike</span></a></li>
+<li class="toclevel-3 tocsection-26"><a href="#Trams_and_buses"><span class="tocnumber">4.2.5</span> <span class="toctext">Trams and buses</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-27"><a href="#Education_and_research"><span class="tocnumber">4.3</span> <span class="toctext">Education and research</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-28"><a href="#Politics"><span class="tocnumber">5</span> <span class="toctext">Politics</span></a>
+<ul>
+<li class="toclevel-2 tocsection-29"><a href="#Mayor_and_city_council"><span class="tocnumber">5.1</span> <span class="toctext">Mayor and city council</span></a></li>
+<li class="toclevel-2 tocsection-30"><a href="#Twin_towns"><span class="tocnumber">5.2</span> <span class="toctext">Twin towns</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-31"><a href="#Famous_citizens_and_alumni_of_the_university"><span class="tocnumber">6</span> <span class="toctext">Famous citizens and alumni of the university</span></a></li>
+<li class="toclevel-1 tocsection-32"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-33"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jena&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Middle_Ages">Middle Ages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jena&amp;action=edit&amp;section=2" title="Edit section: Middle Ages">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Lobdeburg_near_Jena_by_Night.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Lobdeburg_near_Jena_by_Night.jpg/220px-Lobdeburg_near_Jena_by_Night.jpg" width="220" height="146" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Lobdeburg_near_Jena_by_Night.jpg/330px-Lobdeburg_near_Jena_by_Night.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/76/Lobdeburg_near_Jena_by_Night.jpg/440px-Lobdeburg_near_Jena_by_Night.jpg 2x" data-file-width="3471" data-file-height="2311" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Lobdeburg_near_Jena_by_Night.jpg" class="internal" title="Enlarge"></a></div>
+Lobdeburg castle above Lobeda district</div>
+</div>
+</div>
+<p>Until the <a href="/wiki/High_Middle_Ages" title="High Middle Ages">High Middle Ages</a>, the <a href="/wiki/Saale" title="Saale">Saale</a> was the border between <a href="/wiki/Germanic_peoples" title="Germanic peoples">Germanic</a> regions in the west and <a href="/wiki/Slavs" title="Slavs">Slavic</a> regions in the east. Owing to its function as a river crossing, Jena was conveniently located. Nevertheless, there were also some more important Saale crossings like the nearby cities of <a href="/wiki/Naumburg_(Saale)" class="mw-redirect" title="Naumburg (Saale)">Naumburg</a> to the north and <a href="/wiki/Saalfeld" title="Saalfeld">Saalfeld</a> to the south, so that the relevance of Jena was more local during the Middle Ages. The first unequivocal mention of Jena was in an 1182 document. The first local rulers of the region were the Lords of <a href="/w/index.php?title=Lobdeburg&amp;action=edit&amp;redlink=1" class="new" title="Lobdeburg (page does not exist)">Lobdeburg</a> with their eponymous castle near <a href="/w/index.php?title=Lobeda&amp;action=edit&amp;redlink=1" class="new" title="Lobeda (page does not exist)">Lobeda</a>, roughly 6&#160;km (4&#160;mi) south of the city centre on the eastern hillside of the Saale valley.</p>
+<p>In the 13th century, the Lords of Lobdeburg founded two towns in the valley: Jena on the west bank and Lobeda&#160;– which is one of Jena's constituent communities today&#160;– 4&#160;km (2&#160;mi) to the south on the east bank. Around 1230, Jena received town rights and a regular city grid was established between today's Fürstengraben, Löbdergraben, Teichgraben and Leutragraben. The city got a marketplace, main church, town hall, council and city walls during the late 13th and early 14th centuries making it into a fully fledged town. In this time, the city's economy was based mainly on wine production on the warm and sunny hillsides of the Saale valley. The two monasteries of the <a href="/wiki/Dominican_Order" title="Dominican Order">Dominicans</a> (1286) and the <a href="/wiki/Cistercian" class="mw-redirect" title="Cistercian">Cistercians</a> (1301) rounded out Jena's medieval appearance.</p>
+<p>As the political circumstances in Thuringia changed in the middle of the 14th century, the weakened Lords of Lobdeburg sold Jena to the aspiring <a href="/wiki/House_of_Wettin" title="House of Wettin">Wettins</a> in 1331. Jena obtained the <a href="/wiki/Gotha" title="Gotha">Gotha</a> municipal law and the citizens strengthened their rights and wealth during the 14th and 15th centuries. Moreover, the Wettins were more interested in their residence in the nearby city of <a href="/wiki/Weimar" title="Weimar">Weimar</a>, and so Jena could develop itself relatively autonomously.</p>
+<h3><span class="mw-headline" id="Early_modern_period">Early modern period</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jena&amp;action=edit&amp;section=3" title="Edit section: Early modern period">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Jena_(Merian).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Jena_%28Merian%29.jpg/220px-Jena_%28Merian%29.jpg" width="220" height="141" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Jena_%28Merian%29.jpg/330px-Jena_%28Merian%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Jena_%28Merian%29.jpg/440px-Jena_%28Merian%29.jpg 2x" data-file-width="1350" data-file-height="864" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Jena_(Merian).jpg" class="internal" title="Enlarge"></a></div>
+Jena in 1650</div>
+</div>
+</div>
+<p>The <a href="/wiki/Protestant_Reformation" class="mw-redirect" title="Protestant Reformation">Protestant Reformation</a> was brought to the city in 1523. <a href="/wiki/Martin_Luther" title="Martin Luther">Martin Luther</a> visited the town to reorganize the clerical relations and Jena became an early centre of his doctrine. In the following years, the Dominican and the <a href="/wiki/Carmelites" title="Carmelites">Carmelite</a> convents were attacked by the townsmen and abolished in 1525 (Carmelite) and 1548 (Dominican).</p>
+<p>An important step in Jena's history was the foundation of the <a href="/wiki/University_of_Jena" title="University of Jena">university</a> in 1558. Ernestine Elector <a href="/wiki/John_Frederick,_Elector_of_Saxony" class="mw-redirect" title="John Frederick, Elector of Saxony">John Frederick the Magnanimous</a> founded it, because he had lost his old university in <a href="/wiki/Wittenberg" title="Wittenberg">Wittenberg</a> to the <a href="/wiki/House_of_Wettin" title="House of Wettin">Albertines</a> after the <a href="/wiki/Schmalkaldic_War" title="Schmalkaldic War">Schmalkaldic War</a>. During the <a href="/wiki/Little_Ice_Age" title="Little Ice Age">Little Ice Age</a>, <a href="/wiki/Viticulture" title="Viticulture">wine-growing</a> declined in the 17th century, so that the new university became one of the most important sources of income for the city. The same century brought a boom in printing business caused by the rising importance of books (and the population's ability to read) in the Lutheran doctrine, and Jena was the second-largest printing location in Germany after <a href="/wiki/Leipzig" title="Leipzig">Leipzig</a>.</p>
+<p>Beginning in the 16th century, the Ernestine dynasty saw many territorial partitions. Initially, Jena remained a part of <a href="/wiki/Saxe-Weimar" title="Saxe-Weimar">Saxe-Weimar</a>, but in 1672 it became the capital of its own small duchy (<a href="/wiki/Saxe-Jena" title="Saxe-Jena">Saxe-Jena</a>). In 1692, after two dukes (<a href="/wiki/Bernhard_II,_Duke_of_Saxe-Jena" title="Bernhard II, Duke of Saxe-Jena">Bernhard II</a> and <a href="/wiki/Johann_Wilhelm,_Duke_of_Saxe-Jena" title="Johann Wilhelm, Duke of Saxe-Jena">Johann Wilhelm</a>), the dukes of Saxe-Jena died out and the duchy became part of <a href="/wiki/Saxe-Eisenach" title="Saxe-Eisenach">Saxe-Eisenach</a> and, in 1741, of the Duchy of <a href="/wiki/Duchy_of_Saxe-Weimar" class="mw-redirect" title="Duchy of Saxe-Weimar">Saxe-Weimar</a>, to which it belonged until 1809. From 1809 to 1918, Jena was part of the Duchy (from 1815 Grand Duchy) of <a href="/wiki/Grand_Duchy_of_Saxe-Weimar-Eisenach" class="mw-redirect" title="Grand Duchy of Saxe-Weimar-Eisenach">Saxe-Weimar-Eisenach</a>.</p>
+<h3><span class="mw-headline" id="19th_century">19th century</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jena&amp;action=edit&amp;section=4" title="Edit section: 19th century">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Napoleon.Jena.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Napoleon.Jena.jpg/220px-Napoleon.Jena.jpg" width="220" height="154" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Napoleon.Jena.jpg/330px-Napoleon.Jena.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Napoleon.Jena.jpg/440px-Napoleon.Jena.jpg 2x" data-file-width="2304" data-file-height="1612" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Napoleon.Jena.jpg" class="internal" title="Enlarge"></a></div>
+The battle of Jena in 1806</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Jena_Innenstadt_1920.jpeg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Jena_Innenstadt_1920.jpeg/220px-Jena_Innenstadt_1920.jpeg" width="220" height="135" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Jena_Innenstadt_1920.jpeg/330px-Jena_Innenstadt_1920.jpeg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Jena_Innenstadt_1920.jpeg/440px-Jena_Innenstadt_1920.jpeg 2x" data-file-width="1606" data-file-height="985" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Jena_Innenstadt_1920.jpeg" class="internal" title="Enlarge"></a></div>
+The city centre before its destruction during World War II</div>
+</div>
+</div>
+<p>Around 1790, the university became the largest and most famous one among the German states and made Jena the centre of idealist philosophy (with professors like <a href="/wiki/Johann_Gottlieb_Fichte" title="Johann Gottlieb Fichte">Johann Gottlieb Fichte</a>, <a href="/wiki/Georg_Wilhelm_Friedrich_Hegel" title="Georg Wilhelm Friedrich Hegel">Georg Wilhelm Friedrich Hegel</a>, <a href="/wiki/Friedrich_Schiller" title="Friedrich Schiller">Friedrich Schiller</a> and <a href="/wiki/Friedrich_Wilhelm_Joseph_Schelling" title="Friedrich Wilhelm Joseph Schelling">Friedrich Wilhelm Joseph Schelling</a>) and of the early <a href="/wiki/German_Romanticism" title="German Romanticism">Romanticism</a> (with poets like Novalis, the brothers <a href="/wiki/August_Wilhelm_Schlegel" title="August Wilhelm Schlegel">August</a> and <a href="/wiki/Karl_Wilhelm_Friedrich_Schlegel" title="Karl Wilhelm Friedrich Schlegel">Friedrich Schlegel</a>, and <a href="/wiki/Ludwig_Tieck" title="Ludwig Tieck">Ludwig Tieck</a>). In 1794, the poets <a href="/wiki/Goethe" class="mw-redirect" title="Goethe">Goethe</a> and <a href="/wiki/Schiller" class="mw-redirect" title="Schiller">Schiller</a> met at the university and established a long lasting friendship. Consequently, the reputation of the University and the Duchy of Saxe-Weimar-Eisenach as particularly liberal and open-minded was enhanced.</p>
+<p>On 14&#160;October 1806, <a href="/wiki/Napoleon_I_of_France" class="mw-redirect" title="Napoleon I of France">Napoleon</a> fought and defeated the <a href="/wiki/Prussia" title="Prussia">Prussian</a> army here in the <a href="/wiki/Battle_of_Jena-Auerstedt" class="mw-redirect" title="Battle of Jena-Auerstedt">Battle of Jena-Auerstedt</a>, near the district of Vierzehnheiligen. Resistance against the French occupation was strong, especially among the students. Many of the students fought in the <a href="/wiki/L%C3%BCtzow_Free_Corps" title="Lützow Free Corps">Lützow Free Corps</a> in 1813. Two years later, the <a href="/wiki/Urburschenschaft" title="Urburschenschaft">Urburschenschaft</a> fraternity was founded in the city.</p>
+<p>During the later 19th century, the famous biologist <a href="/wiki/Ernst_Haeckel" title="Ernst Haeckel">Ernst Haeckel</a> was professor at the university. The expansion of science and medicine faculties was closely linked to the industrial boom that Jena saw after 1871. The initial spark of industrialization in Jena was the (relatively late) connection to the railway. The <a href="/wiki/Saal_Railway" class="mw-redirect" title="Saal Railway">Saal Railway</a> (<i>Saalbahn</i>, opened in 1874) was the connection from <a href="/wiki/Halle_(Saale)" title="Halle (Saale)">Halle</a> and <a href="/wiki/Leipzig" title="Leipzig">Leipzig</a> along the Saale valley to <a href="/wiki/Nuremberg" title="Nuremberg">Nuremberg</a> and the <a href="/wiki/Weimar%E2%80%93Gera_railway" title="Weimar–Gera railway">Weimar–Gera railway</a> (opened 1876) connected Jena with <a href="/wiki/Frankfurt" title="Frankfurt">Frankfurt</a> and <a href="/wiki/Erfurt" title="Erfurt">Erfurt</a> in the west as well as <a href="/wiki/Dresden" title="Dresden">Dresden</a> and <a href="/wiki/Gera" title="Gera">Gera</a> in the east. Famous pioneers of industry were <a href="/wiki/Carl_Zeiss" title="Carl Zeiss">Carl Zeiss</a> and <a href="/wiki/Ernst_Abbe" title="Ernst Abbe">Ernst Abbe</a> (with their <a href="/wiki/Carl_Zeiss_AG" title="Carl Zeiss AG">Carl Zeiss AG</a>) as well as <a href="/wiki/Otto_Schott" title="Otto Schott">Otto Schott</a> (<a href="/wiki/Schott_AG" title="Schott AG">Schott AG</a>). Since that time, production of optical items, precision machinery and laboratory glassware have been the main branches of Jena's economy. Zeiss, Abbe and Schott worked also as social reformers who wanted to improve the living conditions of their workers and the local wealth in general. When Zeiss died in 1889, his company passed to the <a href="/wiki/Carl-Zeiss-Stiftung" title="Carl-Zeiss-Stiftung">Carl-Zeiss-Stiftung</a>, which uses great amounts of the company's profits for social benefits like research projects at universities etc. This model became an example for other German companies (e.g. the <a href="/wiki/Robert_Bosch_Stiftung" title="Robert Bosch Stiftung">Robert Bosch Stiftung</a>).</p>
+<h3><span class="mw-headline" id="20th_century">20th century</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jena&amp;action=edit&amp;section=5" title="Edit section: 20th century">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Jena_Zeiss_Bau_15.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Jena_Zeiss_Bau_15.jpg/220px-Jena_Zeiss_Bau_15.jpg" width="220" height="317" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Jena_Zeiss_Bau_15.jpg/330px-Jena_Zeiss_Bau_15.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/34/Jena_Zeiss_Bau_15.jpg/440px-Jena_Zeiss_Bau_15.jpg 2x" data-file-width="2122" data-file-height="3056" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Jena_Zeiss_Bau_15.jpg" class="internal" title="Enlarge"></a></div>
+Bau 15 of the Carl Zeiss factory, Germany's first high-rise building, established in 1915</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Am_Eichplatz._Auf_dem_Bild_sieht_man_die_%22Neue_Mitte%22,_dahinter_ebenfalls_ein_Wolkenkratzer,_das_%22b59%22..jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Am_Eichplatz._Auf_dem_Bild_sieht_man_die_%22Neue_Mitte%22%2C_dahinter_ebenfalls_ein_Wolkenkratzer%2C_das_%22b59%22..jpg/220px-Am_Eichplatz._Auf_dem_Bild_sieht_man_die_%22Neue_Mitte%22%2C_dahinter_ebenfalls_ein_Wolkenkratzer%2C_das_%22b59%22..jpg" width="220" height="124" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Am_Eichplatz._Auf_dem_Bild_sieht_man_die_%22Neue_Mitte%22%2C_dahinter_ebenfalls_ein_Wolkenkratzer%2C_das_%22b59%22..jpg/330px-Am_Eichplatz._Auf_dem_Bild_sieht_man_die_%22Neue_Mitte%22%2C_dahinter_ebenfalls_ein_Wolkenkratzer%2C_das_%22b59%22..jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/87/Am_Eichplatz._Auf_dem_Bild_sieht_man_die_%22Neue_Mitte%22%2C_dahinter_ebenfalls_ein_Wolkenkratzer%2C_das_%22b59%22..jpg/440px-Am_Eichplatz._Auf_dem_Bild_sieht_man_die_%22Neue_Mitte%22%2C_dahinter_ebenfalls_ein_Wolkenkratzer%2C_das_%22b59%22..jpg 2x" data-file-width="1000" data-file-height="562" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Am_Eichplatz._Auf_dem_Bild_sieht_man_die_%22Neue_Mitte%22,_dahinter_ebenfalls_ein_Wolkenkratzer,_das_%22b59%22..jpg" class="internal" title="Enlarge"></a></div>
+The Eichplatz in the city centre</div>
+</div>
+</div>
+<p>Industrialization fundamentally changed the social structure of Jena. The former academic town became a working-class city; the population rose from 8,000 around 1870 up to 71,000 at the beginning of <a href="/wiki/World_War_II" title="World War II">World War II</a>. The city expanded along the Saale valley to the north and the south and its side valleys to the east and the west. In 1901, the <a href="/wiki/Tram" title="Tram">tram</a> system started its operation and the university got a new main building (established between 1906 and 1908 on the former castle's site). After the foundation of <a href="/wiki/Thuringia" title="Thuringia">Thuringia</a> in 1920, Jena was one of the three biggest cities (together with <a href="/wiki/Weimar" title="Weimar">Weimar</a> and <a href="/wiki/Gera" title="Gera">Gera</a>, while <a href="/wiki/Erfurt" title="Erfurt">Erfurt</a> remained part of <a href="/wiki/Prussia" title="Prussia">Prussia</a>) and became an <a href="/wiki/Independent_city" title="Independent city">independent city</a> in 1922. The modern optical and glass industry kept booming and the city grew further during <a href="/wiki/Weimar_Republic" title="Weimar Republic">Weimar times</a>.</p>
+<p>During the <a href="/wiki/Nazi_Germany" title="Nazi Germany">Nazi</a> period, conflicts deepened in Jena between the influential left-wing milieus (communists and social democrats) and the right-wing Nazi milieus. On the one hand, the university suffered from new restrictions against its independence, but on the other hand, it consolidated the Nazi ideology, for example with a professorship of social anthropology (which sought to scientifically legitimize the <a href="/wiki/Racial_policy_of_Nazi_Germany" title="Racial policy of Nazi Germany">Racial policy of Nazi Germany</a>). <a href="/wiki/Kristallnacht" title="Kristallnacht">Kristallnacht</a> in 1938 led to more discrimination against <a href="/wiki/Jew" class="mw-redirect" title="Jew">Jews</a> in Jena, many of whom either emigrated or were arrested and murdered by the German government. This weakened the academic milieu, because many academics were Jews (especially in medicine). In 1945, towards the end of <a href="/wiki/World_War_II" title="World War II">World War II</a>, Jena was heavily bombed by the American and British Allies. 709 people were killed, 2,000 injured and most of the medieval town centre was destroyed, but in parts restored after the end of the war. Nevertheless, Jena was the Thuringian city whose level of destruction was exceeded only by <a href="/wiki/Nordhausen" title="Nordhausen">Nordhausen</a>, whose destruction was utter. It was occupied by American troops on 13 April 1945 and was left to Red Army on 1 July 1945.</p>
+<p>In 1945, Jena fell within the Soviet zone of occupation in post-World War II Germany. In 1949, it became part of the new <a href="/wiki/East_Germany" title="East Germany">German Democratic Republic</a> (GDR). The Soviets dismantled great parts of the Zeiss and Schott factories and took them to the <a href="/wiki/Soviet_Union" title="Soviet Union">Soviet Union</a>. On the other hand, the GDR government founded a new <a href="/wiki/Pharmaceutical_industry" title="Pharmaceutical industry">pharmaceutical</a> factory in 1950, <a href="/wiki/Jenapharm" title="Jenapharm">Jenapharm</a>, which is part of <a href="/wiki/Bayer" title="Bayer">Bayer</a> today. In 1953, Jena was a centre of the <a href="/wiki/Uprising_of_1953_in_East_Germany" title="Uprising of 1953 in East Germany">East German Uprising</a> against GDR policy. The protests with 30,000 participants drew fire from Soviet <a href="/wiki/Tank" title="Tank">tanks</a>.</p>
+<p>The following decades brought some radical shifts in city planning. During the 1960s, another part of the historic city centre was demolished to build the <a href="/wiki/Jen_Tower" class="mw-redirect" title="Jen Tower">Jen Tower</a>. The Eichplatz in front of the tower is still unbuilt and its future is still the subject of ongoing heated discussion. Big <a href="/wiki/Plattenbau" title="Plattenbau">Plattenbau</a> settlements were developed in the 1970s and 1980s, because the population was still rising and the housing shortage remained a perpetual problem. New districts established in the north (near Rautal) and in the south (around Winzerla and Lobeda). The opposition against the GDR government was reinforced during the late 1980s in Jena, fed by academic and clerical circles. In autumn 1989, the city saw the largest protests in its history before the GDR government was dissolved.</p>
+<p>After 1990, Jena became part of the refounded state of <a href="/wiki/Thuringia" title="Thuringia">Thuringia</a>. Industry came into a heavy crisis during the 1990s, but finally it managed the transition to the <a href="/wiki/Market_economy" title="Market economy">market economy</a> and today, it is one of the leading economic centres of eastern Germany. Furthermore, the university was enlarged and many new research institutes were founded.</p>
+<h2><span class="mw-headline" id="Geography_and_demographics">Geography and demographics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jena&amp;action=edit&amp;section=6" title="Edit section: Geography and demographics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Topography">Topography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jena&amp;action=edit&amp;section=7" title="Edit section: Topography">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Burgauer_Br%C3%BCcke.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Burgauer_Br%C3%BCcke.jpg/220px-Burgauer_Br%C3%BCcke.jpg" width="220" height="135" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Burgauer_Br%C3%BCcke.jpg/330px-Burgauer_Br%C3%BCcke.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/26/Burgauer_Br%C3%BCcke.jpg/440px-Burgauer_Br%C3%BCcke.jpg 2x" data-file-width="1280" data-file-height="788" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Burgauer_Br%C3%BCcke.jpg" class="internal" title="Enlarge"></a></div>
+The medieval bridge across the Saale in Burgau district</div>
+</div>
+</div>
+<p>Jena is situated in a hilly landscape in eastern Thuringia at the <a href="/wiki/Saale" title="Saale">Saale</a> river, between the <a href="/wiki/Harz" title="Harz">Harz</a> mountains 85&#160;km (53&#160;mi) in the north, the <a href="/wiki/Thuringian_Forest" title="Thuringian Forest">Thuringian Forest</a>/<a href="/wiki/Thuringian_Highland" title="Thuringian Highland">Thuringian Highland</a> 50&#160;km (31&#160;mi) in the southwest and the <a href="/wiki/Ore_Mountains" title="Ore Mountains">Ore Mountains</a>, 75&#160;km (47&#160;mi) in the southeast. The municipal terrain is hilly with rugged slopes at the valley's edges. The city centre is situated at 160 m of elevation, whereas the mountains on both sides of Saale valley rise up to 400 m. On the eastern side those are (from north to south): the <i>Gleisberg</i> near Kunitz, the <i>Jenzig</i> near Wogau, the <i>Hausberg</i> near Wenigenjena, the <i>Kernberge</i> near Wöllnitz, the <i>Johannisberg</i> near Lobeda and the <i>Einsiedlerberg</i> near Drackendorf. On the western side, there are the <i>Jägersberg</i> near Zwätzen, the <i>Windknollen</i> north of the city centre, the <i>Tatzend</i> west of the city centre, the <i>Lichtenhainer Höhe</i> near Lichtenhain, the <i>Holzberg</i> near Winzerla, the <i>Jagdberg</i> near Göschwitz and the Spitzenberg near Maua. The mountains belong to the geological formation of Ilm Saale Plate (<a href="/wiki/Muschelkalk" title="Muschelkalk">Muschelkalk</a>) and are relatively flat on their peaks but steep to the valleys in between. Due to its jagged surface, the municipal territory isn't very suitable for agriculture all the more since the most flat areas along the valley were built on during the 20th century. At the mountains is some forest of different leaf trees and pines.</p>
+<h3><span class="mw-headline" id="Climate">Climate</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jena&amp;action=edit&amp;section=8" title="Edit section: Climate">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Jena has a <a href="/wiki/Humid_continental_climate" title="Humid continental climate">humid continental climate</a> (Dfb) or an <a href="/wiki/Oceanic_climate" title="Oceanic climate">oceanic climate</a> (<i>Cfb</i>) according to the <a href="/wiki/K%C3%B6ppen_climate_classification" title="Köppen climate classification">Köppen climate classification</a> system.<sup id="cite_ref-koppen_2-0" class="reference"><a href="#cite_note-koppen-2">[2]</a></sup><sup id="cite_ref-Peel_3-0" class="reference"><a href="#cite_note-Peel-3">[3]</a></sup> Summers are warm and sometimes humid; winters are relatively cold. The city's topography creates a microclimate caused through the basin position with sometimes <a href="/wiki/Inversion_(meteorology)" title="Inversion (meteorology)">inversion</a> in winter (quite cold nights under −20&#160;°C (−4&#160;°F)) and heat and inadequate air circulation in summer. Annual precipitation is 585 millimeters (23.0&#160;in) with moderate rainfall throughout the year. Light snowfall mainly occurs from December through February, but snow cover does not usually remain for long. During the Middle Ages, Jena was famous for growing wine on its slopes. Nowadays, the next commercial wine-growing areas are situated 20&#160;km (12&#160;mi) down Saale river. Due to its distance to coastal areas and position in the Saale valley, wind speeds tend to be very low; predominant direction is SW.</p>
+<h3><span class="mw-headline" id="Administrative_division">Administrative division</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jena&amp;action=edit&amp;section=9" title="Edit section: Administrative division">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Jena abuts the district of <a href="/wiki/Saale-Holzland-Kreis" title="Saale-Holzland-Kreis">Saale-Holzland</a> with the municipalities of <a href="/wiki/Lehesten,_Saale-Holzland" title="Lehesten, Saale-Holzland">Lehesten</a>, <a href="/wiki/Neueng%C3%B6nna" title="Neuengönna">Neuengönna</a> and <a href="/wiki/Golmsdorf" title="Golmsdorf">Golmsdorf</a> in the north, <a href="/wiki/Jenal%C3%B6bnitz" title="Jenalöbnitz">Jenalöbnitz</a>, <a href="/wiki/Gro%C3%9Fl%C3%B6bichau" title="Großlöbichau">Großlöbichau</a> and <a href="/wiki/Schl%C3%B6ben" title="Schlöben">Schlöben</a> in the east and <a href="/wiki/Laasdorf" title="Laasdorf">Laasdorf</a>, <a href="/wiki/Z%C3%B6llnitz" title="Zöllnitz">Zöllnitz</a>, <a href="/wiki/Sulza" title="Sulza">Sulza</a>, <a href="/wiki/Rothenstein,_Germany" title="Rothenstein, Germany">Rothenstein</a>, <a href="/wiki/Milda,_Germany" title="Milda, Germany">Milda</a> and <a href="/wiki/Bucha,_Saale-Holzland" title="Bucha, Saale-Holzland">Bucha</a> in the south and the district of <a href="/wiki/Weimarer_Land" title="Weimarer Land">Weimarer Land</a> with the municipalities of <a href="/wiki/D%C3%B6britschen" title="Döbritschen">Döbritschen</a>, <a href="/wiki/Gro%C3%9Fschwabhausen" title="Großschwabhausen">Großschwabhausen</a> and <a href="/wiki/Saaleplatte" title="Saaleplatte">Saaleplatte</a> in the west.</p>
+<p>The city itself is divided in 30 districts. The inner-city districts are Zentrum, Nord, West, Süd, Wenigenjena (east of Saale, incorporated in 1909) and Kernberge, other big districts are Lobeda (incorporated in 1946) and Winzerla (incorporated in 1922) in the south with large housing complexes.</p>
+<p>The residual districts are from a more rural constitution:</p>
+<table>
+<tr>
+<td valign="top" width="25%">
+<ul>
+<li>Ammerbach (incorporated 1922)</li>
+<li>Burgau (1922)</li>
+<li>Closewitz (1994)</li>
+<li>Cospeda (1994)</li>
+<li>Drackendorf (1994)</li>
+<li>Göschwitz (1969)</li>
+<li>Ilmnitz (1994)</li>
+</ul>
+</td>
+<td valign="top" width="25%">
+<ul>
+<li>Isserstedt (1994)</li>
+<li>Jenaprießnitz/Wogau (1994)</li>
+<li>Krippendorf (1994)</li>
+<li>Kunitz/Laasan (1994)</li>
+<li>Leutra (1994)</li>
+<li>Lichtenhain (1913)</li>
+<li>Löbstedt (1922)</li>
+</ul>
+</td>
+<td valign="top" width="25%">
+<ul>
+<li>Lützeroda (1994)</li>
+<li>Maua (1994)</li>
+<li>Münchenroda/Remderoda (1994)</li>
+<li>Vierzehnheiligen (1994)</li>
+<li>Wöllnitz (1946)</li>
+<li>Ziegenhain (1913)</li>
+<li>Zwätzen (1922)</li>
+</ul>
+</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Demographics">Demographics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jena&amp;action=edit&amp;section=10" title="Edit section: Demographics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Population_Statistics_Jena.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Population_Statistics_Jena.png/220px-Population_Statistics_Jena.png" width="220" height="136" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Population_Statistics_Jena.png/330px-Population_Statistics_Jena.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Population_Statistics_Jena.png/440px-Population_Statistics_Jena.png 2x" data-file-width="910" data-file-height="562" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Population_Statistics_Jena.png" class="internal" title="Enlarge"></a></div>
+Evolution of population until 2003</div>
+</div>
+</div>
+<table class="infobox" style="float:right;">
+<tr>
+<td colspan="2"><b>Ten largest groups of foreign residents</b><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></td>
+</tr>
+<tr>
+<th>Nationality</th>
+<th>Population (2014)</th>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/China" title="China">China</a></td>
+<td>573</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/35px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/45px-Flag_of_Russia.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Russia" title="Russia">Russia</a></td>
+<td>564</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/23px-Flag_of_Ukraine.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/35px-Flag_of_Ukraine.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/45px-Flag_of_Ukraine.svg.png 2x" data-file-width="1200" data-file-height="800" />&#160;</span><a href="/wiki/Ukraine" title="Ukraine">Ukraine</a></td>
+<td>454</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/35px-Flag_of_India.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/45px-Flag_of_India.svg.png 2x" data-file-width="1350" data-file-height="900" />&#160;</span><a href="/wiki/India" title="India">India</a></td>
+<td>302</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/23px-Flag_of_Syria.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/35px-Flag_of_Syria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/45px-Flag_of_Syria.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Syria" title="Syria">Syria</a></td>
+<td>256</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/wiki/Italy" title="Italy">Italy</a></td>
+<td>242</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/23px-Flag_of_Vietnam.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/35px-Flag_of_Vietnam.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/45px-Flag_of_Vietnam.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Vietnam" title="Vietnam">Vietnam</a></td>
+<td>228</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/35px-Flag_of_Poland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/46px-Flag_of_Poland.svg.png 2x" data-file-width="1280" data-file-height="800" />&#160;</span><a href="/wiki/Poland" title="Poland">Poland</a></td>
+<td>178</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/23px-Flag_of_Bulgaria.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/35px-Flag_of_Bulgaria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/46px-Flag_of_Bulgaria.svg.png 2x" data-file-width="1000" data-file-height="600" />&#160;</span><a href="/wiki/Bulgaria" title="Bulgaria">Bulgaria</a></td>
+<td>161</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/23px-Flag_of_Turkey.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/35px-Flag_of_Turkey.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/45px-Flag_of_Turkey.svg.png 2x" data-file-width="1200" data-file-height="800" />&#160;</span><a href="/wiki/Turkey" title="Turkey">Turkey</a></td>
+<td>141</td>
+</tr>
+</table>
+<p>During the centuries, Jena had been a town of 4,000 to 5,000 inhabitants. The population growth began in the 19th century with an amount of 6,000 in 1840 and of 8,000 in 1870. Then, a demographic boom occurred with a population of 20,000 in 1900, 50,000 in 1920, 73,000 in 1940, 81,000 in 1960 and 104,000 in 1980. The peak was reached in 1988 with a population of 108,000. The bad economic situation in eastern Germany after the reunification resulted in a decline in population, which fell to 99,000 in 1998 before rising again to 107,000 in 2012.</p>
+<p>The average growth of population between 2009 and 2012 was approximately 0.47% p. a, whereas the population in bordering rural regions is shrinking with accelerating tendency. Suburbanization played only a small role in Jena. It occurred after the reunification for a short time in the 1990s, but most of the suburban areas were situated within the administrative city borders.</p>
+<p>The birth surplus was 62 in 2012, this is +0.6 per 1,000 inhabitants (Thuringian average: -4.5; national average: -2.4). The net migration rate was +4.0 per 1,000 inhabitants in 2012 (Thuringian average: -0.8; national average: +4.6).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> The most important regions of origin of Jena migrants are rural areas of Thuringia, <a href="/wiki/Saxony-Anhalt" title="Saxony-Anhalt">Saxony-Anhalt</a> and <a href="/wiki/Saxony" title="Saxony">Saxony</a> as well as foreign countries like Poland, Russia, Ukraine, Hungary, Serbia, Romania and Bulgaria.</p>
+<p>Like other eastern German cities, Jena has only a small amount of foreign population: circa 4.0% are non-Germans by citizenship and overall 6.2% are migrants (according to <a href="/wiki/2011_EU_census" class="mw-redirect" title="2011 EU census">2011 EU census</a>). Differing from the national average, the biggest groups of migrants in Jena are <a href="/wiki/Russians_in_Germany" title="Russians in Germany">Russians</a>, <a href="/wiki/Chinese_people_in_Germany" title="Chinese people in Germany">Chinese</a> and <a href="/wiki/Ukrainians_in_Germany" title="Ukrainians in Germany">Ukrainians</a>. During recent years, the economic situation of the city improved: the unemployment rate declined from 14% in 2005 to 7% in 2013. Due to the official atheism in former <a href="/wiki/East_Germany" title="East Germany">GDR</a>, most of the population is non-religious. 15.9% are members of the <a href="/wiki/Evangelical_Church_in_Central_Germany" title="Evangelical Church in Central Germany">Evangelical Church in Central Germany</a> and 6.6% are Catholics (according to 2011 EU census).</p>
+<h2><span id="Culture,_sights_and_cityscape"></span><span class="mw-headline" id="Culture.2C_sights_and_cityscape">Culture, sights and cityscape</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jena&amp;action=edit&amp;section=11" title="Edit section: Culture, sights and cityscape">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Museums">Museums</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jena&amp;action=edit&amp;section=12" title="Edit section: Museums">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Jena has a great variety of museums:</p>
+<ul>
+<li>The <i><a href="/wiki/Optical_Museum_Jena" title="Optical Museum Jena">Optical Museum Jena</a></i> at Carl-Zeiß-Platz shows the history of optical instruments like glasses, microscopes, cameras and telescopes.</li>
+<li>The <i>Phyletisches Museum</i> at Neutor hosts a natural history exhibition with focus on evolution and fossils.</li>
+<li>The <i>Stadtmuseum &amp; Kunstsammlung</i> at Markt square shows the city history of Jena and hosts furthermore an exhibition of modern and contemporary art.</li>
+<li>The <i>Botanischer Garten</i> (botanic garden) at Fürstengraben is one of the oldest botanic gardens in Germany (established in 1794) and hosts 12,000 plants from all over the world.</li>
+<li>The <i>Romantikerhaus</i> at Unterm Markt street hosts an exhibition about the epoque of <a href="/wiki/Jena_romantics" class="mw-redirect" title="Jena romantics">Jena romantics</a> in German literature.</li>
+<li><i>Schillers Gartenhaus</i> at Schillergässchen is the former summer house of <a href="/wiki/Friedrich_Schiller" title="Friedrich Schiller">Friedrich Schiller</a> and shows an exhibition of his life and his connection to Jena.</li>
+<li>The <i>Goethe-Gedenkstätte</i> at Fürstengraben shows an exhibition about the links between <a href="/wiki/Johann_Wolfgang_von_Goethe" title="Johann Wolfgang von Goethe">Johann Wolfgang von Goethe</a> and Jena (only in summer).</li>
+<li>The <i>Ernst-Haeckel-Haus</i> at Berggasse is the former house of biologist <a href="/wiki/Ernst_Haeckel" title="Ernst Haeckel">Ernst Haeckel</a> and hosts an exhibition about his life.</li>
+<li>The <i>Schott Glasmuseum</i> at Otto-Schott-Straße shows the life of <a href="/wiki/Otto_Schott" title="Otto Schott">Otto Schott</a> and the history of his glass factory, the <a href="/wiki/Schott_AG" title="Schott AG">Schott AG</a>.</li>
+<li>The <i>Museum 1806</i> at Cospeda district hosts an exhibition about the <a href="/wiki/Battle_of_Jena%E2%80%93Auerstedt" title="Battle of Jena–Auerstedt">Battle of Jena–Auerstedt</a> during the Napoleonic wars.</li>
+<li>The University of Jena hosts some important scientific collections. While the collections of antiques and minerals are public, the <a href="/wiki/Oriental_Coin_Cabinet_Jena" title="Oriental Coin Cabinet Jena">oriental coins</a> are only accessed for research.</li>
+</ul>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:34.5px auto;"><a href="/wiki/File:Optisches_Museum_Jena.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Optisches_Museum_Jena.jpg/120px-Optisches_Museum_Jena.jpg" width="120" height="81" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Optisches_Museum_Jena.jpg/180px-Optisches_Museum_Jena.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Optisches_Museum_Jena.jpg/240px-Optisches_Museum_Jena.jpg 2x" data-file-width="2096" data-file-height="1418" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Optisches Museum</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:35px auto;"><a href="/wiki/File:Phyletisches_Museum_in_July_2012.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Phyletisches_Museum_in_July_2012.jpg/120px-Phyletisches_Museum_in_July_2012.jpg" width="120" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Phyletisches_Museum_in_July_2012.jpg/180px-Phyletisches_Museum_in_July_2012.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Phyletisches_Museum_in_July_2012.jpg/240px-Phyletisches_Museum_in_July_2012.jpg 2x" data-file-width="1000" data-file-height="667" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Phyletisches Museum</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:G%C3%B6hreJena01.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/G%C3%B6hreJena01.JPG/90px-G%C3%B6hreJena01.JPG" width="90" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/G%C3%B6hreJena01.JPG/135px-G%C3%B6hreJena01.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/G%C3%B6hreJena01.JPG/180px-G%C3%B6hreJena01.JPG 2x" data-file-width="2164" data-file-height="2887" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Stadtmuseum</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Romantikerhaus_Jena.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Romantikerhaus_Jena.jpg/91px-Romantikerhaus_Jena.jpg" width="91" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Romantikerhaus_Jena.jpg/136px-Romantikerhaus_Jena.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Romantikerhaus_Jena.jpg/181px-Romantikerhaus_Jena.jpg 2x" data-file-width="2336" data-file-height="3088" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Romantikerhaus</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:35px auto;"><a href="/wiki/File:Schillers-Gartenhaus01.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Schillers-Gartenhaus01.JPG/120px-Schillers-Gartenhaus01.JPG" width="120" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Schillers-Gartenhaus01.JPG/180px-Schillers-Gartenhaus01.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Schillers-Gartenhaus01.JPG/240px-Schillers-Gartenhaus01.JPG 2x" data-file-width="3872" data-file-height="2592" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Schillers Gartenhaus</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:35px auto;"><a href="/wiki/File:Jena_-_botanical_garden_08_(aka).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Jena_-_botanical_garden_08_%28aka%29.jpg/120px-Jena_-_botanical_garden_08_%28aka%29.jpg" width="120" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Jena_-_botanical_garden_08_%28aka%29.jpg/180px-Jena_-_botanical_garden_08_%28aka%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/da/Jena_-_botanical_garden_08_%28aka%29.jpg/240px-Jena_-_botanical_garden_08_%28aka%29.jpg 2x" data-file-width="2988" data-file-height="2000" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Botanischer Garten</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Cospeda.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/Cospeda.jpg/120px-Cospeda.jpg" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/Cospeda.jpg/180px-Cospeda.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/40/Cospeda.jpg/240px-Cospeda.jpg 2x" data-file-width="2048" data-file-height="1536" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Museum 1806 in Cospeda</p>
+</div>
+</div>
+</li>
+</ul>
+<h3><span class="mw-headline" id="Cityscape">Cityscape</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jena&amp;action=edit&amp;section=13" title="Edit section: Cityscape">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The historic city centre is located inside the former wall (which is the area between Fürstengraben in the north, Löbdergraben in the east, Teichgraben in the south and Leutragraben in the west). There are only few historic building structures in this area (e. g. at Oberlauengasse), caused by large losses during World War II and the projects of the following decades. The Eichplatz, a big sub-used square covering a large amount of the centre, is not built on since the 1960s and the discussion about its future is still in process. The wall's defortification took place relatively early – in 18th century – and the first suburbs developed in front of the former city gates. In this areas, some historic building structures from 18th and early 19th century remained like in westward Bachstraße and Wagnergasse, in northward Zwätzengasse and in southward Neugasse.</p>
+<p>The later 19th and early 20th century brought a construction boom to Jena and the city enlarged to the north and south along Saale valley, to the west along <i>Mühltal</i> and on the Saale's east side in former Wenigenjena. Compared with the city centre, later substantial losses were much slighter in this areas. During the interwar period, the construction of flats stayed on a high level but suitable ground got less, so that new housing complexes were set up relatively far away from the centre – a problem, that remained until today with long journeys and high rents as consequences. Today's Jena is not that compact as other cities in the region and urban planning is still a challenge.</p>
+<p>A peculiarity of Jena is the presence of a second old town centre with market square, town hall, castle etc. in the former town of Lobeda, which is a district since 1946, located approximately 4&#160;km (2&#160;mi) to the south of Jena's centre.</p>
+<h3><span class="mw-headline" id="Sights_and_architectural_heritage">Sights and architectural heritage</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jena&amp;action=edit&amp;section=14" title="Edit section: Sights and architectural heritage">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Churches">Churches</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jena&amp;action=edit&amp;section=15" title="Edit section: Churches">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul>
+<li>The main church St. Michael is one of the biggest <a href="/wiki/Gothic_architecture" title="Gothic architecture">Gothic</a> monuments in Thuringia and was built between 1422 and 1557. It has a bronze slab of <a href="/wiki/Martin_Luther" title="Martin Luther">Martin Luther</a>'s tomb.</li>
+<li>The St. John's Church was the church of the extinct village <i>Leutra</i> west of Jena and later used as the city's cemetery chapel. Since 1811, the Gothic building is the catholic church of Jena.</li>
+<li>The Peace Church was built between 1686 and 1693 as new cemetery chapel and is a <a href="/wiki/Baroque" title="Baroque">Baroque</a> evangelical church today.</li>
+<li>The Schiller Church east of Saale river is the evangelical parish church of the former village and today's quarter Wenigenjena. <a href="/wiki/Friedrich_Schiller" title="Friedrich Schiller">Friedrich Schiller</a> married here in 1790.</li>
+<li>The St. Peter's Church is the former city church of Jena's southern district Lobeda. The Gothic church was built around 1480.</li>
+<li>The parish church of Vierzehnheiligen (dedicated to the <a href="/wiki/Fourteen_Holy_Helpers" title="Fourteen Holy Helpers">Fourteen Holy Helpers</a>) is a Gothic-style former pilgrimage church established during the 1460s.</li>
+<li>The St. Mary's Church in Ziegenhain is a former pilgrimage church in Gothic style, built in the 15th century.</li>
+</ul>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Stadtkirche_St._Michael_in_Jena_2008-05-24.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Stadtkirche_St._Michael_in_Jena_2008-05-24.jpg/80px-Stadtkirche_St._Michael_in_Jena_2008-05-24.jpg" width="80" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Stadtkirche_St._Michael_in_Jena_2008-05-24.jpg/120px-Stadtkirche_St._Michael_in_Jena_2008-05-24.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/60/Stadtkirche_St._Michael_in_Jena_2008-05-24.jpg/160px-Stadtkirche_St._Michael_in_Jena_2008-05-24.jpg 2x" data-file-width="2397" data-file-height="3595" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Main church St. Michael</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:St._Johannes_Baptist.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/St._Johannes_Baptist.JPG/120px-St._Johannes_Baptist.JPG" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/St._Johannes_Baptist.JPG/180px-St._Johannes_Baptist.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/08/St._Johannes_Baptist.JPG/240px-St._Johannes_Baptist.JPG 2x" data-file-width="2560" data-file-height="1920" /></a></div>
+</div>
+<div class="gallerytext">
+<p>St. John's Church</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Friedenskirche,_Jena.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Friedenskirche%2C_Jena.jpg/97px-Friedenskirche%2C_Jena.jpg" width="97" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Friedenskirche%2C_Jena.jpg/145px-Friedenskirche%2C_Jena.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Friedenskirche%2C_Jena.jpg/193px-Friedenskirche%2C_Jena.jpg 2x" data-file-width="2592" data-file-height="3215" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Peace Church</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:35px auto;"><a href="/wiki/File:SchillerkircheJena01.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/SchillerkircheJena01.JPG/120px-SchillerkircheJena01.JPG" width="120" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/SchillerkircheJena01.JPG/180px-SchillerkircheJena01.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/SchillerkircheJena01.JPG/240px-SchillerkircheJena01.JPG 2x" data-file-width="5456" data-file-height="3632" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Schiller Church</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Kirche_Lobeda.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Kirche_Lobeda.JPG/90px-Kirche_Lobeda.JPG" width="90" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Kirche_Lobeda.JPG/135px-Kirche_Lobeda.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Kirche_Lobeda.JPG/180px-Kirche_Lobeda.JPG 2x" data-file-width="2824" data-file-height="3769" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Church of Lobeda</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Kirche_Vierzehnheiligen.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Kirche_Vierzehnheiligen.JPG/120px-Kirche_Vierzehnheiligen.JPG" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Kirche_Vierzehnheiligen.JPG/180px-Kirche_Vierzehnheiligen.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Kirche_Vierzehnheiligen.JPG/240px-Kirche_Vierzehnheiligen.JPG 2x" data-file-width="1600" data-file-height="1200" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Church of Vierzehnheiligen</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Jena_-_Ziegenhain_02.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Jena_-_Ziegenhain_02.jpg/120px-Jena_-_Ziegenhain_02.jpg" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Jena_-_Ziegenhain_02.jpg/180px-Jena_-_Ziegenhain_02.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Jena_-_Ziegenhain_02.jpg/240px-Jena_-_Ziegenhain_02.jpg 2x" data-file-width="2560" data-file-height="1920" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Church of Ziegenhain</p>
+</div>
+</div>
+</li>
+</ul>
+<h4><span class="mw-headline" id="Other_sights">Other sights</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jena&amp;action=edit&amp;section=16" title="Edit section: Other sights">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul>
+<li>The medieval city wall is preserved in parts (<i>Anatomieturm</i> and <i>Roter Turm</i>), the largest one is the complex around Johannistor and Pulverturm near Johannisplatz.</li>
+<li>The town hall at Markt square was built around 1412 and is one of only few Gothic town halls in Germany. It has an astronomical clock featuring the "Snatching Hans" ("<i>Schnapphans</i>").</li>
+<li>The <a href="/wiki/Planetarium_Jena" title="Planetarium Jena">planetarium</a> opened in 1926 and was the first large planetarium in the world, with <a href="/wiki/Zeiss_projector" title="Zeiss projector">technology developed by Carl Zeiss</a>.</li>
+<li>The University Main Building stands at the former castle's place and was established in 1908 in early-modern style (<a href="/wiki/Theodor_Fischer" class="mw-redirect" title="Theodor Fischer">Theodor Fischer</a>/<a href="/wiki/Bruno_Taut" title="Bruno Taut">Bruno Taut</a>).</li>
+<li>The <i>Abbeanum</i> is a university building by <a href="/wiki/Ernst_Neufert" title="Ernst Neufert">Ernst Neufert</a> in <a href="/wiki/Bauhaus" title="Bauhaus">Bauhaus</a> style, built in 1930.</li>
+<li>The <a href="/wiki/Jen_Tower" class="mw-redirect" title="Jen Tower">Jen Tower</a> is the city's highest skyscraper, built between 1969 and 1972, with a viewing platform and a sky restaurant.</li>
+<li>The <i>Haus Auerbach</i> is the former house of physicist <a href="/wiki/Felix_Auerbach" title="Felix Auerbach">Felix Auerbach</a>, built by <a href="/wiki/Walter_Gropius" title="Walter Gropius">Walter Gropius</a> and <a href="/wiki/Adolf_Meyer_(architect)" title="Adolf Meyer (architect)">Adolf Meyer</a> in <a href="/wiki/Bauhaus" title="Bauhaus">Bauhaus</a> style in 1924. Near is the <i>Haus Zuckerkandl</i>, another mansion built by Gropius in 1929.</li>
+<li>The former Carl Zeiss Factory in the city centre hosts interesting technical architecture from the period between 1880 and 1965, including Germany's first high-rise building, the <i>Bau 15</i> from 1915.</li>
+<li>The monument to John Frederick the Magnanimous (built in 1858) at the Markt square is a landmark of Jena called "Hanfried".</li>
+<li>The monument to <a href="/wiki/Ernst_Abbe" title="Ernst Abbe">Ernst Abbe</a> is a building of early-modern architecture by <a href="/wiki/Henry_van_de_Velde" title="Henry van de Velde">Henry van de Velde</a> (1910).</li>
+<li>The Lobdeburg is a castle ruin above Lobeda district and the former seat of the lords of Lobdeburg, founders of Jena.</li>
+</ul>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Jena_Johannistor.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Jena_Johannistor.jpg/83px-Jena_Johannistor.jpg" width="83" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Jena_Johannistor.jpg/125px-Jena_Johannistor.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Jena_Johannistor.jpg/166px-Jena_Johannistor.jpg 2x" data-file-width="2189" data-file-height="3155" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Johannistor, medieval city gate</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Rathaus_Jena.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Rathaus_Jena.JPG/120px-Rathaus_Jena.JPG" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Rathaus_Jena.JPG/180px-Rathaus_Jena.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Rathaus_Jena.JPG/240px-Rathaus_Jena.JPG 2x" data-file-width="1573" data-file-height="1180" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Town hall</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Zeiss-Planetarium_1926_Ernst-Abbe-Stiftung_-_Jena_Th%C3%BCringen_Foto_Wolfgang_Pehlemann_Steinberg_PICT0028.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Zeiss-Planetarium_1926_Ernst-Abbe-Stiftung_-_Jena_Th%C3%BCringen_Foto_Wolfgang_Pehlemann_Steinberg_PICT0028.jpg/120px-Zeiss-Planetarium_1926_Ernst-Abbe-Stiftung_-_Jena_Th%C3%BCringen_Foto_Wolfgang_Pehlemann_Steinberg_PICT0028.jpg" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Zeiss-Planetarium_1926_Ernst-Abbe-Stiftung_-_Jena_Th%C3%BCringen_Foto_Wolfgang_Pehlemann_Steinberg_PICT0028.jpg/180px-Zeiss-Planetarium_1926_Ernst-Abbe-Stiftung_-_Jena_Th%C3%BCringen_Foto_Wolfgang_Pehlemann_Steinberg_PICT0028.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Zeiss-Planetarium_1926_Ernst-Abbe-Stiftung_-_Jena_Th%C3%BCringen_Foto_Wolfgang_Pehlemann_Steinberg_PICT0028.jpg/240px-Zeiss-Planetarium_1926_Ernst-Abbe-Stiftung_-_Jena_Th%C3%BCringen_Foto_Wolfgang_Pehlemann_Steinberg_PICT0028.jpg 2x" data-file-width="1600" data-file-height="1200" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Planetarium</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:35.5px auto;"><a href="/wiki/File:Universit%C3%A4ts_Hauptgeb%C3%A4ude._Jena.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Universit%C3%A4ts_Hauptgeb%C3%A4ude._Jena.jpg/120px-Universit%C3%A4ts_Hauptgeb%C3%A4ude._Jena.jpg" width="120" height="79" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Universit%C3%A4ts_Hauptgeb%C3%A4ude._Jena.jpg/180px-Universit%C3%A4ts_Hauptgeb%C3%A4ude._Jena.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Universit%C3%A4ts_Hauptgeb%C3%A4ude._Jena.jpg/240px-Universit%C3%A4ts_Hauptgeb%C3%A4ude._Jena.jpg 2x" data-file-width="3589" data-file-height="2375" /></a></div>
+</div>
+<div class="gallerytext">
+<p>University Main Building</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Ernst-Abbe_Memorial_2.Jena.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Ernst-Abbe_Memorial_2.Jena.jpg/120px-Ernst-Abbe_Memorial_2.Jena.jpg" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Ernst-Abbe_Memorial_2.Jena.jpg/180px-Ernst-Abbe_Memorial_2.Jena.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Ernst-Abbe_Memorial_2.Jena.jpg/240px-Ernst-Abbe_Memorial_2.Jena.jpg 2x" data-file-width="3648" data-file-height="2736" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Ernst Abbe Monument</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Pulverturm_und_Uniturm.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Pulverturm_und_Uniturm.jpg/120px-Pulverturm_und_Uniturm.jpg" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Pulverturm_und_Uniturm.jpg/180px-Pulverturm_und_Uniturm.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/46/Pulverturm_und_Uniturm.jpg/240px-Pulverturm_und_Uniturm.jpg 2x" data-file-width="3425" data-file-height="2569" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Pulverturm at night</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:35px auto;"><a href="/wiki/File:JenTower_Jena.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/JenTower_Jena.jpg/120px-JenTower_Jena.jpg" width="120" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/JenTower_Jena.jpg/180px-JenTower_Jena.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4d/JenTower_Jena.jpg/240px-JenTower_Jena.jpg 2x" data-file-width="1024" data-file-height="680" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Jen Tower</p>
+</div>
+</div>
+</li>
+</ul>
+<h3><span class="mw-headline" id="Theatre_and_music">Theatre and music</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jena&amp;action=edit&amp;section=17" title="Edit section: Theatre and music">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Jena has its own theatre and orchestra, the <a href="/wiki/Jenaer_Philharmonie" title="Jenaer Philharmonie">Jenaer Philharmonie</a>.</p>
+<h3><span class="mw-headline" id="Sports">Sports</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jena&amp;action=edit&amp;section=18" title="Edit section: Sports">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Jena hosts a traditional football club, the <a href="/wiki/FC_Carl_Zeiss_Jena" title="FC Carl Zeiss Jena">FC Carl Zeiss Jena</a>. At its best during the 1970s and 1980s, the club won the national GDR championship and played in <a href="/wiki/UEFA_Cup_Winners%27_Cup" title="UEFA Cup Winners' Cup">UEFA Cup Winners' Cup</a> final of 1981, but lost against <a href="/wiki/FC_Dinamo_Tbilisi" title="FC Dinamo Tbilisi">FC Dinamo Tbilisi</a>. Compared to then, the results of FC Carl Zeiss are poor today, playing only in 4th league (<a href="/wiki/Regionalliga_Nordost" title="Regionalliga Nordost">Regionalliga Nordost</a>). In women's football, the <a href="/wiki/FF_USV_Jena" title="FF USV Jena">FF USV Jena</a> is member of the German first division. Both clubs' stadium is the <a href="/wiki/Ernst-Abbe-Sportfeld" title="Ernst-Abbe-Sportfeld">Ernst-Abbe-Sportfeld</a>. Also, the city's basketball team, <a href="/wiki/Science_City_Jena" title="Science City Jena">Science City Jena</a> played in <a href="/wiki/Basketball_Bundesliga" title="Basketball Bundesliga">Basketball Bundesliga</a> in 2007-2008 season and returned to top level in 2015-16 season. In addition, since 2000, the university of Jena has a rugby team. Since 2012, the <a href="/w/index.php?title=USV_Rugby_Jena&amp;action=edit&amp;redlink=1" class="new" title="USV Rugby Jena (page does not exist)">USV Rugby Jena</a><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> team has been playing in the <a href="/wiki/2._Rugby-Bundesliga" title="2. Rugby-Bundesliga">2. Rugby-Bundesliga</a>.</p>
+<p>Current men's <a href="/wiki/Javelin_throw" title="Javelin throw">javelin throw</a> world record (98.48) by <a href="/wiki/Jan_%C5%BDelezn%C3%BD" title="Jan Železný">Jan Železný</a> was achieved in Jena.</p>
+<h2><span class="mw-headline" id="Economy_and_infrastructure">Economy and infrastructure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jena&amp;action=edit&amp;section=19" title="Edit section: Economy and infrastructure">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="Agriculture,_industry_and_services"></span><span class="mw-headline" id="Agriculture.2C_industry_and_services">Agriculture, industry and services</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jena&amp;action=edit&amp;section=20" title="Edit section: Agriculture, industry and services">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Das_h%C3%B6chste_B%C3%BCrogeb%C3%A4ude_Ostdeutschlands_-_der_fast_160m_hohe_Jentower.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Das_h%C3%B6chste_B%C3%BCrogeb%C3%A4ude_Ostdeutschlands_-_der_fast_160m_hohe_Jentower.jpg/220px-Das_h%C3%B6chste_B%C3%BCrogeb%C3%A4ude_Ostdeutschlands_-_der_fast_160m_hohe_Jentower.jpg" width="220" height="293" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Das_h%C3%B6chste_B%C3%BCrogeb%C3%A4ude_Ostdeutschlands_-_der_fast_160m_hohe_Jentower.jpg/330px-Das_h%C3%B6chste_B%C3%BCrogeb%C3%A4ude_Ostdeutschlands_-_der_fast_160m_hohe_Jentower.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Das_h%C3%B6chste_B%C3%BCrogeb%C3%A4ude_Ostdeutschlands_-_der_fast_160m_hohe_Jentower.jpg/440px-Das_h%C3%B6chste_B%C3%BCrogeb%C3%A4ude_Ostdeutschlands_-_der_fast_160m_hohe_Jentower.jpg 2x" data-file-width="600" data-file-height="800" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Das_h%C3%B6chste_B%C3%BCrogeb%C3%A4ude_Ostdeutschlands_-_der_fast_160m_hohe_Jentower.jpg" class="internal" title="Enlarge"></a></div>
+The <a href="/wiki/Jen_Tower" class="mw-redirect" title="Jen Tower">Jen Tower</a> is a symbol of East Germany's economy</div>
+</div>
+</div>
+<p>Agriculture plays a small role in Jena, only 40% of the municipal territory are in use for farming (compared to over 60% in <a href="/wiki/Erfurt" title="Erfurt">Erfurt</a> and nearly 50% in <a href="/wiki/Weimar" title="Weimar">Weimar</a>). Furthermore, the <a href="/wiki/Muschelkalk" title="Muschelkalk">Muschelkalk</a> soil is not very fertile and is often used as pasture for cattle. The only large agricultural area is situated around Isserstedt, Cospeda and Vierzehnheiligen district in the northwest. Wine-growing was discontinued during the <a href="/wiki/Little_Ice_Age" title="Little Ice Age">Little Ice Age</a> around 1800, but is now possible again due to <a href="/wiki/Global_warming" title="Global warming">global warming</a>. Nevertheless, the commercial production of wine hasn't yet resumed.</p>
+<p>Industry is a great tradition in Jena, reaching back to the mid-19th century. In 2012, there were 80 companies in industrial production with more than 20 workers employing 8,300 persons and generating a turnover of more than 1,5 billion Euro.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> The most important branches are precision machinery, pharmaceuticals, optics, biotechnology and software engineering. Notable companies in Jena are the traditional <a href="/wiki/Carl_Zeiss_AG" title="Carl Zeiss AG">Carl Zeiss AG</a>, <a href="/wiki/Schott_AG" title="Schott AG">Schott AG</a>, <a href="/wiki/Jenoptik" title="Jenoptik">Jenoptik</a> and <a href="/wiki/Jenapharm" title="Jenapharm">Jenapharm</a> as well as new companies like <a href="/wiki/Intershop_Communications" class="mw-redirect" title="Intershop Communications">Intershop Communications</a>, <a href="/wiki/Analytik_Jena" title="Analytik Jena">Analytik Jena</a> and <a href="/wiki/Carl_Zeiss_Meditec" title="Carl Zeiss Meditec">Carl Zeiss Meditec</a>. Jena has the most market-listed companies and is one of the most important economic centres of east Germany. The city is among Germany's 50 fastest growing regions, with many internationally renowned research institutes and companies, a comparatively low unemployment and a young population structure. Jena was awarded the title "Stadt der Wissenschaft" (city of science) by the <i>Stifterverband für die Deutsche Wissenschaft</i>, a German science association, in 2008.</p>
+<p>Jena is also a hub of public and private services, specially in education, research and business services. Other important institutions are the High Court of Thuringia and Thuringia's solely university hospital. Furthermore, Jena is a regional centre in infrastructure and retail with many shopping centres.</p>
+<h3><span class="mw-headline" id="Transport">Transport</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jena&amp;action=edit&amp;section=21" title="Edit section: Transport">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="By_rail">By rail</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jena&amp;action=edit&amp;section=22" title="Edit section: By rail">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:13-05-03-jena-by-RalfR-93.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/13-05-03-jena-by-RalfR-93.jpg/220px-13-05-03-jena-by-RalfR-93.jpg" width="220" height="146" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/13-05-03-jena-by-RalfR-93.jpg/330px-13-05-03-jena-by-RalfR-93.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/13-05-03-jena-by-RalfR-93.jpg/440px-13-05-03-jena-by-RalfR-93.jpg 2x" data-file-width="4288" data-file-height="2848" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:13-05-03-jena-by-RalfR-93.jpg" class="internal" title="Enlarge"></a></div>
+Paradies station</div>
+</div>
+</div>
+<p>Jena has no central railway station with connection to all the lines at one point. What is relatively common in many countries is quite unusual for a German city and caused on the one hand by the city's difficult topography and on the other hand by the history, because the two main lines were built by two different private companies. The connection in north-south direction is the <a href="/wiki/Saal_Railway" class="mw-redirect" title="Saal Railway">Saal Railway</a> with <a href="/wiki/Intercity-Express" title="Intercity-Express">ICE</a> trains running from <a href="/wiki/Berlin" title="Berlin">Berlin</a> in the north to <a href="/wiki/Munich" title="Munich">Munich</a> in the south once an hour stopping at <a href="/wiki/Jena_Paradies_station" title="Jena Paradies station">Paradies station</a> and local trains to <a href="/wiki/Naumburg_(Saale)" class="mw-redirect" title="Naumburg (Saale)">Naumburg</a> and <a href="/wiki/Saalfeld" title="Saalfeld">Saalfeld</a> stopping at Zwätzen, <a href="/wiki/Jena_Saale_station" title="Jena Saale station">Saalbahnhof</a>, Paradies and <a href="/wiki/Jena-G%C3%B6schwitz_station" title="Jena-Göschwitz station">Göschwitz</a>. The connection in west-east direction is the <a href="/wiki/Weimar%E2%80%93Gera_railway" title="Weimar–Gera railway">Weimar–Gera railway</a> with regional express trains to <a href="/wiki/G%C3%B6ttingen" title="Göttingen">Göttingen</a> (via <a href="/wiki/Erfurt" title="Erfurt">Erfurt</a> and <a href="/wiki/Weimar" title="Weimar">Weimar</a>) and <a href="/wiki/Zwickau" title="Zwickau">Zwickau</a>, <a href="/wiki/Glauchau" title="Glauchau">Glauchau</a>, <a href="/wiki/Altenburg" title="Altenburg">Altenburg</a> or <a href="/wiki/Greiz" title="Greiz">Greiz</a> (via <a href="/wiki/Gera" title="Gera">Gera</a>) and local trains between Weimar, Jena and Gera. The express trains stop at <a href="/wiki/Jena_West_station" title="Jena West station">West station</a> near the city centre and Göschwitz, the local trains furthermore at Neue Schenke. The junction between both lines is the <a href="/wiki/Jena-G%C3%B6schwitz_station" title="Jena-Göschwitz station">Göschwitz station</a>, approx. 5&#160;km (3&#160;mi) south of the city centre.</p>
+<p>In 2017–when the new <a href="/wiki/Nuremberg%E2%80%93Erfurt_high-speed_railway" title="Nuremberg–Erfurt high-speed railway">Nuremberg–Erfurt high-speed railway</a> opens–the city will lose its connection to the long-distance train network. For compensation, there will be new regional express train services to <a href="/wiki/Halle_(Saale)" title="Halle (Saale)">Halle</a> and <a href="/wiki/Leipzig" title="Leipzig">Leipzig</a> in the north and, already started, to <a href="/wiki/Nuremberg" title="Nuremberg">Nuremberg</a> in the south.</p>
+<h4><span class="mw-headline" id="By_road">By road</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jena&amp;action=edit&amp;section=23" title="Edit section: By road">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The two <a href="/wiki/German_autobahns" class="mw-redirect" title="German autobahns">Autobahnen</a> crossing each other nearby at <i>Hermsdorf junction</i> are the <a href="/wiki/Bundesautobahn_4" title="Bundesautobahn 4">Bundesautobahn 4</a> (Frankfurt–Dresden) and the <a href="/wiki/Bundesautobahn_9" title="Bundesautobahn 9">Bundesautobahn 9</a> (Berlin–Munich), which were both built during the 1930s. The A 4 runs quite next to the Lobeda housing complexes and the Leutra district. Therefore, it was rebuilt in the 2000s and got two tunnels to protect the residents and the environment against noise and air pollution. Furthermore, there are two <a href="/wiki/Bundesstra%C3%9Fe" title="Bundesstraße">Bundesstraßen</a> crossing in Jena: the <a href="/wiki/Bundesstra%C3%9Fe_7" title="Bundesstraße 7">Bundesstraße 7</a> is a connection to <a href="/wiki/Weimar" title="Weimar">Weimar</a> in the west and <a href="/wiki/Gera" title="Gera">Gera</a> in the east and the <a href="/w/index.php?title=Bundesstra%C3%9Fe_88&amp;action=edit&amp;redlink=1" class="new" title="Bundesstraße 88 (page does not exist)">Bundesstraße 88</a> is a connection along Saale valley to <a href="/wiki/Naumburg_(Saale)" class="mw-redirect" title="Naumburg (Saale)">Naumburg</a> in the north and <a href="/wiki/Rudolstadt" title="Rudolstadt">Rudolstadt</a> in the south. Furthermore, there are some roads to <a href="/wiki/Apolda" title="Apolda">Apolda</a> via Isserstedt, <a href="/wiki/Blankenhain" title="Blankenhain">Blankenhain</a> via Ammerbach and <a href="/wiki/Stadtroda" title="Stadtroda">Stadtroda</a> via Lobeda. Most parts of city centre inside the former walls are pedestrian areas.</p>
+<h4><span class="mw-headline" id="By_aviation">By aviation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jena&amp;action=edit&amp;section=24" title="Edit section: By aviation">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The next local airports to Jena are the <a href="/wiki/Erfurt%E2%80%93Weimar_Airport" title="Erfurt–Weimar Airport">Erfurt–Weimar Airport</a>, approx. 50&#160;km (31&#160;mi) to the west and the <a href="/wiki/Leipzig/Halle_Airport" title="Leipzig/Halle Airport">Leipzig/Halle Airport</a>, approx. 80&#160;km (50&#160;mi) to the northeast, which both serve mostly for holiday flights to the Mediterranean and other touristic regions. The next major airports are <a href="/wiki/Frankfurt_Airport" title="Frankfurt Airport">Frankfurt Airport</a>, the upcoming <a href="/wiki/Berlin_Brandenburg_Airport" title="Berlin Brandenburg Airport">Berlin Brandenburg Airport</a> and <a href="/wiki/Munich_Airport" title="Munich Airport">Munich Airport</a>.</p>
+<h4><span class="mw-headline" id="By_bike">By bike</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jena&amp;action=edit&amp;section=25" title="Edit section: By bike">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Despite the hilly terrain in some parts, Jena is a cycling city, due to the many students. Cycling has become more popular in Jena since the 1990s when good quality bike paths began to be built. There are bike lanes along some main streets, though, in comparison to other cities in Germany, there are deficits.</p>
+<p>For <a href="/wiki/Bicycle_touring" title="Bicycle touring">bicycle touring</a> there is the "Saale track" (<a href="/wiki/German_language" title="German language">German</a>: <span lang="de" xml:lang="de">Saale-Radweg</span>) and the "Thuringian city string track" (<a href="/wiki/German_language" title="German language">German</a>: <span lang="de" xml:lang="de">Radweg Thüringer Städtekette</span>). Both of these connect points of tourist interest: the former along the <a href="/wiki/Saale" title="Saale">Saale</a> valley from <a href="/wiki/Fichtel_Mountains" title="Fichtel Mountains">Fichtel Mountains</a> in Bavaria to the <a href="/wiki/Elbe" title="Elbe">Elbe</a> river near <a href="/wiki/Magdeburg" title="Magdeburg">Magdeburg</a>, while the latter follows the medieval <a href="/wiki/Via_Regia" title="Via Regia">Via Regia</a> closely and runs from <a href="/wiki/Eisenach" title="Eisenach">Eisenach</a> via <a href="/wiki/Erfurt" title="Erfurt">Erfurt</a>, <a href="/wiki/Weimar" title="Weimar">Weimar</a> and Jena to <a href="/wiki/Altenburg" title="Altenburg">Altenburg</a> via <a href="/wiki/Gera" title="Gera">Gera</a>.</p>
+<h4><span class="mw-headline" id="Trams_and_buses">Trams and buses</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jena&amp;action=edit&amp;section=26" title="Edit section: Trams and buses">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:JenaStraB.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/JenaStraB.jpg/220px-JenaStraB.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/JenaStraB.jpg/330px-JenaStraB.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/13/JenaStraB.jpg/440px-JenaStraB.jpg 2x" data-file-width="1024" data-file-height="768" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:JenaStraB.jpg" class="internal" title="Enlarge"></a></div>
+A tram in the city centre</div>
+</div>
+</div>
+<p>The <a href="/wiki/Trams_in_Jena" title="Trams in Jena">Jena tramway network</a> was established in 1901 and enlarged after the German reunification. It connects the major districts with the city centre; there are 5 ordinary lines served in different intervals between 7,5 and 20 minutes. Nevertheless, there are some old single-track segments interfering the services. Furthermore, there is an extensive network of buses, run (like the trams) by the "Jenah" organization (a pun on Jena and <i>Nahverkehr</i>, German for public transport). Buses of the JES Verkehrsgesellschaft connect Jena with cities and villages in the region.</p>
+<h3><span class="mw-headline" id="Education_and_research">Education and research</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jena&amp;action=edit&amp;section=27" title="Edit section: Education and research">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Jena_ThULB_2.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Jena_ThULB_2.jpg/220px-Jena_ThULB_2.jpg" width="220" height="169" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Jena_ThULB_2.jpg/330px-Jena_ThULB_2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Jena_ThULB_2.jpg/440px-Jena_ThULB_2.jpg 2x" data-file-width="3116" data-file-height="2388" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Jena_ThULB_2.jpg" class="internal" title="Enlarge"></a></div>
+University Library</div>
+</div>
+</div>
+<p>After reunification, the educational system was realigned. The <a href="/wiki/University_of_Jena" title="University of Jena">University of Jena</a>, established in 1558, was largely extended. Today there are approximately 21,000 students at this university. Another college is the <a href="/wiki/Ernst-Abbe-Hochschule_Jena" title="Ernst-Abbe-Hochschule Jena">Ernst-Abbe-Hochschule Jena</a>, a <a href="/wiki/Fachhochschule" title="Fachhochschule">University of Applied Sciences</a> founded in 1991 which offers a combination of scientific training and its practical applications. There are also nearly 5,000 students.</p>
+<p>Further there are six <a href="/wiki/Gymnasium_(Germany)" title="Gymnasium (Germany)">Gymnasiums</a>, five state-owned and one Christian (ecumenical). One of the state-owned is a <i>Sportgymnasium</i>, an elite boarding school for young talents in athletics or football. Another state-owned Gymnasium (the <a href="/wiki/Carl-Zeiss-Gymnasium_Jena" title="Carl-Zeiss-Gymnasium Jena">Carl-Zeiss-Gymnasium Jena</a>) offers a focus in sciences also as an elite boarding school additionally to the common curriculum.</p>
+<p>The various research institutes based in Jena include:</p>
+<ul>
+<li>The <a href="/wiki/Max_Planck_Institute_for_Chemical_Ecology" title="Max Planck Institute for Chemical Ecology">Max Planck Institute for Chemical Ecology</a> is an important research center and offers a Ph.D. program.</li>
+<li>The <a href="/wiki/Max_Planck_Institute_for_the_Science_of_Human_History" title="Max Planck Institute for the Science of Human History">Max Planck Institute for the Science of Human History</a></li>
+<li>The <a href="/wiki/Max_Planck_Institute_for_Biogeochemistry" title="Max Planck Institute for Biogeochemistry">Max Planck Institute for Biogeochemistry</a></li>
+<li>The <a href="/wiki/IPHT_Jena" title="IPHT Jena">Institute of Photonic Technology</a></li>
+<li>The <a href="/wiki/Fraunhofer_Society" title="Fraunhofer Society">Fraunhofer Institute for Applied Optics and Precision Engineering (IOF)</a></li>
+<li>The <a href="/w/index.php?title=Leibniz_Institute_for_Age_Research&amp;action=edit&amp;redlink=1" class="new" title="Leibniz Institute for Age Research (page does not exist)">Leibniz Institute for Age Research</a>, a research center with a Ph.D program</li>
+<li>INNOVENT - a private research center</li>
+<li>The Leibniz Institute for Natural Product Research and Infection Biology</li>
+<li>Friedrich-Löffler-Institute of Bacterial Infections and Zoonoses</li>
+<li>Friedrich-Löffler-Institute of Molecular Pathogenesis</li>
+<li>The Jena Center for Bioinformatics</li>
+</ul>
+<h2><span class="mw-headline" id="Politics">Politics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jena&amp;action=edit&amp;section=28" title="Edit section: Politics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Mayor_and_city_council">Mayor and city council</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jena&amp;action=edit&amp;section=29" title="Edit section: Mayor and city council">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The current mayor <a href="/wiki/Albrecht_Schr%C3%B6ter" title="Albrecht Schröter">Albrecht Schröter</a>, <a href="/wiki/Social_Democratic_Party_of_Germany" title="Social Democratic Party of Germany">SPD</a> has been in office since 2006. The first free elected mayor after reunification was <a href="/wiki/Peter_R%C3%B6hlinger" title="Peter Röhlinger">Peter Röhlinger</a>, <a href="/wiki/Free_Democratic_Party_(Germany)" title="Free Democratic Party (Germany)">FDP</a> (in office between 1990 and 2006).</p>
+<p>The last municipal election was held in 2009 with the result:</p>
+<table class="wikitable" border="1">
+<tr style="background-color: #FEDBCA">
+<th>Party</th>
+<th>Percentage</th>
+<th>Seats in council</th>
+</tr>
+<tr>
+<td><a href="/wiki/Social_Democratic_Party_of_Germany" title="Social Democratic Party of Germany">SPD</a> (social democratic)</td>
+<td align="right">25.2</td>
+<td align="right">11</td>
+</tr>
+<tr>
+<td><a href="/wiki/The_Left_(Germany)" title="The Left (Germany)">The Left</a> (left social democratic)</td>
+<td align="right">20.2</td>
+<td align="right">9</td>
+</tr>
+<tr>
+<td><a href="/wiki/Christian_Democratic_Union_(Germany)" class="mw-redirect" title="Christian Democratic Union (Germany)">CDU</a> (conservative)</td>
+<td align="right">19.0</td>
+<td align="right">9</td>
+</tr>
+<tr>
+<td><a href="/wiki/Free_Democratic_Party_(Germany)" title="Free Democratic Party (Germany)">FDP</a> (liberal)</td>
+<td align="right">11.0</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td><a href="/wiki/Free_Voters" title="Free Voters">Bürger für Jena</a> (citizen-oriented/populist)</td>
+<td align="right">10.2</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td><a href="/wiki/Alliance_%2790/The_Greens" class="mw-redirect" title="Alliance '90/The Greens">Greens</a> (green)</td>
+<td align="right">10.1</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td>others</td>
+<td align="right"></td>
+<td align="right">3</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Twin_towns">Twin towns</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jena&amp;action=edit&amp;section=30" title="Edit section: Twin towns">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/List_of_twin_towns_and_sister_cities_in_Germany" title="List of twin towns and sister cities in Germany">List of twin towns and sister cities in Germany</a></div>
+<p>Jena is <a href="/wiki/Twin_towns_and_sister_cities" class="mw-redirect" title="Twin towns and sister cities">twinned</a> with:<sup id="cite_ref-SP_8-0" class="reference"><a href="#cite_note-SP-8">[8]</a></sup></p>
+<div class="div-col columns column-count column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+<ul>
+<li><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Aubervilliers" title="Aubervilliers">Aubervilliers</a>, France, since 1999<sup id="cite_ref-SP_8-1" class="reference"><a href="#cite_note-SP-8">[8]</a></sup></li>
+<li><span class="flagicon"><a href="/wiki/State_of_Palestine" title="State of Palestine"><img alt="State of Palestine" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/23px-Flag_of_Palestine.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/35px-Flag_of_Palestine.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/46px-Flag_of_Palestine.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Beit_Jala" title="Beit Jala">Beit Jala</a>, <a href="/wiki/State_of_Palestine" title="State of Palestine">State of Palestine</a>, since 2011<sup id="cite_ref-SP_8-2" class="reference"><a href="#cite_note-SP-8">[8]</a></sup></li>
+<li><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/Berkeley,_California" title="Berkeley, California">Berkeley, California</a>, United States, since 1989<sup id="cite_ref-SP_8-3" class="reference"><a href="#cite_note-SP-8">[8]</a></sup></li>
+<li><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Erlangen" title="Erlangen">Erlangen</a>, Germany, since 1987<sup id="cite_ref-SP_8-4" class="reference"><a href="#cite_note-SP-8">[8]</a></sup></li>
+<li><span class="flagicon"><a href="/wiki/Romania" title="Romania"><img alt="Romania" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/23px-Flag_of_Romania.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/35px-Flag_of_Romania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/45px-Flag_of_Romania.svg.png 2x" data-file-width="600" data-file-height="400" /></a></span> <a href="/wiki/Lugoj" title="Lugoj">Lugoj</a>, <a href="/wiki/Romania" title="Romania">Romania</a>, since 1983<sup id="cite_ref-SP_8-5" class="reference"><a href="#cite_note-SP-8">[8]</a></sup></li>
+<li><span class="flagicon"><a href="/wiki/Portugal" title="Portugal"><img alt="Portugal" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/23px-Flag_of_Portugal.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/35px-Flag_of_Portugal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/45px-Flag_of_Portugal.svg.png 2x" data-file-width="600" data-file-height="400" /></a></span> <a href="/wiki/Porto" title="Porto">Porto</a>, <a href="/wiki/Portugal" title="Portugal">Portugal</a>, since 1984<sup id="cite_ref-SP_8-6" class="reference"><a href="#cite_note-SP-8">[8]</a></sup><sup id="cite_ref-Porto_International_9-0" class="reference"><a href="#cite_note-Porto_International-9">[9]</a></sup></li>
+<li><span class="flagicon"><a href="/wiki/Nicaragua" title="Nicaragua"><img alt="Nicaragua" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/23px-Flag_of_Nicaragua.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/35px-Flag_of_Nicaragua.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/46px-Flag_of_Nicaragua.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/San_Marcos,_Nicaragua" class="mw-redirect" title="San Marcos, Nicaragua">San Marcos</a>, <a href="/wiki/Nicaragua" title="Nicaragua">Nicaragua</a>, since 1996<sup id="cite_ref-SP_8-7" class="reference"><a href="#cite_note-SP-8">[8]</a></sup></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Famous_citizens_and_alumni_of_the_university">Famous citizens and alumni of the university</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jena&amp;action=edit&amp;section=31" title="Edit section: Famous citizens and alumni of the university">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a href="/wiki/File:Prince_Bernhard_1942cr.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Prince_Bernhard_1942cr.jpg/200px-Prince_Bernhard_1942cr.jpg" width="200" height="220" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Prince_Bernhard_1942cr.jpg/300px-Prince_Bernhard_1942cr.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Prince_Bernhard_1942cr.jpg/400px-Prince_Bernhard_1942cr.jpg 2x" data-file-width="600" data-file-height="660" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Prince_Bernhard_1942cr.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Prince_Bernhard_of_Lippe-Biesterfeld" title="Prince Bernhard of Lippe-Biesterfeld">Prince Bernhard of Lippe-Biesterfeld</a> in 1942.</div>
+</div>
+</div>
+<ul>
+<li><a href="/wiki/Ernst_Abbe" title="Ernst Abbe">Ernst Abbe</a> (1840–1905), physicist, social reformer, partner of <a href="/wiki/Carl_Zeiss" title="Carl Zeiss">Carl Zeiss</a> and <a href="/wiki/Otto_Schott" title="Otto Schott">Otto Schott</a></li>
+<li><a href="/wiki/Anton_Wilhelm_Amo" title="Anton Wilhelm Amo">Anton Wilhelm Amo</a>, African philosopher</li>
+<li><a href="/wiki/Johannes_R._Becher" title="Johannes R. Becher">Johannes R. Becher</a>, poet and politician</li>
+<li><a href="/wiki/Hans_Berger" title="Hans Berger">Hans Berger</a>, discoverer of human EEG</li>
+<li><a href="/wiki/Prince_Bernhard_of_Lippe-Biesterfeld" title="Prince Bernhard of Lippe-Biesterfeld">Prince Bernhard of Lippe-Biesterfeld</a></li>
+<li><a href="/wiki/Johann_Friedrich_Blumenbach" title="Johann Friedrich Blumenbach">Johann Friedrich Blumenbach</a>, naturalist, doctor, comparative anatomist and physiologist</li>
+<li><a href="/wiki/Johann_Gottfried_Eichhorn" title="Johann Gottfried Eichhorn">Johann Gottfried Eichhorn</a>, orientalist and Protestant theologian of the Enlightenment</li>
+<li><a href="/wiki/Robert_Enke" title="Robert Enke">Robert Enke</a> (1977–2009), German footballer (goalkeeper)</li>
+<li><a href="/wiki/Walter_Eucken" title="Walter Eucken">Walter Eucken</a>, founder of neoliberal economic theory</li>
+<li><a href="/wiki/Rudolf_Eucken" class="mw-redirect" title="Rudolf Eucken">Rudolf Eucken</a>, philosopher and the winner of the 1908 <a href="/wiki/Nobel_Prize_for_Literature" class="mw-redirect" title="Nobel Prize for Literature">Nobel Prize for Literature</a></li>
+<li><a href="/wiki/Johann_Gottlieb_Fichte" title="Johann Gottlieb Fichte">Johann Gottlieb Fichte</a>, philosopher and early German nationalist</li>
+<li><a href="/wiki/Gottlob_Frege" title="Gottlob Frege">Gottlob Frege</a>, mathematician, logician, and philosopher</li>
+<li><a href="/wiki/Friedrich_Fr%C3%B6bel" title="Friedrich Fröbel">Friedrich Wilhelm August Fröbel</a>, inventor of the kindergarten</li>
+</ul>
+<div class="div-col columns column-count column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+<ul>
+<li><a href="/wiki/Johann_Wolfgang_Goethe" class="mw-redirect" title="Johann Wolfgang Goethe">Johann Wolfgang Goethe</a>, (1749-1832), poet/writer</li>
+<li><a href="/wiki/Ernst_Haeckel" title="Ernst Haeckel">Ernst Haeckel</a>, German evolutionary biologist/zoologist</li>
+<li><a href="/wiki/Georg_Wilhelm_Friedrich_Hegel" title="Georg Wilhelm Friedrich Hegel">G. W. F. Hegel</a> (1770–1831), philosopher</li>
+<li><a href="/wiki/Friedrich_H%C3%B6lderlin" title="Friedrich Hölderlin">Friedrich Hölderlin</a>, poet</li>
+<li><a href="/wiki/Otto_G%C3%BCnsche" title="Otto Günsche">Otto Günsche</a> (1917–2003), a mid-ranking commander in the Waffen-SS Nazi Germany during World War II.</li>
+<li><a href="/wiki/Helmut_K%C3%A4mpfe" class="mw-redirect" title="Helmut Kämpfe">Helmut Kämpfe</a>, Knights Cross</li>
+<li><a href="/wiki/Gottfried_Wilhelm_Leibniz" title="Gottfried Wilhelm Leibniz">Gottfried Wilhelm Leibniz</a>, polymath and philosopher</li>
+<li><a href="/wiki/Martin_Luther" title="Martin Luther">Martin Luther</a>, reformer</li>
+<li><a href="/wiki/Karl_Marx" title="Karl Marx">Karl Marx</a> (1818-1883), philosopher/economist</li>
+<li><a href="/wiki/Tilo_Medek" title="Tilo Medek">Tilo Medek</a> (1940–2006), composer</li>
+<li><a href="/wiki/Philipp_Melanchthon" class="mw-redirect" title="Philipp Melanchthon">Philipp Melanchthon</a>, theologian</li>
+<li><a href="/wiki/Johann_Karl_August_Mus%C3%A4us" title="Johann Karl August Musäus">Johann Karl August Musäus</a>, author</li>
+<li><a href="/wiki/Friedrich_Wilhelm_Nietzsche" class="mw-redirect" title="Friedrich Wilhelm Nietzsche">Friedrich Wilhelm Nietzsche</a>, (1844-1900), philosopher</li>
+<li><a href="/wiki/Novalis" title="Novalis">Novalis</a>, poet</li>
+<li><a href="/wiki/Max_Reger" title="Max Reger">Max Reger</a>, composer, pianist, professor and conductor</li>
+<li><a href="/wiki/Friedrich_Wilhelm_Joseph_Schelling" title="Friedrich Wilhelm Joseph Schelling">Friedrich Schelling</a>, philosopher</li>
+<li><a href="/wiki/Friedrich_Schiller" title="Friedrich Schiller">Friedrich Schiller</a>, poet/writer</li>
+<li><a href="/wiki/Karoline_Schelling" class="mw-redirect" title="Karoline Schelling">Caroline Böhmer Schlegel Schelling</a></li>
+<li><a href="/wiki/August_Wilhelm_von_Schlegel" class="mw-redirect" title="August Wilhelm von Schlegel">Wilhelm Schlegel</a>, philosopher</li>
+<li><a href="/wiki/Bernd_Schneider_(footballer)" title="Bernd Schneider (footballer)">Bernd Schneider</a>, footballer</li>
+<li><a href="/wiki/Otto_Schott" title="Otto Schott">Otto Schott</a>, inventor of fireproof glass, founder of the Schott glass works</li>
+<li><a href="/wiki/Reinhard_Johannes_Sorge" class="mw-redirect" title="Reinhard Johannes Sorge">Reinhard Johannes Sorge</a>, poet, dramatist, and <a href="/wiki/Roman_Catholic" class="mw-redirect" title="Roman Catholic">Roman Catholic</a> convert</li>
+<li><a href="/wiki/Johann_Gustav_Stickel" title="Johann Gustav Stickel">Johann Gustav Stickel</a>, orientalist</li>
+<li><a href="/wiki/Kurt_Tucholsky" title="Kurt Tucholsky">Kurt Tucholsky</a>, writer</li>
+<li><a href="/wiki/Carl_Zeiss" title="Carl Zeiss">Carl Zeiss</a> (1816-1888), founder of the Zeiss company</li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jena&amp;action=edit&amp;section=32" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.statistik.thueringen.de/datenbank/TabAnzeige.asp?tabelle=gg000102">"Bevölkerung der Gemeinden, Gemeinschaftsfreie Gemeinde, erfüllende/beauftragende Gemeinden, Verwaltungsgemeinschaft/Mitgliedsgemeinden in Thüringen"</a>. <i><a href="/wiki/Th%C3%BCringer_Landesamt_f%C3%BCr_Statistik" class="mw-redirect" title="Thüringer Landesamt für Statistik">Thüringer Landesamt für Statistik</a></i> (in German). July 2016.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJena&amp;rft.atitle=Bev%C3%B6lkerung+der+Gemeinden%2C+Gemeinschaftsfreie+Gemeinde%2C+erf%C3%BCllende%2Fbeauftragende+Gemeinden%2C+Verwaltungsgemeinschaft%2FMitgliedsgemeinden+in+Th%C3%BCringen&amp;rft.date=2016-07&amp;rft.genre=unknown&amp;rft.jtitle=Th%C3%BCringer+Landesamt+f%C3%BCr+Statistik&amp;rft_id=http%3A%2F%2Fwww.statistik.thueringen.de%2Fdatenbank%2FTabAnzeige.asp%3Ftabelle%3Dgg000102&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-koppen-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-koppen_2-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Kottek, M.; J. Grieser; C. Beck; B. Rudolf; F. Rubel (2006). <a rel="nofollow" class="external text" href="http://www.schweizerbart.de/resources/downloads/paper_free/55034.pdf">"World Map of the Köppen-Geiger climate classification updated"</a> <span style="font-size:85%;">(PDF)</span>. <i>Meteorol. Z</i>. <b>15</b> (3): 259–263. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1127%2F0941-2948%2F2006%2F0130">10.1127/0941-2948/2006/0130</a><span class="reference-accessdate">. Retrieved <span class="nowrap">22 January</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJena&amp;rft.atitle=World+Map+of+the+K%C3%B6ppen-Geiger+climate+classification+updated&amp;rft.au=B.+Rudolf&amp;rft.au=C.+Beck&amp;rft.au=F.+Rubel&amp;rft.au=J.+Grieser&amp;rft.aufirst=M.&amp;rft.aulast=Kottek&amp;rft.date=2006&amp;rft.genre=article&amp;rft.issue=3&amp;rft.jtitle=Meteorol.+Z.&amp;rft.pages=259-263&amp;rft.volume=15&amp;rft_id=http%3A%2F%2Fwww.schweizerbart.de%2Fresources%2Fdownloads%2Fpaper_free%2F55034.pdf&amp;rft_id=info%3Adoi%2F10.1127%2F0941-2948%2F2006%2F0130&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Peel-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Peel_3-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Peel, M. C. and Finlayson, B. L. and McMahon, T. A. (2007). <a rel="nofollow" class="external text" href="http://www.hydrol-earth-syst-sci.net/11/1633/2007/hess-11-1633-2007.html">"Updated world map of the Köppen–Geiger climate classification"</a>. <i>Hydrol. Earth Syst. Sci</i>. <b>11</b>: 1633–1644. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1027-5606">1027-5606</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.5194%2Fhess-11-1633-2007">10.5194/hess-11-1633-2007</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJena&amp;rft.atitle=Updated+world+map+of+the+K%C3%B6ppen%E2%80%93Geiger+climate+classification&amp;rft.au=Peel%2C+M.+C.+and+Finlayson%2C+B.+L.+and+McMahon%2C+T.+A.&amp;rft.date=2007&amp;rft.genre=article&amp;rft.issn=1027-5606&amp;rft.jtitle=Hydrol.+Earth+Syst.+Sci.&amp;rft.pages=1633-1644&amp;rft.volume=11&amp;rft_id=http%3A%2F%2Fwww.hydrol-earth-syst-sci.net%2F11%2F1633%2F2007%2Fhess-11-1633-2007.html&amp;rft_id=info%3Adoi%2F10.5194%2Fhess-11-1633-2007&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Multiple names: authors list (<a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">link</a>)</span> <i>(direct: <a rel="nofollow" class="external text" href="http://www.hydrol-earth-syst-sci.net/11/1633/2007/hess-11-1633-2007.pdf">Final Revised Paper</a>)</i></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.jena.de/statistik/bericht/bericht.php">Quartalsbericht IV/2014</a></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">According to <a rel="nofollow" class="external text" href="http://www.tls.thueringen.de/startseite_hinweis.asp">Thüringer Landesamt für Statistik</a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.usvjena.de/rugby.html">http://www.usvjena.de/rugby.html</a></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.tls.thueringen.de/datenbank/TabAnzeige.asp?tabelle=gg000602">According to the Thüringer Landesamt für Statistik</a></span></li>
+<li id="cite_note-SP-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-SP_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-SP_8-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-SP_8-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-SP_8-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-SP_8-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-SP_8-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-SP_8-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-SP_8-7"><sup><i><b>h</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://theintercept.com/surveillance-catalogue/category/survey-equipment/">"Partnerstädte &amp; partnerschaftliche Beziehungen"</a> (official website) (in German). Stadt Jena<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-12-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJena&amp;rft.btitle=Partnerst%C3%A4dte+%26+partnerschaftliche+Beziehungen&amp;rft.genre=unknown&amp;rft.pub=Stadt+Jena&amp;rft_id=https%3A%2F%2Ftheintercept.com%2Fsurveillance-catalogue%2Fcategory%2Fsurvey-equipment%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Porto_International-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-Porto_International_9-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120113054303/http://www.cm-porto.pt/document/449218/481584.pdf">"International Relations of the City of Porto"</a> <span style="font-size:85%;">(PDF)</span>. <a href="/wiki/Copyright" title="Copyright">©</a> 2006-2009 Municipal Directorateofthe PresidencyServices InternationalRelationsOffice. Archived from <a rel="nofollow" class="external text" href="http://www.cm-porto.pt/document/449218/481584.pdf">the original</a> <span style="font-size:85%;">(PDF)</span> on 2012-01-13<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-07-10</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJena&amp;rft.btitle=International+Relations+of+the+City+of+Porto&amp;rft.genre=unknown&amp;rft.pub=%C2%A9+2006-2009+Municipal+Directorateofthe+PresidencyServices+InternationalRelationsOffice&amp;rft_id=http%3A%2F%2Fwww.cm-porto.pt%2Fdocument%2F449218%2F481584.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jena&amp;action=edit&amp;section=33" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Special:Search/Jena" class="extiw" title="commons:Special:Search/Jena">Jena</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a href="/wiki/File:Wikivoyage-Logo-v3-icon.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/16px-Wikivoyage-Logo-v3-icon.svg.png" width="16" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/24px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/32px-Wikivoyage-Logo-v3-icon.svg.png 2x" data-file-width="193" data-file-height="193" /></a> <a href="https://en.wikivoyage.org/wiki/Jena#Q3150" class="extiw" title="voy:Jena">Jena</a> travel guide from Wikivoyage</li>
+<li><a rel="nofollow" class="external text" href="http://www.jena.de/">Official Homepage of Jena</a> <span class="languageicon">(in German)</span> <span class="languageicon">(in English)</span></li>
+<li><img alt="Wikisource-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png" width="12" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/18px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/24px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" />&#160;<cite class="citation encyclopaedia">"<a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Jena" class="extiw" title="wikisource:1911 Encyclopædia Britannica/Jena">Jena</a>". <i><a href="/wiki/Encyclop%C3%A6dia_Britannica_Eleventh_Edition" title="Encyclopædia Britannica Eleventh Edition">Encyclopædia Britannica</a></i> (11th ed.). 1911.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJena&amp;rft.atitle=Jena&amp;rft.btitle=Encyclop%C3%A6dia+Britannica&amp;rft.date=1911&amp;rft.edition=11th&amp;rft.genre=bookitem&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Places_adjacent_to_Jena" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div id="Places_adjacent_to_Jena" style="font-size:114%;margin:0 4em">Places adjacent to Jena</div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<table role="presentation" style="width:100%; margin:0; text-align:center;">
+<tr>
+<td><a href="/wiki/Nordhausen" title="Nordhausen">Nordhausen</a></td>
+<td><a href="/wiki/Sangerhausen" title="Sangerhausen">Sangerhausen</a></td>
+<td><a href="/wiki/Halle_(Saale)" title="Halle (Saale)">Halle</a> — <a href="/wiki/Leipzig" title="Leipzig">Leipzig</a><br />
+<a href="/wiki/Naumburg_(Saale)" class="mw-redirect" title="Naumburg (Saale)">Naumburg</a></td>
+</tr>
+<tr>
+<td style="width:33%"><a href="/wiki/Erfurt" title="Erfurt">Erfurt</a> — <a href="/wiki/Weimar" title="Weimar">Weimar</a></td>
+<td style="width:33%;">
+<div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Pfeil_oben.svg/14px-Pfeil_oben.svg.png" title="North" width="14" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Pfeil_oben.svg/21px-Pfeil_oben.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/76/Pfeil_oben.svg/28px-Pfeil_oben.svg.png 2x" data-file-width="501" data-file-height="595" /></div>
+<div style="white-space:nowrap;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Pfeil_links.svg/17px-Pfeil_links.svg.png" title="West" width="17" height="14" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Pfeil_links.svg/25px-Pfeil_links.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/85/Pfeil_links.svg/33px-Pfeil_links.svg.png 2x" data-file-width="595" data-file-height="501" /><b style="display:inline-block; vertical-align:middle; margin:0.75em 1em">Jena</b><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Pfeil_rechts.svg/17px-Pfeil_rechts.svg.png" title="East" width="17" height="14" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Pfeil_rechts.svg/25px-Pfeil_rechts.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Pfeil_rechts.svg/33px-Pfeil_rechts.svg.png 2x" data-file-width="595" data-file-height="501" /></div>
+<div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pfeil_unten.svg/14px-Pfeil_unten.svg.png" title="South" width="14" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pfeil_unten.svg/21px-Pfeil_unten.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pfeil_unten.svg/28px-Pfeil_unten.svg.png 2x" data-file-width="501" data-file-height="595" /></div>
+</td>
+<td style="width:33%"><a href="/wiki/Gera" title="Gera">Gera</a> — <a href="/wiki/Chemnitz" title="Chemnitz">Chemnitz</a> — <a href="/wiki/Dresden" title="Dresden">Dresden</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Rudolstadt" title="Rudolstadt">Rudolstadt</a><br />
+<a href="/wiki/Saalfeld" title="Saalfeld">Saalfeld</a></td>
+<td><a href="/wiki/Hof,_Bavaria" title="Hof, Bavaria">Hof</a></td>
+<td><a href="/wiki/Plauen" title="Plauen">Plauen</a></td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Cities_in_Germany_by_population" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Cities_in_Germany" title="Template:Cities in Germany"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Cities_in_Germany" title="Template talk:Cities in Germany"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cities_in_Germany&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Cities_in_Germany_by_population" style="font-size:114%;margin:0 4em">Cities in Germany by population</div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">1,000,000+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Berlin" title="Berlin">Berlin</a></li>
+<li><a href="/wiki/Cologne" title="Cologne">Cologne</a></li>
+<li><a href="/wiki/Hamburg" title="Hamburg">Hamburg</a></li>
+<li><a href="/wiki/Munich" title="Munich">Munich</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">500,000+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bremen" title="Bremen">Bremen</a></li>
+<li><a href="/wiki/Dortmund" title="Dortmund">Dortmund</a></li>
+<li><a href="/wiki/Dresden" title="Dresden">Dresden</a></li>
+<li><a href="/wiki/D%C3%BCsseldorf" title="Düsseldorf">Düsseldorf</a></li>
+<li><a href="/wiki/Essen" title="Essen">Essen</a></li>
+<li><a href="/wiki/Frankfurt" title="Frankfurt">Frankfurt</a></li>
+<li><a href="/wiki/Hanover" title="Hanover">Hanover</a></li>
+<li><a href="/wiki/Leipzig" title="Leipzig">Leipzig</a></li>
+<li><a href="/wiki/Nuremberg" title="Nuremberg">Nuremberg</a></li>
+<li><a href="/wiki/Stuttgart" title="Stuttgart">Stuttgart</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">200,000+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aachen" title="Aachen">Aachen</a></li>
+<li><a href="/wiki/Augsburg" title="Augsburg">Augsburg</a></li>
+<li><a href="/wiki/Bielefeld" title="Bielefeld">Bielefeld</a></li>
+<li><a href="/wiki/Bochum" title="Bochum">Bochum</a></li>
+<li><a href="/wiki/Bonn" title="Bonn">Bonn</a></li>
+<li><a href="/wiki/Braunschweig" title="Braunschweig">Braunschweig</a></li>
+<li><a href="/wiki/Chemnitz" title="Chemnitz">Chemnitz</a></li>
+<li><a href="/wiki/Duisburg" title="Duisburg">Duisburg</a></li>
+<li><a href="/wiki/Erfurt" title="Erfurt">Erfurt</a></li>
+<li><a href="/wiki/Freiburg_im_Breisgau" title="Freiburg im Breisgau">Freiburg im Breisgau</a></li>
+<li><a href="/wiki/Gelsenkirchen" title="Gelsenkirchen">Gelsenkirchen</a></li>
+<li><a href="/wiki/Halle_(Saale)" title="Halle (Saale)">Halle (Saale)</a></li>
+<li><a href="/wiki/Karlsruhe" title="Karlsruhe">Karlsruhe</a></li>
+<li><a href="/wiki/Kiel" title="Kiel">Kiel</a></li>
+<li><a href="/wiki/Krefeld" title="Krefeld">Krefeld</a></li>
+<li><a href="/wiki/L%C3%BCbeck" title="Lübeck">Lübeck</a></li>
+<li><a href="/wiki/Magdeburg" title="Magdeburg">Magdeburg</a></li>
+<li><a href="/wiki/Mainz" title="Mainz">Mainz</a></li>
+<li><a href="/wiki/Mannheim" title="Mannheim">Mannheim</a></li>
+<li><a href="/wiki/M%C3%BCnster" title="Münster">Münster</a></li>
+<li><a href="/wiki/M%C3%B6nchengladbach" title="Mönchengladbach">Mönchengladbach</a></li>
+<li><a href="/wiki/Oberhausen" title="Oberhausen">Oberhausen</a></li>
+<li><a href="/wiki/Rostock" title="Rostock">Rostock</a></li>
+<li><a href="/wiki/Wiesbaden" title="Wiesbaden">Wiesbaden</a></li>
+<li><a href="/wiki/Wuppertal" title="Wuppertal">Wuppertal</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">100,000+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bergisch_Gladbach" title="Bergisch Gladbach">Bergisch Gladbach</a></li>
+<li><a href="/wiki/Bottrop" title="Bottrop">Bottrop</a></li>
+<li><a href="/wiki/Bremerhaven" title="Bremerhaven">Bremerhaven</a></li>
+<li><a href="/wiki/Cottbus" title="Cottbus">Cottbus</a></li>
+<li><a href="/wiki/Darmstadt" title="Darmstadt">Darmstadt</a></li>
+<li><a href="/wiki/Erlangen" title="Erlangen">Erlangen</a></li>
+<li><a href="/wiki/F%C3%BCrth" title="Fürth">Fürth</a></li>
+<li><a href="/wiki/G%C3%B6ttingen" title="Göttingen">Göttingen</a></li>
+<li><a href="/wiki/Hagen" title="Hagen">Hagen</a></li>
+<li><a href="/wiki/Hamm" title="Hamm">Hamm</a></li>
+<li><a href="/wiki/Heidelberg" title="Heidelberg">Heidelberg</a></li>
+<li><a href="/wiki/Heilbronn" title="Heilbronn">Heilbronn</a></li>
+<li><a href="/wiki/Herne,_North_Rhine-Westphalia" title="Herne, North Rhine-Westphalia">Herne</a></li>
+<li><a href="/wiki/Hildesheim" title="Hildesheim">Hildesheim</a></li>
+<li><a href="/wiki/Ingolstadt" title="Ingolstadt">Ingolstadt</a></li>
+<li><a class="mw-selflink selflink">Jena</a></li>
+<li><a href="/wiki/Kassel" title="Kassel">Kassel</a></li>
+<li><a href="/wiki/Koblenz" title="Koblenz">Koblenz</a></li>
+<li><a href="/wiki/Leverkusen" title="Leverkusen">Leverkusen</a></li>
+<li><a href="/wiki/Ludwigshafen" title="Ludwigshafen">Ludwigshafen</a></li>
+<li><a href="/wiki/Moers" title="Moers">Moers</a></li>
+<li><a href="/wiki/M%C3%BClheim" title="Mülheim">Mülheim an der Ruhr</a></li>
+<li><a href="/wiki/Neuss" title="Neuss">Neuss</a></li>
+<li><a href="/wiki/Offenbach_am_Main" title="Offenbach am Main">Offenbach am Main</a></li>
+<li><a href="/wiki/Oldenburg_(Oldenburg)" class="mw-redirect" title="Oldenburg (Oldenburg)">Oldenburg</a></li>
+<li><a href="/wiki/Osnabr%C3%BCck" title="Osnabrück">Osnabrück</a></li>
+<li><a href="/wiki/Paderborn" title="Paderborn">Paderborn</a></li>
+<li><a href="/wiki/Pforzheim" title="Pforzheim">Pforzheim</a></li>
+<li><a href="/wiki/Potsdam" title="Potsdam">Potsdam</a></li>
+<li><a href="/wiki/Recklinghausen" title="Recklinghausen">Recklinghausen</a></li>
+<li><a href="/wiki/Regensburg" title="Regensburg">Regensburg</a></li>
+<li><a href="/wiki/Remscheid" title="Remscheid">Remscheid</a></li>
+<li><a href="/wiki/Reutlingen" title="Reutlingen">Reutlingen</a></li>
+<li><a href="/wiki/Saarbr%C3%BCcken" title="Saarbrücken">Saarbrücken</a></li>
+<li><a href="/wiki/Salzgitter" title="Salzgitter">Salzgitter</a></li>
+<li><a href="/wiki/Siegen" title="Siegen">Siegen</a></li>
+<li><a href="/wiki/Solingen" title="Solingen">Solingen</a></li>
+<li><a href="/wiki/Trier" title="Trier">Trier</a></li>
+<li><a href="/wiki/Ulm" title="Ulm">Ulm</a></li>
+<li><a href="/wiki/Wolfsburg" title="Wolfsburg">Wolfsburg</a></li>
+<li><a href="/wiki/W%C3%BCrzburg" title="Würzburg">Würzburg</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/List_of_cities_and_towns_in_Germany" title="List of cities and towns in Germany">complete list</a></li>
+<li><a href="/wiki/List_of_municipalities_in_Germany" title="List of municipalities in Germany">municipalities</a></li>
+<li><a href="/wiki/Metropolitan_regions_in_Germany" title="Metropolitan regions in Germany">metropolitan regions</a></li>
+<li><a href="/wiki/List_of_cities_in_Germany_by_population" title="List of cities in Germany by population">cities with more than 100,000 inhabitants</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Cities_in_Thuringia_by_population" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Cities_in_Thuringia" title="Template:Cities in Thuringia"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Cities_in_Thuringia" title="Template talk:Cities in Thuringia"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cities_in_Thuringia&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Cities_in_Thuringia_by_population" style="font-size:114%;margin:0 4em">Cities in Thuringia by population</div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">100,000+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Erfurt" title="Erfurt">Erfurt</a></li>
+<li><a class="mw-selflink selflink">Jena</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">50,000+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Gera" title="Gera">Gera</a></li>
+<li><a href="/wiki/Weimar" title="Weimar">Weimar</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">20,000+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Altenburg" title="Altenburg">Altenburg</a></li>
+<li><a href="/wiki/Apolda" title="Apolda">Apolda</a></li>
+<li><a href="/wiki/Arnstadt" title="Arnstadt">Arnstadt</a></li>
+<li><a href="/wiki/Eisenach" title="Eisenach">Eisenach</a></li>
+<li><a href="/wiki/Gotha" title="Gotha">Gotha</a></li>
+<li><a href="/wiki/Greiz" title="Greiz">Greiz</a></li>
+<li><a href="/wiki/Ilmenau" title="Ilmenau">Ilmenau</a></li>
+<li><a href="/wiki/Meiningen" title="Meiningen">Meiningen</a></li>
+<li><a href="/wiki/M%C3%BChlhausen" title="Mühlhausen">Mühlhausen</a></li>
+<li><a href="/wiki/Nordhausen" title="Nordhausen">Nordhausen</a></li>
+<li><a href="/wiki/Rudolstadt" title="Rudolstadt">Rudolstadt</a></li>
+<li><a href="/wiki/Saalfeld" title="Saalfeld">Saalfeld</a></li>
+<li><a href="/wiki/Sondershausen" title="Sondershausen">Sondershausen</a></li>
+<li><a href="/wiki/Sonneberg" title="Sonneberg">Sonneberg</a></li>
+<li><a href="/wiki/Suhl" title="Suhl">Suhl</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">10,000+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bad_Langensalza" title="Bad Langensalza">Bad Langensalza</a></li>
+<li><a href="/wiki/Bad_Salzungen" title="Bad Salzungen">Bad Salzungen</a></li>
+<li><a href="/wiki/Eisenberg,_Thuringia" title="Eisenberg, Thuringia">Eisenberg</a></li>
+<li><a href="/wiki/Heilbad_Heiligenstadt" title="Heilbad Heiligenstadt">Heiligenstadt</a></li>
+<li><a href="/wiki/Hildburghausen" title="Hildburghausen">Hildburghausen</a></li>
+<li><a href="/wiki/Leinefelde-Worbis" title="Leinefelde-Worbis">Leinefelde-Worbis</a></li>
+<li><a href="/wiki/Meuselwitz" title="Meuselwitz">Meuselwitz</a></li>
+<li><a href="/wiki/P%C3%B6%C3%9Fneck" title="Pößneck">Pößneck</a></li>
+<li><a href="/wiki/Schmalkalden" title="Schmalkalden">Schmalkalden</a></li>
+<li><a href="/wiki/Schm%C3%B6lln" title="Schmölln">Schmölln</a></li>
+<li><a href="/wiki/S%C3%B6mmerda" title="Sömmerda">Sömmerda</a></li>
+<li><a href="/wiki/Waltershausen" title="Waltershausen">Waltershausen</a></li>
+<li><a href="/wiki/Zella-Mehlis" title="Zella-Mehlis">Zella-Mehlis</a></li>
+<li><a href="/wiki/Zeulenroda-Triebes" title="Zeulenroda-Triebes">Zeulenroda-Triebes</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="border.7C30px.7CFlag_of_Thuringia_Urban_and_rural_districts_in_the_Free_State_of_Thuringia_in_Germany_border.7C30px.7CFlag_of_Germany" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Germany_districts_Thuringia" title="Template:Germany districts Thuringia"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Germany_districts_Thuringia" title="Template talk:Germany districts Thuringia"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Germany_districts_Thuringia&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="border.7C30px.7CFlag_of_Thuringia_Urban_and_rural_districts_in_the_Free_State_of_Thuringia_in_Germany_border.7C30px.7CFlag_of_Germany" style="font-size:114%;margin:0 4em"><a href="/wiki/File:Flag_of_Thuringia.svg" class="image" title="Flag of Thuringia"><img alt="Flag of Thuringia" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Thuringia.svg/30px-Flag_of_Thuringia.svg.png" width="30" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Thuringia.svg/45px-Flag_of_Thuringia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Thuringia.svg/60px-Flag_of_Thuringia.svg.png 2x" data-file-width="500" data-file-height="250" /></a> Urban and rural districts in the <a href="/wiki/Thuringia" title="Thuringia">Free State of Thuringia</a> in Germany <a href="/wiki/File:Flag_of_Germany.svg" class="image" title="Flag of Germany"><img alt="Flag of Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/30px-Flag_of_Germany.svg.png" width="30" height="18" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/45px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/60px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Urban districts</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Eisenach" title="Eisenach">Eisenach</a></li>
+<li><a href="/wiki/Erfurt" title="Erfurt">Erfurt</a></li>
+<li><a href="/wiki/Gera" title="Gera">Gera</a></li>
+<li><a class="mw-selflink selflink">Jena</a></li>
+<li><a href="/wiki/Suhl" title="Suhl">Suhl</a></li>
+<li><a href="/wiki/Weimar" title="Weimar">Weimar</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Rural districts</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Altenburger_Land" title="Altenburger Land">Altenburger Land</a></li>
+<li><a href="/wiki/Eichsfeld_(district)" title="Eichsfeld (district)">Eichsfeld</a></li>
+<li><a href="/wiki/Gotha_(district)" title="Gotha (district)">Gotha</a></li>
+<li><a href="/wiki/Greiz_(district)" title="Greiz (district)">Greiz</a></li>
+<li><a href="/wiki/Hildburghausen_(district)" title="Hildburghausen (district)">Hildburghausen</a></li>
+<li><a href="/wiki/Ilm-Kreis" title="Ilm-Kreis">Ilm-Kreis</a></li>
+<li><a href="/wiki/Kyffh%C3%A4userkreis" title="Kyffhäuserkreis">Kyffhäuserkreis</a></li>
+<li><a href="/wiki/Nordhausen_(district)" title="Nordhausen (district)">Nordhausen</a></li>
+<li><a href="/wiki/Saale-Holzland-Kreis" title="Saale-Holzland-Kreis">Saale-Holzland-Kreis</a></li>
+<li><a href="/wiki/Saale-Orla-Kreis" title="Saale-Orla-Kreis">Saale-Orla-Kreis</a></li>
+<li><a href="/wiki/Saalfeld-Rudolstadt" title="Saalfeld-Rudolstadt">Saalfeld-Rudolstadt</a></li>
+<li><a href="/wiki/Schmalkalden-Meiningen" title="Schmalkalden-Meiningen">Schmalkalden-Meiningen</a></li>
+<li><a href="/wiki/S%C3%B6mmerda_(district)" title="Sömmerda (district)">Sömmerda</a></li>
+<li><a href="/wiki/Sonneberg_(district)" title="Sonneberg (district)">Sonneberg</a></li>
+<li><a href="/wiki/Unstrut-Hainich-Kreis" title="Unstrut-Hainich-Kreis">Unstrut-Hainich-Kreis</a></li>
+<li><a href="/wiki/Wartburgkreis" title="Wartburgkreis">Wartburgkreis</a></li>
+<li><a href="/wiki/Weimarer_Land" title="Weimarer Land">Weimarer Land</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/313003605">WorldCat Identities</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/313003605">313003605</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n80025810">n80025810</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/4028557-1">4028557-1</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Historical_Dictionary_of_Switzerland" title="Historical Dictionary of Switzerland">HDS</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.hls-dhs-dss.ch/textes/f/F6614.php">6614</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1264
+Cached time: 20171018011634
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.680 seconds
+Real time usage: 0.958 seconds
+Preprocessor visited node count: 7683/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 101347/2097152 bytes
+Template argument size: 18963/2097152 bytes
+Highest expansion depth: 26/40
+Expensive parser function count: 7/500
+Lua time usage: 0.237/10.000 seconds
+Lua memory usage: 7.27 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  755.933      1 -total
+ 46.71%  353.068      1 Template:Infobox_German_location
+ 44.39%  335.580      1 Template:Infobox_settlement
+ 37.45%  283.102      1 Template:Infobox
+ 11.63%   87.912      7 Template:Population_Germany
+  9.02%   68.191      8 Template:Both
+  8.70%   65.773      1 Template:Coord
+  7.70%   58.243      7 Template:Metadata_Population_DE-TH
+  6.59%   49.781     12 Template:Convert
+  6.25%   47.246      3 Template:Cite_web
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:182922-0!canonical and timestamp 20171018011633 and revision id 791598264
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Jena&amp;oldid=791598264">https://en.wikipedia.org/w/index.php?title=Jena&amp;oldid=791598264</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Cities_in_Thuringia" title="Category:Cities in Thuringia">Cities in Thuringia</a></li><li><a href="/wiki/Category:Jena" title="Category:Jena">Jena</a></li><li><a href="/wiki/Category:University_towns_in_Germany" title="Category:University towns in Germany">University towns in Germany</a></li><li><a href="/wiki/Category:Grand_Duchy_of_Saxe-Weimar-Eisenach" title="Category:Grand Duchy of Saxe-Weimar-Eisenach">Grand Duchy of Saxe-Weimar-Eisenach</a></li><li><a href="/wiki/Category:Holocaust_locations_in_Germany" title="Category:Holocaust locations in Germany">Holocaust locations in Germany</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_German-language_sources_(de)" title="Category:CS1 German-language sources (de)">CS1 German-language sources (de)</a></li><li><a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">CS1 maint: Multiple names: authors list</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li><li><a href="/wiki/Category:Articles_containing_German-language_text" title="Category:Articles containing German-language text">Articles containing German-language text</a></li><li><a href="/wiki/Category:Articles_with_German-language_external_links" title="Category:Articles with German-language external links">Articles with German-language external links</a></li><li><a href="/wiki/Category:Wikipedia_articles_incorporating_a_citation_from_the_1911_Encyclopaedia_Britannica_with_Wikisource_reference" title="Category:Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference">Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Jena" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Jena" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Jena" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Jena" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Jena">Read</a></span></li>
+							<li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Jena&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Jena&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Jena" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Jena" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Jena&amp;oldid=791598264" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Jena&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3150" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Jena&amp;id=791598264" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Jena">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Jena&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Jena&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Jena" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikivoyage badge-Q17559452 badge-recommendedarticle" title="recommended article"><a href="https://en.wikivoyage.org/wiki/Jena" hreflang="en">Wikivoyage</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Jena" title="Jena – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%8A%D9%86%D8%A7" title="ينا – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%DB%8C%D9%86%D8%A7" title="ینا – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Jena" title="Jena – Chinese (Min Nan)" lang="zh-min-nan" hreflang="zh-min-nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-ba"><a href="https://ba.wikipedia.org/wiki/%D0%99%D0%B5%D0%BD%D0%B0_(%D2%A1%D0%B0%D0%BB%D0%B0)" title="Йена (ҡала) – Bashkir" lang="ba" hreflang="ba" class="interlanguage-link-target">Башҡортса</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%95%D0%BD%D0%B0" title="Ена – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/%D0%95%D0%BD%D0%B0_(%D0%B3%D0%BE%D1%80%D0%B0%D0%B4)" title="Ена (горад) – Belarusian (Taraškievica orthography)" lang="be-x-old" hreflang="be-x-old" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%99%D0%B5%D0%BD%D0%B0_(%D0%B3%D1%80%D0%B0%D0%B4)" title="Йена (град) – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Jena" title="Jena – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Jena" title="Jena – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Jena" title="Jena – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Kreisfreie_Stadt_Jena" title="Kreisfreie Stadt Jena – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Jena" title="Jena – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Jena" title="Jena – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Jena" title="Jena – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de badge-Q17437798 badge-goodarticle" title="good article"><a href="https://de.wikipedia.org/wiki/Jena" title="Jena – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Jena" title="Jena – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%99%CE%AD%CE%BD%CE%B1" title="Ιένα – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Jena" title="Jena – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Jena" title="Jena – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Jena" title="Jena – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%DB%8C%D9%86%D8%A7" title="ینا – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/I%C3%A9na" title="Iéna – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/Jena" title="Jena – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li><li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/Jena" title="Jena – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li><li class="interlanguage-link interwiki-gd"><a href="https://gd.wikipedia.org/wiki/Jena" title="Jena – Scottish Gaelic" lang="gd" hreflang="gd" class="interlanguage-link-target">Gàidhlig</a></li><li class="interlanguage-link interwiki-hak"><a href="https://hak.wikipedia.org/wiki/Jena" title="Jena – Hakka Chinese" lang="hak" hreflang="hak" class="interlanguage-link-target">客家語/Hak-kâ-ngî</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%98%88%EB%82%98" title="예나 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%9C%E0%A5%87%E0%A4%A8%E0%A4%BE" title="जेना – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-hsb"><a href="https://hsb.wikipedia.org/wiki/Jena" title="Jena – Upper Sorbian" lang="hsb" hreflang="hsb" class="interlanguage-link-target">Hornjoserbsce</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Jena" title="Jena – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-bpy"><a href="https://bpy.wikipedia.org/wiki/%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A6%BE" title="জেনা – Bishnupriya" lang="bpy" hreflang="bpy" class="interlanguage-link-target">বিষ্ণুপ্রিয়া মণিপুরী</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Jena" title="Jena – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Jena" title="Jena – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Jena" title="Jena – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%99%D7%A0%D7%94" title="ינה – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%98%E1%83%94%E1%83%9C%E1%83%90" title="იენა – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Jena" title="Jena – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Iena" title="Iena – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/J%C4%93na" title="Jēna – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/J%C4%97na" title="Jėna – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-lmo"><a href="https://lmo.wikipedia.org/wiki/Jena" title="Jena – Lombard" lang="lmo" hreflang="lmo" class="interlanguage-link-target">Lumbaart</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/J%C3%A9na" title="Jéna – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%88%D0%B5%D0%BD%D0%B0" title="Јена – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Jena,_Jerman" title="Jena, Jerman – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Jena_(Duitsland)" title="Jena (Duitsland) – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-new"><a href="https://new.wikipedia.org/wiki/%E0%A4%9C%E0%A5%87%E0%A4%A8%E0%A4%BE" title="जेना – Newari" lang="new" hreflang="new" class="interlanguage-link-target">नेपाल भाषा</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%A7%E3%83%BC%E3%83%8A" title="イェーナ – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-frr"><a href="https://frr.wikipedia.org/wiki/Jena" title="Jena – Northern Frisian" lang="frr" hreflang="frr" class="interlanguage-link-target">Nordfriisk</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Jena" title="Jena – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Jena" title="Jena – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Jena" title="Jena – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Jena" title="Jena – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%D8%AC%DB%8C%D9%86%D8%A7" title="جینا – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li><li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/Jena" title="Jena – Low German" lang="nds" hreflang="nds" class="interlanguage-link-target">Plattdüütsch</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Jena" title="Jena – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Jena" title="Jena – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Jena" title="Jena – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%99%D0%B5%D0%BD%D0%B0_(%D0%B3%D0%BE%D1%80%D0%BE%D0%B4)" title="Йена (город) – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sc"><a href="https://sc.wikipedia.org/wiki/Jena" title="Jena – Sardinian" lang="sc" hreflang="sc" class="interlanguage-link-target">Sardu</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Jena" title="Jena – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-stq"><a href="https://stq.wikipedia.org/wiki/Jena" title="Jena – Saterland Frisian" lang="stq" hreflang="stq" class="interlanguage-link-target">Seeltersk</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Jena" title="Jena – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Jena" title="Jena – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Jena" title="Jena – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%88%D0%B5%D0%BD%D0%B0" title="Јена – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Jena" title="Jena – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Jena" title="Jena – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Jena" title="Jena – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%95%D0%BD%D0%B0_(%D1%88%D3%99%D2%BB%D3%99%D1%80)" title="Ена (шәһәр) – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Jena" title="Jena – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%84%D0%BD%D0%B0_(%D0%BC%D1%96%D1%81%D1%82%D0%BE)" title="Єна (місто) – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Jena" title="Jena – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/Jena" title="Jena – Volapük" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Jena" title="Jena – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E8%80%B6%E6%8B%BF" title="耶拿 – Cantonese" lang="zh-yue" hreflang="zh-yue" class="interlanguage-link-target">粵語</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E8%80%B6%E6%8B%BF" title="耶拿 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3150#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 21 July 2017, at 08:34.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Jena&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.680","walltime":"0.958","ppvisitednodes":{"value":7683,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":101347,"limit":2097152},"templateargumentsize":{"value":18963,"limit":2097152},"expansiondepth":{"value":26,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  755.933      1 -total"," 46.71%  353.068      1 Template:Infobox_German_location"," 44.39%  335.580      1 Template:Infobox_settlement"," 37.45%  283.102      1 Template:Infobox"," 11.63%   87.912      7 Template:Population_Germany","  9.02%   68.191      8 Template:Both","  8.70%   65.773      1 Template:Coord","  7.70%   58.243      7 Template:Metadata_Population_DE-TH","  6.59%   49.781     12 Template:Convert","  6.25%   47.246      3 Template:Cite_web"]},"scribunto":{"limitreport-timeusage":{"value":"0.237","limit":"10.000"},"limitreport-memusage":{"value":7619254,"limit":52428800}},"cachereport":{"origin":"mw1264","timestamp":"20171018011634","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":81,"wgHostname":"mw1253"});});</script>
+	</body>
+</html>

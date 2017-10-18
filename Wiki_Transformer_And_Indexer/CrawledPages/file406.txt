@@ -1,0 +1,819 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Mönchengladbach - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Mönchengladbach","wgTitle":"Mönchengladbach","wgCurRevisionId":802636470,"wgRevisionId":802636470,"wgArticleId":179923,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 German-language sources (de)","Pages with citations lacking titles","Articles needing additional references from January 2011","All articles needing additional references","Coordinates on Wikidata","Articles with hAudio microformats","Wikipedia articles with VIAF identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","Cities in North Rhine-Westphalia","Mönchengladbach"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Mönchengladbach","wgRelevantArticleId":179923,"wgRequestId":"Webc8QpAIC0AAGbtugoAAAAH","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCoordinates":{"lat":51.2,"lon":6.4333333333333},"wgWikibaseItemId":"Q2758","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.3"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/MG_M%C3%BCnster_2014_vom_Abteigarten.jpg/1200px-MG_M%C3%BCnster_2014_vom_Abteigarten.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/M%C3%B6nchengladbach"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=M%C3%B6nchengladbach&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=M%C3%B6nchengladbach&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/M%C3%B6nchengladbach"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Mönchengladbach rootpage-Mönchengladbach vector-experimental-print-styles vector-nav-directionality skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Mönchengladbach</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=M%C3%B6nchengladbach&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(January 2011)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<table class="infobox geography vcard" style="width:22em;width:23em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap"><span class="fn org"><span class="wrap">Mönchengladbach</span></span></th>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center"><a href="/wiki/File:MG_M%C3%BCnster_2014_vom_Abteigarten.jpg" class="image" title="Mönchengladbach Minster"><img alt="Mönchengladbach Minster" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/MG_M%C3%BCnster_2014_vom_Abteigarten.jpg/250px-MG_M%C3%BCnster_2014_vom_Abteigarten.jpg" width="250" height="189" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/MG_M%C3%BCnster_2014_vom_Abteigarten.jpg/375px-MG_M%C3%BCnster_2014_vom_Abteigarten.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b6/MG_M%C3%BCnster_2014_vom_Abteigarten.jpg/500px-MG_M%C3%BCnster_2014_vom_Abteigarten.jpg 2x" data-file-width="4353" data-file-height="3289" /></a>
+<div>Mönchengladbach Minster</div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" class="maptable" style="text-align:center">
+<table style="width:100%; background:none;">
+<tr>
+<td style="vertical-align:middle; text-align:center;"><a href="/wiki/File:Flagge_der_kreisfreien_Stadt_M%C3%B6nchengladbach.svg" class="image" title="Flag of Mönchengladbach "><img alt="Flag of Mönchengladbach " src="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Flagge_der_kreisfreien_Stadt_M%C3%B6nchengladbach.svg/100px-Flagge_der_kreisfreien_Stadt_M%C3%B6nchengladbach.svg.png" width="100" height="60" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Flagge_der_kreisfreien_Stadt_M%C3%B6nchengladbach.svg/150px-Flagge_der_kreisfreien_Stadt_M%C3%B6nchengladbach.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/87/Flagge_der_kreisfreien_Stadt_M%C3%B6nchengladbach.svg/200px-Flagge_der_kreisfreien_Stadt_M%C3%B6nchengladbach.svg.png 2x" data-file-width="500" data-file-height="300" /></a><br />
+<small>Flag</small></td>
+<td style="vertical-align:middle; text-align:center;"><a href="/wiki/File:DEU_Moenchengladbach_COA.svg" class="image" title="Coat of arms of Mönchengladbach "><img alt="Coat of arms of Mönchengladbach " src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/DEU_Moenchengladbach_COA.svg/64px-DEU_Moenchengladbach_COA.svg.png" width="64" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/DEU_Moenchengladbach_COA.svg/96px-DEU_Moenchengladbach_COA.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/DEU_Moenchengladbach_COA.svg/128px-DEU_Moenchengladbach_COA.svg.png 2x" data-file-width="404" data-file-height="506" /></a><br />
+<small>Coat of arms</small></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center">
+<div class="center">
+<div style="width:170px;float:none;clear:both;margin-left:auto;margin-right:auto">
+<div style="width:170px;padding:0">
+<div style="position:relative;width:170px"><a href="/wiki/File:Germany_adm_location_map.svg" class="image" title="Mönchengladbach  is located in Germany"><img alt="Mönchengladbach  is located in Germany" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/170px-Germany_adm_location_map.svg.png" width="170" height="202" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/255px-Germany_adm_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/340px-Germany_adm_location_map.svg.png 2x" data-file-width="1073" data-file-height="1272" /></a>
+<div style="position:absolute;top:49.367%;left:9.333%">
+<div style="position:absolute;left:-3px;top:-3px;line-height:0"><img alt="Mönchengladbach " src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png" title="Mönchengladbach " width="6" height="6" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/9px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div>
+<div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:4px;text-align:left"><span style="padding:1px;float:left"><span class="wrap">Mönchengladbach</span></span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr class="mergedrow">
+<td colspan="2" style="text-align: center;">
+<div class="NavFrame collapsed" style="border:line;">
+<div class="NavHead" style="background:transparent;text-align:left;height:auto; padding:0.2em; padding-left:0.6em; padding-right:2em;">Location of Mönchengladbach in North Rhine-Westphalia&#160;</div>
+<div class="NavContent" style="background:transparent;text-align:left;"><a href="/wiki/File:North_rhine_w_MG.svg" class="image"><img alt="North rhine w MG.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/58/North_rhine_w_MG.svg/250px-North_rhine_w_MG.svg.png" width="250" height="250" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/58/North_rhine_w_MG.svg/375px-North_rhine_w_MG.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/58/North_rhine_w_MG.svg/500px-North_rhine_w_MG.svg.png 2x" data-file-width="660" data-file-height="660" /></a></div>
+</div>
+</td>
+</tr>
+<tr class="mergedbottomrow">
+<td colspan="2" style="text-align:center">Coordinates: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=M%C3%B6nchengladbach&amp;params=51_12_0_N_06_26_0_E_type:city(259996)_region:DE-NW"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">51°12′0″N</span> <span class="longitude">06°26′0″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">51.20000°N 6.43333°E</span><span style="display:none">﻿ / <span class="geo">51.20000; 6.43333</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=M%C3%B6nchengladbach&amp;params=51_12_0_N_06_26_0_E_type:city(259996)_region:DE-NW"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">51°12′0″N</span> <span class="longitude">06°26′0″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">51.20000°N 6.43333°E</span><span style="display:none">﻿ / <span class="geo">51.20000; 6.43333</span></span></span></a></span></span></span></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Country</th>
+<td><a href="/wiki/Germany" title="Germany">Germany</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/States_of_Germany" title="States of Germany">State</a></th>
+<td><a href="/wiki/North_Rhine-Westphalia" title="North Rhine-Westphalia">North Rhine-Westphalia</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Regierungsbezirk" title="Regierungsbezirk">Admin. region</a></th>
+<td><a href="/wiki/D%C3%BCsseldorf_(region)" title="Düsseldorf (region)">Düsseldorf</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Districts_of_Germany" title="Districts of Germany">District</a></th>
+<td><a href="/wiki/Urban_districts_of_Germany" class="mw-redirect" title="Urban districts of Germany">Urban districts of Germany</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Government</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;<a href="/wiki/Lord_Mayor" class="mw-redirect" title="Lord Mayor">Lord Mayor</a></th>
+<td>Hans Wilhelm Reiners (<a href="/wiki/Christian_Democratic_Union_(Germany)" class="mw-redirect" title="Christian Democratic Union (Germany)">CDU</a>)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Area</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Total</th>
+<td>170.43&#160;km<sup>2</sup> (65.80&#160;sq&#160;mi)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Elevation</th>
+<td>70&#160;m (230&#160;ft)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Population <span style="font-weight:normal">(2015-12-31)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></span></th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Total</th>
+<td>259,996</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Density</th>
+<td>1,500/km<sup>2</sup> (4,000/sq&#160;mi)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/Time_zone" title="Time zone">Time zone</a></th>
+<td><a href="/wiki/Central_European_Time" title="Central European Time">CET</a>/<a href="/wiki/Central_European_Summer_Time" title="Central European Summer Time">CEST</a> (UTC+1/+2)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/List_of_postal_codes_in_Germany" title="List of postal codes in Germany">Postal codes</a></th>
+<td class="adr"><span class="postal-code">41001–41239</span></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/List_of_dialling_codes_in_Germany" title="List of dialling codes in Germany">Dialling codes</a></th>
+<td>02161, 02166</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Vehicle_registration_plate" title="Vehicle registration plate">Vehicle registration</a></th>
+<td>MG</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Website</th>
+<td><a rel="nofollow" class="external text" href="http://www.moenchengladbach.de/">www.moenchengladbach.de</a></td>
+</tr>
+</table>
+<p><b>Mönchengladbach</b> (<small>German pronunciation:</small> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA/Standard_German" title="Help:IPA/Standard German">[mœnçn̩ˈɡlatbax]</a></span><small class="nowrap metadata">&#160;(<span class="unicode haudio"><span class="fn"><span style="white-space:nowrap"><a href="/wiki/File:De-M%C3%B6nchengladbach.ogg" title="About this sound"><img alt="About this sound" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" data-file-width="20" data-file-height="20" /></a>&#160;</span><a href="//upload.wikimedia.org/wikipedia/commons/4/4a/De-M%C3%B6nchengladbach.ogg" class="internal" title="De-Mönchengladbach.ogg">listen</a></span></span>)</small>), formerly known as <b>München-Gladbach</b> is a city in <a href="/wiki/North_Rhine-Westphalia" title="North Rhine-Westphalia">North Rhine-Westphalia</a>, <a href="/wiki/Germany" title="Germany">Germany</a>. It is located west of the <a href="/wiki/Rhine" title="Rhine">Rhine</a>, halfway between <a href="/wiki/D%C3%BCsseldorf" title="Düsseldorf">Düsseldorf</a> and the <a href="/wiki/Netherlands" title="Netherlands">Dutch</a> border.</p>
+<p>Mönchengladbach is home of the <a href="/wiki/Football_(soccer)" class="mw-redirect" title="Football (soccer)">football</a> <a href="/wiki/German_Football_League_Teams" class="mw-redirect" title="German Football League Teams">club</a> <a href="/wiki/Borussia_M%C3%B6nchengladbach" title="Borussia Mönchengladbach">Borussia Mönchengladbach</a>, <a href="/wiki/Formula_One" title="Formula One">Formula One</a> race car drivers <a href="/wiki/Nick_Heidfeld" title="Nick Heidfeld">Nick Heidfeld</a> and <a href="/wiki/Heinz-Harald_Frentzen" title="Heinz-Harald Frentzen">Heinz-Harald Frentzen</a>, author/cartoonist <a href="/wiki/Walter_Moers" title="Walter Moers">Walter Moers</a>, cabaret artist <a href="/wiki/Volker_Pispers" title="Volker Pispers">Volker Pispers</a>, philosopher <a href="/wiki/Hans_Jonas" title="Hans Jonas">Hans Jonas</a>, Goalkeeper <a href="/wiki/Marc-Andr%C3%A9_ter_Stegen" title="Marc-André ter Stegen">Marc-André ter Stegen</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> and the former football players and managers <a href="/wiki/G%C3%BCnther_Netzer" class="mw-redirect" title="Günther Netzer">Günther Netzer</a> and <a href="/wiki/Jupp_Heynckes" title="Jupp Heynckes">Jupp Heynckes</a>. <a href="/wiki/Joseph_Pilates" title="Joseph Pilates">Joseph Pilates</a>, the creator of the <a href="/wiki/Pilates" title="Pilates">Pilates</a> method of physical fitness, was born here in 1883.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Geography"><span class="tocnumber">1</span> <span class="toctext">Geography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Municipal_subdivisions"><span class="tocnumber">1.1</span> <span class="toctext">Municipal subdivisions</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Name_and_origins"><span class="tocnumber">2.1</span> <span class="toctext">Name and origins</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Early_history"><span class="tocnumber">2.2</span> <span class="toctext">Early history</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Recent_history"><span class="tocnumber">2.3</span> <span class="toctext">Recent history</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Points_of_interest"><span class="tocnumber">3</span> <span class="toctext">Points of interest</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Twin_cities"><span class="tocnumber">4</span> <span class="toctext">Twin cities</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Notable_people"><span class="tocnumber">5</span> <span class="toctext">Notable people</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Transport"><span class="tocnumber">6</span> <span class="toctext">Transport</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Sports"><span class="tocnumber">7</span> <span class="toctext">Sports</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Military"><span class="tocnumber">8</span> <span class="toctext">Military</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Geography">Geography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=M%C3%B6nchengladbach&amp;action=edit&amp;section=1" title="Edit section: Geography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Municipal_subdivisions">Municipal subdivisions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=M%C3%B6nchengladbach&amp;action=edit&amp;section=2" title="Edit section: Municipal subdivisions">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tmulti tright">
+<div class="thumbinner" style="width:408px;max-width:408px">
+<div class="tsingle" style="float:left;margin:1px;width:202px;max-width:202px">
+<div class="thumbimage"><a href="/wiki/File:MG-Stadtteile.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/MG-Stadtteile.svg/200px-MG-Stadtteile.svg.png" width="200" height="200" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/MG-Stadtteile.svg/300px-MG-Stadtteile.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/97/MG-Stadtteile.svg/400px-MG-Stadtteile.svg.png 2x" data-file-width="1000" data-file-height="1000" /></a></div>
+</div>
+<div class="tsingle" style="float:left;margin:1px;width:202px;max-width:202px">
+<div class="thumbimage"><a href="/wiki/File:MG_Postleitzahlen.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/MG_Postleitzahlen.svg/200px-MG_Postleitzahlen.svg.png" width="200" height="200" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/MG_Postleitzahlen.svg/300px-MG_Postleitzahlen.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/MG_Postleitzahlen.svg/400px-MG_Postleitzahlen.svg.png 2x" data-file-width="1000" data-file-height="1000" /></a></div>
+</div>
+<div style="clear:left"></div>
+</div>
+</div>
+<p>Since 2009, the territory of Monchengladbach has comprised four (previously ten) boroughs which are subdivided into 44 districts.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p>
+<p><b>The boroughs and their associated districts</b></p>
+<ul>
+<li><i>Nord:</i> <a href="/w/index.php?title=Am_Wasserturm_(M%C3%B6nchengladbach)&amp;action=edit&amp;redlink=1" class="new" title="Am Wasserturm (Mönchengladbach) (page does not exist)">Am&#160;Wasserturm</a>, <a href="/w/index.php?title=Dahl_(M%C3%B6nchengladbach)&amp;action=edit&amp;redlink=1" class="new" title="Dahl (Mönchengladbach) (page does not exist)">Dahl</a>, <a href="/w/index.php?title=Eicken_(M%C3%B6nchengladbach)&amp;action=edit&amp;redlink=1" class="new" title="Eicken (Mönchengladbach) (page does not exist)">Eicken</a>, <a href="/w/index.php?title=Gladbach_(M%C3%B6nchengladbach)&amp;action=edit&amp;redlink=1" class="new" title="Gladbach (Mönchengladbach) (page does not exist)">Gladbach</a>, <a href="/w/index.php?title=Hardt_(M%C3%B6nchengladbach)&amp;action=edit&amp;redlink=1" class="new" title="Hardt (Mönchengladbach) (page does not exist)">Hardt-Mitte</a>, <a href="/w/index.php?title=Hardter_Wald&amp;action=edit&amp;redlink=1" class="new" title="Hardter Wald (page does not exist)">Hardter&#160;Wald</a>, <a href="/w/index.php?title=Ohler_(M%C3%B6nchengladbach)&amp;action=edit&amp;redlink=1" class="new" title="Ohler (Mönchengladbach) (page does not exist)">Ohler</a>, <a href="/w/index.php?title=Venn_(M%C3%B6nchengladbach)&amp;action=edit&amp;redlink=1" class="new" title="Venn (Mönchengladbach) (page does not exist)">Venn</a>, <a href="/w/index.php?title=Waldhausen_(M%C3%B6nchengladbach)&amp;action=edit&amp;redlink=1" class="new" title="Waldhausen (Mönchengladbach) (page does not exist)">Waldhausen</a>, <a href="/w/index.php?title=Westend_(M%C3%B6nchengladbach)&amp;action=edit&amp;redlink=1" class="new" title="Westend (Mönchengladbach) (page does not exist)">Westend</a>, <a href="/w/index.php?title=Windberg_(M%C3%B6nchengladbach)&amp;action=edit&amp;redlink=1" class="new" title="Windberg (Mönchengladbach) (page does not exist)">Windberg</a></li>
+<li><i>Ost:</i> <a href="/w/index.php?title=Bettrath-Hoven&amp;action=edit&amp;redlink=1" class="new" title="Bettrath-Hoven (page does not exist)">Bettrath‑Hoven</a>, <a href="/w/index.php?title=Bungt&amp;action=edit&amp;redlink=1" class="new" title="Bungt (page does not exist)">Bungt</a>, <a href="/w/index.php?title=M%C3%B6nchengladbach-Flughafen&amp;action=edit&amp;redlink=1" class="new" title="Mönchengladbach-Flughafen (page does not exist)">Flughafen</a>, <a href="/wiki/Giesenkirchen" title="Giesenkirchen">Giesenkirchen‑Mitte</a>, <a href="/w/index.php?title=Giesenkirchen-Nord&amp;action=edit&amp;redlink=1" class="new" title="Giesenkirchen-Nord (page does not exist)">Giesenkirchen‑Nord</a>, <a href="/w/index.php?title=Hardterbroich-Pesch&amp;action=edit&amp;redlink=1" class="new" title="Hardterbroich-Pesch (page does not exist)">Hardterbroich‑Pesch</a>, <a href="/w/index.php?title=L%C3%BCrrip&amp;action=edit&amp;redlink=1" class="new" title="Lürrip (page does not exist)">Lürrip</a>, <a href="/w/index.php?title=Neuwerk-Mitte&amp;action=edit&amp;redlink=1" class="new" title="Neuwerk-Mitte (page does not exist)">Neuwerk‑Mitte</a>, <a href="/w/index.php?title=Schelsen&amp;action=edit&amp;redlink=1" class="new" title="Schelsen (page does not exist)">Schelsen</a>, <a href="/w/index.php?title=Uedding&amp;action=edit&amp;redlink=1" class="new" title="Uedding (page does not exist)">Uedding</a></li>
+<li><i>Süd:</i> <a href="/w/index.php?title=Bonnenbroich-Geneicken&amp;action=edit&amp;redlink=1" class="new" title="Bonnenbroich-Geneicken (page does not exist)">Bonnenbroich‑Geneicken</a>, <a href="/w/index.php?title=Geistenbeck&amp;action=edit&amp;redlink=1" class="new" title="Geistenbeck (page does not exist)">Geistenbeck</a>, <a href="/w/index.php?title=Grenzland-Stadion&amp;action=edit&amp;redlink=1" class="new" title="Grenzland-Stadion (page does not exist)">Grenzland‑Stadion</a>, <a href="/w/index.php?title=Heyden_(M%C3%B6nchengladbach)&amp;action=edit&amp;redlink=1" class="new" title="Heyden (Mönchengladbach) (page does not exist)">Heyden</a>, <a href="/w/index.php?title=Hockstein&amp;action=edit&amp;redlink=1" class="new" title="Hockstein (page does not exist)">Hockstein</a>, <a href="/w/index.php?title=M%C3%BClfort&amp;action=edit&amp;redlink=1" class="new" title="Mülfort (page does not exist)">Mülfort</a>, <a href="/w/index.php?title=Odenkirchen-Mitte&amp;action=edit&amp;redlink=1" class="new" title="Odenkirchen-Mitte (page does not exist)">Odenkirchen‑Mitte</a>, <a href="/w/index.php?title=Odenkirchen-West&amp;action=edit&amp;redlink=1" class="new" title="Odenkirchen-West (page does not exist)">Odenkirchen‑West</a>, <a href="/w/index.php?title=Pongs_(M%C3%B6nchengladbach)&amp;action=edit&amp;redlink=1" class="new" title="Pongs (Mönchengladbach) (page does not exist)">Pongs</a>, <a href="/wiki/Rheydt" title="Rheydt">Rheydt</a>, <a href="/w/index.php?title=Sasserath_(M%C3%B6nchengladbach)&amp;action=edit&amp;redlink=1" class="new" title="Sasserath (Mönchengladbach) (page does not exist)">Sasserath</a>, <a href="/w/index.php?title=Schloss_Rheydt_(M%C3%B6nchengladbach)&amp;action=edit&amp;redlink=1" class="new" title="Schloss Rheydt (Mönchengladbach) (page does not exist)">Schloss&#160;Rheydt</a>, <a href="/w/index.php?title=Schm%C3%B6lderpark&amp;action=edit&amp;redlink=1" class="new" title="Schmölderpark (page does not exist)">Schmölderpark</a>, <a href="/w/index.php?title=Schrievers&amp;action=edit&amp;redlink=1" class="new" title="Schrievers (page does not exist)">Schrievers</a></li>
+<li><i>West:</i> <a href="/wiki/JHQ_Rheindahlen" title="JHQ Rheindahlen">Hauptquartier</a>, <a href="/w/index.php?title=Hehn_(M%C3%B6nchengladbach)&amp;action=edit&amp;redlink=1" class="new" title="Hehn (Mönchengladbach) (page does not exist)">Hehn</a>, <a href="/w/index.php?title=Holt_(M%C3%B6nchengladbach)&amp;action=edit&amp;redlink=1" class="new" title="Holt (Mönchengladbach) (page does not exist)">Holt</a>, <a href="/w/index.php?title=Rheindahlen-Land&amp;action=edit&amp;redlink=1" class="new" title="Rheindahlen-Land (page does not exist)">Rheindahlen‑Land</a>, <a href="/wiki/Rheindahlen" title="Rheindahlen">Rheindahlen‑Mitte</a>, <a href="/w/index.php?title=Wanlo&amp;action=edit&amp;redlink=1" class="new" title="Wanlo (page does not exist)">Wanlo</a>, <a href="/wiki/Wickrath" class="mw-redirect" title="Wickrath">Wickrath-Mitte</a>, <a href="/w/index.php?title=Wickrath%E2%80%91West&amp;action=edit&amp;redlink=1" class="new" title="Wickrath‑West (page does not exist)">Wickrath‑West</a>, <a href="/w/index.php?title=Wickrathberg&amp;action=edit&amp;redlink=1" class="new" title="Wickrathberg (page does not exist)">Wickrathberg</a></li>
+</ul>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=M%C3%B6nchengladbach&amp;action=edit&amp;section=3" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Name_and_origins">Name and origins</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=M%C3%B6nchengladbach&amp;action=edit&amp;section=4" title="Edit section: Name and origins">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The original name of the city was <b>Gladbach</b>, which is even today often applied to the town. To distinguish the town from another town of the same name (the present <a href="/wiki/Bergisch_Gladbach" title="Bergisch Gladbach">Bergisch Gladbach</a>), it took the name <b>München-Gladbach</b> in 1888. This spelling could mislead people to think that Gladbach was a borough of <a href="/wiki/Munich" title="Munich">Munich</a> (<i>München</i> in <a href="/wiki/German_language" title="German language">German</a>), and consequently the name was changed to Mönchen-Gladbach in 1950 and Mönchengladbach in 1960.</p>
+<p>The origin of the town was an <a href="/wiki/Gladbach_Abbey" title="Gladbach Abbey">abbey</a> founded in 974. It was named after the Gladbach, a narrow brook, that mostly runs subterraneously today. The abbey and adjoining villages became a town in the 14th century. The town of <a href="/wiki/Rheydt" title="Rheydt">Rheydt</a> is located nearby and is incorporated into Mönchengladbach today.</p>
+<h3><span class="mw-headline" id="Early_history">Early history</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=M%C3%B6nchengladbach&amp;action=edit&amp;section=5" title="Edit section: Early history">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The first settlements in the area of Mönchengladbach are approximately 300,000–400,000 years old and show remains of <a href="/wiki/Homo_erectus" title="Homo erectus">Homo erectus</a> and <a href="/wiki/Neanderthal" title="Neanderthal">Neanderthal</a>. There are numerous <a href="/wiki/Cairn" title="Cairn">cairns</a> from the <a href="/wiki/Neolithic" title="Neolithic">Neolithic</a> and the <a href="/wiki/Bronze_Age" title="Bronze Age">Bronze Age</a>.</p>
+<p>The history of Mönchengladbach began with the construction of the Gladbach Minster and the founding of an abbey in the year 974 by <a href="/wiki/Gero,_Archbishop_of_Cologne" class="mw-redirect" title="Gero, Archbishop of Cologne">Gero, Archbishop of Cologne</a>, and his companion, the monk Sandrad of <a href="/wiki/Archbishopric_of_Trier" class="mw-redirect" title="Archbishopric of Trier">Trier</a>.</p>
+<p>To advance the settlement, the monks created a market north of the church in the 12th century. Craftsmen settled near the market. Gladbach received its <a href="/wiki/German_town_law" title="German town law">town charter</a> in 1364–1366. The "town" got a town wall made of stone, which had to be maintained by the citizens. Remains of that wall can be found at the Geroweiher, as can remains of the "Thick Tower", an old fortified tower at the Waldhausener hill. Until the end of the 18th century the city belonged to the department of <a href="/wiki/Grevenbroich" title="Grevenbroich">Grevenbroich</a> within the <a href="/wiki/Duchy_of_J%C3%BClich" title="Duchy of Jülich">duchy of Jülich</a>.</p>
+<p>On 4 October 1794, the armed forces of the <a href="/wiki/French_revolution" class="mw-redirect" title="French revolution">French revolution</a> marched into the town, one day before the fortress Jülich had been handed over. When the Holy Roman Emperor <a href="/wiki/Francis_II,_Holy_Roman_Emperor" title="Francis II, Holy Roman Emperor">Francis II</a> ceded the left bank of the river <a href="/wiki/Rhine" title="Rhine">Rhine</a> to France with the <a href="/wiki/Treaty_of_Lun%C3%A9ville" title="Treaty of Lunéville">Treaty of Lunéville</a> in 1801, Gladbach fell under French laws suppressing religion. This was the end for the abbey, and the monastery was closed. On 31 October 1802, the last 31 monks left the monastery. The contents of the tremendous abbey library, well-known outside of Germany, were scattered or destroyed.</p>
+<p>From 1798 until 1814, the Mairie Gladbach was part of Kanton Odenkirchen, Arrondissement Krefeld, of the French <a href="/wiki/D%C3%A9partement_de_la_Roer" class="mw-redirect" title="Département de la Roer">Département de la Roer</a>.</p>
+<h3><span class="mw-headline" id="Recent_history">Recent history</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=M%C3%B6nchengladbach&amp;action=edit&amp;section=6" title="Edit section: Recent history">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 1815, Gladbach became part of the <a href="/wiki/Kingdom_of_Prussia" title="Kingdom of Prussia">Kingdom of Prussia</a> and seat of the <a href="/w/index.php?title=Gladbach_(district)&amp;action=edit&amp;redlink=1" class="new" title="Gladbach (district) (page does not exist)">Landkreis Gladbach</a>, which was dissolved in 1929. In 1815 Gladbach became seat of the Bürgermeisterei (Office of mayor), which was split in 1859 into two parts: the City of Gladbach and Office of Mayor Obergeburth. The latter was renamed to München-Gladbach-Land in 1907.</p>
+<p>From 1933 through 1975, the neighborhood of <a href="/wiki/Rheydt" title="Rheydt">Rheydt</a> was an independent city; the split from München-Gladbach was arranged by <a href="/wiki/Joseph_Goebbels" title="Joseph Goebbels">Joseph Goebbels</a>, who was born locally. After reuniting with Mönchengladbach, the central station (Rheydt Hauptbahnhof) kept its original name, making Mönchengladbach the only city in Germany to have two rail stations each called Hauptbahnhof.</p>
+<p>In response to the 10 May 1940 <a href="/wiki/German_invasion_of_Belgium" title="German invasion of Belgium">German invasion of Belgium</a>, Mönchengladbach was bombed by British <a href="/wiki/Bomber_Command" title="Bomber Command">Bomber Command</a> on the evening of 11 May. The bomber crews were attempting to interdict German troop movements on roads, intersections and rail lines in the area, especially the city's railyards. About half of the approximately 36 twin-engine <a href="/wiki/RAF" class="mw-redirect" title="RAF">RAF</a> bombers reportedly hit their targets, and three were shot down.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-Diefendorf1993_6-0" class="reference"><a href="#cite_note-Diefendorf1993-6">[6]</a></sup> Four people were killed on the ground, including a British woman living in Germany.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p>
+<p>After the Second World War, in compensation of the occupation of the Netherlands by Germany, several German cities were proposed to be ceded to the Kingdom of the Netherlands. Though never approved, the project would have renamed Mönchengladbach to Monniken-Glabbeek.</p>
+<p>Eventually, the Prussian <a href="/wiki/Rhine_Province" title="Rhine Province">Rhine Province</a> was dissolved after <a href="/wiki/World_War_II" title="World War II">World War II</a>, and the city became part of the new state of <a href="/wiki/North_Rhine-Westphalia" title="North Rhine-Westphalia">North Rhine-Westphalia</a> which was formed in 1946.</p>
+<table class="infobox" style="float:right;">
+<tr>
+<td colspan="2"><b>Largest groups of foreign residents</b></td>
+</tr>
+<tr>
+<th>Nationality</th>
+<th>Population (2013)</th>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/23px-Flag_of_Turkey.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/35px-Flag_of_Turkey.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/45px-Flag_of_Turkey.svg.png 2x" data-file-width="1200" data-file-height="800" />&#160;</span><a href="/wiki/Turkey" title="Turkey">Turkey</a></td>
+<td>9,114</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/35px-Flag_of_Poland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/46px-Flag_of_Poland.svg.png 2x" data-file-width="1280" data-file-height="800" />&#160;</span><a href="/wiki/Poland" title="Poland">Poland</a></td>
+<td>6,746</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" />&#160;</span><a href="/wiki/Spain" title="Spain">Spain</a></td>
+<td>6,320</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/23px-Flag_of_Greece.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/35px-Flag_of_Greece.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/45px-Flag_of_Greece.svg.png 2x" data-file-width="600" data-file-height="400" />&#160;</span><a href="/wiki/Greece" title="Greece">Greece</a></td>
+<td>3,235</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/23px-Flag_of_Morocco.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/35px-Flag_of_Morocco.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/45px-Flag_of_Morocco.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Morocco" title="Morocco">Morocco</a></td>
+<td>1,572</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/23px-Flag_of_Bulgaria.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/35px-Flag_of_Bulgaria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/46px-Flag_of_Bulgaria.svg.png 2x" data-file-width="1000" data-file-height="600" />&#160;</span><a href="/wiki/Bulgaria" title="Bulgaria">Bulgaria</a></td>
+<td>1,218</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/wiki/Italy" title="Italy">Italy</a></td>
+<td>1,134</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/23px-Flag_of_Syria.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/35px-Flag_of_Syria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/45px-Flag_of_Syria.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Syria" title="Syria">Syria</a></td>
+<td>998</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Points_of_interest">Points of interest</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=M%C3%B6nchengladbach&amp;action=edit&amp;section=7" title="Edit section: Points of interest">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:277px;"><a href="/wiki/File:Schloss_Rheydt_North.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Schloss_Rheydt_North.jpg/275px-Schloss_Rheydt_North.jpg" width="275" height="201" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Schloss_Rheydt_North.jpg/413px-Schloss_Rheydt_North.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Schloss_Rheydt_North.jpg/550px-Schloss_Rheydt_North.jpg 2x" data-file-width="1024" data-file-height="749" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Schloss_Rheydt_North.jpg" class="internal" title="Enlarge"></a></div>
+Schloss Rheydt</div>
+</div>
+</div>
+<ul>
+<li>Municipal <a href="/wiki/Abteiberg_Museum" title="Abteiberg Museum">Abteiberg Museum</a> for contemporary art</li>
+<li>Municipal Museum <a href="/wiki/Schloss_Rheydt" title="Schloss Rheydt">Schloss Rheydt</a> for fine art</li>
+<li>Museum im Wasserturm Rheindahlen for relics of the stone age</li>
+<li>Museum Altes Zeughaus e. V. for Carnival</li>
+<li>Museum <a href="/wiki/Schloss_Wickrath" title="Schloss Wickrath">Schloss Wickrath</a> for ornithology</li>
+<li><a href="/wiki/Bunter_Garten" title="Bunter Garten">Bunter Garten</a>, municipal park with <a href="/wiki/Botanical_garden" title="Botanical garden">botanical garden</a> and <a href="/wiki/Arboretum" title="Arboretum">arboretum</a></li>
+</ul>
+<h2><span class="mw-headline" id="Twin_cities">Twin cities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=M%C3%B6nchengladbach&amp;action=edit&amp;section=8" title="Edit section: Twin cities">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/North_Tyneside" title="North Tyneside">North Tyneside</a>, <a href="/wiki/England" title="England">England</a>, <a href="/wiki/United_Kingdom" title="United Kingdom">UK</a> (since 1958)</li>
+<li><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Roubaix" title="Roubaix">Roubaix</a>, <a href="/wiki/France" title="France">France</a> (since 1969)</li>
+<li><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Thurrock" title="Thurrock">Thurrock</a>, <a href="/wiki/England" title="England">England</a>, <a href="/wiki/United_Kingdom" title="United Kingdom">UK</a> (since 1969)</li>
+<li><span class="flagicon"><a href="/wiki/Belgium" title="Belgium"><img alt="Belgium" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/23px-Flag_of_Belgium_%28civil%29.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/35px-Flag_of_Belgium_%28civil%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/45px-Flag_of_Belgium_%28civil%29.svg.png 2x" data-file-width="450" data-file-height="300" /></a></span> <a href="/wiki/Verviers" title="Verviers">Verviers</a>, <a href="/wiki/Belgium" title="Belgium">Belgium</a> (since 1970)</li>
+<li><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Bradford" title="Bradford">Bradford</a>, <a href="/wiki/England" title="England">England</a>, <a href="/wiki/United_Kingdom" title="United Kingdom">UK</a> (since 1971)</li>
+</ul>
+<h2><span class="mw-headline" id="Notable_people">Notable people</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=M%C3%B6nchengladbach&amp;action=edit&amp;section=9" title="Edit section: Notable people">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>These people were born in Mönchengladbach, or in Rheydt or Wickrath, formerly independent communities united with Mönchengladbach in 1975.</p>
+<ul>
+<li>1834, 12 November, <a href="/w/index.php?title=Franz_Brandts&amp;action=edit&amp;redlink=1" class="new" title="Franz Brandts (page does not exist)">Franz Brandts</a> † 5. October 1914, entrepreneur, founder of the <a href="/wiki/Volksverein_f%C3%BCr_das_katholische_Deutschland" class="mw-redirect" title="Volksverein für das katholische Deutschland"><i>Volksvereins für das katholische Deutschland</i></a></li>
+<li>1859, 3 February in Rheydt, <a href="/wiki/Hugo_Junkers" title="Hugo Junkers">Hugo Junkers</a>, † 3 February 1935 in <a href="/wiki/Gauting" title="Gauting">Gauting</a>, engineer and entrepreneur, designer of airplanes</li>
+<li>1883, 9 December, <a href="/wiki/Joseph_Pilates" title="Joseph Pilates">Joseph Hubertus Pilates</a>, proponent of the <a href="/wiki/Pilates" title="Pilates">Pilates</a> Method.</li>
+<li>1897, 29 October in Rheydt, <a href="/wiki/Joseph_Goebbels" title="Joseph Goebbels">Joseph Goebbels</a>, † 1 May 1945 in Berlin, Minister of Propaganda and popular information in <a href="/wiki/Nazi_Germany" title="Nazi Germany">Nazi Germany</a></li>
+<li>1898, <a href="/wiki/Lisel_Haas" title="Lisel Haas">Lisel Haas</a>, died 1989, photographer <sup id="cite_ref-Moseley_Society_8-0" class="reference"><a href="#cite_note-Moseley_Society-8">[8]</a></sup></li>
+<li>1903, 10 May, <a href="/wiki/Hans_Jonas" title="Hans Jonas">Hans Jonas</a>, died 5 Feb. 1993, Jewish-German philosopher and scholar, wrote extensively on ethics among other topics</li>
+<li>1918, circa, <a href="/w/index.php?title=Hans_Mannheimer&amp;action=edit&amp;redlink=1" class="new" title="Hans Mannheimer (page does not exist)">Hans Mannheimer</a> Jewish chemist, inventor of no tear baby shampoo and cosmetic chemicals, founder of the Mannheimer Foundation and The Miranol Chemical Company</li>
+<li>1933, 15 September, <a href="/wiki/Petra_Sch%C3%BCrmann" title="Petra Schürmann">Petra Schürmann</a>, died 14 January 2010, Miss Germany 1956, Miss World 1956</li>
+<li>1943, 16 March, <a href="/wiki/Hans_Heyer" title="Hans Heyer">Hans Heyer</a>, Racing driver known for starting in the <a href="/wiki/1977_German_Grand_Prix" title="1977 German Grand Prix">1977 German Grand Prix</a> despite failing to qualify</li>
+<li>1944, 14 September, <a href="/wiki/G%C3%BCnter_Netzer" title="Günter Netzer">Günter Netzer</a>, German football player for <a href="/wiki/Borussia_M%C3%B6nchengladbach" title="Borussia Mönchengladbach">Borussia Mönchengladbach</a>, <a href="/wiki/Real_Madrid" class="mw-redirect" title="Real Madrid">Real Madrid</a> and <a href="/wiki/Grasshoppers_Z%C3%BCrich" class="mw-redirect" title="Grasshoppers Zürich">Grasshoppers Zürich</a></li>
+<li>1951, 20 March, <a href="/wiki/Peter_Klusen" title="Peter Klusen">Peter Klusen</a>, German writer, translator and cartoonist</li>
+<li>1957, 25 March, <a href="/wiki/Ulrike_von_der_Groeben" title="Ulrike von der Groeben">Ulrike von der Groeben</a>, <i>née</i> Elfes, <a href="/wiki/Television_personality" class="mw-redirect" title="Television personality">television personality</a></li>
+<li>1967, 18 May, <a href="/wiki/Heinz-Harald_Frentzen" title="Heinz-Harald Frentzen">Heinz-Harald Frentzen</a>, <a href="/wiki/Formula_One" title="Formula One">Formula One</a> driver</li>
+<li>1971, 29 January, <a href="/wiki/Jorg_Albertz" class="mw-redirect" title="Jorg Albertz">Jorg Albertz</a>, German football player for <a href="/wiki/Fortuna_D%C3%BCsseldorf" title="Fortuna Düsseldorf">Fortuna Düsseldorf</a>, <a href="/wiki/Hamburger_SV" title="Hamburger SV">Hamburger SV</a>, <a href="/wiki/Rangers_F.C." title="Rangers F.C.">Rangers</a>, <a href="/wiki/Shanghai_Shenhua" class="mw-redirect" title="Shanghai Shenhua">Shanghai Shenhua</a>, <a href="/wiki/Greuther_Furth" class="mw-redirect" title="Greuther Furth">Greuther Furth</a> and <a href="/wiki/Clyde_F.C." title="Clyde F.C.">Clyde</a></li>
+<li>1977, 10 May, <a href="/wiki/Nick_Heidfeld" title="Nick Heidfeld">Nick Heidfeld</a>, <a href="/wiki/Formula_One" title="Formula One">Formula One</a> driver</li>
+<li>1979, <a href="/wiki/Joscho_Stephan" title="Joscho Stephan">Joscho Stephan</a>, <a href="/wiki/Gypsy_Jazz" class="mw-redirect" title="Gypsy Jazz">Gypsy Jazz</a> guitarist</li>
+<li>1983, 7 December, <a href="/w/index.php?title=Sascha,_Crash,_Benders&amp;action=edit&amp;redlink=1" class="new" title="Sascha, Crash, Benders (page does not exist)">Sascha, Crash, Benders</a>, German Professional Gamer, who has won several <a href="/wiki/Major_League_Gaming" title="Major League Gaming">MLG</a> events worldwide.</li>
+<li>1985, 4 November, <a href="/wiki/Marcell_Jansen" title="Marcell Jansen">Marcell Jansen</a>, German football player for <a href="/wiki/Hamburger_SV" title="Hamburger SV">Hamburger SV</a> who formerly played for Borussia Mönchengladbach</li>
+<li>1988, 23 June, <a href="/wiki/Isabell_Herlovsen" title="Isabell Herlovsen">Isabell Herlovsen</a>, Norwegian international footballer</li>
+<li>1992, 30 April, <a href="/wiki/Marc-Andr%C3%A9_ter_Stegen" title="Marc-André ter Stegen">Marc-André ter Stegen</a>, German football goalkeeper for <a href="/wiki/F.C._Barcelona" class="mw-redirect" title="F.C. Barcelona">F.C. Barcelona</a> who previously played for Borussia Mönchengladbach</li>
+</ul>
+<h2><span class="mw-headline" id="Transport">Transport</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=M%C3%B6nchengladbach&amp;action=edit&amp;section=10" title="Edit section: Transport">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The city has two <a href="/wiki/Hauptbahnhof" class="mw-redirect" title="Hauptbahnhof">main railway stations</a>: <a href="/wiki/M%C3%B6nchengladbach_Hauptbahnhof" title="Mönchengladbach Hauptbahnhof">Mönchengladbach Hauptbahnhof</a> and <a href="/wiki/Rheydt_Hauptbahnhof" title="Rheydt Hauptbahnhof">Rheydt Hauptbahnhof</a>, the result of the merger of the two cities, in which the deprecated name for Rheydt Hbf was never removed. <a href="/wiki/S8_(Rhine-Ruhr_S-Bahn)" class="mw-redirect" title="S8 (Rhine-Ruhr S-Bahn)">Line 8</a> of the <a href="/wiki/Rhine-Ruhr_S-Bahn" title="Rhine-Ruhr S-Bahn">Rhine-Ruhr S-Bahn</a> connects the city to <a href="/wiki/D%C3%BCsseldorf" title="Düsseldorf">Düsseldorf</a> and <a href="/wiki/Hagen" title="Hagen">Hagen</a>; an extension further westwards is being discussed. A number of <a href="/wiki/RegionalExpress" class="mw-redirect" title="RegionalExpress">regional trains</a> serve Mönchengladbach. By the end of 2009 it was the largest city in Germany without regular <a href="/wiki/InterCity" title="InterCity">long-distance</a> services. With the new schedule for 2010, Mönchengladbach got an <a href="/wiki/InterCity" title="InterCity">InterCity</a>/<a href="/wiki/Intercity-Express" title="Intercity-Express">Intercity-Express</a> connection twice a week.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></p>
+<p>The city also has a commercial airport called <a href="/wiki/D%C3%BCsseldorf-M%C3%B6nchengladbach_Airport" class="mw-redirect" title="Düsseldorf-Mönchengladbach Airport">Düsseldorf Mönchengladbach</a>.</p>
+<p>Local bus and rail transport is carried out by the <a href="/w/index.php?title=NEW-AG&amp;action=edit&amp;redlink=1" class="new" title="NEW-AG (page does not exist)">NEW-AG</a> under the <a href="/wiki/Verkehrsverbund_Rhein-Ruhr" title="Verkehrsverbund Rhein-Ruhr">VRR</a> transport association regulations.</p>
+<h2><span class="mw-headline" id="Sports">Sports</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=M%C3%B6nchengladbach&amp;action=edit&amp;section=11" title="Edit section: Sports">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:212px;"><a href="/wiki/File:Borussia_Park_M%C3%B6nchengladbach.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Borussia_Park_M%C3%B6nchengladbach.jpg/210px-Borussia_Park_M%C3%B6nchengladbach.jpg" width="210" height="158" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Borussia_Park_M%C3%B6nchengladbach.jpg/315px-Borussia_Park_M%C3%B6nchengladbach.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/34/Borussia_Park_M%C3%B6nchengladbach.jpg/420px-Borussia_Park_M%C3%B6nchengladbach.jpg 2x" data-file-width="1024" data-file-height="768" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Borussia_Park_M%C3%B6nchengladbach.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Borussia-Park" title="Borussia-Park">Borussia-Park</a> is the stadium of <a href="/wiki/Fu%C3%9Fball-Bundesliga" class="mw-redirect" title="Fußball-Bundesliga">Bundesliga</a> club <a href="/wiki/Borussia_M%C3%B6nchengladbach" title="Borussia Mönchengladbach">Borussia Mönchengladbach</a></div>
+</div>
+</div>
+<p>Mönchengladbach has a long <a href="/wiki/Football_(soccer)" class="mw-redirect" title="Football (soccer)">football</a> tradition. Its home club <a href="/wiki/Borussia_M%C3%B6nchengladbach" title="Borussia Mönchengladbach">Borussia Mönchengladbach</a> is one of the country's most well-known, best-supported, and successful teams.</p>
+<p><i>Die Fohlen</i> ("The Foals") with more than 50,000 members is rated actually as fourth largest <a href="/w/index.php?title=Fan-club&amp;action=edit&amp;redlink=1" class="new" title="Fan-club (page does not exist)">fan-club</a> in Germany. Famous for the attacking style, Gladbach belonged to the strongest European football teams in the 1970s, winning the Bundesliga 5 times. The Club lost the <a href="/wiki/European_Cup_1976-77#Final" class="mw-redirect" title="European Cup 1976-77">1977</a> final of the <a href="/wiki/UEFA_Champions_League" title="UEFA Champions League">European Cup</a> to <a href="/wiki/Liverpool_F.C." title="Liverpool F.C.">Liverpool</a>, but also made four appearances in the <a href="/wiki/UEFA_Europa_League" title="UEFA Europa League">UEFA Cup</a> final with wins in <a href="/wiki/1974%E2%80%9375_UEFA_Cup#Final" title="1974–75 UEFA Cup">1975</a> and <a href="/wiki/1978%E2%80%9379_UEFA_Cup#Final" title="1978–79 UEFA Cup">1979</a> against losses in <a href="/wiki/1972%E2%80%9373_UEFA_Cup#Final" title="1972–73 UEFA Cup">1973</a> and <a href="/wiki/1979%E2%80%9380_UEFA_Cup#Final" title="1979–80 UEFA Cup">1980</a>. However, after a last place finish in the top flight for the 2006–2007 season, they were relegated to the <a href="/wiki/2._Fu%C3%9Fball-Bundesliga" class="mw-redirect" title="2. Fußball-Bundesliga">2. Bundesliga</a> (1. and 2. National Leagues) for the 2007–2008 season. They are playing in the <a href="/wiki/Fu%C3%9Fball-Bundesliga" class="mw-redirect" title="Fußball-Bundesliga">Bundesliga</a> again since 2008, surviving relegation in the 2010–2011 season and finishing 4th in the 2011-12 season.</p>
+<p>On 30 July 2004 the opening of the new stadium "<a href="/wiki/Borussia-Park" title="Borussia-Park">Borussia-Park</a>" was celebrated. It has a capacity of 54,700 visitors (seated: 34,300, standing: 20,400 / capacity on International games: 45,600). The <a href="/wiki/Stadium" title="Stadium">stadium</a> can be reached by <a href="/wiki/Car" title="Car">car</a> (through dedicated exit on the <a href="/wiki/Autobahn" title="Autobahn">Autobahn</a> "A 61"), <a href="/wiki/Bus" title="Bus">bus</a> and <a href="/wiki/Train" title="Train">train</a>.</p>
+<p>The city hosted the <a href="/wiki/2006_Men%27s_World_Hockey_Cup" class="mw-redirect" title="2006 Men's World Hockey Cup">FIH Hockey World Cup 2006</a> during the period of September 6–17 and the <a href="/w/index.php?title=2010_FIH_Champions_Trophy&amp;action=edit&amp;redlink=1" class="new" title="2010 FIH Champions Trophy (page does not exist)">2010 FIH Champions Trophy</a> in July/August that year.</p>
+<p>Since 1892, Mönchengladbach owns a <a href="/wiki/Harness_racing" title="Harness racing">harness racing</a> track called "Trabrennbahn Mönchengladbach".</p>
+<center>
+<table class="wikitable">
+<tr>
+<th scope="col">Club</th>
+<th scope="col">League</th>
+<th scope="col">Sport</th>
+<th scope="col">Venue</th>
+<th scope="col">Established</th>
+<th scope="col">Capacity</th>
+</tr>
+<tr>
+<th scope="row" style="font-weight: normal; text-align: center;"><a href="/wiki/Borussia_M%C3%B6nchengladbach" title="Borussia Mönchengladbach">Borussia Mönchengladbach</a></th>
+<td><a href="/wiki/Fu%C3%9Fball-Bundesliga" class="mw-redirect" title="Fußball-Bundesliga">Fußball-Bundesliga</a></td>
+<td><a href="/wiki/Association_football" title="Association football">Football</a></td>
+<th scope="row" style="font-weight: normal; text-align: center;"><a href="/wiki/Borussia-Park" title="Borussia-Park">Borussia-Park</a></th>
+<td>1900</td>
+<th scope="row" style="font-weight: normal; text-align: center;">54,000</th>
+</tr>
+</table>
+</center>
+<h2><span class="mw-headline" id="Military">Military</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=M%C3%B6nchengladbach&amp;action=edit&amp;section=12" title="Edit section: Military">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Rheindahlen_Military_Complex" class="mw-redirect" title="Rheindahlen Military Complex">Rheindahlen Military Complex</a></div>
+<p>Until December 2013, the <a href="/wiki/Rheindahlen_Military_Complex" class="mw-redirect" title="Rheindahlen Military Complex">Rheindahlen Military Complex</a> was located just outside of Mönchengladbach, where it was home to the headquarters of the <a href="/wiki/British_Armed_Forces" title="British Armed Forces">British Armed Forces</a> in Germany.</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=M%C3%B6nchengladbach&amp;action=edit&amp;section=13" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.it.nrw.de/statistik/a/daten/bevoelkerungszahlen_zensus/index.html">"Amtliche Bevölkerungszahlen"</a>. <i><a href="/wiki/Landesbetrieb_Information_und_Technik_NRW" class="mw-redirect" title="Landesbetrieb Information und Technik NRW">Landesbetrieb Information und Technik NRW</a></i> (in German). 18 July 2016.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AM%C3%B6nchengladbach&amp;rft.atitle=Amtliche+Bev%C3%B6lkerungszahlen&amp;rft.date=2016-07-18&amp;rft.genre=unknown&amp;rft.jtitle=Landesbetrieb+Information+und+Technik+NRW&amp;rft_id=http%3A%2F%2Fwww.it.nrw.de%2Fstatistik%2Fa%2Fdaten%2Fbevoelkerungszahlen_zensus%2Findex.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.fcbarcelona.com/football/first-team/detail/article/ter-stegen-relishing-the-personal-challenge">http://www.fcbarcelona.com/football/first-team/detail/article/ter-stegen-relishing-the-personal-challenge</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web">Dieter Weber (2009-01-23). <a rel="nofollow" class="external text" href="http://www.rp-online.de/niederrheinsued/moenchengladbach/nachrichten/moenchengladbach/Vier-Bezirke-bei-der-Kommunalwahl_aid_664559.html">"Vier Bezirke bei der Kommunalwahl"</a>. <a href="/wiki/Rheinische_Post" title="Rheinische Post">RP ONLINE GmbH</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2010-03-10</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AM%C3%B6nchengladbach&amp;rft.au=Dieter+Weber&amp;rft.btitle=Vier+Bezirke+bei+der+Kommunalwahl&amp;rft.date=2009-01-23&amp;rft.genre=unknown&amp;rft.pub=RP+ONLINE+GmbH&amp;rft_id=http%3A%2F%2Fwww.rp-online.de%2Fniederrheinsued%2Fmoenchengladbach%2Fnachrichten%2Fmoenchengladbach%2FVier-Bezirke-bei-der-Kommunalwahl_aid_664559.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation book">Grayling, A. C. (2011). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=NZePSUx1FsgC&amp;pg=PT27"><i>Among the Dead Cities: Is the Targeting of Civilians in War Ever Justified?</i></a>. A&amp;C Black. p.&#160;27. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9781408827901" title="Special:BookSources/9781408827901">9781408827901</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AM%C3%B6nchengladbach&amp;rft.aufirst=A.+C.&amp;rft.aulast=Grayling&amp;rft.btitle=Among+the+Dead+Cities%3A+Is+the+Targeting+of+Civilians+in+War+Ever+Justified%3F&amp;rft.date=2011&amp;rft.genre=book&amp;rft.isbn=9781408827901&amp;rft.pages=27&amp;rft.pub=A%26C+Black&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DNZePSUx1FsgC%26pg%3DPT27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation book">Spingola, Deanna (2014). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=UrGqAwAAQBAJ&amp;pg=PA542"><i>The Ruling Elite</i></a>. Trafford Publishing. pp.&#160;541–2. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9781490734743" title="Special:BookSources/9781490734743">9781490734743</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AM%C3%B6nchengladbach&amp;rft.aufirst=Deanna&amp;rft.aulast=Spingola&amp;rft.btitle=The+Ruling+Elite&amp;rft.date=2014&amp;rft.genre=book&amp;rft.isbn=9781490734743&amp;rft.pages=541-2&amp;rft.pub=Trafford+Publishing&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DUrGqAwAAQBAJ%26pg%3DPA542&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Diefendorf1993-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-Diefendorf1993_6-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Diefendorf, Jeffry M. (1993). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=nCPX9ZLlGzgC&amp;pg=PA5"><i>In the Wake of War&#160;: The Reconstruction of German Cities after World War II: The Reconstruction of German Cities after World War II</i></a>. Oxford University Press. p.&#160;5. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780195361094" title="Special:BookSources/9780195361094">9780195361094</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AM%C3%B6nchengladbach&amp;rft.aufirst=Jeffry+M.&amp;rft.aulast=Diefendorf&amp;rft.btitle=In+the+Wake+of+War+%3A+The+Reconstruction+of+German+Cities+after+World+War+II%3A+The+Reconstruction+of+German+Cities+after+World+War+II&amp;rft.date=1993&amp;rft.genre=book&amp;rft.isbn=9780195361094&amp;rft.pages=5&amp;rft.pub=Oxford+University+Press&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DnCPX9ZLlGzgC%26pg%3DPA5&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation book">Bowman, Martin (2011). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=BSFMCCCJUysC&amp;pg=PA42"><i>Bomber Command: Reflections of War</i></a>. Casemate. pp.&#160;41–2. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9781848844926" title="Special:BookSources/9781848844926">9781848844926</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AM%C3%B6nchengladbach&amp;rft.aufirst=Martin&amp;rft.aulast=Bowman&amp;rft.btitle=Bomber+Command%3A+Reflections+of+War&amp;rft.date=2011&amp;rft.genre=book&amp;rft.isbn=9781848844926&amp;rft.pages=41-2&amp;rft.pub=Casemate&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DBSFMCCCJUysC%26pg%3DPA42&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Moseley_Society-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-Moseley_Society_8-0">^</a></b></span> <span class="reference-text"><cite class="citation journal"><i>The Moseley Society Local History Group</i>. 2012.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AM%C3%B6nchengladbach&amp;rft.date=2012&amp;rft.genre=article&amp;rft.jtitle=The+Moseley+Society+Local+History+Group&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="font-size:100%" class="error citation-comment">Missing or empty <code style="color:inherit; border:inherit; padding:inherit;">|title=</code> (<a href="/wiki/Help:CS1_errors#citation_missing_title" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.rp-online.de/niederrheinsued/moenchengladbach/nachrichten/moenchengladbach/ICE-Anbindung-nach-Berlin_aid_783606.html">Mönchengladbach: ICE-Anbindung nach Berlin</a> (accessed Nov. 2009)</span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=M%C3%B6nchengladbach&amp;action=edit&amp;section=14" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/40px-Wikivoyage-Logo-v3-icon.svg.png" width="40" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/60px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/80px-Wikivoyage-Logo-v3-icon.svg.png 2x" data-file-width="193" data-file-height="193" /></td>
+<td class="mbox-text plainlist">Wikivoyage has a travel guide for <i><b><a href="https://en.wikivoyage.org/wiki/M%C3%B6nchengladbach#Q2758" class="extiw" title="wikivoyage:Mönchengladbach">Mönchengladbach</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" width="12" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> Media related to <a href="https://commons.wikimedia.org/wiki/Category:M%C3%B6nchengladbach" class="extiw" title="commons:Category:Mönchengladbach">Mönchengladbach</a> at Wikimedia Commons</li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Cities_in_Germany_by_population" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Cities_in_Germany" title="Template:Cities in Germany"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Cities_in_Germany" title="Template talk:Cities in Germany"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cities_in_Germany&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Cities_in_Germany_by_population" style="font-size:114%;margin:0 4em">Cities in Germany by population</div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">1,000,000+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Berlin" title="Berlin">Berlin</a></li>
+<li><a href="/wiki/Cologne" title="Cologne">Cologne</a></li>
+<li><a href="/wiki/Hamburg" title="Hamburg">Hamburg</a></li>
+<li><a href="/wiki/Munich" title="Munich">Munich</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">500,000+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bremen" title="Bremen">Bremen</a></li>
+<li><a href="/wiki/Dortmund" title="Dortmund">Dortmund</a></li>
+<li><a href="/wiki/Dresden" title="Dresden">Dresden</a></li>
+<li><a href="/wiki/D%C3%BCsseldorf" title="Düsseldorf">Düsseldorf</a></li>
+<li><a href="/wiki/Essen" title="Essen">Essen</a></li>
+<li><a href="/wiki/Frankfurt" title="Frankfurt">Frankfurt</a></li>
+<li><a href="/wiki/Hanover" title="Hanover">Hanover</a></li>
+<li><a href="/wiki/Leipzig" title="Leipzig">Leipzig</a></li>
+<li><a href="/wiki/Nuremberg" title="Nuremberg">Nuremberg</a></li>
+<li><a href="/wiki/Stuttgart" title="Stuttgart">Stuttgart</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">200,000+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aachen" title="Aachen">Aachen</a></li>
+<li><a href="/wiki/Augsburg" title="Augsburg">Augsburg</a></li>
+<li><a href="/wiki/Bielefeld" title="Bielefeld">Bielefeld</a></li>
+<li><a href="/wiki/Bochum" title="Bochum">Bochum</a></li>
+<li><a href="/wiki/Bonn" title="Bonn">Bonn</a></li>
+<li><a href="/wiki/Braunschweig" title="Braunschweig">Braunschweig</a></li>
+<li><a href="/wiki/Chemnitz" title="Chemnitz">Chemnitz</a></li>
+<li><a href="/wiki/Duisburg" title="Duisburg">Duisburg</a></li>
+<li><a href="/wiki/Erfurt" title="Erfurt">Erfurt</a></li>
+<li><a href="/wiki/Freiburg_im_Breisgau" title="Freiburg im Breisgau">Freiburg im Breisgau</a></li>
+<li><a href="/wiki/Gelsenkirchen" title="Gelsenkirchen">Gelsenkirchen</a></li>
+<li><a href="/wiki/Halle_(Saale)" title="Halle (Saale)">Halle (Saale)</a></li>
+<li><a href="/wiki/Karlsruhe" title="Karlsruhe">Karlsruhe</a></li>
+<li><a href="/wiki/Kiel" title="Kiel">Kiel</a></li>
+<li><a href="/wiki/Krefeld" title="Krefeld">Krefeld</a></li>
+<li><a href="/wiki/L%C3%BCbeck" title="Lübeck">Lübeck</a></li>
+<li><a href="/wiki/Magdeburg" title="Magdeburg">Magdeburg</a></li>
+<li><a href="/wiki/Mainz" title="Mainz">Mainz</a></li>
+<li><a href="/wiki/Mannheim" title="Mannheim">Mannheim</a></li>
+<li><a href="/wiki/M%C3%BCnster" title="Münster">Münster</a></li>
+<li><a class="mw-selflink selflink">Mönchengladbach</a></li>
+<li><a href="/wiki/Oberhausen" title="Oberhausen">Oberhausen</a></li>
+<li><a href="/wiki/Rostock" title="Rostock">Rostock</a></li>
+<li><a href="/wiki/Wiesbaden" title="Wiesbaden">Wiesbaden</a></li>
+<li><a href="/wiki/Wuppertal" title="Wuppertal">Wuppertal</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">100,000+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bergisch_Gladbach" title="Bergisch Gladbach">Bergisch Gladbach</a></li>
+<li><a href="/wiki/Bottrop" title="Bottrop">Bottrop</a></li>
+<li><a href="/wiki/Bremerhaven" title="Bremerhaven">Bremerhaven</a></li>
+<li><a href="/wiki/Cottbus" title="Cottbus">Cottbus</a></li>
+<li><a href="/wiki/Darmstadt" title="Darmstadt">Darmstadt</a></li>
+<li><a href="/wiki/Erlangen" title="Erlangen">Erlangen</a></li>
+<li><a href="/wiki/F%C3%BCrth" title="Fürth">Fürth</a></li>
+<li><a href="/wiki/G%C3%B6ttingen" title="Göttingen">Göttingen</a></li>
+<li><a href="/wiki/Hagen" title="Hagen">Hagen</a></li>
+<li><a href="/wiki/Hamm" title="Hamm">Hamm</a></li>
+<li><a href="/wiki/Heidelberg" title="Heidelberg">Heidelberg</a></li>
+<li><a href="/wiki/Heilbronn" title="Heilbronn">Heilbronn</a></li>
+<li><a href="/wiki/Herne,_North_Rhine-Westphalia" title="Herne, North Rhine-Westphalia">Herne</a></li>
+<li><a href="/wiki/Hildesheim" title="Hildesheim">Hildesheim</a></li>
+<li><a href="/wiki/Ingolstadt" title="Ingolstadt">Ingolstadt</a></li>
+<li><a href="/wiki/Jena" title="Jena">Jena</a></li>
+<li><a href="/wiki/Kassel" title="Kassel">Kassel</a></li>
+<li><a href="/wiki/Koblenz" title="Koblenz">Koblenz</a></li>
+<li><a href="/wiki/Leverkusen" title="Leverkusen">Leverkusen</a></li>
+<li><a href="/wiki/Ludwigshafen" title="Ludwigshafen">Ludwigshafen</a></li>
+<li><a href="/wiki/Moers" title="Moers">Moers</a></li>
+<li><a href="/wiki/M%C3%BClheim" title="Mülheim">Mülheim an der Ruhr</a></li>
+<li><a href="/wiki/Neuss" title="Neuss">Neuss</a></li>
+<li><a href="/wiki/Offenbach_am_Main" title="Offenbach am Main">Offenbach am Main</a></li>
+<li><a href="/wiki/Oldenburg_(Oldenburg)" class="mw-redirect" title="Oldenburg (Oldenburg)">Oldenburg</a></li>
+<li><a href="/wiki/Osnabr%C3%BCck" title="Osnabrück">Osnabrück</a></li>
+<li><a href="/wiki/Paderborn" title="Paderborn">Paderborn</a></li>
+<li><a href="/wiki/Pforzheim" title="Pforzheim">Pforzheim</a></li>
+<li><a href="/wiki/Potsdam" title="Potsdam">Potsdam</a></li>
+<li><a href="/wiki/Recklinghausen" title="Recklinghausen">Recklinghausen</a></li>
+<li><a href="/wiki/Regensburg" title="Regensburg">Regensburg</a></li>
+<li><a href="/wiki/Remscheid" title="Remscheid">Remscheid</a></li>
+<li><a href="/wiki/Reutlingen" title="Reutlingen">Reutlingen</a></li>
+<li><a href="/wiki/Saarbr%C3%BCcken" title="Saarbrücken">Saarbrücken</a></li>
+<li><a href="/wiki/Salzgitter" title="Salzgitter">Salzgitter</a></li>
+<li><a href="/wiki/Siegen" title="Siegen">Siegen</a></li>
+<li><a href="/wiki/Solingen" title="Solingen">Solingen</a></li>
+<li><a href="/wiki/Trier" title="Trier">Trier</a></li>
+<li><a href="/wiki/Ulm" title="Ulm">Ulm</a></li>
+<li><a href="/wiki/Wolfsburg" title="Wolfsburg">Wolfsburg</a></li>
+<li><a href="/wiki/W%C3%BCrzburg" title="Würzburg">Würzburg</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/List_of_cities_and_towns_in_Germany" title="List of cities and towns in Germany">complete list</a></li>
+<li><a href="/wiki/List_of_municipalities_in_Germany" title="List of municipalities in Germany">municipalities</a></li>
+<li><a href="/wiki/Metropolitan_regions_in_Germany" title="Metropolitan regions in Germany">metropolitan regions</a></li>
+<li><a href="/wiki/List_of_cities_in_Germany_by_population" title="List of cities in Germany by population">cities with more than 100,000 inhabitants</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="border.7C30px.7CFlag_of_North_Rhine-Westphalia_Urban_and_rural_districts_in_the_state_of_North_Rhine-Westphalia_in_Germany_border.7C30px.7CFlag_of_Germany" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Germany_districts_North_Rhine-Westphalia" title="Template:Germany districts North Rhine-Westphalia"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Germany_districts_North_Rhine-Westphalia" title="Template talk:Germany districts North Rhine-Westphalia"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Germany_districts_North_Rhine-Westphalia&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="border.7C30px.7CFlag_of_North_Rhine-Westphalia_Urban_and_rural_districts_in_the_state_of_North_Rhine-Westphalia_in_Germany_border.7C30px.7CFlag_of_Germany" style="font-size:114%;margin:0 4em"><a href="/wiki/File:Flag_of_North_Rhine-Westphalia.svg" class="image" title="Flag of North Rhine-Westphalia"><img alt="Flag of North Rhine-Westphalia" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_North_Rhine-Westphalia.svg/30px-Flag_of_North_Rhine-Westphalia.svg.png" width="30" height="18" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_North_Rhine-Westphalia.svg/45px-Flag_of_North_Rhine-Westphalia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_North_Rhine-Westphalia.svg/60px-Flag_of_North_Rhine-Westphalia.svg.png 2x" data-file-width="800" data-file-height="480" /></a> Urban and rural districts in the state of <a href="/wiki/North_Rhine-Westphalia" title="North Rhine-Westphalia">North Rhine-Westphalia</a> in Germany <a href="/wiki/File:Flag_of_Germany.svg" class="image" title="Flag of Germany"><img alt="Flag of Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/30px-Flag_of_Germany.svg.png" width="30" height="18" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/45px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/60px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Urban_districts_of_Germany" class="mw-redirect" title="Urban districts of Germany">Urban districts</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bielefeld" title="Bielefeld">Bielefeld</a></li>
+<li><a href="/wiki/Bochum" title="Bochum">Bochum</a></li>
+<li><a href="/wiki/Bonn" title="Bonn">Bonn</a></li>
+<li><a href="/wiki/Bottrop" title="Bottrop">Bottrop</a></li>
+<li><a href="/wiki/Dortmund" title="Dortmund">Dortmund</a></li>
+<li><a href="/wiki/Duisburg" title="Duisburg">Duisburg</a></li>
+<li><a href="/wiki/D%C3%BCsseldorf" title="Düsseldorf">Düsseldorf</a></li>
+<li><a href="/wiki/Essen" title="Essen">Essen</a></li>
+<li><a href="/wiki/Gelsenkirchen" title="Gelsenkirchen">Gelsenkirchen</a></li>
+<li><a href="/wiki/Hagen" title="Hagen">Hagen</a></li>
+<li><a href="/wiki/Hamm" title="Hamm">Hamm</a></li>
+<li><a href="/wiki/Herne,_Germany" class="mw-redirect" title="Herne, Germany">Herne</a></li>
+<li><a href="/wiki/Cologne" title="Cologne">Köln (<i>Cologne</i>)</a></li>
+<li><a href="/wiki/Krefeld" title="Krefeld">Krefeld</a></li>
+<li><a href="/wiki/Leverkusen" title="Leverkusen">Leverkusen</a></li>
+<li><a class="mw-selflink selflink">Mönchengladbach</a></li>
+<li><a href="/wiki/M%C3%BClheim" title="Mülheim">Mülheim</a></li>
+<li><a href="/wiki/M%C3%BCnster" title="Münster">Münster</a></li>
+<li><a href="/wiki/Oberhausen" title="Oberhausen">Oberhausen</a></li>
+<li><a href="/wiki/Remscheid" title="Remscheid">Remscheid</a></li>
+<li><a href="/wiki/Solingen" title="Solingen">Solingen</a></li>
+<li><a href="/wiki/Wuppertal" title="Wuppertal">Wuppertal</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="2" style="width:1px;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Deutschland_Lage_von_Nordrhein-Westfalen.svg" class="image"><img alt="Deutschland Lage von Nordrhein-Westfalen.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Deutschland_Lage_von_Nordrhein-Westfalen.svg/90px-Deutschland_Lage_von_Nordrhein-Westfalen.svg.png" width="90" height="122" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Deutschland_Lage_von_Nordrhein-Westfalen.svg/135px-Deutschland_Lage_von_Nordrhein-Westfalen.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Deutschland_Lage_von_Nordrhein-Westfalen.svg/180px-Deutschland_Lage_von_Nordrhein-Westfalen.svg.png 2x" data-file-width="592" data-file-height="801" /></a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_rural_districts_of_Germany" class="mw-redirect" title="List of rural districts of Germany">Rural districts</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aachen_(district)" title="Aachen (district)">Aachen</a></li>
+<li><a href="/wiki/Borken_(district)" title="Borken (district)">Borken</a></li>
+<li><a href="/wiki/Coesfeld_(district)" title="Coesfeld (district)">Coesfeld</a></li>
+<li><a href="/wiki/D%C3%BCren_(district)" title="Düren (district)">Düren</a></li>
+<li><a href="/wiki/Ennepe-Ruhr-Kreis" title="Ennepe-Ruhr-Kreis">Ennepe-Ruhr-Kreis</a></li>
+<li><a href="/wiki/Euskirchen_(district)" title="Euskirchen (district)">Euskirchen</a></li>
+<li><a href="/wiki/G%C3%BCtersloh_(district)" title="Gütersloh (district)">Gütersloh</a></li>
+<li><a href="/wiki/Heinsberg_(district)" title="Heinsberg (district)">Heinsberg</a></li>
+<li><a href="/wiki/Herford_(district)" title="Herford (district)">Herford</a></li>
+<li><a href="/wiki/Hochsauerlandkreis" title="Hochsauerlandkreis">Hochsauerlandkreis</a></li>
+<li><a href="/wiki/H%C3%B6xter_(district)" title="Höxter (district)">Höxter</a></li>
+<li><a href="/wiki/Kleve_(district)" title="Kleve (district)">Kleve (<i>Cleves</i>)</a></li>
+<li><a href="/wiki/Lippe_(district)" title="Lippe (district)">Lippe</a></li>
+<li><a href="/wiki/M%C3%A4rkischer_Kreis" title="Märkischer Kreis">Märkischer Kreis</a></li>
+<li><a href="/wiki/Mettmann_(district)" title="Mettmann (district)">Mettmann</a></li>
+<li><a href="/wiki/Minden-L%C3%BCbbecke" title="Minden-Lübbecke">Minden-Lübbecke</a></li>
+<li><a href="/wiki/Oberbergischer_Kreis" title="Oberbergischer Kreis">Oberbergischer Kreis</a></li>
+<li><a href="/wiki/Olpe_(district)" title="Olpe (district)">Olpe</a></li>
+<li><a href="/wiki/Paderborn_(district)" title="Paderborn (district)">Paderborn</a></li>
+<li><a href="/wiki/Recklinghausen_(district)" title="Recklinghausen (district)">Recklinghausen</a></li>
+<li><a href="/wiki/Rheinisch-Bergischer_Kreis" title="Rheinisch-Bergischer Kreis">Rheinisch-Bergischer Kreis</a></li>
+<li><a href="/wiki/Rhein-Erft-Kreis" title="Rhein-Erft-Kreis">Rhein-Erft-Kreis</a></li>
+<li><a href="/wiki/Rhein-Kreis_Neuss" title="Rhein-Kreis Neuss">Rhein-Kreis Neuss</a></li>
+<li><a href="/wiki/Rhein-Sieg-Kreis" title="Rhein-Sieg-Kreis">Rhein-Sieg-Kreis</a></li>
+<li><a href="/wiki/Siegen-Wittgenstein" title="Siegen-Wittgenstein">Siegen-Wittgenstein</a></li>
+<li><a href="/wiki/Soest_(district)" title="Soest (district)">Soest</a></li>
+<li><a href="/wiki/Steinfurt_(district)" title="Steinfurt (district)">Steinfurt</a></li>
+<li><a href="/wiki/Unna_(district)" title="Unna (district)">Unna</a></li>
+<li><a href="/wiki/Viersen_(district)" title="Viersen (district)">Viersen</a></li>
+<li><a href="/wiki/Warendorf_(district)" title="Warendorf (district)">Warendorf</a></li>
+<li><a href="/wiki/Wesel_(district)" title="Wesel (district)">Wesel</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/129657695">WorldCat Identities</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/129657695">129657695</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/16281962-6">16281962-6</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb119477489">cb119477489</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb119477489">(data)</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1185
+Cached time: 20171018042702
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.604 seconds
+Real time usage: 0.780 seconds
+Preprocessor visited node count: 6156/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 98431/2097152 bytes
+Template argument size: 20891/2097152 bytes
+Highest expansion depth: 26/40
+Expensive parser function count: 9/500
+Lua time usage: 0.200/10.000 seconds
+Lua memory usage: 5.09 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  622.540      1 -total
+ 60.51%  376.719      1 Template:Infobox_German_location
+ 57.78%  359.685      1 Template:Infobox_settlement
+ 48.91%  304.492      1 Template:Infobox
+ 12.52%   77.935      7 Template:Population_Germany
+  9.19%   57.186      7 Template:Metadata_Population_DE-NW
+  8.26%   51.453      1 Template:Reflist
+  7.23%   45.007      1 Template:Refimprove
+  7.23%   44.998      2 Template:Cite_web
+  7.19%   44.739      9 Template:Both
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:179923-0!canonical and timestamp 20171018042701 and revision id 802636470
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Mönchengladbach&amp;oldid=802636470">https://en.wikipedia.org/w/index.php?title=Mönchengladbach&amp;oldid=802636470</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Cities_in_North_Rhine-Westphalia" title="Category:Cities in North Rhine-Westphalia">Cities in North Rhine-Westphalia</a></li><li><a href="/wiki/Category:M%C3%B6nchengladbach" title="Category:Mönchengladbach">Mönchengladbach</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_German-language_sources_(de)" title="Category:CS1 German-language sources (de)">CS1 German-language sources (de)</a></li><li><a href="/wiki/Category:Pages_with_citations_lacking_titles" title="Category:Pages with citations lacking titles">Pages with citations lacking titles</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_January_2011" title="Category:Articles needing additional references from January 2011">Articles needing additional references from January 2011</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=M%C3%B6nchengladbach" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=M%C3%B6nchengladbach" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/M%C3%B6nchengladbach" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:M%C3%B6nchengladbach" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="collapsible selected"><span><a href="/wiki/M%C3%B6nchengladbach">Read</a></span></li>
+							<li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=M%C3%B6nchengladbach&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=M%C3%B6nchengladbach&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/M%C3%B6nchengladbach" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/M%C3%B6nchengladbach" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=M%C3%B6nchengladbach&amp;oldid=802636470" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=M%C3%B6nchengladbach&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2758" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=M%C3%B6nchengladbach&amp;id=802636470" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=M%C3%B6nchengladbach">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=M%C3%B6nchengladbach&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=M%C3%B6nchengladbach&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:M%C3%B6nchengladbach" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikivoyage"><a href="https://en.wikivoyage.org/wiki/M%C3%B6nchengladbach" hreflang="en">Wikivoyage</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/M%C3%B6nchengladbach" title="Mönchengladbach – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%85%D9%88%D9%86%D8%B4%D9%86%D8%BA%D9%84%D8%A7%D8%AF%D8%A8%D8%A7%D8%AE" title="مونشنغلادباخ – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/M%C3%B6nxenqladbax" title="Mönxenqladbax – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D9%85%D9%88%D9%86%D8%B4%D9%86%E2%80%8C%D9%82%D9%84%D8%A7%D8%AF%D8%A8%D8%A7%D8%AE" title="مونشن‌قلادباخ – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/M%C3%B6nchengladbach" title="Mönchengladbach – Chinese (Min Nan)" lang="zh-min-nan" hreflang="zh-min-nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%9C%D1%91%D0%BD%D1%85%D0%B5%D0%BD%D0%B3%D0%BB%D0%B0%D0%B4%D0%B1%D0%B0%D1%85" title="Мёнхенгладбах – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/%D0%9C%D1%91%D0%BD%D1%85%D1%8D%D0%BD%D0%B3%D0%BB%D1%8F%D0%B4%D0%B1%D0%B0%D1%85" title="Мёнхэнглядбах – Belarusian (Taraškievica orthography)" lang="be-x-old" hreflang="be-x-old" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9C%D1%8C%D0%BE%D0%BD%D1%85%D0%B5%D0%BD%D0%B3%D0%BB%D0%B0%D0%B4%D0%B1%D0%B0%D1%85" title="Мьонхенгладбах – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/M%C3%B6nchengladbach" title="Mönchengladbach – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/M%C3%B6nchengladbach_(kapital_sa_distrito)" title="Mönchengladbach (kapital sa distrito) – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/M%C3%B6nchengladbach" title="Mönchengladbach – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/M%C3%B6nchengladbach" title="Mönchengladbach – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/M%C3%B6nchengladbach" title="Mönchengladbach – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/M%C3%B6nchengladbach" title="Mönchengladbach – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%9C%CE%B5%CE%BD%CF%87%CE%B5%CE%BD%CE%B3%CE%BA%CE%BB%CE%AC%CE%BD%CF%84%CE%BC%CF%80%CE%B1%CF%87" title="Μενχενγκλάντμπαχ – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/M%C3%B6nchengladbach" title="Mönchengladbach – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/M%C3%B6nchengladbach" title="Mönchengladbach – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/M%C3%B6nchengladbach" title="Mönchengladbach – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%85%D9%88%D9%86%D8%B4%D9%86%E2%80%8C%DA%AF%D9%84%D8%A7%D8%AF%D8%A8%D8%A7%D8%AE" title="مونشن‌گلادباخ – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/M%C3%B6nchengladbach" title="Mönchengladbach – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%AC%80%ED%97%A8%EA%B8%80%EB%9D%BC%ED%8A%B8%EB%B0%94%ED%9D%90" title="묀헨글라트바흐 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%84%D5%B5%D5%B8%D5%B6%D5%AD%D5%A5%D5%B6%D5%A3%D5%AC%D5%A1%D5%A4%D5%A2%D5%A1%D5%AD" title="Մյոնխենգլադբախ – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hsb"><a href="https://hsb.wikipedia.org/wiki/M%C3%B6nchengladbach" title="Mönchengladbach – Upper Sorbian" lang="hsb" hreflang="hsb" class="interlanguage-link-target">Hornjoserbsce</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/M%C3%B6nchengladbach" title="Mönchengladbach – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/M%C3%B6nchengladbach" title="Mönchengladbach – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ie"><a href="https://ie.wikipedia.org/wiki/M%C3%B6nchengladbach" title="Mönchengladbach – Interlingue" lang="ie" hreflang="ie" class="interlanguage-link-target">Interlingue</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/M%C3%B6nchengladbach" title="Mönchengladbach – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/M%C3%B6nchengladbach" title="Mönchengladbach – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%9E%D7%A0%D7%A9%D7%A0%D7%92%D7%9C%D7%93%D7%91%D7%9A" title="מנשנגלדבך – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%9B%E1%83%94%E1%83%9C%E1%83%AE%E1%83%94%E1%83%9C%E1%83%92%E1%83%9A%E1%83%90%E1%83%93%E1%83%91%E1%83%90%E1%83%AE%E1%83%98" title="მენხენგლადბახი – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%9C%D1%91%D0%BD%D1%85%D0%B5%D0%BD%D0%B3%D0%BB%D0%B0%D0%B4%D0%B1%D0%B0%D1%85" title="Мёнхенгладбах – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/M%C3%B6nchengladbach" title="Mönchengladbach – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li><li class="interlanguage-link interwiki-ku"><a href="https://ku.wikipedia.org/wiki/M%C3%B6nchengladbach" title="Mönchengladbach – Kurdish" lang="ku" hreflang="ku" class="interlanguage-link-target">Kurdî</a></li><li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/%D0%9C%D3%A9%D0%BD%D1%85%D0%B5%D0%BD%D0%B3%D0%BB%D0%B0%D0%B4%D0%B1%D0%B0%D1%85" title="Мөнхенгладбах – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Menhengladbaha" title="Menhengladbaha – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Menchengladbachas" title="Menchengladbachas – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-li"><a href="https://li.wikipedia.org/wiki/Jlabbach" title="Jlabbach – Limburgish" lang="li" hreflang="li" class="interlanguage-link-target">Limburgs</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/M%C3%B6nchengladbach" title="Mönchengladbach – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%9C%D0%B5%D0%BD%D1%85%D0%B5%D0%BD%D0%B3%D0%BB%D0%B0%D0%B4%D0%B1%D0%B0%D1%85" title="Менхенгладбах – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%AE%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%A8%E0%A5%8D%E0%A4%B6%E0%A4%A8%E0%A4%97%E0%A5%8D%E0%A4%B2%E0%A4%BE%E0%A4%A1%E0%A4%AC%E0%A4%BE%E0%A4%96" title="म्योन्शनग्लाडबाख – Marathi" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li><li class="interlanguage-link interwiki-mn"><a href="https://mn.wikipedia.org/wiki/%D0%9C%D1%91%D0%BD%D1%85%D0%B5%D0%BD%D0%B3%D0%BB%D0%B0%D0%B4%D0%B1%D0%B0%D1%85" title="Мёнхенгладбах – Mongolian" lang="mn" hreflang="mn" class="interlanguage-link-target">Монгол</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/M%C3%B6nchengladbach" title="Mönchengladbach – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%B3%E3%83%92%E3%82%A7%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%BC%E3%83%88%E3%83%90%E3%83%83%E3%83%8F" title="メンヒェングラートバッハ – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-frr"><a href="https://frr.wikipedia.org/wiki/M%C3%B6nchengladbach" title="Mönchengladbach – Northern Frisian" lang="frr" hreflang="frr" class="interlanguage-link-target">Nordfriisk</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/M%C3%B6nchengladbach" title="Mönchengladbach – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/M%C3%B6nchengladbach" title="Mönchengladbach – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/M%C3%B6nchengladbach" title="Mönchengladbach – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li><li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%D9%85%D9%86%D8%B4%D9%86%DA%AF%D9%84%DB%8C%DA%88%D8%A8%D8%A7%D8%AE" title="منشنگلیڈباخ – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/M%C3%B6nchengladbach" title="Mönchengladbach – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/M%C3%B6nchengladbach" title="Mönchengladbach – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ksh"><a href="https://ksh.wikipedia.org/wiki/Jlabbach" title="Jlabbach – Colognian" lang="ksh" hreflang="ksh" class="interlanguage-link-target">Ripoarisch</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/M%C3%B6nchengladbach" title="Mönchengladbach – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9C%D1%91%D0%BD%D1%85%D0%B5%D0%BD%D0%B3%D0%BB%D0%B0%D0%B4%D0%B1%D0%B0%D1%85" title="Мёнхенгладбах – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/M%C3%B6nchengladbach" title="Mönchengladbach – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-stq"><a href="https://stq.wikipedia.org/wiki/M%C3%B6nchengladbach" title="Mönchengladbach – Saterland Frisian" lang="stq" hreflang="stq" class="interlanguage-link-target">Seeltersk</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/M%C3%B6nchengladbach" title="Mönchengladbach – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/M%C3%B6nchengladbach" title="Mönchengladbach – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%9C%D0%B5%D0%BD%D1%85%D0%B5%D0%BD%D0%B3%D0%BB%D0%B0%D0%B4%D0%B1%D0%B0%D1%85" title="Менхенгладбах – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/M%C3%B6nchengladbach" title="Mönchengladbach – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/M%C3%B6nchengladbach" title="Mönchengladbach – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/M%C3%B6nchengladbach" title="Mönchengladbach – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%9C%D3%A9%D0%BD%D1%85%D0%B5%D0%BD%D0%B3%D0%BB%D0%B0%D0%B4%D0%B1%D0%B0%D1%85" title="Мөнхенгладбах – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%8A%E0%B8%99%E0%B8%81%E0%B8%A5%E0%B8%B1%E0%B8%94%E0%B8%9A%E0%B8%B1%E0%B8%84" title="เมินเชนกลัดบัค – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/M%C3%B6nchengladbach" title="Mönchengladbach – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9C%D0%B5%D0%BD%D1%85%D0%B5%D0%BD%D0%B3%D0%BB%D0%B0%D0%B4%D0%B1%D0%B0%D1%85" title="Менхенгладбах – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D9%85%D9%88%D8%A6%D9%86%D8%B4%D9%86%DA%AF%D9%84%D8%A7%D8%A8%D8%A7%D8%AE" title="موئنشنگلاباخ – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-vec"><a href="https://vec.wikipedia.org/wiki/M%C3%B6nchengladbach" title="Mönchengladbach – Venetian" lang="vec" hreflang="vec" class="interlanguage-link-target">Vèneto</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/M%C3%B6nchengladbach" title="Mönchengladbach – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/M%C3%B6nchengladbach" title="Mönchengladbach – Volapük" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/M%C3%B6nchengladbach" title="Mönchengladbach – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E6%85%95%E9%81%9C%E5%8A%A0%E6%9F%8F" title="慕遜加柏 – Cantonese" lang="zh-yue" hreflang="zh-yue" class="interlanguage-link-target">粵語</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E9%97%A8%E5%85%B4%E6%A0%BC%E6%8B%89%E5%BE%B7%E5%B7%B4%E8%B5%AB" title="门兴格拉德巴赫 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2758#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 27 September 2017, at 13:34.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=M%C3%B6nchengladbach&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.604","walltime":"0.780","ppvisitednodes":{"value":6156,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":98431,"limit":2097152},"templateargumentsize":{"value":20891,"limit":2097152},"expansiondepth":{"value":26,"limit":40},"expensivefunctioncount":{"value":9,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  622.540      1 -total"," 60.51%  376.719      1 Template:Infobox_German_location"," 57.78%  359.685      1 Template:Infobox_settlement"," 48.91%  304.492      1 Template:Infobox"," 12.52%   77.935      7 Template:Population_Germany","  9.19%   57.186      7 Template:Metadata_Population_DE-NW","  8.26%   51.453      1 Template:Reflist","  7.23%   45.007      1 Template:Refimprove","  7.23%   44.998      2 Template:Cite_web","  7.19%   44.739      9 Template:Both"]},"scribunto":{"limitreport-timeusage":{"value":"0.200","limit":"10.000"},"limitreport-memusage":{"value":5332563,"limit":52428800}},"cachereport":{"origin":"mw1185","timestamp":"20171018042702","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":98,"wgHostname":"mw1324"});});</script>
+	</body>
+</html>

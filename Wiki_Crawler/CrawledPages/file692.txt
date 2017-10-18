@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Academic honor code - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Academic_honor_code","wgTitle":"Academic honor code","wgCurRevisionId":804565780,"wgRevisionId":804565780,"wgArticleId":1043494,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with citations lacking titles","Pages with citations having bare URLs","Use mdy dates from March 2012","All articles with unsourced statements","Articles with unsourced statements from April 2011","Articles with unsourced statements from August 2012","Honor","Codes of conduct","Academia"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Academic_honor_code","wgRelevantArticleId":1043494,"wgRequestId":"WeRczQpAAD4AAEpF6DQAAAAS","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Honor_code","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Academic_honor_code","wgWikibaseItemId":"Q1300162","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.3"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Academic_honor_code"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Academic_honor_code&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Academic_honor_code&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Academic_honor_code"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Academic_honor_code rootpage-Academic_honor_code vector-experimental-print-styles vector-nav-directionality skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Academic honor code</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a href="/w/index.php?title=Honor_code&amp;redirect=no" class="mw-redirect" title="Honor code">Honor code</a>)</span></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">"Code of Honor" redirects here. For the <i>Star Trek</i> episode, see <a href="/wiki/Code_of_Honor_(Star_Trek:_The_Next_Generation)" title="Code of Honor (Star Trek: The Next Generation)">Code of Honor (Star Trek: The Next Generation)</a>. For the film, see <a href="/wiki/Code_of_Honor_(film)" title="Code of Honor (film)">Code of Honor (film)</a>.</div>
+<p>An <b>academic honor code</b> or <a href="/wiki/Honor_system" title="Honor system">honor system</a> is a set of rules or <a href="/wiki/Ethical" class="mw-redirect" title="Ethical">ethical</a> principles governing an academic community based on <a href="/wiki/Ideal_(ethics)" title="Ideal (ethics)">ideals</a> that define what constitutes <a href="/wiki/Honour" title="Honour">honorable</a> behaviour within that community. The use of an honor code depends on the notion that people (at least within the community) can be <a href="/wiki/Trust_(sociology)" class="mw-redirect" title="Trust (sociology)">trusted</a> to act honorably. Those who are in violation of the honor code can be subject to various <a href="/wiki/Sanctions_(law)" title="Sanctions (law)">sanctions</a>, including <a href="/wiki/Expulsion_(academia)" class="mw-redirect" title="Expulsion (academia)">expulsion</a> from the institution. Honor codes are used to deter <a href="/wiki/Academic_dishonesty" title="Academic dishonesty">academic dishonesty</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#United_States_military_service_academies"><span class="tocnumber">2</span> <span class="toctext">United States military service academies</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Notable_academic_Honor_systems"><span class="tocnumber">3</span> <span class="toctext">Notable academic Honor systems</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Sample_honour_pledges"><span class="tocnumber">4</span> <span class="toctext">Sample honour pledges</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Academic_honor_code&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The documented history of an academic honor code dates back to 1736 at <a href="/wiki/The_College_of_William_and_Mary" class="mw-redirect" title="The College of William and Mary">The College of William and Mary</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> and is the oldest honor code in the United States. The Honor Code is an enduring tradition to this day, students administer the Honor pledge to each incoming student and educate faculty and administration on the relevance of the Code and its application to students' lives at the College. Students administer the Code through six Honor Councils and the Council of Chairs. The College of William and Mary founded the&#160;<a href="/wiki/Phi_Beta_Kappa" class="mw-redirect" title="Phi Beta Kappa">Phi Beta Kappa</a> academic&#160;honor society&#160;in 1776 and was the first school of higher education in the United States to install an&#160;honor code&#160;of conduct for students.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> The College’s Honor Code is based upon the premise that a person’s honor is his or her most cherished attribute. In a community devoted to learning, a foundation of honor among individuals must exist if that community is to thrive with respect and harmony among its members. An Honor System is an ideal mechanism to ensure such a state of affairs. With it, students and faculty are afforded a freedom that otherwise may not be available. With this freedom comes each individual’s responsibility to conduct himself or herself in such a way that the spirit of mutual trust which sustains the system is not compromised. The Honor Code applies to alleged acts of lying, stealing or cheating that adversely affect the College community, whether committed by a student on campus or elsewhere.</p>
+<h2><span class="mw-headline" id="United_States_military_service_academies">United States military service academies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Academic_honor_code&amp;action=edit&amp;section=2" title="Edit section: United States military service academies">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Presently, some of the most notable and most stringent honor codes exist at the <a href="/wiki/United_States_Military_Academy" title="United States Military Academy">U.S. Military Academy</a> (see <a href="/wiki/Cadet_Honor_Code" title="Cadet Honor Code">Cadet Honor Code</a>), <a href="/wiki/Virginia_Military_Institute" title="Virginia Military Institute">Virginia Military Institute</a>, the <a href="/wiki/United_States_Air_Force_Academy" title="United States Air Force Academy">U.S. Air Force Academy</a>, the <a href="/wiki/United_States_Merchant_Marine_Academy" title="United States Merchant Marine Academy">United States Merchant Marine Academy</a>, and the <a href="/wiki/United_States_Coast_Guard_Academy" title="United States Coast Guard Academy">United States Coast Guard Academy</a>. The <a href="/wiki/United_States_Naval_Academy" title="United States Naval Academy">United States Naval Academy</a> has an "<a href="/wiki/Honor_Concept" title="Honor Concept">Honor Concept</a>" which is similar in scope to the honor codes at the other academies. The military academy honor codes not only govern the <a href="/wiki/Officer_cadet" title="Officer cadet">cadets'</a> and <a href="/wiki/Midshipman" title="Midshipman">midshipmen's</a> lives at the academies, but are deemed essential to the development of military officers who are worthy of the public trust. As such, the codes are not limited merely to academic situations or to conduct on campus; cadets and midshipmen are expected to live by the codes' ethical standards at all times. The codes are as old as the academies themselves, and simply state that cadets and midshipmen do not lie, cheat or steal. The only single-sanction Honor Code in the United States exists at <a href="/wiki/Virginia_Military_Institute" title="Virginia Military Institute">Virginia Military Institute</a>. VMI features a "drum out" ceremony which is still carried out upon a cadet's dismissal.</p>
+<p>At three of the service academies, and <a href="/wiki/Virginia_Military_Institute" title="Virginia Military Institute">VMI</a>, anyone who learns of an honor code violation is required to report it.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Failure to do so is considered "toleration," which is itself a violation of the code. This also holds true at schools with combined cadet and traditional student programs such as -<a href="/wiki/Norwich_University" title="Norwich University">Norwich University</a>, <a href="/wiki/Texas_A%26M" class="mw-redirect" title="Texas A&amp;M">Texas A&amp;M</a>, and <a href="/wiki/The_Citadel,_The_Military_College_of_South_Carolina" title="The Citadel, The Military College of South Carolina">The Citadel</a> where their Honor Codes specifically provide that all students, both cadets and civilians, do not <i>tolerate those who do</i>.” It is notable that at these three <a href="/wiki/Senior_Military_Colleges" class="mw-redirect" title="Senior Military Colleges">Senior Military Colleges</a> there are 2 Honor Codes: One for cadets and one for civilians, whether on-campus or through distance online programs, etc.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> The Honor Concept of the Brigade of Midshipmen at the United States Naval Academy allows the observer of an honor violation to confront the accused without formally reporting. It was found that this method was more constructive at developing the honor of midshipmen. A non-toleration clause, on the other hand, is believed to make enemies of classmates. Additionally, it is thought that one's true honor, if other than utmost, was not able to be formally remediated when hidden from public view. Under the academies' honor codes, violators can face severe punishment, up to and including being forwarded for expulsion by the secretary of the Army, Navy or Air Force.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p>
+<p>Stringent honor codes, however, are not limited to military institutions. The all-male <a href="/wiki/Hampden%E2%80%93Sydney_College" title="Hampden–Sydney College">Hampden–Sydney College</a> is reputed for an honor code system on a par with military systems;<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (April 2011)">citation needed</span></a></i>]</sup> this code extends to all student activities both on and off campus (off-campus violations can be prosecuted) and, also like the military system, considers tolerance of a violation itself a violation. Like the Naval Academy, though, those who witness a violation are encouraged to confront the violator and convince them to turn themselves in before resorting to reporting the violation. Another school with a very strict honor code is <a href="/wiki/Brigham_Young_University" title="Brigham Young University">Brigham Young University</a>. The university not only mandates honest behavior, but incorporates various aspects of <a href="/wiki/Mormon" class="mw-redirect" title="Mormon">Mormon</a> religious law: drinking, smoking, drug use, and premarital sex are all banned. Also, the code includes standards for dress and grooming. Men must be clean shaven and men and women cannot wear short shorts or other revealing clothing.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p>
+<h2><span class="mw-headline" id="Notable_academic_Honor_systems">Notable academic Honor systems</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Academic_honor_code&amp;action=edit&amp;section=3" title="Edit section: Notable academic Honor systems">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Many military academies have strict Honor systems, such as:</p>
+<ul>
+<li><a href="/wiki/United_States_Air_Force_Academy" title="United States Air Force Academy">U.S. Air Force Academy</a>, (US)</li>
+<li><a href="/wiki/United_States_Coast_Guard_Academy" title="United States Coast Guard Academy">U.S. Coast Guard Academy</a>, (US)</li>
+<li><a href="/wiki/United_States_Military_Academy" title="United States Military Academy">U.S. Military Academy</a>, (US)</li>
+<li><a href="/wiki/United_States_Naval_Academy" title="United States Naval Academy">U.S. Naval Academy</a>, (US)</li>
+<li><a href="/wiki/Virginia_Military_Institute" title="Virginia Military Institute">Virginia Military Institute</a>, (Virginia, US)</li>
+</ul>
+<p>In addition, the following colleges with a Corps of Cadets maintain an honor code for both the cadets and civilian students: Norwich University Texas A&amp;M University Virginia Tech The Citadel There are also traditional liberal arts and technical universities that maintain Honor systems:</p>
+<ul>
+<li><a href="/wiki/Amherst_College" title="Amherst College">Amherst College</a>, (<a href="/wiki/Massachusetts" title="Massachusetts">Massachusetts</a>, US)</li>
+<li><a href="/wiki/Brigham_Young_University" title="Brigham Young University">Brigham Young University</a>, (<a href="/wiki/Utah" title="Utah">Utah</a>, US)</li>
+<li><a href="/wiki/Bryn_Mawr_College" title="Bryn Mawr College">Bryn Mawr College</a>, (<a href="/wiki/Pennsylvania" title="Pennsylvania">Pennsylvania</a>, US)</li>
+<li><a href="/wiki/California_Institute_of_Technology" title="California Institute of Technology">California Institute of Technology</a>, (<a href="/wiki/California" title="California">California</a>, US)</li>
+<li><a href="/wiki/College_of_William_and_Mary" class="mw-redirect" title="College of William and Mary">College of William and Mary</a>, (Virginia, US)</li>
+<li><a href="/wiki/Connecticut_College" title="Connecticut College">Connecticut College</a>, (<a href="/wiki/Connecticut" title="Connecticut">Connecticut</a>, US)</li>
+<li><a href="/wiki/Dartmouth_College" title="Dartmouth College">Dartmouth College</a>, (<a href="/wiki/New_Hampshire" title="New Hampshire">New Hampshire</a>, US)</li>
+<li><a href="/wiki/Davidson_College" title="Davidson College">Davidson College</a>, (<a href="/wiki/North_Carolina" title="North Carolina">North Carolina</a>, US)</li>
+<li><a href="/wiki/Duke_University" title="Duke University">Duke University</a>, ([North Carolina, US)</li>
+<li><a href="/wiki/Georgia_Institute_of_Technology" title="Georgia Institute of Technology">Georgia Institute of Technology</a>, (<a href="/wiki/Georgia_(United_States)" class="mw-redirect" title="Georgia (United States)">Georgia</a>, US)</li>
+<li><a href="/wiki/Gettysburg_College" title="Gettysburg College">Gettysburg College</a>, (<a href="/wiki/Pennsylvania" title="Pennsylvania">Pennsylvania</a>, US)</li>
+<li><a href="/wiki/Gustavus_Adolphus_College" title="Gustavus Adolphus College">Gustavus Adolphus College</a>, (<a href="/wiki/Minnesota" title="Minnesota">Minnesota</a>, US)</li>
+<li><a href="/wiki/Hampden%E2%80%93Sydney_College" title="Hampden–Sydney College">Hampden–Sydney College</a>, (Virginia, US)</li>
+<li><a href="/wiki/Harvey_Mudd_College" title="Harvey Mudd College">Harvey Mudd College</a>, (California, US)</li>
+<li><a href="/wiki/Haverford_College" title="Haverford College">Haverford College</a>, (<a href="/wiki/Pennsylvania" title="Pennsylvania">Pennsylvania</a>, US)</li>
+<li><a href="/wiki/Johns_Hopkins_University" title="Johns Hopkins University">Johns Hopkins University</a>, (<a href="/wiki/Maryland" title="Maryland">Maryland</a>, US)</li>
+<li><a href="/wiki/Kansas_State_University" title="Kansas State University">Kansas State University</a>, (<a href="/wiki/Kansas" title="Kansas">Kansas</a>, US)</li>
+<li><a href="/wiki/K._J._Somaiya_Institute_of_Management_Studies_and_Research_(SIMSR)" class="mw-redirect" title="K. J. Somaiya Institute of Management Studies and Research (SIMSR)">K.J.Somaiya Institute of Management Studies and Research</a>, (<a href="/wiki/Mumbai" title="Mumbai">Mumbai</a>, <a href="/wiki/India" title="India">India</a>)</li>
+<li><a href="/wiki/Knox_College_(Illinois)" title="Knox College (Illinois)">Knox College</a>, (<a href="/wiki/Illinois" title="Illinois">Illinois</a>, US)</li>
+<li><a href="/wiki/Lawrence_University" title="Lawrence University">Lawrence University</a>, (<a href="/wiki/Wisconsin" title="Wisconsin">Wisconsin</a>, US)</li>
+<li><a href="/wiki/University_of_Maryland,_College_Park" title="University of Maryland, College Park">University of Maryland, College Park</a>, (<a href="/wiki/Maryland" title="Maryland">Maryland</a>, US)</li>
+<li><a href="/wiki/University_of_Mary_Washington" title="University of Mary Washington">University of Mary Washington</a>, (Virginia, US)</li>
+<li><a href="/wiki/University_of_Michigan" title="University of Michigan">University of Michigan</a>, (<a href="/wiki/Michigan" title="Michigan">Michigan</a>, US)</li>
+<li><a href="/wiki/Meredith_College" title="Meredith College">Meredith College</a> (<a href="/wiki/Raleigh" class="mw-redirect" title="Raleigh">Raleigh</a>, NC, US)</li>
+<li><a href="/wiki/Middlebury_College" title="Middlebury College">Middlebury College</a> (<a href="/wiki/Vermont" title="Vermont">Vermont</a>, US)</li>
+<li><a href="/wiki/Mount_Holyoke_College" title="Mount Holyoke College">Mount Holyoke College</a> (<a href="/wiki/Massachusetts" title="Massachusetts">Massachusetts</a>, US)</li>
+<li><a href="/wiki/University_of_North_Carolina_at_Chapel_Hill" title="University of North Carolina at Chapel Hill">University of North Carolina at Chapel Hill</a>, (North Carolina, US)</li>
+<li><a href="/wiki/Notre_Dame_of_Maryland_University" title="Notre Dame of Maryland University">Notre Dame of Maryland University</a>, (Baltimore, MD, US)</li>
+<li><a href="/wiki/Lyon_College" title="Lyon College">Lyon College</a>, (<a href="/wiki/Arkansas" title="Arkansas">Arkansas</a>, US)</li>
+<li><a href="/wiki/Oberlin_College" title="Oberlin College">Oberlin College</a>, (<a href="/wiki/Oberlin,_Ohio" title="Oberlin, Ohio">Ohio</a>, US)</li>
+<li><a href="/wiki/Pohang_University_of_Science_and_Technology" title="Pohang University of Science and Technology">Pohang University of Science and Technology</a>, (<a href="/wiki/Daegu-Gyeongbuk" class="mw-redirect" title="Daegu-Gyeongbuk">Daegu-Gyeongbuk</a>, <a href="/wiki/Republic_of_Korea" class="mw-redirect" title="Republic of Korea">Republic of Korea</a>)</li>
+<li><a href="/wiki/Princeton_University" title="Princeton University">Princeton University</a>, (<a href="/wiki/New_Jersey" title="New Jersey">New Jersey</a>, US)</li>
+<li><a href="/wiki/Reed_College" title="Reed College">Reed College</a>, (<a href="/wiki/Oregon" title="Oregon">Oregon</a>, US)</li>
+<li><a href="/wiki/Rice_University" title="Rice University">Rice University</a>, (Texas, US)</li>
+<li><a href="/wiki/Rhodes_College" title="Rhodes College">Rhodes College</a>, (<a href="/wiki/Tennessee" title="Tennessee">Tennessee</a>, US)</li>
+<li><a href="/wiki/University_of_the_South" class="mw-redirect" title="University of the South">University of the South</a>, (Tennessee, US)</li>
+<li><a href="/wiki/Southwestern_University" title="Southwestern University">Southwestern University</a>, (Texas, US)</li>
+<li><a href="/wiki/Stanford_University" title="Stanford University">Stanford University</a>, (California, <a href="/wiki/United_States" title="United States">US</a>)</li>
+<li><a href="/wiki/Stevens_Institute_of_Technology" title="Stevens Institute of Technology">Stevens Institute of Technology</a>, (New Jersey, US)</li>
+<li><a href="/wiki/Texas_A%26M_University" title="Texas A&amp;M University">Texas A&amp;M University</a>, (Texas, US)</li>
+<li><a href="/wiki/Valparaiso_University" title="Valparaiso University">Valparaiso University</a>, (Indiana, US)</li>
+<li><a href="/wiki/University_of_Virginia" title="University of Virginia">University of Virginia</a>, (Virginia, US)</li>
+<li><a href="/wiki/Virginia_Commonwealth_University" title="Virginia Commonwealth University">Virginia Commonwealth University</a>, (Virginia, US)</li>
+<li><a href="/wiki/Virginia_Polytechnic_Institute_and_State_University" class="mw-redirect" title="Virginia Polytechnic Institute and State University">Virginia Polytechnic Institute and State University</a>, (Virginia, US)</li>
+<li><a href="/wiki/Washington_and_Lee_University" title="Washington and Lee University">Washington and Lee University</a>, (Virginia, US)</li>
+<li><a href="/wiki/Webb_Institute" title="Webb Institute">Webb Institute</a>, (<a href="/wiki/New_York_(state)" title="New York (state)">New York</a>, US)</li>
+<li><a href="/wiki/Wellesley_College" title="Wellesley College">Wellesley College</a>, (<a href="/wiki/Massachusetts" title="Massachusetts">Massachusetts</a>, US)</li>
+<li><a href="/wiki/Wheaton_College_(Massachusetts)" title="Wheaton College (Massachusetts)">Wheaton College</a>, (Massachusetts, US)</li>
+<li><a href="/wiki/Williams_College" title="Williams College">Williams College</a>, (Massachusetts, US)</li>
+<li>Wilson College (Chambersburg, PA)</li>
+</ul>
+<p>There are differences between the honour codes of different universities.</p>
+<ul>
+<li>The <a href="/wiki/University_of_Virginia" title="University of Virginia">University of Virginia</a> opts for a system run by elected students and involving randomly chosen students.</li>
+<li><a href="/wiki/Bryn_Mawr_College" title="Bryn Mawr College">Bryn Mawr College</a> holds its students to a high degree of trust with their Honour Code which is revised yearly and ruled by the Honour Board.</li>
+<li><a href="/wiki/Connecticut_College" title="Connecticut College">Connecticut College</a> students uphold academic excellence and high community standards by practicing responsible citizenship that protects the core principles of the College. With the privilege of having a diverse student body, students should be able to interact and learn from each other in ways that uphold community respect and personal freedom. The honour system at Connecticut College is unique in that it is upheld and presided over by a student-governed judicial process. Because the Honour Code is taken very seriously by students, there is a strong trust between students, faculty and administration. The Honour Code sets the tone for campus life and acts as a philosophy to live by through demonstrating a commitment to personal participation in improving the quality of life in our community.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></li>
+<li><a href="/wiki/Haverford_College" title="Haverford College">Haverford College</a> holds an honour code which is ratified by students yearly and run by an elected body, the Honour Council. This code is concerned with an academic as well as a social component, demanding equal respect among students, in contrast to the military academies' focus on hierarchy.</li>
+<li><a href="/wiki/Davidson_College" title="Davidson College">Davidson College</a> also holds a dual honour code. According to a legend surrounding the Davidson code, a student was put on trial for not reporting an extra can of soda dispensed by a vending machine.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (August 2012)">citation needed</span></a></i>]</sup></li>
+<li><a href="/wiki/Princeton_University" title="Princeton University">Princeton University</a> has maintained a student-run Honour Code for over one hundred years, a unique policy compared to those of other Ivy League schools.</li>
+<li><a href="/wiki/Vanderbilt_University" title="Vanderbilt University">Vanderbilt University</a> has also been governed by an Honour Code since its founding. <a href="/wiki/First_year" class="mw-redirect" title="First year">First year</a> students attend an honour code ceremony to protect the traditions and <a href="/wiki/Academic_integrity" title="Academic integrity">academic integrity</a> of the university. A plaque of the honour code is engraved in the student life center with a quote by once-Chancellor Madison Sarratt, "Today I give you two examinations, one in <a href="/wiki/Trigonometry" title="Trigonometry">trigonometry</a> and one in <a href="/wiki/Honesty" title="Honesty">honesty</a>. I hope you pass them both, but if you must fail one, let it be trigonometry for there are many good men in this world today who cannot pass an examination in trigonometry, but there are no good men in the world who cannot pass an examination in honesty."</li>
+<li><a href="/wiki/The_University_of_Texas_School_of_Law" class="mw-redirect" title="The University of Texas School of Law">The University of Texas School of Law</a> sets its Honour Code as a first step in the obligation of its students to the legal profession: "All law students are harmed by unethical behaviour by any student. A student who deals dishonestly with fellow law students may be dishonest in the future and harm both future clients and the legal profession."<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> In keeping with this approach to the honour code in the grand scheme of the legal profession, honour code violations are reported to the State Bar of Texas and the violator's home state bar, thus creating an impediment to licensure. UT Law School is unique in that regard.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (August 2012)">citation needed</span></a></i>]</sup></li>
+<li><a href="/wiki/James_Madison_University" title="James Madison University">James Madison University</a> holds its students to an Honour Code overseen by the Honour Council. The honour code at JMU was founded in 1909 and the Honour Council is an organisation run by students. A student who violates the code, if found "responsible", may receive anywhere from a letter grade reduction to expulsion from the university for a first time offense, while second time offenders are either suspended from the university for a semester or expelled. "The Honour Council at James Madison University is committed to instilling, promoting, and upholding individual and collective academic integrity.".<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></li>
+<li>At <a href="/wiki/Meredith_College" title="Meredith College">Meredith College</a>, an all-women's institution, all first year students attend an Honor Code ceremony, where they sign a statement promising to uphold the values of the Code. The Code places a high emphasis on integrity and good judgement. Meredith College is unique in the fact that its judicial board (the Honor Council) is primarily governed by students, including the Chair who also sits on the Student Government Association executive board, and the Solicitor General, who facilitates and investigates all incoming reports.<sup id="cite_ref-Meredith_College_Student_Handbook_12-0" class="reference"><a href="#cite_note-Meredith_College_Student_Handbook-12">[12]</a></sup> Rumors about the Honor Code at Meredith include that students are not allowed to walk on the grass and must remain on the sidewalks. Male visitation hours, or "boy hours," are a common violation at a school that does not allow men to stay overnight in the residence halls. However criticized it may be for being outdated, Meredith's Honor Code has evolved with the times and can be seen in the school's archives.</li>
+<li><a href="/wiki/Washington_and_Lee_University" title="Washington and Lee University">Washington and Lee University</a> and its <a href="/wiki/Washington_and_Lee_University_School_of_Law" title="Washington and Lee University School of Law">Law School</a> feature an honour system in which all students are expected to act as gentlemen and women. The system governs both academic and social aspects of the university and is administered by the Executive Committee which includes the student body president. The honour system has a single penalty—expulsion. If allegations surface of a student violating the honour system they are given the right to a trial and appeal.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></li>
+</ul>
+<h2><span class="mw-headline" id="Sample_honour_pledges">Sample honour pledges</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Academic_honor_code&amp;action=edit&amp;section=4" title="Edit section: Sample honour pledges">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>"As a member of the William and Mary community, I pledge on my honour not to lie, cheat, or steal, either in my academic or personal life. I understand that such acts violate the Honour Code and undermine the community of trust, of which we are all stewards." — <a href="/wiki/The_College_of_William_%26_Mary" class="mw-redirect" title="The College of William &amp; Mary">The College of William &amp; Mary</a></li>
+<li>"On my honour as a student, I have neither given nor received aid on this assignment/exam." — <a href="/wiki/University_of_Virginia" title="University of Virginia">University of Virginia</a></li>
+<li>"Pledge: No Aid; No Violations." — <a href="/wiki/Wesleyan_University" title="Wesleyan University">Wesleyan University</a></li>
+<li>"A cadet will not lie, cheat, steal, or tolerate those who do." — <a href="/wiki/United_States_Military_Academy" title="United States Military Academy">United States Military Academy</a></li>
+<li>"Who lives here reveres honour, honors duty; we neither lie, cheat, steal nor attempt to deceive." — <a href="/wiki/United_States_Coast_Guard_Academy" title="United States Coast Guard Academy">United States Coast Guard Academy</a></li>
+<li>"I pledge my honour that I have not violated the honour code during this examination." — <a href="/wiki/Princeton_University" title="Princeton University">Princeton University</a><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></li>
+<li>"No member of the Caltech community shall take unfair advantage of any other member of the Caltech community." — <a href="/wiki/California_Institute_of_Technology" title="California Institute of Technology">California Institute of Technology</a></li>
+<li>"Sweet Briar women do not lie, cheat, steal or violate the rights of others. Therefore, I pledge to uphold all standards of honorable conduct. I will report myself and others for any infraction of this pledge." — <a href="/wiki/Sweet_Briar_College" title="Sweet Briar College">Sweet Briar College</a></li>
+<li>"I affirm that I will uphold the highest principles of honesty and integrity in all my endeavors at Gettysburg College and foster an atmosphere of mutual respect within and beyond the classroom." — <a href="/wiki/Gettysburg_College" title="Gettysburg College">Gettysburg College</a></li>
+<li>"I pledge to uphold the principles of honesty and responsibility at our University." — <a href="/wiki/Texas_State_University%E2%80%93San_Marcos" class="mw-redirect" title="Texas State University–San Marcos">Texas State University</a></li>
+<li>"We have but one rule here, and it is that every student must be a gentleman." — <a href="/wiki/Washington_and_Lee_University" title="Washington and Lee University">Washington and Lee University</a></li>
+<li>"The members of the METU community are reliable, responsible and honourable people who embrace only the success and recognition they deserve, and act with integrity in their use, evaluation and presentation of facts, data and documents." — <a href="/wiki/Middle_East_Technical_University" title="Middle East Technical University">Middle East Technical University</a></li>
+<li>"I have been honest and observed no dishonesty." — <a href="/wiki/Guilford_College" title="Guilford College">Guilford College</a></li>
+<li>"Each member of the Association of Students of Harvey Mudd College is responsible for maintaining his or her integrity and the integrity of the college community in all academic matters and in all affairs concerning the community." – <a href="/wiki/Harvey_Mudd_College" title="Harvey Mudd College">Harvey Mudd College</a></li>
+<li>"I do solemnly pledge my honor that as long as I am a student at Meredith College, I will faithfully uphold the principles of the Honor Code and will respect and observe the procedures and requirements of the Honor System. I also pledge my support to our system of self-government, an integral part of our way of life at Meredith College. I make this pledge in view of my fellow students thus signifying our high resolve to keep our honor forever sacred and our self-government forever strong." — <a href="/wiki/Meredith_College" title="Meredith College">Meredith College</a></li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Academic_honor_code&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Ethical_code" title="Ethical code">Ethical code</a></li>
+<li><a href="/wiki/Warrior#Behavioral_codes" title="Warrior">Warrior code</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Academic_honor_code&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20160324161444/http://www.wm.edu/offices/deanofstudents/services/studentconduct/honorcodeandstudentconduct/honorcode/">"Archived copy"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.wm.edu/offices/deanofstudents/services/studentconduct/honorcodeandstudentconduct/honorcode/">the original</a> on March 24, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-03-17</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcademic+honor+code&amp;rft.btitle=Archived+copy&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.wm.edu%2Foffices%2Fdeanofstudents%2Fservices%2Fstudentconduct%2Fhonorcodeandstudentconduct%2Fhonorcode%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.wm.edu/about/history/">http://www.wm.edu/about/history/</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external free" href="http://www.vmi.edu/archives/vmi-archives-faqs/vmi-honor-system-history/">http://www.vmi.edu/archives/vmi-archives-faqs/vmi-honor-system-history/</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcademic+honor+code&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.vmi.edu%2Farchives%2Fvmi-archives-faqs%2Fvmi-honor-system-history%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="font-size:100%" class="error citation-comment">Missing or empty <code style="color:inherit; border:inherit; padding:inherit;">|title=</code> (<a href="/wiki/Help:CS1_errors#citation_missing_title" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.citadel.edu/root/graduatecollege-current-students/honor-the-code">"Honor Code, Education"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcademic+honor+code&amp;rft.btitle=Honor+Code%2C+Education&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.citadel.edu%2Froot%2Fgraduatecollege-current-students%2Fhonor-the-code&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://lifeat.norwich.edu/honor-code/">"Honor Code, Education"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcademic+honor+code&amp;rft.btitle=Honor+Code%2C+Education&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Flifeat.norwich.edu%2Fhonor-code%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://student-rules.tamu.edu/aggiecode">"Honor Code, Education"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcademic+honor+code&amp;rft.btitle=Honor+Code%2C+Education&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fstudent-rules.tamu.edu%2Faggiecode&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20110605133445/http://www.dtic.mil/whs/directives/corres/pdf/133223p.pdf">"DoD Directive 1332.23, "Service Academy Disenrollment", February 19, 1988"</a> <span style="font-size:85%;">(PDF)</span>. Defense Technical Information Center. Archived from <a rel="nofollow" class="external text" href="http://www.dtic.mil/whs/directives/corres/pdf/133223p.pdf">the original</a> <span style="font-size:85%;">(PDF)</span> on June 5, 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-04-17</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcademic+honor+code&amp;rft.btitle=DoD+Directive+1332.23%2C+%22Service+Academy+Disenrollment%22%2C+February+19%2C+1988&amp;rft.genre=unknown&amp;rft.pub=Defense+Technical+Information+Center&amp;rft_id=http%3A%2F%2Fwww.dtic.mil%2Fwhs%2Fdirectives%2Fcorres%2Fpdf%2F133223p.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://saas.byu.edu/catalog/2010-2011ucat/GeneralInfo/HonorCode.php#HCOfficeInvovement">"Honor Code Statement"</a>. <i>Honour Code Office</i>. Brigham Young University<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-04-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcademic+honor+code&amp;rft.atitle=Honor+Code+Statement&amp;rft.genre=unknown&amp;rft.jtitle=Honour+Code+Office&amp;rft_id=http%3A%2F%2Fsaas.byu.edu%2Fcatalog%2F2010-2011ucat%2FGeneralInfo%2FHonorCode.php%23HCOfficeInvovement&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20130509053109/http://www.conncoll.edu/at-a-glance/honor-code-shared-governance/the-honor-code/">"The Honour Code"</a>. <i>Connecticut College</i>. Connecticut College. Archived from <a rel="nofollow" class="external text" href="http://www.conncoll.edu/at-a-glance/honor-code-shared-governance/the-honor-code/">the original</a> on May 9, 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-04-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcademic+honor+code&amp;rft.atitle=The+Honour+Code&amp;rft.genre=unknown&amp;rft.jtitle=Connecticut+College&amp;rft_id=http%3A%2F%2Fwww.conncoll.edu%2Fat-a-glance%2Fhonor-code-shared-governance%2Fthe-honor-code%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.utexas.edu/student/registrar/catalogs/law06-08/ch3/ch3a.html#School.of.Law.Honor.Code">"School of Law Honour Code"</a>. <i>Office of the Registrar</i>. University of Texas<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-03-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcademic+honor+code&amp;rft.atitle=School+of+Law+Honour+Code&amp;rft.genre=unknown&amp;rft.jtitle=Office+of+the+Registrar&amp;rft_id=http%3A%2F%2Fwww.utexas.edu%2Fstudent%2Fregistrar%2Fcatalogs%2Flaw06-08%2Fch3%2Fch3a.html%23School.of.Law.Honor.Code&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.jmu.edu/honor/index.shtml">"James Madison University Honor Code"</a>. <i>JMU Honour Council</i>. JMU<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-06-28</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcademic+honor+code&amp;rft.atitle=James+Madison+University+Honor+Code&amp;rft.genre=unknown&amp;rft.jtitle=JMU+Honour+Council&amp;rft_id=http%3A%2F%2Fwww.jmu.edu%2Fhonor%2Findex.shtml&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Meredith_College_Student_Handbook-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-Meredith_College_Student_Handbook_12-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.meredith.edu/images/uploads/honor_system_section_for_website.pdf">"Meredith College Student Handbook"</a> <span style="font-size:85%;">(PDF)</span>. <i>Meredith College</i>. Meredith College.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcademic+honor+code&amp;rft.atitle=Meredith+College+Student+Handbook&amp;rft.genre=unknown&amp;rft.jtitle=Meredith+College&amp;rft_id=http%3A%2F%2Fwww.meredith.edu%2Fimages%2Fuploads%2Fhonor_system_section_for_website.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation news">Anderson, Nick (December 14, 2012). <a rel="nofollow" class="external text" href="https://www.washingtonpost.com/local/education/honor-and-testing-at-a-virginia-university/2012/12/12/bc9bfa6a-43ca-11e2-9648-a2c323a991d6_story.html">"Honour and testing at a Virginia university"</a>. <i>Washington and Lee honour system</i>. The Washington Post<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-12-13</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcademic+honor+code&amp;rft.atitle=Honour+and+testing+at+a+Virginia+university&amp;rft.aufirst=Nick&amp;rft.aulast=Anderson&amp;rft.date=2012-12-14&amp;rft.genre=article&amp;rft.jtitle=Washington+and+Lee+honour+system&amp;rft_id=https%3A%2F%2Fwww.washingtonpost.com%2Flocal%2Feducation%2Fhonor-and-testing-at-a-virginia-university%2F2012%2F12%2F12%2Fbc9bfa6a-43ca-11e2-9648-a2c323a991d6_story.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.princeton.edu/~honor">"Princeton Honor Committee"</a>. <i>princeton.edu</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcademic+honor+code&amp;rft.atitle=Princeton+Honor+Committee&amp;rft.genre=unknown&amp;rft.jtitle=princeton.edu&amp;rft_id=http%3A%2F%2Fwww.princeton.edu%2F~honor&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1225
+Cached time: 20171009204908
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.168 seconds
+Real time usage: 0.227 seconds
+Preprocessor visited node count: 1107/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 25044/2097152 bytes
+Template argument size: 1613/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 4/500
+Lua time usage: 0.090/10.000 seconds
+Lua memory usage: 4.12 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  195.897      1 -total
+ 43.66%   85.524      1 Template:Reflist
+ 31.27%   61.252      3 Template:Citation_needed
+ 31.16%   61.035     12 Template:Cite_web
+ 29.24%   57.284      3 Template:Fix
+ 13.76%   26.949      6 Template:Category_handler
+ 13.00%   25.470      3 Template:Delink
+ 11.60%   22.722      1 Template:Redirect
+  9.25%   18.123      1 Template:Use_mdy_dates
+  5.29%   10.354      1 Template:DMCA
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1043494-0!canonical and timestamp 20171009204920 and revision id 804565780
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Academic_honor_code&amp;oldid=804565780">https://en.wikipedia.org/w/index.php?title=Academic_honor_code&amp;oldid=804565780</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Honor" title="Category:Honor">Honor</a></li><li><a href="/wiki/Category:Codes_of_conduct" title="Category:Codes of conduct">Codes of conduct</a></li><li><a href="/wiki/Category:Academia" title="Category:Academia">Academia</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_with_citations_lacking_titles" title="Category:Pages with citations lacking titles">Pages with citations lacking titles</a></li><li><a href="/wiki/Category:Pages_with_citations_having_bare_URLs" title="Category:Pages with citations having bare URLs">Pages with citations having bare URLs</a></li><li><a href="/wiki/Category:Use_mdy_dates_from_March_2012" title="Category:Use mdy dates from March 2012">Use mdy dates from March 2012</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_April_2011" title="Category:Articles with unsourced statements from April 2011">Articles with unsourced statements from April 2011</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_August_2012" title="Category:Articles with unsourced statements from August 2012">Articles with unsourced statements from August 2012</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Academic+honor+code" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Academic+honor+code" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Academic_honor_code" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Academic_honor_code" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Academic_honor_code">Read</a></span></li>
+							<li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Academic_honor_code&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Academic_honor_code&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Academic_honor_code" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Academic_honor_code" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Academic_honor_code&amp;oldid=804565780" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Academic_honor_code&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1300162" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Academic_honor_code&amp;id=804565780" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Academic+honor+code">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Academic+honor+code&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Academic_honor_code&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%85%D9%8A%D8%AB%D8%A7%D9%82_%D8%A7%D9%84%D8%B4%D8%B1%D9%81" title="ميثاق الشرف – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Ehrenkodex" title="Ehrenkodex – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/C%C3%B3digo_de_Honor" title="Código de Honor – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%AA%85%EC%98%88%EA%B7%9C%EC%9C%A8" title="명예규율 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Garb%C4%97s_kodeksas" title="Garbės kodeksas – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D0%B4%D0%B5%D0%BA%D1%81_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D1%96%D1%87%D0%BD%D0%BE%D1%97_%D1%87%D0%B5%D1%81%D1%82%D1%96" title="Кодекс академічної честі – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1300162#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 9 October 2017, at 20:49.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Academic_honor_code&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.168","walltime":"0.227","ppvisitednodes":{"value":1107,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":25044,"limit":2097152},"templateargumentsize":{"value":1613,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  195.897      1 -total"," 43.66%   85.524      1 Template:Reflist"," 31.27%   61.252      3 Template:Citation_needed"," 31.16%   61.035     12 Template:Cite_web"," 29.24%   57.284      3 Template:Fix"," 13.76%   26.949      6 Template:Category_handler"," 13.00%   25.470      3 Template:Delink"," 11.60%   22.722      1 Template:Redirect","  9.25%   18.123      1 Template:Use_mdy_dates","  5.29%   10.354      1 Template:DMCA"]},"scribunto":{"limitreport-timeusage":{"value":"0.090","limit":"10.000"},"limitreport-memusage":{"value":4324658,"limit":52428800}},"cachereport":{"origin":"mw1225","timestamp":"20171009204908","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":87,"wgHostname":"mw1267"});});</script>
+	</body>
+</html>

@@ -1,0 +1,908 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Charles River - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Charles_River","wgTitle":"Charles River","wgCurRevisionId":805944925,"wgRevisionId":805944925,"wgArticleId":146280,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Pages using citations with accessdate and no URL","Coordinates on Wikidata","Geobox usage tracking for river type","Wikipedia articles incorporating a citation from the New International Encyclopedia","Charles River","Rivers of Suffolk County, Massachusetts","Rivers of Middlesex County, Massachusetts","Rivers of Norfolk County, Massachusetts","Rivers of Worcester County, Massachusetts","Rowing venues","Landforms of Boston","Watersheds of Boston Harbor","Rivers of Massachusetts"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Charles_River","wgRelevantArticleId":146280,"wgRequestId":"WeeKxwpAICsAAEdQ7fwAAABY","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCoordinates":{"lat":42.370555555556,"lon":-71.053611111111},"wgWikibaseItemId":"Q794927","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.page.gallery","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.3"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Longfellow_pru.jpg/1200px-Longfellow_pru.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Charles_River"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Charles_River&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Charles_River&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Charles_River"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Charles_River rootpage-Charles_River vector-experimental-print-styles vector-nav-directionality skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Charles River</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">This article is about the Massachusetts river. For other uses, see <a href="/wiki/Charles_River_(disambiguation)" class="mw-disambig" title="Charles River (disambiguation)">Charles River (disambiguation)</a>.</div>
+<table class="infobox geography" style="width: 256px; padding: 0; font-size: 89%;">
+<tr class="mergedtoprow" title="Location name (local name)">
+<td colspan="2" style="text-align: center; font-weight: bold; font-size: 1.25em; background-color: #b3cce4;">Charles River</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center; padding: 0.5em;">
+<div><a href="/wiki/File:Longfellow_pru.jpg" class="image"><img alt="Longfellow pru.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Longfellow_pru.jpg/250px-Longfellow_pru.jpg" width="250" height="200" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Longfellow_pru.jpg/375px-Longfellow_pru.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Longfellow_pru.jpg/500px-Longfellow_pru.jpg 2x" data-file-width="1280" data-file-height="1024" /></a></div>
+<div style="padding-top:0.4em">The <a href="/wiki/Longfellow_Bridge" title="Longfellow Bridge">Longfellow Bridge</a> crossing over the Charles River, connecting <a href="/wiki/Boston" title="Boston">Boston</a> and <a href="/wiki/Cambridge,_Massachusetts" title="Cambridge, Massachusetts">Cambridge</a> in winter</div>
+</td>
+</tr>
+<tr class="mergedtoprow" title="Country/Countries in which the site lies">
+<th style="white-space: nowrap;">Country</th>
+<td><span style="white-space: nowrap"><a href="/wiki/United_States" title="United States">United States</a></span></td>
+</tr>
+<tr class="mergedrow" title="State/States in which the site lies">
+<th style="white-space: nowrap;">State</th>
+<td><span style="white-space: nowrap"><a href="/wiki/Massachusetts" title="Massachusetts">Massachusetts</a></span></td>
+</tr>
+<tr class="mergedrow" style="height: 0.2em;">
+<td colspan="2"></td>
+</tr>
+<tr class="mergedtoprow" title="Major settlements which lie in the site">
+<th style="white-space: nowrap;">Cities</th>
+<td><span style="white-space: nowrap"><a href="/wiki/Hopkinton,_Massachusetts" title="Hopkinton, Massachusetts">Hopkinton</a>,</span> <span style="white-space: nowrap"><a href="/wiki/Cambridge,_Massachusetts" title="Cambridge, Massachusetts">Cambridge</a>,</span> <span style="white-space: nowrap"><a href="/wiki/Boston,_Massachusetts" class="mw-redirect" title="Boston, Massachusetts">Boston</a></span></td>
+</tr>
+<tr class="mergedrow" style="height: 0.2em;">
+<td colspan="2"></td>
+</tr>
+<tr class="mergedrow" style="height: 0.2em;">
+<td colspan="2"></td>
+</tr>
+<tr class="mergedtoprow" title="Source name">
+<th style="white-space: nowrap;">Source</th>
+<td><a href="/w/index.php?title=Echo_Lake_(Hopkinton)&amp;action=edit&amp;redlink=1" class="new" title="Echo Lake (Hopkinton) (page does not exist)">Echo Lake</a></td>
+</tr>
+<tr class="mergedrow" title="Source location">
+<td style="white-space: nowrap;">&#160;-&#160;location</td>
+<td><a href="/wiki/Hopkinton,_Massachusetts" title="Hopkinton, Massachusetts">Hopkinton</a>, <span style="white-space: nowrap"><a href="/wiki/Massachusetts" title="Massachusetts">Massachusetts</a></span>, <span style="white-space: nowrap"><a href="/wiki/United_States" title="United States">United States</a></span></td>
+</tr>
+<tr class="mergedrow" title="Source elevation above sea level (ASL)">
+<td style="white-space: nowrap;">&#160;-&#160;elevation</td>
+<td>350&#160;ft (107&#160;m)</td>
+</tr>
+<tr class="mergedrow" title="Source geographic coordinates">
+<td style="white-space: nowrap;">&#160;-&#160;coordinates</td>
+<td><span style="white-space:nowrap;"><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Charles_River&amp;params=42_11_34_N_71_30_43_W_region:US-MA_type:river"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">42°11′34″N</span> <span class="longitude">71°30′43″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">42.19278°N 71.51194°W</span><span style="display:none">﻿ / <span class="geo">42.19278; -71.51194</span></span></span></a></span></span></td>
+</tr>
+<tr class="mergedrow" title="Mouth name">
+<th style="white-space: nowrap;">Mouth</th>
+<td><a href="/wiki/Boston_Harbor" title="Boston Harbor">Boston Harbor</a></td>
+</tr>
+<tr class="mergedrow" title="Mouth location">
+<td style="white-space: nowrap;">&#160;-&#160;location</td>
+<td><a href="/wiki/Boston,_Massachusetts" class="mw-redirect" title="Boston, Massachusetts">Boston</a>, <span style="white-space: nowrap"><a href="/wiki/Massachusetts" title="Massachusetts">Massachusetts</a></span>, <span style="white-space: nowrap"><a href="/wiki/United_States" title="United States">United States</a></span></td>
+</tr>
+<tr class="mergedrow" title="Mouth elevation above sea level (ASL)">
+<td style="white-space: nowrap;">&#160;-&#160;elevation</td>
+<td>0&#160;ft (0&#160;m)</td>
+</tr>
+<tr class="mergedrow" title="Mouth geographic coordinates">
+<td style="white-space: nowrap;">&#160;-&#160;coordinates</td>
+<td><span style="white-space:nowrap;"><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Charles_River&amp;params=42_22_14_N_71_3_13_W_region:US-MA_type:river"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">42°22′14″N</span> <span class="longitude">71°3′13″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">42.37056°N 71.05361°W</span><span style="display:none">﻿ / <span class="geo">42.37056; -71.05361</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Charles_River&amp;params=42_22_14_N_71_3_13_W_region:US-MA_type:river"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">42°22′14″N</span> <span class="longitude">71°3′13″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">42.37056°N 71.05361°W</span><span style="display:none">﻿ / <span class="geo">42.37056; -71.05361</span></span></span></a></span></span></span></span></td>
+</tr>
+<tr class="mergedrow" style="height: 0.2em;">
+<td colspan="2"></td>
+</tr>
+<tr class="mergedtoprow" title="Length">
+<th style="white-space: nowrap;">Length</th>
+<td>80&#160;mi (129&#160;km)</td>
+</tr>
+<tr class="mergedrow" title="Drainage basin/catchment area/watershed">
+<th style="white-space: nowrap;">Basin</th>
+<td>308&#160;sq&#160;mi (798&#160;km<sup>2</sup>)</td>
+</tr>
+<tr class="mergedrow" title="Discharge figures measured at">
+<th style="white-space: nowrap;">Discharge</th>
+<td></td>
+</tr>
+<tr class="mergedrow" title="Average discharge">
+<td style="white-space: nowrap;">&#160;-&#160;average</td>
+<td>302&#160;cu&#160;ft/s (9&#160;m<sup>3</sup>/s)</td>
+</tr>
+<tr class="mergedrow" title="Maximal discharge">
+<td style="white-space: nowrap;">&#160;-&#160;max</td>
+<td>4,150&#160;cu&#160;ft/s (118&#160;m<sup>3</sup>/s)</td>
+</tr>
+<tr class="mergedrow" title="Minimal discharge">
+<td style="white-space: nowrap;">&#160;-&#160;min</td>
+<td>0.1&#160;cu&#160;ft/s (0&#160;m<sup>3</sup>/s)</td>
+</tr>
+<tr class="mergedrow" style="height: 0.2em;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center; padding: 0.5em;">
+<div><a href="/wiki/File:Charlesrivermap.png" class="image"><img alt="Charlesrivermap.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Charlesrivermap.png/300px-Charlesrivermap.png" width="300" height="300" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Charlesrivermap.png/450px-Charlesrivermap.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/08/Charlesrivermap.png/600px-Charlesrivermap.png 2x" data-file-width="1000" data-file-height="1000" /></a></div>
+<div style="padding-top:0.4em">Charles, Mystic, and Neponset river watersheds</div>
+</td>
+</tr>
+</table>
+<p>The <b>Charles River</b> (sometimes called the <b>River Charles</b> or simply the <b>Charles</b>) is an 80&#160;mi (129&#160;km) long river in eastern <a href="/wiki/Massachusetts" title="Massachusetts">Massachusetts</a>. From its source in <a href="/wiki/Hopkinton,_Massachusetts" title="Hopkinton, Massachusetts">Hopkinton</a> the river flows in a northeasterly direction (after first coursing due south through <a href="/wiki/Milford,_Massachusetts" title="Milford, Massachusetts">Milford</a>), traveling through 23 cities and towns before reaching the <a href="/wiki/Atlantic_Ocean" title="Atlantic Ocean">Atlantic Ocean</a> at <a href="/wiki/Boston,_Massachusetts" class="mw-redirect" title="Boston, Massachusetts">Boston</a>.<sup id="cite_ref-ReferenceA_1-0" class="reference"><a href="#cite_note-ReferenceA-1">[1]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Hydrography"><span class="tocnumber">1</span> <span class="toctext">Hydrography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Recreation"><span class="tocnumber">2</span> <span class="toctext">Recreation</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#History"><span class="tocnumber">3</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Creation_of_modern_Boston-Cambridge_basin"><span class="tocnumber">3.1</span> <span class="toctext">Creation of modern Boston-Cambridge basin</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#History_of_pollution_and_remediation_efforts"><span class="tocnumber">3.2</span> <span class="toctext">History of pollution and remediation efforts</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Gallery"><span class="tocnumber">4</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Notes"><span class="tocnumber">6</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Further_reading"><span class="tocnumber">8</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Hydrography">Hydrography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Charles_River&amp;action=edit&amp;section=1" title="Edit section: Hydrography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Further information: <a href="/wiki/List_of_rivers_in_Massachusetts#Massachusetts_Bay" class="mw-redirect" title="List of rivers in Massachusetts">List of rivers in Massachusetts §&#160;Massachusetts_Bay</a></div>
+<p>The Charles River is fed by approximately 80 <a href="/wiki/Stream" title="Stream">streams</a> and several major <a href="/wiki/Aquifer" title="Aquifer">aquifers</a> as it flows 80 miles (129&#160;km),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> starting at Teresa Road just north<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> of Echo Lake (<span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Charles_River&amp;params=42.215_N_71.514444_W_"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">42°12′54″N</span> <span class="longitude">71°30′52″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">42.215°N 71.514444°W</span><span style="display:none">﻿ / <span class="geo">42.215; -71.514444</span></span></span></a></span>) in Hopkinton, passing through 23 cities and towns in eastern Massachusetts before emptying into <a href="/wiki/Boston_Harbor" title="Boston Harbor">Boston Harbor</a>.<sup id="cite_ref-ReferenceA_1-1" class="reference"><a href="#cite_note-ReferenceA-1">[1]</a></sup> Thirty-three lakes and ponds and 35 municipalities are entirely or partially part of the Charles River <a href="/wiki/Drainage_basin" title="Drainage basin">drainage basin</a>. Despite the river's length and relatively large drainage area (308 square miles; 798&#160;km²), its source is only 26 miles (42&#160;km) from its mouth, and the river drops only 350 feet (107 m) from source to sea. The Charles River watershed contains more than 8,000 acres of protected wetlands, referred to as Natural Valley Storage. These areas are important in preventing downstream flooding and providing natural habitats to native species.</p>
+<p><a href="/wiki/Brandeis_University" title="Brandeis University">Brandeis University</a>, <a href="/wiki/Harvard_University" title="Harvard University">Harvard University</a>, <a href="/wiki/Boston_University" title="Boston University">Boston University</a>, and the <a href="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology">Massachusetts Institute of Technology</a> are located along the Charles River. Near its mouth, it forms the border between downtown Boston and <a href="/wiki/Cambridge,_Massachusetts" title="Cambridge, Massachusetts">Cambridge</a> and <a href="/wiki/Charlestown,_Massachusetts" class="mw-redirect" title="Charlestown, Massachusetts">Charlestown</a>. The river opens into a broad basin and is lined by the parks of the <a href="/wiki/Charles_River_Reservation" title="Charles River Reservation">Charles River Reservation</a>. On the <a href="/wiki/Charles_River_Esplanade" title="Charles River Esplanade">Charles River Esplanade</a> stands the <a href="/wiki/Hatch_Shell" class="mw-redirect" title="Hatch Shell">Hatch Shell</a>, where concerts are given in summer evenings. The basin is especially known for its <a href="/wiki/Independence_Day_(United_States)" title="Independence Day (United States)">Independence Day</a> celebration. The middle section of the river between the <a href="/wiki/Watertown_Dam" title="Watertown Dam">Watertown Dam</a> and <a href="/wiki/Wellesley,_Massachusetts" title="Wellesley, Massachusetts">Wellesley</a> is partially protected by the properties of the <a href="/wiki/Upper_Charles_River_Reservation" title="Upper Charles River Reservation">Upper Charles River Reservation</a> and other state parks, including the <a href="/wiki/Hemlock_Gorge_Reservation" title="Hemlock Gorge Reservation">Hemlock Gorge Reservation</a>, <a href="/wiki/Cutler_Park" title="Cutler Park">Cutler Park</a>, and the <a href="/wiki/Elm_Bank_Reservation" class="mw-redirect" title="Elm Bank Reservation">Elm Bank Reservation</a>.</p>
+<h2><span class="mw-headline" id="Recreation">Recreation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Charles_River&amp;action=edit&amp;section=2" title="Edit section: Recreation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The river is well known for its <a href="/wiki/Watercraft_rowing" class="mw-redirect" title="Watercraft rowing">rowing</a>, <a href="/wiki/Sculling" title="Sculling">sculling</a>, <a href="/wiki/Canoeing" title="Canoeing">canoeing</a>, <a href="/wiki/Kayaking" title="Kayaking">kayaking</a>, <a href="/wiki/Paddleboarding" title="Paddleboarding">paddleboarding</a>, <a href="/wiki/Dragonboating" class="mw-redirect" title="Dragonboating">dragonboating</a>, and <a href="/wiki/Sailing" title="Sailing">sailing</a>, both recreational and competitive. The river may also be <a href="/wiki/Kayak" title="Kayak">kayaked</a>; depending on the season, however, kayakers can only navigate the Charles by getting out and dragging their kayaks for significant stretches. The "Lower Basin" between the <a href="/wiki/Longfellow_Bridge" title="Longfellow Bridge">Longfellow</a> and <a href="/wiki/Harvard_Bridge" title="Harvard Bridge">Harvard</a> bridges is home to <a href="/wiki/Community_Boating" class="mw-redirect" title="Community Boating">Community Boating</a>, the Harvard University Sailing Center, and the MIT Sailing Pavilion. The <a href="/wiki/Head_of_the_Charles_Regatta" title="Head of the Charles Regatta">Head of the Charles Regatta</a> is held here every October. In early June, the annual Hong Kong Boston Dragon boat Festival is held in <a href="/wiki/Cambridge,_Massachusetts" title="Cambridge, Massachusetts">Cambridge</a>, near the <a href="/wiki/John_W._Weeks_Bridge" title="John W. Weeks Bridge">Weeks Footbridge</a>.</p>
+<p>The <a href="/wiki/Charles_River_Bike_Path" title="Charles River Bike Path">Charles River Bike Path</a> runs 23 miles (37&#160;km) along the banks of the Charles, starting at the Museum of Science and passing the campuses of MIT, Harvard and Boston University. The path is popular with runners and bikers. Many runners gauge their distance and speed by keeping track of the mileage between the bridges along the route.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<p>For several years, the <a href="/wiki/Charles_River_Speedway" title="Charles River Speedway">Charles River Speedway</a> operated along part of the river.</p>
+<p>On July 13, 2013, <a href="/wiki/Human_swimming" title="Human swimming">swimming</a> for the general public was permitted for the first time in more than 50 years.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Charles_River&amp;action=edit&amp;section=3" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:View_of_the_bridge_over_Charles_River_(NYPL_b13049824-424747).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/View_of_the_bridge_over_Charles_River_%28NYPL_b13049824-424747%29.jpg/220px-View_of_the_bridge_over_Charles_River_%28NYPL_b13049824-424747%29.jpg" width="220" height="175" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/View_of_the_bridge_over_Charles_River_%28NYPL_b13049824-424747%29.jpg/330px-View_of_the_bridge_over_Charles_River_%28NYPL_b13049824-424747%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/View_of_the_bridge_over_Charles_River_%28NYPL_b13049824-424747%29.jpg/440px-View_of_the_bridge_over_Charles_River_%28NYPL_b13049824-424747%29.jpg 2x" data-file-width="3092" data-file-height="2464" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:View_of_the_bridge_over_Charles_River_(NYPL_b13049824-424747).jpg" class="internal" title="Enlarge"></a></div>
+<i>View of the bridge over Charles River</i>, <a class="external text" href="https://commons.wikimedia.org/wiki/File:View_of_the_bridge_over_Charles_River_(NYPL_b13049824-424747).jpg">New York Public Library</a></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Charles_River_(Pear_Biter).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Charles_River_%28Pear_Biter%29.jpg/220px-Charles_River_%28Pear_Biter%29.jpg" width="220" height="145" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Charles_River_%28Pear_Biter%29.jpg/330px-Charles_River_%28Pear_Biter%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Charles_River_%28Pear_Biter%29.jpg/440px-Charles_River_%28Pear_Biter%29.jpg 2x" data-file-width="3443" data-file-height="2276" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Charles_River_(Pear_Biter).jpg" class="internal" title="Enlarge"></a></div>
+View of the Charles River, <a href="/wiki/Memorial_Drive_(Cambridge)" title="Memorial Drive (Cambridge)">Memorial Drive</a> (foreground), and the Back Bay skyline at night</div>
+</div>
+</div>
+<p>The river was used by Native Americans for local transportation and fishing and as part of the passage from southeastern Massachusetts to northern New England.</p>
+<p><a href="/wiki/John_Smith_of_Jamestown" class="mw-redirect" title="John Smith of Jamestown">Captain John Smith</a> explored and mapped the coast of New England, naming many features, originally naming the Charles River the Massachusetts River, which was derived from the <a href="/wiki/Massachusett_people" class="mw-redirect" title="Massachusett people">tribe living in the region</a>. When Smith presented his map to <a href="/wiki/Charles_I_of_England" title="Charles I of England">Charles I</a> he suggested that the king should feel free to change any of the "barbarous names" for "English" ones. The king made many such changes, but only four survive today, one of which is the Charles River which Charles named for himself.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></p>
+<p>In portions of its length, the Charles drops slowly in elevation and has relatively little current. Despite this, early settlers in <a href="/wiki/Dedham,_Massachusetts" title="Dedham, Massachusetts">Dedham, Massachusetts</a>, found a way to use the Charles to power mills. In 1639, the town dug a canal from the Charles to a nearby brook that drained to the <a href="/wiki/Neponset_River" title="Neponset River">Neponset River</a>. By this action, a portion of the Charles's flow was diverted, providing enough current for several mills. The new canal and the brook together are now called <a href="/wiki/Mother_Brook" title="Mother Brook">Mother Brook</a>. The canal is regarded as the first industrial canal in North America. It remains in use for <a href="/wiki/Flood_control" title="Flood control">flood control</a>.</p>
+<p><a href="/wiki/Waltham,_Massachusetts" title="Waltham, Massachusetts">Waltham</a> was the site of the first fully integrated textile factory in America, built by <a href="/wiki/Francis_Cabot_Lowell_(businessman)" title="Francis Cabot Lowell (businessman)">Francis Cabot Lowell</a> in 1814,<sup id="cite_ref-FrancisCabotLowellPBS_7-0" class="reference"><a href="#cite_note-FrancisCabotLowellPBS-7">[7]</a></sup> and by the 19th century the Charles River was one of the most industrialized areas in the United States. Its <a href="/wiki/Hydropower" title="Hydropower">hydropower</a> soon fueled many mills and factories. By the century's end, 20 dams had been built across the river, mostly to generate power for industry. An 1875 government report listed 43 mills along the 9.5-mile (15&#160;km) tidal estuary from <a href="/wiki/Watertown_Dam" title="Watertown Dam">Watertown Dam</a> to Boston Harbor.</p>
+<p>From 1816 to 1968, the U.S. Army operated a gun and ammunition storage and later production facility known as the <a href="/wiki/Watertown_Arsenal" title="Watertown Arsenal">Watertown Arsenal</a>. While it was key to many of the nation's war efforts over its several decades in operation, not the least of which being the <a href="/wiki/American_Civil_War" title="American Civil War">American Civil War</a> and <a href="/wiki/World_War_I" title="World War I">World War I</a>, its location in <a href="/wiki/Watertown,_Massachusetts" title="Watertown, Massachusetts">Watertown</a> so near the Charles did great environmental harm. The arsenal was declared a <a href="/wiki/Super_Fund" class="mw-redirect" title="Super Fund">Super Fund</a> site, and after its closure by the government it had to be cleaned at significant expense before it could be safely used again for other purposes. Likewise, the many factories and mills along the banks of the Charles supported a buoyant economy in their time but left a legacy of massive pollution.</p>
+<h3><span class="mw-headline" id="Creation_of_modern_Boston-Cambridge_basin">Creation of modern Boston-Cambridge basin</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Charles_River&amp;action=edit&amp;section=4" title="Edit section: Creation of modern Boston-Cambridge basin">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Charles_River_Reservation" title="Charles River Reservation">Charles River Reservation</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Charles_River_Esplanade,_Boston,_Massachusetts.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Charles_River_Esplanade%2C_Boston%2C_Massachusetts.JPG/220px-Charles_River_Esplanade%2C_Boston%2C_Massachusetts.JPG" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Charles_River_Esplanade%2C_Boston%2C_Massachusetts.JPG/330px-Charles_River_Esplanade%2C_Boston%2C_Massachusetts.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Charles_River_Esplanade%2C_Boston%2C_Massachusetts.JPG/440px-Charles_River_Esplanade%2C_Boston%2C_Massachusetts.JPG 2x" data-file-width="2560" data-file-height="1920" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Charles_River_Esplanade,_Boston,_Massachusetts.JPG" class="internal" title="Enlarge"></a></div>
+A sunny day on the Charles River Esplanade</div>
+</div>
+</div>
+<p>Today's Charles River basin between Boston and Cambridge is almost entirely a work of human design. <a href="/wiki/Owen_A._Galvin" title="Owen A. Galvin">Owen A. Galvin</a> was appointed head of the Charles River Improvement Commission by Governor <a href="/wiki/William_Russell_(governor)" title="William Russell (governor)">William E. Russell</a> in 1891. Their work led to the design initiatives of noted <a href="/wiki/Landscape_architect" title="Landscape architect">landscape architects</a> <a href="/wiki/Charles_Eliot_(landscape_architect)" title="Charles Eliot (landscape architect)">Charles Eliot</a> and <a href="/wiki/Arthur_Shurcliff" class="mw-redirect" title="Arthur Shurcliff">Arthur Shurcliff</a>, both of whom had apprenticed with <a href="/wiki/Frederick_Law_Olmsted" title="Frederick Law Olmsted">Frederick Law Olmsted</a> and <a href="/wiki/Guy_Lowell" title="Guy Lowell">Guy Lowell</a>. This designed landscape includes over 20 parks and natural areas along 19 miles (31&#160;km) of shoreline, from the <a href="/wiki/Charles_River_Reservation#Charles_River_Dam" title="Charles River Reservation">New Dam</a> at the Charlestown Bridge to the dam near Watertown Square.</p>
+<p>Eliot first envisioned today's river design in the 1890s, an important model being the layout of the <a href="/wiki/Alster" title="Alster">Alster</a> basin in <a href="/wiki/Hamburg" title="Hamburg">Hamburg</a>,<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> but major construction began only after Eliot's death with the damming of the river's mouth at today's <a href="/wiki/Boston_Museum_of_Science" class="mw-redirect" title="Boston Museum of Science">Boston Museum of Science</a>, an effort led by <a href="/wiki/James_Jackson_Storrow" class="mw-redirect" title="James Jackson Storrow">James Jackson Storrow</a>. The new dam, completed in 1910, stabilized the water level from Boston to Watertown, eliminating the existing mud flats, and a narrow embankment was built between Leverett Circle and Charlesgate. After Storrow's death, his widow Mrs. James Jackson Storrow donated $1 million toward the creation of a more generously landscaped park along the Esplanade; it was dedicated in 1936 as the Storrow Memorial Embankment. This also enabled the construction of many public docks in the Charles River Basin. In the 1950s a highway (<a href="/wiki/Storrow_Drive" title="Storrow Drive">Storrow Drive</a>) was built along the edge of the Esplanade to connect Charles Circle with Soldiers Field Road, and the Esplanade was enlarged on the water side of the new highway.</p>
+<p>The <a href="/wiki/Interstate_695_(Massachusetts)" title="Interstate 695 (Massachusetts)">Inner Belt</a> highway was proposed to cross the Charles River at the <a href="/wiki/Boston_University_Bridge" title="Boston University Bridge">Boston University Bridge</a>, but its construction was canceled in the 1970s.</p>
+<h3><span class="mw-headline" id="History_of_pollution_and_remediation_efforts">History of pollution and remediation efforts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Charles_River&amp;action=edit&amp;section=5" title="Edit section: History of pollution and remediation efforts">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>As <a href="/wiki/Sewage" title="Sewage">sewage</a>, <a href="/wiki/Industrial_wastewater_treatment" title="Industrial wastewater treatment">industrial wastewater</a> and <a href="/wiki/Urban_runoff" title="Urban runoff">urban runoff</a> flowed freely into the river from the surrounding city, the Charles River became well known for its high level of <a href="/wiki/Water_pollution" title="Water pollution">pollutants</a>, gaining such notoriety that by 1955, <a href="/wiki/Bernard_DeVoto" title="Bernard DeVoto">Bernard DeVoto</a> wrote in <i><a href="/wiki/Harper%27s_Magazine" title="Harper's Magazine">Harper's Magazine</a></i> that the Charles was "foul and noisome, polluted by offal and industrious wastes, scummy with oil, unlikely to be mistaken for water."<sup id="cite_ref-CRC_9-0" class="reference"><a href="#cite_note-CRC-9">[9]</a></sup> It was not an uncommon sight to see <a href="/wiki/Toxicity" title="Toxicity">toxins</a> coloring parts of the river pink and orange, fish kills and submerged cars.<sup id="cite_ref-BostonLawsuit_10-0" class="reference"><a href="#cite_note-BostonLawsuit-10">[10]</a></sup></p>
+<p>Once popular with swimmers, awareness of the river's high pollution levels forced the state to shut down several popular swimming areas, including Cambridge's Magazine Beach and Gerry Landing public beaches.<sup id="cite_ref-CRC_9-1" class="reference"><a href="#cite_note-CRC-9">[9]</a></sup><sup id="cite_ref-BSC_11-0" class="reference"><a href="#cite_note-BSC-11">[11]</a></sup></p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:BunkerHillBoats.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/BunkerHillBoats.jpg/220px-BunkerHillBoats.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/BunkerHillBoats.jpg/330px-BunkerHillBoats.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a6/BunkerHillBoats.jpg/440px-BunkerHillBoats.jpg 2x" data-file-width="2592" data-file-height="1944" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:BunkerHillBoats.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Sailboat" title="Sailboat">Sailboats</a> <a href="/wiki/Mooring_(watercraft)" title="Mooring (watercraft)">moored</a> on the <a href="/wiki/Charlestown,_Massachusetts" class="mw-redirect" title="Charlestown, Massachusetts">Charlestown</a> side of the Charles River with <a href="/wiki/Bunker_Hill_Monument" title="Bunker Hill Monument">Bunker Hill Monument</a> in the distance</div>
+</div>
+</div>
+<p>Efforts to clean up the river and restore it to a state where swimming and fishing would be acceptable began as early as the 1960s, and the program to clean up the Charles for good took shape in 1965 with the creation of the Charles River Watershed Association.<sup id="cite_ref-CRWA_12-0" class="reference"><a href="#cite_note-CRWA-12">[12]</a></sup> In 1978, a new <a href="/wiki/Charles_River_Dam" title="Charles River Dam">Charles River Dam</a> was constructed downstream from the Science Museum site to keep <a href="/wiki/Seawater" title="Seawater">salt water</a> out of the basin.</p>
+<p>In 1995, the <a href="/wiki/United_States_Environmental_Protection_Agency" title="United States Environmental Protection Agency">United States Environmental Protection Agency</a> declared a goal of making the river swimmable by 2005.<sup id="cite_ref-CRC_9-2" class="reference"><a href="#cite_note-CRC-9">[9]</a></sup> In 1996, Governor <a href="/wiki/William_Weld" class="mw-redirect" title="William Weld">William Weld</a> plunged, fully clothed, into the river to prove his commitment to cleaning up the river.<sup id="cite_ref-welddive_13-0" class="reference"><a href="#cite_note-welddive-13">[13]</a></sup> On November 12, 2004, Christopher Swain became the first person to swim the Charles River's entire length, in an effort to raise public awareness of the river's environmental health.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> In July 2007, the river hosted the Charles River Masters Swim Race, the first sanctioned race in the Charles in over five decades.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup></p>
+<p>A combination of public and private initiatives helped drastically lower levels of pollutants by focusing on eliminating <a href="/wiki/Combined_sewer_overflow" class="mw-redirect" title="Combined sewer overflow">combined sewer overflows</a> and storm water <a href="/wiki/Surface_runoff" title="Surface runoff">runoff</a>. Since Weld's stunt, the river's condition has improved dramatically, although it was not deemed entirely swimmable by 2005.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Sunset_Charles_River_Boston.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/Sunset_Charles_River_Boston.jpg/220px-Sunset_Charles_River_Boston.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/Sunset_Charles_River_Boston.jpg/330px-Sunset_Charles_River_Boston.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/95/Sunset_Charles_River_Boston.jpg/440px-Sunset_Charles_River_Boston.jpg 2x" data-file-width="3648" data-file-height="2736" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Sunset_Charles_River_Boston.jpg" class="internal" title="Enlarge"></a></div>
+Sunset at Charles River in December 2010</div>
+</div>
+</div>
+<p>The <a href="/wiki/Conservation_Law_Foundation" title="Conservation Law Foundation">Conservation Law Foundation</a> opposes the permit given to <a href="/wiki/Mirant" class="mw-redirect" title="Mirant">Mirant</a> for the <a href="/w/index.php?title=Veolia_Energy_North_America&amp;action=edit&amp;redlink=1" class="new" title="Veolia Energy North America (page does not exist)">Veolia Energy North America</a> <a href="/wiki/Kendall_Cogeneration_Station" title="Kendall Cogeneration Station">Kendall Cogeneration Station</a>, an electricity plant near <a href="/wiki/Kendall_Square" title="Kendall Square">Kendall Square</a>, charging that the water it releases causes blooms of hazardous <a href="/wiki/Microorganism" title="Microorganism">microorganisms</a> because of its warm temperature.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup></p>
+<p>The water quality of the Charles River is often at its worst after a large rainfall because of pollutants carried by runoff, and sewage overflows. For 2011, the EPA reported that the Charles met state bacterial standards for boating and swimming 96% and 89% of the time on dry days, and 74% and 35% of the time on wet days, respectively.<sup id="cite_ref-epa_report_19-0" class="reference"><a href="#cite_note-epa_report-19">[19]</a></sup> Overall boatability and swimability of 82% and 54% in 2011 compare with 39% and 19% in 1995.</p>
+<p>A study<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup> published in the <i>Journal of the American Water Resources Association</i> in April 2008 and completed by researchers at Northeastern University, found high concentrations of <i><a href="/wiki/Escherichia_coli" title="Escherichia coli">E. coli</a></i> <a href="/wiki/Bacteria" title="Bacteria">bacteria</a> in the Charles River after a long period of no rain. Using a <a href="/wiki/Mathematical_model" title="Mathematical model">mathematical model</a>, the researchers then determined that two major tributaries, the <a href="/wiki/Stony_Brook_(Boston)" title="Stony Brook (Boston)">Stony Brook</a> and <a href="/wiki/Muddy_River,_Massachusetts" class="mw-redirect" title="Muddy River, Massachusetts">Muddy River</a>, are the predominant sources of <i>E. coli</i> in the lower Charles River.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup></p>
+<p>Oysters have been used to filter and clean Charles River water.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup></p>
+<p>As of 2013, boating is allowed on the Charles but swimming without a permit is punishable by a fine up to $250.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup> Starting in 2007,<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup> the Charles River Swimming Club has organized an annual race for its members, but obtains a special permit and must monitor water quality and rainfall in the days leading up to the race.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup> The "first public swim" in the Charles since the 1950s was conducted on July 13, 2013, by the Charles River Conservancy<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[Note 1]</a></sup>, Charles River Watershed Association (CRWA), Esplanade Association, and DCR.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[26]</a></sup> Both the annual race<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[27]</a></sup> and the Conservancy event have been held in deep water with swimmers jumping in off a dock, to avoid the toxic sediments on the bottom of the river that still make beach swimming dangerous.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[28]</a></sup></p>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Charles_River&amp;action=edit&amp;section=6" title="Edit section: Gallery">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul class="gallery mw-gallery-packed center">
+<li class="gallerybox" style="width: 358px">
+<div style="width: 358px">
+<div class="thumb" style="width: 356px;">
+<div style="margin:0px auto;"><a href="/wiki/File:Charles_River_from_Nonantum_(January_2017).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Charles_River_from_Nonantum_%28January_2017%29.jpg/534px-Charles_River_from_Nonantum_%28January_2017%29.jpg" width="356" height="200" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Charles_River_from_Nonantum_%28January_2017%29.jpg/800px-Charles_River_from_Nonantum_%28January_2017%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/87/Charles_River_from_Nonantum_%28January_2017%29.jpg/1067px-Charles_River_from_Nonantum_%28January_2017%29.jpg 2x" data-file-width="3840" data-file-height="2160" /></a></div>
+</div>
+<div class="gallerytext">
+<p>View of the Charles River, <a href="/wiki/Community_Rowing,_Inc." title="Community Rowing, Inc.">Community Rowing, Inc.</a> and <a href="/wiki/Boston" title="Boston">Boston</a> from Nonantum.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 152px">
+<div style="width: 152px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:0px auto;"><a href="/wiki/File:Charles_River_Cambridge_USA.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Charles_River_Cambridge_USA.jpg/225px-Charles_River_Cambridge_USA.jpg" width="150" height="200" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Charles_River_Cambridge_USA.jpg/337px-Charles_River_Cambridge_USA.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Charles_River_Cambridge_USA.jpg/450px-Charles_River_Cambridge_USA.jpg 2x" data-file-width="576" data-file-height="768" /></a></div>
+</div>
+<div class="gallerytext">
+<p>The Charles River from the <a href="/wiki/Boston,_Massachusetts" class="mw-redirect" title="Boston, Massachusetts">Boston</a> side, facing <a href="/wiki/Weld_Boathouse" title="Weld Boathouse">Weld Boathouse</a> and the main campus of <a href="/wiki/Harvard_University" title="Harvard University">Harvard University</a> in <a href="/wiki/Cambridge,_Massachusetts" title="Cambridge, Massachusetts">Cambridge</a>.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 302.66666666667px">
+<div style="width: 302.66666666667px">
+<div class="thumb" style="width: 300.66666666667px;">
+<div style="margin:0px auto;"><a href="/wiki/File:Newton_upper_falls.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Newton_upper_falls.jpg/451px-Newton_upper_falls.jpg" width="301" height="200" srcset="//upload.wikimedia.org/wikipedia/commons/3/3c/Newton_upper_falls.jpg 1.5x" data-file-width="500" data-file-height="333" /></a></div>
+</div>
+<div class="gallerytext">
+<p>View of Charles River at Newton Upper Falls</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 188.66666666667px">
+<div style="width: 188.66666666667px">
+<div class="thumb" style="width: 186.66666666667px;">
+<div style="margin:0px auto;"><a href="/wiki/File:Echo_Bridge.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Echo_Bridge.JPG/280px-Echo_Bridge.JPG" width="187" height="200" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Echo_Bridge.JPG/420px-Echo_Bridge.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/94/Echo_Bridge.JPG/561px-Echo_Bridge.JPG 2x" data-file-width="3827" data-file-height="4096" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Charles River under <a href="/wiki/Echo_Bridge" title="Echo Bridge">Echo Bridge</a> in <a href="/wiki/Newton,_Massachusetts" title="Newton, Massachusetts">Newton</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 300.66666666667px">
+<div style="width: 300.66666666667px">
+<div class="thumb" style="width: 298.66666666667px;">
+<div style="margin:0px auto;"><a href="/wiki/File:Charles_River_Medfield-Millis.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Charles_River_Medfield-Millis.JPG/448px-Charles_River_Medfield-Millis.JPG" width="299" height="200" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Charles_River_Medfield-Millis.JPG/673px-Charles_River_Medfield-Millis.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Charles_River_Medfield-Millis.JPG/897px-Charles_River_Medfield-Millis.JPG 2x" data-file-width="1600" data-file-height="1071" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Charles River at Medfield-Millis town line</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 268.66666666667px">
+<div style="width: 268.66666666667px">
+<div class="thumb" style="width: 266.66666666667px;">
+<div style="margin:0px auto;"><a href="/wiki/File:View_of_Charles_River_Basin.agr.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/View_of_Charles_River_Basin.agr.JPG/400px-View_of_Charles_River_Basin.agr.JPG" width="267" height="200" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/View_of_Charles_River_Basin.agr.JPG/600px-View_of_Charles_River_Basin.agr.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/80/View_of_Charles_River_Basin.agr.JPG/800px-View_of_Charles_River_Basin.agr.JPG 2x" data-file-width="1280" data-file-height="960" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Charles River basin from an office tower in Boston.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 302px">
+<div style="width: 302px">
+<div class="thumb" style="width: 300px;">
+<div style="margin:0px auto;"><a href="/wiki/File:USA-Charles_River_Esplanade1.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/USA-Charles_River_Esplanade1.jpg/450px-USA-Charles_River_Esplanade1.jpg" width="300" height="200" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/USA-Charles_River_Esplanade1.jpg/675px-USA-Charles_River_Esplanade1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/USA-Charles_River_Esplanade1.jpg/900px-USA-Charles_River_Esplanade1.jpg 2x" data-file-width="5184" data-file-height="3456" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Charles River Esplanade, 2013</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 302px">
+<div style="width: 302px">
+<div class="thumb" style="width: 300px;">
+<div style="margin:0px auto;"><a href="/wiki/File:USA-Charles_River_Esplanade6.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/USA-Charles_River_Esplanade6.JPG/450px-USA-Charles_River_Esplanade6.JPG" width="300" height="200" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/USA-Charles_River_Esplanade6.JPG/675px-USA-Charles_River_Esplanade6.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/76/USA-Charles_River_Esplanade6.JPG/900px-USA-Charles_River_Esplanade6.JPG 2x" data-file-width="5184" data-file-height="3456" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Charles River Esplanade, 2013</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 734.66666666667px">
+<div style="width: 734.66666666667px">
+<div class="thumb" style="width: 732.66666666667px;">
+<div style="margin:0px auto;"><a href="/wiki/File:Boston_from_BU_Bridge_WADE.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Boston_from_BU_Bridge_WADE.jpg/1099px-Boston_from_BU_Bridge_WADE.jpg" width="733" height="200" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Boston_from_BU_Bridge_WADE.jpg/1648px-Boston_from_BU_Bridge_WADE.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Boston_from_BU_Bridge_WADE.jpg/2197px-Boston_from_BU_Bridge_WADE.jpg 2x" data-file-width="13896" data-file-height="3795" /></a></div>
+</div>
+<div class="gallerytext">
+<p>View of the Charles River and Downtown Boston from the <a href="/wiki/Boston_University_Bridge" title="Boston University Bridge">Boston University Bridge</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 604px">
+<div style="width: 604px">
+<div class="thumb" style="width: 602px;">
+<div style="margin:0px auto;"><a href="/wiki/File:Weeks_Footbridge_Cambridge,_MA.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Weeks_Footbridge_Cambridge%2C_MA.jpg/903px-Weeks_Footbridge_Cambridge%2C_MA.jpg" width="602" height="200" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Weeks_Footbridge_Cambridge%2C_MA.jpg/1355px-Weeks_Footbridge_Cambridge%2C_MA.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/Weeks_Footbridge_Cambridge%2C_MA.jpg/1806px-Weeks_Footbridge_Cambridge%2C_MA.jpg 2x" data-file-width="1971" data-file-height="655" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/John_W._Weeks" title="John W. Weeks">John W. Weeks</a> Bridge</p>
+</div>
+</div>
+</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Charles_River&amp;action=edit&amp;section=7" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/List_of_crossings_of_the_Charles_River" title="List of crossings of the Charles River">List of crossings of the Charles River</a></li>
+<li><a href="/wiki/List_of_Charles_River_boathouses" title="List of Charles River boathouses">List of Charles River boathouses</a></li>
+<li><a href="/wiki/List_of_rivers_of_Massachusetts" title="List of rivers of Massachusetts">List of rivers of Massachusetts</a></li>
+<li><a href="/wiki/Sudbury_Aqueduct_Linear_District" class="mw-redirect" title="Sudbury Aqueduct Linear District">Sudbury Aqueduct Linear District</a> which crosses the river from Needham to Newton on the <a href="/wiki/Echo_Bridge" title="Echo Bridge">Echo Bridge</a></li>
+</ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Charles_River&amp;action=edit&amp;section=8" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text">The Charles River Conservancy was founded by <a href="/wiki/Renata_von_Tscharner" title="Renata von Tscharner">Renata von Tscharner</a>.</span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Charles_River&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-ReferenceA-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-ReferenceA_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ReferenceA_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://crwa.org/watershed.html">"Charles River Watershed"</a>. The Charles River Watershed Association<span class="reference-accessdate">. Retrieved <span class="nowrap">February 5,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACharles+River&amp;rft.btitle=Charles+River+Watershed&amp;rft.genre=unknown&amp;rft.pub=The+Charles+River+Watershed+Association&amp;rft_id=http%3A%2F%2Fcrwa.org%2Fwatershed.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://architectureboston.com/2010/05/13/how-long-is-the-charles-river/">[1]</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110707155810/http://architectureboston.com/2010/05/13/how-long-is-the-charles-river/">Archived</a> July 7, 2011, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://geonames.usgs.gov/apex/f?p=gnispq:3:::NO::P3_FID:619357">http://geonames.usgs.gov/apex/f?p=gnispq:3:::NO::P3_FID:619357</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://web.mit.edu/track/indoor/bridges.html">"Charles River Mileage Map/Table"</a>. <i>Web.mit.edu</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-04-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACharles+River&amp;rft.atitle=Charles+River+Mileage+Map%2FTable&amp;rft.genre=unknown&amp;rft.jtitle=Web.mit.edu&amp;rft_id=http%3A%2F%2Fweb.mit.edu%2Ftrack%2Findoor%2Fbridges.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web">Brody, Sharon (2013-07-13). <a rel="nofollow" class="external text" href="http://www.wbur.org/2013/07/13/public-swim-charles">"Public Swim Follows 50 Years Of Dirty Water"</a>. WBUR<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-07-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACharles+River&amp;rft.aufirst=Sharon&amp;rft.aulast=Brody&amp;rft.btitle=Public+Swim+Follows+50+Years+Of+Dirty+Water&amp;rft.date=2013-07-13&amp;rft.genre=unknown&amp;rft.pub=WBUR&amp;rft_id=http%3A%2F%2Fwww.wbur.org%2F2013%2F07%2F13%2Fpublic-swim-charles&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/George_R._Stewart" title="George R. Stewart">Stewart, George R.</a> (1967) [1945]. <i>Names on the Land: A Historical Account of Place-Naming in the United States</i> (Sentry edition (3rd) ed.). <a href="/wiki/Houghton_Mifflin" class="mw-redirect" title="Houghton Mifflin">Houghton Mifflin</a>. p.&#160;38.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACharles+River&amp;rft.aufirst=George+R.&amp;rft.aulast=Stewart&amp;rft.btitle=Names+on+the+Land%3A+A+Historical+Account+of+Place-Naming+in+the+United+States&amp;rft.date=1967&amp;rft.edition=Sentry+edition+%283rd%29&amp;rft.genre=book&amp;rft.pages=38&amp;rft.pub=Houghton+Mifflin&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-FrancisCabotLowellPBS-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-FrancisCabotLowellPBS_7-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.pbs.org/wgbh/theymadeamerica/whomade/lowell_hi.html">"Who Made America? Pioneers: Francis Cabot Lowell"</a>. <a href="/wiki/Public_Broadcasting_Service" class="mw-redirect" title="Public Broadcasting Service">PBS</a><span class="reference-accessdate">. Retrieved <span class="nowrap">July 30,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACharles+River&amp;rft.btitle=Who+Made+America%3F+Pioneers%3A+Francis+Cabot+Lowell&amp;rft.genre=unknown&amp;rft.pub=PBS&amp;rft_id=https%3A%2F%2Fwww.pbs.org%2Fwgbh%2Ftheymadeamerica%2Fwhomade%2Flowell_hi.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation book">Karl Haglund (2003). <i>Inventing the Charles River</i>. <a href="/wiki/Cambridge,_Massachusetts" title="Cambridge, Massachusetts">Cambridge, Massachusetts</a>: <a href="/wiki/The_MIT_Press" class="mw-redirect" title="The MIT Press">The MIT Press</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-262-08307-8" title="Special:BookSources/0-262-08307-8">0-262-08307-8</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACharles+River&amp;rft.au=Karl+Haglund&amp;rft.btitle=Inventing+the+Charles+River&amp;rft.date=2003&amp;rft.genre=book&amp;rft.isbn=0-262-08307-8&amp;rft.place=Cambridge%2C+Massachusetts&amp;rft.pub=The+MIT+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-CRC-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-CRC_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-CRC_9-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-CRC_9-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.charlesriverconservancy.org/projects/swimming/index.html">Swimming in the Charles River</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20100511080608/http://www.charlesriverconservancy.org/projects/swimming/index.html">Archived</a> May 11, 2010, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-BostonLawsuit-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-BostonLawsuit_10-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.boston.com/news/local/massachusetts/articles/2005/04/24/group_eyes_lawsuit_over_charles_river_pollution/?page=2">"Group Eyes Lawsuit Over Charles River Pollution"</a>. <i>Boston.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">16 October</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACharles+River&amp;rft.atitle=Group+Eyes+Lawsuit+Over+Charles+River+Pollution&amp;rft.genre=unknown&amp;rft.jtitle=Boston.com&amp;rft_id=http%3A%2F%2Fwww.boston.com%2Fnews%2Flocal%2Fmassachusetts%2Farticles%2F2005%2F04%2F24%2Fgroup_eyes_lawsuit_over_charles_river_pollution%2F%3Fpage%3D2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-BSC-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-BSC_11-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.boston.com/yourtown/cambridge/articles/2011/10/11/a_river_that_is_clean_and_clear_again">"Clear and Clean"</a>. <i>Boston.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">16 October</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACharles+River&amp;rft.atitle=Clear+and+Clean&amp;rft.genre=unknown&amp;rft.jtitle=Boston.com&amp;rft_id=http%3A%2F%2Fwww.boston.com%2Fyourtown%2Fcambridge%2Farticles%2F2011%2F10%2F11%2Fa_river_that_is_clean_and_clear_again&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-CRWA-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-CRWA_12-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.crwa.org">"Charles River Watershed Association"</a>. Crwa.org<span class="reference-accessdate">. Retrieved <span class="nowrap">16 October</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACharles+River&amp;rft.btitle=Charles+River+Watershed+Association&amp;rft.genre=unknown&amp;rft.pub=Crwa.org&amp;rft_id=http%3A%2F%2Fwww.crwa.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-welddive-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-welddive_13-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.pbs.org/newshour/bb/election/september96/kerry_weld_9-19.html">"Online NewsHour: KERRY / WELD: DEAD HEAT"</a>. <i>PBS NewsHour</i><span class="reference-accessdate">. Retrieved <span class="nowrap">16 October</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACharles+River&amp;rft.atitle=Online+NewsHour%3A+KERRY+%2F+WELD%3A+DEAD+HEAT&amp;rft.genre=unknown&amp;rft.jtitle=PBS+NewsHour&amp;rft_id=https%3A%2F%2Fwww.pbs.org%2Fnewshour%2Fbb%2Felection%2Fseptember96%2Fkerry_weld_9-19.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://abcnews.go.com/WNT/PersonOfWeek/story?id=266717&amp;page=1">"Person of the Week: Christopher Swain"</a>. <i>ABC News</i><span class="reference-accessdate">. Retrieved <span class="nowrap">16 October</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACharles+River&amp;rft.atitle=Person+of+the+Week%3A+Christopher+Swain&amp;rft.genre=unknown&amp;rft.jtitle=ABC+News&amp;rft_id=http%3A%2F%2Fabcnews.go.com%2FWNT%2FPersonOfWeek%2Fstory%3Fid%3D266717%26page%3D1&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.timesargus.com/apps/pbcs.dll/article?AID=/20041113/NEWS/411130384/1002/NEWS01">"Vermont swimmer hates dirty water, but covers entire Charles River in Mass. &#160;: Times Argus Online"</a>. Timesargus.com<span class="reference-accessdate">. Retrieved <span class="nowrap">16 October</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACharles+River&amp;rft.btitle=Vermont+swimmer+hates+dirty+water%2C++but+covers+entire+Charles+River+in+Mass.++%3A+Times+Argus+Online&amp;rft.genre=unknown&amp;rft.pub=Timesargus.com&amp;rft_id=http%3A%2F%2Fwww.timesargus.com%2Fapps%2Fpbcs.dll%2Farticle%3FAID%3D%2F20041113%2FNEWS%2F411130384%2F1002%2FNEWS01&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web">Mark Clayton (8 November 2004). <a rel="nofollow" class="external text" href="http://www.csmonitor.com/2004/1108/p11s02-sten.html">"An 80-mile swim - with hubcaps"</a>. <i>The Christian Science Monitor</i><span class="reference-accessdate">. Retrieved <span class="nowrap">16 October</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACharles+River&amp;rft.atitle=An+80-mile+swim+-+with+hubcaps&amp;rft.au=Mark+Clayton&amp;rft.date=2004-11-08&amp;rft.genre=unknown&amp;rft.jtitle=The+Christian+Science+Monitor&amp;rft_id=http%3A%2F%2Fwww.csmonitor.com%2F2004%2F1108%2Fp11s02-sten.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a href="/wiki/Malcom_Glenn" title="Malcom Glenn">Malcom A. Glenn</a>, <a rel="nofollow" class="external text" href="http://www.thecrimson.com/article.aspx?ref=519359">Brown Charles Gets Green Light</a>, Harvard Crimson, July 20, 2007</span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.clf.org/newsroom/conservation-law-foundation-secures-groundbreaking-outcome-in-genon-kendall-plant-case/">"Conservation Law Foundation Secures Groundbreaking Outcome in GenOn Kendall Plant Case - Innovative Solution to Cooling System Issues Will Improve Charles River Health, Bring Lower Carbon Steam Heat and Power to City Buildings"</a>. Conservation Law Foundation. 2011-02-02<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-04-06</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACharles+River&amp;rft.btitle=Conservation+Law+Foundation+Secures+Groundbreaking+Outcome+in+GenOn+Kendall+Plant+Case+-+Innovative+Solution+to+Cooling+System+Issues+Will+Improve+Charles+River+Health%2C+Bring+Lower+Carbon+Steam+Heat+and+Power+to+City+Buildings&amp;rft.date=2011-02-02&amp;rft.genre=unknown&amp;rft.pub=Conservation+Law+Foundation&amp;rft_id=http%3A%2F%2Fwww.clf.org%2Fnewsroom%2Fconservation-law-foundation-secures-groundbreaking-outcome-in-genon-kendall-plant-case%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-epa_report-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-epa_report_19-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.epa.gov/region1/charles/reportcards.html">"Report Cards - Charles River - New England - US EPA"</a>. Epa.gov<span class="reference-accessdate">. Retrieved <span class="nowrap">16 October</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACharles+River&amp;rft.btitle=Report+Cards+-+Charles+River+-+New+England+-+US+EPA&amp;rft.genre=unknown&amp;rft.pub=Epa.gov&amp;rft_id=http%3A%2F%2Fwww.epa.gov%2Fregion1%2Fcharles%2Freportcards.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation journal">Hellweger, F. L.; Masopust, P. (2008). "Investigating the Fate and Transport of Escherichia coli in the Charles River, Boston, Using High‐Resolution Observation and Modeling1". <i>JAWRA Journal of the American Water Resources Association</i>. <b>44</b> (2): 509–522. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1111%2Fj.1752-1688.2008.00179.x">10.1111/j.1752-1688.2008.00179.x</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACharles+River&amp;rft.atitle=Investigating+the+Fate+and+Transport+of+Escherichia+coli+in+the+Charles+River%2C+Boston%2C+Using+High%E2%80%90Resolution+Observation+and+Modeling1&amp;rft.au=Masopust%2C+P.&amp;rft.aufirst=F.+L.&amp;rft.aulast=Hellweger&amp;rft.date=2008&amp;rft.genre=article&amp;rft.issue=2&amp;rft.jtitle=JAWRA+Journal+of+the+American+Water+Resources+Association&amp;rft.pages=509-522&amp;rft.volume=44&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1752-1688.2008.00179.x&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="display:none;font-size:100%" class="error citation-comment"><code style="color:inherit; border:inherit; padding:inherit;">|access-date=</code> requires <code style="color:inherit; border:inherit; padding:inherit;">|url=</code> (<a href="/wiki/Help:CS1_errors#accessdate_missing_url" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://newswise.com/articles/view/540300/">"Researcher Develops Model to Track E. coli in Charles River"</a>. Newswise.com<span class="reference-accessdate">. Retrieved <span class="nowrap">16 October</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACharles+River&amp;rft.btitle=Researcher+Develops+Model+to+Track+E.+coli+in+Charles+River&amp;rft.genre=unknown&amp;rft.pub=Newswise.com&amp;rft_id=http%3A%2F%2Fnewswise.com%2Farticles%2Fview%2F540300%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation news">Beard, David (October 26, 2008). <a rel="nofollow" class="external text" href="http://www.boston.com/lifestyle/green/greenblog/2008/10/oysters_help_clean_the_charles.html">"Oysters help clean the Charles River"</a>. <i>The Boston Globe</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACharles+River&amp;rft.atitle=Oysters+help+clean+the+Charles+River&amp;rft.aufirst=David&amp;rft.aulast=Beard&amp;rft.date=2008-10-26&amp;rft.genre=article&amp;rft.jtitle=The+Boston+Globe&amp;rft_id=http%3A%2F%2Fwww.boston.com%2Flifestyle%2Fgreen%2Fgreenblog%2F2008%2F10%2Foysters_help_clean_the_charles.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text">Swimming and ice skating are prohibited by <a rel="nofollow" class="external text" href="http://www.mass.gov/eea/docs/dcr/legal/3501200.pdf">350 CMR 12.02 (7)</a> except where posted by the <a href="/wiki/Department_of_Conservation_and_Recreation" title="Department of Conservation and Recreation">Department of Conservation and Recreation</a>, and as of 2013 there are no posted swimming areas. The maximum fine is set by 350 CMR 12.03.</span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation news">Belluck, Pam (July 22, 2007). <a rel="nofollow" class="external text" href="https://www.nytimes.com/2007/07/22/us/22charles.html?_r=2&amp;">"A Boston River Now (Mostly) Fit for Swimming"</a>. <i>The New York Times</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACharles+River&amp;rft.atitle=A+Boston+River+Now+%28Mostly%29+Fit+for+Swimming&amp;rft.aufirst=Pam&amp;rft.aulast=Belluck&amp;rft.date=2007-07-22&amp;rft.genre=article&amp;rft.jtitle=The+New+York+Times&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2007%2F07%2F22%2Fus%2F22charles.html%3F_r%3D2%26&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.charlesriverswimmingclub.org/wp/?page_id=10">"FAQs"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-07-30</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACharles+River&amp;rft.btitle=FAQs&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.charlesriverswimmingclub.org%2Fwp%2F%3Fpage_id%3D10&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.boston.com/metrodesk/2013/07/13/charles-river-opens-for-public-swim-for-first-time-since/4tgCdQ1cONXeN6SPvhe6rI/story.html">"Charles River opens for first public swim since the 1950s"</a>. <i>The Boston Globe</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACharles+River&amp;rft.atitle=Charles+River+opens+for+first+public+swim+since+the+1950s&amp;rft.genre=article&amp;rft.jtitle=The+Boston+Globe&amp;rft_id=http%3A%2F%2Fwww.boston.com%2Fmetrodesk%2F2013%2F07%2F13%2Fcharles-river-opens-for-public-swim-for-first-time-since%2F4tgCdQ1cONXeN6SPvhe6rI%2Fstory.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.charlesriverswimmingclub.org/wp/?page_id=8">"Charles River Swimming Club, Inc.&#160;: Maps"</a>. Charlesriverswimmingclub.org<span class="reference-accessdate">. Retrieved <span class="nowrap">16 October</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACharles+River&amp;rft.btitle=Charles+River+Swimming+Club%2C+Inc.+%3A+Maps&amp;rft.genre=unknown&amp;rft.pub=Charlesriverswimmingclub.org&amp;rft_id=http%3A%2F%2Fwww.charlesriverswimmingclub.org%2Fwp%2F%3Fpage_id%3D8&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.wbur.org/2013/07/13/public-swim-charles">"Public Swim Follows 50 Years Of Dirty Water"</a>. <i>WBUR</i>. 13 July 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">16 October</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACharles+River&amp;rft.atitle=Public+Swim+Follows+50+Years+Of+Dirty+Water&amp;rft.date=2013-07-13&amp;rft.genre=unknown&amp;rft.jtitle=WBUR&amp;rft_id=http%3A%2F%2Fwww.wbur.org%2F2013%2F07%2F13%2Fpublic-swim-charles&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Charles_River&amp;action=edit&amp;section=10" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><i>Inventing the Charles River</i>, by Karl Haglund, MIT Press, 2003, in collaboration with the Charles River Conservancy. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-262-08307-8" title="Special:BookSources/0-262-08307-8">0-262-08307-8</a>.</li>
+<li><i>Gaining Ground: A History of Landmaking in Boston</i>, by Nancy S. Seasholes, MIT Press, 2003. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0262194945" title="Special:BookSources/978-0262194945">978-0262194945</a>.</li>
+<li><i>Omeros</i>, by <a href="/wiki/Derek_Walcott" title="Derek Walcott">Derek Walcott</a>, Faber and Faber (London), 1990. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0374523503" title="Special:BookSources/978-0374523503">978-0374523503</a> (Repeated references to the Charles river in descriptions of Boston life.)</li>
+<li><cite class="citation book">Tourtellot, Arthur Bernon (2014) [1941]. Benet, Stephen Vincent; Carmer, Carl, eds. <a rel="nofollow" class="external text" href="https://books.google.com/books?id=MoeIAgAAQBAJ"><i>The Charles</i></a>. Rivers of America. Mineola, N.Y.: Dover Publications. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780486492940" title="Special:BookSources/9780486492940">9780486492940</a>. <a href="/wiki/OCLC" title="OCLC">OCLC</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/oclc/990111">990111</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACharles+River&amp;rft.aufirst=Arthur+Bernon&amp;rft.aulast=Tourtellot&amp;rft.btitle=The+Charles&amp;rft.date=2014&amp;rft.genre=book&amp;rft.isbn=9780486492940&amp;rft.place=Mineola%2C+N.Y.&amp;rft.pub=Dover+Publications&amp;rft.series=Rivers+of+America&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DMoeIAgAAQBAJ&amp;rft_id=info%3Aoclcnum%2F990111&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Charles_River&amp;action=edit&amp;section=11" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Charles_River" class="extiw" title="commons:Category:Charles River">Charles River</a></b></i>.</td>
+</tr>
+</table>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/38px-Wikisource-logo.svg.png" width="38" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/57px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/76px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></td>
+<td class="mbox-text plainlist"><a href="/wiki/Wikisource" title="Wikisource">Wikisource</a> has the text of the 1879 <i><a href="/wiki/American_Cyclop%C3%A6dia" class="mw-redirect" title="American Cyclopædia">American Cyclopædia</a></i> article <i><b><a href="https://en.wikisource.org/wiki/The_American_Cyclop%C3%A6dia_(1879)/Charles_River" class="extiw" title="s:The American Cyclopædia (1879)/Charles River">Charles River</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.esplanadeassociation.org/">The Esplanade Association</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.crwa.org/">Charles River Watershed Association</a>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.crwa.org/watershed/watershedmaptowns.html">Interactive watershed map</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.crwa.org/cr_recreation.html">Recreation links and maps</a></li>
+</ul>
+</li>
+<li><a rel="nofollow" class="external text" href="http://www.charlesriverconservancy.org/">Charles River Conservancy</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.mass.gov/eea/agencies/dcr/massparks/region-boston/charles-river-reservation.html">MA Department of Conservation and Recreation - Charles River Reservation</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.epa.gov/boston/charles/">"Swimmable by 2005" EPA Effort</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.charlesriverswimmingclub.org">Charles River Swimming Club</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.crmi.org/">Charles River Museum of Industry</a></li>
+<li><a rel="nofollow" class="external text" href="http://waterdata.usgs.gov/ma/nwis/current/?type=flow">U.S. Geological Survey data on flow in Charles River at various measurement points</a></li>
+<li><a rel="nofollow" class="external text" href="http://pubs.usgs.gov/gip/2007/47/pdf/gip-47.pdf">US Geological Survey Report on The Charles River Restoration</a></li>
+<li><img alt="Wikisource-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png" width="12" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/18px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/24px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" />&#160;<cite class="citation encyclopaedia">"<a href="https://en.wikisource.org/wiki/The_New_International_Encyclop%C3%A6dia/Charles_River" class="extiw" title="s:The New International Encyclopædia/Charles River">Charles River</a>". <i><a href="/wiki/New_International_Encyclopedia" title="New International Encyclopedia">New International Encyclopedia</a></i>. 1905.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACharles+River&amp;rft.atitle=Charles+River&amp;rft.btitle=New+International+Encyclopedia&amp;rft.date=1905&amp;rft.genre=bookitem&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Rivers_of_Massachusetts" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Massachusetts_rivers" title="Template:Massachusetts rivers"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/w/index.php?title=Template_talk:Massachusetts_rivers&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Massachusetts rivers (page does not exist)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Massachusetts_rivers&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Rivers_of_Massachusetts" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_rivers_of_Massachusetts" title="List of rivers of Massachusetts">Rivers of Massachusetts</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Atlantic_Ocean" title="Atlantic Ocean">Atlantic Ocean</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Tiasquam_River" title="Tiasquam River">Tiasquam River</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Buzzards_Bay" title="Buzzards Bay">Buzzards Bay</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Acushnet_River" title="Acushnet River">Acushnet River</a></li>
+<li><a href="/wiki/Agawam_River" title="Agawam River">Agawam River</a></li>
+<li><a href="/wiki/Back_River_(Buzzards_Bay)" title="Back River (Buzzards Bay)">Back River</a></li>
+<li><a href="/wiki/Copicut_River" title="Copicut River">Copicut River</a></li>
+<li><a href="/wiki/Crooked_River_(Massachusetts)" title="Crooked River (Massachusetts)">Crooked River</a></li>
+<li><a href="/wiki/Mattapoisett_River" title="Mattapoisett River">Mattapoisett River</a></li>
+<li><a href="/wiki/Nasketucket_River" title="Nasketucket River">Nasketucket River</a></li>
+<li><a href="/wiki/Paskamanset_River" title="Paskamanset River">Paskamanset River</a></li>
+<li><a href="/wiki/Pocasset_River_(Massachusetts)" title="Pocasset River (Massachusetts)">Pocasset River</a></li>
+<li><a href="/wiki/Sippican_River" title="Sippican River">Sippican River</a></li>
+<li><a href="/wiki/Slocums_River" title="Slocums River">Slocums River</a></li>
+<li><a href="/wiki/Wankinco_River" title="Wankinco River">Wankinco River</a></li>
+<li><a href="/wiki/Westport_River" title="Westport River">Westport River</a></li>
+<li><a href="/wiki/Weweantic_River" title="Weweantic River">Weweantic River</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Cape_Cod_Bay" title="Cape Cod Bay">Cape Cod Bay</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Eel_River_(Massachusetts)" title="Eel River (Massachusetts)">Eel River</a></li>
+<li><a href="/wiki/Herring_River_(Wellfleet,_Massachusetts)" title="Herring River (Wellfleet, Massachusetts)">Herring River</a></li>
+<li><a href="/wiki/Jones_River" title="Jones River">Jones River</a></li>
+<li><a href="/wiki/Little_Pamet_River" title="Little Pamet River">Little Pamet River</a></li>
+<li><a href="/wiki/Pamet_River" title="Pamet River">Pamet River</a></li>
+<li><a href="/wiki/Town_Brook_(Massachusetts)" title="Town Brook (Massachusetts)">Town Brook</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Connecticut_River" title="Connecticut River">Connecticut River</a> Watershed</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Burnshirt_River" title="Burnshirt River">Burnshirt River</a></li>
+<li><a href="/wiki/Chapel_Brook" title="Chapel Brook">Chapel Brook</a></li>
+<li><a href="/wiki/Chicopee_River" title="Chicopee River">Chicopee River</a></li>
+<li><a href="/wiki/Connecticut_River" title="Connecticut River">Connecticut River</a></li>
+<li><a href="/wiki/Cranberry_River_(Massachusetts)" title="Cranberry River (Massachusetts)">Cranberry River</a></li>
+<li><a href="/wiki/Deerfield_River" title="Deerfield River">Deerfield River</a></li>
+<li><a href="/wiki/East_Brookfield_River" title="East Brookfield River">East Brookfield River</a></li>
+<li><a href="/wiki/Farmington_River" title="Farmington River">Farmington River</a></li>
+<li><a href="/wiki/Fall_River_(Connecticut_River)" title="Fall River (Connecticut River)">Fall River</a></li>
+<li><a href="/wiki/Five_Mile_River_(East_Brookfield_River)" title="Five Mile River (East Brookfield River)">Five Mile River</a></li>
+<li><a href="/wiki/Green_River_(Deerfield_River)" title="Green River (Deerfield River)">Green River</a></li>
+<li><a href="/wiki/Hubbard_River" title="Hubbard River">Hubbard River</a></li>
+<li><a href="/wiki/Manhan_River" title="Manhan River">Manhan River</a></li>
+<li><a href="/wiki/Mill_River_(Northampton,_Massachusetts)" title="Mill River (Northampton, Massachusetts)">Mill River (Northampton)</a></li>
+<li><a href="/wiki/Mill_River_(Springfield,_Massachusetts)" title="Mill River (Springfield, Massachusetts)">Mill River (Springfield)</a></li>
+<li><a href="/wiki/Millers_River" title="Millers River">Millers River</a></li>
+<li><a href="/wiki/Mirey_Brook" title="Mirey Brook">Mirey Brook</a></li>
+<li><a href="/wiki/North_Branch_Millers_River" title="North Branch Millers River">North Branch Millers River</a></li>
+<li><a href="/wiki/North_Branch_Westfield_River" title="North Branch Westfield River">North Branch Westfield River</a></li>
+<li><a href="/wiki/North_River_(Deerfield_River)" title="North River (Deerfield River)">North River</a></li>
+<li><a href="/wiki/Otter_River_(Massachusetts)" title="Otter River (Massachusetts)">Otter River</a></li>
+<li><a href="/wiki/Quaboag_River" title="Quaboag River">Quaboag River</a></li>
+<li><a href="/wiki/Scantic_River" title="Scantic River">Scantic River</a></li>
+<li><a href="/wiki/Seven_Mile_River_(East_Brookfield_River)" title="Seven Mile River (East Brookfield River)">Seven Mile River</a></li>
+<li><a href="/wiki/Tarbell_Brook" title="Tarbell Brook">Tarbell Brook</a></li>
+<li><a href="/wiki/Ware_River" title="Ware River">Ware River</a></li>
+<li><a href="/wiki/Westfield_River" title="Westfield River">Westfield River</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Gulf_of_Maine" title="Gulf of Maine">Gulf of Maine</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Annisquam_River" title="Annisquam River">Annisquam River</a></li>
+<li><a href="/wiki/Blackwater_River_(Massachusetts_%E2%80%93_New_Hampshire)" title="Blackwater River (Massachusetts – New Hampshire)">Blackwater River</a></li>
+<li><a href="/wiki/Eagle_Hill_River" title="Eagle Hill River">Eagle Hill River</a></li>
+<li><a href="/wiki/Egypt_River" title="Egypt River">Egypt River</a></li>
+<li><a href="/wiki/Ipswich_River" title="Ipswich River">Ipswich River</a></li>
+<li><a href="/wiki/Roger_Island_River" title="Roger Island River">Roger Island River</a></li>
+<li><a href="/wiki/Rowley_River" title="Rowley River">Rowley River</a></li>
+<li><a href="/wiki/Skug_River" title="Skug River">Skug River</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Housatonic_River" title="Housatonic River">Housatonic River</a> Watershed</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Housatonic_River" title="Housatonic River">Housatonic River</a></li>
+<li><a href="/wiki/Konkapot_River" title="Konkapot River">Konkapot River</a></li>
+<li><a href="/wiki/Schenob_Brook" title="Schenob Brook">Schenob Brook</a></li>
+<li><a href="/wiki/Umpachene_River" title="Umpachene River">Umpachene River</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Hudson_River" title="Hudson River">Hudson River</a> Watershed</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hoosic_River" title="Hoosic River">Hoosic River</a></li>
+<li><a href="/wiki/Kinderhook_Creek" title="Kinderhook Creek">Kinderhook Creek</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Massachusetts_Bay" title="Massachusetts Bay">Massachusetts Bay</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aberjona_River" title="Aberjona River">Aberjona River</a></li>
+<li><a href="/wiki/Alewife_Brook_Reservation" title="Alewife Brook Reservation">Alewife Brook</a></li>
+<li><a href="/wiki/Canton_River_(United_States)" title="Canton River (United States)">Canton River</a></li>
+<li><a class="mw-selflink selflink">Charles River</a></li>
+<li><a href="/wiki/Chelsea_Creek" title="Chelsea Creek">Chelsea Creek</a></li>
+<li><a href="/wiki/Cochato_River" title="Cochato River">Cochato River</a></li>
+<li><a href="/wiki/Fore_River_(Massachusetts)" title="Fore River (Massachusetts)">Fore River</a></li>
+<li><a href="/wiki/Fresh_River_(Massachusetts)" title="Fresh River (Massachusetts)">Fresh River</a></li>
+<li><a href="/wiki/Indian_Head_River" title="Indian Head River">Indian Head River</a></li>
+<li><a href="/wiki/Malden_River" title="Malden River">Malden River</a></li>
+<li><i><a href="/wiki/Millers_River_(Middlesex)" title="Millers River (Middlesex)">Millers River</a></i></li>
+<li><a href="/wiki/Monatiquot_River" title="Monatiquot River">Monatiquot River</a></li>
+<li><a href="/wiki/Mother_Brook" title="Mother Brook">Mother Brook</a></li>
+<li><a href="/wiki/Muddy_River_(Massachusetts)" title="Muddy River (Massachusetts)">Muddy River</a></li>
+<li><a href="/wiki/Mystic_River" title="Mystic River">Mystic River</a></li>
+<li><a href="/wiki/Neponset_River" title="Neponset River">Neponset River</a></li>
+<li><a href="/wiki/North_River_(Massachusetts_Bay)" title="North River (Massachusetts Bay)">North River</a></li>
+<li><a href="/wiki/Saugus_River" title="Saugus River">Saugus River</a></li>
+<li><a href="/wiki/Stony_Brook_(Boston)" title="Stony Brook (Boston)">Stony Brook (Boston)</a></li>
+<li><a href="/wiki/Stony_Brook_(Waltham)" class="mw-redirect" title="Stony Brook (Waltham)">Stony Brook (Waltham)</a></li>
+<li><a href="/wiki/Stop_River" title="Stop River">Stop River</a></li>
+<li><a href="/wiki/Weir_River_(Massachusetts)" title="Weir River (Massachusetts)">Weir River</a></li>
+<li><a href="/wiki/Weymouth_Back_River" title="Weymouth Back River">Weymouth Back River</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Merrimack_River" title="Merrimack River">Merrimack River</a> Watershed</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Artichoke_River_(Massachusetts)" title="Artichoke River (Massachusetts)">Artichoke River</a></li>
+<li><a href="/wiki/Assabet_River" title="Assabet River">Assabet River</a></li>
+<li><a href="/wiki/Back_River_(Powwow_River)" title="Back River (Powwow River)">Back River</a></li>
+<li><a href="/wiki/Beaver_Brook_(Merrimack_River)" title="Beaver Brook (Merrimack River)">Beaver Brook</a></li>
+<li><a href="/wiki/Cochichewick_River" title="Cochichewick River">Cochichewick River</a></li>
+<li><a href="/wiki/Concord_River" title="Concord River">Concord River</a></li>
+<li><a href="/wiki/Little_River_(Merrimack_River)" title="Little River (Merrimack River)">Little River</a></li>
+<li><a href="/wiki/Merrimack_River" title="Merrimack River">Merrimack River</a></li>
+<li><a href="/wiki/Nashua_River" title="Nashua River">Nashua River</a></li>
+<li><a href="/wiki/Nissitissit_River" title="Nissitissit River">Nissitissit River</a></li>
+<li><a href="/wiki/North_Nashua_River" title="North Nashua River">North Nashua River</a></li>
+<li><a href="/wiki/Phillips_Brook_(Massachusetts)" title="Phillips Brook (Massachusetts)">Phillips Brook</a></li>
+<li><a href="/wiki/Powwow_River" title="Powwow River">Powwow River</a></li>
+<li><a href="/wiki/Quinapoxet_River" title="Quinapoxet River">Quinapoxet River</a></li>
+<li><a href="/wiki/Salmon_Brook_(Merrimack_River)" title="Salmon Brook (Merrimack River)">Salmon Brook</a></li>
+<li><a href="/wiki/Shawsheen_River" title="Shawsheen River">Shawsheen River</a></li>
+<li><a href="/wiki/South_Branch_Souhegan_River" title="South Branch Souhegan River">South Branch Souhegan River</a></li>
+<li><a href="/wiki/South_Nashua_River" title="South Nashua River">South Nashua River</a></li>
+<li><a href="/wiki/Spicket_River" title="Spicket River">Spicket River</a></li>
+<li><a href="/wiki/Squannacook_River" title="Squannacook River">Squannacook River</a></li>
+<li><a href="/wiki/Stillwater_River_(Nashua_River)" title="Stillwater River (Nashua River)">Stillwater River</a></li>
+<li><a href="/wiki/Sudbury_River" title="Sudbury River">Sudbury River</a></li>
+<li><a href="/wiki/Trout_Brook_(Massachusetts)" title="Trout Brook (Massachusetts)">Trout Brook</a></li>
+<li><a href="/wiki/Vine_Brook" title="Vine Brook">Vine Brook</a></li>
+<li><a href="/wiki/Whitman_River" title="Whitman River">Whitman River</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Nantucket_Sound" title="Nantucket Sound">Nantucket Sound</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bass_River_(Massachusetts)" title="Bass River (Massachusetts)">Bass River</a></li>
+<li><a href="/wiki/Bumps_River" title="Bumps River">Bumps River</a></li>
+<li><a href="/wiki/Childs_River" title="Childs River">Childs River</a></li>
+<li><a href="/wiki/Coonamesset_River" title="Coonamesset River">Coonamesset River</a></li>
+<li><a href="/wiki/Mashpee_River" title="Mashpee River">Mashpee River</a></li>
+<li><a href="/wiki/Mitchell_River_(Massachusetts)" title="Mitchell River (Massachusetts)">Mitchell River</a></li>
+<li><a href="/wiki/Oyster_Pond_River" title="Oyster Pond River">Oyster Pond River</a></li>
+<li><a href="/wiki/Popponesset_Creek" title="Popponesset Creek">Popponesset Creek</a></li>
+<li><a href="/wiki/Quashnet_River" title="Quashnet River">Quashnet River</a></li>
+<li><a href="/wiki/Santuit_River" title="Santuit River">Santuit River</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Narragansett_Bay" title="Narragansett Bay">Narragansett Bay</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Barrington_River_(Rhode_Island)" title="Barrington River (Rhode Island)">Barrington River</a></li>
+<li><a href="/wiki/Cole_River" title="Cole River">Cole River</a></li>
+<li><a href="/wiki/Coles_Brook" title="Coles Brook">Coles Brook</a></li>
+<li><a href="/wiki/Kickamuit_River" title="Kickamuit River">Kickamuit River</a></li>
+<li><a href="/wiki/Lees_River" title="Lees River">Lees River</a></li>
+<li><a href="/wiki/Palmer_River_(Massachusetts_%E2%80%93_Rhode_Island)" title="Palmer River (Massachusetts – Rhode Island)">Palmer River</a></li>
+<li><a href="/wiki/Runnins_River" title="Runnins River">Runnins River</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Providence_River" title="Providence River">Providence River</a> Watershed</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Abbott_Run" title="Abbott Run">Abbott Run</a></li>
+<li><a href="/wiki/Blackstone_River" title="Blackstone River">Blackstone River</a></li>
+<li><a href="/wiki/Bungay_River" title="Bungay River">Bungay River</a></li>
+<li><a href="/wiki/Chockalog_River" title="Chockalog River">Chockalog River</a></li>
+<li><a href="/wiki/Mill_River_(Massachusetts_%E2%80%93_Rhode_Island)" title="Mill River (Massachusetts – Rhode Island)">Mill River</a></li>
+<li><a href="/wiki/Mumford_River" title="Mumford River">Mumford River</a></li>
+<li><a href="/wiki/Peters_River" title="Peters River">Peters River</a></li>
+<li><a href="/wiki/Quinsigamond_River" title="Quinsigamond River">Quinsigamond River</a></li>
+<li><a href="/wiki/Sevenmile_River_(Tenmile_River)" title="Sevenmile River (Tenmile River)">Sevenmile River</a></li>
+<li><a href="/wiki/Tannery_River" title="Tannery River">Tannery River</a></li>
+<li><a href="/wiki/Ten_Mile_River_(Seekonk_River)" title="Ten Mile River (Seekonk River)">Ten Mile River</a></li>
+<li><a href="/wiki/Thacher_River" title="Thacher River">Thacher River</a></li>
+<li><a href="/wiki/West_River_(Massachusetts)" title="West River (Massachusetts)">West River</a></li>
+<li><a href="/wiki/Wilde_River" title="Wilde River">Wilde River</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Taunton_River" title="Taunton River">Taunton River</a> Watershed</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Assonet_River" title="Assonet River">Assonet River</a></li>
+<li><a href="/wiki/Canoe_River" title="Canoe River">Canoe River</a></li>
+<li><a href="/wiki/Cedar_Swamp_River" title="Cedar Swamp River">Cedar Swamp River</a></li>
+<li><a href="/wiki/Cocasset_River" title="Cocasset River">Cocasset River</a></li>
+<li><a href="/wiki/Cotley_River" title="Cotley River">Cotley River</a></li>
+<li><a href="/wiki/Forge_River" title="Forge River">Forge River</a></li>
+<li><a href="/wiki/Hockomock_River" title="Hockomock River">Hockomock River</a></li>
+<li><a href="/wiki/Matfield_River" title="Matfield River">Matfield River</a></li>
+<li><a href="/wiki/Mill_River_(Taunton_River)" title="Mill River (Taunton River)">Mill River</a></li>
+<li><a href="/wiki/Nemasket_River" title="Nemasket River">Nemasket River</a></li>
+<li><a href="/wiki/Poor_Meadow_Brook" title="Poor Meadow Brook">Poor Meadow Brook</a></li>
+<li><a href="/wiki/Quequechan_River" title="Quequechan River">Quequechan River</a></li>
+<li><a href="/wiki/Rumford_River" title="Rumford River">Rumford River</a></li>
+<li><a href="/wiki/Salisbury_Plain_River" title="Salisbury Plain River">Salisbury Plain River</a></li>
+<li><a href="/wiki/Satucket_River" title="Satucket River">Satucket River</a></li>
+<li><a href="/wiki/Segreganset_River" title="Segreganset River">Segreganset River</a></li>
+<li><a href="/wiki/Shumatuscacant_River" title="Shumatuscacant River">Shumatuscacant River</a></li>
+<li><a href="/wiki/Snake_River_(Massachusetts)" title="Snake River (Massachusetts)">Snake River</a></li>
+<li><a href="/wiki/Taunton_River" title="Taunton River">Taunton River</a></li>
+<li><a href="/wiki/Three_Mile_River" title="Three Mile River">Three Mile River</a></li>
+<li><a href="/wiki/Town_River" title="Town River">Town River</a></li>
+<li><a href="/wiki/Wading_River_(Massachusetts)" title="Wading River (Massachusetts)">Wading River</a></li>
+<li><a href="/wiki/Winnetuxet_River" title="Winnetuxet River">Winnetuxet River</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Thames_River_(Connecticut)" title="Thames River (Connecticut)">Thames River</a> Watershed</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/French_River_(Massachusetts)" title="French River (Massachusetts)">French River</a></li>
+<li><a href="/wiki/Quinebaug_River" title="Quinebaug River">Quinebaug River</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1227
+Cached time: 20171018170820
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.680 seconds
+Real time usage: 0.826 seconds
+Preprocessor visited node count: 4973/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 112724/2097152 bytes
+Template argument size: 22007/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 2/500
+Lua time usage: 0.221/10.000 seconds
+Lua memory usage: 7.85 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  689.549      1 -total
+ 40.02%  275.976      1 Template:Geobox
+ 27.57%  190.115      2 Template:Reflist
+ 15.30%  105.479     17 Template:Cite_web
+  8.97%   61.886      7 Template:Geobox2_unit
+  7.92%   54.636      3 Template:ISBN
+  7.09%   48.866      9 Template:Convert
+  6.15%   42.399      2 Template:Geobox2_unit/height
+  4.98%   34.368      3 Template:Coord
+  4.50%   31.060      3 Template:Catalog_lookup_link
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:146280-0!canonical and timestamp 20171018170901 and revision id 805944925
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Charles_River&amp;oldid=805944925">https://en.wikipedia.org/w/index.php?title=Charles_River&amp;oldid=805944925</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Charles_River" title="Category:Charles River">Charles River</a></li><li><a href="/wiki/Category:Rivers_of_Suffolk_County,_Massachusetts" title="Category:Rivers of Suffolk County, Massachusetts">Rivers of Suffolk County, Massachusetts</a></li><li><a href="/wiki/Category:Rivers_of_Middlesex_County,_Massachusetts" title="Category:Rivers of Middlesex County, Massachusetts">Rivers of Middlesex County, Massachusetts</a></li><li><a href="/wiki/Category:Rivers_of_Norfolk_County,_Massachusetts" title="Category:Rivers of Norfolk County, Massachusetts">Rivers of Norfolk County, Massachusetts</a></li><li><a href="/wiki/Category:Rivers_of_Worcester_County,_Massachusetts" title="Category:Rivers of Worcester County, Massachusetts">Rivers of Worcester County, Massachusetts</a></li><li><a href="/wiki/Category:Rowing_venues" title="Category:Rowing venues">Rowing venues</a></li><li><a href="/wiki/Category:Landforms_of_Boston" title="Category:Landforms of Boston">Landforms of Boston</a></li><li><a href="/wiki/Category:Watersheds_of_Boston_Harbor" title="Category:Watersheds of Boston Harbor">Watersheds of Boston Harbor</a></li><li><a href="/wiki/Category:Rivers_of_Massachusetts" title="Category:Rivers of Massachusetts">Rivers of Massachusetts</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Pages_using_citations_with_accessdate_and_no_URL" title="Category:Pages using citations with accessdate and no URL">Pages using citations with accessdate and no URL</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Geobox_usage_tracking_for_river_type" title="Category:Geobox usage tracking for river type">Geobox usage tracking for river type</a></li><li><a href="/wiki/Category:Wikipedia_articles_incorporating_a_citation_from_the_New_International_Encyclopedia" title="Category:Wikipedia articles incorporating a citation from the New International Encyclopedia">Wikipedia articles incorporating a citation from the New International Encyclopedia</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Charles+River" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Charles+River" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Charles_River" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Charles_River" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Charles_River">Read</a></span></li>
+							<li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Charles_River&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Charles_River&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Charles_River" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Charles_River" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Charles_River&amp;oldid=805944925" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Charles_River&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q794927" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Charles_River&amp;id=805944925" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Charles+River">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Charles+River&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Charles_River&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Charles_River" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%86%D9%87%D8%B1_%D8%AA%D8%B4%D8%A7%D8%B1%D9%84%D8%B2" title="نهر تشارلز – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%A7%D0%B0%D1%80%D0%BB%D1%8C%D0%B7" title="Чарльз – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/%D0%A7%D0%B0%D1%80%D0%BB%D0%B7_(%D1%80%D0%B0%D0%BA%D0%B0)" title="Чарлз (рака) – Belarusian (Taraškievica orthography)" lang="be-x-old" hreflang="be-x-old" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-cv"><a href="https://cv.wikipedia.org/wiki/%D0%A7%D0%B0%D1%80%D0%BB%D1%8C%D0%B7_(%D1%8E%D1%85%D0%B0%D0%BD%D1%88%D1%8B%D0%B2)" title="Чарльз (юханшыв) – Chuvash" lang="cv" hreflang="cv" class="interlanguage-link-target">Чӑвашла</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Charles_River_(suba_sa_Estados_Unidos,_Massachusetts)" title="Charles River (suba sa Estados Unidos, Massachusetts) – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Charles_River" title="Charles River – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Charles_River" title="Charles River – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/R%C3%ADo_Charles" title="Río Charles – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%B1%D9%88%D8%AF_%DA%86%D8%A7%D8%B1%D9%84%D8%B2" title="رود چارلز – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Rivi%C3%A8re_Charles" title="Rivière Charles – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/Charles_(rivier)" title="Charles (rivier) – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/R%C3%ADo_Charles" title="Río Charles – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%B0%B0%EC%8A%A4_%EA%B0%95" title="찰스 강 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Charles_(rijeka)" title="Charles (rijeka) – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Charles_(fiume)" title="Charles (fiume) – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A6%27%D7%90%D7%A8%D7%9C%D7%A1_(%D7%A0%D7%94%D7%A8)" title="צ'ארלס (נהר) – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Mto_Charles" title="Mto Charles – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%9A%E0%B4%BE%E0%B5%BE%E0%B4%B8%E0%B5%8D_%E0%B4%A8%E0%B4%A6%E0%B4%BF" title="ചാൾസ് നദി – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Charles_(rivier)" title="Charles (rivier) – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%83%BC%E3%83%AB%E3%82%BA%E5%B7%9D" title="チャールズ川 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Charles_River" title="Charles River – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A7%D0%B0%D1%80%D0%BB%D1%8C%D0%B7_(%D1%80%D0%B5%D0%BA%D0%B0)" title="Чарльз (река) – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Charles_River" title="Charles River – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Charles_(rijeka)" title="Charles (rijeka) – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Charles_River" title="Charles River – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A7%D0%B0%D1%80%D0%BB%D1%8C%D0%B7_(%D1%80%D1%96%D1%87%D0%BA%D0%B0)" title="Чарльз (річка) – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%9F%A5%E5%B0%94%E6%96%AF%E6%B2%B3" title="查尔斯河 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q794927#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 18 October 2017, at 17:09.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Charles_River&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.680","walltime":"0.826","ppvisitednodes":{"value":4973,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":112724,"limit":2097152},"templateargumentsize":{"value":22007,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  689.549      1 -total"," 40.02%  275.976      1 Template:Geobox"," 27.57%  190.115      2 Template:Reflist"," 15.30%  105.479     17 Template:Cite_web","  8.97%   61.886      7 Template:Geobox2_unit","  7.92%   54.636      3 Template:ISBN","  7.09%   48.866      9 Template:Convert","  6.15%   42.399      2 Template:Geobox2_unit/height","  4.98%   34.368      3 Template:Coord","  4.50%   31.060      3 Template:Catalog_lookup_link"]},"scribunto":{"limitreport-timeusage":{"value":"0.221","limit":"10.000"},"limitreport-memusage":{"value":8226584,"limit":52428800}},"cachereport":{"origin":"mw1227","timestamp":"20171018170820","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":88,"wgHostname":"mw1322"});});</script>
+	</body>
+</html>

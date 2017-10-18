@@ -1,7 +1,8 @@
 import WikiCrawler
 
+
 # Input Parameters
 SeedUrl = 'https://en.wikipedia.org/wiki/Gerard_Salton'
-Numpages = 80
+NumPages = 800
 
-print(WikiCrawler.crawl_web(SeedUrl, Numpages))
+print(WikiCrawler.crawl_web(SeedUrl, NumPages))

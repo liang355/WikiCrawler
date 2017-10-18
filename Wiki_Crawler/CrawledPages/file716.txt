@@ -1,0 +1,1020 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Academic Ranking of World Universities - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Academic_Ranking_of_World_Universities","wgTitle":"Academic Ranking of World Universities","wgCurRevisionId":805756203,"wgRevisionId":805756203,"wgArticleId":959184,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 French-language sources (fr)","Articles containing explicitly cited English-language text","All articles with unsourced statements","Articles with unsourced statements from August 2017","University and college rankings","2003 introductions"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Academic_Ranking_of_World_Universities","wgRelevantArticleId":959184,"wgRequestId":"WeX8LwpAIDEAAEL-@YUAAAAB","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q478743","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.3"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/5/58/Academic_Ranking_of_World_Universities_logo.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Academic_Ranking_of_World_Universities"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Academic_Ranking_of_World_Universities&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Academic_Ranking_of_World_Universities&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Academic_Ranking_of_World_Universities"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Academic_Ranking_of_World_Universities rootpage-Academic_Ranking_of_World_Universities vector-experimental-print-styles vector-nav-directionality skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en"><i>Academic Ranking of World Universities</i></h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox hproduct" style="width:22em">
+<caption class="fn"><i><span style="font-style:normal;">Academic Ranking of World Universities</span></i></caption>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Academic_Ranking_of_World_Universities_logo.png" class="image"><img alt="Academic Ranking of World Universities logo.png" src="//upload.wikimedia.org/wikipedia/en/thumb/5/58/Academic_Ranking_of_World_Universities_logo.png/220px-Academic_Ranking_of_World_Universities_logo.png" width="220" height="74" srcset="//upload.wikimedia.org/wikipedia/en/5/58/Academic_Ranking_of_World_Universities_logo.png 1.5x" data-file-width="306" data-file-height="103" /></a></td>
+</tr>
+<tr>
+<th scope="row">Categories</th>
+<td><a href="/wiki/Higher_education" title="Higher education">Higher education</a></td>
+</tr>
+<tr>
+<th scope="row">Frequency</th>
+<td>Annual</td>
+</tr>
+<tr>
+<th scope="row">Publisher</th>
+<td>Shanghai Ranking Consultancy (2009–present)<br />
+<a href="/wiki/Shanghai_Jiao_Tong_University" title="Shanghai Jiao Tong University">Shanghai Jiao Tong University</a> (2003–2008)</td>
+</tr>
+<tr>
+<th scope="row">Country</th>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/China" title="China">China</a></td>
+</tr>
+<tr>
+<th scope="row">Language</th>
+<td>Ten languages with English &amp; Chinese</td>
+</tr>
+<tr>
+<th scope="row">Website</th>
+<td><a rel="nofollow" class="external text" href="http://www.shanghairanking.com/">www.shanghairanking.com</a></td>
+</tr>
+</table>
+<p><i><b>Academic Ranking of World Universities</b></i> (<b>ARWU</b>), also known as <b>Shanghai Ranking</b>, is an annual publication of <a href="/wiki/University_ranking" class="mw-redirect" title="University ranking">university rankings</a> by Shanghai Ranking Consultancy.<sup id="cite_ref-about_1-0" class="reference"><a href="#cite_note-about-1">[1]</a></sup> The league table was originally compiled and issued by <a href="/wiki/Shanghai_Jiao_Tong_University" title="Shanghai Jiao Tong University">Shanghai Jiao Tong University</a> in 2003, the first global ranking with multifarious indicators,<sup id="cite_ref-theguardian_2-0" class="reference"><a href="#cite_note-theguardian-2">[2]</a></sup> after which a board of international advisories was established to provide suggestions.<sup id="cite_ref-ABSCBN_3-0" class="reference"><a href="#cite_note-ABSCBN-3">[3]</a></sup><sup id="cite_ref-ARWUconsultants_4-0" class="reference"><a href="#cite_note-ARWUconsultants-4">[4]</a></sup> The publication currently includes global league tables for institutions and a whole and for a selection of individual subjects, alongside independent regional <i>Greater China Ranking</i> and <i>Macedonian HEIs Ranking</i>. ARWU is regarded as one of the three most influential and widely observed university measures, alongside <i><a href="/wiki/QS_World_University_Rankings" title="QS World University Rankings">QS World University Rankings</a></i> and <i><a href="/wiki/Times_Higher_Education_World_University_Rankings" title="Times Higher Education World University Rankings">Times Higher Education World University Rankings</a></i>.<sup id="cite_ref-thetelegraph_5-0" class="reference"><a href="#cite_note-thetelegraph-5">[5]</a></sup><sup id="cite_ref-New_world_university_ranking_puts_Harvard_back_on_top_6-0" class="reference"><a href="#cite_note-New_world_university_ranking_puts_Harvard_back_on_top-6">[6]</a></sup><sup id="cite_ref-edmont_7-0" class="reference"><a href="#cite_note-edmont-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> It is praised for its <a href="/wiki/Objective_approach" title="Objective approach">objective methodology</a> but draws some condemnation for narrowly focusing on raw research power, undermining <a href="/wiki/Humanities" title="Humanities">humanities</a> and quality of instruction.<sup id="cite_ref-thetelegraph_5-1" class="reference"><a href="#cite_note-thetelegraph-5">[5]</a></sup><sup id="cite_ref-edmont_7-1" class="reference"><a href="#cite_note-edmont-7">[7]</a></sup><sup id="cite_ref-EU_9-0" class="reference"><a href="#cite_note-EU-9">[9]</a></sup><sup id="cite_ref-HEPI_10-0" class="reference"><a href="#cite_note-HEPI-10">[10]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Global_rankings"><span class="tocnumber">1</span> <span class="toctext">Global rankings</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Overall"><span class="tocnumber">1.1</span> <span class="toctext">Overall</span></a>
+<ul>
+<li class="toclevel-3 tocsection-3"><a href="#Methodology"><span class="tocnumber">1.1.1</span> <span class="toctext">Methodology</span></a></li>
+<li class="toclevel-3 tocsection-4"><a href="#Reception"><span class="tocnumber">1.1.2</span> <span class="toctext">Reception</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#Criticism"><span class="tocnumber">1.1.3</span> <span class="toctext">Criticism</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Results"><span class="tocnumber">1.1.4</span> <span class="toctext">Results</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-7"><a href="#Alternative"><span class="tocnumber">1.2</span> <span class="toctext">Alternative</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Subject"><span class="tocnumber">1.3</span> <span class="toctext">Subject</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Regional_rankings"><span class="tocnumber">2</span> <span class="toctext">Regional rankings</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Greater_China"><span class="tocnumber">2.1</span> <span class="toctext">Greater China</span></a>
+<ul>
+<li class="toclevel-3 tocsection-11"><a href="#Methodology_2"><span class="tocnumber">2.1.1</span> <span class="toctext">Methodology</span></a></li>
+<li class="toclevel-3 tocsection-12"><a href="#Results_2"><span class="tocnumber">2.1.2</span> <span class="toctext">Results</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#Notes"><span class="tocnumber">3</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Global_rankings">Global rankings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Academic_Ranking_of_World_Universities&amp;action=edit&amp;section=1" title="Edit section: Global rankings">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Overall">Overall</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Academic_Ranking_of_World_Universities&amp;action=edit&amp;section=2" title="Edit section: Overall">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Methodology">Methodology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Academic_Ranking_of_World_Universities&amp;action=edit&amp;section=3" title="Edit section: Methodology">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<table class="wikitable">
+<caption>ARWU methodology<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></caption>
+<tr>
+<th>Criterion</th>
+<th>Indicator</th>
+<th>Code</th>
+<th>Weighting</th>
+<th>Source</th>
+</tr>
+<tr>
+<td>Quality of education</td>
+<td>
+<ul>
+<li>Alumni as <a href="/wiki/Nobel_Prizes" class="mw-redirect" title="Nobel Prizes">Nobel laureates</a> &amp; <a href="/wiki/Fields_Medal" title="Fields Medal">Fields Medalists</a></li>
+</ul>
+</td>
+<td>
+<dl>
+<dd><span lang="en" xml:lang="en">Alumni</span></dd>
+</dl>
+</td>
+<td>
+<ul>
+<li>10%</li>
+</ul>
+</td>
+<td>
+<dl>
+<dd>Official websites of Nobel Laureates &amp; Fields Medalists<sup id="cite_ref-one_12-0" class="reference"><a href="#cite_note-one-12">[Note 1]</a></sup></dd>
+</dl>
+</td>
+</tr>
+<tr>
+<td>Quality of faculty</td>
+<td>
+<ul>
+<li>Staff as Nobel Laureates &amp; Fields Medalists</li>
+<li>Highly cited researchers in 21 broad subject categories</li>
+</ul>
+</td>
+<td>
+<dl>
+<dd><span lang="en" xml:lang="en">Award</span></dd>
+<dd><span lang="en" xml:lang="en">HiCi</span></dd>
+</dl>
+</td>
+<td>
+<ul>
+<li>20%</li>
+<li>20%</li>
+</ul>
+</td>
+<td>
+<dl>
+<dd>Official websites of Nobel Laureates &amp; Fields Medalists<sup id="cite_ref-one_12-1" class="reference"><a href="#cite_note-one-12">[Note 1]</a></sup></dd>
+<dd><a href="/wiki/Thomson_Reuters" title="Thomson Reuters">Thomson Reuters</a>' survey of highly cited researchers<sup id="cite_ref-one_12-2" class="reference"><a href="#cite_note-one-12">[Note 1]</a></sup></dd>
+</dl>
+</td>
+</tr>
+<tr>
+<td>Research output</td>
+<td>
+<ul>
+<li>Papers published in <i>Nature</i> and <i>Science</i><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[* 1]</a></sup></li>
+<li>Papers indexed in Science Citation Index-expanded and Social Science Citation Index</li>
+</ul>
+</td>
+<td>
+<dl>
+<dd><span lang="en" xml:lang="en">N&amp;S</span></dd>
+<dd><span lang="en" xml:lang="en">PUB</span></dd>
+</dl>
+</td>
+<td>
+<ul>
+<li>20%</li>
+<li>20%</li>
+</ul>
+</td>
+<td>
+<dl>
+<dd>Citation index</dd>
+</dl>
+</td>
+</tr>
+<tr>
+<td>Per capita performance</td>
+<td>
+<ul>
+<li>Per capita academic performance of an institution</li>
+</ul>
+</td>
+<td>
+<dl>
+<dd><span lang="en" xml:lang="en">PCP</span></dd>
+</dl>
+</td>
+<td>
+<ul>
+<li>10%</li>
+</ul>
+</td>
+<td>
+<center>--</center>
+</td>
+</tr>
+<tr>
+<td colspan="5"><small><b>*</b></small>
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">Not applicable to institutions specialized in humanities and social sciences whose N&amp;S scores are relocated to other indicators.</span></li>
+</ol>
+</div>
+</td>
+</tr>
+</table>
+<h4><span class="mw-headline" id="Reception">Reception</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Academic_Ranking_of_World_Universities&amp;action=edit&amp;section=4" title="Edit section: Reception">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>ARWU is praised by several media and institutions for its methodology and influence. A survey on higher education published by <i><a href="/wiki/The_Economist" title="The Economist">The Economist</a></i> in 2005 commented ARWU as "the most widely used annual ranking of the world's research universities."<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[12]</a></sup> In 2010, <i><a href="/wiki/The_Chronicle_of_Higher_Education" title="The Chronicle of Higher Education">The Chronicle of Higher Education</a></i> called ARWU "the best-known and most influential global ranking of universities".<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[13]</a></sup> EU Research Headlines reported the ARWU's work on 31 December 2003: "The universities were carefully evaluated using several indicators of research performance."<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[14]</a></sup> Chancellor of <a href="/wiki/University_of_Oxford" title="University of Oxford">University of Oxford</a>, Chris Patten and former Vice-Chancellor of <a href="/wiki/Australian_National_University" title="Australian National University">Australian National University</a>, Ian Chubb, said: "the methodology looks fairly solid ... it looks like a pretty good stab at a fair comparison." and "The SJTU rankings were reported quickly and widely around the world… (and they) offer an important comparative view of research performance and reputation." respectively.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[15]</a></sup> Philip G. Altbach named ARWU's 'consistency, clarity of purpose, and transparency' as significant strengths.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[16]</a></sup> Whilst ARWU has originated in China, the ranking have been praised for being unbiased towards Asian institutions.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[17]</a></sup></p>
+<h4><span class="mw-headline" id="Criticism">Criticism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Academic_Ranking_of_World_Universities&amp;action=edit&amp;section=5" title="Edit section: Criticism">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Like all other rankings, ARWU has criticism. It is condemned for "relying too much on award factors" thus undermining the importance of quality of instruction and <a href="/wiki/Humanities" title="Humanities">humanities</a>.<sup id="cite_ref-thetelegraph_5-2" class="reference"><a href="#cite_note-thetelegraph-5">[5]</a></sup><sup id="cite_ref-edmont_7-2" class="reference"><a href="#cite_note-edmont-7">[7]</a></sup><sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[18]</a></sup><sup id="cite_ref-Ioanides_21-0" class="reference"><a href="#cite_note-Ioanides-21">[19]</a></sup> A 2007 paper published in the journal <i><a href="/wiki/Scientometrics_(journal)" title="Scientometrics (journal)">Scientometrics</a></i> found that the results from the Shanghai rankings could not be reproduced from raw data using the method described by Liu and Cheng.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[20]</a></sup> A 2013 paper in the same journal finally showed how the Shanghai ranking results could be reproduced.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[21]</a></sup> In a report from April 2009, J-C. Billaut, D. Bouyssou and Ph. Vincke analyse how the ARWU works, using their insights as specialists of Multiple Criteria Decision Making (MCDM). Their main conclusions are that the criteria used are not relevant; that the aggregation methodology has a number of major problems; and that insufficient attention has been paid to fundamental choices of criteria.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[22]</a></sup> The ARWU researchers themselves, N.C Liu and Y Cheng, think that the quality of universities cannot be precisely measured by mere numbers and any ranking must be controversial. They suggest that university and college rankings should be used with caution and their methodologies must be understood clearly before reporting or using the results. ARWU has been criticised by the European Commission as well as some EU member states for "favour[ing] Anglo-Saxon higher education institutions". For instance, ARWU is repeatedly criticised in France, where it triggers an annual controversy, focusing on its ill-adapted character to the French academic system<sup id="cite_ref-EU2_25-0" class="reference"><a href="#cite_note-EU2-25">[23]</a></sup><sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[24]</a></sup> and the unreasonable weight given to research often performed decades ago.<sup id="cite_ref-lemonde_27-0" class="reference"><a href="#cite_note-lemonde-27">[25]</a></sup> It is also criticised in France for its use as a motivation for fusing universities into larger ones.<sup id="cite_ref-diplo_28-0" class="reference"><a href="#cite_note-diplo-28">[26]</a></sup> Indeed, a further criticism has been that the metrics used are not independent of university size, e.g. number of publications or award winners will mechanically add as universities are grouped, independently of research (or teaching) quality; thus a merger between two equally-ranked institutions will almost double the merged institutions score and give it a higher ranking, without any change in quality.<sup id="cite_ref-HEPI_10-1" class="reference"><a href="#cite_note-HEPI-10">[10]</a></sup></p>
+<h4><span class="mw-headline" id="Results">Results</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Academic_Ranking_of_World_Universities&amp;action=edit&amp;section=6" title="Edit section: Results">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<table class="wikitable sortable">
+<caption>Academic Ranking of World Universities (500) – Top 10<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[27]</a></sup><sup id="cite_ref-two_30-0" class="reference"><a href="#cite_note-two-30">[Note 2]</a></sup></caption>
+<tr>
+<th>Institution</th>
+<th>2003</th>
+<th>2004</th>
+<th>2005</th>
+<th>2006</th>
+<th>2007</th>
+<th>2008</th>
+<th>2009</th>
+<th>2010</th>
+<th>2011</th>
+<th>2012</th>
+<th>2013</th>
+<th>2014</th>
+<th>2015</th>
+<th>2016</th>
+<th>2017</th>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span><a href="/wiki/Harvard_University" title="Harvard University">Harvard University</a></td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span><a href="/wiki/Stanford_University" title="Stanford University">Stanford University</a></td>
+<td>2</td>
+<td>2</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>3</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span><a href="/wiki/University_of_Cambridge" title="University of Cambridge">University of Cambridge</a></td>
+<td>5</td>
+<td>3</td>
+<td>2</td>
+<td>2</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>4</td>
+<td>3</td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span><a href="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology">Massachusetts Institute of Technology</a></td>
+<td>6</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>5</td>
+<td>4</td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span><a href="/wiki/University_of_California,_Berkeley" title="University of California, Berkeley">University of California, Berkeley</a></td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>4</td>
+<td>4</td>
+<td>3</td>
+<td>4</td>
+<td>4</td>
+<td>3</td>
+<td>5</td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span><a href="/wiki/Princeton_University" title="Princeton University">Princeton University</a></td>
+<td>7</td>
+<td>7</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+<td>7</td>
+<td>7</td>
+<td>7</td>
+<td>7</td>
+<td>6</td>
+<td>6</td>
+<td>6</td>
+<td>6</td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span><a href="/wiki/University_of_Oxford" title="University of Oxford">University of Oxford</a></td>
+<td>9</td>
+<td>8</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td>9</td>
+<td>10</td>
+<td>7</td>
+<td>7</td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span><a href="/wiki/Columbia_University" title="Columbia University">Columbia University</a></td>
+<td>10</td>
+<td>9</td>
+<td>7</td>
+<td>7</td>
+<td>7</td>
+<td>7</td>
+<td>7</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+<td>9</td>
+<td>8</td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span><a href="/wiki/California_Institute_of_Technology" title="California Institute of Technology">California Institute of Technology</a></td>
+<td>3</td>
+<td>6</td>
+<td>6</td>
+<td>6</td>
+<td>6</td>
+<td>6</td>
+<td>6</td>
+<td>6</td>
+<td>6</td>
+<td>6</td>
+<td>6</td>
+<td>7</td>
+<td>7</td>
+<td>8</td>
+<td>9</td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span><a href="/wiki/University_of_Chicago" title="University of Chicago">University of Chicago</a></td>
+<td>11</td>
+<td>10</td>
+<td>9</td>
+<td>8</td>
+<td>9</td>
+<td>9</td>
+<td>9</td>
+<td>9</td>
+<td>9</td>
+<td>9</td>
+<td>9</td>
+<td>9</td>
+<td>9</td>
+<td>10</td>
+<td>10</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Alternative">Alternative</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Academic_Ranking_of_World_Universities&amp;action=edit&amp;section=7" title="Edit section: Alternative">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>As it may take much time for rising universities to produce Nobel laureates and Fields Medalists with numbers comparable to those of older institutions, the Institute created alternative rankings excluding such award factors so as to provide another way of comparisons of academic performance. The weighting of all the other factors remains unchanged, thus the grand total of 70%.</p>
+<table class="wikitable sortable">
+<caption>Alternative Rankings (500) – Top 10<sup id="cite_ref-two_30-1" class="reference"><a href="#cite_note-two-30">[Note 2]</a></sup></caption>
+<tr>
+<th>Institution</th>
+<th>2014<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[28]</a></sup></th>
+<th>2015<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[29]</a></sup></th>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span><a href="/wiki/Harvard_University" title="Harvard University">Harvard University</a></td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span><a href="/wiki/Stanford_University" title="Stanford University">Stanford University</a></td>
+<td>2</td>
+<td>2</td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span><a href="/wiki/University_of_California,_Berkeley" title="University of California, Berkeley">University of California, Berkeley</a></td>
+<td>3</td>
+<td>4</td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span><a href="/wiki/California_Institute_of_Technology" title="California Institute of Technology">California Institute of Technology</a></td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span><a href="/wiki/University_of_Oxford" title="University of Oxford">University of Oxford</a></td>
+<td>6</td>
+<td>6</td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span><a href="/wiki/University_of_Cambridge" title="University of Cambridge">University of Cambridge</a></td>
+<td>8</td>
+<td>7</td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span><a href="/wiki/University_of_California,_San_Diego" title="University of California, San Diego">University of California, San Diego</a></td>
+<td>7</td>
+<td>8</td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span><a href="/wiki/University_of_Washington" title="University of Washington">University of Washington</a></td>
+<td>10</td>
+<td>9</td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span><a href="/wiki/Yale_University" title="Yale University">Yale University</a></td>
+<td>9</td>
+<td>10</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Subject">Subject</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Academic_Ranking_of_World_Universities&amp;action=edit&amp;section=8" title="Edit section: Subject">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>There are two categories in ARWU's disciplinary rankings, broad subject fields and specific subjects. The methodology is similar to that adopted in the overall table, including award factors, paper citation, and the number of highly cited scholars.</p>
+<table class="wikitable">
+<tr>
+<th>Broad fields<sup id="cite_ref-fields_33-0" class="reference"><a href="#cite_note-fields-33">[30]</a></sup></th>
+<th>Specific subjects<sup id="cite_ref-specific_34-0" class="reference"><a href="#cite_note-specific-34">[31]</a></sup></th>
+</tr>
+<tr>
+<td>Natural sciences and mathematics</td>
+<td>Mathematics</td>
+</tr>
+<tr>
+<td>Computer science and engineering</td>
+<td>Physics</td>
+</tr>
+<tr>
+<td>Life and agricultural sciences</td>
+<td>Chemistry</td>
+</tr>
+<tr>
+<td>Clinical medicine and pharmacy</td>
+<td>Computer science</td>
+</tr>
+<tr>
+<td>Social sciences</td>
+<td>Economics and business</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Regional_rankings">Regional rankings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Academic_Ranking_of_World_Universities&amp;action=edit&amp;section=9" title="Edit section: Regional rankings">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Considering the development of specific areas, two independent regional league tables with different methodologies were launched.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (August 2017)">citation needed</span></a></i>]</sup></p>
+<h3><span class="mw-headline" id="Greater_China">Greater China</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Academic_Ranking_of_World_Universities&amp;action=edit&amp;section=10" title="Edit section: Greater China">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Methodology_2">Methodology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Academic_Ranking_of_World_Universities&amp;action=edit&amp;section=11" title="Edit section: Methodology">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<table class="wikitable">
+<caption>Methodology of Greater China Rankings<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[32]</a></sup><sup id="cite_ref-two_30-2" class="reference"><a href="#cite_note-two-30">[Note 2]</a></sup></caption>
+<tr>
+<th>Criterion</th>
+<th>Indicator</th>
+<th>Weight</th>
+</tr>
+<tr>
+<td>Education</td>
+<td>
+<ul>
+<li>Percentage of <a href="/wiki/Graduate_student" class="mw-redirect" title="Graduate student">graduate students</a></li>
+<li>Percentage of non-local students</li>
+<li>Ratio of academic staff to students</li>
+<li><a href="/wiki/PhD" class="mw-redirect" title="PhD">Doctoral degrees</a> awarded</li>
+<li>Alumni as Nobel Laureates &amp; Fields Medalists</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>5%</li>
+<li>5%</li>
+<li>5%</li>
+<li>10%</li>
+<li>10%</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Research</td>
+<td>
+<ul>
+<li>Annual research income</li>
+<li><i>Nature</i> &amp; <i>Science</i> Papers</li>
+<li>SCIE &amp; SSCI papers</li>
+<li>International patents</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>5%</li>
+<li>10%</li>
+<li>10%</li>
+<li>10%</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Faculty</td>
+<td>
+<ul>
+<li>Percentage of academic staff with a doctoral degree</li>
+<li>Staff as Nobel Laureates and Fields Medalists</li>
+<li>Highly cited researchers</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>5%</li>
+<li>10%</li>
+<li>10%</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Resources</td>
+<td>
+<ul>
+<li>Annual budget</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>5%</li>
+</ul>
+</td>
+</tr>
+</table>
+<h4><span class="mw-headline" id="Results_2">Results</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Academic_Ranking_of_World_Universities&amp;action=edit&amp;section=12" title="Edit section: Results">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<table class="wikitable sortable">
+<caption>Greater China Rankings (100) – Top 10<sup id="cite_ref-two_30-3" class="reference"><a href="#cite_note-two-30">[Note 2]</a></sup><sup id="cite_ref-36" class="reference"><a href="#cite_note-36">[33]</a></sup></caption>
+<tr>
+<th>Institution</th>
+<th>2011</th>
+<th>2012</th>
+<th>2013</th>
+<th>2014</th>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/China" title="China"><img alt="China" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span><a href="/wiki/Tsinghua_University" title="Tsinghua University">Tsinghua University</a></td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/Taiwan" title="Taiwan"><img alt="Taiwan" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/23px-Flag_of_the_Republic_of_China.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/35px-Flag_of_the_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/45px-Flag_of_the_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span><a href="/wiki/National_Tsing_Hua_University" title="National Tsing Hua University">National Tsing Hua University</a></td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/Taiwan" title="Taiwan"><img alt="Taiwan" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/23px-Flag_of_the_Republic_of_China.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/35px-Flag_of_the_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/45px-Flag_of_the_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span><a href="/wiki/National_Taiwan_University" title="National Taiwan University">National Taiwan University</a></td>
+<td>1</td>
+<td>2</td>
+<td>2</td>
+<td>3</td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/Hong_Kong" title="Hong Kong"><img alt="Hong Kong" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/23px-Flag_of_Hong_Kong.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/35px-Flag_of_Hong_Kong.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/45px-Flag_of_Hong_Kong.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span><a href="/wiki/The_Hong_Kong_University_of_Science_%26_Technology" class="mw-redirect" title="The Hong Kong University of Science &amp; Technology">The Hong Kong University of Science &amp; Technology</a></td>
+<td>5</td>
+<td>4</td>
+<td>7</td>
+<td>4</td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/China" title="China"><img alt="China" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span><a href="/wiki/Peking_University" title="Peking University">Peking University</a></td>
+<td>7</td>
+<td>7</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/Hong_Kong" title="Hong Kong"><img alt="Hong Kong" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/23px-Flag_of_Hong_Kong.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/35px-Flag_of_Hong_Kong.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/45px-Flag_of_Hong_Kong.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span><a href="/wiki/The_University_of_Hong_Kong" class="mw-redirect" title="The University of Hong Kong">The University of Hong Kong</a></td>
+<td>3</td>
+<td>6</td>
+<td>4</td>
+<td>6</td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/Hong_Kong" title="Hong Kong"><img alt="Hong Kong" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/23px-Flag_of_Hong_Kong.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/35px-Flag_of_Hong_Kong.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/45px-Flag_of_Hong_Kong.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span><a href="/wiki/The_Chinese_University_of_Hong_Kong" class="mw-redirect" title="The Chinese University of Hong Kong">The Chinese University of Hong Kong</a></td>
+<td>6</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/China" title="China"><img alt="China" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span><a href="/wiki/University_of_Science_%26_Technology_of_China" class="mw-redirect" title="University of Science &amp; Technology of China">University of Science &amp; Technology of China</a></td>
+<td>9</td>
+<td>11</td>
+<td>10</td>
+<td>8</td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/Taiwan" title="Taiwan"><img alt="Taiwan" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/23px-Flag_of_the_Republic_of_China.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/35px-Flag_of_the_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/45px-Flag_of_the_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span><a href="/wiki/National_Chiao_Tung_University" title="National Chiao Tung University">National Chiao Tung University</a></td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+<td>9</td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/China" title="China"><img alt="China" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span><a href="/wiki/Zhejiang_University" title="Zhejiang University">Zhejiang University</a></td>
+<td>10</td>
+<td>9</td>
+<td>9</td>
+<td>10</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Academic_Ranking_of_World_Universities&amp;action=edit&amp;section=13" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-one-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-one_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-one_12-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-one_12-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Official datum sources adopted by ARWU: <a rel="nofollow" class="external text" href="https://www.nobelprize.org/">Nobel Laureate Web</a>, <a rel="nofollow" class="external text" href="http://www.mathunion.org/index.php?id=prizewinners">Fields Medalist Web</a>, <a rel="nofollow" class="external text" href="http://www.isihighlycited.com/">Thomson Reuters' survey of highly cited researchers</a> &amp; <a rel="nofollow" class="external text" href="http://sub3.webofknowledge.com/error/Error?Src=IP&amp;RouterURL=http%3A%2F%2Fwww.webofknowledge.com%2F&amp;Domain=.webofknowledge.com&amp;Error=IPError&amp;PathInfo=%2F&amp;Alias=WOK5&amp;locale=en_US">Thomson Reuters' Web of Science</a>.</span></li>
+<li id="cite_note-two-30"><span class="mw-cite-backlink">^ <a href="#cite_ref-two_30-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-two_30-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-two_30-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-two_30-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text">Order shown in accordance with the latest result.</span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Academic_Ranking_of_World_Universities&amp;action=edit&amp;section=14" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns">
+<ol class="references">
+<li id="cite_note-about-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-about_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.shanghairanking.com/aboutarwu.html">"About Academic Ranking of World Universities"</a>. Shanghai Ranking Consultancy. 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">26 September</span> 2014</span>. <q>Since 2009 the Academic Ranking of World Universities has been published and copyrighted by ShanghaiRanking Consultancy.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcademic+Ranking+of+World+Universities&amp;rft.btitle=About+Academic+Ranking+of+World+Universities&amp;rft.date=2014&amp;rft.genre=unknown&amp;rft.pub=Shanghai+Ranking+Consultancy&amp;rft_id=http%3A%2F%2Fwww.shanghairanking.com%2Faboutarwu.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-theguardian-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-theguardian_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.theguardian.com/higher-education-network/blog/2013/sep/10/university-rankings-influence-government-policy">"World university rankings: how much influence do they really have?"</a>. The Guardian. 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">27 January</span> 2015</span>. <q>The first international rankings, the Academic Ranking of World Universities or Shanghai Rankings</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcademic+Ranking+of+World+Universities&amp;rft.btitle=World+university+rankings%3A+how+much+influence+do+they+really+have%3F&amp;rft.date=2013&amp;rft.genre=unknown&amp;rft.pub=The+Guardian&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fhigher-education-network%2Fblog%2F2013%2Fsep%2F10%2Funiversity-rankings-influence-government-policy&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-ABSCBN-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-ABSCBN_3-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.abs-cbnnews.com/lifestyle/08/12/10/shanghai-rankings-rattle-european-universities">"Shanghai rankings rattle European universities"</a>. ABS-CBN Interactive. 8 December 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">27 January</span> 2015</span>. <q>France's higher education minister travelled to Jiaotong University's suburban campus last month to discuss the rankings, the Norwegian education minister came last year and the Danish minister is due to visit next month.; The idea for the rankings was born in 1998, when Beijing decreed China needed several world-leading universities.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcademic+Ranking+of+World+Universities&amp;rft.btitle=Shanghai+rankings+rattle+European+universities&amp;rft.date=2010-12-08&amp;rft.genre=unknown&amp;rft.pub=ABS-CBN+Interactive&amp;rft_id=http%3A%2F%2Fwww.abs-cbnnews.com%2Flifestyle%2F08%2F12%2F10%2Fshanghai-rankings-rattle-european-universities&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-ARWUconsultants-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-ARWUconsultants_4-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.shanghairanking.com/aboutiab.html">"ARWU International Advisory Board"</a>. Shanghai Ranking Consultancy. 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">27 January</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcademic+Ranking+of+World+Universities&amp;rft.btitle=ARWU+International+Advisory+Board&amp;rft.date=2014&amp;rft.genre=unknown&amp;rft.pub=Shanghai+Ranking+Consultancy&amp;rft_id=http%3A%2F%2Fwww.shanghairanking.com%2Faboutiab.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-thetelegraph-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-thetelegraph_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-thetelegraph_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-thetelegraph_5-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.telegraph.co.uk/education/universityeducation/9584155/University-rankings-which-world-university-rankings-should-we-trust.html">"University rankings: which world university rankings should we trust?"</a>. The Telegraph. 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">27 January</span> 2015</span>. <q>It is a remarkably stable list, relying on long-term factors such as the number of Nobel Prize-winners a university has produced, and number of articles published in Nature and Science journals. But with this narrow focus comes drawbacks. China's priority was for its universities to 'catch up' on hard scientific research. So if you're looking for raw research power, it's the list for you. If you're a humanities student, or more interested in teaching quality? Not so much.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcademic+Ranking+of+World+Universities&amp;rft.btitle=University+rankings%3A+which+world+university+rankings+should+we+trust%3F&amp;rft.date=2015&amp;rft.genre=unknown&amp;rft.pub=The+Telegraph&amp;rft_id=http%3A%2F%2Fwww.telegraph.co.uk%2Feducation%2Funiversityeducation%2F9584155%2FUniversity-rankings-which-world-university-rankings-should-we-trust.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-New_world_university_ranking_puts_Harvard_back_on_top-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-New_world_university_ranking_puts_Harvard_back_on_top_6-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Ariel Zirulnick. <a rel="nofollow" class="external text" href="http://www.csmonitor.com/World/2010/0916/New-world-university-ranking-puts-Harvard-back-on-top">"New world university ranking puts Harvard back on top"</a>. The Christian Science Monitor. <q>Those two, as well as Shanghai Jiao Tong University, produce the most influential international university rankings out there</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcademic+Ranking+of+World+Universities&amp;rft.au=Ariel+Zirulnick&amp;rft.btitle=New+world+university+ranking+puts+Harvard+back+on+top&amp;rft.genre=unknown&amp;rft.pub=The+Christian+Science+Monitor&amp;rft_id=http%3A%2F%2Fwww.csmonitor.com%2FWorld%2F2010%2F0916%2FNew-world-university-ranking-puts-Harvard-back-on-top&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-edmont-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-edmont_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-edmont_7-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-edmont_7-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Indira Samarasekera &amp; Carl Amrhein. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20101003203348/http://www.edmontonjournal.com/news/schools%2Balways%2Bmarks/3560240/story.html">"Top schools don't always get top marks"</a>. The Edmonton Journal. Archived from <a rel="nofollow" class="external text" href="http://www.edmontonjournal.com/news/schools+always+marks/3560240/story.html">the original</a> on October 3, 2010. <q>There are currently three major international rankings that receive widespread commentary: The Academic World Ranking of Universities, the QS World University Rankings and the Times Higher Education Rankings.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcademic+Ranking+of+World+Universities&amp;rft.atitle=Top+schools+don%27t+always+get+top+marks&amp;rft.au=Indira+Samarasekera+%26+Carl+Amrhein&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.edmontonjournal.com%2Fnews%2Fschools%2Balways%2Bmarks%2F3560240%2Fstory.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web">Philip G. Altbach (11 November 2010). <a rel="nofollow" class="external text" href="https://www.insidehighered.com/views/2010/11/11/altbach">"The State of the Rankings"</a>. Inside Higher Ed<span class="reference-accessdate">. Retrieved <span class="nowrap">27 January</span> 2015</span>. <q>The major international rankings have appeared in recent months — the Academic Ranking of World Universities, the QS World University Rankings, and the Times Higher Education World University Rankings (THE).</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcademic+Ranking+of+World+Universities&amp;rft.au=Philip+G.+Altbach&amp;rft.btitle=The+State+of+the+Rankings&amp;rft.date=2010-11-11&amp;rft.genre=unknown&amp;rft.pub=Inside+Higher+Ed&amp;rft_id=https%3A%2F%2Fwww.insidehighered.com%2Fviews%2F2010%2F11%2F11%2Faltbach&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-EU-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-EU_9-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150109003645/http://lajeunepolitique.com/2013/08/29/shanghai-academic-ranking-a-french-controversy/">"<span style="padding-left:0.2em;">"</span>Shanghai Academic Ranking: a French Controversy" by Marc Goetzmann, for ''La Jeune Politique''"</a>. Lajeunepolitique.com. 29 August 2013. Archived from <a rel="nofollow" class="external text" href="http://lajeunepolitique.com/2013/08/29/shanghai-academic-ranking-a-french-controversy/">the original</a> on 9 January 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">9 June</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcademic+Ranking+of+World+Universities&amp;rft.btitle=%22Shanghai+Academic+Ranking%3A+a+French+Controversy%22+by+Marc+Goetzmann%2C+for+%27%26%2339%3BLa+Jeune+Politique%27%26%2339%3B&amp;rft.date=2013-08-29&amp;rft.genre=unknown&amp;rft.pub=Lajeunepolitique.com&amp;rft_id=http%3A%2F%2Flajeunepolitique.com%2F2013%2F08%2F29%2Fshanghai-academic-ranking-a-french-controversy%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-HEPI-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-HEPI_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-HEPI_10-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Bahram Bekhradnia (15 December 2016). <a rel="nofollow" class="external text" href="http://www.hepi.ac.uk/wp-content/uploads/2016/12/Hepi_International-university-rankings-For-good-or-for-ill-REPORT-89-10_12_16_Screen.pdf">"International university rankings: For good or ill?"</a> <span style="font-size:85%;">(PDF)</span>. Higher Education Policy Institute. p.&#160;16<span class="reference-accessdate">. Retrieved <span class="nowrap">10 June</span> 2017</span>. <q>ARWU presents a further data issue. Whereas in the case of the other rankings the results are adjusted to take account of the size of institutions, hardly any such adjustment is made by ARWU. So there is a distortion in favour of large institutions. If two institutions were to merge, the very fact of merger would mean that the merged institution would do nearly twice as well as either of the individual institutions prior to merger, although nothing else had changed.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcademic+Ranking+of+World+Universities&amp;rft.au=Bahram+Bekhradnia&amp;rft.btitle=International+university+rankings%3A+For+good+or+ill%3F&amp;rft.date=2016-12-15&amp;rft.genre=unknown&amp;rft.pages=16&amp;rft.pub=Higher+Education+Policy+Institute&amp;rft_id=http%3A%2F%2Fwww.hepi.ac.uk%2Fwp-content%2Fuploads%2F2016%2F12%2FHepi_International-university-rankings-For-good-or-for-ill-REPORT-89-10_12_16_Screen.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.shanghairanking.com/ARWU-Methodology-2014.html">"ARWU – Methodology"</a>. Shanghai Ranking Consultancy. 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">30 January</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcademic+Ranking+of+World+Universities&amp;rft.btitle=ARWU+%E2%80%93+Methodology&amp;rft.date=2014&amp;rft.genre=unknown&amp;rft.pub=Shanghai+Ranking+Consultancy&amp;rft_id=http%3A%2F%2Fwww.shanghairanking.com%2FARWU-Methodology-2014.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://rss.economist.com/node/4340005">"A world of opportunity"</a>. <i>The Economics</i>. 8 September 2005<span class="reference-accessdate">. Retrieved <span class="nowrap">30 January</span> 2015</span>. <q>It is no accident that the most widely used annual ranking of the world's research universities, the Shanghai index, is produced by a Chinese university.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcademic+Ranking+of+World+Universities&amp;rft.btitle=A+world+of+opportunity&amp;rft.date=2005-09-08&amp;rft.genre=unknown&amp;rft.pub=%27%27The+Economics%27%27&amp;rft_id=http%3A%2F%2Frss.economist.com%2Fnode%2F4340005&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://chronicle.com/article/International-Group-Announces/124882/">"International Group Announces Audit of University Rankings"</a>. <i>The Chronicle of Higher Education</i>. 10 October 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">30 January</span> 2015</span>. <q>...Shanghai Jiao Tong University, which produces the best-known and most influential global ranking of universities...</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcademic+Ranking+of+World+Universities&amp;rft.btitle=International+Group+Announces+Audit+of+University+Rankings&amp;rft.date=2010-10-10&amp;rft.genre=unknown&amp;rft.pub=%27%27The+Chronicle+of+Higher+Education%27%27&amp;rft_id=http%3A%2F%2Fchronicle.com%2Farticle%2FInternational-Group-Announces%2F124882%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://ec.europa.eu/research/headlines/news/article_03_12_31_en.html">"Chinese study ranks world's top 500 universities"</a>. European Research Headlines. 2003<span class="reference-accessdate">. Retrieved <span class="nowrap">4 February</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcademic+Ranking+of+World+Universities&amp;rft.btitle=Chinese+study+ranks+world%27s+top+500+universities&amp;rft.date=2003&amp;rft.genre=unknown&amp;rft.pub=European+Research+Headlines&amp;rft_id=http%3A%2F%2Fec.europa.eu%2Fresearch%2Fheadlines%2Fnews%2Farticle_03_12_31_en.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://books.google.com/books?id=sCdfZMxf8usC&amp;pg=PA26&amp;lpg=PA26&amp;dq=Chris+Patten+ARWU&amp;source=bl&amp;ots=aMsoH0hjQX&amp;sig=meJ1pOwXCLWP3O_O1N8CwLWke9Y&amp;hl=zh-TW&amp;sa=X&amp;ei=qKLLVKD9CIG0mwWI44GQDg&amp;ved=0CFoQ6AEwCA#v=onepage&amp;q=Chris%20Patten%20ARWU&amp;f=false">"Rankings and Accountability in Higher Education: Uses and Misuses"</a>. United Nations Educational. 2013. p.&#160;26<span class="reference-accessdate">. Retrieved <span class="nowrap">30 January</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcademic+Ranking+of+World+Universities&amp;rft.btitle=Rankings+and+Accountability+in+Higher+Education%3A+Uses+and+Misuses&amp;rft.date=2013&amp;rft.genre=unknown&amp;rft.pages=26&amp;rft.pub=United+Nations+Educational&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DsCdfZMxf8usC%26pg%3DPA26%26lpg%3DPA26%26dq%3DChris%2BPatten%2BARWU%26source%3Dbl%26ots%3DaMsoH0hjQX%26sig%3DmeJ1pOwXCLWP3O_O1N8CwLWke9Y%26hl%3Dzh-TW%26sa%3DX%26ei%3DqKLLVKD9CIG0mwWI44GQDg%26ved%3D0CFoQ6AEwCA%23v%3Donepage%26q%3DChris%2520Patten%2520ARWU%26f%3Dfalse&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web">Philip G. Altbach (11 September 2010). <a rel="nofollow" class="external text" href="https://www.insidehighered.com/views/2010/11/11/altbach">"The State of the Rankings"</a>. INSIDE HIGHER ED<span class="reference-accessdate">. Retrieved <span class="nowrap">30 January</span> 2015</span>. <q>Nonetheless, AWRU's consistency, clarity of purpose, and transparency are significant advantages.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcademic+Ranking+of+World+Universities&amp;rft.au=Philip+G.+Altbach&amp;rft.btitle=The+State+of+the+Rankings&amp;rft.date=2010-09-11&amp;rft.genre=unknown&amp;rft.pub=INSIDE+HIGHER+ED&amp;rft_id=https%3A%2F%2Fwww.insidehighered.com%2Fviews%2F2010%2F11%2F11%2Faltbach&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.timeshighereducation.com/news/academic-ranking-of-world-universities-2013-released/2006515.article">"Academic Ranking of World Universities 2013 released"</a>. <i>Times Higher Education (THE)</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-01-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcademic+Ranking+of+World+Universities&amp;rft.atitle=Academic+Ranking+of+World+Universities+2013+released&amp;rft.genre=unknown&amp;rft.jtitle=Times+Higher+Education+%28THE%29&amp;rft_id=https%3A%2F%2Fwww.timeshighereducation.com%2Fnews%2Facademic-ranking-of-world-universities-2013-released%2F2006515.article&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation journal">J. Scott Armstrong and Tad Sperry (1994). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20100620223714/http://marketing.wharton.upenn.edu/documents/research/Business%20School%20Prestige.pdf">"Business School Prestige: Research versus Teaching"</a> <span style="font-size:85%;">(PDF)</span>. <i>Energy &amp; Environment</i>. <b>18</b> (2): 13–43. Archived from <a rel="nofollow" class="external text" href="http://marketing.wharton.upenn.edu/documents/research/Business%20School%20Prestige.pdf">the original</a> <span style="font-size:85%;">(PDF)</span> on 2010-06-20.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcademic+Ranking+of+World+Universities&amp;rft.atitle=Business+School+Prestige%3A+Research+versus+Teaching&amp;rft.au=J.+Scott+Armstrong+and+Tad+Sperry&amp;rft.date=1994&amp;rft.genre=article&amp;rft.issue=2&amp;rft.jtitle=Energy+%26+Environment&amp;rft.pages=13-43&amp;rft.volume=18&amp;rft_id=http%3A%2F%2Fmarketing.wharton.upenn.edu%2Fdocuments%2Fresearch%2FBusiness%2520School%2520Prestige.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Ioanides-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-Ioanides_21-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.biomedcentral.com/content/pdf/1741-7015-5-30.pdf">"1741-7015-5-30.fm"</a> <span style="font-size:85%;">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">9 June</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcademic+Ranking+of+World+Universities&amp;rft.btitle=1741-7015-5-30.fm&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.biomedcentral.com%2Fcontent%2Fpdf%2F1741-7015-5-30.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation journal">Răzvan V. Florian (17 June 2007). <a rel="nofollow" class="external text" href="https://link.springer.com/article/10.1007%2Fs11192-007-1712-1">"Irreproducibility of the results of the Shanghai academic ranking of world universities"</a>. <i>Scientometrics</i>. <b>72</b> (1): 25–32. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1007%2Fs11192-007-1712-1">10.1007/s11192-007-1712-1</a><span class="reference-accessdate">. Retrieved <span class="nowrap">30 January</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcademic+Ranking+of+World+Universities&amp;rft.atitle=Irreproducibility+of+the+results+of+the+Shanghai+academic+ranking+of+world+universities&amp;rft.au=R%C4%83zvan+V.+Florian&amp;rft.date=2007-06-17&amp;rft.genre=article&amp;rft.issue=1&amp;rft.jtitle=Scientometrics&amp;rft.pages=25-32&amp;rft.volume=72&amp;rft_id=https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%252Fs11192-007-1712-1&amp;rft_id=info%3Adoi%2F10.1007%2Fs11192-007-1712-1&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation journal">Domingo Docampo (1 July 2012). <a rel="nofollow" class="external text" href="https://link.springer.com/article/10.1007/s11192-012-0801-y">"Reproducibility of the results of the Shanghai academic ranking of world universities"</a>. <i>Scientometrics</i>. <b>94</b> (2): 567–587. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1007%2Fs11192-012-0801-y">10.1007/s11192-012-0801-y</a><span class="reference-accessdate">. Retrieved <span class="nowrap">19 May</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcademic+Ranking+of+World+Universities&amp;rft.atitle=Reproducibility+of+the+results+of+the+Shanghai+academic+ranking+of+world+universities&amp;rft.au=Domingo+Docampo&amp;rft.date=2012-07-01&amp;rft.genre=article&amp;rft.issue=2&amp;rft.jtitle=Scientometrics&amp;rft.pages=567-587&amp;rft.volume=94&amp;rft_id=https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs11192-012-0801-y&amp;rft_id=info%3Adoi%2F10.1007%2Fs11192-012-0801-y&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation web">Jean-Charles Billaut, Denis Bouyssou &amp; Philippe Vincke. <a rel="nofollow" class="external text" href="https://hal.archives-ouvertes.fr/hal-00388319/fr/">"Should you believe in the Shanghai ranking?"</a>. CCSD<span class="reference-accessdate">. Retrieved <span class="nowrap">30 January</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcademic+Ranking+of+World+Universities&amp;rft.au=Jean-Charles+Billaut%2C+Denis+Bouyssou+%26+Philippe+Vincke&amp;rft.btitle=Should+you+believe+in+the+Shanghai+ranking%3F&amp;rft.genre=unknown&amp;rft.pub=CCSD&amp;rft_id=https%3A%2F%2Fhal.archives-ouvertes.fr%2Fhal-00388319%2Ffr%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-EU2-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-EU2_25-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://ljpol.com/shanghai-academic-ranking-a-french-controversy/">"<span style="padding-left:0.2em;">"</span>Shanghai Academic Ranking: a French Controversy" by Marc Goetzmann, for ''La Jeune Politique''"</a>. Lajeunepolitique.com. 29 August 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">9 June</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcademic+Ranking+of+World+Universities&amp;rft.btitle=%22Shanghai+Academic+Ranking%3A+a+French+Controversy%22+by+Marc+Goetzmann%2C+for+%27%26%2339%3BLa+Jeune+Politique%27%26%2339%3B&amp;rft.date=2013-08-29&amp;rft.genre=unknown&amp;rft.pub=Lajeunepolitique.com&amp;rft_id=http%3A%2F%2Fljpol.com%2Fshanghai-academic-ranking-a-french-controversy%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation web">Spongenberg, Helena (5 June 2014). <a rel="nofollow" class="external text" href="http://euobserver.com/881/29189">"EUobserver / EU to test new university ranking in 2010"</a>. Euobserver.com<span class="reference-accessdate">. Retrieved <span class="nowrap">9 June</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcademic+Ranking+of+World+Universities&amp;rft.aufirst=Helena&amp;rft.aulast=Spongenberg&amp;rft.btitle=EUobserver+%2F+EU+to+test+new+university+ranking+in+2010&amp;rft.date=2014-06-05&amp;rft.genre=unknown&amp;rft.pub=Euobserver.com&amp;rft_id=http%3A%2F%2Feuobserver.com%2F881%2F29189&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-lemonde-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-lemonde_27-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Dagorn, Gary (16 August 2016). <a rel="nofollow" class="external text" href="http://www.lemonde.fr/les-decodeurs/article/2016/08/16/universites-le-classement-de-shanghai-fortement-discute_4983511_4355770.html">"Universités&#160;: pourquoi le classement de Shanghaï n’est pas un exercice sérieux"</a> (in French). lemonde.fr<span class="reference-accessdate">. Retrieved <span class="nowrap">17 August</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcademic+Ranking+of+World+Universities&amp;rft.aufirst=Gary&amp;rft.aulast=Dagorn&amp;rft.btitle=Universit%C3%A9s+%3A+pourquoi+le+classement+de+Shangha%C3%AF+n%E2%80%99est+pas+un+exercice+s%C3%A9rieux&amp;rft.date=2016-08-16&amp;rft.genre=unknown&amp;rft.pub=lemonde.fr&amp;rft_id=http%3A%2F%2Fwww.lemonde.fr%2Fles-decodeurs%2Farticle%2F2016%2F08%2F16%2Funiversites-le-classement-de-shanghai-fortement-discute_4983511_4355770.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-diplo-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-diplo_28-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Gérand, Christelle (September 2016). <a rel="nofollow" class="external text" href="https://www.monde-diplomatique.fr/2016/09/GERAND/56207">"Aix-Marseille, laboratoire de la fusion des universités"</a> (in French). www.monde-diplomatique.fr<span class="reference-accessdate">. Retrieved <span class="nowrap">8 September</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcademic+Ranking+of+World+Universities&amp;rft.aufirst=Christelle&amp;rft.aulast=G%C3%A9rand&amp;rft.btitle=Aix-Marseille%2C+laboratoire+de+la+fusion+des+universit%C3%A9s&amp;rft.date=2016-09&amp;rft.genre=unknown&amp;rft.pub=www.monde-diplomatique.fr&amp;rft_id=https%3A%2F%2Fwww.monde-diplomatique.fr%2F2016%2F09%2FGERAND%2F56207&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.shanghairanking.com/ARWU2017.html">"Academic Ranking of World Universities 2017"</a>. Shanghai Ranking Consultancy. 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">16 August</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcademic+Ranking+of+World+Universities&amp;rft.btitle=Academic+Ranking+of+World+Universities+2017&amp;rft.date=2017&amp;rft.genre=unknown&amp;rft.pub=Shanghai+Ranking+Consultancy&amp;rft_id=http%3A%2F%2Fwww.shanghairanking.com%2FARWU2017.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.shanghairanking.com/Alternative_Ranking_Excluding_Award_Factor/Excluding_Award_Factor2014.html">"Alternative Ranking 2014 ( Excluding Award Factor ) ( Excluding Award Factor )"</a>. Shanghai Ranking Consultancy. 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">30 January</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcademic+Ranking+of+World+Universities&amp;rft.btitle=Alternative+Ranking+2014+%28+Excluding+Award+Factor+%29+%28+Excluding+Award+Factor+%29&amp;rft.date=2014&amp;rft.genre=unknown&amp;rft.pub=Shanghai+Ranking+Consultancy&amp;rft_id=http%3A%2F%2Fwww.shanghairanking.com%2FAlternative_Ranking_Excluding_Award_Factor%2FExcluding_Award_Factor2014.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.shanghairanking.com/Alternative_Ranking_Excluding_Award_Factor/Excluding_Award_Factor2015.html">"Alternative Ranking 2015 ( Excluding Award Factor )"</a>. Shanghai Ranking Consultancy. 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">4 September</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcademic+Ranking+of+World+Universities&amp;rft.btitle=Alternative+Ranking+2015+%28+Excluding+Award+Factor+%29&amp;rft.date=2015&amp;rft.genre=unknown&amp;rft.pub=Shanghai+Ranking+Consultancy&amp;rft_id=http%3A%2F%2Fwww.shanghairanking.com%2FAlternative_Ranking_Excluding_Award_Factor%2FExcluding_Award_Factor2015.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-fields-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-fields_33-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.shanghairanking.com/SubjectMathematics2014.html">"Academic Rankings of World Universities in subject fields"</a>. Shanghai Ranking Consultancy. 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">31 January</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcademic+Ranking+of+World+Universities&amp;rft.btitle=Academic+Rankings+of+World+Universities+in+subject+fields&amp;rft.date=2014&amp;rft.genre=unknown&amp;rft.pub=Shanghai+Ranking+Consultancy&amp;rft_id=http%3A%2F%2Fwww.shanghairanking.com%2FSubjectMathematics2014.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-specific-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-specific_34-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.shanghairanking.com/SubjectMathematics2014.html">"Academic Rankings of World Universities in specific subjects"</a>. Shanghai Ranking Consultancy. 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">31 January</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcademic+Ranking+of+World+Universities&amp;rft.btitle=Academic+Rankings+of+World+Universities+in+specific+subjects&amp;rft.date=2014&amp;rft.genre=unknown&amp;rft.pub=Shanghai+Ranking+Consultancy&amp;rft_id=http%3A%2F%2Fwww.shanghairanking.com%2FSubjectMathematics2014.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.shanghairanking.com/Greater_China_Ranking/Greater-China-Ranking-Methodology-2014.html">"Greater China Ranking – Methodology"</a>. Shanghai Ranking Consultancy. 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">31 January</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcademic+Ranking+of+World+Universities&amp;rft.btitle=Greater+China+Ranking+%E2%80%93+Methodology&amp;rft.date=2014&amp;rft.genre=unknown&amp;rft.pub=Shanghai+Ranking+Consultancy&amp;rft_id=http%3A%2F%2Fwww.shanghairanking.com%2FGreater_China_Ranking%2FGreater-China-Ranking-Methodology-2014.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.shanghairanking.com/Greater_China_Ranking/Greater_China_Ranking2014.html">"Greater China Rankings"</a>. Shanghai Ranking Consultancy. 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">31 January</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcademic+Ranking+of+World+Universities&amp;rft.btitle=Greater+China+Rankings&amp;rft.date=2014&amp;rft.genre=unknown&amp;rft.pub=Shanghai+Ranking+Consultancy&amp;rft_id=http%3A%2F%2Fwww.shanghairanking.com%2FGreater_China_Ranking%2FGreater_China_Ranking2014.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Academic_Ranking_of_World_Universities&amp;action=edit&amp;section=15" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.shanghairanking.com/">Academic Ranking of World Universities Website</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.statsilk.com/maps/where-are-worlds-top-universities-interactive-maps-comparing-three-rankings-arwu-the-qs">Interactive maps comparing the ARWU, Times Higher Education and QS World University Rankings</a></li>
+<li>Jambor, Paul Z. <a rel="nofollow" class="external text" href="http://www.eric.ed.gov/ERICWebPortal/search/recordDetails.jsp?searchtype=keyword&amp;pageSize=10&amp;ERICExtSearch_SearchValue_0=jambor+paul&amp;eric_displayStartCount=1&amp;ERICExtSearch_SearchType_0=kw&amp;_pageLabel=RecordDetails&amp;objectId=0900019b803cd623&amp;accno=ED506632&amp;_nfls=false">'The Changing Dynamics of PhDs and the Future of Higher Educational Development in Asia and the Rest of the World'</a> Department of Education – The United States of America: Educational Resources Information Center, September 26, 2009 (Accessed in October, 2009)</li>
+<li>Csizmazia Roland A., Jambor, Paul Z. <a rel="nofollow" class="external text" href="http://hrmars.com/hrmars_papers/Korean_Higher_Education_on_the_Rise_Time_to_Learn_From_the_Success.pdf">"Korean Higher Education on the Rise: Time to Learn From the Success – Comparative Research at the Tertiary Education Level"</a>, Human Resource Management Academic Research Society: International Journal of Academic Research in Progressive Education and Development,Volume 3, Issue 2 (March, 2014)</li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="University_ranking_systems" style="padding:3px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:University_ranking_systems" title="Template:University ranking systems"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:University_ranking_systems" title="Template talk:University ranking systems"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:University_ranking_systems&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="University_ranking_systems" style="font-size:114%;margin:0 4em"><a href="/wiki/College_and_university_rankings" title="College and university rankings">University ranking systems</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;text-align: left;">Global</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-selflink selflink">Academic Ranking of World Universities</a></li>
+<li><a href="/wiki/CWTS_Leiden_Ranking" title="CWTS Leiden Ranking">CWTS Leiden Ranking</a></li>
+<li><a href="/wiki/College_and_university_rankings#Global_University_Ranking" title="College and university rankings">Global University Ranking</a></li>
+<li><a href="/wiki/Mines_ParisTech:_Professional_Ranking_of_World_Universities" title="Mines ParisTech: Professional Ranking of World Universities">Mines ParisTech: Professional Ranking of World Universities</a></li>
+<li><a href="/wiki/Performance_Ranking_of_Scientific_Papers_for_World_Universities" title="Performance Ranking of Scientific Papers for World Universities">Performance Ranking of Scientific Papers for World Universities</a></li>
+<li><a href="/wiki/QS_World_University_Rankings" title="QS World University Rankings">QS World University Rankings</a></li>
+<li><a href="/wiki/Round_University_Ranking" title="Round University Ranking">Round University Ranking</a></li>
+<li><a href="/wiki/Times_Higher_Education_World_University_Rankings" title="Times Higher Education World University Rankings">Times Higher Education World University Rankings</a></li>
+<li><a href="/wiki/University_Ranking_by_Academic_Performance" title="University Ranking by Academic Performance">University Ranking by Academic Performance</a></li>
+<li><a href="/wiki/U.S._News_%26_World_Report_Best_Global_University_Ranking" title="U.S. News &amp; World Report Best Global University Ranking">U.S. News &amp; World Report Best Global University Ranking</a></li>
+<li><a href="/wiki/Webometrics_Ranking_of_World_Universities" title="Webometrics Ranking of World Universities">Webometrics Ranking of World Universities</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;text-align: left;">Regional</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/College_and_university_rankings#European_Union" title="College and university rankings">European Union</a></li>
+<li><a href="/wiki/Rankings_of_universities_in_Latin_America" title="Rankings of universities in Latin America">Latin America</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;text-align: left;">National</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_universities_in_Australia#Rankings_of_universities" title="List of universities in Australia">Australia</a>
+<ul>
+<li><small><a href="/wiki/Excellence_in_Research_for_Australia" title="Excellence in Research for Australia">Excellence in Research for Australia</a></small></li>
+</ul>
+</li>
+<li><a href="/wiki/Rankings_of_universities_in_Brazil" title="Rankings of universities in Brazil">Brazil</a></li>
+<li><a href="/wiki/Rankings_of_universities_in_Canada" title="Rankings of universities in Canada">Canada</a>
+<ul>
+<li><small><i><a href="/wiki/Maclean%27s#University_Ranking_Guide" title="Maclean's">Maclean's</a></i></small></li>
+</ul>
+</li>
+<li><a href="/wiki/College_and_university_rankings#China" title="College and university rankings">China</a>
+<ul>
+<li><small><a href="/wiki/Chinese_university_ranking_(Wu_Shulian)" title="Chinese university ranking (Wu Shulian)">Wu Shulian</a></small></li>
+<li><small><a href="/wiki/Chinese_university_ranking_(CUAA)" title="Chinese university ranking (CUAA)">CUAA</a></small></li>
+<li><small><a href="/wiki/Chinese_university_ranking_(Netbig)" title="Chinese university ranking (Netbig)">Netbig</a></small></li>
+</ul>
+</li>
+<li><a href="/wiki/College_and_university_rankings#Germany" title="College and university rankings">Germany</a></li>
+<li><a href="/wiki/National_Institutional_Ranking_Framework" title="National Institutional Ranking Framework">India</a></li>
+<li><a href="/wiki/College_and_university_rankings#Japan" title="College and university rankings">Japan</a>
+<ul>
+<li><small><a href="/wiki/Going_broke_universities_%E2%80%93_Disappearing_universities" title="Going broke universities – Disappearing universities">Going broke universities – Disappearing universities</a></small></li>
+<li><small><a href="/wiki/Truly_Strong_Universities" title="Truly Strong Universities">Truly Strong Universities</a></small></li>
+</ul>
+</li>
+<li><a href="/wiki/Academic_rankings_of_universities_in_Mexico" title="Academic rankings of universities in Mexico">Mexico</a>
+<ul>
+<li><small><a href="/wiki/College_and_university_rankings#Mexico" title="College and university rankings">ECUM</a></small></li>
+</ul>
+</li>
+<li><a href="/wiki/Rankings_of_universities_in_Pakistan" title="Rankings of universities in Pakistan">Pakistan</a></li>
+<li><a href="/wiki/College_and_university_rankings#Russian_Federation" title="College and university rankings">Russia</a></li>
+<li><a href="/wiki/Rankings_of_universities_in_South_Africa" title="Rankings of universities in South Africa">South Africa</a></li>
+<li><a href="/wiki/Rankings_of_universities_in_the_United_Kingdom" title="Rankings of universities in the United Kingdom">United Kingdom</a></li>
+<li><a href="/wiki/Rankings_of_universities_in_the_United_States" title="Rankings of universities in the United States">United States</a>
+<ul>
+<li><small><a href="/wiki/Center_for_Measuring_University_Performance" title="Center for Measuring University Performance">Center for Measuring University Performance</a></small></li>
+<li><small><a href="/wiki/Faculty_Scholarly_Productivity_Index" title="Faculty Scholarly Productivity Index">Faculty Scholarly Productivity Index</a></small></li>
+<li><small><a href="/wiki/The_Princeton_Review#College_admissions" title="The Princeton Review">The Princeton Review</a></small></li>
+<li><small><i><a href="/wiki/U.S._News_%26_World_Report_Best_Colleges_Ranking" title="U.S. News &amp; World Report Best Colleges Ranking">U.S. News &amp; World Report Best Colleges Ranking</a></i></small></li>
+<li><small><i><a href="/wiki/Washington_Monthly#College_rankings" title="Washington Monthly">Washington Monthly</a></i></small></li>
+<li><small><i><a href="/wiki/What_Will_They_Learn%3F" title="What Will They Learn?">What Will They Learn?</a></i></small></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <b><a href="/wiki/Category:University_and_college_rankings" title="Category:University and college rankings">Category</a></b></div>
+</td>
+</tr>
+</table>
+</div>
+<div class="noprint metadata navbox" role="navigation" aria-label="Portals" style="font-weight:bold;padding:0.4em 2em">
+<ul style="margin:0.1em 0 0">
+<li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:Platopainting.jpg" class="image"><img alt="Platopainting.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Platopainting.jpg/17px-Platopainting.jpg" width="17" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Platopainting.jpg/26px-Platopainting.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Platopainting.jpg/34px-Platopainting.jpg 2x" data-file-width="328" data-file-height="400" /></a></span><a href="/wiki/Portal:University" title="Portal:University">University portal</a></span></li>
+<li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:Flag_of_the_People%27s_Republic_of_China.svg" class="image"><img alt="Flag of the People's Republic of China.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/24px-Flag_of_the_People%27s_Republic_of_China.svg.png" width="24" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/36px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/48px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span><a href="/wiki/Portal:China" title="Portal:China">China portal</a></span></li>
+</ul>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1207
+Cached time: 20171017124833
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.548 seconds
+Real time usage: 0.656 seconds
+Preprocessor visited node count: 4310/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 94453/2097152 bytes
+Template argument size: 4356/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 2/500
+Lua time usage: 0.254/10.000 seconds
+Lua memory usage: 5.16 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  559.406      1 -total
+ 48.73%  272.607      2 Template:Reflist
+ 32.61%  182.401     29 Template:Cite_web
+ 19.44%  108.755      1 Template:Infobox_magazine
+ 17.32%   96.872      1 Template:Infobox
+  7.26%   40.608     29 Template:Flagicon
+  6.63%   37.099      8 Template:Category_handler
+  6.43%   35.991      1 Template:Citation_needed
+  5.79%   32.375      6 Template:Lang
+  5.54%   30.963      1 Template:Fix
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:959184-0!canonical and timestamp 20171017124833 and revision id 805756203
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Academic_Ranking_of_World_Universities&amp;oldid=805756203">https://en.wikipedia.org/w/index.php?title=Academic_Ranking_of_World_Universities&amp;oldid=805756203</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:University_and_college_rankings" title="Category:University and college rankings">University and college rankings</a></li><li><a href="/wiki/Category:2003_introductions" title="Category:2003 introductions">2003 introductions</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_French-language_sources_(fr)" title="Category:CS1 French-language sources (fr)">CS1 French-language sources (fr)</a></li><li><a href="/wiki/Category:Articles_containing_explicitly_cited_English-language_text" title="Category:Articles containing explicitly cited English-language text">Articles containing explicitly cited English-language text</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_August_2017" title="Category:Articles with unsourced statements from August 2017">Articles with unsourced statements from August 2017</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Academic+Ranking+of+World+Universities" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Academic+Ranking+of+World+Universities" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Academic_Ranking_of_World_Universities" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Academic_Ranking_of_World_Universities" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Academic_Ranking_of_World_Universities">Read</a></span></li>
+							<li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Academic_Ranking_of_World_Universities&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Academic_Ranking_of_World_Universities&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Academic_Ranking_of_World_Universities" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Academic_Ranking_of_World_Universities" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Academic_Ranking_of_World_Universities&amp;oldid=805756203" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Academic_Ranking_of_World_Universities&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q478743" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Academic_Ranking_of_World_Universities&amp;id=805756203" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Academic+Ranking+of+World+Universities">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Academic+Ranking+of+World+Universities&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Academic_Ranking_of_World_Universities&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AA%D8%B5%D9%86%D9%8A%D9%81_%D8%A7%D9%84%D8%A3%D9%83%D8%A7%D8%AF%D9%8A%D9%85%D9%8A_%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A7%D8%AA_%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85" title="التصنيف الأكاديمي لجامعات العالم – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/D%C3%BCnya_universitetl%C9%99rinin_akademik_reytinqi" title="Dünya universitetlərinin akademik reytinqi – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%90%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%87%D0%BD%D0%B0_%D0%BA%D0%BB%D0%B0%D1%81%D0%B0%D1%86%D0%B8%D1%8F_%D0%BD%D0%B0_%D1%81%D0%B2%D0%B5%D1%82%D0%BE%D0%B2%D0%BD%D0%B8%D1%82%D0%B5_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82%D0%B8" title="Академична класация на световните университети – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Academic_Ranking_of_World_Universities" title="Academic Ranking of World Universities – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/%C5%A0anghajsk%C3%BD_%C5%BEeb%C5%99%C3%AD%C4%8Dek" title="Šanghajský žebříček – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Shanghai-Ranking" title="Shanghai-Ranking – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Academic_Ranking_of_World_Universities" title="Academic Ranking of World Universities – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%B1%D8%AA%D8%A8%D9%87%E2%80%8C%D8%A8%D9%86%D8%AF%DB%8C_%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C_%D8%AC%D9%87%D8%A7%D9%86" title="رتبه‌بندی دانشگاه‌های جهان – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Classement_acad%C3%A9mique_des_universit%C3%A9s_mondiales_par_l%27universit%C3%A9_Jiao_Tong_de_Shanghai" title="Classement académique des universités mondiales par l'université Jiao Tong de Shanghai – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%84%B8%EA%B3%84_%EB%8C%80%ED%95%99_%ED%95%99%EC%88%A0_%EC%88%9C%EC%9C%84" title="세계 대학 학술 순위 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/%C5%A0angajska_rang%E2%80%93ljestvica_sveu%C4%8Dili%C5%A1ta" title="Šangajska rang–ljestvica sveučilišta – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Peringkat_Akademis_Universitas_Dunia" title="Peringkat Akademis Universitas Dunia – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Akadem%C3%ADsk_r%C3%B6%C3%B0un_h%C3%A1sk%C3%B3la" title="Akademísk röðun háskóla – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Academic_Ranking_of_World_Universities" title="Academic Ranking of World Universities – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%93%D7%99%D7%A8%D7%95%D7%92_%D7%90%D7%A7%D7%93%D7%9E%D7%99_%D7%A9%D7%9C_%D7%90%D7%95%D7%A0%D7%99%D7%91%D7%A8%D7%A1%D7%99%D7%98%D7%90%D7%95%D7%AA_%D7%91%D7%A2%D7%95%D7%9C%D7%9D" title="דירוג אקדמי של אוניברסיטאות בעולם – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Pasaules_universit%C4%81%C5%A1u_akad%C4%93miskais_reitings" title="Pasaules universitāšu akadēmiskais reitings – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Academic_Ranking_of_World_Universities" title="Academic Ranking of World Universities – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E4%B8%96%E7%95%8C%E5%A4%A7%E5%AD%A6%E5%AD%A6%E8%A1%93%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0" title="世界大学学術ランキング – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Academic_Ranking_of_World_Universities" title="Academic Ranking of World Universities – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%D8%AF%D9%86%DB%8C%D8%A7_%D8%AF%DB%8C%D8%A7%DA%BA_%D9%88%D8%AF%DB%8C%D8%A7_%DB%8C%D9%88%D9%86%DB%8C%D9%88%D8%B1%D8%B3%D9%B9%DB%8C%D8%A7%DA%BA" title="دنیا دیاں ودیا یونیورسٹیاں – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Akademicki_Ranking_Uniwersytet%C3%B3w_%C5%9Awiata" title="Akademicki Ranking Uniwersytetów Świata – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Ranking_de_Xangai" title="Ranking de Xangai – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%90%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82%D0%BE%D0%B2_%D0%BC%D0%B8%D1%80%D0%B0" title="Академический рейтинг университетов мира – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Academic_Ranking_of_World_Universities" title="Academic Ranking of World Universities – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/%C5%A0anghajska_lestvica" title="Šanghajska lestvica – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%90%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D1%81%D0%BA%D0%BE_%D1%80%D0%B0%D0%BD%D0%B3%D0%B8%D1%80%D0%B0%D1%9A%D0%B5_%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D0%B7%D0%B8%D1%82%D0%B5%D1%82%D0%B0_%D1%83_%D1%81%D0%B2%D0%B5%D1%82%D1%83" title="Академско рангирање Универзитета у свету – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/D%C3%BCnya_%C3%BCniversitelerinin_akademik_s%C4%B1ralamas%C4%B1" title="Dünya üniversitelerinin akademik sıralaması – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%90%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D1%96%D1%87%D0%BD%D0%B8%D0%B9_%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3_%D1%83%D0%BD%D1%96%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82%D1%96%D0%B2_%D1%81%D0%B2%D1%96%D1%82%D1%83" title="Академічний рейтинг університетів світу – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vec"><a href="https://vec.wikipedia.org/wiki/Mejo_universit%C3%A0_al_mondo" title="Mejo università al mondo – Venetian" lang="vec" hreflang="vec" class="interlanguage-link-target">Vèneto</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/B%E1%BA%A3ng_x%E1%BA%BFp_h%E1%BA%A1ng_ch%E1%BA%A5t_l%C6%B0%E1%BB%A3ng_%C4%91%E1%BA%A1i_h%E1%BB%8Dc_th%E1%BA%BF_gi%E1%BB%9Bi" title="Bảng xếp hạng chất lượng đại học thế giới – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E4%B8%96%E7%95%8C%E5%A4%A7%E5%AD%A6%E5%AD%A6%E6%9C%AF%E6%8E%92%E5%90%8D" title="世界大学学术排名 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q478743#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 17 October 2017, at 12:48.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Academic_Ranking_of_World_Universities&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.548","walltime":"0.656","ppvisitednodes":{"value":4310,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":94453,"limit":2097152},"templateargumentsize":{"value":4356,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  559.406      1 -total"," 48.73%  272.607      2 Template:Reflist"," 32.61%  182.401     29 Template:Cite_web"," 19.44%  108.755      1 Template:Infobox_magazine"," 17.32%   96.872      1 Template:Infobox","  7.26%   40.608     29 Template:Flagicon","  6.63%   37.099      8 Template:Category_handler","  6.43%   35.991      1 Template:Citation_needed","  5.79%   32.375      6 Template:Lang","  5.54%   30.963      1 Template:Fix"]},"scribunto":{"limitreport-timeusage":{"value":"0.254","limit":"10.000"},"limitreport-memusage":{"value":5408149,"limit":52428800}},"cachereport":{"origin":"mw1207","timestamp":"20171017124833","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":63,"wgHostname":"mw1328"});});</script>
+	</body>
+</html>

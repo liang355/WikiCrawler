@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Harvard Board of Overseers - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Harvard_Board_of_Overseers","wgTitle":"Harvard Board of Overseers","wgCurRevisionId":762614568,"wgRevisionId":762614568,"wgArticleId":757545,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Harvard University"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Harvard_Board_of_Overseers","wgRelevantArticleId":757545,"wgRequestId":"WeURgwpAMFcAADbDtcUAAAAA","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q5676287","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.3"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Harvard_Board_of_Overseers"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Harvard_Board_of_Overseers&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Harvard_Board_of_Overseers&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Harvard_Board_of_Overseers"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Harvard_Board_of_Overseers rootpage-Harvard_Board_of_Overseers vector-experimental-print-styles vector-nav-directionality skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Harvard Board of Overseers</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>The <b>Harvard Board of Overseers</b> (more formally <b>The Honorable and Reverend the Board of Overseers</b>) is one of <a href="/wiki/Harvard_University" title="Harvard University">Harvard University</a>'s two governing boards. Although its function is more consultative and less hands-on than the <a href="/wiki/President_and_Fellows_of_Harvard_College" title="President and Fellows of Harvard College">President and Fellows of Harvard College</a>, the Board of Overseers is sometimes referred to as the "senior" governing board because its formation predates the fellows' 1650 incorporation.</p>
+<p>Today there are 30 overseers, all directly elected by <a href="/wiki/Alumni" class="mw-redirect" title="Alumni">alumni</a>; at one point the board was <a href="/wiki/Self-perpetuating" class="mw-redirect" title="Self-perpetuating">self-perpetuating</a>. Originally the overseers included, <i><a href="/wiki/Ex_officio_member" title="Ex officio member">ex officio</a></i>, the public officials and <a href="/wiki/Puritans" title="Puritans">Puritan</a> clergy of <a href="/wiki/Cambridge,_Massachusetts" title="Cambridge, Massachusetts">Cambridge</a> and the neighboring towns (hence the "honorable and reverend" of the title). Today, the President and the Treasurer of Harvard are <i>ex officio</i> members of the Board.</p>
+<p>Each year, Harvard alumni elect five new overseers to serve six-year terms. Overseer candidates are nominated by the Harvard Alumni Association (HAA), and those not nominated by the HAA (petition candidates) must gather signatures from Harvard alumni to appear on the ballot.</p>
+<p>Ambassador <a href="/wiki/Joseph_P._Kennedy,_Sr." class="mw-redirect" title="Joseph P. Kennedy, Sr.">Joseph P. Kennedy, Sr.</a> quipped famously of the election of <a href="/wiki/John_F._Kennedy" title="John F. Kennedy">John F. Kennedy</a>, his son, to the Board in 1957: "Now I know his religion won't keep him out of the <a href="/wiki/White_House" title="White House">White House</a>. If an <a href="/wiki/Irish_Catholic" title="Irish Catholic">Irish Catholic</a> can get elected as an Overseer at Harvard, he can get elected to anything."<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Functions"><span class="tocnumber">1</span> <span class="toctext">Functions</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Current_Overseers"><span class="tocnumber">2</span> <span class="toctext">Current Overseers</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Petition_candidates"><span class="tocnumber">3</span> <span class="toctext">Petition candidates</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Functions">Functions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harvard_Board_of_Overseers&amp;action=edit&amp;section=1" title="Edit section: Functions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>According to the Harvard website, the Board of Overseers complements the work of the President and Fellows (also known as the Corporation):<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<blockquote>
+<p>Drawing on the wide-ranging experience and expertise of its members, the Board exerts broad influence over the University’s strategic directions, provides counsel to the University leadership on priorities and plans, and has the power of consent to certain actions of the Corporation. The Board’s chief functions include superintendence of the visitation process, the principal mechanism for periodic external review of the quality and direction of the University’s schools, departments, and selected other programs and activities. The Board carries out this responsibility largely through the operation of more than fifty visiting committees, whose work is overseen by and reported to the Board.</p>
+</blockquote>
+<h2><span class="mw-headline" id="Current_Overseers">Current Overseers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harvard_Board_of_Overseers&amp;action=edit&amp;section=2" title="Edit section: Current Overseers">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>As of October, 2012, the Overseers are:<sup id="cite_ref-Harvard_Overseers_3-0" class="reference"><a href="#cite_note-Harvard_Overseers-3">[3]</a></sup></p>
+<ul>
+<li><a href="/w/index.php?title=Scott_A._Abell&amp;action=edit&amp;redlink=1" class="new" title="Scott A. Abell (page does not exist)">Scott A. Abell</a> (2012-2018), retired Chairman and CEO, Abell &amp; Associates, Inc.</li>
+<li><a href="/w/index.php?title=Flavia_B._de_Almeida&amp;action=edit&amp;redlink=1" class="new" title="Flavia B. de Almeida (page does not exist)">Flavia B. de Almeida</a> (2011-2017), Partner, <a href="/wiki/Monitor_Group" class="mw-redirect" title="Monitor Group">Monitor Group</a></li>
+<li><a href="/w/index.php?title=Photeine_Anagnostopoulos&amp;action=edit&amp;redlink=1" class="new" title="Photeine Anagnostopoulos (page does not exist)">Photeine Anagnostopoulos</a> (2009–2015), Chief Operating Officer, Chief Executive for Finance and Administrative Operations, <a href="/wiki/Newark_Public_Schools" title="Newark Public Schools">Newark Public School District</a></li>
+<li><a href="/w/index.php?title=Lynn_Wan-Hsin_Chang&amp;action=edit&amp;redlink=1" class="new" title="Lynn Wan-Hsin Chang (page does not exist)">Lynn Wan-Hsin Chang</a> (2008–2014), Concert violinist, violin professor</li>
+<li><a href="/wiki/Morgan_Chu" title="Morgan Chu">Morgan Chu</a> (2009–2015), Partner, <a href="/wiki/Irell_%26_Manella" title="Irell &amp; Manella">Irell &amp; Manella</a> LLP</li>
+<li><a href="/w/index.php?title=Walter_Clair&amp;action=edit&amp;redlink=1" class="new" title="Walter Clair (page does not exist)">Walter Clair</a> (2009–2015), Medical Director of Cardiac Electrophysiology and Assistant Professor of Medicine, <a href="/wiki/Vanderbilt_University_Medical_Center" title="Vanderbilt University Medical Center">Vanderbilt University Medical Center</a></li>
+<li><a href="/wiki/Ronald_Mourad_Cohen" title="Ronald Mourad Cohen">Ronald Cohen</a> (2007–2013), Chairman, <a href="/wiki/Portland_Trust" class="mw-redirect" title="Portland Trust">Portland Trust</a> &amp; Bridges Ventures, and Director of <a href="/wiki/Social_Finance_(US_non-profit_organization)" title="Social Finance (US non-profit organization)">Social Finance</a> Inc.</li>
+<li><a href="/w/index.php?title=Cheryl_Dorsey&amp;action=edit&amp;redlink=1" class="new" title="Cheryl Dorsey (page does not exist)">Cheryl Dorsey</a> (2010–2016), President, <a href="/wiki/Echoing_Green" title="Echoing Green">Echoing Green</a></li>
+<li><a href="/wiki/Anne_Fadiman" title="Anne Fadiman">Anne Fadiman</a> (2008–2014), Author; Francis Writer-in-Residence, <a href="/wiki/Yale_University" title="Yale University">Yale University</a></li>
+<li><a href="/w/index.php?title=Paul_J._Finnegan&amp;action=edit&amp;redlink=1" class="new" title="Paul J. Finnegan (page does not exist)">Paul J. Finnegan</a> (2008–2014), Co-CEO, <a href="/wiki/Madison_Dearborn_Partners" title="Madison Dearborn Partners">Madison Dearborn Partners</a></li>
+<li><a href="/wiki/Lucy_Fisher" title="Lucy Fisher">Lucy Fisher</a> (2007—2013), Film Producer and Co-Head, <a href="/wiki/Red_Wagon_Entertainment" class="mw-redirect" title="Red Wagon Entertainment">Red Wagon Entertainment</a></li>
+<li><a href="/wiki/Richard_W._Fisher" title="Richard W. Fisher">Richard W. Fisher</a> (2011-2017), President and Chief Executive Officer, <a href="/wiki/Federal_Reserve_Bank_of_Dallas" title="Federal Reserve Bank of Dallas">Federal Reserve Bank of Dallas</a></li>
+<li><a href="/w/index.php?title=Verna_C._Gibbs&amp;action=edit&amp;redlink=1" class="new" title="Verna C. Gibbs (page does not exist)">Verna C. Gibbs</a> (2011-2017), Professor of Surgery, <a href="/wiki/University_of_California,_San_Francisco" title="University of California, San Francisco">University of California, San Francisco</a>; Director, NoThing Left Behind</li>
+<li><a href="/wiki/Linda_Greenhouse" title="Linda Greenhouse">Linda Greenhouse</a> (2009–2015), Knight Distinguished Journalist-in-Residence and Joseph Goldstein Lecturer in Law, <a href="/wiki/Yale_University" title="Yale University">Yale University</a></li>
+<li><a href="/wiki/Eve_Higginbotham" title="Eve Higginbotham">Eve J. Higginbotham</a> (2008—2014), Visiting Scholar for Health Equity, <a href="/wiki/Association_of_American_Medical_Colleges" title="Association of American Medical Colleges">Association of American Medical Colleges</a></li>
+<li><a href="/wiki/Walter_Isaacson" title="Walter Isaacson">Walter Isaacson</a> (2010–2016), CEO, The <a href="/wiki/Aspen_Institute" title="Aspen Institute">Aspen Institute</a></li>
+<li><a href="/wiki/Nicholas_D._Kristof" class="mw-redirect" title="Nicholas D. Kristof">Nicholas D. Kristof</a> (2010–2016), Columnist, <i><a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a></i></li>
+<li><a href="/wiki/Michael_Lynton" title="Michael Lynton">Michael Lynton</a> (2012-2014), Chairman and CEO, Sony Pictures Entertainment; CEO, Sony Corporation of America</li>
+<li><a href="/w/index.php?title=Richard_A._Meserve&amp;action=edit&amp;redlink=1" class="new" title="Richard A. Meserve (page does not exist)">Richard A. Meserve</a> (2007–2013), President, <a href="/wiki/Carnegie_Institution_for_Science" title="Carnegie Institution for Science">Carnegie Institution for Science</a></li>
+<li><a href="/wiki/Karen_Nelson_Moore" title="Karen Nelson Moore">Karen Nelson Moore</a> (2010–2016), U.S. Circuit Judge, <a href="/wiki/United_States_Court_of_Appeals_for_the_Sixth_Circuit" title="United States Court of Appeals for the Sixth Circuit">U.S. Court of Appeals, Sixth Circuit</a></li>
+<li><a href="/w/index.php?title=Diana_Nelson&amp;action=edit&amp;redlink=1" class="new" title="Diana Nelson (page does not exist)">Diana Nelson</a> (2010–2016), Director, <a href="/wiki/Carlson_Companies" title="Carlson Companies">Carlson Companies</a></li>
+<li><a href="/wiki/David_W._Oxtoby" title="David W. Oxtoby">David W. Oxtoby</a> (2008–2014), President and Professor of Chemistry, <a href="/wiki/Pomona_College" title="Pomona College">Pomona College</a></li>
+<li><a href="/w/index.php?title=Tracy_Palandjian&amp;action=edit&amp;redlink=1" class="new" title="Tracy Palandjian (page does not exist)">Tracy P. Palandjian</a> (2012-2018), CEO <a href="/wiki/Social_Finance_US" class="mw-redirect" title="Social Finance US">Social Finance US</a></li>
+<li><a href="/w/index.php?title=Nicole_M._Parent&amp;action=edit&amp;redlink=1" class="new" title="Nicole M. Parent (page does not exist)">Nicole M. Parent</a> (2011-2017), Co-Founder and Managing Partner, Vertical Research Partners, LLC</li>
+<li><a href="/w/index.php?title=Swati_A._Piramal&amp;action=edit&amp;redlink=1" class="new" title="Swati A. Piramal (page does not exist)">Swati A. Piramal</a> (2012-2018), Vice Chairperson, <a href="/wiki/Piramal_Enterprises_Ltd" class="mw-redirect" title="Piramal Enterprises Ltd">Piramal Enterprises Ltd</a></li>
+<li><a href="/wiki/Cristi%C3%A1n_Samper" title="Cristián Samper">Cristián Samper</a> (2009–2015), Director, <a href="/wiki/National_Museum_of_Natural_History" title="National Museum of Natural History">National Museum of Natural History</a>, <a href="/wiki/Smithsonian_Institution" title="Smithsonian Institution">Smithsonian Institution</a></li>
+<li><a href="/wiki/Richard_R._Schrock" title="Richard R. Schrock">Richard R. Schrock</a> (2007–2013), Frederick G. Keyes Professor of Chemistry, <a href="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology">MIT</a></li>
+<li><a href="/w/index.php?title=Kathryn_A._Taylor&amp;action=edit&amp;redlink=1" class="new" title="Kathryn A. Taylor (page does not exist)">Kathryn A. Taylor</a> (2012-2018), CEO and Co-Chair, One PacificCoast Bank</li>
+<li><a href="/wiki/Stephanie_D._Wilson" class="mw-redirect" title="Stephanie D. Wilson">Stephanie Wilson</a> (2007–2013), Astronaut, <a href="/wiki/National_Aeronautics_and_Space_Administration" class="mw-redirect" title="National Aeronautics and Space Administration">National Aeronautics and Space Administration</a></li>
+<li><a href="/wiki/Kenji_Yoshino" title="Kenji Yoshino">Kenji Yoshino</a> (2011-2017), Chief Justice Earl Warren Professor of Constitutional Law, <a href="/wiki/New_York_University_School_of_Law" title="New York University School of Law">New York University School of Law</a></li>
+<li><a href="/wiki/Drew_Gilpin_Faust" title="Drew Gilpin Faust">Drew Gilpin Faust</a>, President, Harvard University (<i>ex officio</i>)</li>
+<li><a href="/wiki/James_F._Rothenberg" title="James F. Rothenberg">James F. Rothenberg</a>, Treasurer, Harvard University (<i>ex officio</i>)</li>
+</ul>
+<h2><span class="mw-headline" id="Petition_candidates">Petition candidates</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harvard_Board_of_Overseers&amp;action=edit&amp;section=3" title="Edit section: Petition candidates">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In the late-1980s, a group calling for a withdrawal of Harvard's investments in Apartheid South Africa helped nominate petition candidates for overseer elections. Known as the Harvard-Radcliffe Alumni Against Apartheid (HRAAA), this group supported the first petition candidate to win an overseer's seat.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> The HRAAA also backed South African Archbishop <a href="/wiki/Desmond_Tutu" title="Desmond Tutu">Desmond Tutu</a> in his successful bid to join the board in 1989.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Since Tutu's election in 1989 (and the altering of election rules<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>), no petition candidate has been successful, including <a href="/wiki/Barack_Obama" title="Barack Obama">Barack Obama</a>, who lost in 1991.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harvard_Board_of_Overseers&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Kenneth P. O'Donnell and David F. Powers with Joe McCarthy, "Johnny, We Hardly Knew Ye": Memories of John Fitzgerald Kennedy, p. 147, Little Brown and Company, New York, N.Y., 1972, Standard Book Number: 671-78640-7</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.harvard.edu/harvards-president-leadership">"Harvard's President and Leadership," harvard.edu, accessed 23 June 2012</a></span></li>
+<li id="cite_note-Harvard_Overseers-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Harvard_Overseers_3-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.harvard.edu/board-overseers">"Board of Overseers"</a>. Harvard University. n.d<span class="reference-accessdate">. Retrieved <span class="nowrap">September 30,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+Board+of+Overseers&amp;rft.btitle=Board+of+Overseers&amp;rft.genre=unknown&amp;rft.pub=Harvard+University&amp;rft_id=http%3A%2F%2Fwww.harvard.edu%2Fboard-overseers&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.thecrimson.com/article.aspx?ref=346877">http://www.thecrimson.com/article.aspx?ref=346877</a></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.thecrimson.com/article.aspx?ref=169989">http://www.thecrimson.com/article.aspx?ref=169989</a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.thecrimson.com/article.aspx?ref=230393">http://www.thecrimson.com/article.aspx?ref=230393</a></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://harvardmagazine.com/alumni-in-the-news/barack-obama-of-harvard-law-school">http://harvardmagazine.com/alumni-in-the-news/barack-obama-of-harvard-law-school</a></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harvard_Board_of_Overseers&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.harvard.edu/board-overseers">Harvard University Board of Overseers</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.provost.harvard.edu/institutional_research/Provost_-_FB2010_11_Sec01_1_Central_Administration.pdf">Central Administration</a> Governance of the University, from Office of the Provost</li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1320
+Cached time: 20171011111417
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.068 seconds
+Real time usage: 0.087 seconds
+Preprocessor visited node count: 245/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 1482/2097152 bytes
+Template argument size: 90/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/500
+Lua time usage: 0.022/10.000 seconds
+Lua memory usage: 1.37 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   61.434      1 Template:Reflist
+100.00%   61.434      1 -total
+ 79.40%   48.777      1 Template:Cite_web
+  3.08%    1.893      1 Template:Main_other
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:757545-0!canonical and timestamp 20171011111417 and revision id 762614568
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Harvard_Board_of_Overseers&amp;oldid=762614568">https://en.wikipedia.org/w/index.php?title=Harvard_Board_of_Overseers&amp;oldid=762614568</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Harvard_University" title="Category:Harvard University">Harvard University</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Harvard+Board+of+Overseers" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Harvard+Board+of+Overseers" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Harvard_Board_of_Overseers" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Harvard_Board_of_Overseers" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Harvard_Board_of_Overseers">Read</a></span></li>
+							<li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Harvard_Board_of_Overseers&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Harvard_Board_of_Overseers&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Harvard_Board_of_Overseers" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Harvard_Board_of_Overseers" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Harvard_Board_of_Overseers&amp;oldid=762614568" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Harvard_Board_of_Overseers&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5676287" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Harvard_Board_of_Overseers&amp;id=762614568" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Harvard+Board+of+Overseers">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Harvard+Board+of+Overseers&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Harvard_Board_of_Overseers&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+											</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5676287#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 29 January 2017, at 20:59.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Harvard_Board_of_Overseers&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.068","walltime":"0.087","ppvisitednodes":{"value":245,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":1482,"limit":2097152},"templateargumentsize":{"value":90,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   61.434      1 Template:Reflist","100.00%   61.434      1 -total"," 79.40%   48.777      1 Template:Cite_web","  3.08%    1.893      1 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.022","limit":"10.000"},"limitreport-memusage":{"value":1437185,"limit":52428800}},"cachereport":{"origin":"mw1320","timestamp":"20171011111417","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":62,"wgHostname":"mw1252"});});</script>
+	</body>
+</html>

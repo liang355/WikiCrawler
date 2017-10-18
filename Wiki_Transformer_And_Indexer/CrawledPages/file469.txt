@@ -1,0 +1,904 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Bamberg (district) - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Bamberg_(district)","wgTitle":"Bamberg (district)","wgCurRevisionId":787267984,"wgRevisionId":787267984,"wgArticleId":202588,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 German-language sources (de)","Articles needing additional references from March 2013","All articles needing additional references","Coordinates on Wikidata","Wikipedia articles with VIAF identifiers","Wikipedia articles with GND identifiers","Districts of Bavaria","Bamberg (district)"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Bamberg_(district)","wgRelevantArticleId":202588,"wgRequestId":"WeY8gQpAEKcAAEb3wkUAAAAL","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCoordinates":{"lat":49.83,"lon":10.83},"wgWikibaseItemId":"Q10444","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.3"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Bavaria_BA_%28district%29.svg/1200px-Bavaria_BA_%28district%29.svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Bamberg_(district)"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Bamberg_(district)&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Bamberg_(district)&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Bamberg_(district)"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Bamberg_district rootpage-Bamberg_district vector-experimental-print-styles vector-nav-directionality skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Bamberg (district)</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Bamberg_(district)&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(March 2013)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<table class="infobox geography vcard" style="width:22em;width:23em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap"><span class="fn org">Bamberg</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;background-color:#cddeff; font-weight:bold;"><span class="category"><a href="/wiki/Districts_of_Germany" title="Districts of Germany">District</a></span></td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Bavaria_BA_(district).svg" class="image"><img alt="Bavaria BA (district).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Bavaria_BA_%28district%29.svg/250px-Bavaria_BA_%28district%29.svg.png" width="250" height="249" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Bavaria_BA_%28district%29.svg/375px-Bavaria_BA_%28district%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Bavaria_BA_%28district%29.svg/500px-Bavaria_BA_%28district%29.svg.png 2x" data-file-width="4944" data-file-height="4924" /></a></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Country</th>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" />&#160;</span><a href="/wiki/Germany" title="Germany">Germany</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/States_of_Germany" title="States of Germany">State</a></th>
+<td><a href="/wiki/Bavaria" title="Bavaria">Bavaria</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Regierungsbezirk" title="Regierungsbezirk">Adm. region</a></th>
+<td><a href="/wiki/Upper_Franconia" title="Upper Franconia">Upper Franconia</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Capital</th>
+<td><a href="/wiki/Bamberg" title="Bamberg">Bamberg</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Area</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Total</th>
+<td>1,168&#160;km<sup>2</sup> (451&#160;sq&#160;mi)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Population <span style="font-weight:normal">(31 December 2015)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></span></th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Total</th>
+<td>145,570</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Density</th>
+<td>120/km<sup>2</sup> (320/sq&#160;mi)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/Time_zone" title="Time zone">Time zone</a></th>
+<td><a href="/wiki/Central_European_Time" title="Central European Time">CET</a> (<a href="/wiki/UTC%2B1" class="mw-redirect" title="UTC+1">UTC+1</a>)</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><span style="white-space:nowrap">&#160;•&#160;Summer (<a href="/wiki/Daylight_saving_time" title="Daylight saving time">DST</a>)</span></th>
+<td><a href="/wiki/Central_European_Summer_Time" title="Central European Summer Time">CEST</a> (<a href="/wiki/UTC%2B2" class="mw-redirect" title="UTC+2">UTC+2</a>)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/Vehicle_registration_plate" title="Vehicle registration plate">Vehicle registration</a></th>
+<td>BA</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Website</th>
+<td><a rel="nofollow" class="external text" href="http://www.landkreis-bamberg.de">landkreis-bamberg.de</a></td>
+</tr>
+</table>
+<p><b>Bamberg</b> is a <a href="/wiki/Districts_of_Germany" title="Districts of Germany"><i>Landkreis</i> (district)</a> in <a href="/wiki/Bavaria" title="Bavaria">Bavaria</a>, <a href="/wiki/Germany" title="Germany">Germany</a>. It surrounds but does not include the town of <a href="/wiki/Bamberg" title="Bamberg">Bamberg</a>. The district is bounded by the districts of (from the north and clockwise) <a href="/wiki/Lichtenfels_(district)" title="Lichtenfels (district)">Lichtenfels</a>, <a href="/wiki/Bayreuth_(district)" title="Bayreuth (district)">Bayreuth</a>, <a href="/wiki/Forchheim_(district)" title="Forchheim (district)">Forchheim</a>, <a href="/wiki/Erlangen-H%C3%B6chstadt" title="Erlangen-Höchstadt">Erlangen-Höchstadt</a>, <a href="/wiki/Neustadt_(Aisch)-Bad_Windsheim" title="Neustadt (Aisch)-Bad Windsheim">Neustadt (Aisch)-Bad Windsheim</a>, <a href="/wiki/Kitzingen_(district)" title="Kitzingen (district)">Kitzingen</a>, <a href="/wiki/Schweinfurt_(district)" title="Schweinfurt (district)">Schweinfurt</a> and <a href="/wiki/Ha%C3%9Fberge_(district)" title="Haßberge (district)">Haßberge</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Geography"><span class="tocnumber">2</span> <span class="toctext">Geography</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Coat_of_arms"><span class="tocnumber">3</span> <span class="toctext">Coat of arms</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Sights"><span class="tocnumber">4</span> <span class="toctext">Sights</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Towns_and_municipalities"><span class="tocnumber">5</span> <span class="toctext">Towns and municipalities</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#St.C3.A4dte"><span class="tocnumber">5.1</span> <span class="toctext">Städte</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#M.C3.A4rkte"><span class="tocnumber">5.2</span> <span class="toctext">Märkte</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Gemeinden"><span class="tocnumber">5.3</span> <span class="toctext">Gemeinden</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Verwaltungsgemeinschaften"><span class="tocnumber">5.4</span> <span class="toctext">Verwaltungsgemeinschaften</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bamberg_(district)&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The history of the district is linked with the history of Bamberg.</p>
+<p>In 1862 the districts of Bamberg-West and Bamberg-East were established. They were merged in 1929. The present borders were established in 1972, when portions of the adjoining district of <a href="/wiki/Erlangen-H%C3%B6chstadt" title="Erlangen-Höchstadt">Erlangen-Höchstadt</a> were annexed.</p>
+<h2><span class="mw-headline" id="Geography">Geography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bamberg_(district)&amp;action=edit&amp;section=2" title="Edit section: Geography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The district surrounds the town of Bamberg. The western half of the district is occupied by the <b>Steigerwald</b>, a hilly forest region. In the east there is the hill chain of the <a href="/wiki/Frankish_Alb" class="mw-redirect" title="Frankish Alb">Frankish Alb</a>. Between these regions the <a href="/wiki/Main_(river)" title="Main (river)">Main</a> River enters the district from the north, turns around just before the town of Bamberg and leaves to the northwest. The smaller <a href="/wiki/Regnitz" title="Regnitz">Regnitz</a> River comes from the south and meets the Main behind Bamberg.</p>
+<h2><span class="mw-headline" id="Coat_of_arms">Coat of arms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bamberg_(district)&amp;action=edit&amp;section=3" title="Edit section: Coat of arms">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table>
+<tr valign="top">
+<td><a href="/wiki/File:DEU_Landkreis_Bamberg_COA.svg" class="image" title="Coat of arms"><img alt="Coat of arms" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/DEU_Landkreis_Bamberg_COA.svg/100px-DEU_Landkreis_Bamberg_COA.svg.png" width="100" height="109" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/DEU_Landkreis_Bamberg_COA.svg/150px-DEU_Landkreis_Bamberg_COA.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/80/DEU_Landkreis_Bamberg_COA.svg/200px-DEU_Landkreis_Bamberg_COA.svg.png 2x" data-file-width="462" data-file-height="502" /></a></td>
+<td>The coat of arms displays the heraldic animals of Bamberg and Ebrach, a lion and a boar.</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Sights">Sights</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bamberg_(district)&amp;action=edit&amp;section=4" title="Edit section: Sights">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tr>
+<td><a href="/wiki/File:Juraschnecke_von_Harald_Mueller_3.jpg" class="image"><img alt="Juraschnecke von Harald Mueller 3.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Juraschnecke_von_Harald_Mueller_3.jpg/70px-Juraschnecke_von_Harald_Mueller_3.jpg" width="70" height="53" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Juraschnecke_von_Harald_Mueller_3.jpg/105px-Juraschnecke_von_Harald_Mueller_3.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Juraschnecke_von_Harald_Mueller_3.jpg/140px-Juraschnecke_von_Harald_Mueller_3.jpg 2x" data-file-width="2560" data-file-height="1920" /></a></td>
+<td>Fränkische Straße der Skulpturen</td>
+<td>Litzendorf</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Gesamtansicht_Guegel_03.jpg" class="image"><img alt="Gesamtansicht Guegel 03.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Gesamtansicht_Guegel_03.jpg/70px-Gesamtansicht_Guegel_03.jpg" width="70" height="53" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Gesamtansicht_Guegel_03.jpg/105px-Gesamtansicht_Guegel_03.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Gesamtansicht_Guegel_03.jpg/140px-Gesamtansicht_Guegel_03.jpg 2x" data-file-width="2560" data-file-height="1920" /></a></td>
+<td>Gügel</td>
+<td>Scheßlitz</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Giechburg_Juni_2007.JPG" class="image"><img alt="Giechburg Juni 2007.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Giechburg_Juni_2007.JPG/70px-Giechburg_Juni_2007.JPG" width="70" height="53" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Giechburg_Juni_2007.JPG/105px-Giechburg_Juni_2007.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Giechburg_Juni_2007.JPG/140px-Giechburg_Juni_2007.JPG 2x" data-file-width="1520" data-file-height="1152" /></a></td>
+<td>Giechburg</td>
+<td>Scheßlitz</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Kloster_Ebrach_BW_1.JPG" class="image"><img alt="Kloster Ebrach BW 1.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Kloster_Ebrach_BW_1.JPG/70px-Kloster_Ebrach_BW_1.JPG" width="70" height="111" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Kloster_Ebrach_BW_1.JPG/105px-Kloster_Ebrach_BW_1.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/08/Kloster_Ebrach_BW_1.JPG/140px-Kloster_Ebrach_BW_1.JPG 2x" data-file-width="2140" data-file-height="3388" /></a></td>
+<td>Kloster Ebrach</td>
+<td>Ebrach</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Greifenstein.jpg" class="image"><img alt="Greifenstein.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Greifenstein.jpg/70px-Greifenstein.jpg" width="70" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Greifenstein.jpg/105px-Greifenstein.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Greifenstein.jpg/140px-Greifenstein.jpg 2x" data-file-width="506" data-file-height="362" /></a></td>
+<td>Schloss Greifenstein</td>
+<td>Heiligenstadt</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Saengerehrenmal_Melkendorf_01.JPG" class="image"><img alt="Saengerehrenmal Melkendorf 01.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Saengerehrenmal_Melkendorf_01.JPG/70px-Saengerehrenmal_Melkendorf_01.JPG" width="70" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Saengerehrenmal_Melkendorf_01.JPG/105px-Saengerehrenmal_Melkendorf_01.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Saengerehrenmal_Melkendorf_01.JPG/140px-Saengerehrenmal_Melkendorf_01.JPG 2x" data-file-width="1988" data-file-height="1210" /></a></td>
+<td>Sängerehrenmal Melkendorf</td>
+<td>Litzendorf</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:LitzendorfKirche.JPG" class="image"><img alt="LitzendorfKirche.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/LitzendorfKirche.JPG/70px-LitzendorfKirche.JPG" width="70" height="47" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/LitzendorfKirche.JPG/105px-LitzendorfKirche.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/LitzendorfKirche.JPG/140px-LitzendorfKirche.JPG 2x" data-file-width="2160" data-file-height="1440" /></a></td>
+<td>St. Wenzeslaus</td>
+<td>Litzendorf</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Seehof-Parksicht.JPG" class="image"><img alt="Seehof-Parksicht.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Seehof-Parksicht.JPG/70px-Seehof-Parksicht.JPG" width="70" height="47" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Seehof-Parksicht.JPG/105px-Seehof-Parksicht.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/61/Seehof-Parksicht.JPG/140px-Seehof-Parksicht.JPG 2x" data-file-width="2586" data-file-height="1736" /></a></td>
+<td>Schloss Seehof</td>
+<td>Memmelsdorf</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Schloss_Weissenstein_3_ReiKi.jpg" class="image"><img alt="Schloss Weissenstein 3 ReiKi.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Schloss_Weissenstein_3_ReiKi.jpg/70px-Schloss_Weissenstein_3_ReiKi.jpg" width="70" height="39" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Schloss_Weissenstein_3_ReiKi.jpg/105px-Schloss_Weissenstein_3_ReiKi.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Schloss_Weissenstein_3_ReiKi.jpg/140px-Schloss_Weissenstein_3_ReiKi.jpg 2x" data-file-width="3780" data-file-height="2100" /></a></td>
+<td>Schloss Weißenstein</td>
+<td>Pommersfelden</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:HeiligenstadtOfr2000.jpg" class="image"><img alt="HeiligenstadtOfr2000.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HeiligenstadtOfr2000.jpg/70px-HeiligenstadtOfr2000.jpg" width="70" height="52" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HeiligenstadtOfr2000.jpg/105px-HeiligenstadtOfr2000.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HeiligenstadtOfr2000.jpg/140px-HeiligenstadtOfr2000.jpg 2x" data-file-width="431" data-file-height="322" /></a></td>
+<td>St.-Veit- und St.-Michaels-Kirche</td>
+<td>Heiligenstadt</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Towns_and_municipalities">Towns and municipalities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bamberg_(district)&amp;action=edit&amp;section=5" title="Edit section: Towns and municipalities">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>(in 2007)</p>
+<h3><span id="Städte"></span><span class="mw-headline" id="St.C3.A4dte">Städte</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bamberg_(district)&amp;action=edit&amp;section=6" title="Edit section: Städte">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<tr>
+<td><a href="/wiki/File:Wappen_Baunach.png" class="image"><img alt="Wappen Baunach.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Wappen_Baunach.png/40px-Wappen_Baunach.png" width="40" height="46" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Wappen_Baunach.png/60px-Wappen_Baunach.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Wappen_Baunach.png/80px-Wappen_Baunach.png 2x" data-file-width="143" data-file-height="163" /></a></td>
+<td><a href="/wiki/File:Baunach_im_Landkreis_Bamberg.png" class="image"><img alt="Baunach im Landkreis Bamberg.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Baunach_im_Landkreis_Bamberg.png/60px-Baunach_im_Landkreis_Bamberg.png" width="60" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Baunach_im_Landkreis_Bamberg.png/90px-Baunach_im_Landkreis_Bamberg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Baunach_im_Landkreis_Bamberg.png/120px-Baunach_im_Landkreis_Bamberg.png 2x" data-file-width="961" data-file-height="690" /></a></td>
+<td><a href="/wiki/Baunach" title="Baunach">Baunach</a></td>
+<td>3,909 inhabitants</td>
+<td>30.9&#160;km²</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Wappen_Hallstadt.png" class="image"><img alt="Wappen Hallstadt.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Wappen_Hallstadt.png/40px-Wappen_Hallstadt.png" width="40" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Wappen_Hallstadt.png/60px-Wappen_Hallstadt.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Wappen_Hallstadt.png/80px-Wappen_Hallstadt.png 2x" data-file-width="150" data-file-height="160" /></a></td>
+<td><a href="/wiki/File:Hallstadt_im_Landkreis_Bamberg.png" class="image"><img alt="Hallstadt im Landkreis Bamberg.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Hallstadt_im_Landkreis_Bamberg.png/60px-Hallstadt_im_Landkreis_Bamberg.png" width="60" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Hallstadt_im_Landkreis_Bamberg.png/90px-Hallstadt_im_Landkreis_Bamberg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Hallstadt_im_Landkreis_Bamberg.png/120px-Hallstadt_im_Landkreis_Bamberg.png 2x" data-file-width="961" data-file-height="690" /></a></td>
+<td><a href="/wiki/Hallstadt" title="Hallstadt">Hallstadt</a></td>
+<td>8,559 inhabitants</td>
+<td>14.5&#160;km²</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Wappen_Sche%C3%9Flitz.png" class="image"><img alt="Wappen Scheßlitz.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/Wappen_Sche%C3%9Flitz.png/40px-Wappen_Sche%C3%9Flitz.png" width="40" height="44" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/Wappen_Sche%C3%9Flitz.png/60px-Wappen_Sche%C3%9Flitz.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/62/Wappen_Sche%C3%9Flitz.png/80px-Wappen_Sche%C3%9Flitz.png 2x" data-file-width="551" data-file-height="609" /></a></td>
+<td><a href="/wiki/File:Schesslitz_im_Landkreis_Bamberg.png" class="image"><img alt="Schesslitz im Landkreis Bamberg.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Schesslitz_im_Landkreis_Bamberg.png/60px-Schesslitz_im_Landkreis_Bamberg.png" width="60" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Schesslitz_im_Landkreis_Bamberg.png/90px-Schesslitz_im_Landkreis_Bamberg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/35/Schesslitz_im_Landkreis_Bamberg.png/120px-Schesslitz_im_Landkreis_Bamberg.png 2x" data-file-width="961" data-file-height="690" /></a></td>
+<td><a href="/wiki/Sche%C3%9Flitz" title="Scheßlitz">Scheßlitz</a></td>
+<td>7,160 inhabitants</td>
+<td>94.9&#160;km²</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Wappen_von_Schl%C3%BCsselfeld.png" class="image"><img alt="Wappen von Schlüsselfeld.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Wappen_von_Schl%C3%BCsselfeld.png/40px-Wappen_von_Schl%C3%BCsselfeld.png" width="40" height="42" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Wappen_von_Schl%C3%BCsselfeld.png/60px-Wappen_von_Schl%C3%BCsselfeld.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Wappen_von_Schl%C3%BCsselfeld.png/80px-Wappen_von_Schl%C3%BCsselfeld.png 2x" data-file-width="196" data-file-height="207" /></a></td>
+<td><a href="/wiki/File:Schluesselfeld_im_Landkreis_Bamberg.png" class="image"><img alt="Schluesselfeld im Landkreis Bamberg.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Schluesselfeld_im_Landkreis_Bamberg.png/60px-Schluesselfeld_im_Landkreis_Bamberg.png" width="60" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Schluesselfeld_im_Landkreis_Bamberg.png/90px-Schluesselfeld_im_Landkreis_Bamberg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Schluesselfeld_im_Landkreis_Bamberg.png/120px-Schluesselfeld_im_Landkreis_Bamberg.png 2x" data-file-width="961" data-file-height="690" /></a></td>
+<td><a href="/wiki/Schl%C3%BCsselfeld" title="Schlüsselfeld">Schlüsselfeld</a></td>
+<td>5,753 inhabitants</td>
+<td>70.2&#160;km²</td>
+</tr>
+</table>
+<h3><span id="Märkte"></span><span class="mw-headline" id="M.C3.A4rkte">Märkte</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bamberg_(district)&amp;action=edit&amp;section=7" title="Edit section: Märkte">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<tr>
+<td><a href="/wiki/File:Wappen_Burgebrach.png" class="image"><img alt="Wappen Burgebrach.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Wappen_Burgebrach.png/40px-Wappen_Burgebrach.png" width="40" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Wappen_Burgebrach.png/60px-Wappen_Burgebrach.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/29/Wappen_Burgebrach.png/80px-Wappen_Burgebrach.png 2x" data-file-width="150" data-file-height="160" /></a></td>
+<td><a href="/wiki/File:Burgebrach_im_Landkreis_Bamberg.png" class="image"><img alt="Burgebrach im Landkreis Bamberg.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Burgebrach_im_Landkreis_Bamberg.png/60px-Burgebrach_im_Landkreis_Bamberg.png" width="60" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Burgebrach_im_Landkreis_Bamberg.png/90px-Burgebrach_im_Landkreis_Bamberg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Burgebrach_im_Landkreis_Bamberg.png/120px-Burgebrach_im_Landkreis_Bamberg.png 2x" data-file-width="961" data-file-height="690" /></a></td>
+<td><a href="/wiki/Burgebrach" title="Burgebrach">Burgebrach</a></td>
+<td>6,466 inhabitants</td>
+<td>87.9&#160;km²</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Wappen_Burgwindheim.png" class="image"><img alt="Wappen Burgwindheim.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Wappen_Burgwindheim.png/40px-Wappen_Burgwindheim.png" width="40" height="47" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Wappen_Burgwindheim.png/60px-Wappen_Burgwindheim.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/94/Wappen_Burgwindheim.png/80px-Wappen_Burgwindheim.png 2x" data-file-width="300" data-file-height="350" /></a></td>
+<td><a href="/wiki/File:Burgwindheim_im_Landkreis_Bamberg.png" class="image"><img alt="Burgwindheim im Landkreis Bamberg.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Burgwindheim_im_Landkreis_Bamberg.png/60px-Burgwindheim_im_Landkreis_Bamberg.png" width="60" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Burgwindheim_im_Landkreis_Bamberg.png/90px-Burgwindheim_im_Landkreis_Bamberg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Burgwindheim_im_Landkreis_Bamberg.png/120px-Burgwindheim_im_Landkreis_Bamberg.png 2x" data-file-width="961" data-file-height="690" /></a></td>
+<td><a href="/wiki/Burgwindheim" title="Burgwindheim">Burgwindheim</a></td>
+<td>1,431 inhabitants</td>
+<td>37.4&#160;km²</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Wappen_Buttenheim.png" class="image"><img alt="Wappen Buttenheim.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Wappen_Buttenheim.png/40px-Wappen_Buttenheim.png" width="40" height="44" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Wappen_Buttenheim.png/60px-Wappen_Buttenheim.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Wappen_Buttenheim.png/80px-Wappen_Buttenheim.png 2x" data-file-width="232" data-file-height="256" /></a></td>
+<td><a href="/wiki/File:Buttenheim_im_Landkreis_Bamberg.png" class="image"><img alt="Buttenheim im Landkreis Bamberg.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Buttenheim_im_Landkreis_Bamberg.png/60px-Buttenheim_im_Landkreis_Bamberg.png" width="60" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Buttenheim_im_Landkreis_Bamberg.png/90px-Buttenheim_im_Landkreis_Bamberg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Buttenheim_im_Landkreis_Bamberg.png/120px-Buttenheim_im_Landkreis_Bamberg.png 2x" data-file-width="961" data-file-height="690" /></a></td>
+<td><a href="/wiki/Buttenheim" title="Buttenheim">Buttenheim</a></td>
+<td>3,320 inhabitants</td>
+<td>30&#160;km²</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Wappen_von_Ebrach.png" class="image"><img alt="Wappen von Ebrach.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Wappen_von_Ebrach.png/40px-Wappen_von_Ebrach.png" width="40" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Wappen_von_Ebrach.png/60px-Wappen_von_Ebrach.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Wappen_von_Ebrach.png/80px-Wappen_von_Ebrach.png 2x" data-file-width="214" data-file-height="228" /></a></td>
+<td><a href="/wiki/File:Ebrach_im_Landkreis_Bamberg.png" class="image"><img alt="Ebrach im Landkreis Bamberg.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/Ebrach_im_Landkreis_Bamberg.png/60px-Ebrach_im_Landkreis_Bamberg.png" width="60" height="44" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/Ebrach_im_Landkreis_Bamberg.png/90px-Ebrach_im_Landkreis_Bamberg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/30/Ebrach_im_Landkreis_Bamberg.png/120px-Ebrach_im_Landkreis_Bamberg.png 2x" data-file-width="521" data-file-height="379" /></a></td>
+<td><a href="/wiki/Ebrach" title="Ebrach">Ebrach</a></td>
+<td>1,845 inhabitants</td>
+<td>29.6&#160;km²</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Heiligenstadt_in_Oberfranken_Gemeindewappen.png" class="image"><img alt="Heiligenstadt in Oberfranken Gemeindewappen.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Heiligenstadt_in_Oberfranken_Gemeindewappen.png/40px-Heiligenstadt_in_Oberfranken_Gemeindewappen.png" width="40" height="45" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Heiligenstadt_in_Oberfranken_Gemeindewappen.png/60px-Heiligenstadt_in_Oberfranken_Gemeindewappen.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Heiligenstadt_in_Oberfranken_Gemeindewappen.png/80px-Heiligenstadt_in_Oberfranken_Gemeindewappen.png 2x" data-file-width="656" data-file-height="736" /></a></td>
+<td><a href="/wiki/File:Heiligenstadt_im_Landkreis_Bamberg.png" class="image"><img alt="Heiligenstadt im Landkreis Bamberg.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Heiligenstadt_im_Landkreis_Bamberg.png/60px-Heiligenstadt_im_Landkreis_Bamberg.png" width="60" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Heiligenstadt_im_Landkreis_Bamberg.png/90px-Heiligenstadt_im_Landkreis_Bamberg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Heiligenstadt_im_Landkreis_Bamberg.png/120px-Heiligenstadt_im_Landkreis_Bamberg.png 2x" data-file-width="961" data-file-height="690" /></a></td>
+<td><a href="/wiki/Heiligenstadt_(Upper_Franconia)" class="mw-redirect" title="Heiligenstadt (Upper Franconia)">Heiligenstadt</a></td>
+<td>3,642 inhabitants</td>
+<td>76.7&#160;km²</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Wappen_von_Hirschaid.png" class="image"><img alt="Wappen von Hirschaid.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Wappen_von_Hirschaid.png/40px-Wappen_von_Hirschaid.png" width="40" height="44" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Wappen_von_Hirschaid.png/60px-Wappen_von_Hirschaid.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Wappen_von_Hirschaid.png/80px-Wappen_von_Hirschaid.png 2x" data-file-width="212" data-file-height="231" /></a></td>
+<td><a href="/wiki/File:Hirschaid_im_Landkreis_Bamberg.png" class="image"><img alt="Hirschaid im Landkreis Bamberg.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Hirschaid_im_Landkreis_Bamberg.png/60px-Hirschaid_im_Landkreis_Bamberg.png" width="60" height="44" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Hirschaid_im_Landkreis_Bamberg.png/90px-Hirschaid_im_Landkreis_Bamberg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Hirschaid_im_Landkreis_Bamberg.png/120px-Hirschaid_im_Landkreis_Bamberg.png 2x" data-file-width="521" data-file-height="379" /></a></td>
+<td><a href="/wiki/Hirschaid" title="Hirschaid">Hirschaid</a></td>
+<td>11,666 inhabitants</td>
+<td>41&#160;km²</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Wappen_von_Rattelsdorf.png" class="image"><img alt="Wappen von Rattelsdorf.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Wappen_von_Rattelsdorf.png/40px-Wappen_von_Rattelsdorf.png" width="40" height="42" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Wappen_von_Rattelsdorf.png/60px-Wappen_von_Rattelsdorf.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Wappen_von_Rattelsdorf.png/80px-Wappen_von_Rattelsdorf.png 2x" data-file-width="219" data-file-height="230" /></a></td>
+<td><a href="/wiki/File:Rattesldorf_im_Landkreis_Bamberg.png" class="image"><img alt="Rattesldorf im Landkreis Bamberg.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Rattesldorf_im_Landkreis_Bamberg.png/60px-Rattesldorf_im_Landkreis_Bamberg.png" width="60" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Rattesldorf_im_Landkreis_Bamberg.png/90px-Rattesldorf_im_Landkreis_Bamberg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/be/Rattesldorf_im_Landkreis_Bamberg.png/120px-Rattesldorf_im_Landkreis_Bamberg.png 2x" data-file-width="961" data-file-height="690" /></a></td>
+<td><a href="/wiki/Rattelsdorf" title="Rattelsdorf">Rattelsdorf</a></td>
+<td>4,531 inhabitants</td>
+<td>39.6&#160;km²</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:DEU_Zapfendorf_COA.svg" class="image"><img alt="DEU Zapfendorf COA.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/DEU_Zapfendorf_COA.svg/40px-DEU_Zapfendorf_COA.svg.png" width="40" height="45" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/DEU_Zapfendorf_COA.svg/60px-DEU_Zapfendorf_COA.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d8/DEU_Zapfendorf_COA.svg/80px-DEU_Zapfendorf_COA.svg.png 2x" data-file-width="711" data-file-height="793" /></a></td>
+<td><a href="/wiki/File:Zapfendorf_im_Landkreis_Bamberg.png" class="image"><img alt="Zapfendorf im Landkreis Bamberg.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/Zapfendorf_im_Landkreis_Bamberg.png/60px-Zapfendorf_im_Landkreis_Bamberg.png" width="60" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/Zapfendorf_im_Landkreis_Bamberg.png/90px-Zapfendorf_im_Landkreis_Bamberg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/40/Zapfendorf_im_Landkreis_Bamberg.png/120px-Zapfendorf_im_Landkreis_Bamberg.png 2x" data-file-width="961" data-file-height="690" /></a></td>
+<td><a href="/wiki/Zapfendorf" title="Zapfendorf">Zapfendorf</a></td>
+<td>5,042 inhabitants</td>
+<td>30.6&#160;km²</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Gemeinden">Gemeinden</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bamberg_(district)&amp;action=edit&amp;section=8" title="Edit section: Gemeinden">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<tr>
+<td><a href="/wiki/File:Wappen_Altendorf_(Oberfranken).png" class="image"><img alt="Wappen Altendorf (Oberfranken).png" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Wappen_Altendorf_%28Oberfranken%29.png/40px-Wappen_Altendorf_%28Oberfranken%29.png" width="40" height="44" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Wappen_Altendorf_%28Oberfranken%29.png/60px-Wappen_Altendorf_%28Oberfranken%29.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Wappen_Altendorf_%28Oberfranken%29.png/80px-Wappen_Altendorf_%28Oberfranken%29.png 2x" data-file-width="900" data-file-height="1000" /></a></td>
+<td><a href="/wiki/File:Altendorf_im_Landkreis_Bamberg.png" class="image"><img alt="Altendorf im Landkreis Bamberg.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Altendorf_im_Landkreis_Bamberg.png/60px-Altendorf_im_Landkreis_Bamberg.png" width="60" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Altendorf_im_Landkreis_Bamberg.png/90px-Altendorf_im_Landkreis_Bamberg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Altendorf_im_Landkreis_Bamberg.png/120px-Altendorf_im_Landkreis_Bamberg.png 2x" data-file-width="961" data-file-height="690" /></a></td>
+<td><a href="/wiki/Altendorf,_Upper_Franconia" title="Altendorf, Upper Franconia">Altendorf</a></td>
+<td>1,941 inhabitants</td>
+<td>8.6&#160;km²</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Wappen_Bischberg.png" class="image"><img alt="Wappen Bischberg.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Wappen_Bischberg.png/40px-Wappen_Bischberg.png" width="40" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Wappen_Bischberg.png/60px-Wappen_Bischberg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Wappen_Bischberg.png/80px-Wappen_Bischberg.png 2x" data-file-width="150" data-file-height="160" /></a></td>
+<td><a href="/wiki/File:Bischberg_im_Landkreis_Bamberg.png" class="image"><img alt="Bischberg im Landkreis Bamberg.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Bischberg_im_Landkreis_Bamberg.png/60px-Bischberg_im_Landkreis_Bamberg.png" width="60" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Bischberg_im_Landkreis_Bamberg.png/90px-Bischberg_im_Landkreis_Bamberg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/18/Bischberg_im_Landkreis_Bamberg.png/120px-Bischberg_im_Landkreis_Bamberg.png 2x" data-file-width="961" data-file-height="690" /></a></td>
+<td><a href="/wiki/Bischberg" title="Bischberg">Bischberg</a></td>
+<td>6,037 inhabitants</td>
+<td>17.5&#160;km²</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Wappen_Breiteng%C3%BC%C3%9Fbach.png" class="image"><img alt="Wappen Breitengüßbach.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Wappen_Breiteng%C3%BC%C3%9Fbach.png/40px-Wappen_Breiteng%C3%BC%C3%9Fbach.png" width="40" height="42" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Wappen_Breiteng%C3%BC%C3%9Fbach.png/60px-Wappen_Breiteng%C3%BC%C3%9Fbach.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Wappen_Breiteng%C3%BC%C3%9Fbach.png/80px-Wappen_Breiteng%C3%BC%C3%9Fbach.png 2x" data-file-width="226" data-file-height="237" /></a></td>
+<td><a href="/wiki/File:Breitenguessbach_im_Landkreis_Bamberg.png" class="image"><img alt="Breitenguessbach im Landkreis Bamberg.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Breitenguessbach_im_Landkreis_Bamberg.png/60px-Breitenguessbach_im_Landkreis_Bamberg.png" width="60" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Breitenguessbach_im_Landkreis_Bamberg.png/90px-Breitenguessbach_im_Landkreis_Bamberg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Breitenguessbach_im_Landkreis_Bamberg.png/120px-Breitenguessbach_im_Landkreis_Bamberg.png 2x" data-file-width="961" data-file-height="690" /></a></td>
+<td><a href="/wiki/Breiteng%C3%BC%C3%9Fbach" title="Breitengüßbach">Breitengüßbach</a></td>
+<td>4,614 inhabitants</td>
+<td>16.9&#160;km²</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Wappen_Frensdorf.png" class="image"><img alt="Wappen Frensdorf.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/Wappen_Frensdorf.png/40px-Wappen_Frensdorf.png" width="40" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/Wappen_Frensdorf.png/60px-Wappen_Frensdorf.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/16/Wappen_Frensdorf.png/80px-Wappen_Frensdorf.png 2x" data-file-width="150" data-file-height="160" /></a></td>
+<td><a href="/wiki/File:Frensdorf_im_Landkreis_Bamberg.png" class="image"><img alt="Frensdorf im Landkreis Bamberg.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Frensdorf_im_Landkreis_Bamberg.png/60px-Frensdorf_im_Landkreis_Bamberg.png" width="60" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Frensdorf_im_Landkreis_Bamberg.png/90px-Frensdorf_im_Landkreis_Bamberg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Frensdorf_im_Landkreis_Bamberg.png/120px-Frensdorf_im_Landkreis_Bamberg.png 2x" data-file-width="961" data-file-height="690" /></a></td>
+<td><a href="/wiki/Frensdorf" title="Frensdorf">Frensdorf</a></td>
+<td>4,887 inhabitants</td>
+<td>44&#160;km²</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Gerach-wappen.png" class="image"><img alt="Gerach-wappen.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Gerach-wappen.png/40px-Gerach-wappen.png" width="40" height="44" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Gerach-wappen.png/60px-Gerach-wappen.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/94/Gerach-wappen.png/80px-Gerach-wappen.png 2x" data-file-width="152" data-file-height="169" /></a></td>
+<td><a href="/wiki/File:Gerach_im_Landkreis_Bamberg.png" class="image"><img alt="Gerach im Landkreis Bamberg.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Gerach_im_Landkreis_Bamberg.png/60px-Gerach_im_Landkreis_Bamberg.png" width="60" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Gerach_im_Landkreis_Bamberg.png/90px-Gerach_im_Landkreis_Bamberg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Gerach_im_Landkreis_Bamberg.png/120px-Gerach_im_Landkreis_Bamberg.png 2x" data-file-width="961" data-file-height="690" /></a></td>
+<td><a href="/wiki/Gerach" title="Gerach">Gerach</a></td>
+<td>1,005 inhabitants</td>
+<td>7.8&#160;km²</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Wappen_Gundelsheim_Oberfranken.png" class="image"><img alt="Wappen Gundelsheim Oberfranken.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Wappen_Gundelsheim_Oberfranken.png/40px-Wappen_Gundelsheim_Oberfranken.png" width="40" height="42" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Wappen_Gundelsheim_Oberfranken.png/60px-Wappen_Gundelsheim_Oberfranken.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/01/Wappen_Gundelsheim_Oberfranken.png/80px-Wappen_Gundelsheim_Oberfranken.png 2x" data-file-width="127" data-file-height="133" /></a></td>
+<td><a href="/wiki/File:Gundelsheim_im_Landkreis_Bamberg.png" class="image"><img alt="Gundelsheim im Landkreis Bamberg.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gundelsheim_im_Landkreis_Bamberg.png/60px-Gundelsheim_im_Landkreis_Bamberg.png" width="60" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gundelsheim_im_Landkreis_Bamberg.png/90px-Gundelsheim_im_Landkreis_Bamberg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gundelsheim_im_Landkreis_Bamberg.png/120px-Gundelsheim_im_Landkreis_Bamberg.png 2x" data-file-width="961" data-file-height="690" /></a></td>
+<td><a href="/wiki/Gundelsheim,_Bavaria" title="Gundelsheim, Bavaria">Gundelsheim</a></td>
+<td>3,298 inhabitants</td>
+<td>3.8&#160;km²</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Wappen_Kemmern.png" class="image"><img alt="Wappen Kemmern.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Wappen_Kemmern.png/40px-Wappen_Kemmern.png" width="40" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Wappen_Kemmern.png/60px-Wappen_Kemmern.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Wappen_Kemmern.png/80px-Wappen_Kemmern.png 2x" data-file-width="150" data-file-height="160" /></a></td>
+<td><a href="/wiki/File:Kemmern_im_Landkreis_Bamberg.png" class="image"><img alt="Kemmern im Landkreis Bamberg.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Kemmern_im_Landkreis_Bamberg.png/60px-Kemmern_im_Landkreis_Bamberg.png" width="60" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Kemmern_im_Landkreis_Bamberg.png/90px-Kemmern_im_Landkreis_Bamberg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Kemmern_im_Landkreis_Bamberg.png/120px-Kemmern_im_Landkreis_Bamberg.png 2x" data-file-width="961" data-file-height="690" /></a></td>
+<td><a href="/wiki/Kemmern" title="Kemmern">Kemmern</a></td>
+<td>2,554 inhabitants</td>
+<td>8.3&#160;km²</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Wappen_Koenigsfeld_(Oberfranken).jpg" class="image"><img alt="Wappen Koenigsfeld (Oberfranken).jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Wappen_Koenigsfeld_%28Oberfranken%29.jpg/40px-Wappen_Koenigsfeld_%28Oberfranken%29.jpg" width="40" height="44" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Wappen_Koenigsfeld_%28Oberfranken%29.jpg/60px-Wappen_Koenigsfeld_%28Oberfranken%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Wappen_Koenigsfeld_%28Oberfranken%29.jpg/80px-Wappen_Koenigsfeld_%28Oberfranken%29.jpg 2x" data-file-width="350" data-file-height="385" /></a></td>
+<td><a href="/wiki/File:Koeningsfeld_im_Landkreis_Bamberg.png" class="image"><img alt="Koeningsfeld im Landkreis Bamberg.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Koeningsfeld_im_Landkreis_Bamberg.png/60px-Koeningsfeld_im_Landkreis_Bamberg.png" width="60" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Koeningsfeld_im_Landkreis_Bamberg.png/90px-Koeningsfeld_im_Landkreis_Bamberg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Koeningsfeld_im_Landkreis_Bamberg.png/120px-Koeningsfeld_im_Landkreis_Bamberg.png 2x" data-file-width="961" data-file-height="690" /></a></td>
+<td><a href="/wiki/K%C3%B6nigsfeld,_Bavaria" title="Königsfeld, Bavaria">Königsfeld</a></td>
+<td>1,352 inhabitants</td>
+<td>42.7&#160;km²</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Wappen_von_Lauter.png" class="image"><img alt="Wappen von Lauter.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Wappen_von_Lauter.png/40px-Wappen_von_Lauter.png" width="40" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Wappen_von_Lauter.png/60px-Wappen_von_Lauter.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Wappen_von_Lauter.png/80px-Wappen_von_Lauter.png 2x" data-file-width="150" data-file-height="160" /></a></td>
+<td><a href="/wiki/File:Lauter_im_Landkreis_Bamberg.png" class="image"><img alt="Lauter im Landkreis Bamberg.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/25/Lauter_im_Landkreis_Bamberg.png/60px-Lauter_im_Landkreis_Bamberg.png" width="60" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/25/Lauter_im_Landkreis_Bamberg.png/90px-Lauter_im_Landkreis_Bamberg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/25/Lauter_im_Landkreis_Bamberg.png/120px-Lauter_im_Landkreis_Bamberg.png 2x" data-file-width="961" data-file-height="690" /></a></td>
+<td><a href="/wiki/Lauter,_Bavaria" title="Lauter, Bavaria">Lauter</a></td>
+<td>1,150 inhabitants</td>
+<td>12.8&#160;km²</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Wappen_Lisberg.png" class="image"><img alt="Wappen Lisberg.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Wappen_Lisberg.png/40px-Wappen_Lisberg.png" width="40" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Wappen_Lisberg.png/60px-Wappen_Lisberg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Wappen_Lisberg.png/80px-Wappen_Lisberg.png 2x" data-file-width="150" data-file-height="160" /></a></td>
+<td><a href="/wiki/File:Lisberg_im_Landkreis_Bamberg.png" class="image"><img alt="Lisberg im Landkreis Bamberg.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Lisberg_im_Landkreis_Bamberg.png/60px-Lisberg_im_Landkreis_Bamberg.png" width="60" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Lisberg_im_Landkreis_Bamberg.png/90px-Lisberg_im_Landkreis_Bamberg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Lisberg_im_Landkreis_Bamberg.png/120px-Lisberg_im_Landkreis_Bamberg.png 2x" data-file-width="961" data-file-height="690" /></a></td>
+<td><a href="/wiki/Lisberg" title="Lisberg">Lisberg</a></td>
+<td>1,753 inhabitants</td>
+<td>8.4&#160;km²</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Wappen_von_Litzendorf.png" class="image"><img alt="Wappen von Litzendorf.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Wappen_von_Litzendorf.png/40px-Wappen_von_Litzendorf.png" width="40" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Wappen_von_Litzendorf.png/60px-Wappen_von_Litzendorf.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Wappen_von_Litzendorf.png/80px-Wappen_von_Litzendorf.png 2x" data-file-width="150" data-file-height="160" /></a></td>
+<td><a href="/wiki/File:Litzendorf_im_Landkreis_Bamberg.png" class="image"><img alt="Litzendorf im Landkreis Bamberg.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Litzendorf_im_Landkreis_Bamberg.png/60px-Litzendorf_im_Landkreis_Bamberg.png" width="60" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Litzendorf_im_Landkreis_Bamberg.png/90px-Litzendorf_im_Landkreis_Bamberg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/94/Litzendorf_im_Landkreis_Bamberg.png/120px-Litzendorf_im_Landkreis_Bamberg.png 2x" data-file-width="961" data-file-height="690" /></a></td>
+<td><a href="/wiki/Litzendorf" title="Litzendorf">Litzendorf</a></td>
+<td>6,045 inhabitants</td>
+<td>25.9&#160;km²</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Wappen_memmelsdorf.png" class="image"><img alt="Wappen memmelsdorf.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/Wappen_memmelsdorf.png/40px-Wappen_memmelsdorf.png" width="40" height="41" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/Wappen_memmelsdorf.png/60px-Wappen_memmelsdorf.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/74/Wappen_memmelsdorf.png/80px-Wappen_memmelsdorf.png 2x" data-file-width="200" data-file-height="206" /></a></td>
+<td><a href="/wiki/File:Memmelsdorf_im_Landkreis_Bamberg.png" class="image"><img alt="Memmelsdorf im Landkreis Bamberg.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Memmelsdorf_im_Landkreis_Bamberg.png/60px-Memmelsdorf_im_Landkreis_Bamberg.png" width="60" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Memmelsdorf_im_Landkreis_Bamberg.png/90px-Memmelsdorf_im_Landkreis_Bamberg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Memmelsdorf_im_Landkreis_Bamberg.png/120px-Memmelsdorf_im_Landkreis_Bamberg.png 2x" data-file-width="961" data-file-height="690" /></a></td>
+<td><a href="/wiki/Memmelsdorf" title="Memmelsdorf">Memmelsdorf</a></td>
+<td>8,997 inhabitants</td>
+<td>26.2&#160;km²</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Wappen_Oberhaid_(Oberfranken).png" class="image"><img alt="Wappen Oberhaid (Oberfranken).png" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Wappen_Oberhaid_%28Oberfranken%29.png/40px-Wappen_Oberhaid_%28Oberfranken%29.png" width="40" height="46" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Wappen_Oberhaid_%28Oberfranken%29.png/60px-Wappen_Oberhaid_%28Oberfranken%29.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/35/Wappen_Oberhaid_%28Oberfranken%29.png/80px-Wappen_Oberhaid_%28Oberfranken%29.png 2x" data-file-width="250" data-file-height="288" /></a></td>
+<td><a href="/wiki/File:Oberhaid_im_Landkreis_Bamberg.png" class="image"><img alt="Oberhaid im Landkreis Bamberg.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Oberhaid_im_Landkreis_Bamberg.png/60px-Oberhaid_im_Landkreis_Bamberg.png" width="60" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Oberhaid_im_Landkreis_Bamberg.png/90px-Oberhaid_im_Landkreis_Bamberg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/da/Oberhaid_im_Landkreis_Bamberg.png/120px-Oberhaid_im_Landkreis_Bamberg.png 2x" data-file-width="961" data-file-height="690" /></a></td>
+<td><a href="/wiki/Oberhaid" title="Oberhaid">Oberhaid</a></td>
+<td>4,668 inhabitants</td>
+<td>27.2&#160;km²</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Wappen_Pettstadt.png" class="image"><img alt="Wappen Pettstadt.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Wappen_Pettstadt.png/40px-Wappen_Pettstadt.png" width="40" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Wappen_Pettstadt.png/60px-Wappen_Pettstadt.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Wappen_Pettstadt.png/80px-Wappen_Pettstadt.png 2x" data-file-width="150" data-file-height="160" /></a></td>
+<td><a href="/wiki/File:Pettstadt_im_Landkreis_Bamberg.png" class="image"><img alt="Pettstadt im Landkreis Bamberg.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Pettstadt_im_Landkreis_Bamberg.png/60px-Pettstadt_im_Landkreis_Bamberg.png" width="60" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Pettstadt_im_Landkreis_Bamberg.png/90px-Pettstadt_im_Landkreis_Bamberg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Pettstadt_im_Landkreis_Bamberg.png/120px-Pettstadt_im_Landkreis_Bamberg.png 2x" data-file-width="961" data-file-height="690" /></a></td>
+<td><a href="/wiki/Pettstadt" title="Pettstadt">Pettstadt</a></td>
+<td>1,917 inhabitants</td>
+<td>9.9&#160;km²</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Wappen_Pommersfelden.png" class="image"><img alt="Wappen Pommersfelden.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Wappen_Pommersfelden.png/40px-Wappen_Pommersfelden.png" width="40" height="42" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Wappen_Pommersfelden.png/60px-Wappen_Pommersfelden.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Wappen_Pommersfelden.png/80px-Wappen_Pommersfelden.png 2x" data-file-width="220" data-file-height="229" /></a></td>
+<td><a href="/wiki/File:Pommersfelden_im_Landkreis_Bamberg.png" class="image"><img alt="Pommersfelden im Landkreis Bamberg.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Pommersfelden_im_Landkreis_Bamberg.png/60px-Pommersfelden_im_Landkreis_Bamberg.png" width="60" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Pommersfelden_im_Landkreis_Bamberg.png/90px-Pommersfelden_im_Landkreis_Bamberg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Pommersfelden_im_Landkreis_Bamberg.png/120px-Pommersfelden_im_Landkreis_Bamberg.png 2x" data-file-width="961" data-file-height="690" /></a></td>
+<td><a href="/wiki/Pommersfelden" title="Pommersfelden">Pommersfelden</a></td>
+<td>2,937 inhabitants</td>
+<td>35.7&#160;km²</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Wappen_Priesendorf.png" class="image"><img alt="Wappen Priesendorf.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Wappen_Priesendorf.png/40px-Wappen_Priesendorf.png" width="40" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Wappen_Priesendorf.png/60px-Wappen_Priesendorf.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Wappen_Priesendorf.png/80px-Wappen_Priesendorf.png 2x" data-file-width="150" data-file-height="160" /></a></td>
+<td><a href="/wiki/File:Priesendorf_im_Landkreis_Bamberg.png" class="image"><img alt="Priesendorf im Landkreis Bamberg.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Priesendorf_im_Landkreis_Bamberg.png/60px-Priesendorf_im_Landkreis_Bamberg.png" width="60" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Priesendorf_im_Landkreis_Bamberg.png/90px-Priesendorf_im_Landkreis_Bamberg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Priesendorf_im_Landkreis_Bamberg.png/120px-Priesendorf_im_Landkreis_Bamberg.png 2x" data-file-width="961" data-file-height="690" /></a></td>
+<td><a href="/wiki/Priesendorf" title="Priesendorf">Priesendorf</a></td>
+<td>1,534 inhabitants</td>
+<td>8.4&#160;km²</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Wappen_Reckendorf.png" class="image"><img alt="Wappen Reckendorf.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Wappen_Reckendorf.png/40px-Wappen_Reckendorf.png" width="40" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Wappen_Reckendorf.png/60px-Wappen_Reckendorf.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Wappen_Reckendorf.png/80px-Wappen_Reckendorf.png 2x" data-file-width="150" data-file-height="160" /></a></td>
+<td><a href="/wiki/File:Reckendorf_im_Landkreis_Bamberg.png" class="image"><img alt="Reckendorf im Landkreis Bamberg.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Reckendorf_im_Landkreis_Bamberg.png/60px-Reckendorf_im_Landkreis_Bamberg.png" width="60" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Reckendorf_im_Landkreis_Bamberg.png/90px-Reckendorf_im_Landkreis_Bamberg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/28/Reckendorf_im_Landkreis_Bamberg.png/120px-Reckendorf_im_Landkreis_Bamberg.png 2x" data-file-width="961" data-file-height="690" /></a></td>
+<td><a href="/wiki/Reckendorf" title="Reckendorf">Reckendorf</a></td>
+<td>2,043 inhabitants</td>
+<td>13.1&#160;km²</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Wappen_Sch%C3%B6nbrunn_i_Steigerwald.png" class="image"><img alt="Wappen Schönbrunn i Steigerwald.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Wappen_Sch%C3%B6nbrunn_i_Steigerwald.png/40px-Wappen_Sch%C3%B6nbrunn_i_Steigerwald.png" width="40" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Wappen_Sch%C3%B6nbrunn_i_Steigerwald.png/60px-Wappen_Sch%C3%B6nbrunn_i_Steigerwald.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Wappen_Sch%C3%B6nbrunn_i_Steigerwald.png/80px-Wappen_Sch%C3%B6nbrunn_i_Steigerwald.png 2x" data-file-width="150" data-file-height="160" /></a></td>
+<td><a href="/wiki/File:Schoenbrunn_im_Landkreis_Bamberg.png" class="image"><img alt="Schoenbrunn im Landkreis Bamberg.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Schoenbrunn_im_Landkreis_Bamberg.png/60px-Schoenbrunn_im_Landkreis_Bamberg.png" width="60" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Schoenbrunn_im_Landkreis_Bamberg.png/90px-Schoenbrunn_im_Landkreis_Bamberg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Schoenbrunn_im_Landkreis_Bamberg.png/120px-Schoenbrunn_im_Landkreis_Bamberg.png 2x" data-file-width="961" data-file-height="690" /></a></td>
+<td><a href="/wiki/Sch%C3%B6nbrunn_im_Steigerwald" title="Schönbrunn im Steigerwald">Schönbrunn im Steigerwald</a></td>
+<td>1,935 inhabitants</td>
+<td>24.7&#160;km²</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Wappen_Stadelhofen.png" class="image"><img alt="Wappen Stadelhofen.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Wappen_Stadelhofen.png/40px-Wappen_Stadelhofen.png" width="40" height="47" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Wappen_Stadelhofen.png/60px-Wappen_Stadelhofen.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Wappen_Stadelhofen.png/80px-Wappen_Stadelhofen.png 2x" data-file-width="300" data-file-height="350" /></a></td>
+<td><a href="/wiki/File:Stadelhofen_im_Landkreis_Bamberg.png" class="image"><img alt="Stadelhofen im Landkreis Bamberg.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Stadelhofen_im_Landkreis_Bamberg.png/60px-Stadelhofen_im_Landkreis_Bamberg.png" width="60" height="44" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Stadelhofen_im_Landkreis_Bamberg.png/90px-Stadelhofen_im_Landkreis_Bamberg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Stadelhofen_im_Landkreis_Bamberg.png/120px-Stadelhofen_im_Landkreis_Bamberg.png 2x" data-file-width="521" data-file-height="379" /></a></td>
+<td><a href="/wiki/Stadelhofen" title="Stadelhofen">Stadelhofen</a></td>
+<td>1,261 inhabitants</td>
+<td>41&#160;km²</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Wappen_Stegaurach.png" class="image"><img alt="Wappen Stegaurach.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/Wappen_Stegaurach.png/40px-Wappen_Stegaurach.png" width="40" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/Wappen_Stegaurach.png/60px-Wappen_Stegaurach.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/95/Wappen_Stegaurach.png/80px-Wappen_Stegaurach.png 2x" data-file-width="150" data-file-height="160" /></a></td>
+<td><a href="/wiki/File:Stegaurach_im_Landkreis_Bamberg.png" class="image"><img alt="Stegaurach im Landkreis Bamberg.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Stegaurach_im_Landkreis_Bamberg.png/60px-Stegaurach_im_Landkreis_Bamberg.png" width="60" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Stegaurach_im_Landkreis_Bamberg.png/90px-Stegaurach_im_Landkreis_Bamberg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/72/Stegaurach_im_Landkreis_Bamberg.png/120px-Stegaurach_im_Landkreis_Bamberg.png 2x" data-file-width="961" data-file-height="690" /></a></td>
+<td><a href="/wiki/Stegaurach" title="Stegaurach">Stegaurach</a></td>
+<td>6,947 inhabitants</td>
+<td>23.9&#160;km²</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:DEU_Strullendorf_COA.svg" class="image"><img alt="DEU Strullendorf COA.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/DEU_Strullendorf_COA.svg/40px-DEU_Strullendorf_COA.svg.png" width="40" height="44" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/DEU_Strullendorf_COA.svg/60px-DEU_Strullendorf_COA.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/35/DEU_Strullendorf_COA.svg/80px-DEU_Strullendorf_COA.svg.png 2x" data-file-width="512" data-file-height="559" /></a></td>
+<td><a href="/wiki/File:Strullendorf_im_Landkreis_Bamberg.png" class="image"><img alt="Strullendorf im Landkreis Bamberg.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Strullendorf_im_Landkreis_Bamberg.png/60px-Strullendorf_im_Landkreis_Bamberg.png" width="60" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Strullendorf_im_Landkreis_Bamberg.png/90px-Strullendorf_im_Landkreis_Bamberg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/64/Strullendorf_im_Landkreis_Bamberg.png/120px-Strullendorf_im_Landkreis_Bamberg.png 2x" data-file-width="961" data-file-height="690" /></a></td>
+<td><a href="/wiki/Strullendorf" title="Strullendorf">Strullendorf</a></td>
+<td>7,805 inhabitants</td>
+<td>31.7&#160;km²</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:DEU_Viereth-Trunstadt_COA.svg" class="image"><img alt="DEU Viereth-Trunstadt COA.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/DEU_Viereth-Trunstadt_COA.svg/40px-DEU_Viereth-Trunstadt_COA.svg.png" width="40" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/DEU_Viereth-Trunstadt_COA.svg/60px-DEU_Viereth-Trunstadt_COA.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/DEU_Viereth-Trunstadt_COA.svg/80px-DEU_Viereth-Trunstadt_COA.svg.png 2x" data-file-width="652" data-file-height="707" /></a></td>
+<td><a href="/wiki/File:Viereth-Trunstadt_im_Landkreis_Bamberg.png" class="image"><img alt="Viereth-Trunstadt im Landkreis Bamberg.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Viereth-Trunstadt_im_Landkreis_Bamberg.png/60px-Viereth-Trunstadt_im_Landkreis_Bamberg.png" width="60" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Viereth-Trunstadt_im_Landkreis_Bamberg.png/90px-Viereth-Trunstadt_im_Landkreis_Bamberg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/36/Viereth-Trunstadt_im_Landkreis_Bamberg.png/120px-Viereth-Trunstadt_im_Landkreis_Bamberg.png 2x" data-file-width="961" data-file-height="690" /></a></td>
+<td><a href="/wiki/Viereth-Trunstadt" title="Viereth-Trunstadt">Viereth-Trunstadt</a></td>
+<td>3,645 inhabitants</td>
+<td>15.8&#160;km²</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:DEU_Walsdorf_COA.svg" class="image"><img alt="DEU Walsdorf COA.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/DEU_Walsdorf_COA.svg/40px-DEU_Walsdorf_COA.svg.png" width="40" height="44" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/DEU_Walsdorf_COA.svg/60px-DEU_Walsdorf_COA.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/DEU_Walsdorf_COA.svg/80px-DEU_Walsdorf_COA.svg.png 2x" data-file-width="634" data-file-height="702" /></a></td>
+<td><a href="/wiki/File:Walsdorf_im_Landkreis_Bamberg.png" class="image"><img alt="Walsdorf im Landkreis Bamberg.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Walsdorf_im_Landkreis_Bamberg.png/60px-Walsdorf_im_Landkreis_Bamberg.png" width="60" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Walsdorf_im_Landkreis_Bamberg.png/90px-Walsdorf_im_Landkreis_Bamberg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Walsdorf_im_Landkreis_Bamberg.png/120px-Walsdorf_im_Landkreis_Bamberg.png 2x" data-file-width="961" data-file-height="690" /></a></td>
+<td><a href="/wiki/Walsdorf,_Bavaria" title="Walsdorf, Bavaria">Walsdorf</a></td>
+<td>2,600 inhabitants</td>
+<td>16.2&#160;km²</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:DEU_Wattendorf_COA.svg" class="image"><img alt="DEU Wattendorf COA.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/DEU_Wattendorf_COA.svg/40px-DEU_Wattendorf_COA.svg.png" width="40" height="44" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/DEU_Wattendorf_COA.svg/60px-DEU_Wattendorf_COA.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/19/DEU_Wattendorf_COA.svg/80px-DEU_Wattendorf_COA.svg.png 2x" data-file-width="542" data-file-height="594" /></a></td>
+<td><a href="/wiki/File:Wattendorf_im_Landkreis_Bamberg.png" class="image"><img alt="Wattendorf im Landkreis Bamberg.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Wattendorf_im_Landkreis_Bamberg.png/60px-Wattendorf_im_Landkreis_Bamberg.png" width="60" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Wattendorf_im_Landkreis_Bamberg.png/90px-Wattendorf_im_Landkreis_Bamberg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/28/Wattendorf_im_Landkreis_Bamberg.png/120px-Wattendorf_im_Landkreis_Bamberg.png 2x" data-file-width="961" data-file-height="690" /></a></td>
+<td><a href="/wiki/Wattendorf" title="Wattendorf">Wattendorf</a></td>
+<td>700 inhabitants</td>
+<td>22.2&#160;km²</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Verwaltungsgemeinschaften">Verwaltungsgemeinschaften</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bamberg_(district)&amp;action=edit&amp;section=9" title="Edit section: Verwaltungsgemeinschaften">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<tr>
+<td>Verwaltungsgemeinschaft Baunach</td>
+<td>Baunach, Gerach, Lauter and Reckendorf</td>
+</tr>
+<tr>
+<td>Verwaltungsgemeinschaft Burgebrach</td>
+<td>Burgebrach and Schönbrunn</td>
+</tr>
+<tr>
+<td>Verwaltungsgemeinschaft Ebrach</td>
+<td>Burgwindheim and Ebrach</td>
+</tr>
+<tr>
+<td>Verwaltungsgemeinschaft Lisberg</td>
+<td>Lisberg and Priesendorf</td>
+</tr>
+<tr>
+<td>Verwaltungsgemeinschaft Stegaurach</td>
+<td>Stegaurach and Walsdorf</td>
+</tr>
+<tr>
+<td>Verwaltungsgemeinschaft Steinfeld</td>
+<td>Königsfeld, Stadelhofen and Wattendorf</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bamberg_(district)&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.statistikdaten.bayern.de/genesis/online?sequenz=tabelleErgebnis&amp;selectionname=12411-001">"Fortschreibung des Bevölkerungsstandes"</a>. <i><a href="/wiki/Bayerisches_Landesamt_f%C3%BCr_Statistik_und_Datenverarbeitung" class="mw-redirect" title="Bayerisches Landesamt für Statistik und Datenverarbeitung">Bayerisches Landesamt für Statistik und Datenverarbeitung</a></i> (in German). June 2016.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABamberg+%28district%29&amp;rft.atitle=Fortschreibung+des+Bev%C3%B6lkerungsstandes&amp;rft.date=2016-06&amp;rft.genre=unknown&amp;rft.jtitle=Bayerisches+Landesamt+f%C3%BCr+Statistik+und+Datenverarbeitung&amp;rft_id=https%3A%2F%2Fwww.statistikdaten.bayern.de%2Fgenesis%2Fonline%3Fsequenz%3DtabelleErgebnis%26selectionname%3D12411-001&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bamberg_(district)&amp;action=edit&amp;section=11" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Landkreis_Bamberg" class="extiw" title="commons:Category:Landkreis Bamberg">Landkreis Bamberg</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.landkreis-bamberg.de/">Official website</a> (German)</li>
+<li><a rel="nofollow" class="external text" href="http://www.bnv-bamberg.de/links/landkreis.html">Links to municipalities</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="border.7C30px.7CFlag_of_Bavaria_Urban_and_rural_districts_in_the_Free_State_of_Bavaria_in_Germany_border.7C30px.7CFlag_of_Germany" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Germany_districts_Bavaria" title="Template:Germany districts Bavaria"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Germany_districts_Bavaria" title="Template talk:Germany districts Bavaria"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Germany_districts_Bavaria&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="border.7C30px.7CFlag_of_Bavaria_Urban_and_rural_districts_in_the_Free_State_of_Bavaria_in_Germany_border.7C30px.7CFlag_of_Germany" style="font-size:114%;margin:0 4em"><a href="/wiki/File:Flag_of_Bavaria_(lozengy).svg" class="image" title="Flag of Bavaria"><img alt="Flag of Bavaria" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Bavaria_%28lozengy%29.svg/30px-Flag_of_Bavaria_%28lozengy%29.svg.png" width="30" height="18" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Bavaria_%28lozengy%29.svg/45px-Flag_of_Bavaria_%28lozengy%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Bavaria_%28lozengy%29.svg/60px-Flag_of_Bavaria_%28lozengy%29.svg.png 2x" data-file-width="1000" data-file-height="600" /></a> Urban and rural districts in the <a href="/wiki/Bavaria" title="Bavaria">Free State of Bavaria</a> in Germany <a href="/wiki/File:Flag_of_Germany.svg" class="image" title="Flag of Germany"><img alt="Flag of Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/30px-Flag_of_Germany.svg.png" width="30" height="18" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/45px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/60px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Urban<br />
+districts</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Amberg" title="Amberg">Amberg</a></li>
+<li><a href="/wiki/Ansbach" title="Ansbach">Ansbach</a></li>
+<li><a href="/wiki/Aschaffenburg" title="Aschaffenburg">Aschaffenburg</a></li>
+<li><a href="/wiki/Augsburg" title="Augsburg">Augsburg</a></li>
+<li><a href="/wiki/Bamberg" title="Bamberg">Bamberg</a></li>
+<li><a href="/wiki/Bayreuth" title="Bayreuth">Bayreuth</a></li>
+<li><a href="/wiki/Coburg" title="Coburg">Coburg</a></li>
+<li><a href="/wiki/Erlangen" title="Erlangen">Erlangen</a></li>
+<li><a href="/wiki/F%C3%BCrth" title="Fürth">Fürth</a></li>
+<li><a href="/wiki/Hof,_Bavaria" title="Hof, Bavaria">Hof</a></li>
+<li><a href="/wiki/Ingolstadt" title="Ingolstadt">Ingolstadt</a></li>
+<li><a href="/wiki/Kaufbeuren" title="Kaufbeuren">Kaufbeuren</a></li>
+<li><a href="/wiki/Kempten" title="Kempten">Kempten</a></li>
+<li><a href="/wiki/Landshut" title="Landshut">Landshut</a></li>
+<li><a href="/wiki/Memmingen" title="Memmingen">Memmingen</a></li>
+<li><a href="/wiki/Munich" title="Munich">München (<i>Munich</i>)</a></li>
+<li><a href="/wiki/Nuremberg" title="Nuremberg">Nürnberg (<i>Nuremberg</i>)</a></li>
+<li><a href="/wiki/Passau" title="Passau">Passau</a></li>
+<li><a href="/wiki/Regensburg" title="Regensburg">Regensburg</a></li>
+<li><a href="/wiki/Rosenheim" title="Rosenheim">Rosenheim</a></li>
+<li><a href="/wiki/Schwabach" title="Schwabach">Schwabach</a></li>
+<li><a href="/wiki/Schweinfurt" title="Schweinfurt">Schweinfurt</a></li>
+<li><a href="/wiki/Straubing" title="Straubing">Straubing</a></li>
+<li><a href="/wiki/Weiden_in_der_Oberpfalz" title="Weiden in der Oberpfalz">Weiden</a></li>
+<li><a href="/wiki/W%C3%BCrzburg" title="Würzburg">Würzburg</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Rural<br />
+districts</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aichach-Friedberg" title="Aichach-Friedberg">Aichach-Friedberg</a></li>
+<li><a href="/wiki/Alt%C3%B6tting_(district)" title="Altötting (district)">Altötting</a></li>
+<li><a href="/wiki/Amberg-Sulzbach" title="Amberg-Sulzbach">Amberg-Sulzbach</a></li>
+<li><a href="/wiki/Ansbach_(district)" title="Ansbach (district)">Ansbach</a></li>
+<li><a href="/wiki/Aschaffenburg_(district)" title="Aschaffenburg (district)">Aschaffenburg</a></li>
+<li><a href="/wiki/Augsburg_(district)" title="Augsburg (district)">Augsburg</a></li>
+<li><a href="/wiki/Bad_Kissingen_(district)" title="Bad Kissingen (district)">Bad Kissingen</a></li>
+<li><a href="/wiki/Bad_T%C3%B6lz-Wolfratshausen" title="Bad Tölz-Wolfratshausen">Bad Tölz-Wolfratshausen</a></li>
+<li><a class="mw-selflink selflink">Bamberg</a></li>
+<li><a href="/wiki/Bayreuth_(district)" title="Bayreuth (district)">Bayreuth</a></li>
+<li><a href="/wiki/Berchtesgadener_Land" title="Berchtesgadener Land">Berchtesgadener Land</a></li>
+<li><a href="/wiki/Cham_(district)" title="Cham (district)">Cham</a></li>
+<li><a href="/wiki/Coburg_(district)" title="Coburg (district)">Coburg</a></li>
+<li><a href="/wiki/Dachau_(district)" title="Dachau (district)">Dachau</a></li>
+<li><a href="/wiki/Deggendorf_(district)" title="Deggendorf (district)">Deggendorf</a></li>
+<li><a href="/wiki/Dillingen_(district)" title="Dillingen (district)">Dillingen</a></li>
+<li><a href="/wiki/Dingolfing-Landau" title="Dingolfing-Landau">Dingolfing-Landau</a></li>
+<li><a href="/wiki/Donau-Ries" title="Donau-Ries">Donau-Ries</a></li>
+<li><a href="/wiki/Ebersberg_(district)" title="Ebersberg (district)">Ebersberg</a></li>
+<li><a href="/wiki/Eichst%C3%A4tt_(district)" title="Eichstätt (district)">Eichstätt</a></li>
+<li><a href="/wiki/Erding_(district)" title="Erding (district)">Erding</a></li>
+<li><a href="/wiki/Erlangen-H%C3%B6chstadt" title="Erlangen-Höchstadt">Erlangen-Höchstadt</a></li>
+<li><a href="/wiki/Forchheim_(district)" title="Forchheim (district)">Forchheim</a></li>
+<li><a href="/wiki/Freising_(district)" title="Freising (district)">Freising</a></li>
+<li><a href="/wiki/Freyung-Grafenau" title="Freyung-Grafenau">Freyung-Grafenau</a></li>
+<li><a href="/wiki/F%C3%BCrstenfeldbruck_(district)" title="Fürstenfeldbruck (district)">Fürstenfeldbruck</a></li>
+<li><a href="/wiki/F%C3%BCrth_(district)" title="Fürth (district)">Fürth</a></li>
+<li><a href="/wiki/Garmisch-Partenkirchen_(district)" title="Garmisch-Partenkirchen (district)">Garmisch-Partenkirchen</a></li>
+<li><a href="/wiki/G%C3%BCnzburg_(district)" title="Günzburg (district)">Günzburg</a></li>
+<li><a href="/wiki/Ha%C3%9Fberge_(district)" title="Haßberge (district)">Haßberge</a></li>
+<li><a href="/wiki/Hof_(district)" title="Hof (district)">Hof</a></li>
+<li><a href="/wiki/Kelheim_(district)" title="Kelheim (district)">Kelheim</a></li>
+<li><a href="/wiki/Kitzingen_(district)" title="Kitzingen (district)">Kitzingen</a></li>
+<li><a href="/wiki/Kronach_(district)" title="Kronach (district)">Kronach</a></li>
+<li><a href="/wiki/Kulmbach_(district)" title="Kulmbach (district)">Kulmbach</a></li>
+<li><a href="/wiki/Landsberg_(district)" title="Landsberg (district)">Landsberg</a></li>
+<li><a href="/wiki/Landshut_(district)" title="Landshut (district)">Landshut</a></li>
+<li><a href="/wiki/Lichtenfels_(district)" title="Lichtenfels (district)">Lichtenfels</a></li>
+<li><a href="/wiki/Lindau_(district)" title="Lindau (district)">Lindau</a></li>
+<li><a href="/wiki/Main-Spessart" title="Main-Spessart">Main-Spessart</a></li>
+<li><a href="/wiki/Miesbach_(district)" title="Miesbach (district)">Miesbach</a></li>
+<li><a href="/wiki/Miltenberg_(district)" title="Miltenberg (district)">Miltenberg</a></li>
+<li><a href="/wiki/M%C3%BChldorf_(district)" title="Mühldorf (district)">Mühldorf</a></li>
+<li><a href="/wiki/Munich_(district)" title="Munich (district)">München (<i>Munich</i>)</a></li>
+<li><a href="/wiki/Neuburg-Schrobenhausen" title="Neuburg-Schrobenhausen">Neuburg-Schrobenhausen</a></li>
+<li><a href="/wiki/Neumarkt_(district)" title="Neumarkt (district)">Neumarkt</a></li>
+<li><a href="/wiki/Neustadt_(Aisch)-Bad_Windsheim" title="Neustadt (Aisch)-Bad Windsheim">Neustadt (Aisch)-Bad Windsheim</a></li>
+<li><a href="/wiki/Neustadt_an_der_Waldnaab_(district)" title="Neustadt an der Waldnaab (district)">Neustadt an der Waldnaab</a></li>
+<li><a href="/wiki/Neu-Ulm_(district)" title="Neu-Ulm (district)">Neu-Ulm</a></li>
+<li><a href="/wiki/N%C3%BCrnberger_Land" title="Nürnberger Land">Nürnberger Land</a></li>
+<li><a href="/wiki/Oberallg%C3%A4u" title="Oberallgäu">Oberallgäu</a></li>
+<li><a href="/wiki/Ostallg%C3%A4u" title="Ostallgäu">Ostallgäu</a></li>
+<li><a href="/wiki/Passau_(district)" title="Passau (district)">Passau</a></li>
+<li><a href="/wiki/Pfaffenhofen_(district)" title="Pfaffenhofen (district)">Pfaffenhofen</a></li>
+<li><a href="/wiki/Regen_(district)" title="Regen (district)">Regen</a></li>
+<li><a href="/wiki/Regensburg_(district)" title="Regensburg (district)">Regensburg</a></li>
+<li><a href="/wiki/Rh%C3%B6n-Grabfeld" title="Rhön-Grabfeld">Rhön-Grabfeld</a></li>
+<li><a href="/wiki/Rosenheim_(district)" title="Rosenheim (district)">Rosenheim</a></li>
+<li><a href="/wiki/Roth_(district)" title="Roth (district)">Roth</a></li>
+<li><a href="/wiki/Rottal-Inn" title="Rottal-Inn">Rottal-Inn</a></li>
+<li><a href="/wiki/Schwandorf_(district)" title="Schwandorf (district)">Schwandorf</a></li>
+<li><a href="/wiki/Schweinfurt_(district)" title="Schweinfurt (district)">Schweinfurt</a></li>
+<li><a href="/wiki/Starnberg_(district)" title="Starnberg (district)">Starnberg</a></li>
+<li><a href="/wiki/Straubing-Bogen" title="Straubing-Bogen">Straubing-Bogen</a></li>
+<li><a href="/wiki/Tirschenreuth_(district)" title="Tirschenreuth (district)">Tirschenreuth</a></li>
+<li><a href="/wiki/Traunstein_(district)" title="Traunstein (district)">Traunstein</a></li>
+<li><a href="/wiki/Unterallg%C3%A4u" title="Unterallgäu">Unterallgäu</a></li>
+<li><a href="/wiki/Weilheim-Schongau" title="Weilheim-Schongau">Weilheim-Schongau</a></li>
+<li><a href="/wiki/Wei%C3%9Fenburg-Gunzenhausen" title="Weißenburg-Gunzenhausen">Weißenburg-Gunzenhausen</a></li>
+<li><a href="/wiki/Wunsiedel_(district)" title="Wunsiedel (district)">Wunsiedel</a></li>
+<li><a href="/wiki/W%C3%BCrzburg_(district)" title="Würzburg (district)">Würzburg</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Towns_and_municipalities_in_Bamberg" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Cities_and_towns_in_Bamberg_(district)" title="Template:Cities and towns in Bamberg (district)"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Cities_and_towns_in_Bamberg_(district)" title="Template talk:Cities and towns in Bamberg (district)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cities_and_towns_in_Bamberg_(district)&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Towns_and_municipalities_in_Bamberg" style="font-size:114%;margin:0 4em">Towns and municipalities in <a class="mw-selflink selflink">Bamberg</a></div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px;font-size:95%;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Altendorf,_Upper_Franconia" title="Altendorf, Upper Franconia">Altendorf</a></li>
+<li><a href="/wiki/Baunach" title="Baunach">Baunach</a></li>
+<li><a href="/wiki/Bischberg" title="Bischberg">Bischberg</a></li>
+<li><a href="/wiki/Breiteng%C3%BC%C3%9Fbach" title="Breitengüßbach">Breitengüßbach</a></li>
+<li><a href="/wiki/Burgebrach" title="Burgebrach">Burgebrach</a></li>
+<li><a href="/wiki/Burgwindheim" title="Burgwindheim">Burgwindheim</a></li>
+<li><a href="/wiki/Buttenheim" title="Buttenheim">Buttenheim</a></li>
+<li><a href="/wiki/Ebrach" title="Ebrach">Ebrach</a></li>
+<li><a href="/wiki/Frensdorf" title="Frensdorf">Frensdorf</a></li>
+<li><a href="/wiki/Gerach" title="Gerach">Gerach</a></li>
+<li><a href="/wiki/Gundelsheim,_Bavaria" title="Gundelsheim, Bavaria">Gundelsheim</a></li>
+<li><a href="/wiki/Hallstadt" title="Hallstadt">Hallstadt</a></li>
+<li><a href="/wiki/Heiligenstadt_in_Oberfranken" title="Heiligenstadt in Oberfranken">Heiligenstadt in Oberfranken</a></li>
+<li><a href="/wiki/Hirschaid" title="Hirschaid">Hirschaid</a></li>
+<li><a href="/wiki/Kemmern" title="Kemmern">Kemmern</a></li>
+<li><a href="/wiki/K%C3%B6nigsfeld,_Bavaria" title="Königsfeld, Bavaria">Königsfeld</a></li>
+<li><a href="/wiki/Lauter,_Bavaria" title="Lauter, Bavaria">Lauter</a></li>
+<li><a href="/wiki/Lisberg" title="Lisberg">Lisberg</a></li>
+<li><a href="/wiki/Litzendorf" title="Litzendorf">Litzendorf</a></li>
+<li><a href="/wiki/Memmelsdorf" title="Memmelsdorf">Memmelsdorf</a></li>
+<li><a href="/wiki/Oberhaid" title="Oberhaid">Oberhaid</a></li>
+<li><a href="/wiki/Pettstadt" title="Pettstadt">Pettstadt</a></li>
+<li><a href="/wiki/Pommersfelden" title="Pommersfelden">Pommersfelden</a></li>
+<li><a href="/wiki/Priesendorf" title="Priesendorf">Priesendorf</a></li>
+<li><a href="/wiki/Rattelsdorf" title="Rattelsdorf">Rattelsdorf</a></li>
+<li><a href="/wiki/Reckendorf" title="Reckendorf">Reckendorf</a></li>
+<li><a href="/wiki/Sche%C3%9Flitz" title="Scheßlitz">Scheßlitz</a></li>
+<li><a href="/wiki/Schl%C3%BCsselfeld" title="Schlüsselfeld">Schlüsselfeld</a></li>
+<li><a href="/wiki/Sch%C3%B6nbrunn_im_Steigerwald" title="Schönbrunn im Steigerwald">Schönbrunn</a></li>
+<li><a href="/wiki/Stadelhofen" title="Stadelhofen">Stadelhofen</a></li>
+<li><a href="/wiki/Stegaurach" title="Stegaurach">Stegaurach</a></li>
+<li><a href="/wiki/Strullendorf" title="Strullendorf">Strullendorf</a></li>
+<li><a href="/wiki/Viereth-Trunstadt" title="Viereth-Trunstadt">Viereth-Trunstadt</a></li>
+<li><a href="/wiki/Walsdorf,_Bavaria" title="Walsdorf, Bavaria">Walsdorf</a></li>
+<li><a href="/wiki/Wattendorf" title="Wattendorf">Wattendorf</a></li>
+<li><a href="/wiki/Zapfendorf" title="Zapfendorf">Zapfendorf</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="1" style="width:1px;padding:0px 0px 0px 2px">
+<div>
+<div class="floatright"><a href="/wiki/File:DEU_Landkreis_Bamberg_COA.svg" class="image" title="Coat of Arms of Bamberg district"><img alt="Coat of Arms of Bamberg district" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/DEU_Landkreis_Bamberg_COA.svg/30px-DEU_Landkreis_Bamberg_COA.svg.png" width="30" height="33" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/DEU_Landkreis_Bamberg_COA.svg/45px-DEU_Landkreis_Bamberg_COA.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/80/DEU_Landkreis_Bamberg_COA.svg/60px-DEU_Landkreis_Bamberg_COA.svg.png 2x" data-file-width="462" data-file-height="502" /></a></div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<p><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Bamberg_(district)&amp;params=49.83_N_10.83_E_"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">49°50′N</span> <span class="longitude">10°50′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">49.83°N 10.83°E</span><span style="display:none">﻿ / <span class="geo">49.83; 10.83</span></span></span></a></span></span></span></p>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/236334848">WorldCat Identities</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/236334848">236334848</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/4004393-9">4004393-9</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1188
+Cached time: 20171007165545
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.444 seconds
+Real time usage: 0.736 seconds
+Preprocessor visited node count: 3650/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 50034/2097152 bytes
+Template argument size: 3159/2097152 bytes
+Highest expansion depth: 26/40
+Expensive parser function count: 2/500
+Lua time usage: 0.095/10.000 seconds
+Lua memory usage: 3.39 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  359.485      1 -total
+ 66.18%  237.897      1 Template:Infobox_German_district
+ 64.70%  232.587      1 Template:Infobox_settlement
+ 51.25%  184.236      1 Template:Infobox
+ 24.03%   86.401      6 Template:Population_Germany
+ 22.43%   80.623      6 Template:Metadata_Population_DE-BY
+ 13.77%   49.506      1 Template:Refimprove
+  9.45%   33.957      1 Template:Cite_web
+  8.65%   31.098      1 Template:Ambox
+  7.62%   27.388      1 Template:Commons_category
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:202588-0!canonical and timestamp 20171007165545 and revision id 787267984
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Bamberg_(district)&amp;oldid=787267984">https://en.wikipedia.org/w/index.php?title=Bamberg_(district)&amp;oldid=787267984</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Districts_of_Bavaria" title="Category:Districts of Bavaria">Districts of Bavaria</a></li><li><a href="/wiki/Category:Bamberg_(district)" title="Category:Bamberg (district)">Bamberg (district)</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_German-language_sources_(de)" title="Category:CS1 German-language sources (de)">CS1 German-language sources (de)</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_March_2013" title="Category:Articles needing additional references from March 2013">Articles needing additional references from March 2013</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Bamberg+%28district%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Bamberg+%28district%29" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Bamberg_(district)" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Bamberg_(district)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Bamberg_(district)">Read</a></span></li>
+							<li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Bamberg_(district)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Bamberg_(district)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Bamberg_(district)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Bamberg_(district)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Bamberg_(district)&amp;oldid=787267984" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Bamberg_(district)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q10444" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Bamberg_%28district%29&amp;id=787267984" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Bamberg+%28district%29">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Bamberg+%28district%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Bamberg_(district)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Landkreis_Bamberg" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-an"><a href="https://an.wikipedia.org/wiki/Districto_de_Bamberg" title="Districto de Bamberg – Aragonese" lang="an" hreflang="an" class="interlanguage-link-target">Aragonés</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%91%D0%B0%D0%BC%D0%B1%D0%B5%D1%80%D0%B3_(%D1%80%D0%B0%D1%91%D0%BD)" title="Бамберг (раён) – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-bar"><a href="https://bar.wikipedia.org/wiki/Landgreis_Bamberg" title="Landgreis Bamberg – Bavarian" lang="bar" hreflang="bar" class="interlanguage-link-target">Boarisch</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Landkreis_Bamberg" title="Landkreis Bamberg – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Landkreis_Bamberg" title="Landkreis Bamberg – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Landkreis_Bamberg" title="Landkreis Bamberg – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Distrito_de_Bamberg" title="Distrito de Bamberg – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Distrikto_Bamberg" title="Distrikto Bamberg – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D9%85%D8%A8%D8%B1%DA%AF_(%D9%86%D8%A7%D8%AD%DB%8C%D9%87)" title="بامبرگ (ناحیه) – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Arrondissement_de_Bamberg" title="Arrondissement de Bamberg – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/Bamberg_(Landkreis)" title="Bamberg (Landkreis) – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%B2%D5%A1%D5%B4%D5%A2%D5%A5%D6%80%D5%A3_(%D5%B7%D6%80%D5%BB%D5%A1%D5%B6)" title="Բամբերգ (շրջան) – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Bamberg_(distrik)" title="Bamberg (distrik) – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Circondario_di_Bamberga" title="Circondario di Bamberga – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%91%E1%83%90%E1%83%9B%E1%83%91%E1%83%94%E1%83%A0%E1%83%92%E1%83%98%E1%83%A1_%E1%83%A0%E1%83%90%E1%83%98%E1%83%9D%E1%83%9C%E1%83%98" title="ბამბერგის რაიონი – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%91%D0%B0%D0%BC%D0%B1%D0%B5%D1%80%D0%B3_(%D0%B0%D1%83%D0%B4%D0%B0%D0%BD)" title="Бамберг (аудан) – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-lmo"><a href="https://lmo.wikipedia.org/wiki/Bamberga_(circundari)" title="Bamberga (circundari) – Lombard" lang="lmo" hreflang="lmo" class="interlanguage-link-target">Lumbaart</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Bamberg_j%C3%A1r%C3%A1s" title="Bamberg járás – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Bamberg_(daerah)" title="Bamberg (daerah) – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Landkreis_Bamberg" title="Landkreis Bamberg – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%B3%E3%83%99%E3%83%AB%E3%82%AF%E9%83%A1" title="バンベルク郡 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Bamberg_(tuman)" title="Bamberg (tuman) – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%D8%B6%D9%84%D8%B9_%D8%A8%D8%A7%D9%85%D8%A8%D8%B1%DA%AF" title="ضلع بامبرگ – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Powiat_Bamberg" title="Powiat Bamberg – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Bamberg_(distrito)" title="Bamberg (distrito) – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Districtul_Bamberg" title="Districtul Bamberg – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D0%BC%D0%B1%D0%B5%D1%80%D0%B3_(%D1%80%D0%B0%D0%B9%D0%BE%D0%BD)" title="Бамберг (район) – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-stq"><a href="https://stq.wikipedia.org/wiki/Bamberg_(Loundkring)" title="Bamberg (Loundkring) – Saterland Frisian" lang="stq" hreflang="stq" class="interlanguage-link-target">Seeltersk</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Bamberg_Rural_District" title="Bamberg Rural District – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Landkreis_Bamberg" title="Landkreis Bamberg – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%91%D0%B0%D0%BC%D0%B1%D0%B5%D1%80%D0%B3_(%D1%80%D0%B0%D0%B9%D0%BE%D0%BD)" title="Бамберг (район) – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Bamberg_(huy%E1%BB%87n)" title="Bamberg (huyện) – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Bamberg_(distrito)" title="Bamberg (distrito) – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E7%8F%AD%E8%B4%9D%E6%A0%BC%E5%8E%BF" title="班贝格县 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q10444#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 24 June 2017, at 12:32.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Bamberg_(district)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.444","walltime":"0.736","ppvisitednodes":{"value":3650,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":50034,"limit":2097152},"templateargumentsize":{"value":3159,"limit":2097152},"expansiondepth":{"value":26,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  359.485      1 -total"," 66.18%  237.897      1 Template:Infobox_German_district"," 64.70%  232.587      1 Template:Infobox_settlement"," 51.25%  184.236      1 Template:Infobox"," 24.03%   86.401      6 Template:Population_Germany"," 22.43%   80.623      6 Template:Metadata_Population_DE-BY"," 13.77%   49.506      1 Template:Refimprove","  9.45%   33.957      1 Template:Cite_web","  8.65%   31.098      1 Template:Ambox","  7.62%   27.388      1 Template:Commons_category"]},"scribunto":{"limitreport-timeusage":{"value":"0.095","limit":"10.000"},"limitreport-memusage":{"value":3557964,"limit":52428800}},"cachereport":{"origin":"mw1188","timestamp":"20171007165545","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":93,"wgHostname":"mw1212"});});</script>
+	</body>
+</html>

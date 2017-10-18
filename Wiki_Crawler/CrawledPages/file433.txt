@@ -1,0 +1,1199 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Osnabrück - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Osnabrück","wgTitle":"Osnabrück","wgCurRevisionId":803401446,"wgRevisionId":803401446,"wgArticleId":73681,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 German-language sources (de)","Coordinates on Wikidata","Articles with hAudio microformats","Articles containing non-English-language text","All articles with unsourced statements","Articles with unsourced statements from February 2015","Articles containing potentially dated statements from 2014","All articles containing potentially dated statements","Articles with unsourced statements from February 2010","Articles with German-language external links","Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","Cities in Lower Saxony","780 establishments in Europe","Province of Hanover","Osnabrück","Populated places established in the 8th century","University towns in Germany","Members of the Hanseatic League","Holocaust locations in Germany"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Osnabrück","wgRelevantArticleId":73681,"wgRequestId":"WeYznApAAEYAAF@8sC8AAACR","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCoordinates":{"lat":52.283333333333,"lon":8.05},"wgWikibaseItemId":"Q2916","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.math.scripts","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.3"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Osnabr%C3%BCck_aerial.jpg/1200px-Osnabr%C3%BCck_aerial.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Osnabr%C3%BCck"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Osnabr%C3%BCck&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Osnabr%C3%BCck&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Osnabr%C3%BCck"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Osnabrück rootpage-Osnabrück vector-experimental-print-styles vector-nav-directionality skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Osnabrück</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox geography vcard" style="width:22em;width:23em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap"><span class="fn org"><span class="wrap">Osnabrück</span></span></th>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Osnabr%C3%BCck_aerial.jpg" class="image" title="mid-June 2009 aerial view of downtown Osnabrück"><img alt="mid-June 2009 aerial view of downtown Osnabrück" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Osnabr%C3%BCck_aerial.jpg/250px-Osnabr%C3%BCck_aerial.jpg" width="250" height="165" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Osnabr%C3%BCck_aerial.jpg/375px-Osnabr%C3%BCck_aerial.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Osnabr%C3%BCck_aerial.jpg/500px-Osnabr%C3%BCck_aerial.jpg 2x" data-file-width="2288" data-file-height="1514" /></a>
+<div>mid-June 2009 aerial view of downtown Osnabrück</div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" class="maptable" style="text-align:center">
+<table style="width:100%; background:none;">
+<tr>
+<td style="vertical-align:middle; text-align:center;"><a href="/wiki/File:Banner_der_Stadt_Osnabr%C3%BCck.svg" class="image" title="Flag of Osnabrück  "><img alt="Flag of Osnabrück  " src="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Banner_der_Stadt_Osnabr%C3%BCck.svg/100px-Banner_der_Stadt_Osnabr%C3%BCck.svg.png" width="100" height="267" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Banner_der_Stadt_Osnabr%C3%BCck.svg/150px-Banner_der_Stadt_Osnabr%C3%BCck.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/38/Banner_der_Stadt_Osnabr%C3%BCck.svg/200px-Banner_der_Stadt_Osnabr%C3%BCck.svg.png 2x" data-file-width="512" data-file-height="1365" /></a><br />
+<small>Flag</small></td>
+<td style="vertical-align:middle; text-align:center;"><a href="/wiki/File:Osnabr%C3%BCck_Wappen.svg" class="image" title="Coat of arms of Osnabrück  "><img alt="Coat of arms of Osnabrück  " src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Osnabr%C3%BCck_Wappen.svg/71px-Osnabr%C3%BCck_Wappen.svg.png" width="71" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Osnabr%C3%BCck_Wappen.svg/107px-Osnabr%C3%BCck_Wappen.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Osnabr%C3%BCck_Wappen.svg/143px-Osnabr%C3%BCck_Wappen.svg.png 2x" data-file-width="536" data-file-height="600" /></a><br />
+<small>Coat of arms</small></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center">
+<div class="center">
+<div style="width:170px;float:none;clear:both;margin-left:auto;margin-right:auto">
+<div style="width:170px;padding:0">
+<div style="position:relative;width:170px"><a href="/wiki/File:Germany_adm_location_map.svg" class="image" title="Osnabrück   is located in Germany"><img alt="Osnabrück   is located in Germany" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/170px-Germany_adm_location_map.svg.png" width="170" height="202" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/255px-Germany_adm_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/340px-Germany_adm_location_map.svg.png 2x" data-file-width="1073" data-file-height="1272" /></a>
+<div style="position:absolute;top:35.658%;left:25.5%">
+<div style="position:absolute;left:-3px;top:-3px;line-height:0"><img alt="Osnabrück  " src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png" title="Osnabrück  " width="6" height="6" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/9px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div>
+<div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:4px;text-align:left"><span style="padding:1px;float:left"><span class="wrap">Osnabrück</span></span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr class="mergedbottomrow">
+<td colspan="2" style="text-align:center">Coordinates: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Osnabr%C3%BCck&amp;params=52_17_N_8_3_E_type:city(162403)_region:DE-NI"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">52°17′N</span> <span class="longitude">8°3′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">52.283°N 8.050°E</span><span style="display:none">﻿ / <span class="geo">52.283; 8.050</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Osnabr%C3%BCck&amp;params=52_17_N_8_3_E_type:city(162403)_region:DE-NI"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">52°17′N</span> <span class="longitude">8°3′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">52.283°N 8.050°E</span><span style="display:none">﻿ / <span class="geo">52.283; 8.050</span></span></span></a></span></span></span></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Country</th>
+<td><a href="/wiki/Germany" title="Germany">Germany</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/States_of_Germany" title="States of Germany">State</a></th>
+<td><a href="/wiki/Lower_Saxony" title="Lower Saxony">Lower Saxony</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Districts_of_Germany" title="Districts of Germany">District</a></th>
+<td><a href="/wiki/Urban_districts_of_Germany" class="mw-redirect" title="Urban districts of Germany">Urban district</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Government</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;<a href="/wiki/Lord_Mayor" class="mw-redirect" title="Lord Mayor">Lord Mayor</a></th>
+<td>Wolfgang Griesert<sup id="cite_ref-FOOTNOTEHinrichs2013_1-0" class="reference"><a href="#cite_note-FOOTNOTEHinrichs2013-1">[1]</a></sup> (<a href="/wiki/Christian_Democratic_Union_(Germany)" class="mw-redirect" title="Christian Democratic Union (Germany)">CDU</a>)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Area</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;City</th>
+<td>119.80&#160;km<sup>2</sup> (46.26&#160;sq&#160;mi)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Elevation</th>
+<td>63&#160;m (207&#160;ft)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Population <span style="font-weight:normal">(2015-12-31)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></span></th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;City</th>
+<td>162,403</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Density</th>
+<td>1,400/km<sup>2</sup> (3,500/sq&#160;mi)</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;<a href="/wiki/Metropolitan_area" title="Metropolitan area">Metro</a></th>
+<td>272,674</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/Time_zone" title="Time zone">Time zone</a></th>
+<td><a href="/wiki/Central_European_Time" title="Central European Time">CET</a>/<a href="/wiki/Central_European_Summer_Time" title="Central European Summer Time">CEST</a> (UTC+1/+2)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/List_of_postal_codes_in_Germany" title="List of postal codes in Germany">Postal codes</a></th>
+<td class="adr"><span class="postal-code">49074–49090</span></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/List_of_dialling_codes_in_Germany" title="List of dialling codes in Germany">Dialling codes</a></th>
+<td>0541</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Vehicle_registration_plate" title="Vehicle registration plate">Vehicle registration</a></th>
+<td>OS</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Website</th>
+<td><a rel="nofollow" class="external text" href="http://www.osnabrueck.de/">www.osnabrueck.de</a></td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:242px;"><a href="/wiki/File:OSRathaus.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/OSRathaus.JPG/240px-OSRathaus.JPG" width="240" height="180" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/OSRathaus.JPG/360px-OSRathaus.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/13/OSRathaus.JPG/480px-OSRathaus.JPG 2x" data-file-width="2592" data-file-height="1944" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:OSRathaus.JPG" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Osnabr%C3%BCck_Town_Hall" title="Osnabrück Town Hall">Old Townhall</a></div>
+</div>
+</div>
+<p><b>Osnabrück</b> (<small>German pronunciation:</small> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA/Standard_German" title="Help:IPA/Standard German">[ɔsnaˈbʁʏk]</a></span><small class="nowrap metadata">&#160;(<span class="unicode haudio"><span class="fn"><span style="white-space:nowrap"><a href="/wiki/File:De-Osnabr%C3%BCck.ogg" title="About this sound"><img alt="About this sound" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" data-file-width="20" data-file-height="20" /></a>&#160;</span><a href="//upload.wikimedia.org/wikipedia/commons/f/f5/De-Osnabr%C3%BCck.ogg" class="internal" title="De-Osnabrück.ogg">listen</a></span></span>)</small>; <a href="/wiki/Westphalian_language" title="Westphalian language">Westphalian</a>: <span lang="wep" xml:lang="wep"><i>Ossenbrügge</i></span>; archaic English: Osnaburg) is a city in the <a href="/wiki/States_of_Germany" title="States of Germany">federal state</a> of <a href="/wiki/Lower-Saxony" class="mw-redirect" title="Lower-Saxony">Lower-Saxony</a> in north-west <a href="/wiki/Germany" title="Germany">Germany</a>. It is situated in a valley penned between the <a href="/wiki/Wiehen_Hills" title="Wiehen Hills">Wiehen Hills</a> and the northern tip of the <a href="/wiki/Teutoburg_Forest" title="Teutoburg Forest">Teutoburg Forest</a>. With a population of 168,145,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Osnabrück is one of the four largest cities in Lower Saxony.<sup id="cite_ref-FOOTNOTETeam_Strategische_Stadtentwicklung_und_Statistik20131_4-0" class="reference"><a href="#cite_note-FOOTNOTETeam_Strategische_Stadtentwicklung_und_Statistik20131-4">[4]</a></sup> The city is the centrepoint of the <a href="/wiki/Osnabr%C3%BCck_Land" title="Osnabrück Land">Osnabrück Land</a> region as well as the <a href="/wiki/Osnabr%C3%BCck_(district)" title="Osnabrück (district)">District of Osnabrück</a>.<sup id="cite_ref-Das_Osnabr.C3.BCcker_Land_Friedensstadt_.E2.80.93_Lebendiges_Zentrum_im_Osnabr.C3.BCcker_Land_5-0" class="reference"><a href="#cite_note-Das_Osnabr.C3.BCcker_Land_Friedensstadt_.E2.80.93_Lebendiges_Zentrum_im_Osnabr.C3.BCcker_Land-5">[5]</a></sup></p>
+<p>The founding of Osnabrück was linked to its positioning on important European trading routes. <a href="/wiki/Charles_the_Great" class="mw-redirect" title="Charles the Great">Charles the Great</a> founded the <a href="/wiki/Diocese_of_Osnabr%C3%BCck" class="mw-redirect" title="Diocese of Osnabrück">Diocese of Osnabrück</a> in 780. The city was also a member of the <a href="/wiki/Hanseatic_League" title="Hanseatic League">Hanseatic League</a>. Later Osnabrück became well known for its role in the <a href="/wiki/Peace_of_Westphalia" title="Peace of Westphalia">Peace of Westphalia</a> in 1648 which brought the <a href="/wiki/Thirty_Years%E2%80%99_War" class="mw-redirect" title="Thirty Years’ War">Thirty Years’ War</a> to an end; the treaty was signed both there and in nearby <a href="/wiki/M%C3%BCnster" title="Münster">Münster</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> The <a href="/wiki/Battle_of_the_Teutoburg_Forest" title="Battle of the Teutoburg Forest">Battle of the Teutoburg Forest</a> took place in the region surrounding Osnabrück. The city is also known as the birthplace of novelist <a href="/wiki/Erich-Maria_Remarque" class="mw-redirect" title="Erich-Maria Remarque">Erich-Maria Remarque</a> (“<a href="/wiki/All_Quiet_on_the_Western_Front" title="All Quiet on the Western Front">All Quiet on the Western Front</a>”) and painter <a href="/wiki/Felix_Nussbaum" title="Felix Nussbaum">Felix Nussbaum</a>.</p>
+<p>Osnabrück's role in the Treaty of Westphalia later led it to adopt the title <i>Friedensstadt</i> ("city of peace"). More recently Osnabrück has become well known for its industry. Numerous companies in the automobile, paper, steel and grocery sectors are located in the city and its surrounding area.<sup id="cite_ref-Staedtereport_Osnabrueck_okt_2009.pdf_.28application.2Fpdf-Objekt.29_7-0" class="reference"><a href="#cite_note-Staedtereport_Osnabrueck_okt_2009.pdf_.28application.2Fpdf-Objekt.29-7">[7]</a></sup> In spite of the massive destruction inflicted on the city during <a href="/wiki/World_War_II" title="World War II">World War II</a>, the <a href="/wiki/Old_town" title="Old town">Altstadt</a> (old town) was eventually reconstructed extensively with designs loyal to the original <a href="/wiki/Medieval_architecture" title="Medieval architecture">medieval architecture</a> there. Osnabrück was also the home of the largest British garrison outside of the <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Osnabrück's modern, urban image is enhanced by the presence of more than 22,000 students studying at the <a href="/wiki/University_of_Osnabr%C3%BCck" title="University of Osnabrück">University</a> and the <a href="/wiki/Osnabr%C3%BCck_University_of_Applied_Sciences" title="Osnabrück University of Applied Sciences">University of Applied Sciences</a>.<sup id="cite_ref-Stadtportr.C3.A4t_9-0" class="reference"><a href="#cite_note-Stadtportr.C3.A4t-9">[9]</a></sup> Although situated in the region of Lower Saxony, historically, culturally and linguistically Osnabrück is held to belong to the region of <a href="/wiki/Westphalia" title="Westphalia">Westphalia</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Name"><span class="tocnumber">1</span> <span class="toctext">Name</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Medieval"><span class="tocnumber">2.1</span> <span class="toctext">Medieval</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Early_Modern_age"><span class="tocnumber">2.2</span> <span class="toctext">Early Modern age</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#19th_century"><span class="tocnumber">2.3</span> <span class="toctext">19th century</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#20th_century"><span class="tocnumber">2.4</span> <span class="toctext">20th century</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Main_sights"><span class="tocnumber">3</span> <span class="toctext">Main sights</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Famous_people"><span class="tocnumber">4</span> <span class="toctext">Famous people</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#More_sons_and_daughters_of_the_town"><span class="tocnumber">5</span> <span class="toctext">More sons and daughters of the town</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Economy"><span class="tocnumber">6</span> <span class="toctext">Economy</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Education"><span class="tocnumber">7</span> <span class="toctext">Education</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Transportation"><span class="tocnumber">8</span> <span class="toctext">Transportation</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Districts_of_Osnabr.C3.BCck"><span class="tocnumber">9</span> <span class="toctext">Districts of Osnabrück</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Twin_towns_and_sister_cities"><span class="tocnumber">10</span> <span class="toctext">Twin towns and sister cities</span></a>
+<ul>
+<li class="toclevel-2 tocsection-15"><a href="#Twinning_with_Derby"><span class="tocnumber">10.1</span> <span class="toctext">Twinning with Derby</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#See_also"><span class="tocnumber">11</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#Notes"><span class="tocnumber">12</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#References"><span class="tocnumber">13</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#Further_reading"><span class="tocnumber">14</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#External_links"><span class="tocnumber">15</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Name">Name</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Osnabr%C3%BCck&amp;action=edit&amp;section=1" title="Edit section: Name">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Names_of_European_cities_in_different_languages:_M%E2%80%93P#O" title="Names of European cities in different languages: M–P">Names of European cities in different languages: Osnabrück</a></div>
+<p>The origin of the name Osnabrück is disputed. The suffix <i>-brück</i> suggests a bridge over or to something (from German <i>Brücke</i> = bridge) but the prefix <i>Osna-</i> is explained in at least two different ways: the traditional explanation is that today's name is a corruption of <i>Ochsenbrücke</i> (meaning "oxen bridge"), but others state that it is derived from the name of the <i>Hase</i> River which is arguably derived from <i>Asen</i> (<a href="/wiki/%C3%86sir" title="Æsir">Æsir</a>), thus giving Osnabrück the meaning "bridge to the gods".<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> The way in which the city's name is pronounced can also serve as a means of telling if the speaker is a native of Osnabrück or a visitor: most locals stress the last syllable, while those from elsewhere tend to stress the first one.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (February 2015)">citation needed</span></a></i>]</sup> The city gave its name to the textile fabric of <a href="/wiki/Osnaburg" title="Osnaburg">osnaburg</a> (note: "-burg" means <i>borough</i>).</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Osnabr%C3%BCck&amp;action=edit&amp;section=2" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Medieval">Medieval</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Osnabr%C3%BCck&amp;action=edit&amp;section=3" title="Edit section: Medieval">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Osnabrück initially developed as a marketplace next to the bishopric founded by <a href="/wiki/Charlemagne" title="Charlemagne">Charlemagne</a>, King of the <a href="/wiki/Kingdom_of_the_Franks" class="mw-redirect" title="Kingdom of the Franks">Franks</a>, in 780. Some time prior to 803, the city became the seat of the <a href="/wiki/Prince-Bishopric_of_Osnabr%C3%BCck" title="Prince-Bishopric of Osnabrück">Prince-Bishopric of Osnabrück</a>. Although the precise date is uncertain, it is likely that Osnabrück is the oldest bishopric in Lower Saxony.</p>
+<p>In the year 804 Charlemagne was said to have founded the <a href="/wiki/Gymnasium_Carolinum_(Osnabr%C3%BCck)" title="Gymnasium Carolinum (Osnabrück)">Gymnasium Carolinum in Osnabrück</a>. This would make it the oldest German <a href="/wiki/Gymnasium_(school)" title="Gymnasium (school)">Gymnasium</a> school, but the charter date is disputed by historians, some of whom believe it could be a forgery.</p>
+<p>In 889 the town was given merchant, customs, and coinage privileges by King <a href="/wiki/Arnulf_of_Carinthia" title="Arnulf of Carinthia">Arnulf</a> of <a href="/w/index.php?title=Kingdom_of_Carinthia&amp;action=edit&amp;redlink=1" class="new" title="Kingdom of Carinthia (page does not exist)">Carinthia</a>. Osnabrück was first referred to in records as a "city" in 1147. A decade later, Emperor <a href="/wiki/Frederick_I,_Holy_Roman_Emperor" title="Frederick I, Holy Roman Emperor">Frederick Barbarossa</a> granted the city <a href="/wiki/Fortification" title="Fortification">fortification</a> privileges (<i>Befestigungsrecht</i>). Most of the towers which were part of the original fortifications are still visible in the city. Osnabrück became a member of the <a href="/wiki/Hanseatic_League" title="Hanseatic League">Hanseatic League</a> in the 12th century, as well as a member of the <a href="/w/index.php?title=Westphalian_Federation_of_Cities&amp;action=edit&amp;redlink=1" class="new" title="Westphalian Federation of Cities (page does not exist)">Westphalian Federation of Cities</a>.</p>
+<p>The history of the town in the later Middle Ages was recorded in a chronicle by <a href="/wiki/Albert_Suho" title="Albert Suho">Albert Suho</a>, one of Osnabrück's most important clerics in the 15th century.</p>
+<h3><span class="mw-headline" id="Early_Modern_age">Early Modern age</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Osnabr%C3%BCck&amp;action=edit&amp;section=4" title="Edit section: Early Modern age">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>From 1561 to 1639 there was a considerable amount of social unrest and tension in Osnabrück due to the <a href="/wiki/Protestant_Reformation" class="mw-redirect" title="Protestant Reformation">Protestant Reformation</a>, the <a href="/wiki/Thirty_Years%27_War" title="Thirty Years' War">Thirty Years' War</a> and also witch hunting. In 1582, during the rule of Mayor Hammacher (1565–1588), 163 women were executed as alleged witches; most of them were burned alive. In total, 276 women were executed, along with 2 men who had been charged with wizardry.</p>
+<p>The first Lutheran services were held in Osnabrück in 1543. Over the next century, Lutheranism expanded in the city and several Protestant bishops were elected. However, the Catholic churches continued to operate, and the city never became completely Lutheran. After the Thirty Years' War broke out, a Catholic bishop was elected in 1623, and the city was occupied by troops of the Catholic League in 1628.<sup id="cite_ref-greengrass2014_11-0" class="reference"><a href="#cite_note-greengrass2014-11">[11]</a></sup> The <a href="/wiki/Gymnasium_Carolinum_(Osnabr%C3%BCck)" title="Gymnasium Carolinum (Osnabrück)">Gymnasium Carolinum</a> was upgraded to a <a href="/wiki/Jesuit" class="mw-redirect" title="Jesuit">Jesuit</a> university in 1632, but the university was closed a year later when the city was <a href="/wiki/Swedish_intervention_in_the_Thirty_Years%27_War" title="Swedish intervention in the Thirty Years' War">taken by Swedish troops</a> and restored to Protestant control.</p>
+<p>Peace negotiations took place in Osnabrück and the nearby city of <a href="/wiki/M%C3%BCnster" title="Münster">Münster</a> from 1643 to 1648. The twin Treaties of Osnabrück and Münster, collectively known as the <a href="/wiki/Peace_of_Westphalia" title="Peace of Westphalia">Peace of Westphalia</a>, ended the Thirty Years' War. Osnabrück was officially recognized as bi-confessional Catholic and Lutheran. The <a href="/wiki/Prince-Bishopric_of_Osnabr%C3%BCck" title="Prince-Bishopric of Osnabrück">prince-bishopric</a> would be held alternately by a Catholic bishop and a Lutheran bishop. The Protestant bishop would be selected from the descendants of the <a href="/wiki/Duchy_of_Brunswick-L%C3%BCneburg" title="Duchy of Brunswick-Lüneburg">Dukes of Brunswick-Lüneburg</a>, with priority given to the <a href="/wiki/Cadet_(genealogy)" title="Cadet (genealogy)">cadets</a> of what became the <a href="/wiki/House_of_Hanover" title="House of Hanover">House of Hanover</a>.</p>
+<p>In the early 18th century, renowned local jurist and social theorist <a href="/wiki/Justus_M%C3%B6ser" title="Justus Möser">Justus Möser</a> wrote a highly influential constitutional history of the town, the <i>Osnabrücker Geschichte</i>.<sup id="cite_ref-FOOTNOTEPanayi200715-16_12-0" class="reference"><a href="#cite_note-FOOTNOTEPanayi200715-16-12">[12]</a></sup> Following the <a href="/wiki/Seven_Years%27_War" title="Seven Years' War">Seven Years' War</a>, the town's population fell below 6,000, however an economic revival linked to the <a href="/wiki/Linen" title="Linen">linen</a> and <a href="/wiki/Tobacco" title="Tobacco">tobacco</a> industries caused it to rise again from the 1780s onwards.<sup id="cite_ref-FOOTNOTEPanayi200715_13-0" class="reference"><a href="#cite_note-FOOTNOTEPanayi200715-13">[13]</a></sup></p>
+<h3><span class="mw-headline" id="19th_century">19th century</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Osnabr%C3%BCck&amp;action=edit&amp;section=5" title="Edit section: 19th century">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a href="/wiki/French_Revolutionary_Wars" title="French Revolutionary Wars">French Revolutionary Wars</a> brought <a href="/wiki/Prussia" title="Prussia">Prussian</a> troops into the city in 1795, followed by the French in 1803.<sup id="cite_ref-FOOTNOTEPanayi200716_14-0" class="reference"><a href="#cite_note-FOOTNOTEPanayi200716-14">[14]</a></sup> As a result, the town's population was kept below 10,000 for the whole first decade of the 19th century.<sup id="cite_ref-FOOTNOTEPanayi200716_14-1" class="reference"><a href="#cite_note-FOOTNOTEPanayi200716-14">[14]</a></sup> The Napoleonic period saw possession of the city change hands several times. Control of Osnabrück passed to the <a href="/wiki/Electorate_of_Hanover" class="mw-redirect" title="Electorate of Hanover">Electorate of Hanover</a> in 1803 during the <a href="/wiki/German_Mediatisation" class="mw-redirect" title="German Mediatisation">German Mediatisation</a>, and then briefly to the <a href="/wiki/Kingdom_of_Prussia" title="Kingdom of Prussia">Kingdom of Prussia</a> in 1806. From 1807 to 1810 the city was part of the <a href="/wiki/Kingdom_of_Westphalia" title="Kingdom of Westphalia">Kingdom of Westphalia</a>, after which it passed to the <a href="/wiki/First_French_Empire" title="First French Empire">First French Empire</a>. After 1815, it became part of the <a href="/wiki/Kingdom_of_Hanover" title="Kingdom of Hanover">Kingdom of Hanover</a>.</p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:182px;"><a href="/wiki/File:OS-Dom.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/OS-Dom.JPG/180px-OS-Dom.JPG" width="180" height="240" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/OS-Dom.JPG/270px-OS-Dom.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/OS-Dom.JPG/360px-OS-Dom.JPG 2x" data-file-width="1944" data-file-height="2592" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:OS-Dom.JPG" class="internal" title="Enlarge"></a></div>
+St. Peter's Cathedral</div>
+</div>
+</div>
+<p>The town's first railway line was built in 1855, connecting it with <a href="/wiki/L%C3%B6hne" title="Löhne">Löhne</a>. Further rail connections appeared over the following decades, connecting Osnabrück with <a href="/wiki/Emden" title="Emden">Emden</a> from 1856, <a href="/wiki/Cologne" title="Cologne">Cologne</a> from 1871 and <a href="/wiki/Hamburg" title="Hamburg">Hamburg</a> from 1874.<sup id="cite_ref-FOOTNOTEPanayi200716-17_15-0" class="reference"><a href="#cite_note-FOOTNOTEPanayi200716-17-15">[15]</a></sup> In 1866, Osnabrück was annexed by Prussia after the <a href="/wiki/Austro-Prussian_War" title="Austro-Prussian War">Austro-Prussian War</a> and administered as part of the <a href="/wiki/Province_of_Hanover" title="Province of Hanover">Province of Hanover</a>. Growth of the local economy and population was fuelled by expansion in the engineering and textile industries, with the Hammersen Weaving Mill established in 1869 and the <i>Osnabrücker Kupfer- und Drahtwerk</i> metallurgical firm following in 1873.<sup id="cite_ref-FOOTNOTEPanayi200716_14-2" class="reference"><a href="#cite_note-FOOTNOTEPanayi200716-14">[14]</a></sup> The later 19th century also saw growth in the number of schools and the arrival of electricity and modern sanitation.<sup id="cite_ref-FOOTNOTEPanayi200717_16-0" class="reference"><a href="#cite_note-FOOTNOTEPanayi200717-16">[16]</a></sup></p>
+<h3><span class="mw-headline" id="20th_century">20th century</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Osnabr%C3%BCck&amp;action=edit&amp;section=6" title="Edit section: 20th century">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>By 1914, Osnabrück had over 70,000 inhabitants.<sup id="cite_ref-FOOTNOTEPanayi200716_14-3" class="reference"><a href="#cite_note-FOOTNOTEPanayi200716-14">[14]</a></sup> The outbreak of the <a href="/wiki/First_World_War" class="mw-redirect" title="First World War">First World War</a> necessitated food rationing; the Allied blockade and a harsh winter in 1917 led to further shortages.<sup id="cite_ref-FOOTNOTEPanayi200717_16-1" class="reference"><a href="#cite_note-FOOTNOTEPanayi200717-16">[16]</a></sup> Following Germany's defeat in 1918, a council made up of workers and soldiers took control during the <a href="/wiki/German_Revolution_of_1918%E2%80%9319" title="German Revolution of 1918–19">November Revolution</a>, but were replaced by the new <a href="/wiki/Weimar_Republic" title="Weimar Republic">Weimar Republic</a> the following year.<sup id="cite_ref-FOOTNOTEPanayi200717-18_17-0" class="reference"><a href="#cite_note-FOOTNOTEPanayi200717-18-17">[17]</a></sup> Similarly to many other German cities, Osnabrück experienced considerable inflation and unemployment in the 1920s, with over 2,000 out of work by 1923 and nearly 14,000 receiving some form of government assistance by 1928.<sup id="cite_ref-FOOTNOTEPanayi200718_18-0" class="reference"><a href="#cite_note-FOOTNOTEPanayi200718-18">[18]</a></sup></p>
+<p>Politically, Osnabrück in the 1920s was a stronghold of support for the Social Democrats and the Catholic <a href="/wiki/Centre_Party_(Germany)" title="Centre Party (Germany)">Centre Party</a>. However, in the Reichstag elections of September 1930, the <a href="/wiki/Nazi_Party" title="Nazi Party">Nazi Party</a> received the greatest percentage of votes in the city (nearly 28%) - a more than seven-fold increase from their electoral performance in Osnabrück two years prior.<sup id="cite_ref-FOOTNOTEPanayi200737_19-0" class="reference"><a href="#cite_note-FOOTNOTEPanayi200737-19">[19]</a></sup> During the campaigns prior to the two federal elections in 1932, both <a href="/wiki/Adolf_Hitler" title="Adolf Hitler">Adolf Hitler</a> and <a href="/wiki/Joseph_Goebbels" title="Joseph Goebbels">Joseph Goebbels</a> made well-attended speeches in the city.<sup id="cite_ref-FOOTNOTEPanayi200744_20-0" class="reference"><a href="#cite_note-FOOTNOTEPanayi200744-20">[20]</a></sup></p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:242px;"><a href="/wiki/File:Osnabr%C3%BCck_S%C3%BCden.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Osnabr%C3%BCck_S%C3%BCden.JPG/240px-Osnabr%C3%BCck_S%C3%BCden.JPG" width="240" height="180" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Osnabr%C3%BCck_S%C3%BCden.JPG/360px-Osnabr%C3%BCck_S%C3%BCden.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Osnabr%C3%BCck_S%C3%BCden.JPG/480px-Osnabr%C3%BCck_S%C3%BCden.JPG 2x" data-file-width="1984" data-file-height="1488" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Osnabr%C3%BCck_S%C3%BCden.JPG" class="internal" title="Enlarge"></a></div>
+Southern part of the inner city</div>
+</div>
+</div>
+<p>Following the Nazis' seizure of power in January 1933, Osnabrück was subjected to the implementation of National Socialist economic, political, and social programmes. These resulted in economic growth for ethnic Germans who did not run afoul of the new regime, and the town went from having over 10,000 unemployed in early 1933 to actually having a labour shortage five years later.<sup id="cite_ref-FOOTNOTEPanayi200755_21-0" class="reference"><a href="#cite_note-FOOTNOTEPanayi200755-21">[21]</a></sup> However, dissenters, supporters of opposition parties and <a href="/wiki/Jews" title="Jews">Jews</a> did not share in this growth and found themselves discriminated against, imprisoned or forced to close their businesses and leave town.<sup id="cite_ref-FOOTNOTEPanayi200723-24.2C81.2C_186-200_22-0" class="reference"><a href="#cite_note-FOOTNOTEPanayi200723-24.2C81.2C_186-200-22">[22]</a></sup> During the war, both Jews and <a href="/wiki/Romani_people" title="Romani people">Romany</a> were deported to <a href="/wiki/Nazi_concentration_camps" title="Nazi concentration camps">concentration camps</a> and <a href="/wiki/Extermination_camp" title="Extermination camp">extermination camps</a> en masse.<sup id="cite_ref-FOOTNOTEPanayi2007197-98.2C211_23-0" class="reference"><a href="#cite_note-FOOTNOTEPanayi2007197-98.2C211-23">[23]</a></sup> During <a href="/wiki/World_War_II" title="World War II">World War II</a> the city was bombed extensively, requiring major reconstructive programmes following the war's end.</p>
+<p>The war ended for Osnabrück on 4 April 1945, when the <a href="/wiki/VIII_Corps_(United_Kingdom)" title="VIII Corps (United Kingdom)">XVII Corps</a> of <a href="/wiki/Bernard_Montgomery,_1st_Viscount_Montgomery_of_Alamein" class="mw-redirect" title="Bernard Montgomery, 1st Viscount Montgomery of Alamein">Montgomery's</a> <a href="/wiki/Second_Army_(United_Kingdom)" title="Second Army (United Kingdom)">Second Army</a> entered the city with little resistance.<sup id="cite_ref-FOOTNOTEPanayi2007137_24-0" class="reference"><a href="#cite_note-FOOTNOTEPanayi2007137-24">[24]</a></sup> Leading Nazis fled the city and the British appointed a new mayor, Johannes Petermann. However, power remained chiefly with the occupiers, represented locally by the military governor, Colonel Geoffrey Day.<sup id="cite_ref-FOOTNOTEPanayi2007135.2C137_25-0" class="reference"><a href="#cite_note-FOOTNOTEPanayi2007135.2C137-25">[25]</a></sup> Relations between the occupiers and the citizens of Osnabrück were generally peaceful, though tensions existed; some minor fights broke out between British soldiers and local youths and some Osnabrückers resented the relationships that developed between the occupiers and local women.<sup id="cite_ref-FOOTNOTEPanayi2007136-37_26-0" class="reference"><a href="#cite_note-FOOTNOTEPanayi2007136-37-26">[26]</a></sup> Additionally, the British took over more than seventy homes for their own use by the middle of 1946.<sup id="cite_ref-FOOTNOTEPanayi2007150-51_27-0" class="reference"><a href="#cite_note-FOOTNOTEPanayi2007150-51-27">[27]</a></sup> Amidst shortages, the black market thrived and became one of the main focuses of police activity.<sup id="cite_ref-FOOTNOTEPanayi2007153-56_28-0" class="reference"><a href="#cite_note-FOOTNOTEPanayi2007153-56-28">[28]</a></sup></p>
+<p>After World War II <a href="/wiki/West_Germany" title="West Germany">West Germany</a> realigned its states; Osnabrück became part of the new state of <a href="/wiki/Lower_Saxony" title="Lower Saxony">Lower Saxony</a> in 1946. The British continued to maintain <a href="/wiki/Osnabr%C3%BCck_Garrison" title="Osnabrück Garrison">Osnabrück Garrison</a>, a garrison near the city, which at one point was the largest British <a href="/wiki/Garrison" title="Garrison">garrison</a> in the world, housing some 4,000 troops and employing around 500 local civilians.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup> It was the target of a <a href="/wiki/Provisional_Irish_Republican_Army" title="Provisional Irish Republican Army">PIRA</a> <a href="/wiki/Osnabr%C3%BCck_mortar_attack" title="Osnabrück mortar attack">attack in 1996</a>.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup> Due to budget cuts, the troops were withdrawn in 2008 and the property returned to the local government.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup></p>
+<p>After three centuries, the city finally obtained its university when the government of Lower Saxony established the <a href="/wiki/University_of_Osnabr%C3%BCck" title="University of Osnabrück">University of Osnabrück</a> in 1974.</p>
+<p>Largest minority groups in Osnabrück as of 2014<sup class="plainlinks noprint asof-tag update" style="display:none;"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Osnabr%C3%BCck&amp;action=edit">[update]</a></sup>:<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup></p>
+<table class="wikitable">
+<tr>
+<th style="background:#efefef;">Rank</th>
+<th style="background:#efefef;">Nationality</th>
+<th style="background:#efefef;">Population (2014)</th>
+</tr>
+<tr>
+<td>1</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/23px-Flag_of_Turkey.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/35px-Flag_of_Turkey.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/45px-Flag_of_Turkey.svg.png 2x" data-file-width="1200" data-file-height="800" />&#160;</span><a href="/wiki/Turkey" title="Turkey">Turkey</a></td>
+<td>2,810</td>
+</tr>
+<tr>
+<td>2</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/35px-Flag_of_Poland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/46px-Flag_of_Poland.svg.png 2x" data-file-width="1280" data-file-height="800" />&#160;</span><a href="/wiki/Poland" title="Poland">Poland</a></td>
+<td>1,171</td>
+</tr>
+<tr>
+<td>3</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/23px-Flag_of_Portugal.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/35px-Flag_of_Portugal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/45px-Flag_of_Portugal.svg.png 2x" data-file-width="600" data-file-height="400" />&#160;</span><a href="/wiki/Portugal" title="Portugal">Portugal</a></td>
+<td>1,000</td>
+</tr>
+<tr>
+<td>4</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/23px-Flag_of_Bulgaria.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/35px-Flag_of_Bulgaria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/46px-Flag_of_Bulgaria.svg.png 2x" data-file-width="1000" data-file-height="600" />&#160;</span><a href="/wiki/Bulgaria" title="Bulgaria">Bulgaria</a></td>
+<td>920</td>
+</tr>
+<tr>
+<td>5</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/35px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/45px-Flag_of_Russia.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Russia" title="Russia">Russia</a></td>
+<td>692</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Main_sights">Main sights</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Osnabr%C3%BCck&amp;action=edit&amp;section=7" title="Edit section: Main sights">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:242px;"><a href="/wiki/File:Heger-Tor-os.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Heger-Tor-os.JPG/240px-Heger-Tor-os.JPG" width="240" height="180" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Heger-Tor-os.JPG/360px-Heger-Tor-os.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Heger-Tor-os.JPG/480px-Heger-Tor-os.JPG 2x" data-file-width="1280" data-file-height="960" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Heger-Tor-os.JPG" class="internal" title="Enlarge"></a></div>
+Heger Tor, formerly called Waterloo Tor, a memorial to <a href="/wiki/George_III_of_the_United_Kingdom" title="George III of the United Kingdom">Elector Georg's</a> <a href="/wiki/King%27s_German_Legion" title="King's German Legion">'German' Legion</a> in Osnabrück.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:242px;"><a href="/wiki/File:Neuer_Graben-Schloss_Osnabrueck.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Neuer_Graben-Schloss_Osnabrueck.jpg/240px-Neuer_Graben-Schloss_Osnabrueck.jpg" width="240" height="150" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Neuer_Graben-Schloss_Osnabrueck.jpg/360px-Neuer_Graben-Schloss_Osnabrueck.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Neuer_Graben-Schloss_Osnabrueck.jpg/480px-Neuer_Graben-Schloss_Osnabrueck.jpg 2x" data-file-width="973" data-file-height="607" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Neuer_Graben-Schloss_Osnabrueck.jpg" class="internal" title="Enlarge"></a></div>
+Osnabrück Castle</div>
+</div>
+</div>
+<ul>
+<li>Town Hall</li>
+<li>St. Peter's Cathedral, founded in the 11th century. It has two façade towers, originally the same size</li>
+<li>Gerdrudenberg Monastery</li>
+<li><i><a href="/wiki/St._Mary%27s_Church,_Osnabr%C3%BCck" title="St. Mary's Church, Osnabrück">Marienkirche</a></i></li>
+<li><i>Heger Tor</i> ("Heger Gate"), a monument to the soldiers from Osnabrück who died at the <a href="/wiki/Battle_of_Waterloo" title="Battle of Waterloo">Battle of Waterloo</a> in 1815</li>
+<li><i><a href="/wiki/Bucksturm" title="Bucksturm">Bucksturm</a></i>, the oldest tower in the city, and once part of the city walls. It was once used as a prison for women accused of witchcraft</li>
+<li><i>Ruwe</i> Fountain" (1985), created to mark the city's 1200th birthday</li>
+<li><i>Gladiator 2000</i> (1986), a gigantic painting measuring (45 × 6 meters), by <a href="/wiki/Nicu_Covaci" title="Nicu Covaci">Nicu Covaci</a></li>
+<li><a href="/wiki/Felix_Nussbaum_Haus" title="Felix Nussbaum Haus">Felix Nussbaum Haus</a>, a gallery and museum dedicated to the <a href="/wiki/Jewish" class="mw-redirect" title="Jewish">Jewish</a> artist and painter <a href="/wiki/Felix_Nussbaum" title="Felix Nussbaum">Felix Nussbaum</a>, who died during the <a href="/wiki/Holocaust" class="mw-redirect" title="Holocaust">Holocaust</a>. It was designed by the architect <a href="/wiki/Daniel_Libeskind" title="Daniel Libeskind">Daniel Libeskind</a></li>
+<li><i><a href="/wiki/Kalkriese" title="Kalkriese">Kalkriese</a> Museum</i>, situated on the battlefield of the <a href="/wiki/Battle_of_the_Teutoburg_Forest" title="Battle of the Teutoburg Forest">Battle of the Teutoburger Wald</a> in the Wiehen Hills, where German tribes under <a href="/wiki/Arminius" title="Arminius">Arminius</a> destroyed three Roman legions. It exhibits artefacts unearthed on the battlefield and tells the story of the battle</li>
+<li><i>Osnabrücker Schloss</i> (castle<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup>/palace<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup>) 17th century Baroque construction, nowadays the main building of the <a href="/wiki/University_of_Osnabr%C3%BCck" title="University of Osnabrück">University of Osnabrück</a></li>
+<li><a href="/wiki/Botanischer_Garten_der_Universit%C3%A4t_Osnabr%C3%BCck" title="Botanischer Garten der Universität Osnabrück">Botanischer Garten der Universität Osnabrück</a>, the university's <a href="/wiki/Botanical_garden" title="Botanical garden">botanical garden</a></li>
+<li>Old town with its small streets and medieval buildings</li>
+<li>Osnabrück Zoo</li>
+<li>Vitischanze - formerly a defence station in the north-west of the old city, it has the only undestroyed bridge in Europe with a defence walk below its surface. It is also the site of certain faculty of the <a href="/wiki/Fachhochschule#Germany" title="Fachhochschule">University of Applied Science</a>. It was earlier used as a casino</li>
+<li>Haseuferweg</li>
+<li>Katharinenkirche (St. Catherine's Church), which dates back to 1248 and is one of the 150 tallest churches in the world, and also the tallest medieval building in <a href="/wiki/Lower_Saxony" title="Lower Saxony">Lower Saxony</a><sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[35]</a></sup></li>
+<li>Hyde Park, a traditional music hall established in 1976, a haven of <a href="/wiki/Pop_music" title="Pop music">pop music</a> and <a href="/wiki/Youth_culture" title="Youth culture">youth culture</a><sup id="cite_ref-36" class="reference"><a href="#cite_note-36">[36]</a></sup></li>
+<li>Leysieffer, a traditional German chocolate producer founded in Osnabrück. The main Leysieffer site is in the city centre</li>
+</ul>
+<h2><span class="mw-headline" id="Famous_people">Famous people</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Osnabr%C3%BCck&amp;action=edit&amp;section=8" title="Edit section: Famous people">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Famous Osnabrück personalities include the writer <a href="/wiki/Erich_Maria_Remarque" title="Erich Maria Remarque">Erich Maria Remarque</a> and painters <a href="/wiki/Friedrich_Vordemberge-Gildewart" title="Friedrich Vordemberge-Gildewart">Friedrich Vordemberge-Gildewart</a> (1899-1962) and <a href="/wiki/Felix_Nussbaum" title="Felix Nussbaum">Felix Nussbaum</a>. Nussbaum has been honoured by Osnabrück in the form of a museum designed by <a href="/wiki/Daniel_Libeskind" title="Daniel Libeskind">Daniel Libeskind</a> which opened in 1998; it was designed as a scaled-down version of Libeskind's own <a href="/wiki/Jewish_Museum_Berlin" class="mw-redirect" title="Jewish Museum Berlin">Jewish Museum</a> in Berlin. The poet and scholar <a href="/wiki/Johann_Ernst_Hanxleden" title="Johann Ernst Hanxleden">Johann Ernst Hanxleden</a> was born in Osnabrück, as were reggae musician <a href="/wiki/Gentleman_(musician)" title="Gentleman (musician)">Gentleman</a> and DJ <a href="/wiki/Robin_Schulz" title="Robin Schulz">Robin Schulz</a>. <a href="/wiki/Victory_Records" title="Victory Records">Victory Records</a> and recording artists <a href="/wiki/Waterdown" title="Waterdown">Waterdown</a> are also based in Osnabrück.</p>
+<p>Actress <a href="/wiki/Birgitta_Tolksdorf" title="Birgitta Tolksdorf">Birgitta Tolksdorf</a>, who became a well-known figure in American television in the 1970s, as well as stage and screen actor <a href="/wiki/Mathias_Wieman" title="Mathias Wieman">Mathias Wieman</a> (the 1958 recipient of the <a href="/w/index.php?title=Justus-M%C3%B6ser-Medaille&amp;action=edit&amp;redlink=1" class="new" title="Justus-Möser-Medaille (page does not exist)">Justus-Möser-Medaille</a>) (see German article <a href="https://de.wikipedia.org/wiki/Justus-M%C3%B6ser-Medaille" class="extiw" title="de:Justus-Möser-Medaille">Justus-Möser-Medaille</a>) were also born in the city. Peter van Pels, the love interest of world-famous diarist <a href="/wiki/Anne_Frank" title="Anne Frank">Anne Frank</a>, and his parents Auguste van Pels and Hermann van Pels, all hailed from Osnabrück.</p>
+<p><a href="/wiki/Friedrich_Clemens_Gerke" title="Friedrich Clemens Gerke">Friedrich Clemens Gerke</a>, writer, <a href="/wiki/Journalist" title="Journalist">journalist</a>, musician and pioneer of <a href="/wiki/Telegraph" class="mw-redirect" title="Telegraph">telegraphy</a> who revised the <a href="/wiki/Morse_code" title="Morse code">Morse code</a> in 1848, is another of the city's famous sons. (Gerke's notation is still used today.)</p>
+<p>Further notable Osnabrückers are <a href="/wiki/Heinrich_Abeken" title="Heinrich Abeken">Heinrich Abeken</a>, theologian and Prussian Privy Legation Councillor in the Ministry of Foreign Affairs in Berlin; <a href="/wiki/Justus_Moser" class="mw-redirect" title="Justus Moser">Justus Moser</a>, jurist and historian of the city; and <a href="/wiki/Hans-Gert_P%C3%B6ttering" title="Hans-Gert Pöttering">Hans-Gert Pöttering</a>, former <a href="/wiki/President_of_the_European_Parliament" title="President of the European Parliament">President of the European Parliament</a>. One of the best-known Osnabrückers in recent times is <a href="/wiki/Christian_Wulff" title="Christian Wulff">Christian Wulff</a>, Prime Minister of Lower Saxony (2003–2010) and German President (2010–2012).</p>
+<h2><span class="mw-headline" id="More_sons_and_daughters_of_the_town">More sons and daughters of the town</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Osnabr%C3%BCck&amp;action=edit&amp;section=9" title="Edit section: More sons and daughters of the town">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:152px;"><a href="/wiki/File:Ernest_August,_Duke_of_York_(1674-1728).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Ernest_August%2C_Duke_of_York_%281674-1728%29.jpg/150px-Ernest_August%2C_Duke_of_York_%281674-1728%29.jpg" width="150" height="189" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Ernest_August%2C_Duke_of_York_%281674-1728%29.jpg/225px-Ernest_August%2C_Duke_of_York_%281674-1728%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/82/Ernest_August%2C_Duke_of_York_%281674-1728%29.jpg/300px-Ernest_August%2C_Duke_of_York_%281674-1728%29.jpg 2x" data-file-width="1190" data-file-height="1500" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Ernest_August,_Duke_of_York_(1674-1728).jpg" class="internal" title="Enlarge"></a></div>
+Ernest Augustus, Duke of York</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:152px;"><a href="/wiki/File:Gerke.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Gerke.jpg/150px-Gerke.jpg" width="150" height="159" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Gerke.jpg/225px-Gerke.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Gerke.jpg/300px-Gerke.jpg 2x" data-file-width="523" data-file-height="553" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Gerke.jpg" class="internal" title="Enlarge"></a></div>
+Friedrich Clemens Gerke 1840</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:152px;"><a href="/wiki/File:Bundesarchiv_Bild_183-R04034,_Erich_Maria_Remarque.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Bundesarchiv_Bild_183-R04034%2C_Erich_Maria_Remarque.jpg/150px-Bundesarchiv_Bild_183-R04034%2C_Erich_Maria_Remarque.jpg" width="150" height="257" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Bundesarchiv_Bild_183-R04034%2C_Erich_Maria_Remarque.jpg/225px-Bundesarchiv_Bild_183-R04034%2C_Erich_Maria_Remarque.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Bundesarchiv_Bild_183-R04034%2C_Erich_Maria_Remarque.jpg/300px-Bundesarchiv_Bild_183-R04034%2C_Erich_Maria_Remarque.jpg 2x" data-file-width="463" data-file-height="792" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Bundesarchiv_Bild_183-R04034,_Erich_Maria_Remarque.jpg" class="internal" title="Enlarge"></a></div>
+Erich Maria Remarque in 1929</div>
+</div>
+</div>
+<ul>
+<li><a href="/wiki/Albert_Suho" title="Albert Suho">Albert Suho</a>, (around 1380-around 1450), clergyman, theologian, historian</li>
+<li><a href="/wiki/Gerlach_Flicke" title="Gerlach Flicke">Gerlach Flicke</a>, (born early 16th century-1558), painter</li>
+<li><a href="/wiki/Johann_Wilhelm_Petersen" title="Johann Wilhelm Petersen">Johann Wilhelm Petersen</a>, (1649-1727), evangelical theologian</li>
+<li><a href="/wiki/Ernest_Augustus,_Duke_of_York_and_Albany" title="Ernest Augustus, Duke of York and Albany">Ernest Augustus, Duke of York and Albany</a>, (1674-1728), Prince Bishop of Osnabrück and Duke of York and Albany</li>
+<li><a href="/wiki/Ernst_zu_M%C3%BCnster" title="Ernst zu Münster">Ernst zu Münster</a>, (1766-1839), politician, statesman in the service of <a href="/wiki/House_of_Hannover" class="mw-redirect" title="House of Hannover">House of Hannover</a></li>
+<li><a href="/wiki/Bernhard_Rudolf_Abeken" title="Bernhard Rudolf Abeken">Bernhard Rudolf Abeken</a>, (1780-1866), <a href="/wiki/Philologist" class="mw-redirect" title="Philologist">philologist</a></li>
+<li><a href="/wiki/Friedrich_Clemens_Gerke" title="Friedrich Clemens Gerke">Friedrich Clemens Gerke</a>, (1801-1888), pioneer of telegraphy</li>
+<li><a href="/wiki/Heinrich_Abeken" title="Heinrich Abeken">Heinrich Abeken</a>, (1809-1872), evangelical theologian</li>
+<li><a href="/wiki/August_von_Kreling" title="August von Kreling">August von Kreling</a>, (1819-1876), painter and sculptor</li>
+<li><a href="/wiki/Friedrich_Westmeyer" title="Friedrich Westmeyer">Friedrich Westmeyer</a>, (1873-1917), politician and trade unionist</li>
+<li><a href="/wiki/Alfred_Runge" title="Alfred Runge">Alfred Runge</a>, (1881-1946), architect</li>
+<li><a href="/wiki/Walter_Warlimont" title="Walter Warlimont">Walter Warlimont</a>, (1894-1976), General of the Artillery</li>
+<li><a href="/wiki/Erich_Maria_Remarque" title="Erich Maria Remarque">Erich Maria Remarque</a>, (1898-1970), writer <i><a href="/wiki/All_quiet_on_the_western_front" class="mw-redirect" title="All quiet on the western front">All quiet on the western front</a></i></li>
+<li><a href="/wiki/Mathias_Wieman" title="Mathias Wieman">Mathias Wieman</a>, (1902-1969), actor</li>
+<li><a href="/wiki/Elfriede_Scholz" class="mw-redirect" title="Elfriede Scholz">Elfriede Scholz</a>, (1903-1943), victim of national socialism</li>
+<li><a href="/wiki/Hans_Georg_Calmeyer" title="Hans Georg Calmeyer">Hans Georg Calmeyer</a>, (1903-1972), attorney, <i>Righteous Among the Nations</i> ,</li>
+<li><a href="/wiki/Rudolf_Beckmann" title="Rudolf Beckmann">Rudolf Beckmann</a>, (1910-1943), SS-Oberscharführer and war criminal</li>
+<li><a href="/wiki/Franz_Lucas" title="Franz Lucas">Franz Lucas</a>, (1911-1994), concentration camp doctor</li>
+<li><a href="/wiki/Wilhelm_Schitli" title="Wilhelm Schitli">Wilhelm Schitli</a>, (1912-1945) (missing), SS Hauptsturm leader and guardian of the camp in Neuengamme concentration camp</li>
+<li><a href="/wiki/Herbert_Tiede" title="Herbert Tiede">Herbert Tiede</a>, (1915-1987), actor</li>
+<li><a href="/wiki/Benno_Sterzenbach" title="Benno Sterzenbach">Benno Sterzenbach</a>, (1916-1985), actor</li>
+<li><a href="/wiki/Hans_Haferkamp" title="Hans Haferkamp">Hans Haferkamp</a> (Hann Hannes'), (1921-1974), tobacco retailer and football player</li>
+<li><a href="/wiki/Hubertus_Brandenburg" title="Hubertus Brandenburg">Hubertus Brandenburg</a>, (1923-2009), Bishop of Stockholm</li>
+<li><a href="/wiki/Reinhold_Remmert" title="Reinhold Remmert">Reinhold Remmert</a>, (1930-2016); mathematician</li>
+<li><a href="/wiki/Horst_Borcherding" title="Horst Borcherding">Horst Borcherding</a>, (1930-2015); football goalkeeper</li>
+<li><a href="/wiki/J%C3%BCrgen_K%C3%BChling" title="Jürgen Kühling">Jürgen Kühling</a>, (born 1934), lawyer, former judge at the Federal Constitutional Court</li>
+<li><a href="/wiki/Inge_Schmitz-Feuerhake" title="Inge Schmitz-Feuerhake">Inge Schmitz-Feuerhake</a>, (born 1935), physicist and mathematician, member of the Kuratorium der Deutschen Umweltstiftung</li>
+<li><a href="/wiki/Rudolf_Seiters" title="Rudolf Seiters">Rudolf Seiters</a>, (born 1937), politician (CDU), former Federal Minister and Vice-President of the Bundestag</li>
+<li><a href="/wiki/Paul_Kirchhof" title="Paul Kirchhof">Paul Kirchhof</a>, (born 1943), former judge at the Federal Constitutional Court, professor of tax law at the University of Heidelberg</li>
+<li><a href="/wiki/Ferdinand_Kirchhof" title="Ferdinand Kirchhof">Ferdinand Kirchhof</a>, (born 1950), judge at the Federal Constitutional Court, professor of tax law at the University of Tübingen</li>
+<li><a href="/wiki/Robin_Schulz" title="Robin Schulz">Robin Schulz</a>, (born 1987), musician, DJ and record producer</li>
+</ul>
+<h2><span class="mw-headline" id="Economy">Economy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Osnabr%C3%BCck&amp;action=edit&amp;section=10" title="Edit section: Economy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Hellmann_Worldwide_Logistics" title="Hellmann Worldwide Logistics">Hellmann Worldwide Logistics</a> has its headquarters in the city.<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">[37]</a></sup></p>
+<h2><span class="mw-headline" id="Education">Education</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Osnabr%C3%BCck&amp;action=edit&amp;section=11" title="Edit section: Education">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There are two higher education institutions in Osnabrück, <a href="/wiki/University_of_Osnabr%C3%BCck" title="University of Osnabrück">University of Osnabrück</a> and <a href="/wiki/Osnabr%C3%BCck_University_of_Applied_Sciences" title="Osnabrück University of Applied Sciences">Osnabrück University of Applied Sciences</a> with more than 25000 students. All of the types of German grammar schools are represented in the city, including seven <a href="/wiki/Gymnasium_(school)" title="Gymnasium (school)">Gymnasien</a>. <a href="/wiki/Gymnasium_Carolinum_(Osnabr%C3%BCck)" title="Gymnasium Carolinum (Osnabrück)">Gymnasium Carolinum</a> claims to be the oldest still existing school in Germany. Another well-known Gymnasium is the Ursulaschule, a private school, located directly opposite the Carolinum.</p>
+<h2><span class="mw-headline" id="Transportation">Transportation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Osnabr%C3%BCck&amp;action=edit&amp;section=12" title="Edit section: Transportation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The city of Osnabrück is connected by road to the <a href="/wiki/Bundesautobahn_1" title="Bundesautobahn 1">A1</a>, the <a href="/wiki/Bundesautobahn_30" title="Bundesautobahn 30">A30</a> and the <a href="/wiki/Bundesautobahn_33" title="Bundesautobahn 33">A33</a>. It shares its <a href="/wiki/M%C3%BCnster_Osnabr%C3%BCck_International_Airport" title="Münster Osnabrück International Airport">airport</a> with <a href="/wiki/M%C3%BCnster" title="Münster">Münster</a>.</p>
+<p>The "<a href="/wiki/Osnabr%C3%BCck_Hauptbahnhof" title="Osnabrück Hauptbahnhof">Hauptbahnhof</a>" (main railway station) of Osnabrück is an important rail travel hub. Travellers from the Netherlands heading to either <a href="/wiki/Hamburg" title="Hamburg">Hamburg</a>, Denmark, or Eastern Europe often have to change here.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (February 2010)">citation needed</span></a></i>]</sup></p>
+<p>An extensive <a href="/wiki/Bus" title="Bus">bus</a> service operated by the <a href="/w/index.php?title=Stadtwerke_Osnabr%C3%BCck&amp;action=edit&amp;redlink=1" class="new" title="Stadtwerke Osnabrück (page does not exist)">Stadtwerke Osnabrück</a> provides public transportation within Osnabrück and the surrounding region.<a rel="nofollow" class="external autonumber" href="http://www.stadtwerke-osnabrueck.de/66.htm">[3]</a> The central bus stop is located at the Neumarkt shopping area, a short distance from the railway station.</p>
+<h2><span id="Districts_of_Osnabrück"></span><span class="mw-headline" id="Districts_of_Osnabr.C3.BCck">Districts of Osnabrück</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Osnabr%C3%BCck&amp;action=edit&amp;section=13" title="Edit section: Districts of Osnabrück">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:282px;"><a href="/wiki/File:Osnabrueck-stadtteile.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Osnabrueck-stadtteile.png/280px-Osnabrueck-stadtteile.png" width="280" height="202" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Osnabrueck-stadtteile.png/420px-Osnabrueck-stadtteile.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Osnabrueck-stadtteile.png/560px-Osnabrueck-stadtteile.png 2x" data-file-width="630" data-file-height="454" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Osnabrueck-stadtteile.png" class="internal" title="Enlarge"></a></div>
+Boroughs of Osnabrück</div>
+</div>
+</div>
+<p>The city is divided into 23 districts:</p>
+<table>
+<tr>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td style="width:250px; vertical-align:top;">
+<ul>
+<li>01 <a href="/wiki/Innenstadt_(Osnabr%C3%BCck_district)" title="Innenstadt (Osnabrück district)">Innenstadt</a></li>
+<li>02 <a href="/wiki/Weststadt_(Osnabr%C3%BCck_district)" title="Weststadt (Osnabrück district)">Weststadt</a></li>
+<li>03 <a href="/wiki/Westerberg_(Osnabr%C3%BCck_district)" title="Westerberg (Osnabrück district)">Westerberg</a></li>
+<li>04 <a href="/wiki/Eversburg" title="Eversburg">Eversburg</a></li>
+<li>05 <a href="/wiki/Hafen_(Osnabr%C3%BCck)" title="Hafen (Osnabrück)">Hafen</a></li>
+<li>06 <a href="/wiki/Sonnenh%C3%BCgel" title="Sonnenhügel">Sonnenhügel</a></li>
+<li>07 <a href="/wiki/Haste_(Osnabr%C3%BCck_district)" title="Haste (Osnabrück district)">Haste</a></li>
+<li>08 <a href="/wiki/Dodesheide" title="Dodesheide">Dodesheide</a></li>
+</ul>
+</td>
+<td style="width:250px; vertical-align:top;">
+<ul>
+<li>09 <a href="/wiki/Gartlage" title="Gartlage">Gartlage</a></li>
+<li>10 <a href="/wiki/Schinkel_(Osnabr%C3%BCck_district)" title="Schinkel (Osnabrück district)">Schinkel</a></li>
+<li>11 <a href="/wiki/Widukindland" title="Widukindland">Widukindland</a></li>
+<li>12 <a href="/wiki/Schinkel-Ost_(Osnabr%C3%BCck_district)" title="Schinkel-Ost (Osnabrück district)">Schinkel-Ost</a></li>
+<li>13 <a href="/wiki/Fledder" title="Fledder">Fledder</a></li>
+<li>14 <a href="/wiki/Sch%C3%B6lerberg" title="Schölerberg">Schölerberg</a></li>
+<li>15 <a href="/wiki/Kalkh%C3%BCgel" title="Kalkhügel">Kalkhügel</a></li>
+<li>16 <a href="/wiki/W%C3%BCste" title="Wüste">Wüste</a></li>
+</ul>
+</td>
+<td style="width:250px; vertical-align:top;">
+<ul>
+<li>17 <a href="/wiki/Sutthausen" title="Sutthausen">Sutthausen</a></li>
+<li>18 <a href="/wiki/Hellern" title="Hellern">Hellern</a></li>
+<li>19 <a href="/wiki/Atter_(Osnabr%C3%BCck)" title="Atter (Osnabrück)">Atter</a></li>
+<li>20 <a href="/wiki/Pye_(Osnabr%C3%BCck_district)" title="Pye (Osnabrück district)">Pye</a></li>
+<li>21 <a href="/wiki/Darum/Gretesch/L%C3%BCstringen" title="Darum/Gretesch/Lüstringen">Darum/Gretesch/Lüstringen</a></li>
+<li>22 <a href="/wiki/Voxtrup" title="Voxtrup">Voxtrup</a></li>
+<li>23 <a href="/wiki/Nahne" title="Nahne">Nahne</a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Twin_towns_and_sister_cities">Twin towns and sister cities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Osnabr%C3%BCck&amp;action=edit&amp;section=14" title="Edit section: Twin towns and sister cities">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/List_of_twin_towns_and_sister_cities_in_Germany" title="List of twin towns and sister cities in Germany">List of twin towns and sister cities in Germany</a></div>
+<p>Osnabrück is <a href="/wiki/Twin_towns_and_sister_cities" class="mw-redirect" title="Twin towns and sister cities">twinned</a> with:</p>
+<table class="wikitable">
+<tr valign="top">
+<td>
+<ul>
+<li><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Haarlem" title="Haarlem">Haarlem</a>, Netherlands, since 1961</li>
+<li><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Angers" title="Angers">Angers</a>, France, since 1964</li>
+<li><span class="flagicon"><a href="/wiki/Austria" title="Austria"><img alt="Austria" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/23px-Flag_of_Austria.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/35px-Flag_of_Austria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/45px-Flag_of_Austria.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Gm%C3%BCnd,_Carinthia" title="Gmünd, Carinthia">Gmünd</a>, Austria, since 1971 (friendship link)</li>
+<li><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Derby" title="Derby">Derby</a>, United Kingdom, since 1976</li>
+<li><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Greifswald" title="Greifswald">Greifswald</a>, Germany, since 1988</li>
+<li><span class="flagicon"><a href="/wiki/Russia" title="Russia"><img alt="Russia" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/35px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/45px-Flag_of_Russia.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Tver" title="Tver">Tver</a>, <a href="/wiki/Russian_Federation" class="mw-redirect" title="Russian Federation">Russian Federation</a>, since 1991</li>
+</ul>
+</td>
+<td>
+<ul>
+<li><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/Evansville,_Indiana" title="Evansville, Indiana">Evansville</a>, United States, since 1991 (friendship link)</li>
+<li><span class="flagicon"><a href="/wiki/South_Korea" title="South Korea"><img alt="South Korea" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/23px-Flag_of_South_Korea.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/35px-Flag_of_South_Korea.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/45px-Flag_of_South_Korea.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Gwangmyeong" title="Gwangmyeong">Gwangmyeong</a>, <a href="/wiki/South_Korea" title="South Korea">South Korea</a>, since 1997 (friendship link)</li>
+<li><span class="flagicon"><a href="/wiki/Turkey" title="Turkey"><img alt="Turkey" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/23px-Flag_of_Turkey.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/35px-Flag_of_Turkey.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/45px-Flag_of_Turkey.svg.png 2x" data-file-width="1200" data-file-height="800" /></a></span> <a href="/wiki/%C3%87anakkale" title="Çanakkale">Çanakkale</a>, <a href="/wiki/Turkey" title="Turkey">Turkey</a>, since 2004</li>
+<li><span class="flagicon"><a href="/wiki/Portugal" title="Portugal"><img alt="Portugal" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/23px-Flag_of_Portugal.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/35px-Flag_of_Portugal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/45px-Flag_of_Portugal.svg.png 2x" data-file-width="600" data-file-height="400" /></a></span> <a href="/wiki/Vila_Real,_Portugal" class="mw-redirect" title="Vila Real, Portugal">Vila Real</a>, Portugal, since 2005</li>
+<li><span class="flagicon"><a href="/wiki/China" title="China"><img alt="China" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Hefei" title="Hefei">Hefei</a>, China, since 2006 (friendship link)</li>
+</ul>
+</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Twinning_with_Derby">Twinning with Derby</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Osnabr%C3%BCck&amp;action=edit&amp;section=15" title="Edit section: Twinning with Derby">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Osnabrück is twinned with the city of <a href="/wiki/Derby" title="Derby">Derby</a> in England.</p>
+<p>Previously Osnabrück had made contact with the British authorities as early as 1948, hoping to find an English twin town and therefore achieve greater understanding with their former enemies in the Second World War. Unfortunately, this attempt was unsuccessful and Osnabrück did not actively consider the idea again for another quarter-century. The twinning agreement with Derby was signed on 17 February 1976 in the historic Friedenssaal (Hall of Peace) in Osnabrück's town hall. Every year since then the two towns have exchanged envoys. Derby also has a square named after Osnabrück in honour of the twinning arrangement; this features an obelisk among other things.</p>
+<p>Osnabrück now has eleven twin and friendship cities: Derby (England), <a href="/wiki/Angers" title="Angers">Angers</a> (France), <a href="/wiki/Haarlem" title="Haarlem">Haarlem</a> (Netherlands), <a href="/wiki/%C3%87anakkale" title="Çanakkale">Çanakkale</a> (Turkey), <a href="/wiki/Tver" title="Tver">Tver</a> (Russia), <a href="/wiki/Greifswald" title="Greifswald">Greifswald</a> (Germany), <a href="/wiki/Vila_Real,_Portugal" class="mw-redirect" title="Vila Real, Portugal">Vila Real</a> (Portugal), <a href="/wiki/Hefei" title="Hefei">Hefei</a> (China), <a href="/wiki/Evansville" class="mw-redirect" title="Evansville">Evansville</a> (USA), <a href="/wiki/Gm%C3%BCnd,_Carinthia" title="Gmünd, Carinthia">Gmünd</a> (Austria), <a href="/wiki/Gwangmyeong" title="Gwangmyeong">Gwangmyeong</a> (Korea) and there are five envoys working at the twinning office in Osnabrück, who represent Derby, Angers, Haarlem, Tver and Çanakkale.</p>
+<p>Every year, Derby and Osnabrück each appoint an envoy who spends twelve months in their respective twin city. The envoy's role is varied, but primarily focuses on promoting the exchange of ideas between the two cities, as well as acting as an educational and general information officer to promote awareness of the twinning scheme. The envoy's specific duties are numerous: translating, giving talks and presentations to local societies and schools, finding pen friends and short-term host families during work placements, working in day-to-day contact to assist groups who want to get involved in twinning by identifying and approaching possible counterparts, planning the Derby Day at the annual Maiwoche (May Week) festival, and many more.</p>
+<p>The exchange of envoys between two cities is very unusual. The team of envoys in Osnabrück changes every year and Osnabrück also sends envoys to Derby, Angers and Çanakkale. No other city in Germany participates in this exchange of envoys, and in Britain, only one other city, Wigan, receives and sends an envoy.</p>
+<p>The twinning gives the inhabitants of both places the opportunity to interact with their international neighbours. Town twinning aims to enhance international understanding and break down social barriers.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Osnabr%C3%BCck&amp;action=edit&amp;section=16" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="flag" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/32px-Flag_of_Germany.svg.png" width="32" height="19" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/48px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/64px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Germany" title="Portal:Germany">Germany portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Stra%C3%9Fe_der_Megalithkultur" class="mw-redirect" title="Straße der Megalithkultur">Straße der Megalithkultur</a>, tourist route from Osnabrück to Oldenburg via some 33 megalithic sites</li>
+</ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Osnabr%C3%BCck&amp;action=edit&amp;section=17" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-FOOTNOTEHinrichs2013-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEHinrichs2013_1-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFHinrichs2013">Hinrichs 2013</a>.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www1.nls.niedersachsen.de/statistik/">Landesbetrieb für Statistik und Kommunikationstechnologie Niedersachsen, 102 Bevölkerung - Basis Zensus 2011, Stand 31. Dezember 2015 (Tabelle K1020014)</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.osnabrueck.de/fileadmin/eigene_Dateien/01_osnabrueck.de/011_Rathaus/Statistik/OSaktuell_4_2016_Internet.pdf">"Osnabrück AKTUELL 4/2016"</a> <span style="font-size:85%;">(PDF)</span> (in German). Stadt Osnabrück. April 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-06-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOsnabr%C3%BCck&amp;rft.btitle=Osnabr%C3%BCck+AKTUELL+4%2F2016&amp;rft.date=2016-04&amp;rft.genre=unknown&amp;rft.pub=Stadt+Osnabr%C3%BCck&amp;rft_id=https%3A%2F%2Fwww.osnabrueck.de%2Ffileadmin%2Feigene_Dateien%2F01_osnabrueck.de%2F011_Rathaus%2FStatistik%2FOSaktuell_4_2016_Internet.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-FOOTNOTETeam_Strategische_Stadtentwicklung_und_Statistik20131-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTETeam_Strategische_Stadtentwicklung_und_Statistik20131_4-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFTeam_Strategische_Stadtentwicklung_und_Statistik2013">Team Strategische Stadtentwicklung und Statistik 2013</a>, p.&#160;1.</span></li>
+<li id="cite_note-Das_Osnabr.C3.BCcker_Land_Friedensstadt_.E2.80.93_Lebendiges_Zentrum_im_Osnabr.C3.BCcker_Land-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Das_Osnabr.C3.BCcker_Land_Friedensstadt_.E2.80.93_Lebendiges_Zentrum_im_Osnabr.C3.BCcker_Land_5-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.osnabruecker-land.de/staticsite/staticsite.php?menuid=8&amp;topmenu=2&amp;keepmenu=inactive">Osnabrück: Lebendiges Zentrum im Osnabrücker Land</a> www.osnabruecker-land.de</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.osnabrueck.de/5045.asp">Friedensstadt Osnabrück: Der Westfälische Friede</a></span></li>
+<li id="cite_note-Staedtereport_Osnabrueck_okt_2009.pdf_.28application.2Fpdf-Objekt.29-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-Staedtereport_Osnabrueck_okt_2009.pdf_.28application.2Fpdf-Objekt.29_7-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.comfort.de/fileadmin/presse/2009/Staedtereport_Osnabrueck_okt_2009.pdf">Staedtereport_Osnabrueck_okt_2009.pdf (application/pdf-Objekt; 106&#160;kB)</a></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.theguardian.com/uk/2008/jul/13/military.germany">Garrison town fears slump as army pulls out</a></span></li>
+<li id="cite_note-Stadtportr.C3.A4t-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-Stadtportr.C3.A4t_9-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.osnabrueck.de/5038.asp">Stadtporträt: Osnabrück stellt sich vor</a></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.umweltbildung.uni-osnabrueck.de/Hase/Hasebuch1Abschnitt1">"Environmental Education at the University of Osnabrück"</a> (in German). Umweltbildung.uni-osnabrueck.de<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-09-15</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOsnabr%C3%BCck&amp;rft.btitle=Environmental+Education+at+the+University+of+Osnabr%C3%BCck&amp;rft.genre=unknown&amp;rft.pub=Umweltbildung.uni-osnabrueck.de&amp;rft_id=http%3A%2F%2Fwww.umweltbildung.uni-osnabrueck.de%2FHase%2FHasebuch1Abschnitt1&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-greengrass2014-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-greengrass2014_11-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Greengrass, Mark (2014). <i>Christendom Destroyed: Europe 1517–1648</i>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780698176256" title="Special:BookSources/9780698176256">9780698176256</a>. <q>Both cities carried the scars o the war, but Osnabrück suffered worse, subjected to the troops of the Catholic League (1628-32) and a forcible Catholicization, and then Swedish war contributions.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOsnabr%C3%BCck&amp;rft.aufirst=Mark&amp;rft.aulast=Greengrass&amp;rft.btitle=Christendom+Destroyed%3A+Europe+1517%E2%80%931648&amp;rft.date=2014&amp;rft.genre=book&amp;rft.isbn=9780698176256&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-FOOTNOTEPanayi200715-16-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEPanayi200715-16_12-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFPanayi2007">Panayi 2007</a>, pp.&#160;15-16.</span></li>
+<li id="cite_note-FOOTNOTEPanayi200715-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEPanayi200715_13-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFPanayi2007">Panayi 2007</a>, p.&#160;15.</span></li>
+<li id="cite_note-FOOTNOTEPanayi200716-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-FOOTNOTEPanayi200716_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTEPanayi200716_14-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-FOOTNOTEPanayi200716_14-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-FOOTNOTEPanayi200716_14-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFPanayi2007">Panayi 2007</a>, p.&#160;16.</span></li>
+<li id="cite_note-FOOTNOTEPanayi200716-17-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEPanayi200716-17_15-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFPanayi2007">Panayi 2007</a>, p.&#160;16-17.</span></li>
+<li id="cite_note-FOOTNOTEPanayi200717-16"><span class="mw-cite-backlink">^ <a href="#cite_ref-FOOTNOTEPanayi200717_16-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTEPanayi200717_16-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFPanayi2007">Panayi 2007</a>, p.&#160;17.</span></li>
+<li id="cite_note-FOOTNOTEPanayi200717-18-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEPanayi200717-18_17-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFPanayi2007">Panayi 2007</a>, p.&#160;17-18.</span></li>
+<li id="cite_note-FOOTNOTEPanayi200718-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEPanayi200718_18-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFPanayi2007">Panayi 2007</a>, p.&#160;18.</span></li>
+<li id="cite_note-FOOTNOTEPanayi200737-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEPanayi200737_19-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFPanayi2007">Panayi 2007</a>, p.&#160;37.</span></li>
+<li id="cite_note-FOOTNOTEPanayi200744-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEPanayi200744_20-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFPanayi2007">Panayi 2007</a>, p.&#160;44.</span></li>
+<li id="cite_note-FOOTNOTEPanayi200755-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEPanayi200755_21-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFPanayi2007">Panayi 2007</a>, p.&#160;55.</span></li>
+<li id="cite_note-FOOTNOTEPanayi200723-24.2C81.2C_186-200-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEPanayi200723-24.2C81.2C_186-200_22-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFPanayi2007">Panayi 2007</a>, p.&#160;23-24,81, 186-200.</span></li>
+<li id="cite_note-FOOTNOTEPanayi2007197-98.2C211-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEPanayi2007197-98.2C211_23-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFPanayi2007">Panayi 2007</a>, p.&#160;197-98,211.</span></li>
+<li id="cite_note-FOOTNOTEPanayi2007137-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEPanayi2007137_24-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFPanayi2007">Panayi 2007</a>, p.&#160;137.</span></li>
+<li id="cite_note-FOOTNOTEPanayi2007135.2C137-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEPanayi2007135.2C137_25-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFPanayi2007">Panayi 2007</a>, p.&#160;135,137.</span></li>
+<li id="cite_note-FOOTNOTEPanayi2007136-37-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEPanayi2007136-37_26-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFPanayi2007">Panayi 2007</a>, p.&#160;136-37.</span></li>
+<li id="cite_note-FOOTNOTEPanayi2007150-51-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEPanayi2007150-51_27-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFPanayi2007">Panayi 2007</a>, p.&#160;150-51.</span></li>
+<li id="cite_note-FOOTNOTEPanayi2007153-56-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEPanayi2007153-56_28-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFPanayi2007">Panayi 2007</a>, p.&#160;153-56.</span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://archive.ioe.ac.uk/DServe/dserve.exe?dsqIni=Dserve.ini&amp;dsqApp=Archive&amp;dsqDb=Catalog&amp;dsqCmd=Show.tcl&amp;dsqSearch=(RefNo=='BFE/B/3')">"IOE Archives"</a>. Archive.ioe.ac.uk<span class="reference-accessdate">. Retrieved <span class="nowrap">January 1,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOsnabr%C3%BCck&amp;rft.btitle=IOE+Archives&amp;rft.genre=unknown&amp;rft.pub=Archive.ioe.ac.uk&amp;rft_id=http%3A%2F%2Farchive.ioe.ac.uk%2FDServe%2Fdserve.exe%3FdsqIni%3DDserve.ini%26dsqApp%3DArchive%26dsqDb%3DCatalog%26dsqCmd%3DShow.tcl%26dsqSearch%3D%28RefNo%3D%3D%27BFE%2FB%2F3%27%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><a href="/wiki/Tony_Geraghty" title="Tony Geraghty">Geraghty, Tony</a> (2000). <i>The Irish War</i>. Johns Hopkins University Press, p. 193. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-00-255617-0" title="Special:BookSources/0-00-255617-0">0-00-255617-0</a></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.thelocal.de/national/20080719-13161.html">"British soldiers march out of Osnabrück after 63 years"</a>. <a href="/wiki/The_Local" title="The Local">The Local</a>. 19 July 2008.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOsnabr%C3%BCck&amp;rft.atitle=British+soldiers+march+out+of+Osnabr%C3%BCck+after+63+years&amp;rft.date=2008-07-19&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.thelocal.de%2Fnational%2F20080719-13161.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.osnabrueck.de/images_design/Grafiken_Inhalt_Rathaus_online/Bevoelkerungsaufbau_2013.pdf">"Bevölkerungsaufbau 2013 und Bevölkerungsveränderungen"</a> <span style="font-size:85%;">(PDF)</span>. Stadt Osnabrück<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-07-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOsnabr%C3%BCck&amp;rft.btitle=Bev%C3%B6lkerungsaufbau+2013+und+Bev%C3%B6lkerungsver%C3%A4nderungen&amp;rft.genre=unknown&amp;rft.pub=Stadt+Osnabr%C3%BCck&amp;rft_id=http%3A%2F%2Fwww.osnabrueck.de%2Fimages_design%2FGrafiken_Inhalt_Rathaus_online%2FBevoelkerungsaufbau_2013.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.germany.travel/en/ms/royal-heritage/where-to-go/osnabrueck.html">[1]</a> Retrieved 2015-05-26</span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.osnabrueck.de/fileadmin/Folder_Englisch_download.pdf">[2]</a> p.19, retrieved 2015-05-26</span></li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.osnabrueck.de/10341.asp">"Höchstes mittelalterliches Bauwerk Niedersachsens"</a>. Osnabrück civic site<span class="reference-accessdate">. Retrieved <span class="nowrap">7 November</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOsnabr%C3%BCck&amp;rft.atitle=H%C3%B6chstes+mittelalterliches+Bauwerk+Niedersachsens&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.osnabrueck.de%2F10341.asp&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.oktoberverlag.de/index2.php?rubr=9&amp;id=96">Hyde Park-Memories</a> Retrieved 2011-12-13</span></li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.hellmann.net/imprint/">Imprint</a>." <a href="/wiki/Hellmann_Worldwide_Logistics" title="Hellmann Worldwide Logistics">Hellmann Worldwide Logistics</a>. Retrieved on September 3, 2011. "Hellmann Worldwide Logistics GmbH &amp; Co. KG Elbestrasse 1 D-49090 Osnabrueck"</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Osnabr%C3%BCck&amp;action=edit&amp;section=18" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite id="CITEREFHinrichs2013" class="citation">Hinrichs, Wilfried (October 8, 2013), <a rel="nofollow" class="external text" href="http://noz.de/lokales/osnabrueck/artikel/419644/der-neue-oberburgermeister-hat-ja-gesagt">"Der neue Oberbürgermeister hat "Ja" gesagt"</a>, <i>Neue Osnabrücker Zeitung</i> (in German)<span class="reference-accessdate">, retrieved <span class="nowrap">October 1,</span> 2013</span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOsnabr%C3%BCck&amp;rft.atitle=Der+neue+Oberb%C3%BCrgermeister+hat+%22Ja%22+gesagt&amp;rft.aufirst=Wilfried&amp;rft.aulast=Hinrichs&amp;rft.date=2013-10-08&amp;rft.genre=article&amp;rft.jtitle=Neue+Osnabr%C3%BCcker+Zeitung&amp;rft_id=http%3A%2F%2Fnoz.de%2Flokales%2Fosnabrueck%2Fartikel%2F419644%2Fder-neue-oberburgermeister-hat-ja-gesagt&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite id="CITEREFPanayi2007" class="citation">Panayi, P. (2007), <i>Life and Death in a German Town: Osnabrück from the Weimar Republic to World War II and Beyond</i>, New York: Tauris Academic Studies</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOsnabr%C3%BCck&amp;rft.aufirst=P.&amp;rft.aulast=Panayi&amp;rft.btitle=Life+and+Death+in+a+German+Town%3A+Osnabr%C3%BCck+from+the+Weimar+Republic+to+World+War+II+and+Beyond&amp;rft.date=2007&amp;rft.genre=book&amp;rft.place=New+York&amp;rft.pub=Tauris+Academic+Studies&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-85771-440-4" title="Special:BookSources/978-0-85771-440-4">978-0-85771-440-4</a></li>
+<li><cite id="CITEREFTeam_Strategische_Stadtentwicklung_und_Statistik2013" class="citation">Team Strategische Stadtentwicklung und Statistik (August 2013), <a rel="nofollow" class="external text" href="http://www.osnabrück.de/images_design/Grafiken_Inhalt_Rathaus_online/Amtliche_Einwohnerzahlen_der_Stadt_Osnabrueck_und_der_angrenzenden_Gemeinden.pdf"><i>02001 Amtliche Einwohnerzahlen der Stadt Osnabrück und der angrenzenden Gemeinden Stand: Volkszählung 25.5.1987 und jeweils 31.12.</i></a> <span style="font-size:85%;">(PDF)</span> (in German), City of Osnabrück, p.&#160;1<span class="reference-accessdate">, retrieved <span class="nowrap">January 1,</span> 2014</span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOsnabr%C3%BCck&amp;rft.au=Team+Strategische+Stadtentwicklung+und+Statistik&amp;rft.btitle=02001+Amtliche+Einwohnerzahlen+der+Stadt+Osnabr%C3%BCck+und+der+angrenzenden+Gemeinden+Stand%3A+Volksz%C3%A4hlung+25.5.1987+und+jeweils+31.12.&amp;rft.date=2013-08&amp;rft.genre=book&amp;rft.pages=1&amp;rft.pub=City+of+Osnabr%C3%BCck&amp;rft_id=http%3A%2F%2Fwww.osnabr%C3%BCck.de%2Fimages_design%2FGrafiken_Inhalt_Rathaus_online%2FAmtliche_Einwohnerzahlen_der_Stadt_Osnabrueck_und_der_angrenzenden_Gemeinden.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Osnabr%C3%BCck&amp;action=edit&amp;section=19" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Gerd Steinwascher (editor): <i>Geschichte der Stadt Osnabrück</i> Meinders &amp; Elstermann, Belm 2006, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/3-88926-007-1" title="Special:BookSources/3-88926-007-1">3-88926-007-1</a></li>
+<li>Bettina Meckel: <i>Osnabrück und Umland</i>. Wenner, Osnabrück, 2010. An excellent picture book includes translation to English by Nick Woods. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-3-87898-417-7" title="Special:BookSources/978-3-87898-417-7">978-3-87898-417-7</a></li>
+<li><cite class="citation book">John M. Jeep, ed. (2001). "Osnabruck". <a rel="nofollow" class="external text" href="https://books.google.com/books?id=p4uHav3mZLsC"><i>Medieval Germany: an Encyclopedia</i></a>. <a href="/wiki/Garland_Publishing" class="mw-redirect" title="Garland Publishing">Garland Publishing</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-8240-7644-3" title="Special:BookSources/0-8240-7644-3">0-8240-7644-3</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOsnabr%C3%BCck&amp;rft.atitle=Osnabruck&amp;rft.btitle=Medieval+Germany%3A+an+Encyclopedia&amp;rft.date=2001&amp;rft.genre=bookitem&amp;rft.isbn=0-8240-7644-3&amp;rft.pub=Garland+Publishing&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Dp4uHav3mZLsC&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Osnabr%C3%BCck&amp;action=edit&amp;section=20" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Osnabr%C3%BCck" class="extiw" title="commons:Osnabrück">Osnabrück</a></b></i>.</td>
+</tr>
+</table>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/40px-Wikivoyage-Logo-v3-icon.svg.png" width="40" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/60px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/80px-Wikivoyage-Logo-v3-icon.svg.png 2x" data-file-width="193" data-file-height="193" /></td>
+<td class="mbox-text plainlist">Wikivoyage has a travel guide for <i><b><a href="https://en.wikivoyage.org/wiki/Osnabr%C3%BCck#Q2916" class="extiw" title="wikivoyage:Osnabrück">Osnabrück</a></b></i>.</td>
+</tr>
+</table>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/38px-Wikisource-logo.svg.png" width="38" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/57px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/76px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></td>
+<td class="mbox-text plainlist"><a href="/wiki/Wikisource" title="Wikisource">Wikisource</a> has the text of the 1879 <i><a href="/wiki/American_Cyclop%C3%A6dia" class="mw-redirect" title="American Cyclopædia">American Cyclopædia</a></i> article <i><b><a href="https://en.wikisource.org/wiki/The_American_Cyclop%C3%A6dia_(1879)/Osnabr%C3%BCck" class="extiw" title="s:The American Cyclopædia (1879)/Osnabrück">Osnabrück</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.osnabrueck.de">Official website</a></span></span> <span class="languageicon">(in German)</span></li>
+<li><a rel="nofollow" class="external text" href="http://www.panorama-cities.net/osnabrueck/osnabrueck_germany.html">Panoramas and virtual Tours of Osnabrück</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.horses-and-dreams.de/englisch/index.html"><i>Horses &amp; Dreams</i> Annual Horse Dressage Show</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.filmfest-os.de">Independent Film Festival Osnabrueck official website</a> <a href="/wiki/Unabhaengiges_FilmFest_Osnabrueck" class="mw-redirect" title="Unabhaengiges FilmFest Osnabrueck">Unabhaengiges FilmFest Osnabrueck</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.ostensibles.org"><i>The Ostensibles</i> English Theatre in Osnabrueck, official website</a></li>
+<li><img alt="Wikisource-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png" width="12" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/18px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/24px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" />&#160;<cite class="citation encyclopaedia">"<a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Osnabr%C3%BCck" class="extiw" title="wikisource:1911 Encyclopædia Britannica/Osnabrück">Osnabrück</a>". <i><a href="/wiki/Encyclop%C3%A6dia_Britannica_Eleventh_Edition" title="Encyclopædia Britannica Eleventh Edition">Encyclopædia Britannica</a></i> (11th ed.). 1911.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOsnabr%C3%BCck&amp;rft.atitle=Osnabr%C3%BCck&amp;rft.btitle=Encyclop%C3%A6dia+Britannica&amp;rft.date=1911&amp;rft.edition=11th&amp;rft.genre=bookitem&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><a rel="nofollow" class="external text" href="https://www.facebook.com/DerbyOsnaTwinning">Derby and Osnabrück Facebook page (retrieved 15/01/2015)</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.derby.gov.uk/leisure-and-culture/tourism-and-travel/town-twinning/">Derby City Council website, Town Twinning page. (retrieved 15/01/2015)</a></li>
+</ul>
+<p><br /></p>
+<div role="navigation" class="navbox" aria-labelledby="Cities_in_Germany_by_population" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Cities_in_Germany" title="Template:Cities in Germany"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Cities_in_Germany" title="Template talk:Cities in Germany"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cities_in_Germany&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Cities_in_Germany_by_population" style="font-size:114%;margin:0 4em">Cities in Germany by population</div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">1,000,000+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Berlin" title="Berlin">Berlin</a></li>
+<li><a href="/wiki/Cologne" title="Cologne">Cologne</a></li>
+<li><a href="/wiki/Hamburg" title="Hamburg">Hamburg</a></li>
+<li><a href="/wiki/Munich" title="Munich">Munich</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">500,000+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bremen" title="Bremen">Bremen</a></li>
+<li><a href="/wiki/Dortmund" title="Dortmund">Dortmund</a></li>
+<li><a href="/wiki/Dresden" title="Dresden">Dresden</a></li>
+<li><a href="/wiki/D%C3%BCsseldorf" title="Düsseldorf">Düsseldorf</a></li>
+<li><a href="/wiki/Essen" title="Essen">Essen</a></li>
+<li><a href="/wiki/Frankfurt" title="Frankfurt">Frankfurt</a></li>
+<li><a href="/wiki/Hanover" title="Hanover">Hanover</a></li>
+<li><a href="/wiki/Leipzig" title="Leipzig">Leipzig</a></li>
+<li><a href="/wiki/Nuremberg" title="Nuremberg">Nuremberg</a></li>
+<li><a href="/wiki/Stuttgart" title="Stuttgart">Stuttgart</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">200,000+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aachen" title="Aachen">Aachen</a></li>
+<li><a href="/wiki/Augsburg" title="Augsburg">Augsburg</a></li>
+<li><a href="/wiki/Bielefeld" title="Bielefeld">Bielefeld</a></li>
+<li><a href="/wiki/Bochum" title="Bochum">Bochum</a></li>
+<li><a href="/wiki/Bonn" title="Bonn">Bonn</a></li>
+<li><a href="/wiki/Braunschweig" title="Braunschweig">Braunschweig</a></li>
+<li><a href="/wiki/Chemnitz" title="Chemnitz">Chemnitz</a></li>
+<li><a href="/wiki/Duisburg" title="Duisburg">Duisburg</a></li>
+<li><a href="/wiki/Erfurt" title="Erfurt">Erfurt</a></li>
+<li><a href="/wiki/Freiburg_im_Breisgau" title="Freiburg im Breisgau">Freiburg im Breisgau</a></li>
+<li><a href="/wiki/Gelsenkirchen" title="Gelsenkirchen">Gelsenkirchen</a></li>
+<li><a href="/wiki/Halle_(Saale)" title="Halle (Saale)">Halle (Saale)</a></li>
+<li><a href="/wiki/Karlsruhe" title="Karlsruhe">Karlsruhe</a></li>
+<li><a href="/wiki/Kiel" title="Kiel">Kiel</a></li>
+<li><a href="/wiki/Krefeld" title="Krefeld">Krefeld</a></li>
+<li><a href="/wiki/L%C3%BCbeck" title="Lübeck">Lübeck</a></li>
+<li><a href="/wiki/Magdeburg" title="Magdeburg">Magdeburg</a></li>
+<li><a href="/wiki/Mainz" title="Mainz">Mainz</a></li>
+<li><a href="/wiki/Mannheim" title="Mannheim">Mannheim</a></li>
+<li><a href="/wiki/M%C3%BCnster" title="Münster">Münster</a></li>
+<li><a href="/wiki/M%C3%B6nchengladbach" title="Mönchengladbach">Mönchengladbach</a></li>
+<li><a href="/wiki/Oberhausen" title="Oberhausen">Oberhausen</a></li>
+<li><a href="/wiki/Rostock" title="Rostock">Rostock</a></li>
+<li><a href="/wiki/Wiesbaden" title="Wiesbaden">Wiesbaden</a></li>
+<li><a href="/wiki/Wuppertal" title="Wuppertal">Wuppertal</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">100,000+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bergisch_Gladbach" title="Bergisch Gladbach">Bergisch Gladbach</a></li>
+<li><a href="/wiki/Bottrop" title="Bottrop">Bottrop</a></li>
+<li><a href="/wiki/Bremerhaven" title="Bremerhaven">Bremerhaven</a></li>
+<li><a href="/wiki/Cottbus" title="Cottbus">Cottbus</a></li>
+<li><a href="/wiki/Darmstadt" title="Darmstadt">Darmstadt</a></li>
+<li><a href="/wiki/Erlangen" title="Erlangen">Erlangen</a></li>
+<li><a href="/wiki/F%C3%BCrth" title="Fürth">Fürth</a></li>
+<li><a href="/wiki/G%C3%B6ttingen" title="Göttingen">Göttingen</a></li>
+<li><a href="/wiki/Hagen" title="Hagen">Hagen</a></li>
+<li><a href="/wiki/Hamm" title="Hamm">Hamm</a></li>
+<li><a href="/wiki/Heidelberg" title="Heidelberg">Heidelberg</a></li>
+<li><a href="/wiki/Heilbronn" title="Heilbronn">Heilbronn</a></li>
+<li><a href="/wiki/Herne,_North_Rhine-Westphalia" title="Herne, North Rhine-Westphalia">Herne</a></li>
+<li><a href="/wiki/Hildesheim" title="Hildesheim">Hildesheim</a></li>
+<li><a href="/wiki/Ingolstadt" title="Ingolstadt">Ingolstadt</a></li>
+<li><a href="/wiki/Jena" title="Jena">Jena</a></li>
+<li><a href="/wiki/Kassel" title="Kassel">Kassel</a></li>
+<li><a href="/wiki/Koblenz" title="Koblenz">Koblenz</a></li>
+<li><a href="/wiki/Leverkusen" title="Leverkusen">Leverkusen</a></li>
+<li><a href="/wiki/Ludwigshafen" title="Ludwigshafen">Ludwigshafen</a></li>
+<li><a href="/wiki/Moers" title="Moers">Moers</a></li>
+<li><a href="/wiki/M%C3%BClheim" title="Mülheim">Mülheim an der Ruhr</a></li>
+<li><a href="/wiki/Neuss" title="Neuss">Neuss</a></li>
+<li><a href="/wiki/Offenbach_am_Main" title="Offenbach am Main">Offenbach am Main</a></li>
+<li><a href="/wiki/Oldenburg_(Oldenburg)" class="mw-redirect" title="Oldenburg (Oldenburg)">Oldenburg</a></li>
+<li><a class="mw-selflink selflink">Osnabrück</a></li>
+<li><a href="/wiki/Paderborn" title="Paderborn">Paderborn</a></li>
+<li><a href="/wiki/Pforzheim" title="Pforzheim">Pforzheim</a></li>
+<li><a href="/wiki/Potsdam" title="Potsdam">Potsdam</a></li>
+<li><a href="/wiki/Recklinghausen" title="Recklinghausen">Recklinghausen</a></li>
+<li><a href="/wiki/Regensburg" title="Regensburg">Regensburg</a></li>
+<li><a href="/wiki/Remscheid" title="Remscheid">Remscheid</a></li>
+<li><a href="/wiki/Reutlingen" title="Reutlingen">Reutlingen</a></li>
+<li><a href="/wiki/Saarbr%C3%BCcken" title="Saarbrücken">Saarbrücken</a></li>
+<li><a href="/wiki/Salzgitter" title="Salzgitter">Salzgitter</a></li>
+<li><a href="/wiki/Siegen" title="Siegen">Siegen</a></li>
+<li><a href="/wiki/Solingen" title="Solingen">Solingen</a></li>
+<li><a href="/wiki/Trier" title="Trier">Trier</a></li>
+<li><a href="/wiki/Ulm" title="Ulm">Ulm</a></li>
+<li><a href="/wiki/Wolfsburg" title="Wolfsburg">Wolfsburg</a></li>
+<li><a href="/wiki/W%C3%BCrzburg" title="Würzburg">Würzburg</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/List_of_cities_and_towns_in_Germany" title="List of cities and towns in Germany">complete list</a></li>
+<li><a href="/wiki/List_of_municipalities_in_Germany" title="List of municipalities in Germany">municipalities</a></li>
+<li><a href="/wiki/Metropolitan_regions_in_Germany" title="Metropolitan regions in Germany">metropolitan regions</a></li>
+<li><a href="/wiki/List_of_cities_in_Germany_by_population" title="List of cities in Germany by population">cities with more than 100,000 inhabitants</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Members_of_the_Hanseatic_League_by_Quarter" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Hanseatic_League" title="Template:Hanseatic League"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Hanseatic_League" title="Template talk:Hanseatic League"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Hanseatic_League&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Members_of_the_Hanseatic_League_by_Quarter" style="font-size:114%;margin:0 4em">Members of the <a href="/wiki/Hanseatic_League" title="Hanseatic League">Hanseatic League</a> by <a href="/wiki/Hanseatic_League#Quarters" title="Hanseatic League">Quarter</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3" style="padding:0.2em 0.4em;line-height:1.25em;">
+<div>
+<div class="plainlist">
+<ul>
+<li>Chief cities shown in <span class="smallcaps" style="font-variant:small-caps;">smallcaps</span>.</li>
+<li><a href="/wiki/Free_imperial_city" title="Free imperial city">Free Imperial Cities</a> of the <a href="/wiki/Holy_Roman_Empire" title="Holy Roman Empire">Holy Roman Empire</a> shown in <i>italics</i>.</li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Wendish</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:5.5em;font-weight:normal;;padding:0.75em 1.0em;"><span class="smallcaps" style="font-variant:small-caps;"><i><a href="/wiki/L%C3%BCbeck" title="Lübeck">Lübeck</a></i></span></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Anklam" title="Anklam">Anklam</a></li>
+<li><a href="/wiki/Demmin" title="Demmin">Demmin</a></li>
+<li><a href="/wiki/Greifswald" title="Greifswald">Greifswald</a></li>
+<li><i><a href="/wiki/Hamburg" title="Hamburg">Hamburg</a></i></li>
+<li><a href="/wiki/Ko%C5%82obrzeg" title="Kołobrzeg">Kolberg (Kołobrzeg)</a></li>
+<li><a href="/wiki/L%C3%BCneburg" title="Lüneburg">Lüneburg</a></li>
+<li><a href="/wiki/Rostock" title="Rostock">Rostock</a></li>
+<li><a href="/wiki/Dar%C5%82owo" title="Darłowo">Rügenwalde (Darłowo)</a></li>
+<li><a href="/wiki/Szczecin" title="Szczecin">Stettin (Szczecin)</a></li>
+<li><a href="/wiki/S%C5%82upsk" title="Słupsk">Stolp (Słupsk)</a></li>
+<li><a href="/wiki/Stockholm" title="Stockholm">Stockholm</a></li>
+<li><a href="/wiki/Stralsund" title="Stralsund">Stralsund</a></li>
+<li><a href="/wiki/Visby" title="Visby">Visby</a></li>
+<li><a href="/wiki/Wismar" title="Wismar">Wismar</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+<td class="navbox-image" rowspan="7" style="width:1px;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Haupthandelsroute_Hanse.png" class="image" title="Principle trading routes of the Hanseatic League"><img alt="Principle trading routes of the Hanseatic League" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Haupthandelsroute_Hanse.png/150px-Haupthandelsroute_Hanse.png" width="150" height="115" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Haupthandelsroute_Hanse.png/225px-Haupthandelsroute_Hanse.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Haupthandelsroute_Hanse.png/300px-Haupthandelsroute_Hanse.png 2x" data-file-width="789" data-file-height="603" /></a><br />
+<br />
+<a href="/wiki/File:Hansestadt_Lubeck_Tatiana_Yagunova_Watercolor_painting_2014.jpg" class="image" title="Lubeck — a main city of the Hanseatic League"><img alt="Lubeck — a main city of the Hanseatic League" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Hansestadt_Lubeck_Tatiana_Yagunova_Watercolor_painting_2014.jpg/150px-Hansestadt_Lubeck_Tatiana_Yagunova_Watercolor_painting_2014.jpg" width="150" height="121" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Hansestadt_Lubeck_Tatiana_Yagunova_Watercolor_painting_2014.jpg/225px-Hansestadt_Lubeck_Tatiana_Yagunova_Watercolor_painting_2014.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Hansestadt_Lubeck_Tatiana_Yagunova_Watercolor_painting_2014.jpg/300px-Hansestadt_Lubeck_Tatiana_Yagunova_Watercolor_painting_2014.jpg 2x" data-file-width="3720" data-file-height="2996" /></a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Saxon</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:5.5em;font-weight:normal;">
+<div style="padding:0.1em 0;line-height:1.2em;"><span class="smallcaps" style="font-variant:small-caps;"><a href="/wiki/Braunschweig" title="Braunschweig">Brunswick</a><br />
+<a href="/wiki/Magdeburg" title="Magdeburg">Magdeburg</a></span></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Berlin" title="Berlin">Berlin</a></li>
+<li><i><a href="/wiki/Bremen" title="Bremen">Bremen</a></i></li>
+<li><a href="/wiki/Erfurt" title="Erfurt">Erfurt</a></li>
+<li><a href="/wiki/Frankfurt_(Oder)" title="Frankfurt (Oder)">Frankfurt an der Oder</a></li>
+<li><i><a href="/wiki/Goslar" title="Goslar">Goslar</a></i></li>
+<li><i><a href="/wiki/M%C3%BChlhausen" title="Mühlhausen">Mühlhausen</a></i></li>
+<li><i><a href="/wiki/Nordhausen" title="Nordhausen">Nordhausen</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Baltic</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:5.5em;font-weight:normal;">
+<div style="padding:0.1em 0;line-height:1.2em;line-height:1.1em;"><a href="/wiki/Gda%C5%84sk" title="Gdańsk"><span class="smallcaps" style="font-variant:small-caps;">Danzig</span><br />
+<small><span style="font-weight:normal;">(Gdańsk)</span></small></a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Wroc%C5%82aw" title="Wrocław">Breslau <small>(Wrocław)</small></a></li>
+<li><a href="/wiki/Tartu" title="Tartu">Dorpat <small>(Tartu)</small></a></li>
+<li><a href="/wiki/Elbl%C4%85g" title="Elbląg">Elbing <small>(Elbląg)</small></a></li>
+<li><a href="/wiki/K%C3%B6nigsberg" title="Königsberg">Königsberg</a> <small>(<a href="/wiki/Kaliningrad" title="Kaliningrad">Kaliningrad</a>)</small></li>
+<li><a href="/wiki/Krak%C3%B3w" title="Kraków">Cracow <small>(Kraków)</small></a></li>
+<li><a href="/wiki/Tallinn" title="Tallinn">Reval <small>(Tallinn)</small></a></li>
+<li><a href="/wiki/Riga" title="Riga">Riga <small>(Rīga)</small></a></li>
+<li><a href="/wiki/Toru%C5%84" title="Toruń">Thorn <small>(Toruń)</small></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Westphalian</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:5.5em;font-weight:normal;">
+<div style="padding:0.1em 0;line-height:1.2em;"><span class="smallcaps" style="font-variant:small-caps;"><i><a href="/wiki/Cologne" title="Cologne">Cologne</a></i></span> <span style="font-weight:normal;"><sup><small>1</small></sup></span><br />
+<span class="smallcaps" style="font-variant:small-caps;"><i><a href="/wiki/Dortmund" title="Dortmund">Dortmund</a></i></span> <span style="font-weight:normal;"><sup><small>1</small></sup></span></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Deventer" title="Deventer">Deventer</a></li>
+<li><a href="/wiki/Groningen" title="Groningen">Groningen</a></li>
+<li><a href="/wiki/Kampen,_Overijssel" title="Kampen, Overijssel">Kampen</a></li>
+<li><a href="/wiki/M%C3%BCnster" title="Münster">Münster</a></li>
+<li><a class="mw-selflink selflink">Osnabrück</a></li>
+<li><i><a href="/wiki/Soest,_Germany" title="Soest, Germany">Soest</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<hr /></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><i><a href="/wiki/Kontor" title="Kontor">Kontore</a></i></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:5.5em;font-weight:normal;">Principal</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bryggen" title="Bryggen">Bryggen</a> <small>(<a href="/wiki/Bergen" title="Bergen">Bergen</a>)</small></li>
+<li>Hanzekantoor
+<ul>
+<li><small><a href="/wiki/Bruges" title="Bruges">Bruges</a></small></li>
+<li><small><a href="/wiki/Antwerp" title="Antwerp">Antwerp</a><sup>2</sup><small>&#160;</small></small></li>
+</ul>
+</li>
+<li><a href="/wiki/Steelyard" title="Steelyard">Steelyard</a> <small>(<a href="/wiki/London" title="London">London</a>)</small></li>
+<li>Peterhof <small>(<a href="/wiki/Veliky_Novgorod" title="Veliky Novgorod">Novgorod</a>)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:5.5em;font-weight:normal;">Subsidiary</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/King%27s_Lynn" title="King's Lynn">Bishop's Lynn</a></li>
+<li><a href="/wiki/Falsterbo" title="Falsterbo">Falsterbo</a></li>
+<li><a href="/wiki/Ipswich" title="Ipswich">Ipswich</a></li>
+<li><a href="/wiki/Kaunas" title="Kaunas">Kaunas</a></li>
+<li><a href="/wiki/Malm%C3%B6" title="Malmö">Malmö</a></li>
+<li><a href="/wiki/Polotsk" title="Polotsk">Polotsk</a></li>
+<li><a href="/wiki/Pskov_Republic" title="Pskov Republic">Pskov</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Other cities</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bristol" title="Bristol">Bristol</a></li>
+<li><a href="/wiki/Boston,_Lincolnshire" title="Boston, Lincolnshire">Boston</a></li>
+<li><a href="/wiki/Damme" title="Damme">Damme</a></li>
+<li><a href="/wiki/Leith" title="Leith">Leith</a></li>
+<li><a href="/wiki/Herford" title="Herford">Herford</a></li>
+<li><a href="/wiki/Kingston_upon_Hull" title="Kingston upon Hull">Hull</a></li>
+<li><a href="/wiki/Newcastle_upon_Tyne" title="Newcastle upon Tyne">Newcastle</a></li>
+<li><a href="/wiki/Stargard_Szczeci%C5%84ski" class="mw-redirect" title="Stargard Szczeciński">Stargard</a></li>
+<li><a href="/wiki/Great_Yarmouth" title="Great Yarmouth">Yarmouth</a></li>
+<li><a href="/wiki/York" title="York">York</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3" style="padding:0.2em 0.4em 0.4em;line-height:1.25em;">
+<div>
+<div class="plainlist">
+<ul>
+<li><sup><small>1</small></sup> <a href="/wiki/Cologne" title="Cologne">Cologne</a> and <a href="/wiki/Dortmund" title="Dortmund">Dortmund</a> were both capital of the Westphalian Quarter at different times.</li>
+<li><sup><small>2</small></sup> <a href="/wiki/Antwerp" title="Antwerp">Antwerp</a> gained importance once <a href="/wiki/Bruges" title="Bruges">Bruges</a> became inaccessible due to the silting of the <a href="/wiki/Zwin" title="Zwin">Zwin</a> channel.</li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="border.7C30px.7CFlag_of_Lower_Saxony_Urban_and_rural_districts_in_the_state_of_Lower_Saxony_in_Germany" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Germany_districts_Lower_Saxony" title="Template:Germany districts Lower Saxony"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Germany_districts_Lower_Saxony" title="Template talk:Germany districts Lower Saxony"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Germany_districts_Lower_Saxony&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="border.7C30px.7CFlag_of_Lower_Saxony_Urban_and_rural_districts_in_the_state_of_Lower_Saxony_in_Germany" style="font-size:114%;margin:0 4em"><a href="/wiki/File:Flag_of_Lower_Saxony.svg" class="image" title="Flag of Lower Saxony"><img alt="Flag of Lower Saxony" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Flag_of_Lower_Saxony.svg/30px-Flag_of_Lower_Saxony.svg.png" width="30" height="20" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Flag_of_Lower_Saxony.svg/45px-Flag_of_Lower_Saxony.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Flag_of_Lower_Saxony.svg/60px-Flag_of_Lower_Saxony.svg.png 2x" data-file-width="900" data-file-height="600" /></a> Urban and rural districts in the state of <a href="/wiki/Lower_Saxony" title="Lower Saxony">Lower Saxony</a> in Germany</div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Region</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hanover_Region" title="Hanover Region">Hanover</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Urban districts</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Braunschweig" title="Braunschweig">Braunschweig</a></li>
+<li><a href="/wiki/Delmenhorst" title="Delmenhorst">Delmenhorst</a></li>
+<li><a href="/wiki/Emden" title="Emden">Emden</a></li>
+<li><a href="/wiki/Oldenburg_(Oldenburg)" class="mw-redirect" title="Oldenburg (Oldenburg)">Oldenburg</a></li>
+<li><a class="mw-selflink selflink">Osnabrück</a></li>
+<li><a href="/wiki/Salzgitter" title="Salzgitter">Salzgitter</a></li>
+<li><a href="/wiki/Wilhelmshaven" title="Wilhelmshaven">Wilhelmshaven</a></li>
+<li><a href="/wiki/Wolfsburg" title="Wolfsburg">Wolfsburg</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Rural districts</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ammerland" title="Ammerland">Ammerland</a></li>
+<li><a href="/wiki/Aurich_(district)" title="Aurich (district)">Aurich</a></li>
+<li><a href="/wiki/County_of_Bentheim_(district)" title="County of Bentheim (district)">Bentheim</a></li>
+<li><a href="/wiki/Celle_(district)" title="Celle (district)">Celle</a></li>
+<li><a href="/wiki/Cloppenburg_(district)" title="Cloppenburg (district)">Cloppenburg</a></li>
+<li><a href="/wiki/Cuxhaven_(district)" title="Cuxhaven (district)">Cuxhaven</a></li>
+<li><a href="/wiki/Diepholz_(district)" title="Diepholz (district)">Diepholz</a></li>
+<li><a href="/wiki/Emsland" title="Emsland">Emsland</a></li>
+<li><a href="/wiki/Friesland_(district)" title="Friesland (district)">Friesland</a></li>
+<li><a href="/wiki/Gifhorn_(district)" title="Gifhorn (district)">Gifhorn</a></li>
+<li><a href="/wiki/Goslar_(district)" title="Goslar (district)">Goslar</a></li>
+<li><a href="/wiki/G%C3%B6ttingen_(district)" title="Göttingen (district)">Göttingen</a></li>
+<li><a href="/wiki/Hamelin-Pyrmont" title="Hamelin-Pyrmont">Hamelin-Pyrmont</a></li>
+<li><a href="/wiki/Harburg_(district)" title="Harburg (district)">Harburg</a></li>
+<li><a href="/wiki/Heidekreis" title="Heidekreis">Heidekreis</a></li>
+<li><a href="/wiki/Helmstedt_(district)" title="Helmstedt (district)">Helmstedt</a></li>
+<li><a href="/wiki/Hildesheim_(district)" title="Hildesheim (district)">Hildesheim</a></li>
+<li><a href="/wiki/Holzminden_(district)" title="Holzminden (district)">Holzminden</a></li>
+<li><a href="/wiki/Leer_(district)" title="Leer (district)">Leer</a></li>
+<li><a href="/wiki/L%C3%BCchow-Dannenberg" title="Lüchow-Dannenberg">Lüchow-Dannenberg</a></li>
+<li><a href="/wiki/L%C3%BCneburg_(district)" title="Lüneburg (district)">Lüneburg</a></li>
+<li><a href="/wiki/Nienburg_(district)" title="Nienburg (district)">Nienburg</a></li>
+<li><a href="/wiki/Northeim_(district)" title="Northeim (district)">Northeim</a></li>
+<li><a href="/wiki/Oldenburg_(district)" title="Oldenburg (district)">Oldenburg</a></li>
+<li><a href="/wiki/Osnabr%C3%BCck_(district)" title="Osnabrück (district)">Osnabrück</a></li>
+<li><a href="/wiki/Osterholz" title="Osterholz">Osterholz</a></li>
+<li><a href="/wiki/Peine_(district)" title="Peine (district)">Peine</a></li>
+<li><a href="/wiki/Rotenburg_(district)" title="Rotenburg (district)">Rotenburg</a></li>
+<li><a href="/wiki/Schaumburg" title="Schaumburg">Schaumburg</a></li>
+<li><a href="/wiki/Stade_(district)" title="Stade (district)">Stade</a></li>
+<li><a href="/wiki/Uelzen_(district)" title="Uelzen (district)">Uelzen</a></li>
+<li><a href="/wiki/Vechta_(district)" title="Vechta (district)">Vechta</a></li>
+<li><a href="/wiki/Verden_(district)" title="Verden (district)">Verden</a></li>
+<li><a href="/wiki/Wesermarsch" title="Wesermarsch">Wesermarsch</a></li>
+<li><a href="/wiki/Wittmund_(district)" title="Wittmund (district)">Wittmund</a></li>
+<li><a href="/wiki/Wolfenb%C3%BCttel_(district)" title="Wolfenbüttel (district)">Wolfenbüttel</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/169131077">WorldCat Identities</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/169131077">169131077</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n79075257">n79075257</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000122654425">0000 0001 2265 4425</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/4043974-4">4043974-4</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb119329086">cb119329086</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb119329086">(data)</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1275
+Cached time: 20171017164517
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.804 seconds
+Real time usage: 1.033 seconds
+Preprocessor visited node count: 13176/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 152725/2097152 bytes
+Template argument size: 23283/2097152 bytes
+Highest expansion depth: 26/40
+Expensive parser function count: 10/500
+Lua time usage: 0.295/10.000 seconds
+Lua memory usage: 8.3 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  856.276      1 -total
+ 38.57%  330.251      1 Template:Infobox_German_location
+ 36.21%  310.057      1 Template:Infobox_settlement
+ 30.65%  262.458      1 Template:Infobox
+ 15.79%  135.231      1 Template:Reflist
+ 10.20%   87.328      8 Template:Navbox
+  7.68%   65.785      7 Template:Population_Germany
+  7.20%   61.630      4 Template:Cite_web
+  7.00%   59.906      9 Template:Both
+  6.72%   57.584      1 Template:Coord
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:73681-0!canonical and timestamp 20171017164516 and revision id 803401446
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Osnabrück&amp;oldid=803401446">https://en.wikipedia.org/w/index.php?title=Osnabrück&amp;oldid=803401446</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Cities_in_Lower_Saxony" title="Category:Cities in Lower Saxony">Cities in Lower Saxony</a></li><li><a href="/wiki/Category:780_establishments_in_Europe" title="Category:780 establishments in Europe">780 establishments in Europe</a></li><li><a href="/wiki/Category:Province_of_Hanover" title="Category:Province of Hanover">Province of Hanover</a></li><li><a href="/wiki/Category:Osnabr%C3%BCck" title="Category:Osnabrück">Osnabrück</a></li><li><a href="/wiki/Category:Populated_places_established_in_the_8th_century" title="Category:Populated places established in the 8th century">Populated places established in the 8th century</a></li><li><a href="/wiki/Category:University_towns_in_Germany" title="Category:University towns in Germany">University towns in Germany</a></li><li><a href="/wiki/Category:Members_of_the_Hanseatic_League" title="Category:Members of the Hanseatic League">Members of the Hanseatic League</a></li><li><a href="/wiki/Category:Holocaust_locations_in_Germany" title="Category:Holocaust locations in Germany">Holocaust locations in Germany</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_German-language_sources_(de)" title="Category:CS1 German-language sources (de)">CS1 German-language sources (de)</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li><li><a href="/wiki/Category:Articles_containing_non-English-language_text" title="Category:Articles containing non-English-language text">Articles containing non-English-language text</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_February_2015" title="Category:Articles with unsourced statements from February 2015">Articles with unsourced statements from February 2015</a></li><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_2014" title="Category:Articles containing potentially dated statements from 2014">Articles containing potentially dated statements from 2014</a></li><li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">All articles containing potentially dated statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_February_2010" title="Category:Articles with unsourced statements from February 2010">Articles with unsourced statements from February 2010</a></li><li><a href="/wiki/Category:Articles_with_German-language_external_links" title="Category:Articles with German-language external links">Articles with German-language external links</a></li><li><a href="/wiki/Category:Wikipedia_articles_incorporating_a_citation_from_the_1911_Encyclopaedia_Britannica_with_Wikisource_reference" title="Category:Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference">Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Osnabr%C3%BCck" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Osnabr%C3%BCck" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Osnabr%C3%BCck" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Osnabr%C3%BCck" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Osnabr%C3%BCck">Read</a></span></li>
+							<li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Osnabr%C3%BCck&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Osnabr%C3%BCck&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Osnabr%C3%BCck" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Osnabr%C3%BCck" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Osnabr%C3%BCck&amp;oldid=803401446" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Osnabr%C3%BCck&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2916" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Osnabr%C3%BCck&amp;id=803401446" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Osnabr%C3%BCck">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Osnabr%C3%BCck&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Osnabr%C3%BCck&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Osnabr%C3%BCck" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikivoyage"><a href="https://en.wikivoyage.org/wiki/Osnabr%C3%BCck" hreflang="en">Wikivoyage</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Osnabr%C3%BCck" title="Osnabrück – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A3%D9%88%D8%B3%D9%86%D8%A7%D8%A8%D8%B1%D9%88%D9%83" title="أوسنابروك – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D8%A7%D9%88%D8%B3%D9%86%D8%A7%D8%A8%D8%B1%D9%88%DA%A9" title="اوسنابروک – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Osnabr%C3%BCck" title="Osnabrück – Chinese (Min Nan)" lang="zh-min-nan" hreflang="zh-min-nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%9E%D1%81%D0%BD%D0%B0%D0%B1%D1%80%D1%83%D0%BA" title="Оснабрук – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/%D0%90%D1%81%D0%BD%D0%B0%D0%B1%D1%80%D1%83%D0%BA" title="Аснабрук – Belarusian (Taraškievica orthography)" lang="be-x-old" hreflang="be-x-old" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9E%D1%81%D0%BD%D0%B0%D0%B1%D1%80%D1%8E%D0%BA" title="Оснабрюк – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Osnabr%C3%BCck" title="Osnabrück – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Osnabr%C3%BCck" title="Osnabrück – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Osnabr%C3%BCck_(kapital_sa_distrito)" title="Osnabrück (kapital sa distrito) – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Osnabr%C3%BCck" title="Osnabrück – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Osnabr%C3%BCck" title="Osnabrück – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Osnabr%C3%BCck" title="Osnabrück – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Osnabr%C3%BCck" title="Osnabrück – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Osnabr%C3%BCck" title="Osnabrück – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Osnabr%C3%BCck" title="Osnabrück – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Osnabr%C3%BCck" title="Osnabrück – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A7%D8%B3%D9%86%D8%A7%D8%A8%D8%B1%D9%88%DA%A9" title="اسنابروک – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Osnabr%C3%BCck" title="Osnabrück – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/Osnabr%C3%BCck" title="Osnabrück – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%98%A4%EC%8A%A4%EB%82%98%EB%B8%8C%EB%A4%BC%ED%81%AC" title="오스나브뤼크 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%95%D5%BD%D5%B6%D5%A1%D5%A2%D6%80%D5%B5%D5%B8%D6%82%D5%AF" title="Օսնաբրյուկ – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hsb"><a href="https://hsb.wikipedia.org/wiki/Osnabr%C3%BCck" title="Osnabrück – Upper Sorbian" lang="hsb" hreflang="hsb" class="interlanguage-link-target">Hornjoserbsce</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Osnabr%C3%BCck" title="Osnabrück – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Osnabr%C3%BCck" title="Osnabrück – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ie"><a href="https://ie.wikipedia.org/wiki/Osnabr%C3%BCck" title="Osnabrück – Interlingue" lang="ie" hreflang="ie" class="interlanguage-link-target">Interlingue</a></li><li class="interlanguage-link interwiki-os"><a href="https://os.wikipedia.org/wiki/%D0%9E%D1%81%D0%BD%D0%B0%D0%B1%D1%80%D1%8E%D0%BA" title="Оснабрюк – Ossetic" lang="os" hreflang="os" class="interlanguage-link-target">Ирон</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Osnabr%C3%BCck" title="Osnabrück – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Osnabr%C3%BCck" title="Osnabrück – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%90%D7%95%D7%A1%D7%A0%D7%91%D7%A8%D7%99%D7%A7" title="אוסנבריק – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%9D%E1%83%A1%E1%83%9C%E1%83%90%E1%83%91%E1%83%A0%E1%83%98%E1%83%A3%E1%83%99%E1%83%98" title="ოსნაბრიუკი – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%9E%D1%81%D0%BD%D0%B0%D0%B1%D1%80%D1%8E%D0%BA" title="Оснабрюк – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Osnabr%C3%BCck" title="Osnabrück – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li><li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/%D0%9E%D1%81%D0%BD%D0%B0%D0%B1%D1%80%D1%8E%D0%BA" title="Оснабрюк – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Osnabruga" title="Osnabruga – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Osnabrika" title="Osnabrika – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-lb"><a href="https://lb.wikipedia.org/wiki/Osnabr%C3%BCck" title="Osnabrück – Luxembourgish" lang="lb" hreflang="lb" class="interlanguage-link-target">Lëtzebuergesch</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Osnabriukas" title="Osnabriukas – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Osnabr%C3%BCck" title="Osnabrück – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%9E%D1%81%D0%BD%D0%B0%D0%B1%D1%80%D0%B8%D0%BA" title="Оснабрик – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Osnabr%C3%BCck" title="Osnabrück – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-nds-nl"><a href="https://nds-nl.wikipedia.org/wiki/Ossenbrugge" title="Ossenbrugge – Low Saxon" lang="nds-NL" hreflang="nds-NL" class="interlanguage-link-target">Nedersaksies</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%B9%E3%83%8A%E3%83%96%E3%83%AA%E3%83%A5%E3%83%83%E3%82%AF" title="オスナブリュック – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-frr"><a href="https://frr.wikipedia.org/wiki/Osnabr%C3%BCck" title="Osnabrück – Northern Frisian" lang="frr" hreflang="frr" class="interlanguage-link-target">Nordfriisk</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Osnabr%C3%BCck" title="Osnabrück – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Osnabr%C3%BCck" title="Osnabrück – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Osnabryuk" title="Osnabryuk – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%D8%A7%D9%88%D8%B3%D9%86%D8%A7%D8%A8%D8%B1%D9%88%DA%A9" title="اوسنابروک – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li><li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/Ossenbr%C3%BCgge" title="Ossenbrügge – Low German" lang="nds" hreflang="nds" class="interlanguage-link-target">Plattdüütsch</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Osnabr%C3%BCck" title="Osnabrück – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Osnabruque" title="Osnabruque – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Osnabr%C3%BCck" title="Osnabrück – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9E%D1%81%D0%BD%D0%B0%D0%B1%D1%80%D1%8E%D0%BA" title="Оснабрюк – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Osnabr%C3%BCck" title="Osnabrück – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-stq"><a href="https://stq.wikipedia.org/wiki/Ossenbr%C3%A4%C3%A4ch" title="Ossenbrääch – Saterland Frisian" lang="stq" hreflang="stq" class="interlanguage-link-target">Seeltersk</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Osnabr%C3%BCck" title="Osnabrück – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Osnabr%C3%BCck" title="Osnabrück – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Osnabr%C3%BCck" title="Osnabrück – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-szl"><a href="https://szl.wikipedia.org/wiki/Osnabr%C3%BCck" title="Osnabrück – Silesian" lang="szl" hreflang="szl" class="interlanguage-link-target">Ślůnski</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%9E%D1%81%D0%BD%D0%B0%D0%B1%D1%80%D0%B8%D0%BA" title="Оснабрик – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Osnabr%C3%BCck" title="Osnabrück – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Osnabr%C3%BCck" title="Osnabrück – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Osnabr%C3%BCck" title="Osnabrück – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%9E%D1%81%D0%BD%D0%B0%D0%B1%D1%80%D2%AF%D0%BA" title="Оснабрүк – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%AD%E0%B8%AD%E0%B8%AA%E0%B8%99%E0%B8%B2%E0%B8%9A%E0%B8%A3%E0%B8%B6%E0%B8%84" title="ออสนาบรึค – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Osnabr%C3%BCck" title="Osnabrück – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9E%D1%81%D0%BD%D0%B0%D0%B1%D1%80%D1%8E%D0%BA" title="Оснабрюк – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D8%A7%D9%88%D8%B3%D9%86%D8%A7%D8%A8%D8%B1%DA%A9" title="اوسنابرک – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Osnabr%C3%BCck" title="Osnabrück – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/Osnabr%C3%BCck" title="Osnabrück – Volapük" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Osnabr%C3%BCck" title="Osnabrück – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E5%A5%A7%E6%96%AF%E7%B4%8D%E5%B8%83%E5%85%8B" title="奧斯納布克 – Cantonese" lang="zh-yue" hreflang="zh-yue" class="interlanguage-link-target">粵語</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%A5%A5%E6%96%AF%E7%BA%B3%E5%B8%83%E5%90%95%E5%85%8B" title="奥斯纳布吕克 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2916#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 2 October 2017, at 09:23.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Osnabr%C3%BCck&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.804","walltime":"1.033","ppvisitednodes":{"value":13176,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":152725,"limit":2097152},"templateargumentsize":{"value":23283,"limit":2097152},"expansiondepth":{"value":26,"limit":40},"expensivefunctioncount":{"value":10,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  856.276      1 -total"," 38.57%  330.251      1 Template:Infobox_German_location"," 36.21%  310.057      1 Template:Infobox_settlement"," 30.65%  262.458      1 Template:Infobox"," 15.79%  135.231      1 Template:Reflist"," 10.20%   87.328      8 Template:Navbox","  7.68%   65.785      7 Template:Population_Germany","  7.20%   61.630      4 Template:Cite_web","  7.00%   59.906      9 Template:Both","  6.72%   57.584      1 Template:Coord"]},"scribunto":{"limitreport-timeusage":{"value":"0.295","limit":"10.000"},"limitreport-memusage":{"value":8705779,"limit":52428800}},"cachereport":{"origin":"mw1275","timestamp":"20171017164517","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":1133,"wgHostname":"mw1275"});});</script>
+	</body>
+</html>

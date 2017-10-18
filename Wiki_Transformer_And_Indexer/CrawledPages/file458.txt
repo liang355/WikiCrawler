@@ -1,0 +1,1219 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Schweinfurt - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Schweinfurt","wgTitle":"Schweinfurt","wgCurRevisionId":799828301,"wgRevisionId":799828301,"wgArticleId":573341,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 German-language sources (de)","Use dmy dates from December 2014","Coordinates on Wikidata","All articles with unsourced statements","Articles with unsourced statements from April 2011","Pages using infobox former country with unknown parameters","Wikipedia articles needing clarification from May 2008","Articles with unsourced statements from May 2008","Articles needing more detailed references","Articles to be expanded from June 2008","All articles to be expanded","Articles using small message boxes","Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference","Wikipedia articles with VIAF identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","Towns in Bavaria","Former republics","Former countries in Europe","States of the Holy Roman Empire","City-states","Imperial free cities","States and territories established in 1254","States and territories disestablished in 1803","1803 disestablishments in Europe","Franconian Circle","Schweinfurt","1254 establishments in the Holy Roman Empire"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Schweinfurt","wgRelevantArticleId":573341,"wgRequestId":"WefRxwpAAEAAAI@N-o4AAACG","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCoordinates":{"lat":50.05,"lon":10.233333333333},"wgWikibaseItemId":"Q4126","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.math.scripts","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.3"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Schweinfurt_-_Marktplatz_-_2017.jpg/1200px-Schweinfurt_-_Marktplatz_-_2017.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Schweinfurt"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Schweinfurt&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Schweinfurt&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Schweinfurt"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Schweinfurt rootpage-Schweinfurt vector-experimental-print-styles vector-nav-directionality skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Schweinfurt</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For the district, see <a href="/wiki/Schweinfurt_(district)" title="Schweinfurt (district)">Schweinfurt (district)</a>.</div>
+<table class="infobox geography vcard" style="width:22em;width:23em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap"><span class="fn org"><span class="wrap">Schweinfurt</span></span></th>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Schweinfurt_-_Marktplatz_-_2017.jpg" class="image" title="Market square with town hall"><img alt="Market square with town hall" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Schweinfurt_-_Marktplatz_-_2017.jpg/250px-Schweinfurt_-_Marktplatz_-_2017.jpg" width="250" height="167" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Schweinfurt_-_Marktplatz_-_2017.jpg/375px-Schweinfurt_-_Marktplatz_-_2017.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/64/Schweinfurt_-_Marktplatz_-_2017.jpg/500px-Schweinfurt_-_Marktplatz_-_2017.jpg 2x" data-file-width="5146" data-file-height="3431" /></a>
+<div>Market square with town hall</div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" class="maptable" style="text-align:center">
+<table style="width:100%; background:none;">
+<tr>
+<td style="vertical-align:middle; text-align:center;"><a href="/wiki/File:DEU_Schweinfurt_COA.svg" class="image" title="Coat of arms of Schweinfurt  "><img alt="Coat of arms of Schweinfurt  " src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/DEU_Schweinfurt_COA.svg/70px-DEU_Schweinfurt_COA.svg.png" width="70" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/DEU_Schweinfurt_COA.svg/105px-DEU_Schweinfurt_COA.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/DEU_Schweinfurt_COA.svg/141px-DEU_Schweinfurt_COA.svg.png 2x" data-file-width="510" data-file-height="580" /></a><br />
+<small>Coat of arms</small></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center">
+<div class="center">
+<div style="width:170px;float:none;clear:both;margin-left:auto;margin-right:auto">
+<div style="width:170px;padding:0">
+<div style="position:relative;width:170px"><a href="/wiki/File:Germany_adm_location_map.svg" class="image" title="Schweinfurt   is located in Germany"><img alt="Schweinfurt   is located in Germany" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/170px-Germany_adm_location_map.svg.png" width="170" height="202" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/255px-Germany_adm_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/340px-Germany_adm_location_map.svg.png 2x" data-file-width="1073" data-file-height="1272" /></a>
+<div style="position:absolute;top:63.924%;left:47.333%">
+<div style="position:absolute;left:-3px;top:-3px;line-height:0"><img alt="Schweinfurt  " src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png" title="Schweinfurt  " width="6" height="6" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/9px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div>
+<div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:4px;text-align:left"><span style="padding:1px;float:left"><span class="wrap">Schweinfurt</span></span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr class="mergedbottomrow">
+<td colspan="2" style="text-align:center">Coordinates: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Schweinfurt&amp;params=50_3_0_N_10_14_0_E_type:city(51969)_region:DE-BY"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">50°3′0″N</span> <span class="longitude">10°14′0″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">50.05000°N 10.23333°E</span><span style="display:none">﻿ / <span class="geo">50.05000; 10.23333</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Schweinfurt&amp;params=50_3_0_N_10_14_0_E_type:city(51969)_region:DE-BY"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">50°3′0″N</span> <span class="longitude">10°14′0″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">50.05000°N 10.23333°E</span><span style="display:none">﻿ / <span class="geo">50.05000; 10.23333</span></span></span></a></span></span></span></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Country</th>
+<td><a href="/wiki/Germany" title="Germany">Germany</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/States_of_Germany" title="States of Germany">State</a></th>
+<td><a href="/wiki/Bavaria" title="Bavaria">Bavaria</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Regierungsbezirk" title="Regierungsbezirk">Admin. region</a></th>
+<td><a href="/wiki/Lower_Franconia" title="Lower Franconia">Lower Franconia</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Districts_of_Germany" title="Districts of Germany">District</a></th>
+<td><a href="/wiki/Urban_districts_of_Germany" class="mw-redirect" title="Urban districts of Germany">Urban district</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Government</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;<a href="/wiki/Lord_Mayor" class="mw-redirect" title="Lord Mayor">Lord Mayor</a></th>
+<td>Sebastian Remelé (<a href="/wiki/Christian_Social_Union_of_Bavaria" class="mw-redirect" title="Christian Social Union of Bavaria">CSU</a>)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Area</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Total</th>
+<td>35.71&#160;km<sup>2</sup> (13.79&#160;sq&#160;mi)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Elevation</th>
+<td>226&#160;m (741&#160;ft)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Population <span style="font-weight:normal">(2015-12-31)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></span></th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Total</th>
+<td>51,969</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Density</th>
+<td>1,500/km<sup>2</sup> (3,800/sq&#160;mi)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/Time_zone" title="Time zone">Time zone</a></th>
+<td><a href="/wiki/Central_European_Time" title="Central European Time">CET</a>/<a href="/wiki/Central_European_Summer_Time" title="Central European Summer Time">CEST</a> (UTC+1/+2)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/List_of_postal_codes_in_Germany" title="List of postal codes in Germany">Postal codes</a></th>
+<td class="adr"><span class="postal-code">97421–97424</span></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/List_of_dialling_codes_in_Germany" title="List of dialling codes in Germany">Dialling codes</a></th>
+<td>09721</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Vehicle_registration_plate" title="Vehicle registration plate">Vehicle registration</a></th>
+<td>SW</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Website</th>
+<td><a rel="nofollow" class="external text" href="http://www.schweinfurt.de/">www.schweinfurt.de</a></td>
+</tr>
+</table>
+<p><b>Schweinfurt</b> (in German literally '<a href="/wiki/Swine" class="mw-redirect" title="Swine">swine</a> <a href="/wiki/Ford_(crossing)" title="Ford (crossing)">ford</a>') is a city in the <a href="/wiki/Lower_Franconia" title="Lower Franconia">Lower Franconia</a> region of <a href="/wiki/Bavaria" title="Bavaria">Bavaria</a> in Germany on the right bank of the navigable <a href="/wiki/Main_(river)" title="Main (river)">Main</a> River, which is spanned by several bridges here, 27&#160;km northeast of <a href="/wiki/W%C3%BCrzburg" title="Würzburg">Würzburg</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#World_War_II"><span class="tocnumber">1.1</span> <span class="toctext">World War II</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Recent_years"><span class="tocnumber">1.2</span> <span class="toctext">Recent years</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Main_sights"><span class="tocnumber">2</span> <span class="toctext">Main sights</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Economy"><span class="tocnumber">3</span> <span class="toctext">Economy</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Communal_facilities"><span class="tocnumber">4</span> <span class="toctext">Communal facilities</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Historical_population"><span class="tocnumber">5</span> <span class="toctext">Historical population</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Notable_people"><span class="tocnumber">6</span> <span class="toctext">Notable people</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Sons_and_daughters_of_the_town"><span class="tocnumber">7</span> <span class="toctext">Sons and daughters of the town</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Twin_towns"><span class="tocnumber">8</span> <span class="toctext">Twin towns</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Notes"><span class="tocnumber">9</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">10</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#External_links"><span class="tocnumber">11</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Schweinfurt&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The city was first documented in the year 790,<sup id="cite_ref-FOOTNOTEChisholm1911_2-0" class="reference"><a href="#cite_note-FOOTNOTEChisholm1911-2">[2]</a></sup> although as early as 740 a settlement called <i>Villa Suinfurde</i> was mentioned. In the 10th century Schweinfurt was the seat of a <a href="/wiki/Margrave" title="Margrave">margraviate</a>.<sup id="cite_ref-FOOTNOTEChisholm1911_2-1" class="reference"><a href="#cite_note-FOOTNOTEChisholm1911-2">[2]</a></sup> After the defeat of count <a href="/wiki/Henry_of_Schweinfurt" title="Henry of Schweinfurt">Henry of Schweinfurt</a> in 1002/1003, in the feud against King <a href="/wiki/Henry_II_of_Germany" class="mw-redirect" title="Henry II of Germany">Henry II</a> of <a href="/wiki/Kingdom_of_Germany" title="Kingdom of Germany">Germany</a>, his family lost its leading position in the town. In the first half of the 13th century Schweinfurt expanded to become a proper city with city wall, towers and city gates. At that time the Nikolaus hospital was founded, a mint was established and construction work on the Saint Johannis church began.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (April 2011)">citation needed</span></a></i>]</sup></p>
+<table class="infobox geography vcard vevent" style="width:290px;">
+<tr class="mergedtoprow">
+<td colspan="3" class="fn org summary" style="text-align:center; line-height:1.2em; font-size:135%; font-weight:bold;">Imperial City of Schweinfurt</td>
+</tr>
+<tr class="mergedbottomrow">
+<td colspan="3" class="fn org summary" style="text-align:center; line-height:1.2em; font-size:115%; font-weight:bold;"><i>Reichsstadt Schweinfurt</i></td>
+</tr>
+<tr>
+<td colspan="3" style="vertical-align:middle; text-align:center; font-size:115%;"><a href="/wiki/Free_Imperial_City" class="mw-redirect" title="Free Imperial City">Free Imperial City</a> of the <a href="/wiki/Holy_Roman_Empire" title="Holy Roman Empire">Holy Roman Empire</a></td>
+</tr>
+<tr>
+<td colspan="3" style="vertical-align:middle; text-align:center; border-top:solid 1px #aaa; padding:0.2em 0em 0.2em 0em;">
+<table style="width:100%; text-align:center; margin:0 auto; background:transparent;">
+<tr>
+<td style="width:50px; border:0; vertical-align:middle; font-size:30%; line-height:105%;"></td>
+<td style="vertical-align:middle; text-align:center; font-size:115%; border:0;"><b>1254–1803</b></td>
+<td style="width:50px; border:0; vertical-align:middle; text-align:right; line-height:105%; font-size:30%;"></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2"><b>Capital</b></td>
+<td style="width:50%;"><a class="mw-selflink selflink">Schweinfurt</a></td>
+</tr>
+<tr>
+<td colspan="2"><b>Government</b></td>
+<td><a href="/wiki/Republic" title="Republic">Republic</a></td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b>Historical era</b></td>
+<td><a href="/wiki/Middle_Ages" title="Middle Ages">Middle Ages</a></td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em; padding:0 0 0 0.6em;">&#160;•&#160;</td>
+<td style="padding-left:0em;text-align:left;">Founded</td>
+<td style="vertical-align: bottom;">before 791</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em; padding:0 0 0 0.6em;">&#160;•&#160;</td>
+<td style="padding-left:0em;text-align:left;">Gained <i><a href="/wiki/Reichsfrei" class="mw-redirect" title="Reichsfrei">Reichsfreiheit</a></i></td>
+<td style="vertical-align: bottom;">1254</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em; padding:0 0 0 0.6em;">&#160;•&#160;</td>
+<td style="padding-left:0em;text-align:left;">Joined <a href="/wiki/Swabian_League" title="Swabian League">Swabian League</a></td>
+<td style="vertical-align: bottom;">1386</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em; padding:0 0 0 0.6em;">&#160;•&#160;</td>
+<td style="padding-left:0em;text-align:left;">Joined <a href="/wiki/Franconian_Circle" title="Franconian Circle">Franconian Circle</a></td>
+<td style="vertical-align: bottom;">1500</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em; padding:0 0 0 0.6em;">&#160;•&#160;</td>
+<td style="padding-left:0em;text-align:left;"><a href="/wiki/German_Mediatisation" class="mw-redirect" title="German Mediatisation">Mediatised</a> to <a href="/wiki/Electorate_of_Bavaria" title="Electorate of Bavaria">Bavaria</a></td>
+<td style="vertical-align: bottom;">1803</td>
+</tr>
+<tr>
+<td colspan="3">
+<table style="width:95%; background: transparent; text-align:center; margin:0 auto;">
+<tr>
+<td style="text-align:center; border:0; padding-bottom:0">
+<div id="before-after"></div>
+<b>Preceded by</b></td>
+<td style="text-align:center;border:0; padding-bottom:0;"><b>Succeeded by</b></td>
+</tr>
+<tr>
+<td style="vertical-align:top; text-align:center; border:0;">
+<table style="width:100%; background: transparent; text-align:center; margin:0 auto; border:0;">
+<tr>
+<td style="border:0; padding:0; vertical-align:middle;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/d/d2/Blank.png" width="22" height="15" data-file-width="3" data-file-height="2" /></td>
+<td style="border:0; padding:0; vertical-align:middle; text-align:left;"><a href="/wiki/March_of_the_Nordgau" title="March of the Nordgau">March of the Nordgau</a></td>
+</tr>
+</table>
+</td>
+<td style="vertical-align:top; text-align:center;border:0;">
+<table style="width:92%; background:transparent; text-align:center; margin:0 auto; border:0;">
+<tr>
+<td style="border:0; padding:0; vertical-align:middle; text-align:right;"><a href="/wiki/Electorate_of_Bavaria" title="Electorate of Bavaria">Electorate of Bavaria</a></td>
+<td style="border:0; padding:0; vertical-align:middle;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Bavaria_%28lozengy%29.svg/20px-Flag_of_Bavaria_%28lozengy%29.svg.png" width="20" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Bavaria_%28lozengy%29.svg/30px-Flag_of_Bavaria_%28lozengy%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Bavaria_%28lozengy%29.svg/40px-Flag_of_Bavaria_%28lozengy%29.svg.png 2x" data-file-width="1000" data-file-height="600" /></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p>Around 1250 Schweinfurt was totally destroyed during a feud between the <a href="/w/index.php?title=Count_of_Henneberg&amp;action=edit&amp;redlink=1" class="new" title="Count of Henneberg (page does not exist)">Count of Henneberg</a> and the <a href="/wiki/Prince-Bishop" class="mw-redirect" title="Prince-Bishop">Prince-Bishop</a> of <a href="/wiki/Prince-Bishopric_of_W%C3%BCrzburg" class="mw-redirect" title="Prince-Bishopric of Würzburg">Würzburg</a>. In the following years it was reconstructed. A document from 1282 signed by <a href="/wiki/Rudolf_I_of_Habsburg" class="mw-redirect" title="Rudolf I of Habsburg">Rudolf I of Habsburg</a> states that Schweinfurt was a <a href="/wiki/Free_imperial_city" title="Free imperial city">free city</a> within the <a href="/wiki/Holy_Roman_Empire" title="Holy Roman Empire">Holy Roman Empire</a>. At least since then the coat of arms of Schweinfurt has been an imperial <a href="/wiki/Eagle_(heraldry)" title="Eagle (heraldry)">white eagle</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (April 2011)">citation needed</span></a></i>]</sup></p>
+<p>In 1309 the city was given to the Count of <a href="/wiki/County_of_Henneberg" class="mw-redirect" title="County of Henneberg">Henneberg</a>, but in the 1360s the city regained its independence and joined the <a href="/wiki/Swabian_League" title="Swabian League">Swabian–Franconian Confederation</a>. In 1397 <a href="/wiki/Wenzel_IV_of_Bohemia" class="mw-redirect" title="Wenzel IV of Bohemia">King Wenzel</a> entitled the town to utilize the River Main, and in 1436–1437 Schweinfurt acquired the village of Oberndorf, as well as the Teutonic Order Fort on the Peterstirn (the site of a former castle, derived from the monastery name <i>stella Petri</i><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>) and a small piece of land – including the villages of Zell and Weipoltshausen. Some years later there was the first uprising of Schweinfurt's citizens against the town council, followed by a second in 1513–1514. This time the issuing of a constitution was allowed.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (April 2011)">citation needed</span></a></i>]</sup></p>
+<p>The city joined <a href="/wiki/Martin_Luther" title="Martin Luther">Martin Luther</a>'s <a href="/wiki/Protestant_Reformation" class="mw-redirect" title="Protestant Reformation">Reformation</a> in 1542. Schweinfurt was again destroyed in the course of the <a href="/wiki/Second_Margrave_War" title="Second Margrave War">Second Margrave War</a>, in 1554. The years up to 1615 were spent by the citizens for its reconstruction.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (April 2011)">citation needed</span></a></i>]</sup></p>
+<p>Schweinfurt joined the Protestant Union in 1609. In the <a href="/wiki/Thirty_Years%27_War" title="Thirty Years' War">Thirty Years' War</a> it was occupied by <a href="/wiki/Gustavus_Adolphus" class="mw-redirect" title="Gustavus Adolphus">Gustavus Adolphus</a>, who erected fortifications, the remains of which are still extant.<sup id="cite_ref-FOOTNOTEChisholm1911_2-2" class="reference"><a href="#cite_note-FOOTNOTEChisholm1911-2">[2]</a></sup> In 1652 the four doctors Johann Laurentius Bausch, Johann Michael Fehr, Georg Balthasar Wolfahrt and Balthasar Metzger founded the <i>Academia Curiosorum</i> in Schweinfurt, which is known today as the German Academy of Life Scientists, "<a href="/wiki/German_Academy_of_Sciences_Leopoldina" class="mw-redirect" title="German Academy of Sciences Leopoldina">Leopoldina</a>".</p>
+<p>At some point Schweinfurt became a predominantly Roman Catholic city owing to migration from the surrounding Catholic territories, only again to receive a large section of Lutheran refugees/<a href="/wiki/Expellees" class="mw-redirect" title="Expellees">expellees</a> after 1945 from Germany east of the <a href="/wiki/Oder-Neisse_line" class="mw-redirect" title="Oder-Neisse line">Oder-Neisse line</a>. The latest addition to the Lutheran churches in Schweinfurt arrived during the last years of the Soviet Union.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (April 2011)">citation needed</span></a></i>]</sup></p>
+<p>In 1777, Johann Martin Schmidt began to produce <a href="/wiki/White_lead" title="White lead">white lead</a> (ceruse). Schweinfurt suffered from heavy casualties during the <a href="/wiki/Napoleonic_Wars" title="Napoleonic Wars">Napoleonic Wars</a> of 1796–1801.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<p>Schweinfurt remained a free imperial city until 1802, when it passed to the <a href="/wiki/Electorate_of_Bavaria" title="Electorate of Bavaria">Electorate of Bavaria</a>. Assigned to the <a href="/wiki/Grand_Duchy_of_W%C3%BCrzburg" title="Grand Duchy of Würzburg">grand duke of Würzburg</a> in 1810, it was granted to the <a href="/wiki/Kingdom_of_Bavaria" title="Kingdom of Bavaria">Kingdom of Bavaria</a> four years later.<sup id="cite_ref-FOOTNOTEChisholm1911_2-3" class="reference"><a href="#cite_note-FOOTNOTEChisholm1911-2">[2]</a></sup> The first railway junction was opened in 1852. In the following years Schweinfurt became a world leading centre for the production of <a href="/wiki/Ball_bearing" title="Ball bearing">ball bearings</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (April 2011)">citation needed</span></a></i>]</sup> This was to lead to grievous consequences for the city during <a href="/wiki/World_War_II" title="World War II">World War II</a>.</p>
+<h3><span class="mw-headline" id="World_War_II">World War II</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Schweinfurt&amp;action=edit&amp;section=2" title="Edit section: World War II">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:212px;"><a href="/wiki/File:WWII_Schweinfurt_Raid.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/4/42/WWII_Schweinfurt_Raid.jpg" width="210" height="400" class="thumbimage" data-file-width="210" data-file-height="400" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:WWII_Schweinfurt_Raid.jpg" class="internal" title="Enlarge"></a></div>
+A <a href="/wiki/United_States_Army_Air_Forces" title="United States Army Air Forces">USAAF</a> raid on ball-bearing works in Schweinfurt in 1943</div>
+</div>
+</div>
+<p>In 1939 Schweinfurt produced most of <a href="/wiki/Nazi_Germany" title="Nazi Germany">Nazi Germany</a>'s <a href="/wiki/Ball_bearings" class="mw-redirect" title="Ball bearings">ball bearings</a>, and factories such as the <b>Schweinfurter Kugellagerwerke</b> became a target of <a href="/wiki/Allies_of_World_War_II" title="Allies of World War II">Allied</a> <a href="/wiki/Strategic_bombing_during_World_War_II" title="Strategic bombing during World War II">strategic bombing during World War II</a> to cripple <a href="/wiki/Tank" title="Tank">tank</a> and aircraft production. Schweinfurt was bombed 22 times during <a href="/wiki/Operation_Pointblank" class="mw-redirect" title="Operation Pointblank">Operation Pointblank</a> by a total of 2285 aircraft.</p>
+<p>The <a href="/wiki/Schweinfurt-Regensburg_mission" class="mw-redirect" title="Schweinfurt-Regensburg mission">Schweinfurt-Regensburg mission</a> caused an immediate 34% loss of production<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> and all plants but the largest were devastated by fire. Efforts to disperse the surviving machinery began immediately and the Luftwaffe deployed large numbers of interceptors along the corridor to Schweinfurt.<sup id="cite_ref-Walden_6-0" class="reference"><a href="#cite_note-Walden-6">[6]</a></sup> Bombing also included the <a href="/wiki/Second_Raid_on_Schweinfurt" title="Second Raid on Schweinfurt">Second Raid on Schweinfurt</a> on 14 October 1943 ("called Black Thursday because of the enormous loss of aircraft (60) and lives (600+)")<sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="The text near this tag may need clarification or removal of jargon. (May 2008)">clarification needed</span></a></i>]</sup> and <a href="/wiki/Big_Week" title="Big Week">Big Week</a> in February 1944.</p>
+<p>Although losses of production bearings and machinery were high and much of the industrial and residential areas of the city were destroyed, killing more than a thousand civilians, the factories were restored to production and the industry dispersed. Although German planners initially thought it essential to purchase the entire output of the Swedish ball-bearing industry, losses in the production of bearings were actually made up from surpluses found within Germany in the aftermath of the first raid. The decentralized industry was able to restore output to 85% of its pre-bombing level.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2008)">citation needed</span></a></i>]</sup> <a href="/wiki/Adolf_Hitler" title="Adolf Hitler">Hitler</a> made restoration of ball bearing production a high priority and massive efforts were undertaken to repair and rebuild the factories,<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources"><span title="Statement needs to be more specific about the content to which it refers. (May 2008)">specify</span></a></i>]</sup> partly in bomb-proof underground facilities.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2008)">citation needed</span></a></i>]</sup></p>
+<p>The <a href="/wiki/42nd_Infantry_Division_(United_States)" title="42nd Infantry Division (United States)">42nd Infantry Division (United States)</a> entered Schweinfurt on 11 April 1945 and conducted <a href="/wiki/Urban_warfare" title="Urban warfare">house-to-house</a> fighting.<sup id="cite_ref-Walden_6-1" class="reference"><a href="#cite_note-Walden-6">[6]</a></sup><sup class="reference" style="white-space:nowrap;">:2</sup> On 12 April an internment camp at Goethe-Schule<sup id="cite_ref-Walden_6-2" class="reference"><a href="#cite_note-Walden-6">[6]</a></sup><sup class="reference" style="white-space:nowrap;">:2</sup> held male civilians aged 16–60.<sup id="cite_ref-Turner_7-0" class="reference"><a href="#cite_note-Turner-7">[7]</a></sup></p>
+<h3><span class="mw-headline" id="Recent_years">Recent years</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Schweinfurt&amp;action=edit&amp;section=3" title="Edit section: Recent years">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:SKF_building_Schweinfurt_2012.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/SKF_building_Schweinfurt_2012.jpg/220px-SKF_building_Schweinfurt_2012.jpg" width="220" height="330" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/SKF_building_Schweinfurt_2012.jpg/330px-SKF_building_Schweinfurt_2012.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/78/SKF_building_Schweinfurt_2012.jpg/440px-SKF_building_Schweinfurt_2012.jpg 2x" data-file-width="1366" data-file-height="2048" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:SKF_building_Schweinfurt_2012.jpg" class="internal" title="Enlarge"></a></div>
+The <a href="/wiki/SKF" title="SKF">SKF</a> building, a widely visible symbol for the ball bearing production in Schweinfurt</div>
+</div>
+</div>
+<p>After the war Schweinfurt became a stronghold of the US military and their dependants. Thus Schweinfurt recovered relatively quickly from its third period of destruction. Schweinfurt formerly hosted the <a href="/wiki/U.S._Army_Garrison_Schweinfurt" title="U.S. Army Garrison Schweinfurt">U.S. Army Garrison Schweinfurt</a>, which the U.S. Army closed on 19 September 2014 due to an ongoing effort to concentrate the U.S. military's footprint in Germany to fewer communities.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p>
+<p>Also in post-war years, the new suburbs of Bergl, Hochfeld and Steinberg were developed to settle a growing population. In 1954 the city laid the foundation stone for the new town hall and commemorated the 700th and 500th anniversaries of the two earlier periods of destruction as well as the ongoing reconstruction following World War II. In 1998 German and American veterans and survivors of the bombing raids came together to erect a <a href="/wiki/War_memorial" title="War memorial">war memorial</a> to the fallen.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:262px;"><a href="/wiki/File:Schweinfurt_-_Maineinfluss_West_-_2017.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Schweinfurt_-_Maineinfluss_West_-_2017.jpg/260px-Schweinfurt_-_Maineinfluss_West_-_2017.jpg" width="260" height="146" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Schweinfurt_-_Maineinfluss_West_-_2017.jpg/390px-Schweinfurt_-_Maineinfluss_West_-_2017.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Schweinfurt_-_Maineinfluss_West_-_2017.jpg/520px-Schweinfurt_-_Maineinfluss_West_-_2017.jpg 2x" data-file-width="4065" data-file-height="2287" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Schweinfurt_-_Maineinfluss_West_-_2017.jpg" class="internal" title="Enlarge"></a></div>
+View onto the city when entering via river Main from the west.</div>
+</div>
+</div>
+<h2><span class="mw-headline" id="Main_sights">Main sights</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Schweinfurt&amp;action=edit&amp;section=4" title="Edit section: Main sights">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Schweinfurt-city-walls.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Schweinfurt-city-walls.jpg/220px-Schweinfurt-city-walls.jpg" width="220" height="161" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Schweinfurt-city-walls.jpg/330px-Schweinfurt-city-walls.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Schweinfurt-city-walls.jpg/440px-Schweinfurt-city-walls.jpg 2x" data-file-width="800" data-file-height="584" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Schweinfurt-city-walls.jpg" class="internal" title="Enlarge"></a></div>
+City walls near St. Salvador Church</div>
+</div>
+</div>
+<table class="plainlinks metadata ambox mbox-small-left ambox-content" role="presentation">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Wiki_letter_w_cropped.svg" class="image"><img alt="[icon]" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/20px-Wiki_letter_w_cropped.svg.png" width="20" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/30px-Wiki_letter_w_cropped.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/40px-Wiki_letter_w_cropped.svg.png 2x" data-file-width="44" data-file-height="31" /></a></td>
+<td class="mbox-text">
+<div class="mbox-text-span"><b>This section needs expansion</b>. <small>You can help by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Schweinfurt&amp;action=edit&amp;section=">adding to it</a>.</small> <small><i>(June 2008)</i></small></div>
+</td>
+</tr>
+</table>
+<p>Schweinfurt's main landmarks include:</p>
+<ul>
+<li>The <a href="/wiki/Renaissance_architecture" title="Renaissance architecture">Renaissance</a> <a href="/w/index.php?title=Town_Hall,_Schweinfurt&amp;action=edit&amp;redlink=1" class="new" title="Town Hall, Schweinfurt (page does not exist)">Town Hall</a> (1570–1572)</li>
+<li>The church of <a href="/w/index.php?title=St._Johannes,_Schweinfurt&amp;action=edit&amp;redlink=1" class="new" title="St. Johannes, Schweinfurt (page does not exist)">St. Johannes</a> (1554–1562)</li>
+<li>The Old Grammar School, seat of the local museum</li>
+</ul>
+<p>The <a href="/wiki/Museum_Georg_Sch%C3%A4fer" title="Museum Georg Schäfer">Museum Georg Schäfer</a> specializes in 19th-century paintings by artists from German-speaking countries.</p>
+<p>The Schweinfurter Rathaus (town hall) square has a large <a href="/wiki/Friedrich_R%C3%BCckert" title="Friedrich Rückert">Friedrich Rückert</a> monument in the centre, around which weekly markets and many city festivals are held. A large number of people, including immigrants from many other countries, add to the crowded inner-city traffic-free <i>Markthalle</i> shopping area.</p>
+<p><a href="/wiki/Motherwell" title="Motherwell">Motherwell</a> Park connects the surrounding medieval buildings to the inner-city market square. To avoid car-filled streets, walking through the park with part of the original city walls offers paths and shortcuts, bringing one on foot from one end of town to another, reminiscent of medieval town life.</p>
+<h2><span class="mw-headline" id="Economy">Economy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Schweinfurt&amp;action=edit&amp;section=5" title="Edit section: Economy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Schweinfurt is known for its metal industry, especially ball bearing plants and bicycle manufacturing; <i>see also <a href="/wiki/FAG_Kugelfischer_AG" class="mw-redirect" title="FAG Kugelfischer AG">FAG Kugelfischer AG</a>, <a href="/wiki/ZF_Sachs_AG" class="mw-redirect" title="ZF Sachs AG">ZF Sachs AG</a>, <a href="/wiki/Bosch_Rexroth" title="Bosch Rexroth">Bosch Rexroth</a> and <a href="/wiki/SKF" title="SKF">SKF</a></i>. The pigment <a href="/wiki/Paris_Green" class="mw-redirect" title="Paris Green">Schweinfurt Green</a> is manufactured here. <a href="/wiki/SRAM_Corporation" title="SRAM Corporation">SRAM Corporation</a> hosts the world's largest development center of the bicycle industry in Schweinfurt.</p>
+<p>With GDP per capita of €78,382, Schweinfurt ranks third richest city in Germany after <a href="/wiki/Wolfsburg" title="Wolfsburg">Wolfsburg</a> and <a href="/wiki/Frankfurt_am_Main" class="mw-redirect" title="Frankfurt am Main">Frankfurt am Main</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></p>
+<p>According to a recent study by the Swiss Institute of Economic Research forecasters Schweinfurt is one of the fastest growing cities in Germany. The study confirmed the city, among other things, the highest concentration of jobs in Germany with particularly high Beschäftigungsanteil (employment share) in the German high-tech sector. The Contor-2010 study, which was commissioned by the Manager magazine, ranked Schweinfurt as one of the most dynamic cities in Europe in terms of development opportunities. From rank 63 in 2007, the city significantly improved to rank 16 in 2010.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></p>
+<h2><span class="mw-headline" id="Communal_facilities">Communal facilities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Schweinfurt&amp;action=edit&amp;section=6" title="Edit section: Communal facilities">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Alexander-von-Humboldt-Gymnasium,_Schweinfurt" title="Alexander-von-Humboldt-Gymnasium, Schweinfurt">Alexander-von-Humboldt-Gymnasium</a></li>
+<li>Swimming pool</li>
+<li>Indoor swimming pool</li>
+<li>Library</li>
+<li>School of music</li>
+<li><a href="/wiki/University_of_Applied_Sciences_W%C3%BCrzburg-Schweinfurt" title="University of Applied Sciences Würzburg-Schweinfurt">University of Applied Sciences Würzburg-Schweinfurt</a></li>
+</ul>
+<h2><span class="mw-headline" id="Historical_population">Historical population</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Schweinfurt&amp;action=edit&amp;section=7" title="Edit section: Historical population">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tr>
+<th>Year</th>
+<th>Population</th>
+</tr>
+<tr>
+<td align="center">1939</td>
+<td align="center">49,302</td>
+</tr>
+<tr>
+<td align="center">1950</td>
+<td align="center">46,128</td>
+</tr>
+<tr>
+<td align="center">1961</td>
+<td align="center">56,923</td>
+</tr>
+<tr>
+<td align="center">1970</td>
+<td align="center">58,446</td>
+</tr>
+<tr>
+<td align="center">1987</td>
+<td align="center">51,962</td>
+</tr>
+<tr>
+<td align="center">2002</td>
+<td align="center">54,670</td>
+</tr>
+<tr>
+<td align="center">2004</td>
+<td align="center">54,467</td>
+</tr>
+<tr>
+<td align="center">2006</td>
+<td align="center">53,970</td>
+</tr>
+<tr>
+<td align="center">2010</td>
+<td align="center">53,433<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></td>
+</tr>
+<tr>
+<td align="center">2015</td>
+<td align="center">51,969<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></td>
+</tr>
+</table>
+<p><br /></p>
+<h2><span class="mw-headline" id="Notable_people">Notable people</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Schweinfurt&amp;action=edit&amp;section=8" title="Edit section: Notable people">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Wolfgang_Carl_Briegel" title="Wolfgang Carl Briegel">Wolfgang Carl Briegel</a> (1626-1712), organist, teacher, and composer</li>
+</ul>
+<h2><span class="mw-headline" id="Sons_and_daughters_of_the_town">Sons and daughters of the town</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Schweinfurt&amp;action=edit&amp;section=9" title="Edit section: Sons and daughters of the town">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:152px;"><a href="/wiki/File:Friedrich_Rueckert_(Carl_Barth).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Friedrich_Rueckert_%28Carl_Barth%29.jpg/150px-Friedrich_Rueckert_%28Carl_Barth%29.jpg" width="150" height="205" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Friedrich_Rueckert_%28Carl_Barth%29.jpg/225px-Friedrich_Rueckert_%28Carl_Barth%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Friedrich_Rueckert_%28Carl_Barth%29.jpg/300px-Friedrich_Rueckert_%28Carl_Barth%29.jpg 2x" data-file-width="1176" data-file-height="1610" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Friedrich_Rueckert_(Carl_Barth).jpg" class="internal" title="Enlarge"></a></div>
+Friedrich Rückert</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:152px;"><a href="/wiki/File:Mechwart_Andr%C3%A1s.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Mechwart_Andr%C3%A1s.jpg/150px-Mechwart_Andr%C3%A1s.jpg" width="150" height="220" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Mechwart_Andr%C3%A1s.jpg/225px-Mechwart_Andr%C3%A1s.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/b/bd/Mechwart_Andr%C3%A1s.jpg 2x" data-file-width="265" data-file-height="388" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Mechwart_Andr%C3%A1s.jpg" class="internal" title="Enlarge"></a></div>
+Andreas Mechwart</div>
+</div>
+</div>
+<ul>
+<li><a href="/wiki/Friedrich_R%C3%BCckert" title="Friedrich Rückert">Friedrich Rückert</a> (1788–1866), poet and translator</li>
+<li><a href="/wiki/Adam_Darr" title="Adam Darr">Adam Darr</a> (1811–1866), guitar and zither composer</li>
+<li><a href="/wiki/Albin_Kitzinger" title="Albin Kitzinger">Albin Kitzinger</a> (1912-1970), football national player</li>
+<li><a href="/wiki/Robert_Bernard_(footballer)" title="Robert Bernard (footballer)">Robert Bernard</a> (1913-1990), football national player</li>
+<li><a href="/wiki/Andreas_Kupfer" title="Andreas Kupfer">Andreas Kupfer</a> (1914-2001), football national player</li>
+<li><a href="/wiki/Paul_Maar" title="Paul Maar">Paul Maar</a> (born 1937), children's books author</li>
+<li><a href="/wiki/G%C3%BCnter_Bernard" title="Günter Bernard">Günter Bernard</a> (born 1939), football national player</li>
+<li><a href="/wiki/G%C3%BCnter_Traub" title="Günter Traub">Günter Traub</a> (born 1939), roller and ice speed runner, Olympic athlete</li>
+<li><a href="/wiki/Ivo_Welch" title="Ivo Welch">Ivo Welch</a> (born 1963), economist and university lecturer</li>
+<li><a href="/wiki/Remig_Stumpf" title="Remig Stumpf">Remig Stumpf</a> (born 1966), cyclist</li>
+<li><a href="/wiki/Tommy_Jaud" title="Tommy Jaud">Tommy Jaud</a> (born 1970), screenwriter, novelist and writer</li>
+<li><a href="/wiki/Stephan_Schr%C3%B6ck" title="Stephan Schröck">Stephan Schröck</a> (born 1986), football player</li>
+<li><a href="/wiki/Thomas_Meissner" class="mw-redirect" title="Thomas Meissner">Thomas Meissner</a> (born 1991), footballer</li>
+<li><a href="/wiki/Andr%C3%A1s_Mechwart" title="András Mechwart">Andreas Mechwart</a> (1834-1907), Hungarian-German mechanical engineer, chief executive of the <a href="/wiki/Ganz_Works" title="Ganz Works">Ganz Works</a>, and a pioneer in the Hungarian mechanical and electrical engineering <sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></li>
+</ul>
+<h2><span class="mw-headline" id="Twin_towns">Twin towns</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Schweinfurt&amp;action=edit&amp;section=10" title="Edit section: Twin towns">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><span class="flagicon"><a href="/wiki/Scotland" title="Scotland"><img alt="Scotland" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/23px-Flag_of_Scotland.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/35px-Flag_of_Scotland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/46px-Flag_of_Scotland.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Motherwell" title="Motherwell">Motherwell</a>, <a href="/wiki/North_Lanarkshire" title="North Lanarkshire">North Lanarkshire</a>, <a href="/wiki/Scotland" title="Scotland">Scotland</a><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup><sup id="cite_ref-Twin_Towns_15-0" class="reference"><a href="#cite_note-Twin_Towns-15">[15]</a></sup></li>
+<li><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Ch%C3%A2teaudun" title="Châteaudun">Châteaudun</a>, France<sup id="cite_ref-Twin_Towns_15-1" class="reference"><a href="#cite_note-Twin_Towns-15">[15]</a></sup></li>
+<li><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <a href="/wiki/Sein%C3%A4joki" title="Seinäjoki">Seinäjoki</a>, <a href="/wiki/Finland" title="Finland">Finland</a><sup id="cite_ref-Twin_Towns_15-2" class="reference"><a href="#cite_note-Twin_Towns-15">[15]</a></sup></li>
+</ul>
+<div style="clear:both;"></div>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Schweinfurt&amp;action=edit&amp;section=11" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.statistikdaten.bayern.de/genesis/online?sequenz=tabelleErgebnis&amp;selectionname=12411-001">"Fortschreibung des Bevölkerungsstandes"</a>. <i><a href="/wiki/Bayerisches_Landesamt_f%C3%BCr_Statistik_und_Datenverarbeitung" class="mw-redirect" title="Bayerisches Landesamt für Statistik und Datenverarbeitung">Bayerisches Landesamt für Statistik und Datenverarbeitung</a></i> (in German). June 2016.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASchweinfurt&amp;rft.atitle=Fortschreibung+des+Bev%C3%B6lkerungsstandes&amp;rft.date=2016-06&amp;rft.genre=unknown&amp;rft.jtitle=Bayerisches+Landesamt+f%C3%BCr+Statistik+und+Datenverarbeitung&amp;rft_id=https%3A%2F%2Fwww.statistikdaten.bayern.de%2Fgenesis%2Fonline%3Fsequenz%3DtabelleErgebnis%26selectionname%3D12411-001&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-FOOTNOTEChisholm1911-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-FOOTNOTEChisholm1911_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTEChisholm1911_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-FOOTNOTEChisholm1911_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-FOOTNOTEChisholm1911_2-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFChisholm1911">Chisholm 1911</a>.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.schweinfurt360.de/fileadmin/pflege_verzeichnis/PDFs/Information/Stadtplan_englisch_final2011.pdf">Brochure: Welcome to Schweinfurt</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite id="CITEREFDugdale-Pointon2000" class="citation">Dugdale-Pointon (16 November 2000), <a rel="nofollow" class="external text" href="http://www.historyofwar.org/articles/wars_napoleonic.html"><i>Napoleonic Wars (1799-1815)</i></a><span class="reference-accessdate">, retrieved <span class="nowrap">2016-03-27</span></span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASchweinfurt&amp;rft.au=Dugdale-Pointon&amp;rft.btitle=Napoleonic+Wars+%281799-1815%29&amp;rft.date=2000-11-16&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.historyofwar.org%2Farticles%2Fwars_napoleonic.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation book">Coffey, Thomas M. (1977). <i>Decision Over Schweinfurt</i>. David McKay Company, Inc. p.&#160;72. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-679-50763-5" title="Special:BookSources/978-0-679-50763-5">978-0-679-50763-5</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASchweinfurt&amp;rft.aufirst=Thomas+M.&amp;rft.aulast=Coffey&amp;rft.btitle=Decision+Over+Schweinfurt&amp;rft.date=1977&amp;rft.genre=book&amp;rft.isbn=978-0-679-50763-5&amp;rft.pages=72&amp;rft.pub=David+McKay+Company%2C+Inc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Walden-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-Walden_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Walden_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Walden_6-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Walden, Geoff. <a rel="nofollow" class="external text" href="http://www.thirdreichruins.com/schweinfurt.htm">"Third Reich in Ruins"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2009-05-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASchweinfurt&amp;rft.aufirst=Geoff&amp;rft.aulast=Walden&amp;rft.btitle=Third+Reich+in+Ruins&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.thirdreichruins.com%2Fschweinfurt.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Turner-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-Turner_7-0">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/FRGS" class="mw-redirect" title="FRGS">Turner, S.J., (F. R. G. S) – maps</a> (June 1944). <i>Pictorial History of the Second World War</i>. Wm. H. Wise &amp; Co., Inc. p.&#160;1880. <q><i>Germans await American orders April 14, 1945 THEY DON'T LIKE IT. After the fall of Schweinfurt, the ball bearing centre of Germany, male civilians between sixteen and sixty were rounded up to be screened by American authorities.</i> (caption)</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASchweinfurt&amp;rft.aufirst=S.J.%2C+%28F.+R.+G.+S%29+%E2%80%93+maps&amp;rft.aulast=Turner&amp;rft.btitle=Pictorial+History+of+the+Second+World+War&amp;rft.date=1944-06&amp;rft.genre=book&amp;rft.pages=1880&amp;rft.pub=Wm.+H.+Wise+%26+Co.%2C+Inc.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.stripes.com/news/us-army-says-farewell-to-schweinfurt-1.304017">http://www.stripes.com/news/us-army-says-farewell-to-schweinfurt-1.304017</a></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.schweinfurt.de/wirtschaft-wissenschaft/wirtschaftsstandort/3244.Schweinfurt_-_Wirtschaftsmetropole_mit_hohen_Zukunftschancen.html">[1]</a></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.schweinfurt.de/m_4710">[2]</a></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.statistikdaten.bayern.de/genesis/online/logon">2010-09-30</a></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="https://www.statistikdaten.bayern.de/genesis/online?sequenz=tabelleErgebnis&amp;selectionname=12411-001">[3]</a></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="https://familysearch.org/ark:/61903/1:1:J4KL-K18">[4]</a></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.scotland.gov.uk/Publications/2007/09/14113948/5">Scottish Government — Chapter Three: Existing Engagement between Scotland and Germany</a></span></li>
+<li id="cite_note-Twin_Towns-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-Twin_Towns_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Twin_Towns_15-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Twin_Towns_15-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.schweinfurt.de/verwaltung-politik/partnerstaedte/index.html">[5]</a></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Schweinfurt&amp;action=edit&amp;section=12" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><img alt="Wikisource-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png" width="12" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/18px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/24px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" />&#160;<cite class="citation encyclopaedia">Chisholm, Hugh, ed. (1911). "<a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Schweinfurt" class="extiw" title="wikisource:1911 Encyclopædia Britannica/Schweinfurt">Schweinfurt</a>". <i><a href="/wiki/Encyclop%C3%A6dia_Britannica_Eleventh_Edition" title="Encyclopædia Britannica Eleventh Edition">Encyclopædia Britannica</a></i> (11th ed.). Cambridge University Press.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASchweinfurt&amp;rft.atitle=Schweinfurt&amp;rft.btitle=Encyclop%C3%A6dia+Britannica&amp;rft.date=1911&amp;rft.edition=11th&amp;rft.genre=bookitem&amp;rft.pub=Cambridge+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Schweinfurt&amp;action=edit&amp;section=13" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.schweinfurt.de/">Official website</a></span></span></li>
+<li><a rel="nofollow" class="external text" href="http://www.museumgeorgschaefer.de/">Museum Georg Schäfer</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.sw-on.de/">Schweinfurt-Online www.SW-ON.de Information about the City Schweinfurt and the district of Schweinfurt</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.schweinfurt.army.mil/">U.S. Army Garrison Schweinfurt</a></li>
+<li><a rel="nofollow" class="external text" href="http://revista.de/">Revista Verlag: News and Pictures from in and around Schweinfurt (in German)</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Links_to_related_articles" style="padding:3px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background:#e8e8ff;">
+<div id="Links_to_related_articles" style="font-size:114%;margin:0 4em">Links to related articles</div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px;font-size:114%;">
+<div style="padding:0px;">
+<div role="navigation" class="navbox" aria-labelledby="Free_imperial_cities_of_the_23x15px.7Cborder_.7Calt.3DHoly_Roman_Empire.7Clink.3DHoly_Roman_Empire_Holy_Roman_Empire" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Free_imperial_cities" title="Template:Free imperial cities"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Free_imperial_cities" title="Template talk:Free imperial cities"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Free_imperial_cities&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Free_imperial_cities_of_the_23x15px.7Cborder_.7Calt.3DHoly_Roman_Empire.7Clink.3DHoly_Roman_Empire_Holy_Roman_Empire" style="font-size:114%;margin:0 4em"><a href="/wiki/Free_imperial_city" title="Free imperial city">Free imperial cities</a> of the <span class="flagicon"><a href="/wiki/Holy_Roman_Empire" title="Holy Roman Empire"><img alt="Holy Roman Empire" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Banner_of_the_Holy_Roman_Emperor_%28after_1400%29.svg/23px-Banner_of_the_Holy_Roman_Emperor_%28after_1400%29.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Banner_of_the_Holy_Roman_Emperor_%28after_1400%29.svg/35px-Banner_of_the_Holy_Roman_Emperor_%28after_1400%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Banner_of_the_Holy_Roman_Emperor_%28after_1400%29.svg/45px-Banner_of_the_Holy_Roman_Emperor_%28after_1400%29.svg.png 2x" data-file-width="600" data-file-height="400" /></a></span> <a href="/wiki/Holy_Roman_Empire" title="Holy Roman Empire">Holy Roman Empire</a></div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";">
+<div id="By_1792" style="font-size:114%;margin:0 4em">By 1792</div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Free_Imperial_City_of_Aachen" title="Free Imperial City of Aachen">Aachen</a></li>
+<li><a href="/wiki/Aalen" title="Aalen">Aalen</a></li>
+<li><a href="/wiki/Augsburg" title="Augsburg">Augsburg</a></li>
+<li><a href="/wiki/Biberach_an_der_Riss" title="Biberach an der Riss">Biberach</a></li>
+<li><a href="/wiki/Bopfingen" title="Bopfingen">Bopfingen</a></li>
+<li><a href="/wiki/Bremen_(state)" title="Bremen (state)">Bremen</a><sup><small>H</small></sup></li>
+<li><a href="/wiki/Bad_Buchau" title="Bad Buchau">Buchau</a></li>
+<li><a href="/wiki/Friedrichshafen" title="Friedrichshafen">Buchhorn</a></li>
+<li><a href="/wiki/Cologne" title="Cologne">Cologne</a><sup><small>H</small></sup></li>
+<li><a href="/wiki/Dinkelsb%C3%BChl" title="Dinkelsbühl">Dinkelsbühl</a></li>
+<li><a href="/wiki/Dortmund" title="Dortmund">Dortmund</a><sup><small>H</small></sup></li>
+<li><a href="/wiki/Esslingen_am_Neckar" title="Esslingen am Neckar">Eßlingen</a></li>
+<li><a href="/wiki/Free_City_of_Frankfurt" title="Free City of Frankfurt">Frankfurt</a></li>
+<li><a href="/wiki/Friedberg,_Hesse" title="Friedberg, Hesse">Friedberg</a></li>
+<li><a href="/wiki/Gengenbach" title="Gengenbach">Gengenbach</a></li>
+<li><a href="/wiki/Giengen" title="Giengen">Giengen</a></li>
+<li><a href="/wiki/Goslar" title="Goslar">Goslar</a><sup><small>H</small></sup></li>
+<li><a href="/wiki/Hamburg" title="Hamburg">Hamburg</a><sup><small>H</small></sup></li>
+<li><a href="/wiki/Heilbronn" title="Heilbronn">Heilbronn</a></li>
+<li><a href="/wiki/Isny_im_Allg%C3%A4u" title="Isny im Allgäu">Isny</a></li>
+<li><a href="/wiki/Kaufbeuren" title="Kaufbeuren">Kaufbeuren</a></li>
+<li><a href="/wiki/Free_Imperial_City_of_Kempten" title="Free Imperial City of Kempten">Kempten</a></li>
+<li><a href="/wiki/Kessenich" title="Kessenich">Kessenich</a></li>
+<li><a href="/wiki/Leutkirch_im_Allg%C3%A4u" title="Leutkirch im Allgäu">Leutkirch</a></li>
+<li><a href="/wiki/Lindau" title="Lindau">Lindau</a></li>
+<li><a href="/wiki/Free_City_of_L%C3%BCbeck" title="Free City of Lübeck">Lübeck</a><sup><small>H</small></sup></li>
+<li><a href="/wiki/Memmingen" title="Memmingen">Memmingen</a></li>
+<li><a href="/wiki/M%C3%BChlhausen" title="Mühlhausen">Mühlhausen</a></li>
+<li><a href="/wiki/Mulhouse" title="Mulhouse">Mülhausen</a><sup><small>D, S</small></sup></li>
+<li><a href="/wiki/Nordhausen" title="Nordhausen">Nordhausen</a></li>
+<li><a href="/wiki/N%C3%B6rdlingen" title="Nördlingen">Nördlingen</a></li>
+<li><a href="/wiki/Free_Imperial_City_of_Nuremberg" title="Free Imperial City of Nuremberg">Nuremberg</a></li>
+<li><a href="/wiki/Offenburg" title="Offenburg">Offenburg</a></li>
+<li><a href="/wiki/Pfullendorf" title="Pfullendorf">Pfullendorf</a></li>
+<li><a href="/wiki/Ravensburg" title="Ravensburg">Ravensburg</a></li>
+<li><a href="/wiki/Regensburg" title="Regensburg">Regensburg</a></li>
+<li><a href="/wiki/Reutlingen" title="Reutlingen">Reutlingen</a></li>
+<li><a href="/wiki/Rothenburg_ob_der_Tauber" title="Rothenburg ob der Tauber">Rothenburg</a></li>
+<li><a href="/wiki/Rottweil" title="Rottweil">Rottweil</a><sup><small>S</small></sup></li>
+<li><a href="/wiki/Schw%C3%A4bisch_Gm%C3%BCnd" title="Schwäbisch Gmünd">Schwäbisch Gmünd</a></li>
+<li><a href="/wiki/Schw%C3%A4bisch_Hall" title="Schwäbisch Hall">Schwäbisch Hall</a></li>
+<li><a class="mw-selflink selflink">Schweinfurt</a></li>
+<li><a href="/wiki/Speyer" title="Speyer">Speyer</a></li>
+<li><a href="/wiki/%C3%9Cberlingen" title="Überlingen">Überlingen</a></li>
+<li><a href="/wiki/Free_Imperial_City_of_Ulm" title="Free Imperial City of Ulm">Ulm</a></li>
+<li><a href="/wiki/Wangen_im_Allg%C3%A4u" title="Wangen im Allgäu">Wangen</a></li>
+<li><a href="/wiki/Weil_der_Stadt" title="Weil der Stadt">Weil</a></li>
+<li><a href="/wiki/Wei%C3%9Fenburg_in_Bayern" title="Weißenburg in Bayern">Weißenburg in Bayern</a></li>
+<li><a href="/wiki/Wetzlar" title="Wetzlar">Wetzlar</a></li>
+<li><a href="/wiki/Bad_Wimpfen" title="Bad Wimpfen">Wimpfen</a></li>
+<li><a href="/wiki/Bad_Windsheim" title="Bad Windsheim">Windsheim</a></li>
+<li><a href="/wiki/Worms,_Germany" title="Worms, Germany">Worms</a></li>
+<li><a href="/wiki/Zell_am_Harmersbach" title="Zell am Harmersbach">Zell</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+<td class="navbox-image" rowspan="2" style="width:1px;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Holy_Roman_Empire_1648_Imperial_cities.png" class="image"><img alt="Holy Roman Empire 1648 Imperial cities.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Holy_Roman_Empire_1648_Imperial_cities.png/190px-Holy_Roman_Empire_1648_Imperial_cities.png" width="190" height="166" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Holy_Roman_Empire_1648_Imperial_cities.png/285px-Holy_Roman_Empire_1648_Imperial_cities.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Holy_Roman_Empire_1648_Imperial_cities.png/380px-Holy_Roman_Empire_1648_Imperial_cities.png 2x" data-file-width="681" data-file-height="595" /></a><br />
+<small>Free Imperial Cities as of 1648</small></div>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";">
+<div id="Lost_imperial_immediacy_or_no_longer_part_of_the_Holy_Roman_Empire_by_1792" style="font-size:114%;margin:0 4em">Lost <a href="/wiki/Imperial_immediacy" title="Imperial immediacy">imperial immediacy</a> or no longer part of the Holy Roman Empire by 1792</div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Basel" title="Basel">Basel</a><sup><small>S</small></sup></li>
+<li><a href="/wiki/History_of_Bern" title="History of Bern">Bern</a><sup><small>S</small></sup></li>
+<li><a href="/wiki/Free_Imperial_City_of_Besan%C3%A7on" title="Free Imperial City of Besançon">Besançon</a></li>
+<li><a href="/wiki/Brakel,_Germany" title="Brakel, Germany">Brakel</a></li>
+<li><a href="/wiki/Cambrai" title="Cambrai">Cambrai</a></li>
+<li><a href="/wiki/Diessenhofen" title="Diessenhofen">Diessenhofen</a></li>
+<li><a href="/wiki/Donauw%C3%B6rth" title="Donauwörth">Donauwörth</a></li>
+<li><a href="/wiki/Duisburg" title="Duisburg">Duisburg</a></li>
+<li><a href="/wiki/D%C3%BCren" title="Düren">Düren</a></li>
+<li><a href="/wiki/Gelnhausen" title="Gelnhausen">Gelnhausen</a></li>
+<li><a href="/wiki/Haguenau" title="Haguenau">Hagenau</a><sup><small>D</small></sup></li>
+<li><a href="/wiki/Herford" title="Herford">Herford</a></li>
+<li><a href="/wiki/Kaysersberg" title="Kaysersberg">Kaysersberg</a><sup><small>D</small></sup></li>
+<li><a href="/wiki/Colmar" title="Colmar">Kolmar</a><sup><small>D</small></sup></li>
+<li><a href="/wiki/Konstanz" title="Konstanz">Konstanz</a></li>
+<li><a href="/wiki/Landau" title="Landau">Landau</a><sup><small>D</small></sup></li>
+<li><a href="/wiki/Lemgo" title="Lemgo">Lemgo</a></li>
+<li><a href="/wiki/Lucerne" title="Lucerne">Lucerne</a><sup><small>S</small></sup></li>
+<li><a href="/wiki/Mainz" title="Mainz">Mainz</a></li>
+<li><a href="/wiki/Metz" title="Metz">Metz</a></li>
+<li><a href="/wiki/Munster,_Haut-Rhin" title="Munster, Haut-Rhin">Munster</a><sup><small>D</small></sup></li>
+<li><a href="/wiki/Obernai" title="Obernai">Obernai</a><sup><small>D</small></sup></li>
+<li><a href="/wiki/Worms-Pfeddersheim" class="mw-redirect" title="Worms-Pfeddersheim">Pfeddersheim</a></li>
+<li><a href="/wiki/Rheinfelden" title="Rheinfelden">Rheinfelden</a></li>
+<li><a href="/wiki/Rosheim" title="Rosheim">Rosheim</a><sup><small>D</small></sup></li>
+<li><a href="/wiki/St._Gallen" title="St. Gallen">St. Gallen</a><sup><small>S</small></sup></li>
+<li><a href="/wiki/Sarrebourg" title="Sarrebourg">Sarrebourg</a></li>
+<li><a href="/wiki/Schaffhausen" title="Schaffhausen">Schaffhausen</a><sup><small>S</small></sup></li>
+<li><a href="/wiki/Schmalkalden" title="Schmalkalden">Schmalkalden</a></li>
+<li><a href="/wiki/S%C3%A9lestat" title="Sélestat">Schlettstadt</a><sup><small>D</small></sup></li>
+<li><a href="/wiki/Soest,_Germany" title="Soest, Germany">Soest</a><sup><small>H</small></sup></li>
+<li><a href="/wiki/Solothurn" title="Solothurn">Solothurn</a><sup><small>S</small></sup></li>
+<li><a href="/wiki/Strasbourg" title="Strasbourg">Straßburg</a></li>
+<li><a href="/wiki/Toul" title="Toul">Toul</a></li>
+<li><a href="/wiki/Turckheim" title="Turckheim">Turckheim</a><sup><small>D</small></sup></li>
+<li><a href="/wiki/Verden_an_der_Aller" title="Verden an der Aller">Verden</a></li>
+<li><a href="/wiki/Verdun" title="Verdun">Verdun</a></li>
+<li><a href="/wiki/Warburg" title="Warburg">Warburg</a></li>
+<li><a href="/wiki/Wissembourg" title="Wissembourg">Weißenburg in Elsaß</a><sup><small>D</small></sup></li>
+<li><a href="/wiki/History_of_Z%C3%BCrich" title="History of Zürich">Zürich</a><sup><small>S</small></sup></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div>
+<ul>
+<li><sup><small>D</small></sup> Member of the <a href="/wiki/D%C3%A9capole" title="Décapole">Décapole</a></li>
+<li><sup><small>H</small></sup> Member of the <a href="/wiki/Hanseatic_League" title="Hanseatic League">Hanseatic League</a></li>
+<li><sup><small>S</small></sup> Member or associate of the <a href="/wiki/Growth_of_the_Old_Swiss_Confederacy" title="Growth of the Old Swiss Confederacy">Swiss Confederacy</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="20px.7Cborder.7CFlag_of_the_Franconian_Circle_Franconian_Circle_.281500.E2.80.931806.29_of_the_23x15px.7Cborder_.7Calt.3D.7Clink.3D.C2.A0Holy_Roman_Empire" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Franconian_Circle" title="Template:Franconian Circle"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Franconian_Circle" title="Template talk:Franconian Circle"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Franconian_Circle&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="20px.7Cborder.7CFlag_of_the_Franconian_Circle_Franconian_Circle_.281500.E2.80.931806.29_of_the_23x15px.7Cborder_.7Calt.3D.7Clink.3D.C2.A0Holy_Roman_Empire" style="font-size:114%;margin:0 4em"><a href="/wiki/File:Flag_of_Franconia.svg" class="image" title="Flag of the Franconian Circle"><img alt="Flag of the Franconian Circle" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Franconia.svg/20px-Flag_of_Franconia.svg.png" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Franconia.svg/30px-Flag_of_Franconia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Franconia.svg/40px-Flag_of_Franconia.svg.png 2x" data-file-width="600" data-file-height="400" /></a> <a href="/wiki/Franconian_Circle" title="Franconian Circle">Franconian Circle</a> (1500–1806) of the <span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Banner_of_the_Holy_Roman_Emperor_%28after_1400%29.svg/23px-Banner_of_the_Holy_Roman_Emperor_%28after_1400%29.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Banner_of_the_Holy_Roman_Emperor_%28after_1400%29.svg/35px-Banner_of_the_Holy_Roman_Emperor_%28after_1400%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Banner_of_the_Holy_Roman_Emperor_%28after_1400%29.svg/45px-Banner_of_the_Holy_Roman_Emperor_%28after_1400%29.svg.png 2x" data-file-width="600" data-file-height="400" />&#160;</span><a href="/wiki/Holy_Roman_Empire" title="Holy Roman Empire">Holy Roman Empire</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;padding: 0.35em 1.0em; line-height: 1.1em;"><a href="/wiki/Prince-Bishop" class="mw-redirect" title="Prince-Bishop">Ecclesiastical</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;padding: 0.25em 0; line-height: 1.4em;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Prince-Bishopric_of_Bamberg" title="Prince-Bishopric of Bamberg">Bamberg</a></li>
+<li><a href="/wiki/Bishopric_of_Eichst%C3%A4tt" title="Bishopric of Eichstätt">Eichstätt</a></li>
+<li><a href="/wiki/Bailiwick_of_Franconia" class="mw-redirect" title="Bailiwick of Franconia">Franconia</a></li>
+<li><a href="/wiki/Bishopric_of_W%C3%BCrzburg" title="Bishopric of Würzburg">Würzburg</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="4" style="width:1px;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Locator_Franconian_Circle.svg" class="image" title="Map indicating the Franconian Circle of the Holy Roman Empire"><img alt="Map indicating the Franconian Circle of the Holy Roman Empire" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Locator_Franconian_Circle.svg/125px-Locator_Franconian_Circle.svg.png" width="125" height="122" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Locator_Franconian_Circle.svg/188px-Locator_Franconian_Circle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Locator_Franconian_Circle.svg/250px-Locator_Franconian_Circle.svg.png 2x" data-file-width="1165" data-file-height="1140" /></a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;padding: 0.35em 1.0em; line-height: 1.1em;"><a href="/wiki/F%C3%BCrst" title="Fürst">Secular</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;padding: 0.25em 0; line-height: 1.4em;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Principality_of_Ansbach" title="Principality of Ansbach">Brandenburg-Ansbach</a></li>
+<li><a href="/wiki/Principality_of_Bayreuth" title="Principality of Bayreuth">Brandenburg-Kulmbach</a></li>
+<li><a href="/wiki/House_of_Henneberg" title="House of Henneberg">Henneberg</a></li>
+<li><a href="/wiki/Hohenlohe" title="Hohenlohe">Hohenlohe-Waldenburg</a> <small>(from 1744/64)</small></li>
+<li><a href="/wiki/L%C3%B6wenstein-Wertheim" title="Löwenstein-Wertheim">Löwenstein-Wertheim</a> <small>(from 1711)</small></li>
+<li><a href="/wiki/House_of_Schwarzenberg" title="House of Schwarzenberg">Schwarzenberg-Gimborn</a> <small>(from 1671)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;padding: 0.35em 1.0em; line-height: 1.1em;"><a href="/wiki/Graf" title="Graf">Counts</a> / <a href="/wiki/Lord" title="Lord">Lords</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;padding: 0.25em 0; line-height: 1.4em;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/County_of_Castell" title="County of Castell">Castell</a></li>
+<li><a href="/wiki/Erbach_im_Odenwald" title="Erbach im Odenwald">Erbach</a></li>
+<li><a href="/wiki/Hausen,_Upper_Franconia" title="Hausen, Upper Franconia">Hausen</a></li>
+<li><a href="/wiki/Hohenlohe" title="Hohenlohe">Hohenlohe</a> <small>(until 1744/64)</small></li>
+<li><a href="/wiki/Gaildorf" title="Gaildorf">Limpurg</a></li>
+<li><a href="/wiki/Aub" title="Aub">Reichelsberg</a></li>
+<li><a href="/wiki/County_of_Rieneck" title="County of Rieneck">Rieneck</a></li>
+<li><a href="/wiki/House_of_Schwarzenberg" title="House of Schwarzenberg">Schwarzenberg</a> <small>(until 1671)</small></li>
+<li><a href="/wiki/Seinsheim" title="Seinsheim">Seinsheim</a></li>
+<li><a href="/wiki/Welzheim" title="Welzheim">Welzheim</a></li>
+<li><a href="/wiki/Wertheim_am_Main" title="Wertheim am Main">Wertheim</a> <small>(until 1711)</small></li>
+<li><a href="/wiki/Wiesentheid" title="Wiesentheid">Wiesentheid</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;padding: 0.35em 1.0em; line-height: 1.1em;"><a href="/wiki/Free_imperial_city" title="Free imperial city">Cities</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;padding: 0.25em 0; line-height: 1.4em;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Free_Imperial_City_of_Nuremberg" title="Free Imperial City of Nuremberg">Nuremberg</a></li>
+<li><a href="/wiki/Rothenburg_ob_der_Tauber" title="Rothenburg ob der Tauber">Rothenburg</a></li>
+<li><a class="mw-selflink selflink">Schweinfurt</a></li>
+<li><a href="/wiki/Wei%C3%9Fenburg_in_Bayern" title="Weißenburg in Bayern">Weißenburg</a></li>
+<li><a href="/wiki/Bad_Windsheim" title="Bad Windsheim">Windsheim</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div>Circles est. 1500: <a href="/wiki/Bavarian_Circle" title="Bavarian Circle">Bavarian</a>, <a href="/wiki/Swabian_Circle" class="mw-redirect" title="Swabian Circle">Swabian</a>, <a href="/wiki/Upper_Rhenish_Circle" title="Upper Rhenish Circle">Upper Rhenish</a>, <a href="/wiki/Lower_Rhenish%E2%80%93Westphalian_Circle" title="Lower Rhenish–Westphalian Circle">Lower Rhenish–Westphalian</a>, <b>Franconian</b>, <a href="/wiki/Lower_Saxon_Circle" title="Lower Saxon Circle">(Lower) Saxon</a><br />
+Circles est. 1512: <a href="/wiki/Austrian_Circle" title="Austrian Circle">Austrian</a>, <a href="/wiki/Burgundian_Circle" title="Burgundian Circle">Burgundian</a>, <a href="/wiki/Upper_Saxon_Circle" title="Upper Saxon Circle">Upper Saxon</a>, <a href="/wiki/Electoral_Rhenish_Circle" title="Electoral Rhenish Circle">Electoral Rhenish</a> <span class="nowrap">&#160;&#160;&#160;</span> · <span class="nowrap">&#160;&#160;&#160;</span> <a href="/wiki/Territories_of_the_Holy_Roman_Empire_outside_the_Imperial_Circles" title="Territories of the Holy Roman Empire outside the Imperial Circles">Unencircled territories</a></div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="border.7C30px.7CFlag_of_Bavaria_Urban_and_rural_districts_in_the_Free_State_of_Bavaria_in_Germany_border.7C30px.7CFlag_of_Germany" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Germany_districts_Bavaria" title="Template:Germany districts Bavaria"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Germany_districts_Bavaria" title="Template talk:Germany districts Bavaria"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Germany_districts_Bavaria&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="border.7C30px.7CFlag_of_Bavaria_Urban_and_rural_districts_in_the_Free_State_of_Bavaria_in_Germany_border.7C30px.7CFlag_of_Germany" style="font-size:114%;margin:0 4em"><a href="/wiki/File:Flag_of_Bavaria_(lozengy).svg" class="image" title="Flag of Bavaria"><img alt="Flag of Bavaria" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Bavaria_%28lozengy%29.svg/30px-Flag_of_Bavaria_%28lozengy%29.svg.png" width="30" height="18" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Bavaria_%28lozengy%29.svg/45px-Flag_of_Bavaria_%28lozengy%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Bavaria_%28lozengy%29.svg/60px-Flag_of_Bavaria_%28lozengy%29.svg.png 2x" data-file-width="1000" data-file-height="600" /></a> Urban and rural districts in the <a href="/wiki/Bavaria" title="Bavaria">Free State of Bavaria</a> in Germany <a href="/wiki/File:Flag_of_Germany.svg" class="image" title="Flag of Germany"><img alt="Flag of Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/30px-Flag_of_Germany.svg.png" width="30" height="18" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/45px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/60px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Urban<br />
+districts</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Amberg" title="Amberg">Amberg</a></li>
+<li><a href="/wiki/Ansbach" title="Ansbach">Ansbach</a></li>
+<li><a href="/wiki/Aschaffenburg" title="Aschaffenburg">Aschaffenburg</a></li>
+<li><a href="/wiki/Augsburg" title="Augsburg">Augsburg</a></li>
+<li><a href="/wiki/Bamberg" title="Bamberg">Bamberg</a></li>
+<li><a href="/wiki/Bayreuth" title="Bayreuth">Bayreuth</a></li>
+<li><a href="/wiki/Coburg" title="Coburg">Coburg</a></li>
+<li><a href="/wiki/Erlangen" title="Erlangen">Erlangen</a></li>
+<li><a href="/wiki/F%C3%BCrth" title="Fürth">Fürth</a></li>
+<li><a href="/wiki/Hof,_Bavaria" title="Hof, Bavaria">Hof</a></li>
+<li><a href="/wiki/Ingolstadt" title="Ingolstadt">Ingolstadt</a></li>
+<li><a href="/wiki/Kaufbeuren" title="Kaufbeuren">Kaufbeuren</a></li>
+<li><a href="/wiki/Kempten" title="Kempten">Kempten</a></li>
+<li><a href="/wiki/Landshut" title="Landshut">Landshut</a></li>
+<li><a href="/wiki/Memmingen" title="Memmingen">Memmingen</a></li>
+<li><a href="/wiki/Munich" title="Munich">München (<i>Munich</i>)</a></li>
+<li><a href="/wiki/Nuremberg" title="Nuremberg">Nürnberg (<i>Nuremberg</i>)</a></li>
+<li><a href="/wiki/Passau" title="Passau">Passau</a></li>
+<li><a href="/wiki/Regensburg" title="Regensburg">Regensburg</a></li>
+<li><a href="/wiki/Rosenheim" title="Rosenheim">Rosenheim</a></li>
+<li><a href="/wiki/Schwabach" title="Schwabach">Schwabach</a></li>
+<li><a class="mw-selflink selflink">Schweinfurt</a></li>
+<li><a href="/wiki/Straubing" title="Straubing">Straubing</a></li>
+<li><a href="/wiki/Weiden_in_der_Oberpfalz" title="Weiden in der Oberpfalz">Weiden</a></li>
+<li><a href="/wiki/W%C3%BCrzburg" title="Würzburg">Würzburg</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Rural<br />
+districts</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aichach-Friedberg" title="Aichach-Friedberg">Aichach-Friedberg</a></li>
+<li><a href="/wiki/Alt%C3%B6tting_(district)" title="Altötting (district)">Altötting</a></li>
+<li><a href="/wiki/Amberg-Sulzbach" title="Amberg-Sulzbach">Amberg-Sulzbach</a></li>
+<li><a href="/wiki/Ansbach_(district)" title="Ansbach (district)">Ansbach</a></li>
+<li><a href="/wiki/Aschaffenburg_(district)" title="Aschaffenburg (district)">Aschaffenburg</a></li>
+<li><a href="/wiki/Augsburg_(district)" title="Augsburg (district)">Augsburg</a></li>
+<li><a href="/wiki/Bad_Kissingen_(district)" title="Bad Kissingen (district)">Bad Kissingen</a></li>
+<li><a href="/wiki/Bad_T%C3%B6lz-Wolfratshausen" title="Bad Tölz-Wolfratshausen">Bad Tölz-Wolfratshausen</a></li>
+<li><a href="/wiki/Bamberg_(district)" title="Bamberg (district)">Bamberg</a></li>
+<li><a href="/wiki/Bayreuth_(district)" title="Bayreuth (district)">Bayreuth</a></li>
+<li><a href="/wiki/Berchtesgadener_Land" title="Berchtesgadener Land">Berchtesgadener Land</a></li>
+<li><a href="/wiki/Cham_(district)" title="Cham (district)">Cham</a></li>
+<li><a href="/wiki/Coburg_(district)" title="Coburg (district)">Coburg</a></li>
+<li><a href="/wiki/Dachau_(district)" title="Dachau (district)">Dachau</a></li>
+<li><a href="/wiki/Deggendorf_(district)" title="Deggendorf (district)">Deggendorf</a></li>
+<li><a href="/wiki/Dillingen_(district)" title="Dillingen (district)">Dillingen</a></li>
+<li><a href="/wiki/Dingolfing-Landau" title="Dingolfing-Landau">Dingolfing-Landau</a></li>
+<li><a href="/wiki/Donau-Ries" title="Donau-Ries">Donau-Ries</a></li>
+<li><a href="/wiki/Ebersberg_(district)" title="Ebersberg (district)">Ebersberg</a></li>
+<li><a href="/wiki/Eichst%C3%A4tt_(district)" title="Eichstätt (district)">Eichstätt</a></li>
+<li><a href="/wiki/Erding_(district)" title="Erding (district)">Erding</a></li>
+<li><a href="/wiki/Erlangen-H%C3%B6chstadt" title="Erlangen-Höchstadt">Erlangen-Höchstadt</a></li>
+<li><a href="/wiki/Forchheim_(district)" title="Forchheim (district)">Forchheim</a></li>
+<li><a href="/wiki/Freising_(district)" title="Freising (district)">Freising</a></li>
+<li><a href="/wiki/Freyung-Grafenau" title="Freyung-Grafenau">Freyung-Grafenau</a></li>
+<li><a href="/wiki/F%C3%BCrstenfeldbruck_(district)" title="Fürstenfeldbruck (district)">Fürstenfeldbruck</a></li>
+<li><a href="/wiki/F%C3%BCrth_(district)" title="Fürth (district)">Fürth</a></li>
+<li><a href="/wiki/Garmisch-Partenkirchen_(district)" title="Garmisch-Partenkirchen (district)">Garmisch-Partenkirchen</a></li>
+<li><a href="/wiki/G%C3%BCnzburg_(district)" title="Günzburg (district)">Günzburg</a></li>
+<li><a href="/wiki/Ha%C3%9Fberge_(district)" title="Haßberge (district)">Haßberge</a></li>
+<li><a href="/wiki/Hof_(district)" title="Hof (district)">Hof</a></li>
+<li><a href="/wiki/Kelheim_(district)" title="Kelheim (district)">Kelheim</a></li>
+<li><a href="/wiki/Kitzingen_(district)" title="Kitzingen (district)">Kitzingen</a></li>
+<li><a href="/wiki/Kronach_(district)" title="Kronach (district)">Kronach</a></li>
+<li><a href="/wiki/Kulmbach_(district)" title="Kulmbach (district)">Kulmbach</a></li>
+<li><a href="/wiki/Landsberg_(district)" title="Landsberg (district)">Landsberg</a></li>
+<li><a href="/wiki/Landshut_(district)" title="Landshut (district)">Landshut</a></li>
+<li><a href="/wiki/Lichtenfels_(district)" title="Lichtenfels (district)">Lichtenfels</a></li>
+<li><a href="/wiki/Lindau_(district)" title="Lindau (district)">Lindau</a></li>
+<li><a href="/wiki/Main-Spessart" title="Main-Spessart">Main-Spessart</a></li>
+<li><a href="/wiki/Miesbach_(district)" title="Miesbach (district)">Miesbach</a></li>
+<li><a href="/wiki/Miltenberg_(district)" title="Miltenberg (district)">Miltenberg</a></li>
+<li><a href="/wiki/M%C3%BChldorf_(district)" title="Mühldorf (district)">Mühldorf</a></li>
+<li><a href="/wiki/Munich_(district)" title="Munich (district)">München (<i>Munich</i>)</a></li>
+<li><a href="/wiki/Neuburg-Schrobenhausen" title="Neuburg-Schrobenhausen">Neuburg-Schrobenhausen</a></li>
+<li><a href="/wiki/Neumarkt_(district)" title="Neumarkt (district)">Neumarkt</a></li>
+<li><a href="/wiki/Neustadt_(Aisch)-Bad_Windsheim" title="Neustadt (Aisch)-Bad Windsheim">Neustadt (Aisch)-Bad Windsheim</a></li>
+<li><a href="/wiki/Neustadt_an_der_Waldnaab_(district)" title="Neustadt an der Waldnaab (district)">Neustadt an der Waldnaab</a></li>
+<li><a href="/wiki/Neu-Ulm_(district)" title="Neu-Ulm (district)">Neu-Ulm</a></li>
+<li><a href="/wiki/N%C3%BCrnberger_Land" title="Nürnberger Land">Nürnberger Land</a></li>
+<li><a href="/wiki/Oberallg%C3%A4u" title="Oberallgäu">Oberallgäu</a></li>
+<li><a href="/wiki/Ostallg%C3%A4u" title="Ostallgäu">Ostallgäu</a></li>
+<li><a href="/wiki/Passau_(district)" title="Passau (district)">Passau</a></li>
+<li><a href="/wiki/Pfaffenhofen_(district)" title="Pfaffenhofen (district)">Pfaffenhofen</a></li>
+<li><a href="/wiki/Regen_(district)" title="Regen (district)">Regen</a></li>
+<li><a href="/wiki/Regensburg_(district)" title="Regensburg (district)">Regensburg</a></li>
+<li><a href="/wiki/Rh%C3%B6n-Grabfeld" title="Rhön-Grabfeld">Rhön-Grabfeld</a></li>
+<li><a href="/wiki/Rosenheim_(district)" title="Rosenheim (district)">Rosenheim</a></li>
+<li><a href="/wiki/Roth_(district)" title="Roth (district)">Roth</a></li>
+<li><a href="/wiki/Rottal-Inn" title="Rottal-Inn">Rottal-Inn</a></li>
+<li><a href="/wiki/Schwandorf_(district)" title="Schwandorf (district)">Schwandorf</a></li>
+<li><a href="/wiki/Schweinfurt_(district)" title="Schweinfurt (district)">Schweinfurt</a></li>
+<li><a href="/wiki/Starnberg_(district)" title="Starnberg (district)">Starnberg</a></li>
+<li><a href="/wiki/Straubing-Bogen" title="Straubing-Bogen">Straubing-Bogen</a></li>
+<li><a href="/wiki/Tirschenreuth_(district)" title="Tirschenreuth (district)">Tirschenreuth</a></li>
+<li><a href="/wiki/Traunstein_(district)" title="Traunstein (district)">Traunstein</a></li>
+<li><a href="/wiki/Unterallg%C3%A4u" title="Unterallgäu">Unterallgäu</a></li>
+<li><a href="/wiki/Weilheim-Schongau" title="Weilheim-Schongau">Weilheim-Schongau</a></li>
+<li><a href="/wiki/Wei%C3%9Fenburg-Gunzenhausen" title="Weißenburg-Gunzenhausen">Weißenburg-Gunzenhausen</a></li>
+<li><a href="/wiki/Wunsiedel_(district)" title="Wunsiedel (district)">Wunsiedel</a></li>
+<li><a href="/wiki/W%C3%BCrzburg_(district)" title="Würzburg (district)">Würzburg</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="World_War_II_city_bombing" style=";wide;padding:3px">
+<table class="nowraplinks hlist collapsible uncollapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background-color:#B0C4DE;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:WWII_city_bombing" title="Template:WWII city bombing"><abbr title="View this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:WWII_city_bombing" title="Template talk:WWII city bombing"><abbr title="Discuss this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:WWII_city_bombing&amp;action=edit"><abbr title="Edit this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="World_War_II_city_bombing" style="font-size:114%;margin:0 4em"><a href="/wiki/Strategic_bombing_during_World_War_II" title="Strategic bombing during World War II">World War II city bombing</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background-color:#DCDCDC;">
+<div>
+<ul>
+<li><a href="/wiki/Area_bombardment" title="Area bombardment">Area bombardment</a></li>
+<li><a href="/wiki/Aerial_bombing_of_cities#Aerial_bombing_during_World_War_II" title="Aerial bombing of cities">Aerial bombing of cities</a></li>
+<li><a href="/wiki/Firestorm" title="Firestorm">Firestorm</a></li>
+<li><a href="/wiki/Strategic_bombing" title="Strategic bombing">Strategic bombing</a></li>
+<li><a href="/wiki/V-weapons" title="V-weapons">V-weapons</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Italian_bombing_of_Mandatory_Palestine_in_World_War_II" title="Italian bombing of Mandatory Palestine in World War II">Acre</a></li>
+<li><a href="/wiki/Bombing_of_Akita_in_World_War_II" title="Bombing of Akita in World War II">Akita</a></li>
+<li><a href="/wiki/Bombing_of_Aomori_in_World_War_II" title="Bombing of Aomori in World War II">Aomori</a></li>
+<li><a href="/wiki/Bombing_of_Augsburg_in_World_War_II" title="Bombing of Augsburg in World War II">Augsburg</a></li>
+<li><a href="/wiki/Baedeker_Blitz" title="Baedeker Blitz">Baedeker</a></li>
+<li><a href="/wiki/Bombing_of_Bahrain_in_World_War_II" title="Bombing of Bahrain in World War II">Bahrain</a></li>
+<li><a href="/wiki/Barrow_Blitz" title="Barrow Blitz">Barrow-in-Furness</a></li>
+<li><a href="/wiki/Bath_Blitz" title="Bath Blitz">Bath</a></li>
+<li><a href="/wiki/Bombing_of_Bangkok_in_World_War_II" title="Bombing of Bangkok in World War II">Bangkok</a></li>
+<li><a href="/wiki/Belfast_Blitz" title="Belfast Blitz">Belfast</a></li>
+<li><a href="/wiki/Operation_Retribution_(1941)" title="Operation Retribution (1941)">Belgrade</a></li>
+<li><a href="/wiki/Bombing_of_Berlin_in_World_War_II" title="Bombing of Berlin in World War II">Berlin</a></li>
+<li><a href="/wiki/Birmingham_Blitz" title="Birmingham Blitz">Birmingham</a></li>
+<li><a href="/wiki/Bombing_of_Braunschweig_in_World_War_II" class="mw-redirect" title="Bombing of Braunschweig in World War II">Braunschweig</a></li>
+<li><a href="/wiki/Bombing_of_Bremen_in_World_War_II" title="Bombing of Bremen in World War II">Bremen</a></li>
+<li><a href="/wiki/Siege_of_Breslau" title="Siege of Breslau">Breslau</a></li>
+<li><a href="/wiki/Brighton_Blitz" title="Brighton Blitz">Brighton</a></li>
+<li><a href="/wiki/Bristol_Blitz" title="Bristol Blitz">Bristol</a></li>
+<li><a href="/wiki/Bombing_of_Bucharest_in_World_War_II" title="Bombing of Bucharest in World War II">Bucharest</a></li>
+<li><a href="/wiki/Operation_Charnwood#Preliminary_attacks" title="Operation Charnwood">Caen</a></li>
+<li><a href="/wiki/Cardiff_Blitz" title="Cardiff Blitz">Cardiff</a></li>
+<li><a href="/wiki/Bombing_of_Chongqing" title="Bombing of Chongqing">Chongqing</a></li>
+<li><a href="/wiki/Clydebank_Blitz" title="Clydebank Blitz">Clydebank</a></li>
+<li><a href="/wiki/Bombing_of_Cologne_in_World_War_II" title="Bombing of Cologne in World War II">Cologne</a></li>
+<li><a href="/wiki/Coventry_Blitz" title="Coventry Blitz">Coventry</a></li>
+<li><a href="/wiki/Bombing_of_Darmstadt_in_World_War_II" title="Bombing of Darmstadt in World War II">Darmstadt</a></li>
+<li><a href="/wiki/Bombing_of_Darwin" title="Bombing of Darwin">Darwin</a></li>
+<li><a href="/wiki/Bombing_of_Dietzenbach_in_World_War_II" title="Bombing of Dietzenbach in World War II">Dietzenbach</a></li>
+<li><a href="/wiki/Bombing_of_Dresden_in_World_War_II" title="Bombing of Dresden in World War II">Dresden</a></li>
+<li><a href="/wiki/Bombing_of_Dublin_in_World_War_II" title="Bombing of Dublin in World War II">Dublin</a></li>
+<li><a href="/wiki/Bombing_of_Duisburg_in_World_War_II" title="Bombing of Duisburg in World War II">Duisburg</a></li>
+<li><a href="/wiki/Bombing_of_Essen_in_World_War_II" title="Bombing of Essen in World War II">Essen</a></li>
+<li><a href="/wiki/Bombing_of_Foggia" title="Bombing of Foggia">Foggia</a></li>
+<li><a href="/wiki/Bombing_of_Frampol" title="Bombing of Frampol">Frampol</a></li>
+<li><a href="/wiki/Bombing_of_Frankfurt_am_Main_in_World_War_II" title="Bombing of Frankfurt am Main in World War II">Frankfurt</a></li>
+<li><a href="/wiki/Frascati_air_raid" title="Frascati air raid">Frascati</a></li>
+<li><a href="/wiki/Operation_Tigerfish" title="Operation Tigerfish">Freiburg</a></li>
+<li><a href="/wiki/Military_history_of_Gibraltar_during_World_War_II#Italian_bombing_of_Gibraltar" title="Military history of Gibraltar during World War II">Gibraltar</a></li>
+<li><a href="/wiki/Bombing_of_Gorky_in_World_War_II" title="Bombing of Gorky in World War II">Gorky</a></li>
+<li><a href="/wiki/Greenock_Blitz" title="Greenock Blitz">Greenock</a></li>
+<li><a href="/wiki/Italian_bombing_of_Mandatory_Palestine_in_World_War_II" title="Italian bombing of Mandatory Palestine in World War II">Haifa</a></li>
+<li><a href="/wiki/Bombing_of_Hamamatsu_in_World_War_II" title="Bombing of Hamamatsu in World War II">Hamamatsu</a></li>
+<li><a href="/wiki/Bombing_of_Hamburg_in_World_War_II" title="Bombing of Hamburg in World War II">Hamburg</a></li>
+<li><a href="/wiki/Bombing_of_Hanau_in_World_War_II" title="Bombing of Hanau in World War II">Hanau</a></li>
+<li><a href="/wiki/Bombings_of_Heilbronn_in_World_War_II" title="Bombings of Heilbronn in World War II">Heilbronn</a></li>
+<li><a href="/wiki/Bombing_of_Helsinki_in_World_War_II" title="Bombing of Helsinki in World War II">Helsinki</a></li>
+<li><a href="/wiki/Bombing_of_Hildesheim_in_World_War_II" title="Bombing of Hildesheim in World War II">Hildesheim</a></li>
+<li><a href="/wiki/Bombing_of_Hiratsuka_in_World_War_II" title="Bombing of Hiratsuka in World War II">Hiratsuka</a></li>
+<li><a href="/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki" title="Atomic bombings of Hiroshima and Nagasaki">Hiroshima</a></li>
+<li><a href="/wiki/Hull_Blitz" title="Hull Blitz">Hull</a></li>
+<li><a href="/wiki/Bombing_of_Innsbruck_in_World_War_II" title="Bombing of Innsbruck in World War II">Innsbruck</a></li>
+<li><a href="/wiki/Italian_bombing_of_Mandatory_Palestine_in_World_War_II" title="Italian bombing of Mandatory Palestine in World War II">Jaffa</a></li>
+<li><a href="/wiki/Bombing_of_Kassel_in_World_War_II" title="Bombing of Kassel in World War II">Kassel</a></li>
+<li><a href="/wiki/Bombing_of_Kobe_in_World_War_II" title="Bombing of Kobe in World War II">Kobe</a></li>
+<li><a href="/wiki/Bombing_of_K%C5%8Dfu_in_World_War_II" title="Bombing of Kōfu in World War II">Kōfu</a></li>
+<li><a href="/wiki/Bombing_of_K%C3%B6nigsberg_in_World_War_II" title="Bombing of Königsberg in World War II">Königsberg</a></li>
+<li><a href="/wiki/Bombing_of_Kure_(July_1945)" title="Bombing of Kure (July 1945)">Kure</a></li>
+<li><a href="/wiki/Leeds_Blitz" title="Leeds Blitz">Leeds</a></li>
+<li><a href="/wiki/Bombing_of_Leipzig_in_World_War_II" title="Bombing of Leipzig in World War II">Leipzig</a></li>
+<li><a href="/wiki/Siege_of_Leningrad#Bombardment" title="Siege of Leningrad">Leningrad</a></li>
+<li><a href="/wiki/Liverpool_Blitz" title="Liverpool Blitz">Liverpool</a></li>
+<li><a href="/wiki/The_Blitz" title="The Blitz">London</a></li>
+<li><a href="/wiki/Bombing_of_L%C3%BCbeck_in_World_War_II" title="Bombing of Lübeck in World War II">Lübeck</a></li>
+<li><a href="/wiki/Siege_of_Malta_(World_War_II)" title="Siege of Malta (World War II)">Malta</a></li>
+<li><a href="/wiki/Manchester_Blitz" title="Manchester Blitz">Manchester</a></li>
+<li><a href="/wiki/Bombing_of_Mandalay_(1942)" title="Bombing of Mandalay (1942)">Mandalay</a></li>
+<li><a href="/wiki/Bombing_of_Mannheim_in_World_War_II" title="Bombing of Mannheim in World War II">Mannheim</a></li>
+<li><a href="/wiki/Battle_of_Manila_(1945)" title="Battle of Manila (1945)">Manila</a></li>
+<li><a href="/wiki/Bombing_of_Milan_in_World_War_II" title="Bombing of Milan in World War II">Milan</a></li>
+<li><a href="/wiki/Bombing_of_Minsk_in_World_War_II" title="Bombing of Minsk in World War II">Minsk</a></li>
+<li><a href="/wiki/Bombing_of_Nagaoka" title="Bombing of Nagaoka">Nagaoka</a></li>
+<li><a href="/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki" title="Atomic bombings of Hiroshima and Nagasaki">Nagasaki</a></li>
+<li><a href="/wiki/Bombing_of_Nagoya_in_World_War_II" title="Bombing of Nagoya in World War II">Nagoya</a></li>
+<li><a href="/wiki/Battle_of_Okinawa" title="Battle of Okinawa">Naha</a></li>
+<li><a href="/wiki/Battle_of_Nanking" title="Battle of Nanking">Nanjing</a></li>
+<li><a href="/wiki/Bombing_of_Naples_in_World_War_II" title="Bombing of Naples in World War II">Naples</a></li>
+<li><a href="/wiki/Nex%C3%B8" title="Nexø">Nexø</a></li>
+<li><a href="/wiki/Bombing_of_Nijmegen" title="Bombing of Nijmegen">Nijmegen</a></li>
+<li><a href="/wiki/Nottingham_Blitz" title="Nottingham Blitz">Nottingham</a></li>
+<li><a href="/wiki/Bombing_of_Numazu_in_World_War_II" title="Bombing of Numazu in World War II">Numazu</a></li>
+<li><a href="/wiki/Bombing_of_Okazaki_in_World_War_II" title="Bombing of Okazaki in World War II">Okazaki</a></li>
+<li><a href="/wiki/Bombing_of_Osaka" title="Bombing of Osaka">Osaka</a></li>
+<li><a href="/wiki/Attack_on_Pearl_Harbor" title="Attack on Pearl Harbor">Pearl Harbor</a></li>
+<li><a href="/wiki/Bombing_of_Pforzheim_in_World_War_II" title="Bombing of Pforzheim in World War II">Pforzheim</a></li>
+<li><a href="/wiki/Operation_Tidal_Wave" title="Operation Tidal Wave">Ploiești</a></li>
+<li><a href="/wiki/Plymouth_Blitz" title="Plymouth Blitz">Plymouth</a></li>
+<li><a href="/wiki/Bombing_of_Podgorica_in_World_War_II" title="Bombing of Podgorica in World War II">Podgorica</a></li>
+<li><a href="/wiki/1945_Bombing_of_Prague" title="1945 Bombing of Prague">Prague</a></li>
+<li><a href="/wiki/Operation_Cartwheel" title="Operation Cartwheel">Rabaul</a></li>
+<li><a href="/wiki/Bombing_of_Rangoon_(1941%E2%80%931942)" title="Bombing of Rangoon (1941–1942)">Allied Rangoon</a></li>
+<li><a href="/wiki/Bombing_of_Rome_in_World_War_II" title="Bombing of Rome in World War II">Rome</a></li>
+<li><a href="/wiki/R%C3%B8nne" title="Rønne">Rønne</a></li>
+<li><a href="/wiki/Rotterdam_Blitz" class="mw-redirect" title="Rotterdam Blitz">Rotterdam</a></li>
+<li><a href="/wiki/Bombings_of_Switzerland_in_World_War_II#Schaffhausen" title="Bombings of Switzerland in World War II">Schaffhausen</a></li>
+<li><a href="/wiki/Bombing_of_Schw%C3%A4bisch_Hall_in_World_War_II" title="Bombing of Schwäbisch Hall in World War II">Schwäbisch Hall</a></li>
+<li><a href="/wiki/Bombing_of_Sendai_during_World_War_II" title="Bombing of Sendai during World War II">Sendai</a></li>
+<li><a href="/wiki/Battle_of_Shanghai" title="Battle of Shanghai">Shanghai</a></li>
+<li><a href="/wiki/Sheffield_Blitz" title="Sheffield Blitz">Sheffield</a></li>
+<li><a href="/wiki/Bombing_of_Shizuoka_in_World_War_II" title="Bombing of Shizuoka in World War II">Shizuoka</a></li>
+<li><a href="/wiki/Bombing_of_Singapore_(1941)" title="Bombing of Singapore (1941)">Allied Singapore</a></li>
+<li><a href="/wiki/Bombing_of_Singapore_(1944%E2%80%9345)" title="Bombing of Singapore (1944–45)">Axis Singapore</a></li>
+<li><a href="/wiki/Bombing_of_Sofia_in_World_War_II" title="Bombing of Sofia in World War II">Sofia</a></li>
+<li><a href="/wiki/Southampton_Blitz" title="Southampton Blitz">Southampton</a></li>
+<li><a href="/wiki/Bombing_of_Stalingrad_in_World_War_II" class="mw-redirect" title="Bombing of Stalingrad in World War II">Stalingrad</a></li>
+<li><a href="/wiki/Bombing_of_Stuttgart_in_World_War_II" title="Bombing of Stuttgart in World War II">Stuttgart</a></li>
+<li><a href="/wiki/Swansea_Blitz" title="Swansea Blitz">Swansea</a></li>
+<li><a href="/wiki/Raid_on_Taihoku" title="Raid on Taihoku">Taipei</a></li>
+<li><a href="/wiki/Bombing_of_Tallinn_in_World_War_II" title="Bombing of Tallinn in World War II">Tallinn</a></li>
+<li><a href="/wiki/Italian_bombing_of_Mandatory_Palestine_in_World_War_II" title="Italian bombing of Mandatory Palestine in World War II">Tel Aviv</a></li>
+<li><a href="/wiki/Bombing_of_Tokyo" title="Bombing of Tokyo">Tokyo</a></li>
+<li><a href="/wiki/Toyohashi_Air_Raid" title="Toyohashi Air Raid">Toyohashi</a></li>
+<li><a href="/wiki/Bombing_of_Toyokawa_in_World_War_II" title="Bombing of Toyokawa in World War II">Toyokawa</a></li>
+<li><a href="/wiki/Bombing_of_Treviso_in_World_War_II" title="Bombing of Treviso in World War II">Treviso</a></li>
+<li><a href="/wiki/Bombing_of_Ulm_in_World_War_II" title="Bombing of Ulm in World War II">Ulm</a></li>
+<li><a href="/wiki/Bombing_of_Utsunomiya_during_World_War_II" title="Bombing of Utsunomiya during World War II">Utsunomiya</a></li>
+<li><a href="/wiki/Bombing_of_Vienna_in_World_War_II" title="Bombing of Vienna in World War II">Vienna</a></li>
+<li><a href="/wiki/Bombing_of_Warsaw_in_World_War_II" title="Bombing of Warsaw in World War II">Warsaw</a></li>
+<li><a href="/wiki/Bombing_of_Wesel_in_World_War_II" title="Bombing of Wesel in World War II">Wesel</a></li>
+<li><a href="/wiki/Bombing_of_Wielu%C5%84" title="Bombing of Wieluń">Wieluń</a></li>
+<li><a href="/wiki/Bombing_of_Wilhelmshaven_in_World_War_II" title="Bombing of Wilhelmshaven in World War II">Wilhelmshaven</a></li>
+<li><a href="/wiki/Bombing_of_Wuppertal_in_World_War_II" title="Bombing of Wuppertal in World War II">Wuppertal</a></li>
+<li><a href="/wiki/Bombing_of_W%C3%BCrzburg_in_World_War_II" title="Bombing of Würzburg in World War II">Würzburg</a></li>
+<li><a href="/wiki/Bombing_of_Yawata" title="Bombing of Yawata">Yawata</a></li>
+<li><a href="/wiki/Bombing_of_Zadar_in_World_War_II" title="Bombing of Zadar in World War II">Zadar</a></li>
+<li><a href="/wiki/Bombing_of_Zagreb_in_World_War_II" title="Bombing of Zagreb in World War II">Zagreb</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/154780919">WorldCat Identities</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/154780919">154780919</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/4053863-1">4053863-1</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb119463181">cb119463181</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb119463181">(data)</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1269
+Cached time: 20171018221224
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.804 seconds
+Real time usage: 0.989 seconds
+Preprocessor visited node count: 15989/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 219779/2097152 bytes
+Template argument size: 73489/2097152 bytes
+Highest expansion depth: 26/40
+Expensive parser function count: 15/500
+Lua time usage: 0.265/10.000 seconds
+Lua memory usage: 7.21 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  820.438      1 -total
+ 42.84%  351.477      1 Template:Infobox_German_location
+ 40.03%  328.442      1 Template:Infobox_settlement
+ 33.36%  273.730      1 Template:Infobox
+ 15.84%  129.979      7 Template:Population_Germany
+ 14.26%  117.029      7 Template:Metadata_Population_DE-BY
+ 13.83%  113.429      9 Template:Fix
+ 13.60%  111.613      8 Template:Citation_needed
+ 11.44%   93.867      1 Template:Navboxes
+  9.36%   76.804      1 Template:Infobox_Former_Country
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:573341-0!canonical and timestamp 20171018221223 and revision id 799828301
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Schweinfurt&amp;oldid=799828301">https://en.wikipedia.org/w/index.php?title=Schweinfurt&amp;oldid=799828301</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Towns_in_Bavaria" title="Category:Towns in Bavaria">Towns in Bavaria</a></li><li><a href="/wiki/Category:Former_republics" title="Category:Former republics">Former republics</a></li><li><a href="/wiki/Category:Former_countries_in_Europe" title="Category:Former countries in Europe">Former countries in Europe</a></li><li><a href="/wiki/Category:States_of_the_Holy_Roman_Empire" title="Category:States of the Holy Roman Empire">States of the Holy Roman Empire</a></li><li><a href="/wiki/Category:City-states" title="Category:City-states">City-states</a></li><li><a href="/wiki/Category:Imperial_free_cities" title="Category:Imperial free cities">Imperial free cities</a></li><li><a href="/wiki/Category:States_and_territories_established_in_1254" title="Category:States and territories established in 1254">States and territories established in 1254</a></li><li><a href="/wiki/Category:States_and_territories_disestablished_in_1803" title="Category:States and territories disestablished in 1803">States and territories disestablished in 1803</a></li><li><a href="/wiki/Category:1803_disestablishments_in_Europe" title="Category:1803 disestablishments in Europe">1803 disestablishments in Europe</a></li><li><a href="/wiki/Category:Franconian_Circle" title="Category:Franconian Circle">Franconian Circle</a></li><li><a href="/wiki/Category:Schweinfurt" title="Category:Schweinfurt">Schweinfurt</a></li><li><a href="/wiki/Category:1254_establishments_in_the_Holy_Roman_Empire" title="Category:1254 establishments in the Holy Roman Empire">1254 establishments in the Holy Roman Empire</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_German-language_sources_(de)" title="Category:CS1 German-language sources (de)">CS1 German-language sources (de)</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_December_2014" title="Category:Use dmy dates from December 2014">Use dmy dates from December 2014</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_April_2011" title="Category:Articles with unsourced statements from April 2011">Articles with unsourced statements from April 2011</a></li><li><a href="/wiki/Category:Pages_using_infobox_former_country_with_unknown_parameters" title="Category:Pages using infobox former country with unknown parameters">Pages using infobox former country with unknown parameters</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_May_2008" title="Category:Wikipedia articles needing clarification from May 2008">Wikipedia articles needing clarification from May 2008</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_May_2008" title="Category:Articles with unsourced statements from May 2008">Articles with unsourced statements from May 2008</a></li><li><a href="/wiki/Category:Articles_needing_more_detailed_references" title="Category:Articles needing more detailed references">Articles needing more detailed references</a></li><li><a href="/wiki/Category:Articles_to_be_expanded_from_June_2008" title="Category:Articles to be expanded from June 2008">Articles to be expanded from June 2008</a></li><li><a href="/wiki/Category:All_articles_to_be_expanded" title="Category:All articles to be expanded">All articles to be expanded</a></li><li><a href="/wiki/Category:Articles_using_small_message_boxes" title="Category:Articles using small message boxes">Articles using small message boxes</a></li><li><a href="/wiki/Category:Wikipedia_articles_incorporating_a_citation_from_the_1911_Encyclopaedia_Britannica_with_Wikisource_reference" title="Category:Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference">Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Schweinfurt" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Schweinfurt" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Schweinfurt" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Schweinfurt" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Schweinfurt">Read</a></span></li>
+							<li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Schweinfurt&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Schweinfurt&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Schweinfurt" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Schweinfurt" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Schweinfurt&amp;oldid=799828301" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Schweinfurt&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4126" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Schweinfurt&amp;id=799828301" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Schweinfurt">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Schweinfurt&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Schweinfurt&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Schweinfurt" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikivoyage"><a href="https://en.wikivoyage.org/wiki/Schweinfurt" hreflang="en">Wikivoyage</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%B4%D9%81%D8%A7%D9%8A%D9%86%D9%81%D9%88%D8%B1%D8%AA" title="شفاينفورت – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-an"><a href="https://an.wikipedia.org/wiki/Schweinfurt" title="Schweinfurt – Aragonese" lang="an" hreflang="an" class="interlanguage-link-target">Aragonés</a></li><li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D8%B4%D9%88%D8%A7%DB%8C%D9%86%D9%81%D9%88%D8%B1%D8%AA" title="شواینفورت – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%A8%D0%B2%D0%B0%D0%B9%D0%BD%D1%84%D1%83%D1%80%D1%82" title="Швайнфурт – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A8%D0%B2%D0%B0%D0%B9%D0%BD%D1%84%D1%83%D1%80%D1%82" title="Швайнфурт – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bar"><a href="https://bar.wikipedia.org/wiki/Schweinfurt" title="Schweinfurt – Bavarian" lang="bar" hreflang="bar" class="interlanguage-link-target">Boarisch</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Schweinfurt" title="Schweinfurt – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Schweinfurt_(kapital_sa_distrito)" title="Schweinfurt (kapital sa distrito) – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Schweinfurt" title="Schweinfurt – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Schweinfurt" title="Schweinfurt – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Schweinfurt" title="Schweinfurt – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Schweinfurt" title="Schweinfurt – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Schweinfurt_(Alemania)" title="Schweinfurt (Alemania) – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Schweinfurt" title="Schweinfurt – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Schweinfurt" title="Schweinfurt – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%B4%D9%88%D8%A7%DB%8C%D9%86%D9%81%D9%88%D8%B1%D8%AA" title="شواینفورت – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Schweinfurt" title="Schweinfurt – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Schweinfurt,_Alema%C3%B1a" title="Schweinfurt, Alemaña – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-hak"><a href="https://hak.wikipedia.org/wiki/Schweinfurt" title="Schweinfurt – Hakka Chinese" lang="hak" hreflang="hak" class="interlanguage-link-target">客家語/Hak-kâ-ngî</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%8A%88%EB%B0%94%EC%9D%B8%ED%91%B8%EB%A5%B4%ED%8A%B8" title="슈바인푸르트 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%87%D5%BE%D5%A1%D5%B5%D5%B6%D6%86%D5%B8%D6%82%D6%80%D5%BF" title="Շվայնֆուրտ – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Schweinfurt" title="Schweinfurt – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ie"><a href="https://ie.wikipedia.org/wiki/Schweinfurt" title="Schweinfurt – Interlingue" lang="ie" hreflang="ie" class="interlanguage-link-target">Interlingue</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Schweinfurt" title="Schweinfurt – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%A8%E1%83%95%E1%83%90%E1%83%98%E1%83%9C%E1%83%A4%E1%83%A3%E1%83%A0%E1%83%A2%E1%83%98" title="შვაინფურტი – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%A8%D0%B2%D0%B0%D0%B9%D0%BD%D1%84%D1%83%D1%80%D1%82" title="Швайнфурт – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/%D0%A8%D0%B2%D0%B0%D0%B9%D0%BD%D1%84%D1%83%D1%80%D1%82" title="Швайнфурт – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Suevofortum" title="Suevofortum – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lmo"><a href="https://lmo.wikipedia.org/wiki/Schweinfurt" title="Schweinfurt – Lombard" lang="lmo" hreflang="lmo" class="interlanguage-link-target">Lumbaart</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Schweinfurt" title="Schweinfurt – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Schweinfurt_(stad)" title="Schweinfurt (stad) – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%83%B4%E3%82%A1%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%83%88" title="シュヴァインフルト – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Schweinfurt" title="Schweinfurt – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Schweinfurt" title="Schweinfurt – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Schweinfurt" title="Schweinfurt – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Schweinfurt" title="Schweinfurt – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Schweinfurt" title="Schweinfurt – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Schweinfurt" title="Schweinfurt – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A8%D0%B2%D0%B0%D0%B9%D0%BD%D1%84%D1%83%D1%80%D1%82" title="Швайнфурт – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Schweinfurt" title="Schweinfurt – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Schweinfurt" title="Schweinfurt – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%A8%D0%B2%D0%B0%D1%98%D0%BD%D1%84%D1%83%D1%80%D1%82" title="Швајнфурт – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Schweinfurt" title="Schweinfurt – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Schweinfurt" title="Schweinfurt – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Schweinfurt" title="Schweinfurt – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%A8%D0%B2%D0%B0%D0%B9%D0%BD%D1%84%D1%83%D1%80%D1%82" title="Швайнфурт – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%8A%E0%B9%84%E0%B8%A7%E0%B8%99%E0%B9%8C%E0%B8%9F%E0%B8%A7%E0%B8%A3%E0%B9%8C%E0%B8%97" title="ชไวน์ฟวร์ท – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Schweinfurt_(%C5%9Fehir)" title="Schweinfurt (şehir) – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A8%D0%B2%D0%B0%D0%B9%D0%BD%D1%84%D1%83%D1%80%D1%82" title="Швайнфурт – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Schweinfurt" title="Schweinfurt – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/Schweinfurt" title="Schweinfurt – Volapük" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Schweinfurt" title="Schweinfurt – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%96%BD%E9%9F%A6%E5%9B%A0%E5%AF%8C%E7%89%B9" title="施韦因富特 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4126#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 10 September 2017, at 02:51.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Schweinfurt&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.804","walltime":"0.989","ppvisitednodes":{"value":15989,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":219779,"limit":2097152},"templateargumentsize":{"value":73489,"limit":2097152},"expansiondepth":{"value":26,"limit":40},"expensivefunctioncount":{"value":15,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  820.438      1 -total"," 42.84%  351.477      1 Template:Infobox_German_location"," 40.03%  328.442      1 Template:Infobox_settlement"," 33.36%  273.730      1 Template:Infobox"," 15.84%  129.979      7 Template:Population_Germany"," 14.26%  117.029      7 Template:Metadata_Population_DE-BY"," 13.83%  113.429      9 Template:Fix"," 13.60%  111.613      8 Template:Citation_needed"," 11.44%   93.867      1 Template:Navboxes","  9.36%   76.804      1 Template:Infobox_Former_Country"]},"scribunto":{"limitreport-timeusage":{"value":"0.265","limit":"10.000"},"limitreport-memusage":{"value":7561761,"limit":52428800}},"cachereport":{"origin":"mw1269","timestamp":"20171018221224","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":1099,"wgHostname":"mw1269"});});</script>
+	</body>
+</html>

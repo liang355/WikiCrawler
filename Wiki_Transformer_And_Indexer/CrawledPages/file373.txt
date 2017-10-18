@@ -1,0 +1,697 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Amberg - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Amberg","wgTitle":"Amberg","wgCurRevisionId":800809142,"wgRevisionId":800809142,"wgArticleId":191726,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 German-language sources (de)","CS1 French-language sources (fr)","Coordinates on Wikidata","Articles with hAudio microformats","Wikipedia articles with VIAF identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","Towns in Bavaria","Amberg"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Amberg","wgRelevantArticleId":191726,"wgRequestId":"WebbXQpAAD0AAG2tSsIAAAAY","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCoordinates":{"lat":49.444444444444,"lon":11.848333333333},"wgWikibaseItemId":"Q7042","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.math.scripts","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.3"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Amberg_Altstadt.jpg/1200px-Amberg_Altstadt.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Amberg"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Amberg&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Amberg&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Amberg"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Amberg rootpage-Amberg vector-experimental-print-styles vector-nav-directionality skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Amberg</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For other uses, see <a href="/wiki/Amberg_(disambiguation)" class="mw-disambig" title="Amberg (disambiguation)">Amberg (disambiguation)</a>.</div>
+<table class="infobox geography vcard" style="width:22em;width:23em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap"><span class="fn org"><span class="wrap">Amberg</span></span></th>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Amberg_Altstadt.jpg" class="image"><img alt="Amberg Altstadt.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/Amberg_Altstadt.jpg/250px-Amberg_Altstadt.jpg" width="250" height="166" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/Amberg_Altstadt.jpg/375px-Amberg_Altstadt.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/90/Amberg_Altstadt.jpg/500px-Amberg_Altstadt.jpg 2x" data-file-width="1280" data-file-height="850" /></a></td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" class="maptable" style="text-align:center">
+<table style="width:100%; background:none;">
+<tr>
+<td style="vertical-align:middle; text-align:center;"><a href="/wiki/File:DEU_Amberg_COA.svg" class="image" title="Coat of arms of Amberg  "><img alt="Coat of arms of Amberg  " src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DEU_Amberg_COA.svg/74px-DEU_Amberg_COA.svg.png" width="74" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DEU_Amberg_COA.svg/111px-DEU_Amberg_COA.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DEU_Amberg_COA.svg/149px-DEU_Amberg_COA.svg.png 2x" data-file-width="442" data-file-height="476" /></a><br />
+<small>Coat of arms</small></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center">
+<div class="center">
+<div style="width:170px;float:none;clear:both;margin-left:auto;margin-right:auto">
+<div style="width:170px;padding:0">
+<div style="position:relative;width:170px"><a href="/wiki/File:Germany_adm_location_map.svg" class="image" title="Amberg   is located in Germany"><img alt="Amberg   is located in Germany" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/170px-Germany_adm_location_map.svg.png" width="170" height="202" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/255px-Germany_adm_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/340px-Germany_adm_location_map.svg.png 2x" data-file-width="1073" data-file-height="1272" /></a>
+<div style="position:absolute;top:71.589%;left:63.483%">
+<div style="position:absolute;left:-3px;top:-3px;line-height:0"><img alt="Amberg  " src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png" title="Amberg  " width="6" height="6" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/9px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div>
+<div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:4px;text-align:left"><span style="padding:1px;float:left"><span class="wrap">Amberg</span></span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr class="mergedbottomrow">
+<td colspan="2" style="text-align:center">Coordinates: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Amberg&amp;params=49_26_40_N_11_50_54_E_type:city(41861)_region:DE-BY"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">49°26′40″N</span> <span class="longitude">11°50′54″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">49.44444°N 11.84833°E</span><span style="display:none">﻿ / <span class="geo">49.44444; 11.84833</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Amberg&amp;params=49_26_40_N_11_50_54_E_type:city(41861)_region:DE-BY"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">49°26′40″N</span> <span class="longitude">11°50′54″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">49.44444°N 11.84833°E</span><span style="display:none">﻿ / <span class="geo">49.44444; 11.84833</span></span></span></a></span></span></span></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Country</th>
+<td><a href="/wiki/Germany" title="Germany">Germany</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/States_of_Germany" title="States of Germany">State</a></th>
+<td><a href="/wiki/Bavaria" title="Bavaria">Bavaria</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Regierungsbezirk" title="Regierungsbezirk">Admin. region</a></th>
+<td><a href="/wiki/Oberpfalz_(region)" class="mw-redirect" title="Oberpfalz (region)">Oberpfalz</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Districts_of_Germany" title="Districts of Germany">District</a></th>
+<td><a href="/wiki/Urban_districts_of_Germany" class="mw-redirect" title="Urban districts of Germany">Urban district</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Government</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;<a href="/wiki/Lord_Mayor" class="mw-redirect" title="Lord Mayor">Lord Mayor</a></th>
+<td>Michael Cerny (<a href="/wiki/Christian_Social_Union_of_Bavaria" class="mw-redirect" title="Christian Social Union of Bavaria">CSU</a>)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Area</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Total</th>
+<td>50.04&#160;km<sup>2</sup> (19.32&#160;sq&#160;mi)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Elevation</th>
+<td>374&#160;m (1,227&#160;ft)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Population <span style="font-weight:normal">(2015-12-31)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></span></th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Total</th>
+<td>41,861</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Density</th>
+<td>840/km<sup>2</sup> (2,200/sq&#160;mi)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/Time_zone" title="Time zone">Time zone</a></th>
+<td><a href="/wiki/Central_European_Time" title="Central European Time">CET</a>/<a href="/wiki/Central_European_Summer_Time" title="Central European Summer Time">CEST</a> (UTC+1/+2)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/List_of_postal_codes_in_Germany" title="List of postal codes in Germany">Postal codes</a></th>
+<td class="adr"><span class="postal-code">92224</span></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/List_of_dialling_codes_in_Germany" title="List of dialling codes in Germany">Dialling codes</a></th>
+<td>09621</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Vehicle_registration_plate" title="Vehicle registration plate">Vehicle registration</a></th>
+<td>AM</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Website</th>
+<td><a rel="nofollow" class="external text" href="http://www.amberg.de/">www.amberg.de</a></td>
+</tr>
+</table>
+<p><b>Amberg</b> (<small>German pronunciation:</small> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA/Standard_German" title="Help:IPA/Standard German">[ˈambɛrk]</a></span><small class="nowrap metadata">&#160;(<span class="unicode haudio"><span class="fn"><span style="white-space:nowrap"><a href="/wiki/File:Amberg.ogg" title="About this sound"><img alt="About this sound" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" data-file-width="20" data-file-height="20" /></a>&#160;</span><a href="//upload.wikimedia.org/wikipedia/commons/5/5b/Amberg.ogg" class="internal" title="Amberg.ogg">listen</a></span></span>)</small>) is a town in <a href="/wiki/Bavaria" title="Bavaria">Bavaria</a>, <a href="/wiki/Germany" title="Germany">Germany</a>. It is located in the <a href="/wiki/Upper_Palatinate" title="Upper Palatinate">Upper Palatinate</a>, roughly halfway between <a href="/wiki/Regensburg" title="Regensburg">Regensburg</a> and <a href="/wiki/Bayreuth" title="Bayreuth">Bayreuth</a>. In 2013, over 41,000 people lived in the town.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Jewish_History"><span class="tocnumber">1.1</span> <span class="toctext">Jewish History</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Lord_mayors"><span class="tocnumber">2</span> <span class="toctext">Lord mayors</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Population_development"><span class="tocnumber">3</span> <span class="toctext">Population development</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Sights"><span class="tocnumber">4</span> <span class="toctext">Sights</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#International_relations"><span class="tocnumber">5</span> <span class="toctext">International relations</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Notable_people"><span class="tocnumber">6</span> <span class="toctext">Notable people</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Football_Team"><span class="tocnumber">7</span> <span class="toctext">Football Team</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Amberg&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The town was first mentioned in 1034, at that time under the name <b>Ammenberg</b>. It became an important trading centre in the Middle Ages, exporting mainly <a href="/wiki/Iron_ore" title="Iron ore">iron ore</a> and iron products. In 1269, together with <a href="/wiki/Bamberg" title="Bamberg">Bamberg</a>, the town became subordinate to the <a href="/wiki/Wittelsbach" class="mw-redirect" title="Wittelsbach">Wittelsbach</a> dynasty that ruled Bavaria.</p>
+<p>In 1329 the town and the entire Upper Palatinate fell to a branch line of the <a href="/wiki/Wittelsbach" class="mw-redirect" title="Wittelsbach">Wittelsbach</a> family and was no longer part of the duchy of Bavaria. Although in geographic terms it was regarded as Bavarian and the region was part of the Bavarian circle in the organization of the <a href="/wiki/Imperial_Circle" title="Imperial Circle">Imperial Circles</a>. The rulers of Upper Palatinate were open-minded towards <a href="/wiki/Protestantism" title="Protestantism">Protestantism</a>. In the 16th century the town turned to <a href="/wiki/Lutheran_church" class="mw-redirect" title="Lutheran church">Lutheranism</a>, but attempts of the ruling family to introduce the more radical <a href="/wiki/Calvinism" title="Calvinism">Calvinism</a> failed due to the reluctance of its citizens.</p>
+<p>In 1628 Amberg and Upper Palatinate became part of the electorate of Bavaria. The inhabitants were given the choice: return to <a href="/wiki/Catholicism" class="mw-redirect" title="Catholicism">Catholicism</a> or leave the town forever. Many families left the town and fled to the <a href="/wiki/Free_Imperial_Cities" class="mw-redirect" title="Free Imperial Cities">Free Imperial Cities</a> of <a href="/wiki/Regensburg" title="Regensburg">Regensburg</a> and <a href="/wiki/Nuremberg" title="Nuremberg">Nuremberg</a>.</p>
+<p>On 24&#160;August 1796, during the <a href="/wiki/French_Revolutionary_Wars" title="French Revolutionary Wars">French Revolutionary Wars</a>, the city and its environs were the locale of a major <a href="/wiki/Battle_of_Amberg" title="Battle of Amberg">battle</a> at which 35,000&#160;French, under the command of <a href="/wiki/Jean_Baptiste_Jourdan" class="mw-redirect" title="Jean Baptiste Jourdan">Jean Baptiste Jourdan</a> fought with 40,000 Austrians under the command of <a href="/wiki/Archduke_Charles,_Duke_of_Teschen" title="Archduke Charles, Duke of Teschen">Archduke Charles</a>; the French suffered significantly more losses in this Austrian victory. Amberg was the regional capital of Upper Palatinate until 1810 when power was transferred to the larger city of <a href="/wiki/Regensburg" title="Regensburg">Regensburg</a>.</p>
+<p>After <a href="/wiki/World_War_II" title="World War II">World War II</a>, when Bavaria fell into the American Sector, Amberg was home to Pond Barracks, a <a href="/wiki/United_States_Army" title="United States Army">United States Army</a> post. <a href="/wiki/I.F.Stone" class="mw-redirect" title="I.F.Stone">I.F.Stone</a> writes about it in his book <a href="/wiki/Underground_to_Palestine" title="Underground to Palestine">Underground to Palestine</a> (pp.&#160;31ff). The post was closed in 1992 and the facility turned over to the local community for housing, most of it for social housing.</p>
+<h3><span class="mw-headline" id="Jewish_History">Jewish History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Amberg&amp;action=edit&amp;section=2" title="Edit section: Jewish History">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Jews" title="Jews">Jews</a> had settled in Amberg before 1294, when the first documentation can be found. Shortly after, in 1298, thirteen of the town Jews died during the <a href="/wiki/Rindfleisch_massacres" class="mw-redirect" title="Rindfleisch massacres">Rindfleisch massacres</a>.<sup id="cite_ref-jvl_2-0" class="reference"><a href="#cite_note-jvl-2">[2]</a></sup> Nevertheless, in 1347 six families received permission to settle in Amberg and twenty years after, in 1367, a <a href="/wiki/Yeshivah" class="mw-redirect" title="Yeshivah">Yeshivah</a> was opened in it, though the Jewish community was expelled from Amberg in 1403.<sup id="cite_ref-jvl_2-1" class="reference"><a href="#cite_note-jvl-2">[2]</a></sup> Upon the expulsion, the <a href="/wiki/Synagogue" title="Synagogue">synagogue</a> was annexed to the nearby <a href="/wiki/Local_church" title="Local church">church</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Twelve Jews remained in town in 1942. The few survivors returned to the town after 1945, and a <a href="/wiki/Displaced_persons_camp" title="Displaced persons camp">displaced persons camp</a> named <a rel="nofollow" class="external text" href="http://lamoth.info/index.php?p=digitallibrary/digitalcontent&amp;id=467">Amberg</a> - located nearby the town - housed mostly <a href="/wiki/Jewish" class="mw-redirect" title="Jewish">Jewish</a> <a rel="nofollow" class="external text" href="http://collections.ushmm.org/search/catalog/pa1170155">refugees and survivors</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> As a result of immigration from the former <a href="/wiki/USSR" class="mw-redirect" title="USSR">USSR</a> to <a href="/wiki/Germany" title="Germany">Germany</a>, the <a href="/wiki/Jewish" class="mw-redirect" title="Jewish">Jewish</a> population in town grew to about 275 in 2003.<sup id="cite_ref-jvl_2-2" class="reference"><a href="#cite_note-jvl-2">[2]</a></sup> A <a rel="nofollow" class="external text" href="http://www.maven.co.il/synagogues/C3389Y41640RX">synagogue</a> exists in town nowadays.</p>
+<h2><span class="mw-headline" id="Lord_mayors">Lord mayors</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Amberg&amp;action=edit&amp;section=3" title="Edit section: Lord mayors">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>1866–1892: Vincent König</li>
+<li>1892–1907: Josef Heldmann</li>
+<li>1907–1913: Georg Schön</li>
+<li>1913–1933: Eduard Klug, <a href="/wiki/Bavarian_People%27s_Party" title="Bavarian People's Party">BVP</a></li>
+<li>1933: Otto Saugel (temporary)</li>
+<li>1933–1945: Josef Filbig, <a href="/wiki/Nationalsozialistische_Deutsche_Arbeiterpartei" class="mw-redirect" title="Nationalsozialistische Deutsche Arbeiterpartei">NSDAP</a></li>
+<li>1945–1946: Christian Endemann, <a href="/wiki/Sozialdemokratische_Partei_Deutschlands" class="mw-redirect" title="Sozialdemokratische Partei Deutschlands">SPD</a></li>
+<li>1946: Eduard Klug</li>
+<li>1946: Christian Endemann, SPD</li>
+<li>1946–1952: Michael Lotter, <a href="/wiki/Christlich-Soziale_Union_in_Bayern" class="mw-redirect" title="Christlich-Soziale Union in Bayern">CSU</a></li>
+<li>1952–1958: Josef Filbig, Deutsche Gemeinschaft (Deutschland)</li>
+<li>1958–1970: Wolf Steininger, CSU</li>
+<li>1970–1990: Franz Precht], CSU</li>
+<li>1990–2014: <a href="/wiki/Wolfgang_Dandorfer" title="Wolfgang Dandorfer">Wolfgang Dandorfer</a>, CSU</li>
+<li>since 2014: Michael Cerny, CSU</li>
+</ul>
+<h2><span class="mw-headline" id="Population_development">Population development</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Amberg&amp;action=edit&amp;section=4" title="Edit section: Population development">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Data source:<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></p>
+<table class="wikitable">
+<tr>
+<th>Year</th>
+<th>Inhabitants</th>
+<th>Year</th>
+<th>Inhabitants</th>
+<th>Year</th>
+<th>Inhabitants</th>
+</tr>
+<tr>
+<td>1400</td>
+<td>2.720</td>
+<td>1800</td>
+<td>5.763</td>
+<td>1939</td>
+<td>31.775</td>
+</tr>
+<tr>
+<td>1450</td>
+<td>2.980</td>
+<td>1840</td>
+<td>11.793</td>
+<td>1946</td>
+<td>36.795</td>
+</tr>
+<tr>
+<td>1500</td>
+<td>3.180</td>
+<td>1859</td>
+<td>12.312</td>
+<td>1950</td>
+<td>37.920</td>
+</tr>
+<tr>
+<td>1550</td>
+<td>3.730</td>
+<td>1871</td>
+<td>13.005</td>
+<td>1960</td>
+<td>41.849</td>
+</tr>
+<tr>
+<td>1600</td>
+<td>4.280</td>
+<td>1880</td>
+<td>14.583</td>
+<td>1970</td>
+<td>41.345</td>
+</tr>
+<tr>
+<td>1630</td>
+<td>4.910</td>
+<td>1890</td>
+<td>19.126</td>
+<td>1980</td>
+<td>44.264</td>
+</tr>
+<tr>
+<td>1648</td>
+<td>3.274</td>
+<td>1900</td>
+<td>22.039</td>
+<td>1990</td>
+<td>43.111</td>
+</tr>
+<tr>
+<td>1700</td>
+<td>3.720</td>
+<td>1910</td>
+<td>25.242</td>
+<td>2000</td>
+<td>43.794</td>
+</tr>
+<tr>
+<td>1713</td>
+<td>1.900</td>
+<td>1919</td>
+<td>26.009</td>
+<td>2010</td>
+<td>43.755</td>
+</tr>
+<tr>
+<td>1750</td>
+<td>4.537</td>
+<td>1925</td>
+<td>28.387</td>
+<td>2014</td>
+<td>41.535</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Sights">Sights</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Amberg&amp;action=edit&amp;section=5" title="Edit section: Sights">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A defining feature of the town is the <i>Stadtbrille</i> (literally: town spectacles) – a bridge, originally a part of the town fortifications, whose arches reflected on the river waters resemble a pair of spectacles.</p>
+<p>Other tourist attractions in Amberg include:</p>
+<ul>
+<li>Market Square, which contains the Gothic town hall (built in 1358) and the late-Gothic parish church of St. Martin</li>
+<li>The <a href="/wiki/Electoral_Palace,_Amberg" title="Electoral Palace, Amberg">New Palace</a>, the former residence of the <a href="/wiki/Count_palatine" title="Count palatine">counts of the Rhenish Palatinate</a>, built at the beginning of the 15th century and renovated in 1603</li>
+</ul>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Amberg_Wahrzeichen_Stadtbrille.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Amberg_Wahrzeichen_Stadtbrille.JPG/220px-Amberg_Wahrzeichen_Stadtbrille.JPG" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/8/88/Amberg_Wahrzeichen_Stadtbrille.JPG 1.5x" data-file-width="288" data-file-height="216" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Amberg_Wahrzeichen_Stadtbrille.JPG" class="internal" title="Enlarge"></a></div>
+Stadtbrille</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Amberg_Marktplatz-Rathaus.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Amberg_Marktplatz-Rathaus.jpg/220px-Amberg_Marktplatz-Rathaus.jpg" width="220" height="146" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Amberg_Marktplatz-Rathaus.jpg/330px-Amberg_Marktplatz-Rathaus.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Amberg_Marktplatz-Rathaus.jpg/440px-Amberg_Marktplatz-Rathaus.jpg 2x" data-file-width="1280" data-file-height="850" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Amberg_Marktplatz-Rathaus.jpg" class="internal" title="Enlarge"></a></div>
+The Gothic town hall</div>
+</div>
+</div>
+<ul>
+<li>A well-preserved section of the medieval walls and gates</li>
+<li>The baroque <a href="/wiki/Franciscan" class="mw-redirect" title="Franciscan">Franciscan</a> monastery on the Hill of Our Lady Help of Christians (Germ. <i>Mariahilfberg</i>) above the town. This hill was given its name during the <a href="/wiki/Bubonic_plague" title="Bubonic plague">bubonic plague</a> in the <a href="/wiki/Thirty_Years%27_War" title="Thirty Years' War">Thirty Years' War</a> in 1633/4 when the locals beseeched the Virgin Mary to rid them of the plague.</li>
+<li>The '<a href="/wiki/Eh%27h%C3%A4usl" title="Eh'häusl">Little Wedding House</a>' (local German dialect <i>Eh’häusl</i>), claimed by town authorities to be the world's smallest hotel. Built in 1728, the 2 metre wide hotel was 'sold' to young couples for one night to circumvent laws prohibiting marriages between poor people.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></li>
+<li>The town museum (Stadtmuseum Amberg) includes exhibits on life and industry in Amberg, the history of clothing and works of <a href="/wiki/Michael_Mathias_Prechtl" title="Michael Mathias Prechtl">Michael Mathias Prechtl</a> and houses travelling exhibitions.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></li>
+<li>Air Museum (Luftmuseum), opened in 2006.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></li>
+</ul>
+<h2><span class="mw-headline" id="International_relations">International relations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Amberg&amp;action=edit&amp;section=6" title="Edit section: International relations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/List_of_twin_towns_and_sister_cities_in_Germany" title="List of twin towns and sister cities in Germany">List of twin towns and sister cities in Germany</a></div>
+<p>Amberg is <a href="/wiki/Twin_towns_and_sister_cities" class="mw-redirect" title="Twin towns and sister cities">twinned</a> with:</p>
+<ul>
+<li><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Bad_Bergzabern" title="Bad Bergzabern">Bad Bergzabern</a>, Germany</li>
+<li><span class="flagicon"><a href="/wiki/Poland" title="Poland"><img alt="Poland" src="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/35px-Flag_of_Poland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/46px-Flag_of_Poland.svg.png 2x" data-file-width="1280" data-file-height="800" /></a></span> <a href="/wiki/Bystrzyca_K%C5%82odzka" title="Bystrzyca Kłodzka">Bystrzyca Kłodzka</a>, Poland</li>
+<li><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Desenzano" class="mw-redirect" title="Desenzano">Desenzano</a>, Italy</li>
+<li><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/P%C3%A9rigueux" title="Périgueux">Périgueux</a>, France<sup id="cite_ref-P.C3.A9rigueux_twinnings_12-0" class="reference"><a href="#cite_note-P.C3.A9rigueux_twinnings-12">[12]</a></sup></li>
+<li><span class="flagicon"><a href="/wiki/Greece" title="Greece"><img alt="Greece" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/23px-Flag_of_Greece.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/35px-Flag_of_Greece.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/45px-Flag_of_Greece.svg.png 2x" data-file-width="600" data-file-height="400" /></a></span> <a href="/wiki/Trikala" title="Trikala">Trikala</a>, Greece</li>
+<li><span class="flagicon"><a href="/wiki/Czech_Republic" title="Czech Republic"><img alt="Czech Republic" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/23px-Flag_of_the_Czech_Republic.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/35px-Flag_of_the_Czech_Republic.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/45px-Flag_of_the_Czech_Republic.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/%C3%9Ast%C3%AD_nad_Orlic%C3%AD" title="Ústí nad Orlicí">Ústí nad Orlicí</a>, Czech Republic</li>
+</ul>
+<h2><span class="mw-headline" id="Notable_people">Notable people</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Amberg&amp;action=edit&amp;section=7" title="Edit section: Notable people">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Karl_Addicks" title="Karl Addicks">Karl Addicks</a> (born 1950), politician (FDP), Member of Bundestag 2004-2009</li>
+<li><a href="/wiki/Hans_Aumeier" title="Hans Aumeier">Hans Aumeier</a> (1906–1948), <a href="/wiki/Schutzstaffel" title="Schutzstaffel">SS officer</a> in a leading position in several <a href="/wiki/Concentration_camp" class="mw-redirect" title="Concentration camp">concentration camps</a></li>
+<li><a href="/wiki/Hans_Baumann_(writer)" title="Hans Baumann (writer)">Hans Baumann</a> (1914–1988), elementary school teacher, poet, song composer, Children's Book Author, Nazi official</li>
+<li><a href="/wiki/Alexander_Bugera" title="Alexander Bugera">Alexander Bugera</a> (born 1978), football player</li>
+<li><a href="/wiki/Sara_D%C3%A4britz" title="Sara Däbritz">Sara Däbritz</a> (born 1995), German football player (Bayern Munich, German national team)</li>
+<li><a href="/wiki/Daniel_Ernemann" title="Daniel Ernemann">Daniel Ernemann</a> (born 1976), football player</li>
+<li><a href="/wiki/Heiner_Fleischmann" title="Heiner Fleischmann">Heiner Fleischmann</a> (1914–1963), motorcycle racer (mainly on NSU)</li>
+<li><a href="/wiki/Kathrine_Switzer" title="Kathrine Switzer">Kathrine Switzer</a> (born 1947), first woman to run the <a href="/wiki/Boston_Marathon" title="Boston Marathon">Boston Marathon</a>, she was born to American parents in Amberg.</li>
+</ul>
+<h2><span class="mw-headline" id="Football_Team">Football Team</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Amberg&amp;action=edit&amp;section=8" title="Edit section: Football Team">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/FC_Amberg" title="FC Amberg">FC Amberg</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Amberg&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap mw-references-columns">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.statistikdaten.bayern.de/genesis/online?sequenz=tabelleErgebnis&amp;selectionname=12411-001">"Fortschreibung des Bevölkerungsstandes"</a>. <i><a href="/wiki/Bayerisches_Landesamt_f%C3%BCr_Statistik_und_Datenverarbeitung" class="mw-redirect" title="Bayerisches Landesamt für Statistik und Datenverarbeitung">Bayerisches Landesamt für Statistik und Datenverarbeitung</a></i> (in German). June 2016.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmberg&amp;rft.atitle=Fortschreibung+des+Bev%C3%B6lkerungsstandes&amp;rft.date=2016-06&amp;rft.genre=unknown&amp;rft.jtitle=Bayerisches+Landesamt+f%C3%BCr+Statistik+und+Datenverarbeitung&amp;rft_id=https%3A%2F%2Fwww.statistikdaten.bayern.de%2Fgenesis%2Fonline%3Fsequenz%3DtabelleErgebnis%26selectionname%3D12411-001&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-jvl-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-jvl_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-jvl_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-jvl_2-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.jewishvirtuallibrary.org/jsource/judaica/ejud_0002_0002_0_00951.html">https://www.jewishvirtuallibrary.org/jsource/judaica/ejud_0002_0002_0_00951.html</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://jewishencyclopedia.com/articles/1374-amberg">http://jewishencyclopedia.com/articles/1374-amberg</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.ushmm.org/online/hsv/source_view.php?SourceId=31242">http://www.ushmm.org/online/hsv/source_view.php?SourceId=31242</a></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Quelle: <a rel="nofollow" class="external text" href="http://www.amberg.de/fileadmin/Inhalte/Rathaus/Statistik/Jahrbuch/2010-2011_Jahrbuch.pdf">Statistisches Jahrbuch der Stadt Amberg</a> (PDF; 1,9&#160;MB), 13. Ausgabe, 2010/2011, S. 28.</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.amberg.de/index.php?id=3768?&amp;print=1&amp;no_cache=1">"Eh’häusl"</a> (in German). Official Amberg website<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-02-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmberg&amp;rft.btitle=Eh%E2%80%99h%C3%A4usl&amp;rft.genre=unknown&amp;rft.pub=Official+Amberg+website&amp;rft_id=http%3A%2F%2Fwww.amberg.de%2Findex.php%3Fid%3D3768%3F%26print%3D1%26no_cache%3D1&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.stadtmuseum-amberg.de/">"Stadtmuseum Amberg"</a> (in German). Stadtmuseum Amberg.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmberg&amp;rft.btitle=Stadtmuseum+Amberg&amp;rft.genre=unknown&amp;rft.pub=Stadtmuseum+Amberg&amp;rft_id=http%3A%2F%2Fwww.stadtmuseum-amberg.de%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.mittelbayerische.de/index.cfm?pid=10057&amp;pk=543206">"Neuer Museumsführer"</a>. <i><a href="/wiki/Mittelbayerische_Zeitung" title="Mittelbayerische Zeitung">Mittelbayerische Zeitung</a></i> (in German). 2010-04-14<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-06-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmberg&amp;rft.atitle=Neuer+Museumsf%C3%BChrer&amp;rft.date=2010-04-14&amp;rft.genre=article&amp;rft.jtitle=Mittelbayerische+Zeitung&amp;rft_id=http%3A%2F%2Fwww.mittelbayerische.de%2Findex.cfm%3Fpid%3D10057%26pk%3D543206&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.mittelbayerische.de/index.cfm?pid=10057&amp;pk=316684">"Amberger Stadtmuseum zeigt die älteste Apotheke Bayerns"</a>. <i>Mittelbayerische Zeitung</i> (in German). 2008-09-11<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-06-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmberg&amp;rft.atitle=Amberger+Stadtmuseum+zeigt+die+%C3%A4lteste+Apotheke+Bayerns&amp;rft.date=2008-09-11&amp;rft.genre=article&amp;rft.jtitle=Mittelbayerische+Zeitung&amp;rft_id=http%3A%2F%2Fwww.mittelbayerische.de%2Findex.cfm%3Fpid%3D10057%26pk%3D316684&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.luftmuseum.de/en/ausstellungen/aktuell/">"Aktuell"</a>. Luftmuseum Amberg.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmberg&amp;rft.btitle=Aktuell&amp;rft.genre=unknown&amp;rft.pub=Luftmuseum+Amberg&amp;rft_id=http%3A%2F%2Fwww.luftmuseum.de%2Fen%2Fausstellungen%2Faktuell%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ramasuri.de/29150/nachrichten/nachrichten-amberg/amberger-luftmuseum-wieder-geoeffnet/">"Amberger Luftmuseum wieder geöffnet"</a> (in German). Radio Ramasuri. 2011-11-14<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-06-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmberg&amp;rft.btitle=Amberger+Luftmuseum+wieder+ge%C3%B6ffnet&amp;rft.date=2011-11-14&amp;rft.genre=unknown&amp;rft.pub=Radio+Ramasuri&amp;rft_id=http%3A%2F%2Fwww.ramasuri.de%2F29150%2Fnachrichten%2Fnachrichten-amberg%2Famberger-luftmuseum-wieder-geoeffnet%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-P.C3.A9rigueux_twinnings-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-P.C3.A9rigueux_twinnings_12-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://archive.is/20131008010503/http://www.cncd.fr/frontoffice/bdd-region.asp?action=getRegion&amp;id=2">"National Commission for Decentralised cooperation"</a>. <i>Délégation pour l’Action Extérieure des Collectivités Territoriales (Ministère des Affaires étrangères)</i> (in French). Archived from <a rel="nofollow" class="external text" href="http://www.cncd.fr/frontoffice/bdd-region.asp?action=getRegion&amp;id=2#tabs3">the original</a> on 2013-10-08<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-12-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmberg&amp;rft.atitle=National+Commission+for+Decentralised+cooperation&amp;rft.genre=unknown&amp;rft.jtitle=D%C3%A9l%C3%A9gation+pour+l%E2%80%99Action+Ext%C3%A9rieure+des+Collectivit%C3%A9s+Territoriales+%28Minist%C3%A8re+des+Affaires+%C3%A9trang%C3%A8res%29&amp;rft_id=http%3A%2F%2Fwww.cncd.fr%2Ffrontoffice%2Fbdd-region.asp%3Faction%3DgetRegion%26id%3D2%23tabs3&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Amberg&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" width="12" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> Media related to <a href="https://commons.wikimedia.org/wiki/Category:Amberg" class="extiw" title="commons:Category:Amberg">Amberg</a> at Wikimedia Commons</li>
+<li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://amberg.de">Official website</a></span></span></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="border.7C30px.7CFlag_of_Bavaria_Urban_and_rural_districts_in_the_Free_State_of_Bavaria_in_Germany_border.7C30px.7CFlag_of_Germany" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Germany_districts_Bavaria" title="Template:Germany districts Bavaria"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Germany_districts_Bavaria" title="Template talk:Germany districts Bavaria"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Germany_districts_Bavaria&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="border.7C30px.7CFlag_of_Bavaria_Urban_and_rural_districts_in_the_Free_State_of_Bavaria_in_Germany_border.7C30px.7CFlag_of_Germany" style="font-size:114%;margin:0 4em"><a href="/wiki/File:Flag_of_Bavaria_(lozengy).svg" class="image" title="Flag of Bavaria"><img alt="Flag of Bavaria" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Bavaria_%28lozengy%29.svg/30px-Flag_of_Bavaria_%28lozengy%29.svg.png" width="30" height="18" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Bavaria_%28lozengy%29.svg/45px-Flag_of_Bavaria_%28lozengy%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Bavaria_%28lozengy%29.svg/60px-Flag_of_Bavaria_%28lozengy%29.svg.png 2x" data-file-width="1000" data-file-height="600" /></a> Urban and rural districts in the <a href="/wiki/Bavaria" title="Bavaria">Free State of Bavaria</a> in Germany <a href="/wiki/File:Flag_of_Germany.svg" class="image" title="Flag of Germany"><img alt="Flag of Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/30px-Flag_of_Germany.svg.png" width="30" height="18" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/45px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/60px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Urban<br />
+districts</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-selflink selflink">Amberg</a></li>
+<li><a href="/wiki/Ansbach" title="Ansbach">Ansbach</a></li>
+<li><a href="/wiki/Aschaffenburg" title="Aschaffenburg">Aschaffenburg</a></li>
+<li><a href="/wiki/Augsburg" title="Augsburg">Augsburg</a></li>
+<li><a href="/wiki/Bamberg" title="Bamberg">Bamberg</a></li>
+<li><a href="/wiki/Bayreuth" title="Bayreuth">Bayreuth</a></li>
+<li><a href="/wiki/Coburg" title="Coburg">Coburg</a></li>
+<li><a href="/wiki/Erlangen" title="Erlangen">Erlangen</a></li>
+<li><a href="/wiki/F%C3%BCrth" title="Fürth">Fürth</a></li>
+<li><a href="/wiki/Hof,_Bavaria" title="Hof, Bavaria">Hof</a></li>
+<li><a href="/wiki/Ingolstadt" title="Ingolstadt">Ingolstadt</a></li>
+<li><a href="/wiki/Kaufbeuren" title="Kaufbeuren">Kaufbeuren</a></li>
+<li><a href="/wiki/Kempten" title="Kempten">Kempten</a></li>
+<li><a href="/wiki/Landshut" title="Landshut">Landshut</a></li>
+<li><a href="/wiki/Memmingen" title="Memmingen">Memmingen</a></li>
+<li><a href="/wiki/Munich" title="Munich">München (<i>Munich</i>)</a></li>
+<li><a href="/wiki/Nuremberg" title="Nuremberg">Nürnberg (<i>Nuremberg</i>)</a></li>
+<li><a href="/wiki/Passau" title="Passau">Passau</a></li>
+<li><a href="/wiki/Regensburg" title="Regensburg">Regensburg</a></li>
+<li><a href="/wiki/Rosenheim" title="Rosenheim">Rosenheim</a></li>
+<li><a href="/wiki/Schwabach" title="Schwabach">Schwabach</a></li>
+<li><a href="/wiki/Schweinfurt" title="Schweinfurt">Schweinfurt</a></li>
+<li><a href="/wiki/Straubing" title="Straubing">Straubing</a></li>
+<li><a href="/wiki/Weiden_in_der_Oberpfalz" title="Weiden in der Oberpfalz">Weiden</a></li>
+<li><a href="/wiki/W%C3%BCrzburg" title="Würzburg">Würzburg</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Rural<br />
+districts</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aichach-Friedberg" title="Aichach-Friedberg">Aichach-Friedberg</a></li>
+<li><a href="/wiki/Alt%C3%B6tting_(district)" title="Altötting (district)">Altötting</a></li>
+<li><a href="/wiki/Amberg-Sulzbach" title="Amberg-Sulzbach">Amberg-Sulzbach</a></li>
+<li><a href="/wiki/Ansbach_(district)" title="Ansbach (district)">Ansbach</a></li>
+<li><a href="/wiki/Aschaffenburg_(district)" title="Aschaffenburg (district)">Aschaffenburg</a></li>
+<li><a href="/wiki/Augsburg_(district)" title="Augsburg (district)">Augsburg</a></li>
+<li><a href="/wiki/Bad_Kissingen_(district)" title="Bad Kissingen (district)">Bad Kissingen</a></li>
+<li><a href="/wiki/Bad_T%C3%B6lz-Wolfratshausen" title="Bad Tölz-Wolfratshausen">Bad Tölz-Wolfratshausen</a></li>
+<li><a href="/wiki/Bamberg_(district)" title="Bamberg (district)">Bamberg</a></li>
+<li><a href="/wiki/Bayreuth_(district)" title="Bayreuth (district)">Bayreuth</a></li>
+<li><a href="/wiki/Berchtesgadener_Land" title="Berchtesgadener Land">Berchtesgadener Land</a></li>
+<li><a href="/wiki/Cham_(district)" title="Cham (district)">Cham</a></li>
+<li><a href="/wiki/Coburg_(district)" title="Coburg (district)">Coburg</a></li>
+<li><a href="/wiki/Dachau_(district)" title="Dachau (district)">Dachau</a></li>
+<li><a href="/wiki/Deggendorf_(district)" title="Deggendorf (district)">Deggendorf</a></li>
+<li><a href="/wiki/Dillingen_(district)" title="Dillingen (district)">Dillingen</a></li>
+<li><a href="/wiki/Dingolfing-Landau" title="Dingolfing-Landau">Dingolfing-Landau</a></li>
+<li><a href="/wiki/Donau-Ries" title="Donau-Ries">Donau-Ries</a></li>
+<li><a href="/wiki/Ebersberg_(district)" title="Ebersberg (district)">Ebersberg</a></li>
+<li><a href="/wiki/Eichst%C3%A4tt_(district)" title="Eichstätt (district)">Eichstätt</a></li>
+<li><a href="/wiki/Erding_(district)" title="Erding (district)">Erding</a></li>
+<li><a href="/wiki/Erlangen-H%C3%B6chstadt" title="Erlangen-Höchstadt">Erlangen-Höchstadt</a></li>
+<li><a href="/wiki/Forchheim_(district)" title="Forchheim (district)">Forchheim</a></li>
+<li><a href="/wiki/Freising_(district)" title="Freising (district)">Freising</a></li>
+<li><a href="/wiki/Freyung-Grafenau" title="Freyung-Grafenau">Freyung-Grafenau</a></li>
+<li><a href="/wiki/F%C3%BCrstenfeldbruck_(district)" title="Fürstenfeldbruck (district)">Fürstenfeldbruck</a></li>
+<li><a href="/wiki/F%C3%BCrth_(district)" title="Fürth (district)">Fürth</a></li>
+<li><a href="/wiki/Garmisch-Partenkirchen_(district)" title="Garmisch-Partenkirchen (district)">Garmisch-Partenkirchen</a></li>
+<li><a href="/wiki/G%C3%BCnzburg_(district)" title="Günzburg (district)">Günzburg</a></li>
+<li><a href="/wiki/Ha%C3%9Fberge_(district)" title="Haßberge (district)">Haßberge</a></li>
+<li><a href="/wiki/Hof_(district)" title="Hof (district)">Hof</a></li>
+<li><a href="/wiki/Kelheim_(district)" title="Kelheim (district)">Kelheim</a></li>
+<li><a href="/wiki/Kitzingen_(district)" title="Kitzingen (district)">Kitzingen</a></li>
+<li><a href="/wiki/Kronach_(district)" title="Kronach (district)">Kronach</a></li>
+<li><a href="/wiki/Kulmbach_(district)" title="Kulmbach (district)">Kulmbach</a></li>
+<li><a href="/wiki/Landsberg_(district)" title="Landsberg (district)">Landsberg</a></li>
+<li><a href="/wiki/Landshut_(district)" title="Landshut (district)">Landshut</a></li>
+<li><a href="/wiki/Lichtenfels_(district)" title="Lichtenfels (district)">Lichtenfels</a></li>
+<li><a href="/wiki/Lindau_(district)" title="Lindau (district)">Lindau</a></li>
+<li><a href="/wiki/Main-Spessart" title="Main-Spessart">Main-Spessart</a></li>
+<li><a href="/wiki/Miesbach_(district)" title="Miesbach (district)">Miesbach</a></li>
+<li><a href="/wiki/Miltenberg_(district)" title="Miltenberg (district)">Miltenberg</a></li>
+<li><a href="/wiki/M%C3%BChldorf_(district)" title="Mühldorf (district)">Mühldorf</a></li>
+<li><a href="/wiki/Munich_(district)" title="Munich (district)">München (<i>Munich</i>)</a></li>
+<li><a href="/wiki/Neuburg-Schrobenhausen" title="Neuburg-Schrobenhausen">Neuburg-Schrobenhausen</a></li>
+<li><a href="/wiki/Neumarkt_(district)" title="Neumarkt (district)">Neumarkt</a></li>
+<li><a href="/wiki/Neustadt_(Aisch)-Bad_Windsheim" title="Neustadt (Aisch)-Bad Windsheim">Neustadt (Aisch)-Bad Windsheim</a></li>
+<li><a href="/wiki/Neustadt_an_der_Waldnaab_(district)" title="Neustadt an der Waldnaab (district)">Neustadt an der Waldnaab</a></li>
+<li><a href="/wiki/Neu-Ulm_(district)" title="Neu-Ulm (district)">Neu-Ulm</a></li>
+<li><a href="/wiki/N%C3%BCrnberger_Land" title="Nürnberger Land">Nürnberger Land</a></li>
+<li><a href="/wiki/Oberallg%C3%A4u" title="Oberallgäu">Oberallgäu</a></li>
+<li><a href="/wiki/Ostallg%C3%A4u" title="Ostallgäu">Ostallgäu</a></li>
+<li><a href="/wiki/Passau_(district)" title="Passau (district)">Passau</a></li>
+<li><a href="/wiki/Pfaffenhofen_(district)" title="Pfaffenhofen (district)">Pfaffenhofen</a></li>
+<li><a href="/wiki/Regen_(district)" title="Regen (district)">Regen</a></li>
+<li><a href="/wiki/Regensburg_(district)" title="Regensburg (district)">Regensburg</a></li>
+<li><a href="/wiki/Rh%C3%B6n-Grabfeld" title="Rhön-Grabfeld">Rhön-Grabfeld</a></li>
+<li><a href="/wiki/Rosenheim_(district)" title="Rosenheim (district)">Rosenheim</a></li>
+<li><a href="/wiki/Roth_(district)" title="Roth (district)">Roth</a></li>
+<li><a href="/wiki/Rottal-Inn" title="Rottal-Inn">Rottal-Inn</a></li>
+<li><a href="/wiki/Schwandorf_(district)" title="Schwandorf (district)">Schwandorf</a></li>
+<li><a href="/wiki/Schweinfurt_(district)" title="Schweinfurt (district)">Schweinfurt</a></li>
+<li><a href="/wiki/Starnberg_(district)" title="Starnberg (district)">Starnberg</a></li>
+<li><a href="/wiki/Straubing-Bogen" title="Straubing-Bogen">Straubing-Bogen</a></li>
+<li><a href="/wiki/Tirschenreuth_(district)" title="Tirschenreuth (district)">Tirschenreuth</a></li>
+<li><a href="/wiki/Traunstein_(district)" title="Traunstein (district)">Traunstein</a></li>
+<li><a href="/wiki/Unterallg%C3%A4u" title="Unterallgäu">Unterallgäu</a></li>
+<li><a href="/wiki/Weilheim-Schongau" title="Weilheim-Schongau">Weilheim-Schongau</a></li>
+<li><a href="/wiki/Wei%C3%9Fenburg-Gunzenhausen" title="Weißenburg-Gunzenhausen">Weißenburg-Gunzenhausen</a></li>
+<li><a href="/wiki/Wunsiedel_(district)" title="Wunsiedel (district)">Wunsiedel</a></li>
+<li><a href="/wiki/W%C3%BCrzburg_(district)" title="Würzburg (district)">Würzburg</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/133699290">WorldCat Identities</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/133699290">133699290</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/4001632-8">4001632-8</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb12005345f">cb12005345f</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb12005345f">(data)</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1266
+Cached time: 20171018044101
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.464 seconds
+Real time usage: 0.592 seconds
+Preprocessor visited node count: 9363/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 73399/2097152 bytes
+Template argument size: 17038/2097152 bytes
+Highest expansion depth: 26/40
+Expensive parser function count: 5/500
+Lua time usage: 0.159/10.000 seconds
+Lua memory usage: 5.36 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  522.777      1 -total
+ 68.57%  358.474      1 Template:Infobox_German_location
+ 64.50%  337.195      1 Template:Infobox_settlement
+ 54.68%  285.879      1 Template:Infobox
+ 23.50%  122.832      7 Template:Population_Germany
+ 17.79%   93.000      7 Template:Metadata_Population_DE-BY
+ 11.27%   58.908      6 Template:Cite_web
+  8.45%   44.158      8 Template:Both
+  7.98%   41.712      1 Template:Coord
+  5.31%   27.766      1 Template:Other_uses
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:191726-0!canonical and timestamp 20171018044101 and revision id 800809142
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Amberg&amp;oldid=800809142">https://en.wikipedia.org/w/index.php?title=Amberg&amp;oldid=800809142</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Towns_in_Bavaria" title="Category:Towns in Bavaria">Towns in Bavaria</a></li><li><a href="/wiki/Category:Amberg" title="Category:Amberg">Amberg</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_German-language_sources_(de)" title="Category:CS1 German-language sources (de)">CS1 German-language sources (de)</a></li><li><a href="/wiki/Category:CS1_French-language_sources_(fr)" title="Category:CS1 French-language sources (fr)">CS1 French-language sources (fr)</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Amberg" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Amberg" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Amberg" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Amberg" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Amberg">Read</a></span></li>
+							<li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Amberg&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Amberg&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Amberg" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Amberg" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Amberg&amp;oldid=800809142" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Amberg&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7042" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Amberg&amp;id=800809142" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Amberg">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Amberg&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Amberg&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Amberg" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A2%D9%85%D8%A8%D8%B1%D8%BA" title="آمبرغ – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-an"><a href="https://an.wikipedia.org/wiki/Amberg" title="Amberg – Aragonese" lang="an" hreflang="an" class="interlanguage-link-target">Aragonés</a></li><li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D8%A2%D9%85%D8%A8%D8%B1%D9%82" title="آمبرق – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%90%D0%BC%D0%B1%D0%B5%D1%80%D0%B3" title="Амберг – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/%D0%90%D0%BC%D0%B1%D1%8D%D1%80%D0%B3" title="Амбэрг – Belarusian (Taraškievica orthography)" lang="be-x-old" hreflang="be-x-old" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%90%D0%BC%D0%B1%D0%B5%D1%80%D0%B3" title="Амберг – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bar"><a href="https://bar.wikipedia.org/wiki/Amberg" title="Amberg – Bavarian" lang="bar" hreflang="bar" class="interlanguage-link-target">Boarisch</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Amberg" title="Amberg – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Amberg_(kapital_sa_distrito)" title="Amberg (kapital sa distrito) – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Amberg" title="Amberg – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Amberg" title="Amberg – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Amberg" title="Amberg – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Amberg" title="Amberg – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%86%CE%BC%CF%80%CE%B5%CF%81%CE%B3%CE%BA" title="Άμπεργκ – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Amberg" title="Amberg – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Amberg" title="Amberg – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Amberg" title="Amberg – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A2%D9%85%D8%A8%D8%B1%DA%AF" title="آمبرگ – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Amberg" title="Amberg – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Amberg" title="Amberg – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%95%94%EB%B2%A0%EB%A5%B4%ED%81%AC" title="암베르크 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%B1%D5%B4%D5%A2%D5%A5%D6%80%D5%A3" title="Ամբերգ – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Amberg" title="Amberg – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Amberg" title="Amberg – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/%D0%90%D0%BC%D0%B1%D0%B5%D1%80%D0%B3" title="Амберг – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Amberg" title="Amberg – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Ambergas" title="Ambergas – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-lmo"><a href="https://lmo.wikipedia.org/wiki/Amberg" title="Amberg – Lombard" lang="lmo" hreflang="lmo" class="interlanguage-link-target">Lumbaart</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Amberg" title="Amberg – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Amberg" title="Amberg – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%99%E3%83%AB%E3%82%AF" title="アンベルク – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Amberg" title="Amberg – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Amberg" title="Amberg – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Amberg" title="Amberg – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Amberg" title="Amberg – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%D8%A7%DB%8C%D9%85%D8%A8%D8%B1%DA%AF" title="ایمبرگ – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li><li class="interlanguage-link interwiki-ps"><a href="https://ps.wikipedia.org/wiki/%D8%A2%D9%85%D8%A8%D8%B1%DA%AF" title="آمبرگ – Pashto" lang="ps" hreflang="ps" class="interlanguage-link-target">پښتو</a></li><li class="interlanguage-link interwiki-pms"><a href="https://pms.wikipedia.org/wiki/Amberg" title="Amberg – Piedmontese" lang="pms" hreflang="pms" class="interlanguage-link-target">Piemontèis</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Amberg" title="Amberg – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Amberg" title="Amberg – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Amberg" title="Amberg – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%90%D0%BC%D0%B1%D0%B5%D1%80%D0%B3" title="Амберг – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Amberg" title="Amberg – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Amberg" title="Amberg – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-szl"><a href="https://szl.wikipedia.org/wiki/Amberg" title="Amberg – Silesian" lang="szl" hreflang="szl" class="interlanguage-link-target">Ślůnski</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%90%D0%BC%D0%B1%D0%B5%D1%80%D0%B3" title="Амберг – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Amberg" title="Amberg – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Amberg" title="Amberg – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Amberg" title="Amberg – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%90%D0%BC%D0%B1%D0%B5%D1%80%D0%B3" title="Амберг – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Amberg" title="Amberg – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%90%D0%BC%D0%B1%D0%B5%D1%80%D0%B3" title="Амберг – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vec"><a href="https://vec.wikipedia.org/wiki/Anberg" title="Anberg – Venetian" lang="vec" hreflang="vec" class="interlanguage-link-target">Vèneto</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Amberg" title="Amberg – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Amberg" title="Amberg – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%AE%89%E8%B4%9D%E6%A0%BC" title="安贝格 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7042#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 15 September 2017, at 20:13.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Amberg&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.464","walltime":"0.592","ppvisitednodes":{"value":9363,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":73399,"limit":2097152},"templateargumentsize":{"value":17038,"limit":2097152},"expansiondepth":{"value":26,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  522.777      1 -total"," 68.57%  358.474      1 Template:Infobox_German_location"," 64.50%  337.195      1 Template:Infobox_settlement"," 54.68%  285.879      1 Template:Infobox"," 23.50%  122.832      7 Template:Population_Germany"," 17.79%   93.000      7 Template:Metadata_Population_DE-BY"," 11.27%   58.908      6 Template:Cite_web","  8.45%   44.158      8 Template:Both","  7.98%   41.712      1 Template:Coord","  5.31%   27.766      1 Template:Other_uses"]},"scribunto":{"limitreport-timeusage":{"value":"0.159","limit":"10.000"},"limitreport-memusage":{"value":5615944,"limit":52428800}},"cachereport":{"origin":"mw1266","timestamp":"20171018044101","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":685,"wgHostname":"mw1266"});});</script>
+	</body>
+</html>

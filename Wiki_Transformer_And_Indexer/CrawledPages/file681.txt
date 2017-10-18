@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Accreditation - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Accreditation","wgTitle":"Accreditation","wgCurRevisionId":800719192,"wgRevisionId":800719192,"wgArticleId":3024825,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Quality assurance","Accreditation"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Accreditation","wgRelevantArticleId":3024825,"wgRequestId":"WeTXmQpAMFYAALM@cIwAAABM","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q705899","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.3"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Accreditation"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Accreditation&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Accreditation&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Accreditation"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Accreditation rootpage-Accreditation vector-experimental-print-styles vector-nav-directionality skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Accreditation</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p><b>Accreditation</b> is the process in which <a href="/wiki/Certification" title="Certification">certification</a> of competency, authority, or credibility is presented.</p>
+<p>Organizations that issue <a href="/wiki/Credential" title="Credential">credentials</a> or certify third parties against official standards are themselves formally accredited by accreditation bodies (such as <a href="/wiki/UKAS" class="mw-redirect" title="UKAS">UKAS</a>); hence they are sometimes known as "accredited certification bodies".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> The accreditation process ensures that their certification practices are acceptable, typically meaning that they are competent to test and certify third parties, behave ethically and employ suitable <a href="/wiki/Quality_assurance" title="Quality assurance">quality assurance</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Fields_that_involve_accreditation"><span class="tocnumber">1</span> <span class="toctext">Fields that involve accreditation</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Accreditation_standards"><span class="tocnumber">2</span> <span class="toctext">Accreditation standards</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Fields_that_involve_accreditation">Fields that involve accreditation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Accreditation&amp;action=edit&amp;section=1" title="Edit section: Fields that involve accreditation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Accreditation processes are used in a wide variety of fields:</p>
+<ul>
+<li><a href="/w/index.php?title=Accredited_International_Credentials_AIC&amp;action=edit&amp;redlink=1" class="new" title="Accredited International Credentials AIC (page does not exist)">Accredited International Credentials AIC</a></li>
+<li><a href="/wiki/Accredited_investor" title="Accredited investor">Accredited investor</a></li>
+<li><a href="/wiki/Accredited_in_Public_Relations" class="mw-redirect" title="Accredited in Public Relations">Accredited in Public Relations</a></li>
+<li><a href="/wiki/Accredited_Registrar" class="mw-redirect" title="Accredited Registrar">Accredited Registrar</a></li>
+<li><a href="/wiki/Construction" title="Construction">Construction</a>
+<ul>
+<li><a href="/w/index.php?title=TrustMark&amp;action=edit&amp;redlink=1" class="new" title="TrustMark (page does not exist)">TrustMark</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Diplomatic_accreditation" title="Diplomatic accreditation">Diplomatic accreditation</a></li>
+<li><a href="/wiki/Educational_accreditation" title="Educational accreditation">Educational accreditation</a>
+<ul>
+<li><a href="/wiki/Higher_education_accreditation" title="Higher education accreditation">Higher education accreditation</a>
+<ul>
+<li><a href="/wiki/List_of_recognized_higher_education_accreditation_organizations" title="List of recognized higher education accreditation organizations">List of recognized higher education accreditation organizations</a></li>
+<li><a href="/wiki/List_of_unrecognized_higher_education_accreditation_organizations" title="List of unrecognized higher education accreditation organizations">List of unrecognized higher education accreditation organizations</a>
+<ul>
+<li><a href="/wiki/Accreditation_mill" title="Accreditation mill">Accreditation mill</a></li>
+<li><a href="/wiki/List_of_unaccredited_institutions_of_higher_learning" class="mw-redirect" title="List of unaccredited institutions of higher learning">List of unaccredited institutions of higher learning</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="/wiki/Pre-tertiary_education_accreditation" class="mw-redirect" title="Pre-tertiary education accreditation">Pre-tertiary education accreditation</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Email_sender_accreditation" title="Email sender accreditation">Email sender accreditation</a></li>
+<li><a href="/wiki/Food_Safety" class="mw-redirect" title="Food Safety">Food Safety</a>
+<ul>
+<li><a href="/wiki/Global_Food_Safety_Initiative" title="Global Food Safety Initiative">Global Food Safety Initiative</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Healthcare" class="mw-redirect" title="Healthcare">Healthcare</a>
+<ul>
+<li><a href="/w/index.php?title=American_Association_for_Accreditation_of_Ambulatory_Surgery_Facilities&amp;action=edit&amp;redlink=1" class="new" title="American Association for Accreditation of Ambulatory Surgery Facilities (page does not exist)">American Association for Accreditation of Ambulatory Surgery Facilities</a></li>
+<li><a href="/wiki/Accreditation_Commission_for_Health_Care" title="Accreditation Commission for Health Care">Accreditation Commission for Health Care</a></li>
+<li><a href="/wiki/EHNAC" title="EHNAC">Electronic Healthcare Network Accreditation Commission</a></li>
+<li><a href="/wiki/International_healthcare_accreditation" title="International healthcare accreditation">International healthcare accreditation</a></li>
+<li><a href="/wiki/Hospital_accreditation" title="Hospital accreditation">Hospital accreditation</a></li>
+<li><a href="/wiki/Joint_Commission" title="Joint Commission">Joint Commission</a></li>
+<li><a href="/wiki/United_Kingdom_Accreditation_Forum" title="United Kingdom Accreditation Forum">United Kingdom Accreditation Forum</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Information_Assurance" class="mw-redirect" title="Information Assurance">Information Assurance</a></li>
+<li><a href="/wiki/Personal_trainer#Accreditation" title="Personal trainer">Personal trainer accreditation</a></li>
+<li><a href="/wiki/Professional_certification" title="Professional certification">Professional certification</a></li>
+<li><a href="/wiki/Systems_Engineering" class="mw-redirect" title="Systems Engineering">Systems Engineering</a></li>
+<li><a href="/wiki/Translating" class="mw-redirect" title="Translating">Translating</a> and <a href="/wiki/Interpreting" class="mw-redirect" title="Interpreting">Interpreting</a>
+<ul>
+<li><a href="/wiki/National_Accreditation_Authority_for_Translators_and_Interpreters" title="National Accreditation Authority for Translators and Interpreters">National Accreditation Authority for Translators and Interpreters</a> (Australia)</li>
+</ul>
+</li>
+<li><a rel="nofollow" class="external text" href="https://www.regulations.gov/document?D=EPA-HQ-OPPT-2011-0380-0001">US EPA TSCA VI §770 accreditation</a></li>
+</ul>
+<h2><span class="mw-headline" id="Accreditation_standards">Accreditation standards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Accreditation&amp;action=edit&amp;section=2" title="Edit section: Accreditation standards">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Many accreditation bodies operate according to processes developed by the <a href="/wiki/International_Organization_for_Standardization" title="International Organization for Standardization">International Organization for Standardization</a> (ISO) as specified in ISO/IEC 17011.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Accredited entities in specific sectors must provide evidence to the accreditation body that they conform to other standards in the same series:</p>
+<ul>
+<li><a href="/w/index.php?title=ISO/IEC_17020&amp;action=edit&amp;redlink=1" class="new" title="ISO/IEC 17020 (page does not exist)">ISO/IEC 17020</a>: "General criteria for the operation of various types of bodies performing inspection" (2012)</li>
+<li><a href="/w/index.php?title=ISO/IEC_17021&amp;action=edit&amp;redlink=1" class="new" title="ISO/IEC 17021 (page does not exist)">ISO/IEC 17021</a>: "Conformity assessment. Requirements for bodies providing audit and certification of management systems" (2011)</li>
+<li><a href="/wiki/ISO/IEC_17024" title="ISO/IEC 17024">ISO/IEC 17024</a>: "Conformity Assessment. General requirements for bodies operating certification of persons" (2012)</li>
+<li><a href="/wiki/ISO/IEC_17025" title="ISO/IEC 17025">ISO/IEC 17025</a>: "General requirements for the competence of testing and calibration laboratories" (2005)</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Accreditation&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Accreditation_Council_for_Continuing_Medical_Education" title="Accreditation Council for Continuing Medical Education">Accreditation Council for Continuing Medical Education</a></li>
+<li><a href="/wiki/Accreditation_Council_for_Graduate_Medical_Education" title="Accreditation Council for Graduate Medical Education">Accreditation Council for Graduate Medical Education</a></li>
+<li><a href="/wiki/Authentication" title="Authentication">Authentication</a></li>
+<li><a href="/wiki/Certification" title="Certification">Certification</a></li>
+<li><a href="/wiki/Certification_and_Accreditation" title="Certification and Accreditation">Certification and Accreditation</a></li>
+<li><a href="/wiki/Higher_education_accreditation" title="Higher education accreditation">Higher education accreditation</a></li>
+<li><a href="/wiki/Homologation" title="Homologation">Homologation</a></li>
+<li><a href="/wiki/Quality_assurance" title="Quality assurance">Quality assurance</a></li>
+<li><a href="/wiki/Quality_infrastructure" title="Quality infrastructure">Quality infrastructure</a></li>
+<li><a href="/wiki/Standards_organization" title="Standards organization">Standards organization</a></li>
+<li><a href="/wiki/Verification_and_Validation" class="mw-redirect" title="Verification and Validation">Verification and Validation</a></li>
+</ul>
+<dl>
+<dt>International agencies</dt>
+</dl>
+<ul>
+<li><a href="/wiki/International_Certification_Accreditation_Council" title="International Certification Accreditation Council">International Certification Accreditation Council</a></li>
+<li><a href="/wiki/International_Council_on_Educational_Credential_Evaluation" title="International Council on Educational Credential Evaluation">International Council on Educational Credential Evaluation</a></li>
+<li><a href="/wiki/International_Laboratory_Accreditation_Cooperation" title="International Laboratory Accreditation Cooperation">International Laboratory Accreditation Cooperation</a></li>
+</ul>
+<dl>
+<dt>National agencies</dt>
+</dl>
+<ul>
+<li><a href="/wiki/DIACAP" class="mw-redirect" title="DIACAP">Department of Defence Information Assurance Certification and Accreditation Process</a></li>
+<li><a href="/wiki/Deutsches_Institut_f%C3%BCr_Bautechnik" title="Deutsches Institut für Bautechnik">Deutsches Institut für Bautechnik</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Accreditation&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ams.usda.gov/lsg/arc/ARC1012.pdf#search='Accreditation%20of%20certification%20bodies'">USDA ISO Guide 65 Program Accreditation for Certification Bodies</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20070927224854/http://www.ams.usda.gov/lsg/arc/ARC1012.pdf#search='Accreditation%20of%20certification%20bodies'">Archived</a> September 27, 2007, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>., U.S. Department of Agriculture, <a href="/wiki/Agricultural_Marketing_Service" title="Agricultural Marketing Service">Agricultural Marketing Service</a>, August 9, 2007</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">ISO/IEC 17011: "Conformity assessment. General requirements for accreditation bodies accrediting conformity assessment bodies" (2004).</span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Accreditation&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" width="40" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" data-file-width="391" data-file-height="391" /></td>
+<td class="mbox-text plainlist">Look up <i><b><a href="https://en.wiktionary.org/wiki/accreditation" class="extiw" title="wiktionary:accreditation">accreditation</a></b></i> in Wiktionary, the free dictionary.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.iso.org">International Organization for Standardization</a></li>
+</ul>
+<p><b>Americas</b></p>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.ansi.org/about_ansi/accredited_programs/overview.aspx">ANSI Accreditation Programs</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.scc.ca/en/accreditation">Standards Council of Canada (SCC)</a></li>
+</ul>
+<p><b>Europe</b></p>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.european-accreditation.org">European co-operation for Accreditation</a> - a member of <a href="/wiki/International_Laboratory_Accreditation_Cooperation" title="International Laboratory Accreditation Cooperation">International Laboratory Accreditation Cooperation</a></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1273
+Cached time: 20171007074848
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.044 seconds
+Real time usage: 0.066 seconds
+Preprocessor visited node count: 246/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 2483/2097152 bytes
+Template argument size: 209/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 0/500
+Lua time usage: 0.007/10.000 seconds
+Lua memory usage: 722 KB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   42.959      1 -total
+ 70.31%   30.204      1 Template:Reflist
+ 47.89%   20.573      1 Template:Webarchive
+ 29.45%   12.652      1 Template:Wiktionary
+ 24.49%   10.522      1 Template:Sister_project
+ 19.31%    8.295      1 Template:Side_box
+  4.32%    1.856      1 Template:Main_other
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:3024825-0!canonical and timestamp 20171007074848 and revision id 800719192
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Accreditation&amp;oldid=800719192">https://en.wikipedia.org/w/index.php?title=Accreditation&amp;oldid=800719192</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Quality_assurance" title="Category:Quality assurance">Quality assurance</a></li><li><a href="/wiki/Category:Accreditation" title="Category:Accreditation">Accreditation</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Accreditation" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Accreditation" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Accreditation" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Accreditation" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Accreditation">Read</a></span></li>
+							<li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Accreditation&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Accreditation&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Accreditation" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Accreditation" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Accreditation&amp;oldid=800719192" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Accreditation&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q705899" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Accreditation&amp;id=800719192" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Accreditation">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Accreditation&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Accreditation&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Accreditation" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A7%D8%B9%D8%AA%D9%85%D8%A7%D8%AF" title="اعتماد – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Akreditasiya" title="Akreditasiya – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Akreditace" title="Akreditace – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Erm%C3%A4chtigung" title="Ermächtigung – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Akrediteerimine" title="Akrediteerimine – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Acreditaci%C3%B3n" title="Acreditación – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A7%D8%B9%D8%AA%D8%A8%D8%A7%D8%B1%D8%A8%D8%AE%D8%B4%DB%8C" title="اعتباربخشی – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Accr%C3%A9ditation" title="Accréditation – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/Creidi%C3%BAn%C3%BA" title="Creidiúnú – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Akreditacija" title="Akreditacija – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Akreditasi" title="Akreditasi – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Accreditamento" title="Accreditamento – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%90%D0%BA%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D0%B0%D1%86%D0%B8%D1%8F" title="Аккредитация – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/%D0%90%D0%BA%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D0%B0%D1%86%D0%B8%D1%8F%D0%BB%D0%BE%D0%BE" title="Аккредитациялоо – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Akredit%C4%81cija" title="Akreditācija – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%90%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D0%B0%D1%86%D0%B8%D1%98%D0%B0" title="Акредитација – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%85%E0%B4%95%E0%B5%8D%E0%B4%B0%E0%B5%86%E0%B4%A1%E0%B4%BF%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B5%87%E0%B4%B7%E0%B5%BB" title="അക്രെഡിറ്റേഷൻ – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Accreditatie" title="Accreditatie – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Akkreditering" title="Akkreditering – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Akredytacja" title="Akredytacja – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Acredita%C3%A7%C3%A3o" title="Acreditação – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%90%D0%BA%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D0%B0%D1%86%D0%B8%D1%8F" title="Аккредитация – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%90%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D0%B0%D1%86%D0%B8%D1%98%D0%B0" title="Акредитација – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Ackreditering" title="Ackreditering – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%90%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D0%B0%D1%86%D1%96%D1%8F" title="Акредитація – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q705899#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 15 September 2017, at 07:37.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Accreditation&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.044","walltime":"0.066","ppvisitednodes":{"value":246,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":2483,"limit":2097152},"templateargumentsize":{"value":209,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   42.959      1 -total"," 70.31%   30.204      1 Template:Reflist"," 47.89%   20.573      1 Template:Webarchive"," 29.45%   12.652      1 Template:Wiktionary"," 24.49%   10.522      1 Template:Sister_project"," 19.31%    8.295      1 Template:Side_box","  4.32%    1.856      1 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.007","limit":"10.000"},"limitreport-memusage":{"value":739663,"limit":52428800}},"cachereport":{"origin":"mw1273","timestamp":"20171007074848","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":72,"wgHostname":"mw1251"});});</script>
+	</body>
+</html>

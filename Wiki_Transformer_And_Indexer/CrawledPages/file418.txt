@@ -1,0 +1,1448 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Hamm - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Hamm","wgTitle":"Hamm","wgCurRevisionId":796327600,"wgRevisionId":796327600,"wgArticleId":179125,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 German-language sources (de)","Use dmy dates from September 2013","Coordinates on Wikidata","Articles with hAudio microformats","All articles with unsourced statements","Articles with unsourced statements from November 2015","Articles containing German-language text","Wikipedia articles incorporating a citation from EB9","Wikipedia articles with VIAF identifiers","Wikipedia articles with GND identifiers","Cities in North Rhine-Westphalia","Hamm","1226 establishments in Europe","Members of the Hanseatic League"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Hamm","wgRelevantArticleId":179125,"wgRequestId":"Webg@ApAEKgAAEY1ZOYAAAAW","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCoordinates":{"lat":51.683333333333,"lon":7.8166666666667},"wgWikibaseItemId":"Q2880","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.3"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Hamm_Luftbild_Innenstadt_2007.jpg/1200px-Hamm_Luftbild_Innenstadt_2007.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Hamm"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Hamm&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Hamm&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Hamm"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Hamm rootpage-Hamm vector-experimental-print-styles vector-nav-directionality skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Hamm</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For other uses, see <a href="/wiki/Hamm_(disambiguation)" class="mw-disambig" title="Hamm (disambiguation)">Hamm (disambiguation)</a>.</div>
+<table class="infobox geography vcard" style="width:22em;width:23em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap"><span class="fn org"><span class="wrap">Hamm</span></span></th>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Hamm_Luftbild_Innenstadt_2007.jpg" class="image" title="City of Hamm"><img alt="City of Hamm" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Hamm_Luftbild_Innenstadt_2007.jpg/250px-Hamm_Luftbild_Innenstadt_2007.jpg" width="250" height="146" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Hamm_Luftbild_Innenstadt_2007.jpg/375px-Hamm_Luftbild_Innenstadt_2007.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/Hamm_Luftbild_Innenstadt_2007.jpg/500px-Hamm_Luftbild_Innenstadt_2007.jpg 2x" data-file-width="2000" data-file-height="1165" /></a>
+<div>City of Hamm</div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" class="maptable" style="text-align:center">
+<table style="width:100%; background:none;">
+<tr>
+<td style="vertical-align:middle; text-align:center;"><a href="/wiki/File:Flagge_der_Stadt_Hamm.svg" class="image" title="Flag of Hamm "><img alt="Flag of Hamm " src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flagge_der_Stadt_Hamm.svg/100px-Flagge_der_Stadt_Hamm.svg.png" width="100" height="60" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flagge_der_Stadt_Hamm.svg/150px-Flagge_der_Stadt_Hamm.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flagge_der_Stadt_Hamm.svg/200px-Flagge_der_Stadt_Hamm.svg.png 2x" data-file-width="875" data-file-height="525" /></a><br />
+<small>Flag</small></td>
+<td style="vertical-align:middle; text-align:center;"><a href="/wiki/File:DEU_Hamm_COA.svg" class="image" title="Coat of arms of Hamm "><img alt="Coat of arms of Hamm " src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/DEU_Hamm_COA.svg/67px-DEU_Hamm_COA.svg.png" width="67" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/DEU_Hamm_COA.svg/100px-DEU_Hamm_COA.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/DEU_Hamm_COA.svg/133px-DEU_Hamm_COA.svg.png 2x" data-file-width="404" data-file-height="485" /></a><br />
+<small>Coat of arms</small></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center">
+<div class="center">
+<div style="width:170px;float:none;clear:both;margin-left:auto;margin-right:auto">
+<div style="width:170px;padding:0">
+<div style="position:relative;width:170px"><a href="/wiki/File:Germany_adm_location_map.svg" class="image" title="Hamm  is located in Germany"><img alt="Hamm  is located in Germany" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/170px-Germany_adm_location_map.svg.png" width="170" height="202" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/255px-Germany_adm_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/340px-Germany_adm_location_map.svg.png 2x" data-file-width="1073" data-file-height="1272" /></a>
+<div style="position:absolute;top:43.253%;left:23.17%">
+<div style="position:absolute;left:-3px;top:-3px;line-height:0"><img alt="Hamm " src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png" title="Hamm " width="6" height="6" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/9px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div>
+<div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:4px;text-align:left"><span style="padding:1px;float:left"><span class="wrap">Hamm</span></span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr class="mergedbottomrow">
+<td colspan="2" style="text-align:center">Coordinates: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Hamm&amp;params=51_41_N_7_49_E_type:city(179397)_region:DE-NW"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">51°41′N</span> <span class="longitude">7°49′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">51.683°N 7.817°E</span><span style="display:none">﻿ / <span class="geo">51.683; 7.817</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Hamm&amp;params=51_41_N_7_49_E_type:city(179397)_region:DE-NW"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">51°41′N</span> <span class="longitude">7°49′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">51.683°N 7.817°E</span><span style="display:none">﻿ / <span class="geo">51.683; 7.817</span></span></span></a></span></span></span></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Country</th>
+<td><a href="/wiki/Germany" title="Germany">Germany</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/States_of_Germany" title="States of Germany">State</a></th>
+<td><a href="/wiki/North_Rhine-Westphalia" title="North Rhine-Westphalia">North Rhine-Westphalia</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Regierungsbezirk" title="Regierungsbezirk">Admin. region</a></th>
+<td><a href="/wiki/Arnsberg_(region)" title="Arnsberg (region)">Arnsberg</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Districts_of_Germany" title="Districts of Germany">District</a></th>
+<td><a href="/wiki/Urban_districts_of_Germany" class="mw-redirect" title="Urban districts of Germany">Urban District</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Government</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;<a href="/wiki/Lord_Mayor" class="mw-redirect" title="Lord Mayor">Lord Mayor</a></th>
+<td>Thomas Hunsteger-Petermann (<a href="/wiki/Christian_Democratic_Union_(Germany)" class="mw-redirect" title="Christian Democratic Union (Germany)">CDU</a>)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Area</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Total</th>
+<td>226.26&#160;km<sup>2</sup> (87.36&#160;sq&#160;mi)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Elevation</th>
+<td>37.7 - 102&#160;m (−296.9&#160;ft)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Population <span style="font-weight:normal">(2015-12-31)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></span></th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Total</th>
+<td>179,397</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Density</th>
+<td>790/km<sup>2</sup> (2,100/sq&#160;mi)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/Time_zone" title="Time zone">Time zone</a></th>
+<td><a href="/wiki/Central_European_Time" title="Central European Time">CET</a>/<a href="/wiki/Central_European_Summer_Time" title="Central European Summer Time">CEST</a> (UTC+1/+2)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/List_of_postal_codes_in_Germany" title="List of postal codes in Germany">Postal codes</a></th>
+<td class="adr"><span class="postal-code">59000-59077</span></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/List_of_dialling_codes_in_Germany" title="List of dialling codes in Germany">Dialling codes</a></th>
+<td>02381, 02382, 02383, 02384, 02385, 02388, 02389, 02307</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Vehicle_registration_plate" title="Vehicle registration plate">Vehicle registration</a></th>
+<td>HAM</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Website</th>
+<td><a rel="nofollow" class="external text" href="http://www.Hamm.de">www.hamm.de</a></td>
+</tr>
+</table>
+<p><b>Hamm</b> (<small>German pronunciation:</small> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA/Standard_German" title="Help:IPA/Standard German">[ˈham]</a></span><small class="nowrap metadata">&#160;(<span class="unicode haudio"><span class="fn"><span style="white-space:nowrap"><a href="/wiki/File:De-Hamm.ogg" title="About this sound"><img alt="About this sound" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" data-file-width="20" data-file-height="20" /></a>&#160;</span><a href="//upload.wikimedia.org/wikipedia/commons/d/d8/De-Hamm.ogg" class="internal" title="De-Hamm.ogg">listen</a></span></span>)</small>, <a href="/wiki/Latin" title="Latin">Latin</a>: <i>Hammona</i>) is a city in <a href="/wiki/North_Rhine-Westphalia" title="North Rhine-Westphalia">North Rhine-Westphalia</a>, <a href="/wiki/Germany" title="Germany">Germany</a>. It is located in the northeastern part of the <a href="/wiki/Ruhr_area" class="mw-redirect" title="Ruhr area">Ruhr area</a>. As of December 2003 its population was 180,849. The city is situated between the <a href="/wiki/Bundesautobahn_1" title="Bundesautobahn 1">A1 motorway</a> and <a href="/wiki/Bundesautobahn_2" title="Bundesautobahn 2">A2 motorway</a>. <a href="/wiki/Hamm_(Westfalen)_railway_station" class="mw-redirect" title="Hamm (Westfalen) railway station">Hamm railway station</a> is an important hub for rail transport and renowned for its distinctive station building.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Coat_of_arms"><span class="tocnumber">1.1</span> <span class="toctext">Coat of arms</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Overview"><span class="tocnumber">1.2</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Population_development"><span class="tocnumber">1.3</span> <span class="toctext">Population development</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Politics_and_Structure"><span class="tocnumber">2</span> <span class="toctext">Politics and Structure</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#City_council"><span class="tocnumber">2.1</span> <span class="toctext">City council</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Incorporations"><span class="tocnumber">2.2</span> <span class="toctext">Incorporations</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#City_structure"><span class="tocnumber">2.3</span> <span class="toctext">City structure</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#International_relations"><span class="tocnumber">3</span> <span class="toctext">International relations</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Miscellaneous"><span class="tocnumber">3.1</span> <span class="toctext">Miscellaneous</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Health"><span class="tocnumber">4</span> <span class="toctext">Health</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Education"><span class="tocnumber">5</span> <span class="toctext">Education</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Industry_and_economy"><span class="tocnumber">6</span> <span class="toctext">Industry and economy</span></a>
+<ul>
+<li class="toclevel-2 tocsection-14"><a href="#Media"><span class="tocnumber">6.1</span> <span class="toctext">Media</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#Culture"><span class="tocnumber">7</span> <span class="toctext">Culture</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#Transport"><span class="tocnumber">8</span> <span class="toctext">Transport</span></a>
+<ul>
+<li class="toclevel-2 tocsection-17"><a href="#Roads"><span class="tocnumber">8.1</span> <span class="toctext">Roads</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Railways"><span class="tocnumber">8.2</span> <span class="toctext">Railways</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Buses"><span class="tocnumber">8.3</span> <span class="toctext">Buses</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#Canal"><span class="tocnumber">8.4</span> <span class="toctext">Canal</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#Airfield_and_Airports"><span class="tocnumber">8.5</span> <span class="toctext">Airfield and Airports</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-22"><a href="#Notable_citizens"><span class="tocnumber">9</span> <span class="toctext">Notable citizens</span></a></li>
+<li class="toclevel-1 tocsection-23"><a href="#Freemen"><span class="tocnumber">10</span> <span class="toctext">Freemen</span></a></li>
+<li class="toclevel-1 tocsection-24"><a href="#References"><span class="tocnumber">11</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-25"><a href="#External_links"><span class="tocnumber">12</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hamm&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Coat_of_arms">Coat of arms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hamm&amp;action=edit&amp;section=2" title="Edit section: Coat of arms">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The coat of arms has been in use in its present form for about 750 years. It shows the markish chessboard ("märkischen Schachbalken") in red and silver on a golden field. Originally it was the founders' coat of arms, i. e. the Counts of Mark. The chessboard and the colours are often displayed in the coats of arms of further towns founded by that family line. Similarly, the colours of the city are red and white.</p>
+<h3><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hamm&amp;action=edit&amp;section=3" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The name <i>Ham</i> means "corner" in the old <a href="/wiki/Low_German" title="Low German">Low German</a> dialect spoken at that time. In the old times the name <i>thom Hamme</i> would be used, which evolved slowly into its modern form <i>Hamm</i>. The name derives from the description of the Hamm's location in the corner of the Lippe river and the narrow Ahse affluent, where it was founded on Ash Wednesday in March 1226 by Count Adolf I of the <a href="/wiki/Mark_(county)" class="mw-redirect" title="Mark (county)">Mark</a>.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a href="/wiki/File:Pauluskirche_Hamm.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/db/Pauluskirche_Hamm.jpg/250px-Pauluskirche_Hamm.jpg" width="250" height="375" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/db/Pauluskirche_Hamm.jpg/375px-Pauluskirche_Hamm.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/d/db/Pauluskirche_Hamm.jpg 2x" data-file-width="500" data-file-height="750" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Pauluskirche_Hamm.jpg" class="internal" title="Enlarge"></a></div>
+Pauluskirche former St.Georg, main church of Hamm</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a href="/wiki/File:Gruendungsprivileg_Hamm.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Gruendungsprivileg_Hamm.jpg/250px-Gruendungsprivileg_Hamm.jpg" width="250" height="178" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Gruendungsprivileg_Hamm.jpg/375px-Gruendungsprivileg_Hamm.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Gruendungsprivileg_Hamm.jpg/500px-Gruendungsprivileg_Hamm.jpg 2x" data-file-width="2381" data-file-height="1691" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Gruendungsprivileg_Hamm.jpg" class="internal" title="Enlarge"></a></div>
+"Gründungsprivileg" Town rights of Hamm</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a href="/wiki/File:Hamm_station_hall.jpeg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Hamm_station_hall.jpeg/250px-Hamm_station_hall.jpeg" width="250" height="334" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Hamm_station_hall.jpeg/375px-Hamm_station_hall.jpeg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Hamm_station_hall.jpeg/500px-Hamm_station_hall.jpeg 2x" data-file-width="1712" data-file-height="2288" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Hamm_station_hall.jpeg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Hamm_(Westfalen)_railway_station" class="mw-redirect" title="Hamm (Westfalen) railway station">Hamm railway station hall</a></div>
+</div>
+</div>
+<ul>
+<li>1350 The <a href="/wiki/Black_death" class="mw-redirect" title="Black death">Black death</a> killed nearly all of the citizens. Only seven families survived.</li>
+<li>1469 Hamm became a member of the <a href="/wiki/Hanseatic_League" title="Hanseatic League">Hanseatic League</a>. It was one of the most powerful towns in the region, while the large cities of the today's Ruhr area still were only tiny villages.</li>
+<li>1614 The Treaty of Xanten ends the conflict about the heritage of Cleve-Mark, the <a href="/wiki/Prince-elector" title="Prince-elector">Electorate</a> Brandenburg (later <a href="/wiki/Prussia" title="Prussia">Prussia</a>) inherited the Ducal Cleve and the counties Ravensburg and Mark (with Hamm)</li>
+<li>1618-1648 <a href="/wiki/Thirty_Years%27_War" title="Thirty Years' War">Thirty Years' War</a>, Hamm was taken several times by different armed forces and had to endure changing garrisons. Almost all buildings were destroyed, except for the main church St. Georg (today: Pauluskirche) and St. Agnes church.</li>
+<li>1657 Establishment of the Gynasium illustre (later named Gymnasium Hammonense) with three faculties (<a href="/wiki/Theology" title="Theology">theology</a>, <a href="/wiki/Jurisprudence" title="Jurisprudence">jurisprudence</a> and <a href="/wiki/Philosophy" title="Philosophy">philosophy</a>).</li>
+<li>1753 Establishment of the regional court (Landgericht)</li>
+<li>1767 "Märkische Kammerdeputation" established</li>
+<li>1769 Brewery Isenbeck founded</li>
+<li>1787 Changing of the "Märkische Kammerdeputation" into the "Märkische Kriegs- und Domänenkammer" by the Prussian "Generaldirektorium".</li>
+<li>1818 Hamm has 4,688 inhabitants.</li>
+<li>1820 The regional appeal court moves from Cleve to Hamm.</li>
+<li>1847 First train stops at the main station Hamm</li>
+<li>1853 Westfälische Union (later Thyssen Draht AG) was founded</li>
+<li>1856 Westfälische Draht Industrie was founded (later Klöckner Draht GmbH, today Westfälische Draht Industrie (WDI))</li>
+<li>1901 30,000 inhabitants, the district Hamm is split up into the urban district of Hamm (City) and the district of Unna.</li>
+<li>1901 Coal-mine de Wendel in Herringen starts mining (later Heinrich-Robert, now Bergwerk Ost) (first coal output 1904)</li>
+<li>1902 Coal-mine Maximilian in Werries/Ostwennemar starts mining (first coal output 1907)</li>
+<li>1905 Coal-mine Radbod in Bockum-Hövel starts mining (first coal output 1905)</li>
+<li>1912 Coal-mine Sachsen in Heessen starts mining (first coal output 1914)</li>
+<li>1914 Datteln-Hamm-Canal is completed including the new city port</li>
+<li>1938 The A2 (motorway) reaches Hamm</li>
+<li>1939-1945 55 air raids destroy nearly 60% of the old city and leave only a few historical buildings.</li>
+<li>1944 Coal-mine Maximillian closes after several problems with water drainage of the hole mine (completely flooded in 1914).</li>
+<li>1945 First meeting of the city council after the war</li>
+<li>1946 Establishment of the industrial court and the industrial court of appeal by the Allied Control Council.</li>
+<li>1953 Windsor Boys' School opens for the children on British Service personnel</li>
+<li>1956 Sport airfield founded in the Lippe meadows.</li>
+<li>1965 A1 (motorway) reaches Hamm.</li>
+<li>1976 Coal-mine Sachsen closes</li>
+<li>1983 Windsor Boys' School closes</li>
+</ul>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a href="/wiki/File:Hamm_Sri_Kamadchi_Ampal-Tempel.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Hamm_Sri_Kamadchi_Ampal-Tempel.jpg/250px-Hamm_Sri_Kamadchi_Ampal-Tempel.jpg" width="250" height="187" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Hamm_Sri_Kamadchi_Ampal-Tempel.jpg/375px-Hamm_Sri_Kamadchi_Ampal-Tempel.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Hamm_Sri_Kamadchi_Ampal-Tempel.jpg/500px-Hamm_Sri_Kamadchi_Ampal-Tempel.jpg 2x" data-file-width="2580" data-file-height="1932" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Hamm_Sri_Kamadchi_Ampal-Tempel.jpg" class="internal" title="Enlarge"></a></div>
+Sri Kamadchi Ampal Temple Hamm</div>
+</div>
+</div>
+<ul>
+<li>1984 First <i>Landesgartenschau</i> (horticultural show of the federal state) of North Rhine-Westphalia is held in Hamm. The old area of the coal-mine Maximillian was used for this purpose. The world greatest Glasselefant is built as main attraction and until today is one of the major landmarks of the city.</li>
+<li>1990 Coal-mine Radbod closes.</li>
+<li>2002 Consecration of the Sri Kamadchi Ampal-Temple</li>
+<li>2005 Establishment of the university of applied sciences "SRH Fachhochschule Hamm"</li>
+</ul>
+<h3><span class="mw-headline" id="Population_development">Population development</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hamm&amp;action=edit&amp;section=4" title="Edit section: Population development">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (November 2015)">citation needed</span></a></i>]</sup></p>
+<p>Until 1833 any population is an approximation, in later times the population was counted or updated by the local government or other institutions of the government.</p>
+<table>
+<tr>
+<td valign="top">
+<table class="wikitable">
+<tr>
+<th style="background:#efefef;">year</th>
+<th style="background:#efefef;">population</th>
+</tr>
+<tr>
+<td>1618</td>
+<td align="right">1,000</td>
+</tr>
+<tr>
+<td>1719</td>
+<td align="right">3,250</td>
+</tr>
+<tr>
+<td>1798</td>
+<td align="right">3,065</td>
+</tr>
+<tr>
+<td>1818</td>
+<td align="right">4,680</td>
+</tr>
+<tr>
+<td>1832</td>
+<td align="right">6,272</td>
+</tr>
+<tr>
+<td>3 December 1861 ¹</td>
+<td align="right">11,600</td>
+</tr>
+<tr>
+<td>3 December 1867 ¹</td>
+<td align="right">16,000</td>
+</tr>
+<tr>
+<td>1 December 1871 ¹</td>
+<td align="right">16,924</td>
+</tr>
+<tr>
+<td>1 December 1875 ¹</td>
+<td align="right">18,877</td>
+</tr>
+<tr>
+<td>1 December 1880 ¹</td>
+<td align="right">20,800</td>
+</tr>
+<tr>
+<td>1 December 1885 ¹</td>
+<td align="right">22,523</td>
+</tr>
+<tr>
+<td>1 December 1890 ¹</td>
+<td align="right">24,969</td>
+</tr>
+<tr>
+<td>2 December 1895 ¹</td>
+<td align="right">28,589</td>
+</tr>
+</table>
+</td>
+<td valign="top">
+<table class="wikitable">
+<tr>
+<th style="background:#efefef;">year</th>
+<th style="background:#efefef;">population</th>
+</tr>
+<tr>
+<td>1 December 1900 ¹</td>
+<td align="right">31,371</td>
+</tr>
+<tr>
+<td>1 December 1905 ¹</td>
+<td align="right">38,429</td>
+</tr>
+<tr>
+<td>1 December 1910 ¹</td>
+<td align="right">43,663</td>
+</tr>
+<tr>
+<td>1 December 1916 ¹</td>
+<td align="right">40,776</td>
+</tr>
+<tr>
+<td>5 December 1917 ¹</td>
+<td align="right">40,516</td>
+</tr>
+<tr>
+<td>8 October 1919 ¹</td>
+<td align="right">45,756</td>
+</tr>
+<tr>
+<td>16 June 1925 ¹</td>
+<td align="right">49,777</td>
+</tr>
+<tr>
+<td>16 June 1933 ¹</td>
+<td align="right">53,532</td>
+</tr>
+<tr>
+<td>17 May 1939 ¹</td>
+<td align="right">59,035</td>
+</tr>
+<tr>
+<td>31 December 1945</td>
+<td align="right">50,971</td>
+</tr>
+<tr>
+<td>29 October 1946 ¹</td>
+<td align="right">49,751</td>
+</tr>
+<tr>
+<td>13 September 1950 ¹</td>
+<td align="right">59,866</td>
+</tr>
+<tr>
+<td>25 September 1956 ¹</td>
+<td align="right">66,327</td>
+</tr>
+</table>
+</td>
+<td valign="top">
+<table class="wikitable">
+<tr>
+<th style="background:#efefef;">year</th>
+<th style="background:#efefef;">population</th>
+</tr>
+<tr>
+<td>6 June 1961 ¹</td>
+<td align="right">70,641</td>
+</tr>
+<tr>
+<td>31 December 1965</td>
+<td align="right">73,520</td>
+</tr>
+<tr>
+<td>27 May 1970 ¹</td>
+<td align="right">84,942</td>
+</tr>
+<tr>
+<td>31 December 1975</td>
+<td align="right">172,210</td>
+</tr>
+<tr>
+<td>31 December 1980</td>
+<td align="right">171,869</td>
+</tr>
+<tr>
+<td>31 December 1985</td>
+<td align="right">166,379</td>
+</tr>
+<tr>
+<td>25 May 1987 ¹</td>
+<td align="right">171,170</td>
+</tr>
+<tr>
+<td>31 December 1990</td>
+<td align="right">179,639</td>
+</tr>
+<tr>
+<td>31 December 1995</td>
+<td align="right">183,408</td>
+</tr>
+<tr>
+<td>31 December 2000</td>
+<td align="right">181,197</td>
+</tr>
+<tr>
+<td>31 December 2005</td>
+<td align="right">180,849</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p>¹ "Volkszählungsergebnis" counted population</p>
+<table class="infobox" style="float:center;">
+<tr>
+<td style="text-align:center;" colspan="2"><b>Significant minority groups</b></td>
+</tr>
+<tr>
+<th>Nationality</th>
+<th>Population (2017)</th>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/23px-Flag_of_Turkey.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/35px-Flag_of_Turkey.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/45px-Flag_of_Turkey.svg.png 2x" data-file-width="1200" data-file-height="800" />&#160;</span><a href="/wiki/Turkey" title="Turkey">Turkey</a></td>
+<td>14,982</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/35px-Flag_of_Poland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/46px-Flag_of_Poland.svg.png 2x" data-file-width="1280" data-file-height="800" />&#160;</span><a href="/wiki/Poland" title="Poland">Poland</a></td>
+<td>7,125</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_SFR_Yugoslavia.svg/23px-Flag_of_SFR_Yugoslavia.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_SFR_Yugoslavia.svg/35px-Flag_of_SFR_Yugoslavia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_SFR_Yugoslavia.svg/46px-Flag_of_SFR_Yugoslavia.svg.png 2x" data-file-width="600" data-file-height="300" />&#160;</span><a href="/wiki/Socialist_Federal_Republic_of_Yugoslavia" title="Socialist Federal Republic of Yugoslavia">Yugoslavia</a></td>
+<td>4,227</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/23px-Flag_of_Bulgaria.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/35px-Flag_of_Bulgaria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/46px-Flag_of_Bulgaria.svg.png 2x" data-file-width="1000" data-file-height="600" />&#160;</span><a href="/wiki/Bulgaria" title="Bulgaria">Bulgaria</a></td>
+<td>2,374</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/23px-Flag_of_the_Soviet_Union.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/35px-Flag_of_the_Soviet_Union.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/46px-Flag_of_the_Soviet_Union.svg.png 2x" data-file-width="512" data-file-height="256" />&#160;</span><a href="/wiki/Soviet_Union" title="Soviet Union">Soviet Union</a></td>
+<td>2,129</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/23px-Flag_of_Morocco.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/35px-Flag_of_Morocco.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/45px-Flag_of_Morocco.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Morocco" title="Morocco">Morocco</a></td>
+<td>1,316</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/23px-Flag_of_Romania.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/35px-Flag_of_Romania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/45px-Flag_of_Romania.svg.png 2x" data-file-width="600" data-file-height="400" />&#160;</span><a href="/wiki/Romania" title="Romania">Romania</a></td>
+<td>1,122</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/23px-Flag_of_Syria.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/35px-Flag_of_Syria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/45px-Flag_of_Syria.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Syria" title="Syria">Syria</a></td>
+<td>631</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/wiki/Italy" title="Italy">Italy</a></td>
+<td>612</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Politics_and_Structure">Politics and Structure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hamm&amp;action=edit&amp;section=5" title="Edit section: Politics and Structure">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="City_council">City council</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hamm&amp;action=edit&amp;section=6" title="Edit section: City council">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The city council has 58 members</p>
+<ul>
+<li>Pirate Party Germany: 1 seat</li>
+<li>Alliance 90/The Greens: 4 seats</li>
+<li>SPD: 20 seats</li>
+<li>Free voters: 2 seats</li>
+<li>FDP: 2 seats</li>
+<li>CDU: 25 seats</li>
+<li>RECHTE (The right): 1 seat</li>
+<li>THE LEFT: 3 seats</li>
+</ul>
+<p>Head of the city Council is the "<a href="/wiki/Oberb%C3%BCrgermeister" class="mw-redirect" title="Oberbürgermeister">Oberbürgermeister</a>" (<a href="/wiki/Lord_mayor" title="Lord mayor">Lord mayor</a>) the chief executive (since 1999) of the administration. The "Oberbürgermeister" is elected directly for a five years term, together with the city council. The "Oberstadtdirektor" was the non-elected chief executive before the reform of the Northrhine-Westphalian local administration in 1999, the "Oberbürgermeister" in the period before 1999 was only the elected representative of a larger town or city.</p>
+<h3><span class="mw-headline" id="Incorporations">Incorporations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hamm&amp;action=edit&amp;section=7" title="Edit section: Incorporations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 1939, 1968 and 1975 Hamm incorporated several towns and municipalities: in 1939 the village Mark (which the Counts and the county took the name of) and in 1968 the villages of Berge and Westtünnen. In the reorganisation of 1975, the following towns and municipalities were incorporated into the City of Hamm:<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (November 2015)">citation needed</span></a></i>]</sup></p>
+<ol>
+<li>The town of <b>Bockum-Hövel</b>, Lüdinghausen district</li>
+<li>The town of <b>Heessen</b>, Beckum district</li>
+<li>The municipality of <b>Uentrop</b>, Unna district, formed in 1968, including the municipalities of Braam-Ostwennemar, Frielinghausen, Haaren, Norddinker, Schmehausen, Uentrop, Vöckinghausen and Werries</li>
+<li>The municipality of <b><a href="/wiki/Rhynern" title="Rhynern">Rhynern</a></b>, (Unna district, without Hilbeck incorporated by Werl), formed in 1968, including the municipalities of Allen, Freiske, Hilbeck, Osterflierich, Osttünnen, Rhynern, Süddinker and Wambeln</li>
+<li>The municipality of <b>Pelkum</b>, (Unna district), formed in 1968, including the municipalities of Herringen, Lerche, Pelkum, Sandbochum, Weetfeld and parts of Wiescherhöfen.</li>
+</ol>
+<p>The number of citizens more than doubles from 83.000 in 1974 to 173.000 in 1975.</p>
+<h3><span class="mw-headline" id="City_structure">City structure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hamm&amp;action=edit&amp;section=8" title="Edit section: City structure">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table border="0" align="right" width="400px">
+<tr>
+<td width="25%" align="right" valign="bottom"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/DEU_Ascheberg_COA.svg/20px-DEU_Ascheberg_COA.svg.png" width="20" height="23" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/DEU_Ascheberg_COA.svg/30px-DEU_Ascheberg_COA.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/74/DEU_Ascheberg_COA.svg/40px-DEU_Ascheberg_COA.svg.png 2x" data-file-width="453" data-file-height="530" /><br />
+<a href="/wiki/Ascheberg" title="Ascheberg">Ascheberg</a><sup>1</sup></td>
+<td width="10%" align="center" valign="bottom"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/DE_Drensteinfurt_COA.svg/20px-DE_Drensteinfurt_COA.svg.png" width="20" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/DE_Drensteinfurt_COA.svg/30px-DE_Drensteinfurt_COA.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bb/DE_Drensteinfurt_COA.svg/40px-DE_Drensteinfurt_COA.svg.png 2x" data-file-width="392" data-file-height="492" /><br />
+<a href="/wiki/Drensteinfurt" title="Drensteinfurt">Drensteinfurt</a><sup>2</sup></td>
+<td width="15%" align="left" valign="bottom"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/DEU_Ahlen_COA.svg/20px-DEU_Ahlen_COA.svg.png" width="20" height="35" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/DEU_Ahlen_COA.svg/30px-DEU_Ahlen_COA.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/80/DEU_Ahlen_COA.svg/40px-DEU_Ahlen_COA.svg.png 2x" data-file-width="512" data-file-height="896" /><br />
+<a href="/wiki/Ahlen" title="Ahlen">Ahlen</a><sup>2</sup></td>
+<td width="25%" align="left" valign="bottom"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/DEU_Lippetal_COA.svg/20px-DEU_Lippetal_COA.svg.png" width="20" height="24" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/DEU_Lippetal_COA.svg/30px-DEU_Lippetal_COA.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/DEU_Lippetal_COA.svg/40px-DEU_Lippetal_COA.svg.png 2x" data-file-width="452" data-file-height="542" /><br />
+<a href="/wiki/Lippetal" title="Lippetal">Lippetal</a><sup>3</sup></td>
+</tr>
+<tr>
+<td width="25%" align="right"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Wappen_Werne.svg/20px-Wappen_Werne.svg.png" width="20" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Wappen_Werne.svg/30px-Wappen_Werne.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Wappen_Werne.svg/40px-Wappen_Werne.svg.png 2x" data-file-width="675" data-file-height="705" /><br />
+<a href="/wiki/Werne" title="Werne">Werne</a><sup>4</sup></td>
+<td width="50%" align="center" colspan="2">
+<div class="center">
+<div class="floatnone"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Wappenkarte_der_Stadt_Hamm.png/250px-Wappenkarte_der_Stadt_Hamm.png" width="250" height="227" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Wappenkarte_der_Stadt_Hamm.png/375px-Wappenkarte_der_Stadt_Hamm.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Wappenkarte_der_Stadt_Hamm.png/500px-Wappenkarte_der_Stadt_Hamm.png 2x" data-file-width="1962" data-file-height="1783" /></div>
+</div>
+Hamm<small><br />
+(Map of Hamm's <a href="/wiki/Stadtbezirk" title="Stadtbezirk">quarters</a>)</small></td>
+<td width="25%" align="left"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/DE_Welver_COA.svg/20px-DE_Welver_COA.svg.png" width="20" height="24" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/DE_Welver_COA.svg/30px-DE_Welver_COA.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7b/DE_Welver_COA.svg/40px-DE_Welver_COA.svg.png 2x" data-file-width="444" data-file-height="540" /><br />
+<a href="/wiki/Welver" title="Welver">Welver</a><sup>3</sup></td>
+</tr>
+<tr>
+<td width="25%" align="right" valign="top"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/DEU_Bergkamen_COA.svg/20px-DEU_Bergkamen_COA.svg.png" width="20" height="23" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/DEU_Bergkamen_COA.svg/30px-DEU_Bergkamen_COA.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/16/DEU_Bergkamen_COA.svg/40px-DEU_Bergkamen_COA.svg.png 2x" data-file-width="540" data-file-height="626" /><br />
+<a href="/wiki/Bergkamen" title="Bergkamen">Bergkamen</a><sup>4</sup></td>
+<td width="25%" align="right" valign="top"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/DEU_Kamen_COA.svg/20px-DEU_Kamen_COA.svg.png" width="20" height="24" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/DEU_Kamen_COA.svg/30px-DEU_Kamen_COA.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/16/DEU_Kamen_COA.svg/40px-DEU_Kamen_COA.svg.png 2x" data-file-width="404" data-file-height="485" /><br />
+<a href="/wiki/Kamen" title="Kamen">Kamen</a><sup>4</sup></td>
+<td width="25%" align="center" valign="top"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/DEU_Boenen_COA.svg/20px-DEU_Boenen_COA.svg.png" width="20" height="24" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/DEU_Boenen_COA.svg/30px-DEU_Boenen_COA.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f2/DEU_Boenen_COA.svg/40px-DEU_Boenen_COA.svg.png 2x" data-file-width="452" data-file-height="542" /><br />
+<a href="/wiki/B%C3%B6nen" title="Bönen">Bönen</a><sup>4</sup></td>
+<td width="25%" align="left" valign="top"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/DEU_Unna_COA.svg/20px-DEU_Unna_COA.svg.png" width="20" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/DEU_Unna_COA.svg/30px-DEU_Unna_COA.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/43/DEU_Unna_COA.svg/40px-DEU_Unna_COA.svg.png 2x" data-file-width="414" data-file-height="529" /><br />
+<a href="/wiki/Unna" title="Unna">Unna</a><sup>4</sup></td>
+</tr>
+<tr>
+<td width="100%" align="right" colspan="4"><small>1 <a href="/wiki/Coesfeld_(district)" title="Coesfeld (district)">District Coesfeld</a><br />
+2 <a href="/wiki/Warendorf_(district)" title="Warendorf (district)">District Warendorf</a><br />
+3 <a href="/wiki/Soest_(district)" title="Soest (district)">District Soest</a><br />
+4 <a href="/wiki/Unna_(district)" title="Unna (district)">District Unna</a></small></td>
+</tr>
+</table>
+<p>Hamm has seven quarters (<i><span lang="de" xml:lang="de"><a href="/wiki/Stadtbezirk" title="Stadtbezirk">Stadtbezirk</a></span></i>), each divided into residential areas like City, which actually means the center of the city around the Pauluschurch or like Hövel-Radbod near the former entrance to the coalmine Radbod in the quarter Bockum-Hövel. The following table shows the situation in 2006. Every quarter is named with the prefix Hamm, like Hamm-Bockum-Hövel or Hamm-Mitte.</p>
+<table class="sortable wikitable">
+<tr>
+<th scope="col" rowspan="2">Quarter /<br />
+<i><span lang="de" xml:lang="de"><a href="/wiki/Stadtbezirk" title="Stadtbezirk">Stadtbezirk</a></span></i></th>
+<th scope="col" rowspan="2"><a href="/wiki/Population" title="Population">Pop.</a></th>
+<th scope="col" colspan="2"><a href="/wiki/Population_density" title="Population density">Pop. density</a></th>
+<th scope="col" colspan="2">Area</th>
+</tr>
+<tr>
+<th scope="col">/km<sup>2</sup></th>
+<th scope="col">/sq mi</th>
+<th scope="col">km<sup>2</sup></th>
+<th scope="col">sq mi</th>
+</tr>
+<tr style="text-align: right;">
+<th scope="row">Bockum-Hövel</th>
+<td>35,468</td>
+<td style="text-align:right;" data-sort-value="6997108600000000000">1,086</td>
+<td style="text-align:right;" data-sort-value="6997108600000000000">2,810</td>
+<td style="text-align:right;">32.66</td>
+<td style="text-align:right;">12.61</td>
+</tr>
+<tr style="text-align: right;">
+<th scope="row">Heessen</th>
+<td>23,639</td>
+<td style="text-align:right;" data-sort-value="6996808999999999999">809</td>
+<td style="text-align:right;" data-sort-value="6996808999999999999">2,100</td>
+<td style="text-align:right;">29.23</td>
+<td style="text-align:right;">11.29</td>
+</tr>
+<tr style="text-align: right;">
+<th scope="row">Herringen</th>
+<td>21,077</td>
+<td style="text-align:right;" data-sort-value="6997108800000000000">1,088</td>
+<td style="text-align:right;" data-sort-value="6997108800000000000">2,820</td>
+<td style="text-align:right;">19.38</td>
+<td style="text-align:right;">7.48</td>
+</tr>
+<tr style="text-align: right;">
+<th scope="row">Mitte</th>
+<td>34,407</td>
+<td style="text-align:right;" data-sort-value="6997315399999999999">3,154</td>
+<td style="text-align:right;" data-sort-value="6997315399999999999">8,170</td>
+<td style="text-align:right;">10.91</td>
+<td style="text-align:right;">4.21</td>
+</tr>
+<tr style="text-align: right;">
+<th scope="row">Pelkum</th>
+<td>18,974</td>
+<td style="text-align:right;" data-sort-value="6996628000000000000">628</td>
+<td style="text-align:right;" data-sort-value="6996628000000000000">1,630</td>
+<td style="text-align:right;">30.21</td>
+<td style="text-align:right;">11.66</td>
+</tr>
+<tr style="text-align: right;">
+<th scope="row">Rhynern</th>
+<td>18,648</td>
+<td style="text-align:right;" data-sort-value="6996314999999999999">315</td>
+<td style="text-align:right;" data-sort-value="6996314999999999999">820</td>
+<td style="text-align:right;">59.23</td>
+<td style="text-align:right;">22.87</td>
+</tr>
+<tr style="text-align: right;">
+<th scope="row">Uentrop</th>
+<td>28,122</td>
+<td style="text-align:right;" data-sort-value="6996629999999999999">630</td>
+<td style="text-align:right;" data-sort-value="6996629999999999999">1,600</td>
+<td style="text-align:right;">44.62</td>
+<td style="text-align:right;">17.23</td>
+</tr>
+<tr style="text-align: right; background-color: #f2f2f2; font-weight: bold;" class="sortbottom">
+<th scope="row">Total</th>
+<td>180.355</td>
+<td style="text-align:right;">797</td>
+<td style="text-align:right;">2,060</td>
+<td style="text-align:right;">226.25</td>
+<td style="text-align:right;">87.36</td>
+</tr>
+</table>
+<p>The former town Bockum-Hövel today forms the quarter with the largest number of inhabitants, closely followed by the centre of the city <i>Hamm-Mitte</i>. The latter is the smallest quarter by metric size.</p>
+<h2><span class="mw-headline" id="International_relations">International relations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hamm&amp;action=edit&amp;section=9" title="Edit section: International relations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/List_of_twin_towns_and_sister_cities_in_Germany" title="List of twin towns and sister cities in Germany">List of twin towns and sister cities in Germany</a></div>
+<p>Hamm is currently <a href="/wiki/Town_twinning" class="mw-redirect" title="Town twinning">twinned</a> with:</p>
+<ul>
+<li><span class="flagicon"><a href="/wiki/Vosges_(department)" title="Vosges (department)"><img alt="Vosges (department)" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Vosges.svg/23px-Vosges.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Vosges.svg/35px-Vosges.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Vosges.svg/45px-Vosges.svg.png 2x" data-file-width="744" data-file-height="495" /></a></span> <span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Neufch%C3%A2teau,_Vosges" title="Neufchâteau, Vosges">Neufchâteau</a>, Vosges, <a href="/wiki/Grand_Est" title="Grand Est">Grand Est</a>, France, since 1967 (originally with the municipality Herringen).</li>
+<li><span class="flagicon"><a href="/wiki/California" title="California"><img alt="California" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/23px-Flag_of_California.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/35px-Flag_of_California.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/45px-Flag_of_California.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/Santa_Monica,_California" title="Santa Monica, California">Santa Monica</a>, CA, United States, since 1969.</li>
+<li><span class="flagicon"><a href="/wiki/England" title="England"><img alt="England" src="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/35px-Flag_of_England.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/46px-Flag_of_England.svg.png 2x" data-file-width="800" data-file-height="480" /></a></span> <a href="/wiki/Shipley,_West_Yorkshire" title="Shipley, West Yorkshire">Shipley</a>, <a href="/wiki/City_of_Bradford" title="City of Bradford">Bradford</a>, <a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a>, England, <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>, since 1976.</li>
+<li><span class="flagicon"><a href="/wiki/Tennessee" title="Tennessee"><img alt="Tennessee" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Tennessee.svg/23px-Flag_of_Tennessee.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Tennessee.svg/35px-Flag_of_Tennessee.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Tennessee.svg/46px-Flag_of_Tennessee.svg.png 2x" data-file-width="500" data-file-height="300" /></a></span> <span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/Chattanooga,_Tennessee" title="Chattanooga, Tennessee">Chattanooga</a>, TN, United States, since 1977.</li>
+<li><span class="flagicon"><a href="/wiki/Mexico" title="Mexico"><img alt="Mexico" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png" width="23" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/35px-Flag_of_Mexico.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/46px-Flag_of_Mexico.svg.png 2x" data-file-width="840" data-file-height="480" /></a></span> <a href="/wiki/Mazatl%C3%A1n" title="Mazatlán">Mazatlán</a>, <a href="/wiki/Sinaloa" title="Sinaloa">Sinaloa</a>, Mexico, since 1978.</li>
+<li><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Toul" title="Toul">Toul</a>, <a href="/wiki/Meurthe-et-Moselle" title="Meurthe-et-Moselle">Meurthe-et-Moselle</a>, Grand Est, France, since 1987.</li>
+<li><span class="flagicon"><a href="/wiki/Brandenburg" title="Brandenburg"><img alt="Brandenburg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Brandenburg.svg/23px-Flag_of_Brandenburg.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Brandenburg.svg/35px-Flag_of_Brandenburg.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Brandenburg.svg/46px-Flag_of_Brandenburg.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Oranienburg" title="Oranienburg">Oranienburg</a>, Brandenburg, Germany, since 1990.</li>
+<li><span class="flagicon"><a href="/wiki/Poland" title="Poland"><img alt="Poland" src="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/35px-Flag_of_Poland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/46px-Flag_of_Poland.svg.png 2x" data-file-width="1280" data-file-height="800" /></a></span> <a href="/wiki/Kalisz" title="Kalisz">Kalisz</a>, <a href="/wiki/Greater_Poland_Voivodeship" title="Greater Poland Voivodeship">Greater Poland Voivodeship</a>, Poland, since 1991.<sup id="cite_ref-KaliszTwinning_2-0" class="reference"><a href="#cite_note-KaliszTwinning-2">[2]</a></sup></li>
+<li><span class="flagicon"><a href="/wiki/Turkey" title="Turkey"><img alt="Turkey" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/23px-Flag_of_Turkey.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/35px-Flag_of_Turkey.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/45px-Flag_of_Turkey.svg.png 2x" data-file-width="1200" data-file-height="800" /></a></span> <a href="/wiki/Afyonkarahisar" title="Afyonkarahisar">Afyonkarahisar</a>, Turkey, since 2006.</li>
+</ul>
+<h3><span class="mw-headline" id="Miscellaneous">Miscellaneous</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hamm&amp;action=edit&amp;section=10" title="Edit section: Miscellaneous">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 2006 Hamm was the first city to accomplish a "Ratsbürgerentscheid" (citizens decision). Subject of the plebiscite was a plan to build a 43 ha city lake (2007–2010) near the city centre. 136,521 citizens were entitled to vote, 57,563 used that possibility and 56.9% refused their approbation for the project. As minimal vote 20% (of the total 136,521 voters) had to decide between one of the possibilities (20% for Yes or 20% for NO). The city council accepted the voting and stopped the plans. This procedure is planned for future projects in NRW. Also in Hamm established was the "Baugerichtstag e. V." a society organizing a congress about the German building law. The congress is held in a two years term.</p>
+<h2><span class="mw-headline" id="Health">Health</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hamm&amp;action=edit&amp;section=11" title="Edit section: Health">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The largest health facility is the Marien Hospital with its two separate buildings, Marien Hospital I the old building within the centre of the city and Marien Hospital II together 587 beds. Then there is the (EVK Hamm) Evangelisches Krankenhaus Hamm (Protestant Hospital) combined with the children's hospital south of the centre together 493 beds, the St. Barbara Klinik (Clinic) in Heessen with 422 beds and the Malteser Krankenhaus (Hospital) St. Josef in Bockum-Hövel with 260 beds. Additional there are the Klinik für manuelle Therapie (Clinic for manual therapy) within the quarter Bad Hamm (138 beds), the cure district. The Westfälisches Institut Hamm für Kinder- und Jugendpsychiatrie und psychotherapie (Westphalian Institute Hamm for Children's- and Youth psychiatry and psychotherapy) as an Institute of the federal state (158 beds) and the private Klinik (clinic) am Bärenbrunnen. (All <a href="/wiki/Hospital" title="Hospital">Hospitals</a> together have 2058 beds.) Former Hospitals are:</p>
+<ul>
+<li>The BWK <a href="/wiki/Bundeswehr" title="Bundeswehr">Bundeswehrkrankenhaus</a> Hamm (Hospital of the Federal Defence Forces) closed in 2007 after a reform of the German forces</li>
+<li>Knappschaftskrankenhaus (Hospital operated by the health fund for miners (<a href="/w/index.php?title=Bundesknappschaft&amp;action=edit&amp;redlink=1" class="new" title="Bundesknappschaft (page does not exist)">Bundesknappschaft</a>) now Marien Hospital II)</li>
+<li>Märkische Kinderklinik (Children's Hospital combined with the Elisabeth Kinderklinik and now part of the EVK Hamm as "Klinik für Kinder- und Jugendmedizin")</li>
+<li>The St. Elisabeth Kinderklinik (Children's Hospital combined with the Märkische Kinderklinik and now part of the EVK Hamm as "Klinik für Kinder- und Jugendmedizin")</li>
+</ul>
+<h2><span class="mw-headline" id="Education">Education</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hamm&amp;action=edit&amp;section=12" title="Edit section: Education">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Hamm has six <a href="/wiki/Gymnasium_(school)" title="Gymnasium (school)">Gymnasien</a> (grammar schools), two comprehensive schools and several <a href="/wiki/Realschule" title="Realschule">Realschulen</a>, <a href="/wiki/Hauptschule" title="Hauptschule">Hauptschulen</a> and Grundschulen (<a href="/wiki/Elementary_school" title="Elementary school">elementary schools</a>). The oldest Gymnasium in Hamm is the Gymnasium Hammonense which was established as academic school (small university) with three faculties in 1657. The school declined in its importance and in 1781 merged with the local Latin school and got reformed by Prussia. The new combined school was humanist Gymnasium. In 1867 the "Märkisches Gymnasium" followed as the second Gymnasium of Hamm, in 1902 the "<a href="/wiki/Freiherr_vom_Stein" class="mw-redirect" title="Freiherr vom Stein">Freiherr vom Stein</a> Gymnasium", in 1924 the "Beisenkamp Gymnasium" – first as "Oberlyceum" (Gymnasium for girls) – and in 1968 the "<a href="/wiki/Galilei" title="Galilei">Galilei</a>-Gymnasium" were established. Additionally in Schloss Heessen there is a private school including the Gymnasium. Both comprehensive schools in Hamm are younger foundations by the city during school reforms of NRW. Hamm is also well known for its many <a href="/wiki/Vocational_school" title="Vocational school">vocational schools</a>:</p>
+<ul>
+<li>"Eduard Spranger Berufskolleg für Technik" a vocational school for techniques</li>
+<li>"Elisabeth Lüders Berufskolleg für Sozialwesen, Gesundheit, Hauswirtschaft und Kinderpflege" a vocational school for social welfare, health, home economics and child care, and several other schools.</li>
+<li>"Friederich List Berufskolleg für Wirtschaft" a trade school</li>
+</ul>
+<p>In 2005 a small private university of applied sciences was established, the "SRH Fachhoschule Hamm". The private university of applied sciences started with two study programs ending with degrees of Bachelor and Master of Science for <a href="/wiki/Logistic_engineering" class="mw-redirect" title="Logistic engineering">logistic engineering</a>. The "Klinik für Psychatrie und Psychotherapie of the Marienhospital" cooperates with the University Witten-Herdecke in education and science. During the summer 2009 another university of applied sciences was founded by the federal state NRW, named Hochschule Hamm-Lippstadt. The University is divided in two departments, each with its own small Campus area, one in Hamm and another in <a href="/wiki/Lippstadt" title="Lippstadt">Lippstadt</a>.</p>
+<h2><span class="mw-headline" id="Industry_and_economy">Industry and economy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hamm&amp;action=edit&amp;section=13" title="Edit section: Industry and economy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a href="/wiki/File:Schloss_Heessen.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Schloss_Heessen.jpg/250px-Schloss_Heessen.jpg" width="250" height="279" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Schloss_Heessen.jpg/375px-Schloss_Heessen.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Schloss_Heessen.jpg/500px-Schloss_Heessen.jpg 2x" data-file-width="1852" data-file-height="2064" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Schloss_Heessen.jpg" class="internal" title="Enlarge"></a></div>
+Schloss Heessen</div>
+</div>
+</div>
+<p>Major industrial branches are the <a href="/wiki/Coal-mining" class="mw-redirect" title="Coal-mining">coal-mining</a> industry, <a href="/wiki/Steel_industry" class="mw-redirect" title="Steel industry">steel industry</a>, <a href="/wiki/Chemical_industry" title="Chemical industry">chemical industry</a> and the car component supplier industry. In the last century there were four coal-mines within the urban district. Today the Bergwerk Ost in Herringen is the last operating coal mine with about 3,000 employees. Mannesmann Hoesch Präzisrohr, Westfälische Draht Industrie (WDI) and Böhler Thyssen Welding are the major representatives of the steel industry, the chemical industry is represented by <a href="/wiki/DuPont" title="DuPont">DuPont</a> in Uentrop and the car supplier industry by Hella KGaA Hueck &amp; Co. factory 4 in Bockum-Hövel with about 1000 employees. The <a href="/wiki/Energy_industry" title="Energy industry">energy industry</a> is represented by a <a href="/wiki/RWE" title="RWE">RWE</a> coal power plant and a further power plant (Trianel) in Uentrop. A new coal power plant is currently under construction. The <a href="/wiki/THTR-300" title="THTR-300">THTR-300</a>, also in Uentrop-Schmehhausen, was decommissioned in 1989. Alongside the A2, in the southern part of the urban district, a new business park inhabits the growing <a href="/wiki/Logistics" title="Logistics">logistics</a> business. Hamm is also known as "City of Law" (Stadt des Rechts) because of the greatest German regional appeal court (Oberlandesgericht), the local court (Amtsgericht), the industrial court (Arbeitgericht) and the industrial appeal court (Landesarbeitsgericht). The Chamber of Notaries and bar association of the regional appeal court Hamm and the courts are of greater influence on the appearance of the city. Several hospitals in the urban district are also important employers, for example the EVK Hamm has about 1000 employees.</p>
+<h3><span class="mw-headline" id="Media">Media</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hamm&amp;action=edit&amp;section=14" title="Edit section: Media">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The only daily newspaper of Hamm printed there, is the "Westfälischer Anzeiger". At first, a weekly, newspaper in Hamm was the "Kreis Hammsches Wochenblatt" founded by Heinich Jakob Grote in 1822. Its name was changed in 1848 to "Westfälischer Anzeiger". A second newspaper appeared, founded by the Thiemann family, the "Westfälische Kurier". Both co-existed until the end of the Second World War. After the War both newspapers were combined and named "Westfälischer Anzeiger und Kurier". In the 1960s another name-change made the "Westfälischer Anzeiger". This newspaper is the mantle of several smaller regional newspapers, together they had a total 153,428 copies in 2004. In the 1970s the "Westdeutsche Allgemeine Zeitung" unsuccessfully tried to establish its own daily newspaper. Two weekly newspapers appear in Hamm the "Stadtanzeiger" from the "Westfälischer Anzeiger" with a total of 384.000 copies and the Sonntags-Rundblick by a medium-sized local company. Since 1990 the local radio station "Radio Lippewelle Hamm" is On Air and number one radio station of the local radios in NRW. On 3 October 1993 the "Offener Kanal Hamm" started broadcasting, it is a small TV project by people for the people, started through the federal state.</p>
+<h2><span class="mw-headline" id="Culture">Culture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hamm&amp;action=edit&amp;section=15" title="Edit section: Culture">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <b>Waldbühne Hamm-Heessen</b> in Heessen is one of the most active open-air theatres in Germany. The <a href="/w/index.php?title=St%C3%A4dtische_Musikschule_Hamm&amp;action=edit&amp;redlink=1" class="new" title="Städtische Musikschule Hamm (page does not exist)">Städtische Musikschule Hamm</a> is one of the oldest music schools in Germany. Hamm also has several active choirs and a jazz club and has been the home of many bands.</p>
+<h2><span class="mw-headline" id="Transport">Transport</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hamm&amp;action=edit&amp;section=16" title="Edit section: Transport">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Roads">Roads</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hamm&amp;action=edit&amp;section=17" title="Edit section: Roads">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Hamm is linked to three <a href="/wiki/Motorway" class="mw-redirect" title="Motorway">motorways</a>. The <a href="/wiki/Bundesautobahn_1" title="Bundesautobahn 1">Bundesautobahn 1</a> (BAB 1 or A1, Puttgarden-Saarbrücken) named Hansaline with two connections No.81 and 82., the (BAB 2 or A2, Oberhausen-Berlin) with three connections No.17,18 and 19 and the <a href="/wiki/A445" class="mw-redirect" title="A445">A445</a> (Hamm-Arnsberg) which is connected by the B63 until the planned construction between Hamm and <a href="/wiki/Werl" title="Werl">Werl</a> is completed. The <a href="/wiki/Kamener_Kreuz" title="Kamener Kreuz">Kamener Kreuz</a> is situated in the southwest of Hamm. Two "federal roads" (Bundesstrassen) the <a href="/w/index.php?title=Bundesstrasse_61&amp;action=edit&amp;redlink=1" class="new" title="Bundesstrasse 61 (page does not exist)">B61</a> and <a href="/w/index.php?title=Bundesstrasse_61&amp;action=edit&amp;redlink=1" class="new" title="Bundesstrasse 61 (page does not exist)">B63</a> intersect in the city centre. Several state roads (Landesstrassen) are connecting Hamm with its neighbouring towns and municipalities.</p>
+<h3><span class="mw-headline" id="Railways">Railways</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hamm&amp;action=edit&amp;section=18" title="Edit section: Railways">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a href="/wiki/File:Hamm-Bahnhof2.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Hamm-Bahnhof2.JPG/250px-Hamm-Bahnhof2.JPG" width="250" height="188" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Hamm-Bahnhof2.JPG/375px-Hamm-Bahnhof2.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Hamm-Bahnhof2.JPG/500px-Hamm-Bahnhof2.JPG 2x" data-file-width="3264" data-file-height="2448" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Hamm-Bahnhof2.JPG" class="internal" title="Enlarge"></a></div>
+Hamm central station</div>
+</div>
+</div>
+<p>Hamm has three stations, the main railway station <a href="/wiki/Hamm_(Westfalen)_railway_station" class="mw-redirect" title="Hamm (Westfalen) railway station">Hamm (Westfalen)</a> and two minor stations, one in Bockum-Hövel and the other one in Heessen. The main station is one of the biggest railway hubs in Germany, and connected with one of the greatest <a href="/wiki/Marshalling_yard" class="mw-redirect" title="Marshalling yard">marshalling yards</a> of Europe, the latter now only partly operating. Notable is the railway station for its <a href="/wiki/Art_deco" class="mw-redirect" title="Art deco">Art deco</a></p>
+<p><a href="/wiki/Gr%C3%BCnderzeit" title="Gründerzeit">Gründerzeit</a> inspired building styles. Hamm is connected to the rail since 2 May 1847. Its huge <a href="/wiki/Classification_yard" title="Classification yard">railroad yard</a>—Europe's biggest at the time<sup id="cite_ref-Germany_3-0" class="reference"><a href="#cite_note-Germany-3">[3]</a></sup>—was bombed repeatedly during <a href="/wiki/World_War_II" title="World War II">World War II</a>,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> as was the city itself (in December 1944 it was hit by eleven raids on one day).<sup id="cite_ref-Germany_3-1" class="reference"><a href="#cite_note-Germany-3">[3]</a></sup></p>
+<h3><span class="mw-headline" id="Buses">Buses</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hamm&amp;action=edit&amp;section=19" title="Edit section: Buses">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a href="/wiki/City_bus" class="mw-redirect" title="City bus">city bus</a> net Hamm is served by the "Stadtwerke Hamm", with 65 buses, and the "Verkehrsgesellschaft Breitenbach". A regional bus service is served by different companies and both nets serve the central <a href="/wiki/Bus_station" title="Bus station">bus station</a>, which is situated in front of the main railway station in the centre of Hamm. Hamm is part of the Verkehrsgemeinschaft Ruhr-Lippe. About 12 million people are using the bus net every year, transported by 50 bus lines with 500 bus stops within the city.</p>
+<h3><span class="mw-headline" id="Canal">Canal</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hamm&amp;action=edit&amp;section=20" title="Edit section: Canal">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Hamm is the end of the "<a href="/wiki/Datteln-Hamm-Kanal" class="mw-redirect" title="Datteln-Hamm-Kanal">Datteln-Hamm-Kanal</a>", three ports are situated in the urban district. The city port, the canal end port Uentrop, and the port of "Gersteinwerk". The ports of Hamm are the second biggest canal port by freight transact, 1.4 million tons a year by <a href="/wiki/Ship" title="Ship">ships</a> and 0.5 million tons by train. The city <a href="/wiki/Port" title="Port">port</a> allows for ships up to 110 metres length 11.45 meters width and 2.7 metres draft. It is linked with the railway by a track to the near main railway station and the marshaling yard. <a href="/wiki/File:Karte_des_Datteln-Hamm-Kanals.png" class="image" title="Datteln-Hamm-Kanal"><img alt="Datteln-Hamm-Kanal" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Karte_des_Datteln-Hamm-Kanals.png/800px-Karte_des_Datteln-Hamm-Kanals.png" width="800" height="271" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Karte_des_Datteln-Hamm-Kanals.png/1200px-Karte_des_Datteln-Hamm-Kanals.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/11/Karte_des_Datteln-Hamm-Kanals.png/1600px-Karte_des_Datteln-Hamm-Kanals.png 2x" data-file-width="2672" data-file-height="906" /></a></p>
+<h3><span class="mw-headline" id="Airfield_and_Airports">Airfield and Airports</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hamm&amp;action=edit&amp;section=21" title="Edit section: Airfield and Airports">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Near city centre, in the meadows of the River Lippe, the sport airfield Hamm is situated. Its runway is 900 m long and 30 m wide. The <a href="/wiki/Airfield" class="mw-redirect" title="Airfield">airfield</a> is operated by the Luftsportclub Hamm e. V.. Hamm is situated in the middle of a triangle of three smaller International <a href="/wiki/Airport" title="Airport">Airports</a>, in the north the <a href="/wiki/M%C3%BCnster_Osnabr%C3%BCck_International_Airport" title="Münster Osnabrück International Airport">Münster Osnabrück International Airport</a> (FMO) in the south-west <a href="/wiki/Dortmund_Airport" title="Dortmund Airport">Dortmund Airport</a> and in the east <a href="/wiki/Paderborn_Lippstadt_Airport" title="Paderborn Lippstadt Airport">Paderborn Lippstadt Airport</a>. The nearest greater <a href="/wiki/International_Airport" class="mw-redirect" title="International Airport">International Airport</a> is <a href="/wiki/D%C3%BCsseldorf_Airport" title="Düsseldorf Airport">Düsseldorf Airport</a>.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a href="/wiki/File:Hamm_Flughafen.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Hamm_Flughafen.jpg/250px-Hamm_Flughafen.jpg" width="250" height="210" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Hamm_Flughafen.jpg/375px-Hamm_Flughafen.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Hamm_Flughafen.jpg/500px-Hamm_Flughafen.jpg 2x" data-file-width="1247" data-file-height="1047" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Hamm_Flughafen.jpg" class="internal" title="Enlarge"></a></div>
+Hamm light airfield</div>
+</div>
+</div>
+<h2><span class="mw-headline" id="Notable_citizens">Notable citizens</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hamm&amp;action=edit&amp;section=22" title="Edit section: Notable citizens">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>1770, 5 April, <a href="/w/index.php?title=Rulemann_Friedrich_Eylert&amp;action=edit&amp;redlink=1" class="new" title="Rulemann Friedrich Eylert (page does not exist)">Rulemann Friedrich Eylert</a>, pastor of the Reformed Church in Hamm, ev. bishop in Potsdam</li>
+<li>1820, 25 December, <a href="/wiki/Fred_Schmitz" title="Fred Schmitz">Fred. "Fritz" Schmitz</a>, farmer, musician and member of the <a href="/wiki/Wisconsin_State_Assembly" title="Wisconsin State Assembly">Wisconsin State Assembly</a></li>
+<li>1824, 13 April, <a href="/wiki/Friedrich_Kapp" title="Friedrich Kapp">Friedrich Kapp</a>, German-American attorney, author and politician</li>
+<li>1832, February 19, <a href="/wiki/Karl_Hopf" title="Karl Hopf">Karl Hopf</a>, German historian and Byzantinist</li>
+<li>1891, 27 March, <a href="/wiki/Hans_Siemsen" title="Hans Siemsen">Hans Siemsen</a>, journalist and author</li>
+<li>1902, 2 June, <a href="/w/index.php?title=Joachim_von_Elbe&amp;action=edit&amp;redlink=1" class="new" title="Joachim von Elbe (page does not exist)">Joachim von Elbe</a> jurist, member of legal department of the US military government in Germany after the Second World War.</li>
+<li>1903, 5 February, <a href="/w/index.php?title=Fritz_Everding&amp;action=edit&amp;redlink=1" class="new" title="Fritz Everding (page does not exist)">Fritz Everding</a>, naturalistic painter and graphic artist</li>
+<li>1906, <a href="/wiki/Gerd_Bucerius" title="Gerd Bucerius">Gerd Bucerius</a>, publisher („Die Zeit" from 1959) and publicist (founder of the publishing house <i>Gruner und Jahr</i>), died 1995</li>
+<li>1907, <a href="/wiki/Ludwig_Biermann" title="Ludwig Biermann">Ludwig Biermann</a>, astronomer, died 1986</li>
+<li>1907, <a href="/w/index.php?title=Josef_Veldtrup&amp;action=edit&amp;redlink=1" class="new" title="Josef Veldtrup (page does not exist)">Josef Veldtrup</a> educationalist and poet</li>
+<li>1909, <a href="/wiki/Jean_Berger" title="Jean Berger">Jean Berger</a>, pianist and composer, died 2002</li>
+<li>1923, <a href="/wiki/Heinz_Wallberg" title="Heinz Wallberg">Heinz Wallberg</a>, <a href="/wiki/Conductor_(music)" class="mw-redirect" title="Conductor (music)">conductor</a>, died 2004</li>
+<li>1926, <a href="/w/index.php?title=Karl_Otto_Conrad&amp;action=edit&amp;redlink=1" class="new" title="Karl Otto Conrad (page does not exist)">Karl Otto Conrad</a>, literary scientist, <a href="/wiki/Publisher" class="mw-redirect" title="Publisher">publisher</a>, <a href="/wiki/Lyric_poet" class="mw-redirect" title="Lyric poet">lyric poet</a> („Der Neue Conrady. Das große deutsche Gedichtbuch")</li>
+<li>1927, <a href="/wiki/Hanns_Joachim_Friedrichs" title="Hanns Joachim Friedrichs">Hanns Joachim Friedrichs</a>, TV-Journalist and moderator („Tagesthemen"), died 1995</li>
+<li>1927, <a href="/wiki/Friedrich_Hirzebruch" title="Friedrich Hirzebruch">Friedrich Hirzebruch</a>, mathematician, founder and first director of the <a href="/wiki/Max_Planck_Institute_for_Mathematics" title="Max Planck Institute for Mathematics">Max Planck Institute for Mathematics</a> in Bonn, died 2012</li>
+<li>1928, <a href="/w/index.php?title=Werner_Giers&amp;action=edit&amp;redlink=1" class="new" title="Werner Giers (page does not exist)">Werner Giers</a>, † April 8, 2016, journalist</li>
+<li>1930, <a href="/wiki/Almuth_L%C3%BCtkenhaus" title="Almuth Lütkenhaus">Almuth Lütkenhaus</a>, visual artist, died 1996</li>
+<li>1946, <a href="/wiki/Werner_Brinkmann" title="Werner Brinkmann">Werner Brinkmann</a>, jurist, director of <a href="/wiki/Stiftung_Warentest" title="Stiftung Warentest">Stiftung Warentest</a> between 1995 and the end of 2011</li>
+<li>1948, <a href="/wiki/Bernard_Dietz" title="Bernard Dietz">Bernard Dietz</a>, named „Ennatz", <a href="/wiki/Association_football" title="Association football">footballer</a></li>
+<li>1951, <a href="/wiki/Horst_Hrubesch" title="Horst Hrubesch">Horst Hrubesch</a>, footballer</li>
+<li>1953, <a href="/wiki/Josef_Kaczor" title="Josef Kaczor">Josef Kaczor</a>, nicknamed „Jupp", footballer</li>
+<li>1954, <a href="/wiki/Jutta_Weber" title="Jutta Weber">Jutta Weber</a>, swimmer, Summer Olympics 1972-1976</li>
+<li>1960, <a href="/wiki/Klaus_J._Behrendt" title="Klaus J. Behrendt">Klaus J. Behrendt</a>, actor ("Tatort-Kommissar Max Ballauf")</li>
+<li>1960, <a href="/wiki/Ursula_Neugebauer" title="Ursula Neugebauer">Ursula Neugebauer</a>, artist</li>
+<li>1964, <a href="/wiki/Michael_Lusch" title="Michael Lusch">Michael Lusch</a>, footballer and football coach</li>
+<li>1964, <a href="/wiki/Uwe_Kr%C3%B6ger" title="Uwe Kröger">Uwe Kröger</a>, musical actor</li>
+<li>1975 <a href="/wiki/Christian_Vinck" title="Christian Vinck">Christian Vinck</a>, former tennis player</li>
+<li>1978, <a href="/wiki/%C4%B0smail_YK" title="İsmail YK">İsmail YK</a>, musician</li>
+<li>1978, <a href="/wiki/Selma_Erge%C3%A7" title="Selma Ergeç">Selma Ergeç</a>, Turkish-German actress and model</li>
+<li>1983, <a href="/wiki/Mike_Hanke" title="Mike Hanke">Mike Hanke</a>, retired footballer who last played for <a href="/w/index.php?title=Guizo_Renhe&amp;action=edit&amp;redlink=1" class="new" title="Guizo Renhe (page does not exist)">Guizo Renhe</a></li>
+</ul>
+<h2><span class="mw-headline" id="Freemen">Freemen</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hamm&amp;action=edit&amp;section=23" title="Edit section: Freemen">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The city of Hamm has made since 1945 the following people to freemean:</p>
+<ul>
+<li>1946: Josef Schlichter</li>
+<li>1953: Hugo Bröcker</li>
+<li>1954: Josef Weidekamp</li>
+<li>1959: Peter Röttgen</li>
+<li>1959: Ferdinand Poggel</li>
+<li>1965: Heinrich Luhmann</li>
+<li>1971: Gerhard Krampe</li>
+<li>1990: Werner Figgen</li>
+<li>1990: Günter Rinsche</li>
+<li>1994: Felix Ziethmann</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hamm&amp;action=edit&amp;section=24" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.it.nrw.de/statistik/a/daten/bevoelkerungszahlen_zensus/index.html">"Amtliche Bevölkerungszahlen"</a>. <i><a href="/wiki/Landesbetrieb_Information_und_Technik_NRW" class="mw-redirect" title="Landesbetrieb Information und Technik NRW">Landesbetrieb Information und Technik NRW</a></i> (in German). 18 July 2016.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHamm&amp;rft.atitle=Amtliche+Bev%C3%B6lkerungszahlen&amp;rft.date=2016-07-18&amp;rft.genre=unknown&amp;rft.jtitle=Landesbetrieb+Information+und+Technik+NRW&amp;rft_id=http%3A%2F%2Fwww.it.nrw.de%2Fstatistik%2Fa%2Fdaten%2Fbevoelkerungszahlen_zensus%2Findex.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-KaliszTwinning-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-KaliszTwinning_2-0">^</a></b></span> <span class="reference-text"><i><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.kalisz.pl/_portal/118951340446e688bcd9fee/Miasta_partnerskie.html">"Kalisz Official Website - Twin Towns"</a>. <a href="/wiki/File:Flag_of_the_United_Kingdom.svg" class="image"><img alt="Flag of the United Kingdom.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/14px-Flag_of_the_United_Kingdom.svg.png" width="14" height="7" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/21px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/28px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a> <a href="/wiki/File:Flag_of_Poland.svg" class="image"><img alt="Flag of Poland.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/10px-Flag_of_Poland.svg.png" width="10" height="6" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/15px-Flag_of_Poland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/20px-Flag_of_Poland.svg.png 2x" data-file-width="1280" data-file-height="800" /></a> <span style="color:Green;">(in <a href="/wiki/English_language" title="English language"><span style="color:Green;">English</span></a> and <a href="/wiki/Polish_language" title="Polish language"><span style="color:Green;">Polish</span></a>)</span> <a href="/wiki/Copyright" title="Copyright">©</a> 2005-2008 Urząd Miejski Kalisz<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-11-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHamm&amp;rft.btitle=Kalisz+Official+Website+-+Twin+Towns&amp;rft.genre=unknown&amp;rft.pub=14px+border%7C10px+%3Cspan+style%3D%22color%3AGreen%3B%22%3E%28in+%3Cspan+style%3D%22color%3AGreen%3B%22%3EEnglish%3C%2Fspan%3E+and+%3Cspan+style%3D%22color%3AGreen%3B%22%3EPolish%3C%2Fspan%3E%29%3C%2Fspan%3E+%C2%A9+2005-2008+Urz%C4%85d+Miejski+Kalisz&amp;rft_id=http%3A%2F%2Fwww.kalisz.pl%2F_portal%2F118951340446e688bcd9fee%2FMiasta_partnerskie.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></i></span></li>
+<li id="cite_note-Germany-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Germany_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Germany_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Blank, Ralf; Echternkamp, Jörg; Fings, Karola; Jürgen Förster; Winfried Heinemann; Tobias Jersak; Armin Nolzen (2008-07-03). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=6jk4LBKB7I0C&amp;pg=PA460"><i>Germany and the Second World War: Volume IX/I: German Wartime Society 1939-1945: Politicization, Disintegration, and the Struggle for Survival</i></a>. Oxford UP. p.&#160;460. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780191608605" title="Special:BookSources/9780191608605">9780191608605</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHamm&amp;rft.au=Armin+Nolzen&amp;rft.au=Echternkamp%2C+J%C3%B6rg&amp;rft.au=Fings%2C+Karola&amp;rft.au=J%C3%BCrgen+F%C3%B6rster&amp;rft.au=Tobias+Jersak&amp;rft.au=Winfried+Heinemann&amp;rft.aufirst=Ralf&amp;rft.aulast=Blank&amp;rft.btitle=Germany+and+the+Second+World+War%3A+Volume+IX%2FI%3A+German+Wartime+Society+1939-1945%3A+Politicization%2C+Disintegration%2C+and+the+Struggle+for+Survival&amp;rft.date=2008-07-03&amp;rft.genre=book&amp;rft.isbn=9780191608605&amp;rft.pages=460&amp;rft.pub=Oxford+UP&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D6jk4LBKB7I0C%26pg%3DPA460&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation book">Russell, Edward T. (1999). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=gpTLeIeelP0C&amp;pg=PA26"><i>The U.S. Army Air Forces in World War II: Leaping the Atlantic Wall&#160;: Army Air Forces Campaigns in Western Europe, 1942-1945</i></a>. Government Printing Office. p.&#160;26. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780160613845" title="Special:BookSources/9780160613845">9780160613845</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHamm&amp;rft.aufirst=Edward+T.&amp;rft.aulast=Russell&amp;rft.btitle=The+U.S.+Army+Air+Forces+in+World+War+II%3A+Leaping+the+Atlantic+Wall+%3A+Army+Air+Forces+Campaigns+in+Western+Europe%2C+1942-1945&amp;rft.date=1999&amp;rft.genre=book&amp;rft.isbn=9780160613845&amp;rft.pages=26&amp;rft.pub=Government+Printing+Office&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DgpTLeIeelP0C%26pg%3DPA26&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation book"><a rel="nofollow" class="external text" href="https://books.google.com/books?id=3mRf8luCykkC&amp;pg=PA19"><i>Air interdiction in World War II Korea and Vietnam...</i></a> DIANE. p.&#160;19. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9781428993389" title="Special:BookSources/9781428993389">9781428993389</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHamm&amp;rft.btitle=Air+interdiction+in+World+War+II+Korea+and+Vietnam...&amp;rft.genre=book&amp;rft.isbn=9781428993389&amp;rft.pages=19&amp;rft.pub=DIANE&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D3mRf8luCykkC%26pg%3DPA19&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hamm&amp;action=edit&amp;section=25" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/40px-Wikivoyage-Logo-v3-icon.svg.png" width="40" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/60px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/80px-Wikivoyage-Logo-v3-icon.svg.png 2x" data-file-width="193" data-file-height="193" /></td>
+<td class="mbox-text plainlist">Wikivoyage has a travel guide for <i><b><a href="https://en.wikivoyage.org/wiki/Hamm#Q2880" class="extiw" title="wikivoyage:Hamm">Hamm</a></b></i>.</td>
+</tr>
+</table>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Hamm" class="extiw" title="commons:Category:Hamm">Hamm</a></b></i>.</td>
+</tr>
+</table>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png" width="34" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/51px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/68px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></td>
+<td class="mbox-text plainlist">Wikiquote has quotations related to: <i><b><a href="https://en.wikiquote.org/wiki/St%C3%A4dte#Hamm" class="extiw" title="q:Städte">Hamm</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.hammwiki.de">City Wiki for Hamm, in German</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.hamm.de">The official site for Hamm, in German</a></li>
+<li><img alt="Wikisource-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png" width="12" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/18px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/24px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" />&#160;<cite class="citation encyclopaedia">"<a href="https://en.wikisource.org/wiki/Encyclop%C3%A6dia_Britannica,_Ninth_Edition/Hamm" class="extiw" title="s:Encyclopædia Britannica, Ninth Edition/Hamm">Hamm</a>". <i><a href="/wiki/Encyclop%C3%A6dia_Britannica" title="Encyclopædia Britannica">Encyclopædia Britannica</a></i>. <b>11</b> (9th ed.). 1880.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHamm&amp;rft.atitle=Hamm&amp;rft.btitle=Encyclop%C3%A6dia+Britannica&amp;rft.date=1880&amp;rft.edition=9th&amp;rft.genre=bookitem&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Cities_in_Germany_by_population" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Cities_in_Germany" title="Template:Cities in Germany"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Cities_in_Germany" title="Template talk:Cities in Germany"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cities_in_Germany&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Cities_in_Germany_by_population" style="font-size:114%;margin:0 4em">Cities in Germany by population</div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">1,000,000+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Berlin" title="Berlin">Berlin</a></li>
+<li><a href="/wiki/Cologne" title="Cologne">Cologne</a></li>
+<li><a href="/wiki/Hamburg" title="Hamburg">Hamburg</a></li>
+<li><a href="/wiki/Munich" title="Munich">Munich</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">500,000+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bremen" title="Bremen">Bremen</a></li>
+<li><a href="/wiki/Dortmund" title="Dortmund">Dortmund</a></li>
+<li><a href="/wiki/Dresden" title="Dresden">Dresden</a></li>
+<li><a href="/wiki/D%C3%BCsseldorf" title="Düsseldorf">Düsseldorf</a></li>
+<li><a href="/wiki/Essen" title="Essen">Essen</a></li>
+<li><a href="/wiki/Frankfurt" title="Frankfurt">Frankfurt</a></li>
+<li><a href="/wiki/Hanover" title="Hanover">Hanover</a></li>
+<li><a href="/wiki/Leipzig" title="Leipzig">Leipzig</a></li>
+<li><a href="/wiki/Nuremberg" title="Nuremberg">Nuremberg</a></li>
+<li><a href="/wiki/Stuttgart" title="Stuttgart">Stuttgart</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">200,000+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aachen" title="Aachen">Aachen</a></li>
+<li><a href="/wiki/Augsburg" title="Augsburg">Augsburg</a></li>
+<li><a href="/wiki/Bielefeld" title="Bielefeld">Bielefeld</a></li>
+<li><a href="/wiki/Bochum" title="Bochum">Bochum</a></li>
+<li><a href="/wiki/Bonn" title="Bonn">Bonn</a></li>
+<li><a href="/wiki/Braunschweig" title="Braunschweig">Braunschweig</a></li>
+<li><a href="/wiki/Chemnitz" title="Chemnitz">Chemnitz</a></li>
+<li><a href="/wiki/Duisburg" title="Duisburg">Duisburg</a></li>
+<li><a href="/wiki/Erfurt" title="Erfurt">Erfurt</a></li>
+<li><a href="/wiki/Freiburg_im_Breisgau" title="Freiburg im Breisgau">Freiburg im Breisgau</a></li>
+<li><a href="/wiki/Gelsenkirchen" title="Gelsenkirchen">Gelsenkirchen</a></li>
+<li><a href="/wiki/Halle_(Saale)" title="Halle (Saale)">Halle (Saale)</a></li>
+<li><a href="/wiki/Karlsruhe" title="Karlsruhe">Karlsruhe</a></li>
+<li><a href="/wiki/Kiel" title="Kiel">Kiel</a></li>
+<li><a href="/wiki/Krefeld" title="Krefeld">Krefeld</a></li>
+<li><a href="/wiki/L%C3%BCbeck" title="Lübeck">Lübeck</a></li>
+<li><a href="/wiki/Magdeburg" title="Magdeburg">Magdeburg</a></li>
+<li><a href="/wiki/Mainz" title="Mainz">Mainz</a></li>
+<li><a href="/wiki/Mannheim" title="Mannheim">Mannheim</a></li>
+<li><a href="/wiki/M%C3%BCnster" title="Münster">Münster</a></li>
+<li><a href="/wiki/M%C3%B6nchengladbach" title="Mönchengladbach">Mönchengladbach</a></li>
+<li><a href="/wiki/Oberhausen" title="Oberhausen">Oberhausen</a></li>
+<li><a href="/wiki/Rostock" title="Rostock">Rostock</a></li>
+<li><a href="/wiki/Wiesbaden" title="Wiesbaden">Wiesbaden</a></li>
+<li><a href="/wiki/Wuppertal" title="Wuppertal">Wuppertal</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">100,000+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bergisch_Gladbach" title="Bergisch Gladbach">Bergisch Gladbach</a></li>
+<li><a href="/wiki/Bottrop" title="Bottrop">Bottrop</a></li>
+<li><a href="/wiki/Bremerhaven" title="Bremerhaven">Bremerhaven</a></li>
+<li><a href="/wiki/Cottbus" title="Cottbus">Cottbus</a></li>
+<li><a href="/wiki/Darmstadt" title="Darmstadt">Darmstadt</a></li>
+<li><a href="/wiki/Erlangen" title="Erlangen">Erlangen</a></li>
+<li><a href="/wiki/F%C3%BCrth" title="Fürth">Fürth</a></li>
+<li><a href="/wiki/G%C3%B6ttingen" title="Göttingen">Göttingen</a></li>
+<li><a href="/wiki/Hagen" title="Hagen">Hagen</a></li>
+<li><a class="mw-selflink selflink">Hamm</a></li>
+<li><a href="/wiki/Heidelberg" title="Heidelberg">Heidelberg</a></li>
+<li><a href="/wiki/Heilbronn" title="Heilbronn">Heilbronn</a></li>
+<li><a href="/wiki/Herne,_North_Rhine-Westphalia" title="Herne, North Rhine-Westphalia">Herne</a></li>
+<li><a href="/wiki/Hildesheim" title="Hildesheim">Hildesheim</a></li>
+<li><a href="/wiki/Ingolstadt" title="Ingolstadt">Ingolstadt</a></li>
+<li><a href="/wiki/Jena" title="Jena">Jena</a></li>
+<li><a href="/wiki/Kassel" title="Kassel">Kassel</a></li>
+<li><a href="/wiki/Koblenz" title="Koblenz">Koblenz</a></li>
+<li><a href="/wiki/Leverkusen" title="Leverkusen">Leverkusen</a></li>
+<li><a href="/wiki/Ludwigshafen" title="Ludwigshafen">Ludwigshafen</a></li>
+<li><a href="/wiki/Moers" title="Moers">Moers</a></li>
+<li><a href="/wiki/M%C3%BClheim" title="Mülheim">Mülheim an der Ruhr</a></li>
+<li><a href="/wiki/Neuss" title="Neuss">Neuss</a></li>
+<li><a href="/wiki/Offenbach_am_Main" title="Offenbach am Main">Offenbach am Main</a></li>
+<li><a href="/wiki/Oldenburg_(Oldenburg)" class="mw-redirect" title="Oldenburg (Oldenburg)">Oldenburg</a></li>
+<li><a href="/wiki/Osnabr%C3%BCck" title="Osnabrück">Osnabrück</a></li>
+<li><a href="/wiki/Paderborn" title="Paderborn">Paderborn</a></li>
+<li><a href="/wiki/Pforzheim" title="Pforzheim">Pforzheim</a></li>
+<li><a href="/wiki/Potsdam" title="Potsdam">Potsdam</a></li>
+<li><a href="/wiki/Recklinghausen" title="Recklinghausen">Recklinghausen</a></li>
+<li><a href="/wiki/Regensburg" title="Regensburg">Regensburg</a></li>
+<li><a href="/wiki/Remscheid" title="Remscheid">Remscheid</a></li>
+<li><a href="/wiki/Reutlingen" title="Reutlingen">Reutlingen</a></li>
+<li><a href="/wiki/Saarbr%C3%BCcken" title="Saarbrücken">Saarbrücken</a></li>
+<li><a href="/wiki/Salzgitter" title="Salzgitter">Salzgitter</a></li>
+<li><a href="/wiki/Siegen" title="Siegen">Siegen</a></li>
+<li><a href="/wiki/Solingen" title="Solingen">Solingen</a></li>
+<li><a href="/wiki/Trier" title="Trier">Trier</a></li>
+<li><a href="/wiki/Ulm" title="Ulm">Ulm</a></li>
+<li><a href="/wiki/Wolfsburg" title="Wolfsburg">Wolfsburg</a></li>
+<li><a href="/wiki/W%C3%BCrzburg" title="Würzburg">Würzburg</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/List_of_cities_and_towns_in_Germany" title="List of cities and towns in Germany">complete list</a></li>
+<li><a href="/wiki/List_of_municipalities_in_Germany" title="List of municipalities in Germany">municipalities</a></li>
+<li><a href="/wiki/Metropolitan_regions_in_Germany" title="Metropolitan regions in Germany">metropolitan regions</a></li>
+<li><a href="/wiki/List_of_cities_in_Germany_by_population" title="List of cities in Germany by population">cities with more than 100,000 inhabitants</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Members_of_the_Hanseatic_League_by_Quarter" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Hanseatic_League" title="Template:Hanseatic League"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Hanseatic_League" title="Template talk:Hanseatic League"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Hanseatic_League&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Members_of_the_Hanseatic_League_by_Quarter" style="font-size:114%;margin:0 4em">Members of the <a href="/wiki/Hanseatic_League" title="Hanseatic League">Hanseatic League</a> by <a href="/wiki/Hanseatic_League#Quarters" title="Hanseatic League">Quarter</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3" style="padding:0.2em 0.4em;line-height:1.25em;">
+<div>
+<div class="plainlist">
+<ul>
+<li>Chief cities shown in <span class="smallcaps" style="font-variant:small-caps;">smallcaps</span>.</li>
+<li><a href="/wiki/Free_imperial_city" title="Free imperial city">Free Imperial Cities</a> of the <a href="/wiki/Holy_Roman_Empire" title="Holy Roman Empire">Holy Roman Empire</a> shown in <i>italics</i>.</li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Wendish</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:5.5em;font-weight:normal;;padding:0.75em 1.0em;"><span class="smallcaps" style="font-variant:small-caps;"><i><a href="/wiki/L%C3%BCbeck" title="Lübeck">Lübeck</a></i></span></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Anklam" title="Anklam">Anklam</a></li>
+<li><a href="/wiki/Demmin" title="Demmin">Demmin</a></li>
+<li><a href="/wiki/Greifswald" title="Greifswald">Greifswald</a></li>
+<li><i><a href="/wiki/Hamburg" title="Hamburg">Hamburg</a></i></li>
+<li><a href="/wiki/Ko%C5%82obrzeg" title="Kołobrzeg">Kolberg (Kołobrzeg)</a></li>
+<li><a href="/wiki/L%C3%BCneburg" title="Lüneburg">Lüneburg</a></li>
+<li><a href="/wiki/Rostock" title="Rostock">Rostock</a></li>
+<li><a href="/wiki/Dar%C5%82owo" title="Darłowo">Rügenwalde (Darłowo)</a></li>
+<li><a href="/wiki/Szczecin" title="Szczecin">Stettin (Szczecin)</a></li>
+<li><a href="/wiki/S%C5%82upsk" title="Słupsk">Stolp (Słupsk)</a></li>
+<li><a href="/wiki/Stockholm" title="Stockholm">Stockholm</a></li>
+<li><a href="/wiki/Stralsund" title="Stralsund">Stralsund</a></li>
+<li><a href="/wiki/Visby" title="Visby">Visby</a></li>
+<li><a href="/wiki/Wismar" title="Wismar">Wismar</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+<td class="navbox-image" rowspan="7" style="width:1px;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Haupthandelsroute_Hanse.png" class="image" title="Principle trading routes of the Hanseatic League"><img alt="Principle trading routes of the Hanseatic League" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Haupthandelsroute_Hanse.png/150px-Haupthandelsroute_Hanse.png" width="150" height="115" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Haupthandelsroute_Hanse.png/225px-Haupthandelsroute_Hanse.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Haupthandelsroute_Hanse.png/300px-Haupthandelsroute_Hanse.png 2x" data-file-width="789" data-file-height="603" /></a><br />
+<br />
+<a href="/wiki/File:Hansestadt_Lubeck_Tatiana_Yagunova_Watercolor_painting_2014.jpg" class="image" title="Lubeck — a main city of the Hanseatic League"><img alt="Lubeck — a main city of the Hanseatic League" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Hansestadt_Lubeck_Tatiana_Yagunova_Watercolor_painting_2014.jpg/150px-Hansestadt_Lubeck_Tatiana_Yagunova_Watercolor_painting_2014.jpg" width="150" height="121" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Hansestadt_Lubeck_Tatiana_Yagunova_Watercolor_painting_2014.jpg/225px-Hansestadt_Lubeck_Tatiana_Yagunova_Watercolor_painting_2014.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Hansestadt_Lubeck_Tatiana_Yagunova_Watercolor_painting_2014.jpg/300px-Hansestadt_Lubeck_Tatiana_Yagunova_Watercolor_painting_2014.jpg 2x" data-file-width="3720" data-file-height="2996" /></a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Saxon</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:5.5em;font-weight:normal;">
+<div style="padding:0.1em 0;line-height:1.2em;"><span class="smallcaps" style="font-variant:small-caps;"><a href="/wiki/Braunschweig" title="Braunschweig">Brunswick</a><br />
+<a href="/wiki/Magdeburg" title="Magdeburg">Magdeburg</a></span></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Berlin" title="Berlin">Berlin</a></li>
+<li><i><a href="/wiki/Bremen" title="Bremen">Bremen</a></i></li>
+<li><a href="/wiki/Erfurt" title="Erfurt">Erfurt</a></li>
+<li><a href="/wiki/Frankfurt_(Oder)" title="Frankfurt (Oder)">Frankfurt an der Oder</a></li>
+<li><i><a href="/wiki/Goslar" title="Goslar">Goslar</a></i></li>
+<li><i><a href="/wiki/M%C3%BChlhausen" title="Mühlhausen">Mühlhausen</a></i></li>
+<li><i><a href="/wiki/Nordhausen" title="Nordhausen">Nordhausen</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Baltic</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:5.5em;font-weight:normal;">
+<div style="padding:0.1em 0;line-height:1.2em;line-height:1.1em;"><a href="/wiki/Gda%C5%84sk" title="Gdańsk"><span class="smallcaps" style="font-variant:small-caps;">Danzig</span><br />
+<small><span style="font-weight:normal;">(Gdańsk)</span></small></a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Wroc%C5%82aw" title="Wrocław">Breslau <small>(Wrocław)</small></a></li>
+<li><a href="/wiki/Tartu" title="Tartu">Dorpat <small>(Tartu)</small></a></li>
+<li><a href="/wiki/Elbl%C4%85g" title="Elbląg">Elbing <small>(Elbląg)</small></a></li>
+<li><a href="/wiki/K%C3%B6nigsberg" title="Königsberg">Königsberg</a> <small>(<a href="/wiki/Kaliningrad" title="Kaliningrad">Kaliningrad</a>)</small></li>
+<li><a href="/wiki/Krak%C3%B3w" title="Kraków">Cracow <small>(Kraków)</small></a></li>
+<li><a href="/wiki/Tallinn" title="Tallinn">Reval <small>(Tallinn)</small></a></li>
+<li><a href="/wiki/Riga" title="Riga">Riga <small>(Rīga)</small></a></li>
+<li><a href="/wiki/Toru%C5%84" title="Toruń">Thorn <small>(Toruń)</small></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Westphalian</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:5.5em;font-weight:normal;">
+<div style="padding:0.1em 0;line-height:1.2em;"><span class="smallcaps" style="font-variant:small-caps;"><i><a href="/wiki/Cologne" title="Cologne">Cologne</a></i></span> <span style="font-weight:normal;"><sup><small>1</small></sup></span><br />
+<span class="smallcaps" style="font-variant:small-caps;"><i><a href="/wiki/Dortmund" title="Dortmund">Dortmund</a></i></span> <span style="font-weight:normal;"><sup><small>1</small></sup></span></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Deventer" title="Deventer">Deventer</a></li>
+<li><a href="/wiki/Groningen" title="Groningen">Groningen</a></li>
+<li><a href="/wiki/Kampen,_Overijssel" title="Kampen, Overijssel">Kampen</a></li>
+<li><a href="/wiki/M%C3%BCnster" title="Münster">Münster</a></li>
+<li><a href="/wiki/Osnabr%C3%BCck" title="Osnabrück">Osnabrück</a></li>
+<li><i><a href="/wiki/Soest,_Germany" title="Soest, Germany">Soest</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<hr /></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><i><a href="/wiki/Kontor" title="Kontor">Kontore</a></i></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:5.5em;font-weight:normal;">Principal</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bryggen" title="Bryggen">Bryggen</a> <small>(<a href="/wiki/Bergen" title="Bergen">Bergen</a>)</small></li>
+<li>Hanzekantoor
+<ul>
+<li><small><a href="/wiki/Bruges" title="Bruges">Bruges</a></small></li>
+<li><small><a href="/wiki/Antwerp" title="Antwerp">Antwerp</a><sup>2</sup><small>&#160;</small></small></li>
+</ul>
+</li>
+<li><a href="/wiki/Steelyard" title="Steelyard">Steelyard</a> <small>(<a href="/wiki/London" title="London">London</a>)</small></li>
+<li>Peterhof <small>(<a href="/wiki/Veliky_Novgorod" title="Veliky Novgorod">Novgorod</a>)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:5.5em;font-weight:normal;">Subsidiary</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/King%27s_Lynn" title="King's Lynn">Bishop's Lynn</a></li>
+<li><a href="/wiki/Falsterbo" title="Falsterbo">Falsterbo</a></li>
+<li><a href="/wiki/Ipswich" title="Ipswich">Ipswich</a></li>
+<li><a href="/wiki/Kaunas" title="Kaunas">Kaunas</a></li>
+<li><a href="/wiki/Malm%C3%B6" title="Malmö">Malmö</a></li>
+<li><a href="/wiki/Polotsk" title="Polotsk">Polotsk</a></li>
+<li><a href="/wiki/Pskov_Republic" title="Pskov Republic">Pskov</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Other cities</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bristol" title="Bristol">Bristol</a></li>
+<li><a href="/wiki/Boston,_Lincolnshire" title="Boston, Lincolnshire">Boston</a></li>
+<li><a href="/wiki/Damme" title="Damme">Damme</a></li>
+<li><a href="/wiki/Leith" title="Leith">Leith</a></li>
+<li><a href="/wiki/Herford" title="Herford">Herford</a></li>
+<li><a href="/wiki/Kingston_upon_Hull" title="Kingston upon Hull">Hull</a></li>
+<li><a href="/wiki/Newcastle_upon_Tyne" title="Newcastle upon Tyne">Newcastle</a></li>
+<li><a href="/wiki/Stargard_Szczeci%C5%84ski" class="mw-redirect" title="Stargard Szczeciński">Stargard</a></li>
+<li><a href="/wiki/Great_Yarmouth" title="Great Yarmouth">Yarmouth</a></li>
+<li><a href="/wiki/York" title="York">York</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3" style="padding:0.2em 0.4em 0.4em;line-height:1.25em;">
+<div>
+<div class="plainlist">
+<ul>
+<li><sup><small>1</small></sup> <a href="/wiki/Cologne" title="Cologne">Cologne</a> and <a href="/wiki/Dortmund" title="Dortmund">Dortmund</a> were both capital of the Westphalian Quarter at different times.</li>
+<li><sup><small>2</small></sup> <a href="/wiki/Antwerp" title="Antwerp">Antwerp</a> gained importance once <a href="/wiki/Bruges" title="Bruges">Bruges</a> became inaccessible due to the silting of the <a href="/wiki/Zwin" title="Zwin">Zwin</a> channel.</li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="border.7C30px.7CFlag_of_North_Rhine-Westphalia_Urban_and_rural_districts_in_the_state_of_North_Rhine-Westphalia_in_Germany_border.7C30px.7CFlag_of_Germany" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Germany_districts_North_Rhine-Westphalia" title="Template:Germany districts North Rhine-Westphalia"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Germany_districts_North_Rhine-Westphalia" title="Template talk:Germany districts North Rhine-Westphalia"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Germany_districts_North_Rhine-Westphalia&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="border.7C30px.7CFlag_of_North_Rhine-Westphalia_Urban_and_rural_districts_in_the_state_of_North_Rhine-Westphalia_in_Germany_border.7C30px.7CFlag_of_Germany" style="font-size:114%;margin:0 4em"><a href="/wiki/File:Flag_of_North_Rhine-Westphalia.svg" class="image" title="Flag of North Rhine-Westphalia"><img alt="Flag of North Rhine-Westphalia" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_North_Rhine-Westphalia.svg/30px-Flag_of_North_Rhine-Westphalia.svg.png" width="30" height="18" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_North_Rhine-Westphalia.svg/45px-Flag_of_North_Rhine-Westphalia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_North_Rhine-Westphalia.svg/60px-Flag_of_North_Rhine-Westphalia.svg.png 2x" data-file-width="800" data-file-height="480" /></a> Urban and rural districts in the state of <a href="/wiki/North_Rhine-Westphalia" title="North Rhine-Westphalia">North Rhine-Westphalia</a> in Germany <a href="/wiki/File:Flag_of_Germany.svg" class="image" title="Flag of Germany"><img alt="Flag of Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/30px-Flag_of_Germany.svg.png" width="30" height="18" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/45px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/60px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Urban_districts_of_Germany" class="mw-redirect" title="Urban districts of Germany">Urban districts</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bielefeld" title="Bielefeld">Bielefeld</a></li>
+<li><a href="/wiki/Bochum" title="Bochum">Bochum</a></li>
+<li><a href="/wiki/Bonn" title="Bonn">Bonn</a></li>
+<li><a href="/wiki/Bottrop" title="Bottrop">Bottrop</a></li>
+<li><a href="/wiki/Dortmund" title="Dortmund">Dortmund</a></li>
+<li><a href="/wiki/Duisburg" title="Duisburg">Duisburg</a></li>
+<li><a href="/wiki/D%C3%BCsseldorf" title="Düsseldorf">Düsseldorf</a></li>
+<li><a href="/wiki/Essen" title="Essen">Essen</a></li>
+<li><a href="/wiki/Gelsenkirchen" title="Gelsenkirchen">Gelsenkirchen</a></li>
+<li><a href="/wiki/Hagen" title="Hagen">Hagen</a></li>
+<li><a class="mw-selflink selflink">Hamm</a></li>
+<li><a href="/wiki/Herne,_Germany" class="mw-redirect" title="Herne, Germany">Herne</a></li>
+<li><a href="/wiki/Cologne" title="Cologne">Köln (<i>Cologne</i>)</a></li>
+<li><a href="/wiki/Krefeld" title="Krefeld">Krefeld</a></li>
+<li><a href="/wiki/Leverkusen" title="Leverkusen">Leverkusen</a></li>
+<li><a href="/wiki/M%C3%B6nchengladbach" title="Mönchengladbach">Mönchengladbach</a></li>
+<li><a href="/wiki/M%C3%BClheim" title="Mülheim">Mülheim</a></li>
+<li><a href="/wiki/M%C3%BCnster" title="Münster">Münster</a></li>
+<li><a href="/wiki/Oberhausen" title="Oberhausen">Oberhausen</a></li>
+<li><a href="/wiki/Remscheid" title="Remscheid">Remscheid</a></li>
+<li><a href="/wiki/Solingen" title="Solingen">Solingen</a></li>
+<li><a href="/wiki/Wuppertal" title="Wuppertal">Wuppertal</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="2" style="width:1px;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Deutschland_Lage_von_Nordrhein-Westfalen.svg" class="image"><img alt="Deutschland Lage von Nordrhein-Westfalen.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Deutschland_Lage_von_Nordrhein-Westfalen.svg/90px-Deutschland_Lage_von_Nordrhein-Westfalen.svg.png" width="90" height="122" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Deutschland_Lage_von_Nordrhein-Westfalen.svg/135px-Deutschland_Lage_von_Nordrhein-Westfalen.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Deutschland_Lage_von_Nordrhein-Westfalen.svg/180px-Deutschland_Lage_von_Nordrhein-Westfalen.svg.png 2x" data-file-width="592" data-file-height="801" /></a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_rural_districts_of_Germany" class="mw-redirect" title="List of rural districts of Germany">Rural districts</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aachen_(district)" title="Aachen (district)">Aachen</a></li>
+<li><a href="/wiki/Borken_(district)" title="Borken (district)">Borken</a></li>
+<li><a href="/wiki/Coesfeld_(district)" title="Coesfeld (district)">Coesfeld</a></li>
+<li><a href="/wiki/D%C3%BCren_(district)" title="Düren (district)">Düren</a></li>
+<li><a href="/wiki/Ennepe-Ruhr-Kreis" title="Ennepe-Ruhr-Kreis">Ennepe-Ruhr-Kreis</a></li>
+<li><a href="/wiki/Euskirchen_(district)" title="Euskirchen (district)">Euskirchen</a></li>
+<li><a href="/wiki/G%C3%BCtersloh_(district)" title="Gütersloh (district)">Gütersloh</a></li>
+<li><a href="/wiki/Heinsberg_(district)" title="Heinsberg (district)">Heinsberg</a></li>
+<li><a href="/wiki/Herford_(district)" title="Herford (district)">Herford</a></li>
+<li><a href="/wiki/Hochsauerlandkreis" title="Hochsauerlandkreis">Hochsauerlandkreis</a></li>
+<li><a href="/wiki/H%C3%B6xter_(district)" title="Höxter (district)">Höxter</a></li>
+<li><a href="/wiki/Kleve_(district)" title="Kleve (district)">Kleve (<i>Cleves</i>)</a></li>
+<li><a href="/wiki/Lippe_(district)" title="Lippe (district)">Lippe</a></li>
+<li><a href="/wiki/M%C3%A4rkischer_Kreis" title="Märkischer Kreis">Märkischer Kreis</a></li>
+<li><a href="/wiki/Mettmann_(district)" title="Mettmann (district)">Mettmann</a></li>
+<li><a href="/wiki/Minden-L%C3%BCbbecke" title="Minden-Lübbecke">Minden-Lübbecke</a></li>
+<li><a href="/wiki/Oberbergischer_Kreis" title="Oberbergischer Kreis">Oberbergischer Kreis</a></li>
+<li><a href="/wiki/Olpe_(district)" title="Olpe (district)">Olpe</a></li>
+<li><a href="/wiki/Paderborn_(district)" title="Paderborn (district)">Paderborn</a></li>
+<li><a href="/wiki/Recklinghausen_(district)" title="Recklinghausen (district)">Recklinghausen</a></li>
+<li><a href="/wiki/Rheinisch-Bergischer_Kreis" title="Rheinisch-Bergischer Kreis">Rheinisch-Bergischer Kreis</a></li>
+<li><a href="/wiki/Rhein-Erft-Kreis" title="Rhein-Erft-Kreis">Rhein-Erft-Kreis</a></li>
+<li><a href="/wiki/Rhein-Kreis_Neuss" title="Rhein-Kreis Neuss">Rhein-Kreis Neuss</a></li>
+<li><a href="/wiki/Rhein-Sieg-Kreis" title="Rhein-Sieg-Kreis">Rhein-Sieg-Kreis</a></li>
+<li><a href="/wiki/Siegen-Wittgenstein" title="Siegen-Wittgenstein">Siegen-Wittgenstein</a></li>
+<li><a href="/wiki/Soest_(district)" title="Soest (district)">Soest</a></li>
+<li><a href="/wiki/Steinfurt_(district)" title="Steinfurt (district)">Steinfurt</a></li>
+<li><a href="/wiki/Unna_(district)" title="Unna (district)">Unna</a></li>
+<li><a href="/wiki/Viersen_(district)" title="Viersen (district)">Viersen</a></li>
+<li><a href="/wiki/Warendorf_(district)" title="Warendorf (district)">Warendorf</a></li>
+<li><a href="/wiki/Wesel_(district)" title="Wesel (district)">Wesel</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/158289571">WorldCat Identities</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/158289571">158289571</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/4023168-9">4023168-9</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1227
+Cached time: 20171018042753
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.600 seconds
+Real time usage: 0.811 seconds
+Preprocessor visited node count: 9761/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 138807/2097152 bytes
+Template argument size: 22450/2097152 bytes
+Highest expansion depth: 26/40
+Expensive parser function count: 9/500
+Lua time usage: 0.203/10.000 seconds
+Lua memory usage: 7.16 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  612.725      1 -total
+ 47.06%  288.350      1 Template:Infobox_German_location
+ 43.82%  268.500      1 Template:Infobox_settlement
+ 36.64%  224.487      1 Template:Infobox
+ 13.04%   79.904      7 Template:Population_Germany
+  8.49%   52.036      7 Template:Metadata_Population_DE-NW
+  7.97%   48.813      8 Template:Navbox
+  7.92%   48.517      2 Template:Citation_needed
+  7.34%   44.955      2 Template:Fix
+  7.04%   43.109      2 Template:Cite_web
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:179125-0!canonical and timestamp 20171018042752 and revision id 796327600
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Hamm&amp;oldid=796327600">https://en.wikipedia.org/w/index.php?title=Hamm&amp;oldid=796327600</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Cities_in_North_Rhine-Westphalia" title="Category:Cities in North Rhine-Westphalia">Cities in North Rhine-Westphalia</a></li><li><a href="/wiki/Category:Hamm" title="Category:Hamm">Hamm</a></li><li><a href="/wiki/Category:1226_establishments_in_Europe" title="Category:1226 establishments in Europe">1226 establishments in Europe</a></li><li><a href="/wiki/Category:Members_of_the_Hanseatic_League" title="Category:Members of the Hanseatic League">Members of the Hanseatic League</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_German-language_sources_(de)" title="Category:CS1 German-language sources (de)">CS1 German-language sources (de)</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_September_2013" title="Category:Use dmy dates from September 2013">Use dmy dates from September 2013</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_November_2015" title="Category:Articles with unsourced statements from November 2015">Articles with unsourced statements from November 2015</a></li><li><a href="/wiki/Category:Articles_containing_German-language_text" title="Category:Articles containing German-language text">Articles containing German-language text</a></li><li><a href="/wiki/Category:Wikipedia_articles_incorporating_a_citation_from_EB9" title="Category:Wikipedia articles incorporating a citation from EB9">Wikipedia articles incorporating a citation from EB9</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Hamm" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Hamm" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Hamm" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Hamm" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Hamm">Read</a></span></li>
+							<li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Hamm&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Hamm&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Hamm" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Hamm" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Hamm&amp;oldid=796327600" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Hamm&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2880" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Hamm&amp;id=796327600" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Hamm">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Hamm&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Hamm&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Hamm" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikivoyage"><a href="https://en.wikivoyage.org/wiki/Hamm" hreflang="en">Wikivoyage</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Hamm" title="Hamm – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%87%D8%A7%D9%85_(%D9%85%D8%AF%D9%8A%D9%86%D8%A9)" title="هام (مدينة) – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Hamm" title="Hamm – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D9%87%D8%A7%D9%85" title="هام – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Hamm" title="Hamm – Chinese (Min Nan)" lang="zh-min-nan" hreflang="zh-min-nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%93%D0%B0%D0%BC" title="Гам – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A5%D0%B0%D0%BC_(%D0%B3%D1%80%D0%B0%D0%B4)" title="Хам (град) – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Hamm" title="Hamm – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Hamm_(lungsod_sa_Alemanya,_Nordrhein-Westfalen,_Regierungsbezirk_Arnsberg,_lat_51,68,_long_7,82)" title="Hamm (lungsod sa Alemanya, Nordrhein-Westfalen, Regierungsbezirk Arnsberg, lat 51,68, long 7,82) – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Hamm" title="Hamm – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Hamm" title="Hamm – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Hamm" title="Hamm – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Hamm" title="Hamm – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Hamm" title="Hamm – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Hamm" title="Hamm – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Hamm" title="Hamm – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%87%D8%A7%D9%85" title="هام – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Hamm" title="Hamm – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/Hamm" title="Hamm – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%ED%95%A8_(%EB%85%B8%EB%A5%B4%ED%8A%B8%EB%9D%BC%EC%9D%B8%EB%B2%A0%EC%8A%A4%ED%8A%B8%ED%8C%94%EB%A0%8C_%EC%A3%BC)" title="함 (노르트라인베스트팔렌 주) – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Hamm" title="Hamm – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Hamm" title="Hamm – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Hamm" title="Hamm – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Hamm" title="Hamm – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%94%D7%90%D7%9D_(%D7%A2%D7%99%D7%A8)" title="האם (עיר) – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%B0%E1%83%90%E1%83%9B%E1%83%98" title="ჰამი – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%A5%D0%B0%D0%BC%D0%BC" title="Хамм – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Hamm" title="Hamm – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li><li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/%D0%A5%D0%B0%D0%BC%D0%BC" title="Хамм – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Hammona" title="Hammona – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Hamma" title="Hamma – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Hamas_(Vokietija)" title="Hamas (Vokietija) – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-li"><a href="https://li.wikipedia.org/wiki/Hamm" title="Hamm – Limburgish" lang="li" hreflang="li" class="interlanguage-link-target">Limburgs</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Hamm" title="Hamm – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Hamm_(Noordrijn-Westfalen)" title="Hamm (Noordrijn-Westfalen) – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%A0_(%E3%83%B4%E3%82%A7%E3%82%B9%E3%83%88%E3%83%95%E3%82%A1%E3%83%BC%E3%83%AC%E3%83%B3)" title="ハム (ヴェストファーレン) – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-frr"><a href="https://frr.wikipedia.org/wiki/Hamm" title="Hamm – Northern Frisian" lang="frr" hreflang="frr" class="interlanguage-link-target">Nordfriisk</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Hamm" title="Hamm – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Hamm" title="Hamm – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Hamm" title="Hamm – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Hamm" title="Hamm – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%DB%81%D8%A7%D9%85" title="ہام – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li><li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/Hamm" title="Hamm – Low German" lang="nds" hreflang="nds" class="interlanguage-link-target">Plattdüütsch</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Hamm" title="Hamm – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Hamm" title="Hamm – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Hamm" title="Hamm – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D0%BC%D0%BC" title="Хамм – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Hamm" title="Hamm – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-stq"><a href="https://stq.wikipedia.org/wiki/Hamm" title="Hamm – Saterland Frisian" lang="stq" hreflang="stq" class="interlanguage-link-target">Seeltersk</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Hamm" title="Hamm – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Hamm" title="Hamm – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%A5%D0%B0%D0%BC_(%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%B0_%D0%A0%D0%B0%D1%98%D0%BD%D0%B0-%D0%92%D0%B5%D1%81%D1%82%D1%84%D0%B0%D0%BB%D0%B8%D1%98%D0%B0)" title="Хам (Северна Рајна-Вестфалија) – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Hamm" title="Hamm – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Hamm" title="Hamm – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Hamm" title="Hamm – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D2%BA%D0%B0%D0%BC%D0%BC" title="Һамм – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Hamm" title="Hamm – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%93%D0%B0%D0%BC%D0%BC" title="Гамм – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Hamm" title="Hamm – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/Hamm_(Nordrhein-Westfalen)" title="Hamm (Nordrhein-Westfalen) – Volapük" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Hamm" title="Hamm – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%93%88%E5%A7%86" title="哈姆 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2880#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 20 August 2017, at 02:10.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Hamm&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.600","walltime":"0.811","ppvisitednodes":{"value":9761,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":138807,"limit":2097152},"templateargumentsize":{"value":22450,"limit":2097152},"expansiondepth":{"value":26,"limit":40},"expensivefunctioncount":{"value":9,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  612.725      1 -total"," 47.06%  288.350      1 Template:Infobox_German_location"," 43.82%  268.500      1 Template:Infobox_settlement"," 36.64%  224.487      1 Template:Infobox"," 13.04%   79.904      7 Template:Population_Germany","  8.49%   52.036      7 Template:Metadata_Population_DE-NW","  7.97%   48.813      8 Template:Navbox","  7.92%   48.517      2 Template:Citation_needed","  7.34%   44.955      2 Template:Fix","  7.04%   43.109      2 Template:Cite_web"]},"scribunto":{"limitreport-timeusage":{"value":"0.203","limit":"10.000"},"limitreport-memusage":{"value":7512077,"limit":52428800}},"cachereport":{"origin":"mw1227","timestamp":"20171018042753","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":93,"wgHostname":"mw1213"});});</script>
+	</body>
+</html>

@@ -1,0 +1,969 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Paderborn - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Paderborn","wgTitle":"Paderborn","wgCurRevisionId":799132247,"wgRevisionId":799132247,"wgArticleId":224123,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 German-language sources (de)","Articles needing additional references from June 2015","All articles needing additional references","Coordinates on Wikidata","Articles with hAudio microformats","Interlanguage link template link number","Articles with German-language external links","Wikipedia articles with VIAF identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","Cities in North Rhine-Westphalia","Paderborn","Paderborn (district)","University towns in Germany","Members of the Hanseatic League"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Paderborn","wgRelevantArticleId":224123,"wgRequestId":"Web4hwpAAD8AAHoOmTUAAABU","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCoordinates":{"lat":51.716666666667,"lon":8.7666666666667},"wgWikibaseItemId":"Q2971","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.3"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Paderborn_in_PB.svg/1200px-Paderborn_in_PB.svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Paderborn"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Paderborn&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Paderborn&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Paderborn"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Paderborn rootpage-Paderborn vector-experimental-print-styles vector-nav-directionality skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Paderborn</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Paderborn&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(June 2015)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<table class="infobox geography vcard" style="width:22em;width:23em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap"><span class="fn org"><span class="wrap">Paderborn</span></span></th>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Dom_zu_Paderborn.jpg" class="image" title="Paderborn Cathedral"><img alt="Paderborn Cathedral" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Dom_zu_Paderborn.jpg/250px-Dom_zu_Paderborn.jpg" width="250" height="188" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Dom_zu_Paderborn.jpg/375px-Dom_zu_Paderborn.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Dom_zu_Paderborn.jpg/500px-Dom_zu_Paderborn.jpg 2x" data-file-width="1600" data-file-height="1200" /></a>
+<div><a href="/wiki/Paderborn_Cathedral" title="Paderborn Cathedral">Paderborn Cathedral</a></div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" class="maptable" style="text-align:center">
+<table style="width:100%; background:none;">
+<tr>
+<td style="vertical-align:middle; text-align:center;"><a href="/wiki/File:Flagge_der_Stadt_Paderborn.svg" class="image" title="Flag of Paderborn "><img alt="Flag of Paderborn " src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Flagge_der_Stadt_Paderborn.svg/100px-Flagge_der_Stadt_Paderborn.svg.png" width="100" height="60" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Flagge_der_Stadt_Paderborn.svg/150px-Flagge_der_Stadt_Paderborn.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Flagge_der_Stadt_Paderborn.svg/200px-Flagge_der_Stadt_Paderborn.svg.png 2x" data-file-width="512" data-file-height="307" /></a><br />
+<small>Flag</small></td>
+<td style="vertical-align:middle; text-align:center;"><a href="/wiki/File:DEU_Paderborn_COA.svg" class="image" title="Coat of arms of Paderborn "><img alt="Coat of arms of Paderborn " src="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/DEU_Paderborn_COA.svg/66px-DEU_Paderborn_COA.svg.png" width="66" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/DEU_Paderborn_COA.svg/100px-DEU_Paderborn_COA.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/19/DEU_Paderborn_COA.svg/133px-DEU_Paderborn_COA.svg.png 2x" data-file-width="485" data-file-height="583" /></a><br />
+<small>Coat of arms</small></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center">
+<div class="center">
+<div style="width:170px;float:none;clear:both;margin-left:auto;margin-right:auto">
+<div style="width:170px;padding:0">
+<div style="position:relative;width:170px"><a href="/wiki/File:Germany_adm_location_map.svg" class="image" title="Paderborn  is located in Germany"><img alt="Paderborn  is located in Germany" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/170px-Germany_adm_location_map.svg.png" width="170" height="202" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/255px-Germany_adm_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/340px-Germany_adm_location_map.svg.png 2x" data-file-width="1073" data-file-height="1272" /></a>
+<div style="position:absolute;top:42.823%;left:32.67%">
+<div style="position:absolute;left:-3px;top:-3px;line-height:0"><img alt="Paderborn " src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png" title="Paderborn " width="6" height="6" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/9px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div>
+<div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:4px;text-align:left"><span style="padding:1px;float:left"><span class="wrap">Paderborn</span></span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr class="mergedrow">
+<td colspan="2" style="text-align: center;">
+<div class="NavFrame collapsed" style="border:line;">
+<div class="NavHead" style="background:transparent;text-align:left;height:auto; padding:0.2em; padding-left:0.6em; padding-right:2em;">Location of the city of Paderborn within the district&#160;</div>
+<div class="NavContent" style="background:transparent;text-align:left;">
+<div class="noresize" style="height: 240px; width: 240px; "><map name="ImageMap_1_868314097" id="ImageMap_1_868314097">
+<area href="/wiki/North_Rhine-Westphalia" shape="poly" coords="0,60,19,60,55,35,56,0,0,0" alt="North Rhine-Westphalia" title="North Rhine-Westphalia" />
+<area href="/wiki/Hesse" shape="poly" coords="209,237,197,212,237,193,237,232" alt="Hesse" title="Hesse" />
+<area href="/wiki/Hochsauerlandkreis" shape="poly" coords="221,200,197,213,209,237,69,237,98,222,111,221,166,232,179,179,192,176,197,187" alt="Hochsauerlandkreis" title="Hochsauerlandkreis" />
+<area href="/wiki/Soest_(district)" shape="poly" coords="81,232,69,237,0,237,0,100,30,97,42,97,42,111,78,123,80,142,48,187" alt="Soest (district)" title="Soest (district)" />
+<area href="/wiki/G%C3%BCtersloh_(district)" shape="poly" coords="0,97,19,97,19,75,89,0,104,15,129,6,125,0,57,0,55,35,19,60,0,60" alt="Gütersloh (district)" title="Gütersloh (district)" />
+<area href="/wiki/H%C3%B6xter_(district)" shape="poly" coords="197,187,221,200,237,194,237,0,221,0,221,11,202,15,202,35,221,60,231,163" alt="Höxter (district)" title="Höxter (district)" />
+<area href="/wiki/Lippe_(district)" shape="poly" coords="125,0,134,9,145,41,202,35,202,14,221,10,221,0" alt="Lippe (district)" title="Lippe (district)" />
+<area href="/wiki/Bad_Lippspringe" shape="poly" coords="125,31,145,60,156,53,169,69,183,60,183,35,145,41,139,23" alt="Bad Lippspringe" title="Bad Lippspringe" />
+<area href="/wiki/Paderborn" shape="poly" coords="98,60,129,41,145,60,154,54,168,69,183,60,183,97,173,103,157,97,111,117" alt="Paderborn" title="Paderborn" />
+<area href="/wiki/H%C3%B6velhof" shape="poly" coords="111,46,133,39,125,31,139,22,133,8,103,15,93,0,69,22,73,35" alt="Hövelhof" title="Hövelhof" />
+<area href="/wiki/Lichtenau,_Westphalia" shape="poly" coords="139,149,179,131,179,103,187,97,221,103,231,162,195,187,193,175,179,179" alt="Lichtenau" title="Lichtenau" />
+<area href="/wiki/Bad_W%C3%BCnnenberg" shape="poly" coords="129,142,179,181,164,232,111,222" alt="Bad Wünnenberg" title="Bad Wünnenberg" />
+<area href="/wiki/Altenbeken" shape="poly" coords="183,38,194,35,221,60,218,103,185,97" alt="Altenbeken" title="Altenbeken" />
+<area href="/wiki/Salzkotten" shape="poly" coords="42,97,101,86,111,123,129,142,129,149,82,142,78,123,44,111" alt="Salzkotten" title="Salzkotten" />
+<area href="/wiki/B%C3%BCren,_Westphalia" shape="poly" coords="85,142,129,149,106,222,94,222,82,232,48,183" alt="Büren" title="Büren" />
+<area href="/wiki/Borchen" shape="poly" coords="111,120,160,97,179,108,174,133,137,149" alt="Borchen" title="Borchen" />
+<area href="/wiki/Delbr%C3%BCck" shape="poly" coords="19,92,21,75,70,22,71,36,111,46,94,59,99,85,42,97" alt="Delbrück" title="Delbrück" /></map><img alt="Paderborn in PB.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Paderborn_in_PB.svg/240px-Paderborn_in_PB.svg.png" width="240" height="240" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Paderborn_in_PB.svg/360px-Paderborn_in_PB.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Paderborn_in_PB.svg/480px-Paderborn_in_PB.svg.png 2x" data-file-width="480" data-file-height="480" usemap="#ImageMap_1_868314097" />
+<div style="margin-left: 220px; margin-top: -20px; text-align: left;"><a href="/wiki/File:Paderborn_in_PB.svg" title="About this image"><img alt="About this image" src="/w/extensions/ImageMap/desc-20.png?15600" style="border: none;" /></a></div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr class="mergedbottomrow">
+<td colspan="2" style="text-align:center">Coordinates: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Paderborn&amp;params=51_43_N_8_46_E_type:city(148126)_region:DE-NW"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">51°43′N</span> <span class="longitude">8°46′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">51.717°N 8.767°E</span><span style="display:none">﻿ / <span class="geo">51.717; 8.767</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Paderborn&amp;params=51_43_N_8_46_E_type:city(148126)_region:DE-NW"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">51°43′N</span> <span class="longitude">8°46′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">51.717°N 8.767°E</span><span style="display:none">﻿ / <span class="geo">51.717; 8.767</span></span></span></a></span></span></span></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Country</th>
+<td><a href="/wiki/Germany" title="Germany">Germany</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/States_of_Germany" title="States of Germany">State</a></th>
+<td><a href="/wiki/North_Rhine-Westphalia" title="North Rhine-Westphalia">North Rhine-Westphalia</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Regierungsbezirk" title="Regierungsbezirk">Admin. region</a></th>
+<td><a href="/wiki/Detmold_(region)" title="Detmold (region)">Detmold</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Districts_of_Germany" title="Districts of Germany">District</a></th>
+<td><a href="/wiki/Paderborn_(district)" title="Paderborn (district)">Paderborn</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Government</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;<a href="/wiki/Burgomaster" title="Burgomaster">Mayor</a></th>
+<td>Michael Dreier (<a href="/wiki/Christian_Democratic_Union_(Germany)" class="mw-redirect" title="Christian Democratic Union (Germany)">CDU</a>)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Area</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Total</th>
+<td>179.38&#160;km<sup>2</sup> (69.26&#160;sq&#160;mi)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Elevation</th>
+<td>94-347&#160;m (−1,044&#160;ft)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Population <span style="font-weight:normal">(2015-12-31)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></span></th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Total</th>
+<td>148,126</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Density</th>
+<td>830/km<sup>2</sup> (2,100/sq&#160;mi)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/Time_zone" title="Time zone">Time zone</a></th>
+<td><a href="/wiki/Central_European_Time" title="Central European Time">CET</a>/<a href="/wiki/Central_European_Summer_Time" title="Central European Summer Time">CEST</a> (UTC+1/+2)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/List_of_postal_codes_in_Germany" title="List of postal codes in Germany">Postal codes</a></th>
+<td class="adr"><span class="postal-code">33041-33106</span></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/List_of_dialling_codes_in_Germany" title="List of dialling codes in Germany">Dialling codes</a></th>
+<td>05251, 05252, 05254, 05293</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Vehicle_registration_plate" title="Vehicle registration plate">Vehicle registration</a></th>
+<td>PB</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Website</th>
+<td><a rel="nofollow" class="external text" href="http://www.paderborn.de/microsite/welcome/index.php">paderborn.de</a></td>
+</tr>
+</table>
+<p><b>Paderborn</b> (<small>German pronunciation:</small> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA/Standard_German" title="Help:IPA/Standard German">[paːdɐˈbɔʁn]</a></span><small class="nowrap metadata">&#160;(<span class="unicode haudio"><span class="fn"><span style="white-space:nowrap"><a href="/wiki/File:Paderborn.ogg" title="About this sound"><img alt="About this sound" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" data-file-width="20" data-file-height="20" /></a>&#160;</span><a href="//upload.wikimedia.org/wikipedia/commons/3/35/Paderborn.ogg" class="internal" title="Paderborn.ogg">listen</a></span></span>)</small>)<sup id="cite_ref-Duden_2-0" class="reference"><a href="#cite_note-Duden-2">[2]</a></sup> is a city in eastern <a href="/wiki/North_Rhine-Westphalia" title="North Rhine-Westphalia">North Rhine-Westphalia</a>, <a href="/wiki/Germany" title="Germany">Germany</a>, capital of the <a href="/wiki/Paderborn_(district)" title="Paderborn (district)">Paderborn district</a>. The name of the city derives from the river <a href="/wiki/Pader_River" class="mw-redirect" title="Pader River">Pader</a> and 'born', an old German term for the source of a river. The river Pader originates in more than 200 springs near <a href="/wiki/Paderborn_Cathedral" title="Paderborn Cathedral">Paderborn Cathedral</a>, where <a href="/wiki/St._Liborius" class="mw-redirect" title="St. Liborius">St. Liborius</a> is buried.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Geography"><span class="tocnumber">2</span> <span class="toctext">Geography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Neighbouring_municipalities"><span class="tocnumber">2.1</span> <span class="toctext">Neighbouring municipalities</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Subdivisions"><span class="tocnumber">2.2</span> <span class="toctext">Subdivisions</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Demographics"><span class="tocnumber">3</span> <span class="toctext">Demographics</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Economy"><span class="tocnumber">4</span> <span class="toctext">Economy</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Arts_and_culture"><span class="tocnumber">5</span> <span class="toctext">Arts and culture</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Image_gallery"><span class="tocnumber">5.1</span> <span class="toctext">Image gallery</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Government"><span class="tocnumber">6</span> <span class="toctext">Government</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Town_twinning"><span class="tocnumber">6.1</span> <span class="toctext">Town twinning</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Sports"><span class="tocnumber">7</span> <span class="toctext">Sports</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#Paderborn_Baskets_.28Basketball.29"><span class="tocnumber">7.1</span> <span class="toctext">Paderborn Baskets (Basketball)</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#SC_Paderborn_07_.28Football.29"><span class="tocnumber">7.2</span> <span class="toctext">SC Paderborn 07 (Football)</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#Infrastructure"><span class="tocnumber">8</span> <span class="toctext">Infrastructure</span></a>
+<ul>
+<li class="toclevel-2 tocsection-15"><a href="#Transportation"><span class="tocnumber">8.1</span> <span class="toctext">Transportation</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#Education"><span class="tocnumber">9</span> <span class="toctext">Education</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#Sons_and_daughters_of_the_town"><span class="tocnumber">10</span> <span class="toctext">Sons and daughters of the town</span></a>
+<ul>
+<li class="toclevel-2 tocsection-18"><a href="#ancient_times"><span class="tocnumber">10.1</span> <span class="toctext">ancient times</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#more_modern_times"><span class="tocnumber">10.2</span> <span class="toctext">more modern times</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-20"><a href="#See_also"><span class="tocnumber">11</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="#References"><span class="tocnumber">12</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-22"><a href="#Further_reading"><span class="tocnumber">13</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-23"><a href="#External_links"><span class="tocnumber">14</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Paderborn&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Paderborn was founded as a <a href="/wiki/Bishopric" class="mw-redirect" title="Bishopric">bishopric</a> by <a href="/wiki/Charlemagne" title="Charlemagne">Charlemagne</a> in 795, although its official history began in 777 when Charlemagne built a castle near the Pader springs.<sup id="cite_ref-Heribert_Zelder_2009_3-0" class="reference"><a href="#cite_note-Heribert_Zelder_2009-3">[3]</a></sup> In 799 <a href="/wiki/Pope_Leo_III" title="Pope Leo III">Pope Leo III</a> fled his enemies in <a href="/wiki/Rome" title="Rome">Rome</a> and reached Paderborn, where he met Charlemagne, and stayed there for three months. It was during this time that it was decided that Charlemagne would be crowned emperor. Charlemagne reinstated Leo in Rome in 800 and was crowned as <a href="/wiki/Holy_Roman_Emperor" title="Holy Roman Emperor">Holy Roman Emperor</a> by Leo in return. In 836, <a href="/wiki/Liborius_of_Le_Mans" title="Liborius of Le Mans">St. Liborius</a> became the patron saint of Paderborn after his bones were moved there from <a href="/wiki/Le_Mans" title="Le Mans">Le Mans</a> by Bishop Badurad.<sup id="cite_ref-ReferenceA_4-0" class="reference"><a href="#cite_note-ReferenceA-4">[4]</a></sup> St. Liborius is commemorated in Paderborn every year in July with the Liborifest.</p>
+<p>The <a href="/wiki/Bishopric_of_Paderborn" class="mw-redirect" title="Bishopric of Paderborn">bishop of Paderborn</a>, Meinwerk, became a <a href="/wiki/Prince_of_the_Empire" class="mw-redirect" title="Prince of the Empire">Prince of the Empire</a> in 1100. The bishop had several large buildings built, and the area became a place for the emperors to stay.<sup id="cite_ref-Heribert_Zelder_2009_3-1" class="reference"><a href="#cite_note-Heribert_Zelder_2009-3">[3]</a></sup></p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:252px;"><a href="/wiki/File:Paderborn-Kupferstich-Merian.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Paderborn-Kupferstich-Merian.png/250px-Paderborn-Kupferstich-Merian.png" width="250" height="77" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Paderborn-Kupferstich-Merian.png/375px-Paderborn-Kupferstich-Merian.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/09/Paderborn-Kupferstich-Merian.png/500px-Paderborn-Kupferstich-Merian.png 2x" data-file-width="2596" data-file-height="796" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Paderborn-Kupferstich-Merian.png" class="internal" title="Enlarge"></a></div>
+Paderborn in 1647.</div>
+</div>
+</div>
+<p>The city was taken by <a href="/wiki/Prussia" title="Prussia">Prussia</a> in 1802, then by the <a href="/wiki/France" title="France">French</a> <a href="/wiki/Vassal_state" title="Vassal state">vassal state</a> <a href="/wiki/Kingdom_of_Westphalia" title="Kingdom of Westphalia">Kingdom of Westphalia</a> from 1807 to 1813 and then returned to Prussia.</p>
+<p>Native <a href="/wiki/Friedrich_Sert%C3%BCrner" title="Friedrich Sertürner">Friedrich Sertürner</a>, a pharmacist's apprentice in Paderborn, was the first to isolate <a href="/wiki/Morphine" title="Morphine">morphine</a> from <a href="/wiki/Opium" title="Opium">opium</a> in 1804.</p>
+<p>In 1930, the See of Paderborn was promoted to <a href="/wiki/Roman_Catholic_Archdiocese_of_Paderborn" title="Roman Catholic Archdiocese of Paderborn">archdiocese</a>.</p>
+<p>During <a href="/wiki/World_War_II" title="World War II">World War II</a>, Paderborn was bombed by Allied aircraft in 1944 and 1945, resulting in 85% destruction, including many of the historic buildings. It was seized by the US <a href="/wiki/3rd_Armored_Division_(United_States)" title="3rd Armored Division (United States)">3rd Armored Division</a> after a pitched battle 31 March - 1 April 1945, in which tanks and <a href="/wiki/Flamethrower" title="Flamethrower">flamethrowers</a> were used during combined mechanized-infantry assaults against the city's southwestern, southern and southeastern approaches.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></p>
+<p>After the city was reconstructed in the 1940s and 1950s, Paderborn became a major industrial seat in Westphalia.<sup id="cite_ref-ReferenceA_4-1" class="reference"><a href="#cite_note-ReferenceA-4">[4]</a></sup> The British Army has retained a significant presence in the area, and uses the nearby <a href="/wiki/Sennelager_Training_Area" title="Sennelager Training Area">Sennelager Training Area</a>.</p>
+<h2><span class="mw-headline" id="Geography">Geography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Paderborn&amp;action=edit&amp;section=2" title="Edit section: Geography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Paderborn_St%C3%BCmpelsche_M%C3%BChle.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Paderborn_St%C3%BCmpelsche_M%C3%BChle.jpg/220px-Paderborn_St%C3%BCmpelsche_M%C3%BChle.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Paderborn_St%C3%BCmpelsche_M%C3%BChle.jpg/330px-Paderborn_St%C3%BCmpelsche_M%C3%BChle.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Paderborn_St%C3%BCmpelsche_M%C3%BChle.jpg/440px-Paderborn_St%C3%BCmpelsche_M%C3%BChle.jpg 2x" data-file-width="1152" data-file-height="864" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Paderborn_St%C3%BCmpelsche_M%C3%BChle.jpg" class="internal" title="Enlarge"></a></div>
+Pader River</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Eggegebirge.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Eggegebirge.jpg/220px-Eggegebirge.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Eggegebirge.jpg/330px-Eggegebirge.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Eggegebirge.jpg/440px-Eggegebirge.jpg 2x" data-file-width="3699" data-file-height="2774" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Eggegebirge.jpg" class="internal" title="Enlarge"></a></div>
+Eggegebirge</div>
+</div>
+</div>
+<p>Paderborn is situated at the spring of the <i>Pader</i> river, approximately 30 kilometres (19&#160;mi) east of <a href="/wiki/Lippstadt" title="Lippstadt">Lippstadt</a> and approximately 50 kilometres (31&#160;mi) south of <a href="/wiki/Bielefeld" title="Bielefeld">Bielefeld</a> on the Pader river. The hills of the <a href="/wiki/Eggegebirge" class="mw-redirect" title="Eggegebirge">Eggegebirge</a> are located east of the city.</p>
+<h3><span class="mw-headline" id="Neighbouring_municipalities">Neighbouring municipalities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Paderborn&amp;action=edit&amp;section=3" title="Edit section: Neighbouring municipalities">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table>
+<tr>
+<td valign="top">
+<ul>
+<li><a href="/wiki/H%C3%B6velhof" title="Hövelhof">Hövelhof</a></li>
+<li><a href="/wiki/Bad_Lippspringe" title="Bad Lippspringe">Bad Lippspringe</a></li>
+<li><a href="/wiki/Altenbeken" title="Altenbeken">Altenbeken</a></li>
+<li><a href="/wiki/Lichtenau,_Westphalia" title="Lichtenau, Westphalia">Lichtenau</a></li>
+</ul>
+</td>
+<td valign="top">
+<ul>
+<li><a href="/wiki/Borchen" title="Borchen">Borchen</a></li>
+<li><a href="/wiki/Salzkotten" title="Salzkotten">Salzkotten</a></li>
+<li><a href="/wiki/Delbr%C3%BCck" title="Delbrück">Delbrück</a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Subdivisions">Subdivisions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Paderborn&amp;action=edit&amp;section=4" title="Edit section: Subdivisions">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The city of Paderborn consists of the following <i>Stadtteile</i>:</p>
+<table>
+<tr>
+<td valign="top">
+<ul>
+<li>Paderborn (city center)</li>
+<li>Schloß Neuhaus</li>
+<li><a href="/wiki/Elsen" title="Elsen">Elsen</a></li>
+<li>Benhausen</li>
+<li>Wewer</li>
+</ul>
+</td>
+<td valign="top">
+<ul>
+<li>Dahl</li>
+<li>Neuenbeken</li>
+<li>Marienloh</li>
+<li><a href="/wiki/Sennelager" title="Sennelager">Sennelager</a></li>
+<li>Sande</li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Demographics">Demographics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Paderborn&amp;action=edit&amp;section=5" title="Edit section: Demographics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Paderborn has a population of over 144,000, of which approximately 10% are students at the local <a href="/wiki/Universit%C3%A4t_Paderborn" class="mw-redirect" title="Universität Paderborn">university</a>. Additionally, about 10,000 members or relatives of members of the <a href="/wiki/British_Forces_Germany" title="British Forces Germany">British armed forces</a> live within <a href="/wiki/Westfalen_Garrison" title="Westfalen Garrison">Westfalen Garrison</a>, but are not included in the nominal population size.</p>
+<table class="infobox" style="float:right;">
+<tr>
+<td colspan="2"><b>Largest groups of foreign residents</b></td>
+</tr>
+<tr>
+<th>Nationality</th>
+<th>Population (2011)</th>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/23px-Flag_of_Turkey.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/35px-Flag_of_Turkey.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/45px-Flag_of_Turkey.svg.png 2x" data-file-width="1200" data-file-height="800" />&#160;</span><a href="/wiki/Turkey" title="Turkey">Turkey</a></td>
+<td>2,210</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/35px-Flag_of_Poland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/46px-Flag_of_Poland.svg.png 2x" data-file-width="1280" data-file-height="800" />&#160;</span><a href="/wiki/Poland" title="Poland">Poland</a></td>
+<td>1,212</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/wiki/Italy" title="Italy">Italy</a></td>
+<td>1,206</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" />&#160;</span><a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></td>
+<td>903</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/China" title="China">China</a></td>
+<td>627</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/35px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/45px-Flag_of_Russia.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Russia" title="Russia">Russia</a></td>
+<td>578</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/Flag_of_Serbia_and_Montenegro.svg/23px-Flag_of_Serbia_and_Montenegro.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/Flag_of_Serbia_and_Montenegro.svg/35px-Flag_of_Serbia_and_Montenegro.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/90/Flag_of_Serbia_and_Montenegro.svg/46px-Flag_of_Serbia_and_Montenegro.svg.png 2x" data-file-width="600" data-file-height="300" />&#160;</span><a href="/wiki/Serbia_and_Montenegro" title="Serbia and Montenegro">Serbia &amp; Montenegro</a></td>
+<td>573</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" />&#160;</span><a href="/wiki/Spain" title="Spain">Spain</a></td>
+<td>326</td>
+</tr>
+</table>
+<p>60% of the population are Catholics, 20% Lutherans and 20% "other".</p>
+<h2><span class="mw-headline" id="Economy">Economy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Paderborn&amp;action=edit&amp;section=6" title="Edit section: Economy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Paderborn is the headquarters of the former <a href="/wiki/Nixdorf_Computer_AG" class="mw-redirect" title="Nixdorf Computer AG">Nixdorf Computer AG</a>, which was acquired by <a href="/wiki/Siemens_AG" class="mw-redirect" title="Siemens AG">Siemens</a> in the early 1990s and known as <a href="/wiki/Siemens-Nixdorf" class="mw-redirect" title="Siemens-Nixdorf">Siemens-Nixdorf</a> for about 10 years. The company is now known as <a href="/wiki/Wincor_Nixdorf" title="Wincor Nixdorf">Wincor Nixdorf</a> which is still located in Paderborn, but Siemens retains a considerable presence in the city.</p>
+<p>Many other <a href="/wiki/Information_technology" title="Information technology">information technology</a> companies as well as industrial enterprises are located in Paderborn, too:</p>
+<ul>
+<li><a href="/wiki/Benteler_AG" class="mw-redirect" title="Benteler AG">Benteler AG</a> (steel/tube, automotive, trade)</li>
+<li><a href="/wiki/Claas" title="Claas">Claas</a> (farm machines)</li>
+<li><a href="/wiki/Deutsche_Bahn_AG" class="mw-redirect" title="Deutsche Bahn AG">Deutsche Bahn AG</a> (vehicle maintenance)</li>
+<li><a href="/wiki/DSPACE_GmbH" title="DSPACE GmbH">dSPACE GmbH</a> (engineering tools)</li>
+<li><a href="/wiki/Flextronics" title="Flextronics">Flextronics</a></li>
+<li><a href="/wiki/Fujitsu_Technology_Solutions" title="Fujitsu Technology Solutions">Fujitsu Technology Solutions</a></li>
+<li><a href="/wiki/Orga_Systems_GmbH" class="mw-redirect" title="Orga Systems GmbH">Orga Systems GmbH</a></li>
+<li><a href="/wiki/Secure_Computing_Corporation" title="Secure Computing Corporation">Secure Computing Corporation</a></li>
+<li><a href="/wiki/Siemens_AG" class="mw-redirect" title="Siemens AG">Siemens AG</a> (Siemens IT Solutions and Services)</li>
+<li><a href="/wiki/Zuken" title="Zuken">Zuken</a> (PCB EMC Analysis and Design Software)</li>
+</ul>
+<p>Paderborn is also home of the "<a href="/wiki/Brauerei_Paderborner" class="mw-redirect" title="Brauerei Paderborner">Paderborner</a>" <a href="/wiki/Brewery" title="Brewery">brewery</a>, which has belonged to the Warsteiner group since 1990.</p>
+<h2><span class="mw-headline" id="Arts_and_culture">Arts and culture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Paderborn&amp;action=edit&amp;section=7" title="Edit section: Arts and culture">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Paderborn has the largest <a href="/wiki/Computer_museum" title="Computer museum">computer museum</a> in the world, the <i><a href="https://de.wikipedia.org/wiki/Heinz_Nixdorf_MuseumsForum" class="extiw" title="de:Heinz Nixdorf MuseumsForum">de:Heinz Nixdorf MuseumsForum</a></i>. From 2001 to 2005 it hosted the <a href="/w/index.php?title=RoboCup_German_Open&amp;action=edit&amp;redlink=1" class="new" title="RoboCup German Open (page does not exist)">RoboCup German Open</a><span class="noprint" style="font-size:85%; font-style: normal;">&#160;(<a href="https://de.wikipedia.org/wiki/RoboCup_German_Open" class="extiw" title="de:RoboCup German Open">de</a>)</span>.</p>
+<p>The town supports the <a href="/wiki/Nordwestdeutsche_Philharmonie" title="Nordwestdeutsche Philharmonie">Nordwestdeutsche Philharmonie</a> for regular symphony concerts in the Paderhalle.</p>
+<p>The city is known today for its exhibitions in three museums: the <i>Kaiserpfalz</i>, The Diocesian Museum and the Art Museum - Städtische Galerie.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></p>
+<h3><span class="mw-headline" id="Image_gallery">Image gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Paderborn&amp;action=edit&amp;section=8" title="Edit section: Image gallery">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 135px">
+<div style="width: 135px">
+<div class="thumb" style="width: 130px;">
+<div style="margin:27.5px auto;"><a href="/wiki/File:Over_paderborn.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Over_paderborn.jpg/100px-Over_paderborn.jpg" width="100" height="75" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Over_paderborn.jpg/150px-Over_paderborn.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Over_paderborn.jpg/200px-Over_paderborn.jpg 2x" data-file-width="1600" data-file-height="1200" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Central Paderborn and Cathedral</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 135px">
+<div style="width: 135px">
+<div class="thumb" style="width: 130px;">
+<div style="margin:27.5px auto;"><a href="/wiki/File:Paderborn_Kath.Kirche_St.Georg.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Paderborn_Kath.Kirche_St.Georg.jpg/100px-Paderborn_Kath.Kirche_St.Georg.jpg" width="100" height="75" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Paderborn_Kath.Kirche_St.Georg.jpg/150px-Paderborn_Kath.Kirche_St.Georg.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/26/Paderborn_Kath.Kirche_St.Georg.jpg/200px-Paderborn_Kath.Kirche_St.Georg.jpg 2x" data-file-width="1152" data-file-height="864" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Saint_George" title="Saint George">Saint George</a>'s church, Paderborn</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 135px">
+<div style="width: 135px">
+<div class="thumb" style="width: 130px;">
+<div style="margin:27.5px auto;"><a href="/wiki/File:Paderborner_Rathaus.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paderborner_Rathaus.jpg/100px-Paderborner_Rathaus.jpg" width="100" height="75" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paderborner_Rathaus.jpg/150px-Paderborner_Rathaus.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paderborner_Rathaus.jpg/200px-Paderborner_Rathaus.jpg 2x" data-file-width="1152" data-file-height="864" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Town hall Paderborn (Rathaus)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 135px">
+<div style="width: 135px">
+<div class="thumb" style="width: 130px;">
+<div style="margin:36.5px auto;"><a href="/wiki/File:Bartholom%C3%A4uskapelle_Paderborn.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Bartholom%C3%A4uskapelle_Paderborn.jpg/100px-Bartholom%C3%A4uskapelle_Paderborn.jpg" width="100" height="57" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Bartholom%C3%A4uskapelle_Paderborn.jpg/150px-Bartholom%C3%A4uskapelle_Paderborn.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Bartholom%C3%A4uskapelle_Paderborn.jpg/200px-Bartholom%C3%A4uskapelle_Paderborn.jpg 2x" data-file-width="5579" data-file-height="3178" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Inside the Bartholomäuskapelle</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 135px">
+<div style="width: 135px">
+<div class="thumb" style="width: 130px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Paderborn_shopping.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Paderborn_shopping.jpg/75px-Paderborn_shopping.jpg" width="75" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Paderborn_shopping.jpg/112px-Paderborn_shopping.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Paderborn_shopping.jpg/150px-Paderborn_shopping.jpg 2x" data-file-width="3000" data-file-height="4000" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Photo of Paderborn city center</p>
+</div>
+</div>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Government">Government</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Paderborn&amp;action=edit&amp;section=9" title="Edit section: Government">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Town_twinning">Town twinning</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Paderborn&amp;action=edit&amp;section=10" title="Edit section: Town twinning">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/List_of_twin_towns_and_sister_cities_in_Germany" title="List of twin towns and sister cities in Germany">List of twin towns and sister cities in Germany</a></div>
+<p>Paderborn is <a href="/wiki/Town_twinning" class="mw-redirect" title="Town twinning">twinned</a> with:</p>
+<ul>
+<li><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Le_Mans" title="Le Mans">Le Mans</a>, France, officially since 1967, traditionally since 836 (oldest partnership of its kind)<sup id="cite_ref-Balavoine1994_7-0" class="reference"><a href="#cite_note-Balavoine1994-7">[7]</a></sup><sup id="cite_ref-Origins_8-0" class="reference"><a href="#cite_note-Origins-8">[8]</a></sup></li>
+<li><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Bolton" title="Bolton">Bolton</a>, United Kingdom, since 1975</li>
+<li><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/Belleville,_Illinois" title="Belleville, Illinois">Belleville, Illinois</a>, U.S., since 1990</li>
+<li><span class="flagicon"><a href="/wiki/Spain" title="Spain"><img alt="Spain" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" /></a></span> <a href="/wiki/Pamplona" title="Pamplona">Pamplona</a>, Spain, since 1992</li>
+<li><span class="flagicon"><a href="/wiki/Poland" title="Poland"><img alt="Poland" src="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/35px-Flag_of_Poland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/46px-Flag_of_Poland.svg.png 2x" data-file-width="1280" data-file-height="800" /></a></span> <a href="/wiki/Przemy%C5%9Bl" title="Przemyśl">Przemyśl</a>, Poland, since 1993</li>
+<li><span class="flagicon"><a href="/wiki/Hungary" title="Hungary"><img alt="Hungary" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/23px-Flag_of_Hungary.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/35px-Flag_of_Hungary.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/46px-Flag_of_Hungary.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Debrecen" title="Debrecen">Debrecen</a>, Hungary, since 1994</li>
+<li><span class="flagicon"><a href="/wiki/China" title="China"><img alt="China" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Qingdao" title="Qingdao">Qingdao</a>, China, since 2003</li>
+</ul>
+<h2><span class="mw-headline" id="Sports">Sports</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Paderborn&amp;action=edit&amp;section=11" title="Edit section: Sports">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Paderborn is nationally known as a center for American Sports. The local <a href="/wiki/Baseball" title="Baseball">baseball</a> team, the <a href="/wiki/Paderborn_Untouchables" title="Paderborn Untouchables">Paderborn Untouchables</a>, has won many German championships. The local <a href="/wiki/American_Football" class="mw-redirect" title="American Football">American Football</a> team, the Paderborn Dolphins, has also enjoyed considerable success. In 2006 the <a href="/wiki/Paderborn_Baskets" title="Paderborn Baskets">Paderborn Baskets</a>, the home <a href="/wiki/Basketball" title="Basketball">basketball</a> team of the city was promoted to the <a href="/wiki/Basketball_Bundesliga" title="Basketball Bundesliga">Bundesliga</a>.</p>
+<h3><span id="Paderborn_Baskets_(Basketball)"></span><span class="mw-headline" id="Paderborn_Baskets_.28Basketball.29">Paderborn Baskets (Basketball)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Paderborn&amp;action=edit&amp;section=12" title="Edit section: Paderborn Baskets (Basketball)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the past, the <a href="/wiki/Paderborn_Baskets" title="Paderborn Baskets">Paderborn Baskets</a> played multiple seasons in the <a href="/wiki/Basketball_Bundesliga" title="Basketball Bundesliga">Basketball Bundesliga</a>. They reached the playoffs in the 2008-09 season.</p>
+<h3><span id="SC_Paderborn_07_(Football)"></span><span class="mw-headline" id="SC_Paderborn_07_.28Football.29">SC Paderborn 07 (Football)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Paderborn&amp;action=edit&amp;section=13" title="Edit section: SC Paderborn 07 (Football)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/SC_Paderborn_07" title="SC Paderborn 07">SC Paderborn 07</a> is a German <a href="/wiki/Association_football" title="Association football">football</a> club based in Paderborn. Promoted from the <a href="/wiki/2._Bundesliga" title="2. Bundesliga">2. Bundesliga</a> due to a very successful <i>2013/2014</i> campaign, the team advanced to the <a href="/wiki/Bundesliga" title="Bundesliga">Bundesliga</a>, Germany's top flight, but remained there for just one year.</p>
+<p>The club was formed out of the 1985 merger of FC Paderborn and TuS Schloß Neuhaus as TuS Paderborn-Neuhaus and took on its current, shorter name in 1997. The Neuhaus club was founded in 1907 as SV 07 Neuhaus which was joined by the local side TuS 1910 Sennelager to become TuS Schloss Neuhaus in 1970. The Neuhaus and Paderborn teams played as tier III sides for most of their histories, as has the unified club. Today Paderborn plays its home matches at the Benteler Arena.</p>
+<h2><span class="mw-headline" id="Infrastructure">Infrastructure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Paderborn&amp;action=edit&amp;section=14" title="Edit section: Infrastructure">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Transportation">Transportation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Paderborn&amp;action=edit&amp;section=15" title="Edit section: Transportation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Airport_PAD_Abflughalle.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Airport_PAD_Abflughalle.jpg/220px-Airport_PAD_Abflughalle.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Airport_PAD_Abflughalle.jpg/330px-Airport_PAD_Abflughalle.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/Airport_PAD_Abflughalle.jpg/440px-Airport_PAD_Abflughalle.jpg 2x" data-file-width="1152" data-file-height="864" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Airport_PAD_Abflughalle.jpg" class="internal" title="Enlarge"></a></div>
+Paderborn Airport</div>
+</div>
+</div>
+<p>Paderborn is located at the <a href="/wiki/Bundesautobahn_33" title="Bundesautobahn 33">Autobahn A 33</a>, which connects Paderborn to the <a href="/wiki/Bundesautobahn_2" title="Bundesautobahn 2">Autobahn A 2</a> in the north and the <a href="/wiki/Bundesautobahn_44" title="Bundesautobahn 44">Autobahn A 44</a> in the south.</p>
+<p>The <a href="/wiki/Paderborn_Hauptbahnhof" title="Paderborn Hauptbahnhof">main station</a> is a regular stop for the <a href="/wiki/InterCity" title="InterCity">InterCity</a> on the <a href="/wiki/Hamm%E2%80%93Warburg_railway" title="Hamm–Warburg railway">Hamm–Warburg line</a> and several local trains.</p>
+<p>The <a href="/wiki/Paderborn_Lippstadt_Airport" title="Paderborn Lippstadt Airport">Paderborn Lippstadt Airport</a> connects Paderborn to the bigger German airports and offers flights to many locations in Europe. There is a bus shuttle between the airport and the Paderborn main train station. General Aviation and gliders are based at Paderborn-Haxterberg (site of the world gliding championships in 1981).</p>
+<p>In Paderborn there is a bus system served by the <i>PaderSprinter</i> for local buses and the <i>Bahnbus Hochstift</i> for regional buses.</p>
+<h2><span class="mw-headline" id="Education">Education</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Paderborn&amp;action=edit&amp;section=16" title="Edit section: Education">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Uni-Paderborn_vom_Suedring.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Uni-Paderborn_vom_Suedring.jpg/220px-Uni-Paderborn_vom_Suedring.jpg" width="220" height="96" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Uni-Paderborn_vom_Suedring.jpg/330px-Uni-Paderborn_vom_Suedring.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Uni-Paderborn_vom_Suedring.jpg/440px-Uni-Paderborn_vom_Suedring.jpg 2x" data-file-width="1152" data-file-height="502" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Uni-Paderborn_vom_Suedring.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/University_of_Paderborn" class="mw-redirect" title="University of Paderborn">University of Paderborn</a></div>
+</div>
+</div>
+<p>Paderborn was once the oldest academic site in Westphalia. In 1614, the <a href="/wiki/University_of_Paderborn" class="mw-redirect" title="University of Paderborn">University of Paderborn</a> was founded by the <a href="/wiki/Jesuits" class="mw-redirect" title="Jesuits">Jesuits</a> but was closed in 1819. It was re-founded in 1972 as Universität-Gesamthochschule and transformed into a university in its own right in 2002. Today, it is attended by about 20,000 students.</p>
+<p>Additionally, there are several <a href="/wiki/Theological" class="mw-redirect" title="Theological">theological</a> and private academic institutes in Paderborn.</p>
+<p>There are a number of grammar schools in the city, the most prominent of which are the <a href="https://de.wikipedia.org/wiki/Theodorianum" class="extiw" title="de:Theodorianum">Theodorianum</a> and <a href="https://de.wikipedia.org/wiki/Gymnasium_St._Michael_Paderborn" class="extiw" title="de:Gymnasium St. Michael Paderborn">St. Michael Gymnasium</a>, along with others such as the <a href="/wiki/Goerdeler-Gymnasium_Paderborn" title="Goerdeler-Gymnasium Paderborn">Goerdeler-Gymnasium</a>. There are also a few British primary schools such as <a href="/wiki/John_Buchan_School" title="John Buchan School">John Buchan School</a>, which is located in <a href="/wiki/Sennelager" title="Sennelager">Sennelager</a> and mainly educates children of British military personnel and the garrison's employees.</p>
+<h2><span class="mw-headline" id="Sons_and_daughters_of_the_town">Sons and daughters of the town</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Paderborn&amp;action=edit&amp;section=17" title="Edit section: Sons and daughters of the town">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="ancient_times">ancient times</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Paderborn&amp;action=edit&amp;section=18" title="Edit section: ancient times">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:152px;"><a href="/wiki/File:Joseph_Hermann_Schmidt_(1804-1852).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Joseph_Hermann_Schmidt_%281804-1852%29.jpg/150px-Joseph_Hermann_Schmidt_%281804-1852%29.jpg" width="150" height="231" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Joseph_Hermann_Schmidt_%281804-1852%29.jpg/225px-Joseph_Hermann_Schmidt_%281804-1852%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/44/Joseph_Hermann_Schmidt_%281804-1852%29.jpg/300px-Joseph_Hermann_Schmidt_%281804-1852%29.jpg 2x" data-file-width="350" data-file-height="540" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Joseph_Hermann_Schmidt_(1804-1852).jpg" class="internal" title="Enlarge"></a></div>
+Joseph Hermann Schmidt</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:132px;"><a href="/wiki/File:Freiherr_von_Plettenberg.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Freiherr_von_Plettenberg.jpg/130px-Freiherr_von_Plettenberg.jpg" width="130" height="191" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Freiherr_von_Plettenberg.jpg/195px-Freiherr_von_Plettenberg.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Freiherr_von_Plettenberg.jpg/260px-Freiherr_von_Plettenberg.jpg 2x" data-file-width="680" data-file-height="1000" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Freiherr_von_Plettenberg.jpg" class="internal" title="Enlarge"></a></div>
+Karl von Plettenberg</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:132px;"><a href="/wiki/File:Sophie_Schroeder.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Sophie_Schroeder.jpg/130px-Sophie_Schroeder.jpg" width="130" height="195" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Sophie_Schroeder.jpg/195px-Sophie_Schroeder.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Sophie_Schroeder.jpg/260px-Sophie_Schroeder.jpg 2x" data-file-width="1399" data-file-height="2099" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Sophie_Schroeder.jpg" class="internal" title="Enlarge"></a></div>
+Sophie Schröder in 1828</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:132px;"><a href="/wiki/File:Friedrich_Wilhelm_Adam_Sertuerner.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Friedrich_Wilhelm_Adam_Sertuerner.jpg/130px-Friedrich_Wilhelm_Adam_Sertuerner.jpg" width="130" height="107" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Friedrich_Wilhelm_Adam_Sertuerner.jpg/195px-Friedrich_Wilhelm_Adam_Sertuerner.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/Friedrich_Wilhelm_Adam_Sertuerner.jpg/260px-Friedrich_Wilhelm_Adam_Sertuerner.jpg 2x" data-file-width="1640" data-file-height="1353" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Friedrich_Wilhelm_Adam_Sertuerner.jpg" class="internal" title="Enlarge"></a></div>
+Friedrich Wilhelm Adam Sertürner</div>
+</div>
+</div>
+<ul>
+<li><a href="/wiki/Heinrich_Aldegrever" title="Heinrich Aldegrever">Heinrich Aldegrever</a> (1502 -&#160;?1558?), Copper cutter, painter and seal cutter</li>
+<li><a href="/wiki/Carl_Ferdinand_Fabritius" title="Carl Ferdinand Fabritius">Carl Ferdinand Fabritius</a> (1637 – 1673) was a painter in the <a href="/wiki/Bishopric_of_Paderborn" class="mw-redirect" title="Bishopric of Paderborn">Bishopric of Paderborn</a></li>
+<li><a href="/wiki/Franz_Anton_Cramer" title="Franz Anton Cramer">Franz Anton Cramer</a> (1776 – 1829) was a German apothecary in Paderborn. Adlerapotheke at the Paderborn market. His generous support enabled the discovery of morphine.</li>
+<li><a href="/wiki/Sophie_Schr%C3%B6der" title="Sophie Schröder">Sophie Schröder</a> (1781-1868), singer and actress, the daughter of an actor, Gottfried Bürger. She made her first appearance in opera at <a href="/wiki/St_Petersburg" class="mw-redirect" title="St Petersburg">St Petersburg</a> in 1793</li>
+<li><a href="/wiki/Friedrich_Sert%C3%BCrner" title="Friedrich Sertürner">Friedrich Wilhelm Adam Sertürner</a> (1783-1841), pharmacist, first to isolate morphine from opium</li>
+<li>Therese Overstolz (1790-1862) mother of <a href="/wiki/Henry_Overstolz" title="Henry Overstolz">Henry Overstolz</a> (1821–1887) the 24th mayor of <a href="/wiki/St._Louis,_Missouri" class="mw-redirect" title="St. Louis, Missouri">St. Louis, Missouri</a></li>
+<li><a href="/wiki/Joseph_Hermann_Schmidt" title="Joseph Hermann Schmidt">Joseph Hermann Schmidt</a> (1804-1852), Paderborn physician, director, Charité Birth Department, Berlin</li>
+<li><a href="/wiki/George_Henry_Backhaus" title="George Henry Backhaus">George Henry Backhaus</a> (1811 in Paderborn – 1882) was a Catholic priest and one of nine children of a boot merchant, missionary</li>
+<li><a href="/wiki/Franz_von_L%C3%B6her" title="Franz von Löher">Franz von Löher</a> (1818-1892), politician, jurist and historian</li>
+<li><a href="/wiki/Christoph_Ernst_Friedrich_von_Forcade_de_Biaix" title="Christoph Ernst Friedrich von Forcade de Biaix">Christoph Ernst Friedrich von Forcade de Biaix</a> (1821-1891), owner of the estate, judge and member of the German <a href="/wiki/Reichstag_(German_Empire)" title="Reichstag (German Empire)">Reichstag</a></li>
+<li><a href="/wiki/Julius_von_Ficker" title="Julius von Ficker">Julius von Ficker</a> (1826-1902), German-Austrian historian</li>
+<li><a href="/wiki/Joseph_F._Rigge" title="Joseph F. Rigge">Joseph F. Rigge</a> S.J. (1842-1913) was the first president of <a href="/wiki/Marquette_College" class="mw-redirect" title="Marquette College">Marquette College</a> (now <a href="/wiki/Marquette_University" title="Marquette University">Marquette University</a>) in <a href="/wiki/Milwaukee,_Wisconsin" class="mw-redirect" title="Milwaukee, Wisconsin">Milwaukee, Wisconsin</a></li>
+<li>Klara Cramer (1844–96) from Paderborn; mother of <a href="/wiki/Hermann_L%C3%B6ns" title="Hermann Löns">Hermann Löns</a> (1866 – 1914) journalist and writer.</li>
+<li><a href="/wiki/Aloys_Loeher" title="Aloys Loeher">Aloys Loeher</a> (1850–1904) was an American sculptor, exhibited at the <a href="/wiki/1893_Columbian_Exposition" class="mw-redirect" title="1893 Columbian Exposition">1893 Columbian Exposition</a></li>
+<li><a href="/wiki/Karl_von_Plettenberg" title="Karl von Plettenberg">Karl von Plettenberg</a> (1852-1938), a Prussian officer and later <a href="/wiki/General_of_Infantry" class="mw-redirect" title="General of Infantry">General of Infantry</a> during <a href="/wiki/World_War_I" title="World War I">World War I</a></li>
+<li><a href="/wiki/Clemens_Baeumker" title="Clemens Baeumker">Clemens Baeumker</a> (1853-1924), a Catholic philosopher and philosophy historian</li>
+<li><a href="/wiki/Augustus_F._Fechteler" title="Augustus F. Fechteler">Augustus F. Fechteler</a> (1857–1921) was a <a href="/wiki/Rear_Admiral" class="mw-redirect" title="Rear Admiral">Rear Admiral</a> of the <a href="/wiki/United_States_Navy" title="United States Navy">United States Navy</a> during <a href="/wiki/World_War_I" title="World War I">World War I</a></li>
+</ul>
+<h3><span class="mw-headline" id="more_modern_times">more modern times</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Paderborn&amp;action=edit&amp;section=19" title="Edit section: more modern times">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Ella_Bergmann-Michel" title="Ella Bergmann-Michel">Ella Bergmann-Michel</a> (1895-1971), painter, photographer and documentary filmmaker</li>
+<li><a href="/wiki/Gustav_Simon" title="Gustav Simon">Gustav Simon</a> (1900 – 1945 in Paderborn) was Nazi <a href="/wiki/Gauleiter" title="Gauleiter">Gauleiter</a> in the Moselland Gau from 1940 until 1944 and Chief of the Civil Administration in occupied Luxembourg.</li>
+<li><a href="/wiki/Josef_Wirmer" title="Josef Wirmer">Josef Wirmer</a> (1901-1944), jurist and resistance fighter against national socialism</li>
+<li><a href="/wiki/Friedrich_Wilhelm_Christians" title="Friedrich Wilhelm Christians">Friedrich Wilhelm Christians</a> (1922-2004), a German banker, who was co-head of <a href="/wiki/Deutsche_Bank" title="Deutsche Bank">Deutsche Bank</a> and President of the <a href="/wiki/Association_of_German_Banks" title="Association of German Banks">Association of German Banks</a></li>
+<li><a href="/wiki/Heinz_Nixdorf" title="Heinz Nixdorf">Heinz Nixdorf</a> (1925-1986), computer pioneer, entrepreneur and founder of <a href="/wiki/Nixdorf_Computer_AG" class="mw-redirect" title="Nixdorf Computer AG">Nixdorf Computer AG</a>.</li>
+<li><a href="/wiki/Werner_Franke" title="Werner Franke">Werner Franke</a> (born 1940), professor of cell and molecular biology</li>
+<li><a href="/wiki/Ulrich_Vogt" title="Ulrich Vogt">Ulrich Vogt</a> (born 1941), teacher and non-fiction author</li>
+<li><a href="/wiki/Mechtild_Rothe" title="Mechtild Rothe">Mechtild Rothe</a> (born 1947), politician (SPD) and Member of the <a href="/wiki/European_Parliament" title="European Parliament">European Parliament</a></li>
+<li><a href="/wiki/Klaus_Ehl" title="Klaus Ehl">Klaus Ehl</a> (born 1949), athlete (sprinter)</li>
+<li><a href="/wiki/Hans-G%C3%BCnther_Vosseler" class="mw-redirect" title="Hans-Günther Vosseler">Hans-Günther Vosseler</a> (born 1949), swimmer</li>
+<li><a href="/wiki/Franz-Josef_Bode" class="mw-redirect" title="Franz-Josef Bode">Franz-Josef Bode</a> (born 1951) bishop of the Roman Catholic <a href="/wiki/Diocese_of_Osnabruck" class="mw-redirect" title="Diocese of Osnabruck">Diocese of Osnabruck</a> since 1995</li>
+<li><a href="/wiki/Andreas_Fischer_(footballer)" title="Andreas Fischer (footballer)">Andreas Fischer (footballer)</a> (born 1964), football player</li>
+<li><a href="/wiki/R%C3%BCdiger_Hoffmann" title="Rüdiger Hoffmann">Rüdiger Hoffmann</a> (born 1964), cabaret artist and musician</li>
+<li><a href="/wiki/G%C3%BCnter_Kutowski" title="Günter Kutowski">Günter Kutowski</a> (born 1965) retired footballer who played as a defender for <a href="/wiki/Borussia_Dortmund" title="Borussia Dortmund">Borussia Dortmund</a></li>
+<li><a href="/wiki/Martin_Driller" title="Martin Driller">Martin Driller</a> (born 1970), footballer</li>
+<li><a href="/wiki/Bernd_H%C3%BCttemann" title="Bernd Hüttemann">Bernd Hüttemann</a> (born 1970), is Vice President of the <a href="/wiki/European_Movement_International" title="European Movement International">European Movement International</a> and Secretary General of the <a href="/wiki/European_Movement_Germany" title="European Movement Germany">European Movement Germany</a>.</li>
+<li><a href="/wiki/Stefan_G%C3%B6dde" title="Stefan Gödde">Stefan Gödde</a> (born 1975), television presenter, radio presenter and reporter.</li>
+<li><a href="/wiki/Reiner_Pla%C3%9Fhenrich" title="Reiner Plaßhenrich">Reiner Plaßhenrich</a> (born 1976), footballer and coach</li>
+<li><a href="/wiki/Judith_Rakers" title="Judith Rakers">Judith Rakers</a> (born 1976), journalist and television supporter (ARD)</li>
+<li><a href="/wiki/Carsten_Linnemann" title="Carsten Linnemann">Carsten Linnemann</a> (born 1977), economist and politician, member of the CDU, a member of the <a href="/wiki/German_Bundestag" class="mw-redirect" title="German Bundestag">German Bundestag</a> since 2009 representing <a href="/wiki/Paderborn_%E2%80%93_G%C3%BCtersloh_III" title="Paderborn – Gütersloh III">Paderborn – Gütersloh III</a>.</li>
+<li><a href="/wiki/Jasmin_Glaesser" class="mw-redirect" title="Jasmin Glaesser">Jasmin Glaesser</a> (born 1992), moved to Canada at the age of eight, now Canadian cyclist</li>
+<li><a href="/wiki/Alexander_N%C3%BCbel" title="Alexander Nübel">Alexander Nübel</a> (born 1996), German footballer who plays as a goalkeeper for <a href="/wiki/Schalke_04" class="mw-redirect" title="Schalke 04">Schalke 04</a></li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Paderborn&amp;action=edit&amp;section=20" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Paderborn_method" title="Paderborn method">Paderborn method for teaching languages</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Paderborn&amp;action=edit&amp;section=21" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.it.nrw.de/statistik/a/daten/bevoelkerungszahlen_zensus/index.html">"Amtliche Bevölkerungszahlen"</a>. <i><a href="/wiki/Landesbetrieb_Information_und_Technik_NRW" class="mw-redirect" title="Landesbetrieb Information und Technik NRW">Landesbetrieb Information und Technik NRW</a></i> (in German). 18 July 2016.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APaderborn&amp;rft.atitle=Amtliche+Bev%C3%B6lkerungszahlen&amp;rft.date=2016-07-18&amp;rft.genre=unknown&amp;rft.jtitle=Landesbetrieb+Information+und+Technik+NRW&amp;rft_id=http%3A%2F%2Fwww.it.nrw.de%2Fstatistik%2Fa%2Fdaten%2Fbevoelkerungszahlen_zensus%2Findex.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Duden-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Duden_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.duden.de/rechtschreibung/Paderborn">"Duden dictionary"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">7 December</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APaderborn&amp;rft.btitle=Duden+dictionary&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.duden.de%2Frechtschreibung%2FPaderborn&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Heribert_Zelder_2009-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Heribert_Zelder_2009_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Heribert_Zelder_2009_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Ed. Heribert Zelder, Tourist Information Services, <i>Welcome to Paderborn</i>, Stadt Paderborn: Paderborn, Germany, 2009.</span></li>
+<li id="cite_note-ReferenceA-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-ReferenceA_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ReferenceA_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Ed. Heribert Zelder, Tourist Information Services, Welcome to Paderborn, Stadt Paderborn: Paderborn, Germany, 2009.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Stanton, Shelby, <i>World War II Order of Battle: An Encyclopedic Reference to U.S. Army Ground Forces from Battalion through Division, 1939-1946</i> (Revised Edition, 2006), p. 52</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.medievalhistories.com/wp-content/uploads/2013-Medieval-Histories-september-final.pdf">CREDO in Paderborn - Medieval Histories 2013: 9</a> <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-87-92858-11-5" title="Special:BookSources/978-87-92858-11-5">978-87-92858-11-5</a></span></li>
+<li id="cite_note-Balavoine1994-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-Balavoine1994_7-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Lelièvre, Jean; Balavoine, Maurice (1994). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=qo7rSAAACAAJ"><i>Le Mans-Paderborn, 836-1994: dans l'Europe, une amitié séculaire, un sillage de lumière</i></a>. Le Mans: M. Balavoine. pp.&#160;1–42<span class="reference-accessdate">. Retrieved <span class="nowrap">9 August</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APaderborn&amp;rft.au=Balavoine%2C+Maurice&amp;rft.aufirst=Jean&amp;rft.aulast=Leli%C3%A8vre&amp;rft.btitle=Le+Mans-Paderborn%2C+836-1994%3A+dans+l%27Europe%2C+une+amiti%C3%A9+s%C3%A9culaire%2C+un+sillage+de+lumi%C3%A8re&amp;rft.date=1994&amp;rft.genre=book&amp;rft.pages=1-42&amp;rft.place=Le+Mans&amp;rft.pub=M.+Balavoine&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Dqo7rSAAACAAJ&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Origins-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-Origins_8-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.highland.gov.uk/NR/rdonlyres/1C07A195-EF04-454D-81B8-ADAEE15058FC/0/ICC9908.pdf">"The Origins of Town Twinning"</a> <span style="font-size:85%;">(PDF)</span>. <a href="/wiki/Inverness" title="Inverness">Inverness</a>: The City of Inverness Town Twinning Committee. 8 December 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-10-30</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APaderborn&amp;rft.btitle=The+Origins+of+Town+Twinning&amp;rft.date=2008-12-08&amp;rft.genre=unknown&amp;rft.place=Inverness&amp;rft.pub=The+City+of+Inverness+Town+Twinning+Committee&amp;rft_id=http%3A%2F%2Fwww.highland.gov.uk%2FNR%2Frdonlyres%2F1C07A195-EF04-454D-81B8-ADAEE15058FC%2F0%2FICC9908.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Paderborn&amp;action=edit&amp;section=22" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite class="citation book">John M. Jeep, ed. (2001). "Paderborn". <a rel="nofollow" class="external text" href="https://books.google.com/books?id=p4uHav3mZLsC"><i>Medieval Germany: an Encyclopedia</i></a>. <a href="/wiki/Garland_Publishing" class="mw-redirect" title="Garland Publishing">Garland Publishing</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-8240-7644-3" title="Special:BookSources/0-8240-7644-3">0-8240-7644-3</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APaderborn&amp;rft.atitle=Paderborn&amp;rft.btitle=Medieval+Germany%3A+an+Encyclopedia&amp;rft.date=2001&amp;rft.genre=bookitem&amp;rft.isbn=0-8240-7644-3&amp;rft.pub=Garland+Publishing&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Dp4uHav3mZLsC&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Paderborn&amp;action=edit&amp;section=23" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" width="12" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> Media related to <a href="https://commons.wikimedia.org/wiki/Category:Paderborn" class="extiw" title="commons:Category:Paderborn">Paderborn</a> at Wikimedia Commons</li>
+</ul>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/40px-Wikivoyage-Logo-v3-icon.svg.png" width="40" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/60px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/80px-Wikivoyage-Logo-v3-icon.svg.png 2x" data-file-width="193" data-file-height="193" /></td>
+<td class="mbox-text plainlist">Wikivoyage has a travel guide for <i><b><a href="https://en.wikivoyage.org/wiki/Paderborn#Q2971" class="extiw" title="wikivoyage:Paderborn">Paderborn</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.paderborn.de/microsite/welcome/index.php">Official <b>Paderborn</b> municipal website</a>—<span class="languageicon">(in German)</span></li>
+<li><a rel="nofollow" class="external text" href="http://www.paderborner-land.de">Paderborn region website</a> —<span class="languageicon">(in German)</span></li>
+<li><a rel="nofollow" class="external text" href="http://www.lwl.org/westfaelische-geschichte/portal/Internet/ku.php?tab=pro&amp;ID=14">Ordinances of the "Fürstbistum Paderborn" online</a>—<span class="languageicon">(in German)</span></li>
+<li><a rel="nofollow" class="external text" href="http://www.robocup-german-open.de/en">Homepage of the annual RoboCup competition</a>—<span class="languageicon">(in English)</span></li>
+<li><a rel="nofollow" class="external text" href="http://www.uni-paderborn.de/en/">University of Paderborn</a>—<span class="languageicon">(in German)</span></li>
+<li><a rel="nofollow" class="external text" href="http://www.paderborn-baskets.de">Basketball: Paderborn Baskets</a>—<span class="languageicon">(in German)</span></li>
+<li><a rel="nofollow" class="external text" href="http://www.medievalhistories.com/wp-content/uploads/2013-Medieval-Histories-september-final.pdf">Introduction to the History of Paderborn</a>—<span class="languageicon">(in English)</span></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Towns_and_municipalities_in_Paderborn_.28district.29" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Cities_and_towns_in_Paderborn_(district)" title="Template:Cities and towns in Paderborn (district)"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Cities_and_towns_in_Paderborn_(district)" title="Template talk:Cities and towns in Paderborn (district)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cities_and_towns_in_Paderborn_(district)&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Towns_and_municipalities_in_Paderborn_.28district.29" style="font-size:114%;margin:0 4em">Towns and municipalities in <a href="/wiki/Paderborn_(district)" title="Paderborn (district)">Paderborn (district)</a></div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px;font-size:95%;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Altenbeken" title="Altenbeken">Altenbeken</a></li>
+<li><a href="/wiki/Bad_Lippspringe" title="Bad Lippspringe">Bad Lippspringe</a></li>
+<li><a href="/wiki/Bad_W%C3%BCnnenberg" title="Bad Wünnenberg">Bad Wünnenberg</a></li>
+<li><a href="/wiki/Borchen" title="Borchen">Borchen</a></li>
+<li><a href="/wiki/B%C3%BCren,_Westphalia" title="Büren, Westphalia">Büren</a></li>
+<li><a href="/wiki/Delbr%C3%BCck" title="Delbrück">Delbrück</a></li>
+<li><a href="/wiki/H%C3%B6velhof" title="Hövelhof">Hövelhof</a></li>
+<li><a href="/wiki/Lichtenau,_Westphalia" title="Lichtenau, Westphalia">Lichtenau</a></li>
+<li><a class="mw-selflink selflink">Paderborn</a></li>
+<li><a href="/wiki/Salzkotten" title="Salzkotten">Salzkotten</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="1" style="width:1px;padding:0px 0px 0px 2px">
+<div>
+<div class="floatright"><a href="/wiki/File:Kreiswappen_des_Kreises_Paderborn.svg" class="image" title="Coat of Arms of Paderborn district"><img alt="Coat of Arms of Paderborn district" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kreiswappen_des_Kreises_Paderborn.svg/30px-Kreiswappen_des_Kreises_Paderborn.svg.png" width="30" height="35" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kreiswappen_des_Kreises_Paderborn.svg/45px-Kreiswappen_des_Kreises_Paderborn.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kreiswappen_des_Kreises_Paderborn.svg/60px-Kreiswappen_des_Kreises_Paderborn.svg.png 2x" data-file-width="512" data-file-height="589" /></a></div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Cities_in_Germany_by_population" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Cities_in_Germany" title="Template:Cities in Germany"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Cities_in_Germany" title="Template talk:Cities in Germany"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cities_in_Germany&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Cities_in_Germany_by_population" style="font-size:114%;margin:0 4em">Cities in Germany by population</div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">1,000,000+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Berlin" title="Berlin">Berlin</a></li>
+<li><a href="/wiki/Cologne" title="Cologne">Cologne</a></li>
+<li><a href="/wiki/Hamburg" title="Hamburg">Hamburg</a></li>
+<li><a href="/wiki/Munich" title="Munich">Munich</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">500,000+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bremen" title="Bremen">Bremen</a></li>
+<li><a href="/wiki/Dortmund" title="Dortmund">Dortmund</a></li>
+<li><a href="/wiki/Dresden" title="Dresden">Dresden</a></li>
+<li><a href="/wiki/D%C3%BCsseldorf" title="Düsseldorf">Düsseldorf</a></li>
+<li><a href="/wiki/Essen" title="Essen">Essen</a></li>
+<li><a href="/wiki/Frankfurt" title="Frankfurt">Frankfurt</a></li>
+<li><a href="/wiki/Hanover" title="Hanover">Hanover</a></li>
+<li><a href="/wiki/Leipzig" title="Leipzig">Leipzig</a></li>
+<li><a href="/wiki/Nuremberg" title="Nuremberg">Nuremberg</a></li>
+<li><a href="/wiki/Stuttgart" title="Stuttgart">Stuttgart</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">200,000+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aachen" title="Aachen">Aachen</a></li>
+<li><a href="/wiki/Augsburg" title="Augsburg">Augsburg</a></li>
+<li><a href="/wiki/Bielefeld" title="Bielefeld">Bielefeld</a></li>
+<li><a href="/wiki/Bochum" title="Bochum">Bochum</a></li>
+<li><a href="/wiki/Bonn" title="Bonn">Bonn</a></li>
+<li><a href="/wiki/Braunschweig" title="Braunschweig">Braunschweig</a></li>
+<li><a href="/wiki/Chemnitz" title="Chemnitz">Chemnitz</a></li>
+<li><a href="/wiki/Duisburg" title="Duisburg">Duisburg</a></li>
+<li><a href="/wiki/Erfurt" title="Erfurt">Erfurt</a></li>
+<li><a href="/wiki/Freiburg_im_Breisgau" title="Freiburg im Breisgau">Freiburg im Breisgau</a></li>
+<li><a href="/wiki/Gelsenkirchen" title="Gelsenkirchen">Gelsenkirchen</a></li>
+<li><a href="/wiki/Halle_(Saale)" title="Halle (Saale)">Halle (Saale)</a></li>
+<li><a href="/wiki/Karlsruhe" title="Karlsruhe">Karlsruhe</a></li>
+<li><a href="/wiki/Kiel" title="Kiel">Kiel</a></li>
+<li><a href="/wiki/Krefeld" title="Krefeld">Krefeld</a></li>
+<li><a href="/wiki/L%C3%BCbeck" title="Lübeck">Lübeck</a></li>
+<li><a href="/wiki/Magdeburg" title="Magdeburg">Magdeburg</a></li>
+<li><a href="/wiki/Mainz" title="Mainz">Mainz</a></li>
+<li><a href="/wiki/Mannheim" title="Mannheim">Mannheim</a></li>
+<li><a href="/wiki/M%C3%BCnster" title="Münster">Münster</a></li>
+<li><a href="/wiki/M%C3%B6nchengladbach" title="Mönchengladbach">Mönchengladbach</a></li>
+<li><a href="/wiki/Oberhausen" title="Oberhausen">Oberhausen</a></li>
+<li><a href="/wiki/Rostock" title="Rostock">Rostock</a></li>
+<li><a href="/wiki/Wiesbaden" title="Wiesbaden">Wiesbaden</a></li>
+<li><a href="/wiki/Wuppertal" title="Wuppertal">Wuppertal</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">100,000+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bergisch_Gladbach" title="Bergisch Gladbach">Bergisch Gladbach</a></li>
+<li><a href="/wiki/Bottrop" title="Bottrop">Bottrop</a></li>
+<li><a href="/wiki/Bremerhaven" title="Bremerhaven">Bremerhaven</a></li>
+<li><a href="/wiki/Cottbus" title="Cottbus">Cottbus</a></li>
+<li><a href="/wiki/Darmstadt" title="Darmstadt">Darmstadt</a></li>
+<li><a href="/wiki/Erlangen" title="Erlangen">Erlangen</a></li>
+<li><a href="/wiki/F%C3%BCrth" title="Fürth">Fürth</a></li>
+<li><a href="/wiki/G%C3%B6ttingen" title="Göttingen">Göttingen</a></li>
+<li><a href="/wiki/Hagen" title="Hagen">Hagen</a></li>
+<li><a href="/wiki/Hamm" title="Hamm">Hamm</a></li>
+<li><a href="/wiki/Heidelberg" title="Heidelberg">Heidelberg</a></li>
+<li><a href="/wiki/Heilbronn" title="Heilbronn">Heilbronn</a></li>
+<li><a href="/wiki/Herne,_North_Rhine-Westphalia" title="Herne, North Rhine-Westphalia">Herne</a></li>
+<li><a href="/wiki/Hildesheim" title="Hildesheim">Hildesheim</a></li>
+<li><a href="/wiki/Ingolstadt" title="Ingolstadt">Ingolstadt</a></li>
+<li><a href="/wiki/Jena" title="Jena">Jena</a></li>
+<li><a href="/wiki/Kassel" title="Kassel">Kassel</a></li>
+<li><a href="/wiki/Koblenz" title="Koblenz">Koblenz</a></li>
+<li><a href="/wiki/Leverkusen" title="Leverkusen">Leverkusen</a></li>
+<li><a href="/wiki/Ludwigshafen" title="Ludwigshafen">Ludwigshafen</a></li>
+<li><a href="/wiki/Moers" title="Moers">Moers</a></li>
+<li><a href="/wiki/M%C3%BClheim" title="Mülheim">Mülheim an der Ruhr</a></li>
+<li><a href="/wiki/Neuss" title="Neuss">Neuss</a></li>
+<li><a href="/wiki/Offenbach_am_Main" title="Offenbach am Main">Offenbach am Main</a></li>
+<li><a href="/wiki/Oldenburg_(Oldenburg)" class="mw-redirect" title="Oldenburg (Oldenburg)">Oldenburg</a></li>
+<li><a href="/wiki/Osnabr%C3%BCck" title="Osnabrück">Osnabrück</a></li>
+<li><a class="mw-selflink selflink">Paderborn</a></li>
+<li><a href="/wiki/Pforzheim" title="Pforzheim">Pforzheim</a></li>
+<li><a href="/wiki/Potsdam" title="Potsdam">Potsdam</a></li>
+<li><a href="/wiki/Recklinghausen" title="Recklinghausen">Recklinghausen</a></li>
+<li><a href="/wiki/Regensburg" title="Regensburg">Regensburg</a></li>
+<li><a href="/wiki/Remscheid" title="Remscheid">Remscheid</a></li>
+<li><a href="/wiki/Reutlingen" title="Reutlingen">Reutlingen</a></li>
+<li><a href="/wiki/Saarbr%C3%BCcken" title="Saarbrücken">Saarbrücken</a></li>
+<li><a href="/wiki/Salzgitter" title="Salzgitter">Salzgitter</a></li>
+<li><a href="/wiki/Siegen" title="Siegen">Siegen</a></li>
+<li><a href="/wiki/Solingen" title="Solingen">Solingen</a></li>
+<li><a href="/wiki/Trier" title="Trier">Trier</a></li>
+<li><a href="/wiki/Ulm" title="Ulm">Ulm</a></li>
+<li><a href="/wiki/Wolfsburg" title="Wolfsburg">Wolfsburg</a></li>
+<li><a href="/wiki/W%C3%BCrzburg" title="Würzburg">Würzburg</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/List_of_cities_and_towns_in_Germany" title="List of cities and towns in Germany">complete list</a></li>
+<li><a href="/wiki/List_of_municipalities_in_Germany" title="List of municipalities in Germany">municipalities</a></li>
+<li><a href="/wiki/Metropolitan_regions_in_Germany" title="Metropolitan regions in Germany">metropolitan regions</a></li>
+<li><a href="/wiki/List_of_cities_in_Germany_by_population" title="List of cities in Germany by population">cities with more than 100,000 inhabitants</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/155932362">WorldCat Identities</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/155932362">155932362</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/4044283-4">4044283-4</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb11945594f">cb11945594f</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb11945594f">(data)</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1258
+Cached time: 20171018062001
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.484 seconds
+Real time usage: 0.679 seconds
+Preprocessor visited node count: 8482/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 90361/2097152 bytes
+Template argument size: 20769/2097152 bytes
+Highest expansion depth: 26/40
+Expensive parser function count: 12/500
+Lua time usage: 0.163/10.000 seconds
+Lua memory usage: 6.87 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  567.361      1 -total
+ 53.88%  305.688      1 Template:Infobox_German_location
+ 50.82%  288.315      1 Template:Infobox_settlement
+ 42.86%  243.170      1 Template:Infobox
+ 13.68%   77.640      7 Template:Population_Germany
+  9.07%   51.440      7 Template:Metadata_Population_DE-NW
+  7.29%   41.387      1 Template:Refimprove
+  7.21%   40.921      1 Template:Reflist
+  7.01%   39.766      3 Template:Cite_web
+  6.31%   35.779      9 Template:Both
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:224123-0!canonical and timestamp 20171018062001 and revision id 799132247
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Paderborn&amp;oldid=799132247">https://en.wikipedia.org/w/index.php?title=Paderborn&amp;oldid=799132247</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Cities_in_North_Rhine-Westphalia" title="Category:Cities in North Rhine-Westphalia">Cities in North Rhine-Westphalia</a></li><li><a href="/wiki/Category:Paderborn" title="Category:Paderborn">Paderborn</a></li><li><a href="/wiki/Category:Paderborn_(district)" title="Category:Paderborn (district)">Paderborn (district)</a></li><li><a href="/wiki/Category:University_towns_in_Germany" title="Category:University towns in Germany">University towns in Germany</a></li><li><a href="/wiki/Category:Members_of_the_Hanseatic_League" title="Category:Members of the Hanseatic League">Members of the Hanseatic League</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_German-language_sources_(de)" title="Category:CS1 German-language sources (de)">CS1 German-language sources (de)</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_June_2015" title="Category:Articles needing additional references from June 2015">Articles needing additional references from June 2015</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li><li><a href="/wiki/Category:Interlanguage_link_template_link_number" title="Category:Interlanguage link template link number">Interlanguage link template link number</a></li><li><a href="/wiki/Category:Articles_with_German-language_external_links" title="Category:Articles with German-language external links">Articles with German-language external links</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Paderborn" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Paderborn" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Paderborn" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Paderborn" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Paderborn">Read</a></span></li>
+							<li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Paderborn&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Paderborn&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Paderborn" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Paderborn" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Paderborn&amp;oldid=799132247" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Paderborn&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2971" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Paderborn&amp;id=799132247" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Paderborn">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Paderborn&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Paderborn&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Paderborn" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikivoyage"><a href="https://en.wikivoyage.org/wiki/Paderborn" hreflang="en">Wikivoyage</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Paderborn" title="Paderborn – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A8%D8%A7%D8%AF%D8%B1%D8%A8%D9%88%D8%B1%D9%86" title="بادربورن – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D9%BE%D8%A7%D8%AF%D8%B1%D8%A8%D9%88%D8%B1%D9%86" title="پادربورن – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Paderborn" title="Paderborn – Chinese (Min Nan)" lang="zh-min-nan" hreflang="zh-min-nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%9F%D0%B0%D0%B4%D1%8D%D1%80%D0%B1%D0%BE%D1%80%D0%BD" title="Падэрборн – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9F%D0%B0%D0%B4%D0%B5%D1%80%D0%B1%D0%BE%D1%80%D0%BD" title="Падерборн – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Paderborn" title="Paderborn – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Paderborn" title="Paderborn – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Paderborn_(kapital_sa_distrito)" title="Paderborn (kapital sa distrito) – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Paderborn" title="Paderborn – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Paderborn" title="Paderborn – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Paderborn" title="Paderborn – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Paderborn" title="Paderborn – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Paderborn" title="Paderborn – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Paderborn" title="Paderborn – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Paderborn" title="Paderborn – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%BE%D8%A7%D8%AF%D8%B1%D8%A8%D9%88%D8%B1%D9%86" title="پادربورن – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Paderborn" title="Paderborn – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/Paderborn_(st%C3%AAd)" title="Paderborn (stêd) – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%ED%8C%8C%EB%8D%94%EB%B3%B4%EB%A5%B8" title="파더보른 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Paderborn" title="Paderborn – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Paderborn" title="Paderborn – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ie"><a href="https://ie.wikipedia.org/wiki/Paderborn" title="Paderborn – Interlingue" lang="ie" hreflang="ie" class="interlanguage-link-target">Interlingue</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Paderborn" title="Paderborn – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Paderborn" title="Paderborn – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A4%D7%93%D7%A8%D7%91%D7%95%D7%A8%D7%9F" title="פדרבורן – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%9E%E1%83%90%E1%83%93%E1%83%94%E1%83%A0%E1%83%91%E1%83%9D%E1%83%A0%E1%83%9C%E1%83%98" title="პადერბორნი – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%9F%D0%B0%D0%B4%D0%B5%D1%80%D0%B1%D0%BE%D1%80%D0%BD" title="Падерборн – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Paderborn" title="Paderborn – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li><li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/%D0%9F%D0%B0%D0%B4%D0%B5%D1%80%D0%B1%D0%BE%D1%80%D0%BD" title="Падерборн – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Paderbronna" title="Paderbronna – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/P%C4%81derborna" title="Pāderborna – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-lb"><a href="https://lb.wikipedia.org/wiki/Paderborn" title="Paderborn – Luxembourgish" lang="lb" hreflang="lb" class="interlanguage-link-target">Lëtzebuergesch</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Paderbornas" title="Paderbornas – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Paderborn" title="Paderborn – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Paderborn" title="Paderborn – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Paderborn_(stad)" title="Paderborn (stad) – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%BC%E3%83%80%E3%83%BC%E3%83%9C%E3%83%AB%E3%83%B3" title="パーダーボルン – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-frr"><a href="https://frr.wikipedia.org/wiki/Paderborn" title="Paderborn – Northern Frisian" lang="frr" hreflang="frr" class="interlanguage-link-target">Nordfriisk</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Paderborn" title="Paderborn – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Paderborn" title="Paderborn – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Paderborn" title="Paderborn – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Paderborn" title="Paderborn – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%D9%BE%DB%8C%DA%88%D8%B1%D8%A8%D9%88%D8%B1%D9%86" title="پیڈربورن – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li><li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/Patterbuorn" title="Patterbuorn – Low German" lang="nds" hreflang="nds" class="interlanguage-link-target">Plattdüütsch</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Paderborn" title="Paderborn – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Paderborn" title="Paderborn – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Paderborn" title="Paderborn – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%B4%D0%B5%D1%80%D0%B1%D0%BE%D1%80%D0%BD" title="Падерборн – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Paderborn" title="Paderborn – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-stq"><a href="https://stq.wikipedia.org/wiki/Paderborn" title="Paderborn – Saterland Frisian" lang="stq" hreflang="stq" class="interlanguage-link-target">Seeltersk</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Paderborn" title="Paderborn – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Paderborn" title="Paderborn – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Paderborn" title="Paderborn – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-szl"><a href="https://szl.wikipedia.org/wiki/Paderborn" title="Paderborn – Silesian" lang="szl" hreflang="szl" class="interlanguage-link-target">Ślůnski</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%9F%D0%B0%D0%B4%D0%B5%D1%80%D0%B1%D0%BE%D1%80%D0%BD" title="Падерборн – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Paderborn" title="Paderborn – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Paderborn" title="Paderborn – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Paderborn" title="Paderborn – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%9F%D0%B0%D0%B4%D0%B5%D1%80%D0%B1%D0%BE%D1%80%D0%BD" title="Падерборн – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%9B%E0%B8%B2%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%99" title="ปาเดอร์บอร์น – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Paderborn" title="Paderborn – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9F%D0%B0%D0%B4%D0%B5%D1%80%D0%B1%D0%BE%D1%80%D0%BD" title="Падерборн – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Paderborn" title="Paderborn – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/Paderborn" title="Paderborn – Volapük" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Paderborn" title="Paderborn – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E6%9F%8F%E9%81%94%E9%82%A6" title="柏達邦 – Cantonese" lang="zh-yue" hreflang="zh-yue" class="interlanguage-link-target">粵語</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%B8%95%E5%BE%B7%E5%8D%9A%E6%81%A9" title="帕德博恩 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2971#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 5 September 2017, at 20:45.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Paderborn&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.484","walltime":"0.679","ppvisitednodes":{"value":8482,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":90361,"limit":2097152},"templateargumentsize":{"value":20769,"limit":2097152},"expansiondepth":{"value":26,"limit":40},"expensivefunctioncount":{"value":12,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  567.361      1 -total"," 53.88%  305.688      1 Template:Infobox_German_location"," 50.82%  288.315      1 Template:Infobox_settlement"," 42.86%  243.170      1 Template:Infobox"," 13.68%   77.640      7 Template:Population_Germany","  9.07%   51.440      7 Template:Metadata_Population_DE-NW","  7.29%   41.387      1 Template:Refimprove","  7.21%   40.921      1 Template:Reflist","  7.01%   39.766      3 Template:Cite_web","  6.31%   35.779      9 Template:Both"]},"scribunto":{"limitreport-timeusage":{"value":"0.163","limit":"10.000"},"limitreport-memusage":{"value":7200104,"limit":52428800}},"cachereport":{"origin":"mw1258","timestamp":"20171018062001","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":108,"wgHostname":"mw1268"});});</script>
+	</body>
+</html>

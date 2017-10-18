@@ -1,0 +1,1623 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Rostock - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Rostock","wgTitle":"Rostock","wgCurRevisionId":803133964,"wgRevisionId":803133964,"wgArticleId":106296,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 German-language sources (de)","CS1 Polish-language sources (pl)","CS1 French-language sources (fr)","Coordinates on Wikidata","Articles with hAudio microformats","Articles with Latin-language external links","All articles with unsourced statements","Articles with unsourced statements from April 2013","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","Cities in Mecklenburg-Vorpommern","Rostock","Cities and towns in Mecklenburg","Denmark–Germany border crossings","Members of the Hanseatic League","Port cities and towns in Germany","Port cities and towns of the Baltic Sea","Populated coastal places in Germany (Baltic Sea)","Towns in Mecklenburg-Vorpommern","University towns in Germany","Lübeck law","1218 establishments in Europe","Populated places established in the 13th century","Grand Duchy of Mecklenburg-Schwerin","Holocaust locations in Germany"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Rostock","wgRelevantArticleId":106296,"wgRequestId":"Wd9B6wpAMFIAAII5ko8AAAAQ","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCoordinates":{"lat":54.083333333333,"lon":12.133333333333},"wgWikibaseItemId":"Q2861","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.2"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Rostock_n%C3%B6rdl_Altstadt_mit_der_Marienkirche.jpg/1200px-Rostock_n%C3%B6rdl_Altstadt_mit_der_Marienkirche.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Rostock"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Rostock&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Rostock&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Rostock"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Rostock rootpage-Rostock vector-experimental-print-styles vector-nav-directionality skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Rostock</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox geography vcard" style="width:22em;width:23em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap"><span class="fn org"><span class="wrap">Rostock</span></span></th>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center">
+<table style="background-color:#FFFFFF;border-collapse:collapse;border:0px solid black;width:280px;margin-left: auto; margin-right: auto;">
+<tr>
+<td style="border-top:0;padding:2px 0 0 2px">
+<table style="background-color:#FFFFFF;border-collapse:collapse">
+<tr>
+<td style="border-top:0;padding:0 2px 2px 0"><a href="/wiki/File:Rostock_n%C3%B6rdl_Altstadt_mit_der_Marienkirche.jpg" class="image"><img alt="Rostock nördl Altstadt mit der Marienkirche.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Rostock_n%C3%B6rdl_Altstadt_mit_der_Marienkirche.jpg/280px-Rostock_n%C3%B6rdl_Altstadt_mit_der_Marienkirche.jpg" width="280" height="185" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Rostock_n%C3%B6rdl_Altstadt_mit_der_Marienkirche.jpg/420px-Rostock_n%C3%B6rdl_Altstadt_mit_der_Marienkirche.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/82/Rostock_n%C3%B6rdl_Altstadt_mit_der_Marienkirche.jpg/560px-Rostock_n%C3%B6rdl_Altstadt_mit_der_Marienkirche.jpg 2x" data-file-width="4928" data-file-height="3264" /></a></td>
+</tr>
+</table>
+<table style="background-color:#FFFFFF;border-collapse:collapse">
+<tr>
+<td style="border-top:0;padding:0 2px 2px 0"><a href="/wiki/File:Petrikirche_in_Rostock_IMG_1681.JPG" class="image"><img alt="Petrikirche in Rostock IMG 1681.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Petrikirche_in_Rostock_IMG_1681.JPG/139px-Petrikirche_in_Rostock_IMG_1681.JPG" width="139" height="93" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Petrikirche_in_Rostock_IMG_1681.JPG/209px-Petrikirche_in_Rostock_IMG_1681.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/67/Petrikirche_in_Rostock_IMG_1681.JPG/278px-Petrikirche_in_Rostock_IMG_1681.JPG 2x" data-file-width="3734" data-file-height="2496" /></a></td>
+<td style="border-top:0;padding:0 2px 2px 0"><a href="/wiki/File:Warnem%C3%BCnde_Altstadt_(03)_2006-09-21.jpg" class="image"><img alt="Warnemünde Altstadt (03) 2006-09-21.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Warnem%C3%BCnde_Altstadt_%2803%29_2006-09-21.jpg/139px-Warnem%C3%BCnde_Altstadt_%2803%29_2006-09-21.jpg" width="139" height="93" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Warnem%C3%BCnde_Altstadt_%2803%29_2006-09-21.jpg/209px-Warnem%C3%BCnde_Altstadt_%2803%29_2006-09-21.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/be/Warnem%C3%BCnde_Altstadt_%2803%29_2006-09-21.jpg/278px-Warnem%C3%BCnde_Altstadt_%2803%29_2006-09-21.jpg 2x" data-file-width="1800" data-file-height="1200" /></a></td>
+</tr>
+</table>
+<table style="background-color:#FFFFFF;border-collapse:collapse">
+<tr>
+<td style="border-top:0;padding:0 2px 2px 0"><a href="/wiki/File:Der_Strand_bei_Warnem%C3%BCnde_2.JPG" class="image"><img alt="Der Strand bei Warnemünde 2.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Der_Strand_bei_Warnem%C3%BCnde_2.JPG/280px-Der_Strand_bei_Warnem%C3%BCnde_2.JPG" width="280" height="77" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Der_Strand_bei_Warnem%C3%BCnde_2.JPG/420px-Der_Strand_bei_Warnem%C3%BCnde_2.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/53/Der_Strand_bei_Warnem%C3%BCnde_2.JPG/560px-Der_Strand_bei_Warnem%C3%BCnde_2.JPG 2x" data-file-width="3677" data-file-height="1012" /></a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<div style="font-size:smaller"><span class="nowrap">From top: Skyline of Rostock with <a href="/wiki/St._Mary%27s_Church,_Rostock" title="St. Mary's Church, Rostock">St. Mary's Church</a>,</span><br />
+<a href="/wiki/St._Peter%27s_Church,_Rostock" title="St. Peter's Church, Rostock">St. Peter's Church, Rostock</a>, Fishermen houses in the oldtown of Warnemünde., beach of the seaside resort <a href="/wiki/Warnem%C3%BCnde" title="Warnemünde">Warnemünde</a></div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" class="maptable" style="text-align:center">
+<table style="width:100%; background:none;">
+<tr>
+<td style="vertical-align:middle; text-align:center;"><a href="/wiki/File:Flagge_der_Hansestadt_Rostock.svg" class="image" title="Flag of Rostock  "><img alt="Flag of Rostock  " src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Flagge_der_Hansestadt_Rostock.svg/100px-Flagge_der_Hansestadt_Rostock.svg.png" width="100" height="60" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Flagge_der_Hansestadt_Rostock.svg/150px-Flagge_der_Hansestadt_Rostock.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Flagge_der_Hansestadt_Rostock.svg/200px-Flagge_der_Hansestadt_Rostock.svg.png 2x" data-file-width="1000" data-file-height="600" /></a><br />
+<small>Flag</small></td>
+<td style="vertical-align:middle; text-align:center;"><a href="/wiki/File:Rostock_Wappen.svg" class="image" title="Coat of arms of Rostock  "><img alt="Coat of arms of Rostock  " src="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Rostock_Wappen.svg/76px-Rostock_Wappen.svg.png" width="76" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Rostock_Wappen.svg/115px-Rostock_Wappen.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/78/Rostock_Wappen.svg/153px-Rostock_Wappen.svg.png 2x" data-file-width="675" data-file-height="706" /></a><br />
+<small>Coat of arms</small></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center">
+<div class="center">
+<div style="width:170px;float:none;clear:both;margin-left:auto;margin-right:auto">
+<div style="width:170px;padding:0">
+<div style="position:relative;width:170px"><a href="/wiki/File:Germany_adm_location_map.svg" class="image" title="Rostock   is located in Germany"><img alt="Rostock   is located in Germany" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/170px-Germany_adm_location_map.svg.png" width="170" height="202" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/255px-Germany_adm_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/340px-Germany_adm_location_map.svg.png 2x" data-file-width="1073" data-file-height="1272" /></a>
+<div style="position:absolute;top:12.869%;left:66.333%">
+<div style="position:absolute;left:-3px;top:-3px;line-height:0"><img alt="Rostock  " src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png" title="Rostock  " width="6" height="6" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/9px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div>
+<div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:4px;text-align:left"><span style="padding:1px;float:left"><span class="wrap">Rostock</span></span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr class="mergedrow">
+<td colspan="2" style="text-align: center;">
+<div class="NavFrame collapsed" style="border:line;">
+<div class="NavHead" style="background:transparent;text-align:left;height:auto; padding:0.2em; padding-left:0.6em; padding-right:2em;">Administrative divisions of Rostock&#160;</div>
+<div class="NavContent" style="background:transparent;text-align:left;"><a href="/wiki/File:Rostock_Verwaltungsgliederung.png" class="image"><img alt="Rostock Verwaltungsgliederung.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Rostock_Verwaltungsgliederung.png/250px-Rostock_Verwaltungsgliederung.png" width="250" height="273" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Rostock_Verwaltungsgliederung.png/375px-Rostock_Verwaltungsgliederung.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Rostock_Verwaltungsgliederung.png/500px-Rostock_Verwaltungsgliederung.png 2x" data-file-width="2369" data-file-height="2586" /></a></div>
+</div>
+</td>
+</tr>
+<tr class="mergedbottomrow">
+<td colspan="2" style="text-align:center">Coordinates: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Rostock&amp;params=54_5_0_N_12_8_0_E_type:city(206011)_region:DE-MV"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">54°5′0″N</span> <span class="longitude">12°8′0″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">54.08333°N 12.13333°E</span><span style="display:none">﻿ / <span class="geo">54.08333; 12.13333</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Rostock&amp;params=54_5_0_N_12_8_0_E_type:city(206011)_region:DE-MV"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">54°5′0″N</span> <span class="longitude">12°8′0″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">54.08333°N 12.13333°E</span><span style="display:none">﻿ / <span class="geo">54.08333; 12.13333</span></span></span></a></span></span></span></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Country</th>
+<td><a href="/wiki/Germany" title="Germany">Germany</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/States_of_Germany" title="States of Germany">State</a></th>
+<td><a href="/wiki/Mecklenburg-Vorpommern" title="Mecklenburg-Vorpommern">Mecklenburg-Vorpommern</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Districts_of_Germany" title="Districts of Germany">District</a></th>
+<td><a href="/wiki/Urban_districts_of_Germany" class="mw-redirect" title="Urban districts of Germany">Urban district</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Government</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;<a href="/wiki/Lord_Mayor" class="mw-redirect" title="Lord Mayor">Lord Mayor</a></th>
+<td>Roland Methling (<a href="/wiki/Independent_(politician)" class="mw-redirect" title="Independent (politician)">Ind.</a>)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Area</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Total</th>
+<td>181.44&#160;km<sup>2</sup> (70.05&#160;sq&#160;mi)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Elevation</th>
+<td>13&#160;m (43&#160;ft)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Population <span style="font-weight:normal">(2015-12-31)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></span></th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Total</th>
+<td>206,011</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Density</th>
+<td>1,100/km<sup>2</sup> (2,900/sq&#160;mi)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/Time_zone" title="Time zone">Time zone</a></th>
+<td><a href="/wiki/Central_European_Time" title="Central European Time">CET</a>/<a href="/wiki/Central_European_Summer_Time" title="Central European Summer Time">CEST</a> (UTC+1/+2)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/List_of_postal_codes_in_Germany" title="List of postal codes in Germany">Postal codes</a></th>
+<td class="adr"><span class="postal-code">18001–18147</span></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/List_of_dialling_codes_in_Germany" title="List of dialling codes in Germany">Dialling codes</a></th>
+<td>0381</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Vehicle_registration_plate" title="Vehicle registration plate">Vehicle registration</a></th>
+<td>HRO</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Website</th>
+<td><a rel="nofollow" class="external text" href="http://www.rostock.de/">www.rostock.de</a></td>
+</tr>
+</table>
+<p><b>Rostock</b> (<small>German pronunciation:</small> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA/Standard_German" title="Help:IPA/Standard German">[ˈʁɔstɔk]</a></span><small class="nowrap metadata">&#160;(<span class="unicode haudio"><span class="fn"><span style="white-space:nowrap"><a href="/wiki/File:De-Rostock.ogg" title="About this sound"><img alt="About this sound" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" data-file-width="20" data-file-height="20" /></a>&#160;</span><a href="//upload.wikimedia.org/wikipedia/commons/d/dc/De-Rostock.ogg" class="internal" title="De-Rostock.ogg">listen</a></span></span>)</small>) is the largest <a href="/wiki/City" title="City">city</a> in the north <a href="/wiki/Germany" title="Germany">German</a> <a href="/wiki/States_of_Germany" title="States of Germany">state</a> <a href="/wiki/Mecklenburg-Vorpommern" title="Mecklenburg-Vorpommern">Mecklenburg-Vorpommern</a>. Rostock is on the <a href="/wiki/Warnow" title="Warnow">Warnow</a> river; the district of <a href="/wiki/Warnem%C3%BCnde" title="Warnemünde">Warnemünde</a> 12 kilometres (7 miles) north of the city centre is directly on the <a href="/wiki/Baltic_Sea" title="Baltic Sea">Baltic Sea</a> coast.</p>
+<p>Rostock is home to one of the <a href="/wiki/List_of_oldest_universities_in_continuous_operation" title="List of oldest universities in continuous operation">oldest universities in the world</a>, the <a href="/wiki/University_of_Rostock" title="University of Rostock">University of Rostock</a>, founded in 1419.</p>
+<p>The city territory of Rostock stretches for about 20&#160;km (12&#160;mi) along the Warnow to the Baltic Sea. The largest built-up area of Rostock is on the western side of the river. The eastern part of its territory is dominated by industrial estates and the forested <a href="/wiki/Rostock_Heath" title="Rostock Heath">Rostock Heath</a>. Rostock is considered as the only <a href="/wiki/Regiopolis" title="Regiopolis">regiopolis</a> in Mecklenburg-Vorpommern.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_history"><span class="tocnumber">1.1</span> <span class="toctext">Early history</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Hanseatic_League"><span class="tocnumber">1.2</span> <span class="toctext">Hanseatic League</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#15th_to_18th_century"><span class="tocnumber">1.3</span> <span class="toctext">15th to 18th century</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#19th_century"><span class="tocnumber">1.4</span> <span class="toctext">19th century</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#20th_century"><span class="tocnumber">1.5</span> <span class="toctext">20th century</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Politics"><span class="tocnumber">2</span> <span class="toctext">Politics</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Districts"><span class="tocnumber">2.1</span> <span class="toctext">Districts</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Symbols"><span class="tocnumber">2.2</span> <span class="toctext">Symbols</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Administration"><span class="tocnumber">2.3</span> <span class="toctext">Administration</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Partner_cities"><span class="tocnumber">2.4</span> <span class="toctext">Partner cities</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Regiopolis_Rostock"><span class="tocnumber">2.5</span> <span class="toctext">Regiopolis Rostock</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#Geography"><span class="tocnumber">3</span> <span class="toctext">Geography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-14"><a href="#Climate"><span class="tocnumber">3.1</span> <span class="toctext">Climate</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#Main_sights"><span class="tocnumber">4</span> <span class="toctext">Main sights</span></a>
+<ul>
+<li class="toclevel-2 tocsection-16"><a href="#Rostock"><span class="tocnumber">4.1</span> <span class="toctext">Rostock</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Warnem.C3.BCnde"><span class="tocnumber">4.2</span> <span class="toctext">Warnemünde</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-18"><a href="#Economy"><span class="tocnumber">5</span> <span class="toctext">Economy</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#Education"><span class="tocnumber">6</span> <span class="toctext">Education</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#Culture"><span class="tocnumber">7</span> <span class="toctext">Culture</span></a>
+<ul>
+<li class="toclevel-2 tocsection-21"><a href="#Events"><span class="tocnumber">7.1</span> <span class="toctext">Events</span></a></li>
+<li class="toclevel-2 tocsection-22"><a href="#Cinemas"><span class="tocnumber">7.2</span> <span class="toctext">Cinemas</span></a></li>
+<li class="toclevel-2 tocsection-23"><a href="#Museums_and_Zoo"><span class="tocnumber">7.3</span> <span class="toctext">Museums and Zoo</span></a></li>
+<li class="toclevel-2 tocsection-24"><a href="#Sport"><span class="tocnumber">7.4</span> <span class="toctext">Sport</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-25"><a href="#Transport"><span class="tocnumber">8</span> <span class="toctext">Transport</span></a>
+<ul>
+<li class="toclevel-2 tocsection-26"><a href="#Car"><span class="tocnumber">8.1</span> <span class="toctext">Car</span></a></li>
+<li class="toclevel-2 tocsection-27"><a href="#Public_transport"><span class="tocnumber">8.2</span> <span class="toctext">Public transport</span></a></li>
+<li class="toclevel-2 tocsection-28"><a href="#Ferry.2Fship"><span class="tocnumber">8.3</span> <span class="toctext">Ferry/ship</span></a></li>
+<li class="toclevel-2 tocsection-29"><a href="#Plane"><span class="tocnumber">8.4</span> <span class="toctext">Plane</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-30"><a href="#Notable_people"><span class="tocnumber">9</span> <span class="toctext">Notable people</span></a></li>
+<li class="toclevel-1 tocsection-31"><a href="#References"><span class="tocnumber">10</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-32"><a href="#Bibliography"><span class="tocnumber">11</span> <span class="toctext">Bibliography</span></a></li>
+<li class="toclevel-1 tocsection-33"><a href="#External_links"><span class="tocnumber">12</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rostock&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Timeline_of_Rostock" title="Timeline of Rostock">Timeline of Rostock</a></div>
+<h3><span class="mw-headline" id="Early_history">Early history</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rostock&amp;action=edit&amp;section=2" title="Edit section: Early history">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the 11th century <a href="/wiki/Polabian_Slavs" title="Polabian Slavs">Polabian Slavs</a> founded a settlement at the Warnow river called <i>Roztoc</i> (*<i>ras-tokŭ</i>, Slavic for "fork of a river"); the name Rostock is derived from that designation.</p>
+<p>The <a href="/wiki/Denmark" title="Denmark">Danish</a> king <a href="/wiki/Valdemar_I_of_Denmark" title="Valdemar I of Denmark">Valdemar I</a> set the town aflame in 1161. Afterwards the place was settled by German traders. Initially there were three separate cities:</p>
+<ul>
+<li><i>Altstadt</i> (Old Town) around the <i>Alter Markt</i> (Old Market) with <a href="/wiki/St._Petrikirche,_Rostock" class="mw-redirect" title="St. Petrikirche, Rostock">St. Petri</a> (St. Peter's Church),</li>
+<li><i>Mittelstadt</i> (Middle Town) around the <i>Neuer Markt</i> (New Market) with St. Marien (<a href="/wiki/St._Mary%27s_Church,_Rostock" title="St. Mary's Church, Rostock">St. Mary's Church</a>) and</li>
+</ul>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:177px;"><a href="/wiki/File:Rostocker_Stadtbest%C3%A4tigung_1213.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Rostocker_Stadtbest%C3%A4tigung_1213.png/175px-Rostocker_Stadtbest%C3%A4tigung_1213.png" width="175" height="216" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Rostocker_Stadtbest%C3%A4tigung_1213.png/263px-Rostocker_Stadtbest%C3%A4tigung_1213.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Rostocker_Stadtbest%C3%A4tigung_1213.png/350px-Rostocker_Stadtbest%C3%A4tigung_1213.png 2x" data-file-width="1744" data-file-height="2148" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Rostocker_Stadtbest%C3%A4tigung_1213.png" class="internal" title="Enlarge"></a></div>
+Confirmation of <a href="/wiki/L%C3%BCbeck_law" title="Lübeck law">Lübeck law</a> city rights, 1218</div>
+</div>
+</div>
+<ul>
+<li><i>Neustadt</i> (New Town) around the <i>Hopfenmarkt</i> (Hop Market, now University Square) with St. Jakobi (St. James's Church, now demolished).</li>
+</ul>
+<p>In 1218, Rostock was granted <a href="/wiki/L%C3%BCbeck_law" title="Lübeck law">Lübeck law</a> city rights by <a href="/wiki/Henry_Borwin_I,_Lord_of_Mecklenburg" title="Henry Borwin I, Lord of Mecklenburg">Heinrich Borwin</a>, prince of Mecklenburg.</p>
+<h3><span class="mw-headline" id="Hanseatic_League">Hanseatic League</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rostock&amp;action=edit&amp;section=3" title="Edit section: Hanseatic League">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Rostock_Universit%C3%A4t_1.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Rostock_Universit%C3%A4t_1.jpg/220px-Rostock_Universit%C3%A4t_1.jpg" width="220" height="150" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Rostock_Universit%C3%A4t_1.jpg/330px-Rostock_Universit%C3%A4t_1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Rostock_Universit%C3%A4t_1.jpg/440px-Rostock_Universit%C3%A4t_1.jpg 2x" data-file-width="1024" data-file-height="697" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Rostock_Universit%C3%A4t_1.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/University_of_Rostock" title="University of Rostock">Rostock University</a>, one of the world's oldest universities, founded 1419.</div>
+</div>
+</div>
+<p>During the <a href="/wiki/First_partition_of_Mecklenburg" class="mw-redirect" title="First partition of Mecklenburg">first partition of Mecklenburg</a> following the death of <a href="/wiki/Henry_Borwin_II,_Lord_of_Mecklenburg" title="Henry Borwin II, Lord of Mecklenburg">Henry Borwin II of Mecklenburg</a> in 1226, Rostock became the seat of the <a href="/wiki/Lordship_of_Rostock" title="Lordship of Rostock">Lordship of Rostock</a>, which survived for almost a century. In 1251, the city became a member of the <a href="/wiki/Hanseatic_League" title="Hanseatic League">Hanseatic League</a>. In the 14th century it was a powerful seaport town with 12,000 inhabitants and the biggest city of <a href="/wiki/Mecklenburg" title="Mecklenburg">Mecklenburg</a>. <a href="/wiki/Cog_(ship)" title="Cog (ship)">Ships</a> for cruising the <a href="/wiki/Baltic_Sea" title="Baltic Sea">Baltic Sea</a> were constructed in Rostock. The formerly independent fishing village of <a href="/wiki/Warnem%C3%BCnde" title="Warnemünde">Warnemünde</a> at the Baltic Sea became a part of Rostock in 1323, to secure the city's access to the Baltic Sea.</p>
+<p>In 1419, one of the earliest universities in Europe, the <a href="/wiki/University_of_Rostock" title="University of Rostock">University of Rostock</a>, was founded.</p>
+<h3><span class="mw-headline" id="15th_to_18th_century">15th to 18th century</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rostock&amp;action=edit&amp;section=4" title="Edit section: 15th to 18th century">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Rostock_1550-60.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/Rostock_1550-60.jpg/220px-Rostock_1550-60.jpg" width="220" height="68" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/Rostock_1550-60.jpg/330px-Rostock_1550-60.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/16/Rostock_1550-60.jpg/440px-Rostock_1550-60.jpg 2x" data-file-width="2353" data-file-height="731" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Rostock_1550-60.jpg" class="internal" title="Enlarge"></a></div>
+Rostock in the 16th century</div>
+</div>
+</div>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Rostock_um_1650.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Rostock_um_1650.jpg/220px-Rostock_um_1650.jpg" width="220" height="91" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Rostock_um_1650.jpg/330px-Rostock_um_1650.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Rostock_um_1650.jpg/440px-Rostock_um_1650.jpg 2x" data-file-width="3370" data-file-height="1393" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Rostock_um_1650.jpg" class="internal" title="Enlarge"></a></div>
+Rostock in the 17th century</div>
+</div>
+</div>
+<p>At the end of the 15th century the dukes of <a href="/wiki/Duchy_of_Mecklenburg" class="mw-redirect" title="Duchy of Mecklenburg">Mecklenburg</a> succeeded in enforcing their rule over the town of Rostock, which had until then been only nominally subject to their rule and essentially independent. They took advantage of a riot known as <i>Domfehde</i>, a failed uprising of the <a href="/wiki/Poverty" title="Poverty">impoverished</a> population. Subsequent quarrels with the dukes and persistent plundering led ultimately to a loss of economic and political power.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Plan_von_Rostock_gez_1780-1790_J.M._von_Tarnows.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/58/Plan_von_Rostock_gez_1780-1790_J.M._von_Tarnows.jpg/220px-Plan_von_Rostock_gez_1780-1790_J.M._von_Tarnows.jpg" width="220" height="115" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/58/Plan_von_Rostock_gez_1780-1790_J.M._von_Tarnows.jpg/330px-Plan_von_Rostock_gez_1780-1790_J.M._von_Tarnows.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/58/Plan_von_Rostock_gez_1780-1790_J.M._von_Tarnows.jpg/440px-Plan_von_Rostock_gez_1780-1790_J.M._von_Tarnows.jpg 2x" data-file-width="5046" data-file-height="2635" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Plan_von_Rostock_gez_1780-1790_J.M._von_Tarnows.jpg" class="internal" title="Enlarge"></a></div>
+Rostock 1780-90</div>
+</div>
+</div>
+<p>In 1565 there were further clashes with Schwerin that which had far-reaching consequences. Among other things, was the introduction of a beer <a href="/wiki/Excise" title="Excise">excise</a> that favoured the dukes. <a href="/wiki/John_Albert_I,_Duke_of_Mecklenburg" title="John Albert I, Duke of Mecklenburg">John Albert I</a> advanced on the city with 500 horsemen, after Rostock had refused to take the formal oath of allegiance, and had the city wall slighted in order to have a fortress built. Not until the first <a href="/wiki/Rostock_Inheritance_Agreement" title="Rostock Inheritance Agreement">Rostock Inheritance Agreement</a> of 21 September 1573, in which the state princes were guaranteed hereditary rule over the city for centuries, binding Rostock for a long time, and recognizing them as the supreme judicial authority, was the conflict ended. The citizens slighted the fortress the following spring. From 1575 to 1577 the city walls were rebuilt, as was the <i>Lagebusch</i> tower and the <i>Stein</i> Gate in the Dutch Renaissance style. The inscription <i>sit intra te concordia et publica felicitas</i>, which can still be read on the gate, refers directly to the conflict with the Duke. In 1584 it finally came to the Second Rostock Inheritance Agreement, which resulted in a further loss of former tax privileges. At the same time, these inheritance contracts put paid to Rostock's ambition of achieving <a href="/wiki/Imperial_immediacy" title="Imperial immediacy">imperial immediacy</a> as <a href="/wiki/L%C3%BCbeck" title="Lübeck">Lübeck</a> had done in 1226.</p>
+<p>The strategic location of Rostock provoked the envy of its rivals. <a href="/wiki/Denmark" title="Denmark">Danes</a> and <a href="/wiki/Sweden" title="Sweden">Swedes</a> occupied the city twice, first during the <a href="/wiki/Thirty_Years%27_War" title="Thirty Years' War">Thirty Years' War</a> (1618–48) and again from 1700 to 1721. Later, the <a href="/wiki/First_French_Empire" title="First French Empire">French</a>, under <a href="/wiki/Napoleon" title="Napoleon">Napoleon</a>, occupied the town for about a decade until 1813. In nearby <a href="/wiki/L%C3%BCbeck" title="Lübeck">Lübeck</a>-<a href="/wiki/Ratekau" title="Ratekau">Ratekau</a>, <a href="/wiki/Gebhard_Leberecht_von_Bl%C3%BCcher" title="Gebhard Leberecht von Blücher">Gebhard Leberecht von Blücher</a>, who was born in Rostock and who was one of few generals to fight on after defeat at the <a href="/wiki/Battle_of_Jena" class="mw-redirect" title="Battle of Jena">Battle of Jena</a>, surrendered to the French in 1806. This was only after furious street fighting in the <a href="/wiki/Battle_of_L%C3%BCbeck" title="Battle of Lübeck">Battle of Lübeck</a>, in which he led some of the <a href="/wiki/Cavalry_charge" class="mw-redirect" title="Cavalry charge">cavalry charges</a> himself. By the time of the surrender, the exhausted <a href="/wiki/Kingdom_of_Prussia" title="Kingdom of Prussia">Prussians</a> had neither food nor ammunition.</p>
+<h3><span class="mw-headline" id="19th_century">19th century</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rostock&amp;action=edit&amp;section=5" title="Edit section: 19th century">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Rostock.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Rostock.jpg/220px-Rostock.jpg" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Rostock.jpg/330px-Rostock.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/07/Rostock.jpg/440px-Rostock.jpg 2x" data-file-width="3888" data-file-height="2592" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Rostock.jpg" class="internal" title="Enlarge"></a></div>
+Colourful gabled houses of Rostock</div>
+</div>
+</div>
+<p>In the first half of the <a href="/wiki/19th_century" title="19th century">19th century</a> Rostock regained much of its economic importance, due at first to the wheat trade, then, from the 1850s, to industry, especially to its shipyards. The first propeller-driven steamers in Germany were constructed here.</p>
+<p>The city grew in area and population, with new quarters emerging in the south and west of the ancient borders of the city. Two notable developments were added to house the increasing population at around 1900:</p>
+<ul>
+<li><i>Steintor-Vorstadt</i> in the south, stretching from the old city wall to the facilities of the new <i>Lloydbahnhof</i> (Lloyd Railway Station, now <a href="/wiki/Rostock_Hauptbahnhof" title="Rostock Hauptbahnhof">Rostock Hauptbahnhof</a>), was designed as a living quarter and consisted mostly of large single houses, once inhabited by wealthy citizens.</li>
+<li><i>Kröpeliner-Tor-Vorstadt</i> in the west, was designed to house the working population as well as to provide smaller and larger industrial facilities, such as the Mahn &amp; Ohlerich's Brewery (now Hanseatische Brauerei Rostock). The main shipyard, <i>Neptun</i>, was nearby at the shore of the river.</li>
+</ul>
+<h3><span class="mw-headline" id="20th_century">20th century</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rostock&amp;action=edit&amp;section=6" title="Edit section: 20th century">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the 20th century, important <a href="/wiki/Fixed-wing_aircraft" title="Fixed-wing aircraft">aircraft</a> manufacturing facilities were situated in the city, such as the <a href="/wiki/Arado_Flugzeugwerke" title="Arado Flugzeugwerke">Arado Flugzeugwerke</a> in <a href="/wiki/Warnem%C3%BCnde" title="Warnemünde">Warnemünde</a> and the <a href="/wiki/Heinkel" title="Heinkel">Heinkel</a> Works with facilities at various places, including their secondary <a href="/wiki/Vienna_International_Airport" title="Vienna International Airport"><i>Heinkel-Süd</i> facility in Schwechat, Austria</a> — the original Heinkel firm's Rostock facilities being named <i>Heinkel-Nord</i>. It was at their facilities in what used to be named the <i>Rostock</i>-<a href="https://de.wikipedia.org/wiki/Marienehe" class="extiw" title="de:Marienehe"><i>Marienehe</i></a> neighborhood (today's <i>Rostock</i>-<a href="https://de.wikipedia.org/wiki/Schmarl" class="extiw" title="de:Schmarl"><i>Schmarl</i></a> community, along the west bank of the <a href="/wiki/Unterwarnow" title="Unterwarnow">Unterwarnow</a> estuary) that the world's first <a href="/wiki/Heinkel_He_178" title="Heinkel He 178">airworthy jet plane prototype</a> made its test flights.</p>
+<p>In the early 1930s, the Nazi Party began to gain among Rostock's voters, many of whom had suffered economic hardship during the 1920s. In <a href="/wiki/German_federal_election,_July_1932" title="German federal election, July 1932">elections</a> in the summer 1932, when the Nazis achieved their greatest national showing in a free election of 37.3 percent, they polled 40.3 percent in Rostock. A year later, after the <a href="/wiki/Nazi_seizure_of_power" class="mw-redirect" title="Nazi seizure of power">Nazi seizure of power</a> and the suppression of other political parties, the Rostock city council (<i>Stadtrat</i>) was composed entirely of Nazis. In the so-called "Crystal Night" <i><a href="/wiki/Kristallnacht" title="Kristallnacht">Kristallnacht</a></i> of Nov. 10, 1938, the Jewish synagogue in Rostock's Augustenstrsse was destroyed by arson and dozens of Jews were beaten and imprisoned.</p>
+<p>Feverish rearmament by the Nazi regime boosted Rostock's industrial importance in the late 1930s, and employment soared at the <a href="/wiki/Heinkel" title="Heinkel">Heinkel</a> and <a href="/wiki/Arado_Flugzeugwerke" title="Arado Flugzeugwerke">Arado</a> factories, and at the Neptunwerft shipyard. The city's population grew from 100,000 in 1935 to 121,192 in 1939.</p>
+<p>During <a href="/wiki/World_War_II" title="World War II">World War II</a>, Rostock was subjected to repeated and increasingly heavy bombing attacks, especially by the British <a href="/wiki/Royal_Air_Force" title="Royal Air Force">Royal Air Force</a>. Targets included the Heinkel and Arado plants and the shipyard, but churches and other historic structures in the city center also were heavily damaged, among them the 14th century Nikolaikirche (St. Nicholas Church) and Jakobikirche (St. Jacob's Church). The ruins of the latter were torn down in 1960.</p>
+<p>After the war, the city—now in the <a href="/wiki/German_Democratic_Republic" class="mw-redirect" title="German Democratic Republic">German Democratic Republic</a>—became East Germany's largest seaport, and the now state-owned shipyards in the district of <a href="/wiki/Warnem%C3%BCnde" title="Warnemünde">Warnemünde</a> were expanded. Its population, boosted in part by resettled refugees from former German territories in the east, increased in the GDR years to a peak of 260,000. Following the <a href="/wiki/German_reunification" title="German reunification">reunification</a> of Germany in 1990, Rostock lost its privileged position as the No. 1 port of the <a href="/wiki/East_Germany" title="East Germany">GDR</a>, and the city's population declined to about 200,000. However, after 2006, the population increased again. Today, Rostock and Warnemünde are significant tourist destinations on the Baltic Sea.</p>
+<p>The <a href="/wiki/Rostock-Lichtenhagen_riots" title="Rostock-Lichtenhagen riots">Rostock-Lichtenhagen riots</a> occurred from August 22 to August 24, 1992 when violent xenophobic riots took place in the Lichtenhagen district of Rostock, Germany; these were the worst mob attacks against migrants in postwar Germany. Even though stones and petrol bombs were thrown at an apartment block where asylum seekers lived, no one was killed. At the height of the riots, several hundred militant right-wing extremists were involved, and about 3,000 neighbourhood onlookers stood by, applauding them.</p>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 135px">
+<div style="width: 135px">
+<div class="thumb" style="width: 130px;">
+<div style="margin:37.5px auto;"><a href="/wiki/File:Lisch-Rostock_Beginenberg.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Lisch-Rostock_Beginenberg.jpg/100px-Lisch-Rostock_Beginenberg.jpg" width="100" height="55" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Lisch-Rostock_Beginenberg.jpg/150px-Lisch-Rostock_Beginenberg.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Lisch-Rostock_Beginenberg.jpg/200px-Lisch-Rostock_Beginenberg.jpg 2x" data-file-width="2087" data-file-height="1153" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Depiction of Rostock in 1845</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 135px">
+<div style="width: 135px">
+<div class="thumb" style="width: 130px;">
+<div style="margin:27px auto;"><a href="/wiki/File:Bundesarchiv_Bild_183-1985-0306-032,_Rostock,_zerst%C3%B6rte_Kr%C3%A4merstrasse.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Bundesarchiv_Bild_183-1985-0306-032%2C_Rostock%2C_zerst%C3%B6rte_Kr%C3%A4merstrasse.jpg/100px-Bundesarchiv_Bild_183-1985-0306-032%2C_Rostock%2C_zerst%C3%B6rte_Kr%C3%A4merstrasse.jpg" width="100" height="76" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Bundesarchiv_Bild_183-1985-0306-032%2C_Rostock%2C_zerst%C3%B6rte_Kr%C3%A4merstrasse.jpg/150px-Bundesarchiv_Bild_183-1985-0306-032%2C_Rostock%2C_zerst%C3%B6rte_Kr%C3%A4merstrasse.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/93/Bundesarchiv_Bild_183-1985-0306-032%2C_Rostock%2C_zerst%C3%B6rte_Kr%C3%A4merstrasse.jpg/200px-Bundesarchiv_Bild_183-1985-0306-032%2C_Rostock%2C_zerst%C3%B6rte_Kr%C3%A4merstrasse.jpg 2x" data-file-width="1600" data-file-height="1220" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Rostock bomb damage, 1942</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 135px">
+<div style="width: 135px">
+<div class="thumb" style="width: 130px;">
+<div style="margin:31.5px auto;"><a href="/wiki/File:Bundesarchiv_Bild_183-H28029,_Rostock,_Marktplatz_mit_Rathaus.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Bundesarchiv_Bild_183-H28029%2C_Rostock%2C_Marktplatz_mit_Rathaus.jpg/100px-Bundesarchiv_Bild_183-H28029%2C_Rostock%2C_Marktplatz_mit_Rathaus.jpg" width="100" height="67" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Bundesarchiv_Bild_183-H28029%2C_Rostock%2C_Marktplatz_mit_Rathaus.jpg/150px-Bundesarchiv_Bild_183-H28029%2C_Rostock%2C_Marktplatz_mit_Rathaus.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Bundesarchiv_Bild_183-H28029%2C_Rostock%2C_Marktplatz_mit_Rathaus.jpg/200px-Bundesarchiv_Bild_183-H28029%2C_Rostock%2C_Marktplatz_mit_Rathaus.jpg 2x" data-file-width="1589" data-file-height="1069" /></a></div>
+</div>
+<div class="gallerytext">
+<p>City Hall, Market Square after war</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 135px">
+<div style="width: 135px">
+<div class="thumb" style="width: 130px;">
+<div style="margin:29.5px auto;"><a href="/wiki/File:Rostock_Panorama_Nikolaikirche_nach_Norden_2011-03-08.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Rostock_Panorama_Nikolaikirche_nach_Norden_2011-03-08.jpg/100px-Rostock_Panorama_Nikolaikirche_nach_Norden_2011-03-08.jpg" width="100" height="71" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Rostock_Panorama_Nikolaikirche_nach_Norden_2011-03-08.jpg/150px-Rostock_Panorama_Nikolaikirche_nach_Norden_2011-03-08.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Rostock_Panorama_Nikolaikirche_nach_Norden_2011-03-08.jpg/200px-Rostock_Panorama_Nikolaikirche_nach_Norden_2011-03-08.jpg 2x" data-file-width="3658" data-file-height="2609" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Rostock in 2011</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 135px">
+<div style="width: 135px">
+<div class="thumb" style="width: 130px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Steintor_Rostock_2011.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Steintor_Rostock_2011.jpg/53px-Steintor_Rostock_2011.jpg" width="53" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Steintor_Rostock_2011.jpg/79px-Steintor_Rostock_2011.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Steintor_Rostock_2011.jpg/106px-Steintor_Rostock_2011.jpg 2x" data-file-width="1587" data-file-height="3000" /></a></div>
+</div>
+<div class="gallerytext">
+<p>The 16th century <i>Steintor</i> city gate</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 135px">
+<div style="width: 135px">
+<div class="thumb" style="width: 130px;">
+<div style="margin:26px auto;"><a href="/wiki/File:Rostock_Marienkirche_2011-03-08.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Rostock_Marienkirche_2011-03-08.jpg/100px-Rostock_Marienkirche_2011-03-08.jpg" width="100" height="78" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Rostock_Marienkirche_2011-03-08.jpg/150px-Rostock_Marienkirche_2011-03-08.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Rostock_Marienkirche_2011-03-08.jpg/200px-Rostock_Marienkirche_2011-03-08.jpg 2x" data-file-width="4660" data-file-height="3647" /></a></div>
+</div>
+<div class="gallerytext">
+<p>St. Mary's Church (<i>Marienkirche</i>), 2011</p>
+</div>
+</div>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Politics">Politics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rostock&amp;action=edit&amp;section=7" title="Edit section: Politics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Districts">Districts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rostock&amp;action=edit&amp;section=8" title="Edit section: Districts">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tnone" style="margin-left: auto; margin-right:auto; overflow:hidden; width:auto; max-width:408px;">
+<div class="thumbinner" style="">
+<div class="overflowbugx" style="overflow:auto;"><a href="/wiki/File:Rostock_subdivisions.svg" class="image" title="Districts of Rostock"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Rostock_subdivisions.svg/400px-Rostock_subdivisions.svg.png" width="400" height="400" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Rostock_subdivisions.svg/600px-Rostock_subdivisions.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Rostock_subdivisions.svg/800px-Rostock_subdivisions.svg.png 2x" data-file-width="1380" data-file-height="1380" /></a></div>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Rostock_subdivisions.svg" title="File:Rostock subdivisions.svg"></a></div>
+Districts of Rostock</div>
+</div>
+</div>
+<h3><span class="mw-headline" id="Symbols">Symbols</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rostock&amp;action=edit&amp;section=9" title="Edit section: Symbols">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:172px;"><a href="/wiki/File:Rostock_Wappen.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Rostock_Wappen.svg/170px-Rostock_Wappen.svg.png" width="170" height="178" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Rostock_Wappen.svg/255px-Rostock_Wappen.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/78/Rostock_Wappen.svg/340px-Rostock_Wappen.svg.png 2x" data-file-width="675" data-file-height="706" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Rostock_Wappen.svg" class="internal" title="Enlarge"></a></div>
+Coat of Arms</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Rostock_Wahlspruch.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Rostock_Wahlspruch.jpg/220px-Rostock_Wahlspruch.jpg" width="220" height="29" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Rostock_Wahlspruch.jpg/330px-Rostock_Wahlspruch.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/7/70/Rostock_Wahlspruch.jpg 2x" data-file-width="413" data-file-height="55" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Rostock_Wahlspruch.jpg" class="internal" title="Enlarge"></a></div>
+<b><a href="/wiki/Motto" title="Motto">Motto</a></b>: <i>Within your walls may be harmony and happiness</i> <span class="languageicon">(in Latin)</span></div>
+</div>
+</div>
+<p>Rostock has had three different coats of arms, known as the <i>Signum</i>, the <i>Secretum</i> and the <i>Sigillum</i>. The Signum, which can be traced back to 1367, was developed last and is to this day the coat of arms of the city.</p>
+<p>The Signum depicts a golden <a href="/wiki/Griffin" title="Griffin">griffin</a> on a blue background, with bars of silver and red, the colours of the <a href="/wiki/Hanseatic_League" title="Hanseatic League">Hanseatic League</a>, below. It can be seen not only on flags and houses, and at bus stops, but also on bridges, gullies, fences, ships and restaurants.</p>
+<h3><span class="mw-headline" id="Administration">Administration</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rostock&amp;action=edit&amp;section=10" title="Edit section: Administration">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Since the 13th century, the governing body of the city has been the city council (<i>Rat</i>), first consisting of ten, later of 24 <a href="/wiki/Alderman" title="Alderman">aldermen</a> (<i>Ratsherren</i>). The chairman of the city council was the city <a href="/wiki/Mayor" title="Mayor">mayor</a>. In the 19th century there were even three mayors. Since 1925, the head of the city has borne the title of <a href="/wiki/Lord_Mayor" class="mw-redirect" title="Lord Mayor">Lord Mayor</a>. Having been elected for centuries by the city council, he is now elected directly by the citizens of Rostock, following a reform in 2002.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:DE_Rostock_Rathaus.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/58/DE_Rostock_Rathaus.JPG/220px-DE_Rostock_Rathaus.JPG" width="220" height="167" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/58/DE_Rostock_Rathaus.JPG/330px-DE_Rostock_Rathaus.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/58/DE_Rostock_Rathaus.JPG/440px-DE_Rostock_Rathaus.JPG 2x" data-file-width="2500" data-file-height="1900" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:DE_Rostock_Rathaus.JPG" class="internal" title="Enlarge"></a></div>
+Restored Rostock City Hall, a mixture of Baroque and <a href="/wiki/Brick_Gothic" title="Brick Gothic">Brick Gothic</a> architecture.</div>
+</div>
+</div>
+<p>The city parliament (<i>Bürgerschaft</i>) represents the citizens. Representative are elected for five years. The number of representatives is currently 53.</p>
+<ul>
+<li>13 <a href="/wiki/The_Left_(Germany)" title="The Left (Germany)">Linke</a></li>
+<li>10 <a href="/wiki/Social_Democratic_Party_of_Germany" title="Social Democratic Party of Germany">SPD</a></li>
+<li>9 <a href="/wiki/Christian_Democratic_Union_(Germany)" class="mw-redirect" title="Christian Democratic Union (Germany)">CDU</a></li>
+<li>5 <a href="/wiki/Alliance_%2790/The_Greens" class="mw-redirect" title="Alliance '90/The Greens">Greens</a></li>
+<li>4 <a href="/wiki/Free_Democratic_Party_(Germany)" title="Free Democratic Party (Germany)">FDP</a></li>
+<li>4 FÜR ROSTOCK – pro OB</li>
+<li>3 Rostocker Bund</li>
+<li>5 others</li>
+</ul>
+<p>The city parliament is presided by the <i>Präsident der Bürgerschaft</i>. He heads and prepares the sessions and, together with the Lord Mayor, represents the city.</p>
+<p>Roland Methling (Independent), was elected Lord Mayor of Rostock in the first round by 58.2% of the voters on 27 February 2005.</p>
+<h3><span class="mw-headline" id="Partner_cities">Partner cities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rostock&amp;action=edit&amp;section=11" title="Edit section: Partner cities">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Rostock has signed partnership agreements with the following cities:<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<div class="div-col columns column-count column-count-3" style="-moz-column-count: 3; -webkit-column-count: 3; column-count: 3;">
+<ul>
+<li><a href="/wiki/Szczecin" title="Szczecin">Szczecin</a>, Poland, 1957<sup id="cite_ref-Szczecin_twinnings_3-0" class="reference"><a href="#cite_note-Szczecin_twinnings-3">[3]</a></sup></li>
+<li><a href="/wiki/Turku" title="Turku">Turku</a>, Finland, 1959</li>
+<li><a href="/wiki/Dunkirk" title="Dunkirk">Dunkirk</a>, France, 9 April 2000<sup id="cite_ref-Dunkirk_twinnings_4-0" class="reference"><a href="#cite_note-Dunkirk_twinnings-4">[4]</a></sup></li>
+<li><a href="/wiki/Riga" title="Riga">Riga</a>, Latvia, 1961<sup id="cite_ref-Riga_5-0" class="reference"><a href="#cite_note-Riga-5">[5]</a></sup></li>
+<li><a href="/wiki/Antwerp" title="Antwerp">Antwerp</a>, Belgium, 1963</li>
+<li><a href="/wiki/%C3%85rhus" class="mw-redirect" title="Århus">Århus</a>, Denmark, 1964</li>
+<li><a href="/wiki/Bergen_(Norway)" class="mw-redirect" title="Bergen (Norway)">Bergen</a>, Norway, 1965</li>
+<li><a href="/wiki/Gothenburg" title="Gothenburg">Gothenburg</a>, Sweden, 1965</li>
+<li><a href="/wiki/Varna" title="Varna">Varna</a>, Bulgaria, 1966</li>
+<li><a href="/wiki/Rijeka" title="Rijeka">Rijeka</a>, Croatia, 1966</li>
+<li><a href="/wiki/Bremen" title="Bremen">Bremen</a>, Germany, 1987<sup id="cite_ref-Bremen_twinnings_6-0" class="reference"><a href="#cite_note-Bremen_twinnings-6">[6]</a></sup></li>
+<li><a href="/wiki/Dalian" title="Dalian">Dalian</a>, People's Republic of China, 1988</li>
+<li><a href="/wiki/Raleigh,_North_Carolina" title="Raleigh, North Carolina">Raleigh</a>, <a href="/wiki/North_Carolina" title="North Carolina">North Carolina</a>, United States, 2001</li>
+<li><a href="/wiki/Guldborgsund" title="Guldborgsund">Guldborgsund</a>, Denmark, 2014<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></li>
+<li><a href="/wiki/Bizerta" class="mw-redirect" title="Bizerta">Bizerta</a>, <a href="/wiki/Tunisia" title="Tunisia">Tunisia</a>, 2016</li>
+</ul>
+</div>
+<p><br />
+Rostock is a member of the international network <a href="/wiki/Hanseatic_League#Modern_.22City_League_The_HANSE.22" title="Hanseatic League">New Hanse</a>.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:172px;"><a href="/wiki/File:Regiopole_Rostock_Verflechtungen.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/12/Regiopole_Rostock_Verflechtungen.jpg/170px-Regiopole_Rostock_Verflechtungen.jpg" width="170" height="186" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/12/Regiopole_Rostock_Verflechtungen.jpg/255px-Regiopole_Rostock_Verflechtungen.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/12/Regiopole_Rostock_Verflechtungen.jpg/340px-Regiopole_Rostock_Verflechtungen.jpg 2x" data-file-width="424" data-file-height="463" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Regiopole_Rostock_Verflechtungen.jpg" class="internal" title="Enlarge"></a></div>
+Geographical position of the Rostock <a href="/wiki/Regiopolis" title="Regiopolis">Regiopolis</a></div>
+</div>
+</div>
+<h3><span class="mw-headline" id="Regiopolis_Rostock">Regiopolis Rostock</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rostock&amp;action=edit&amp;section=12" title="Edit section: Regiopolis Rostock">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Rostock is the first city region that defines itself not only as a city in its boundaries, but as a <a href="/wiki/Regiopolis" title="Regiopolis">regiopolis</a>, with a supra-regional sphere of influence. A regiopolis can be compared to a <a href="/wiki/Metropolis" title="Metropolis">metropolis</a>, but on a smaller scale. This is a sign for the inter-regional cooperation and economic dynamics that can be found in the Rostock area. A taskforce with different actors such as the hanseatic city of Rostock, the administrative <a href="/wiki/Rostock_(district)" title="Rostock (district)">district of Rostock</a>, the <i>Regional Planning Association Middle Mecklenburg/Rostock</i> and the local business organisations are working on the promotion and advancement of the concept.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p>
+<h2><span class="mw-headline" id="Geography">Geography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rostock&amp;action=edit&amp;section=13" title="Edit section: Geography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Rostock is located nearly centrally on <a href="/wiki/Mecklenburg-Vorpommern" title="Mecklenburg-Vorpommern">Mecklenburg-Vorpommern</a>'s <a href="/wiki/Baltic_Sea" title="Baltic Sea">Baltic Sea</a> coast. The city is crossed by the <a href="/wiki/Warnow" title="Warnow">Warnow</a>.</p>
+<p>The seaside part of Rostock, Rostock-<a href="/wiki/Warnem%C3%BCnde" title="Warnemünde">Warnemünde</a>, is about 16&#160;km (10&#160;mi) to the north of the historic city centre. The west and the southeast are the most densely populated parts of town. The overseas port is to the east of Rostock. Rostock stretches 21.6&#160;km (13.4&#160;mi) from the <a href="/wiki/Baltic_Sea" title="Baltic Sea">Baltic Sea</a> to the south and 19.4&#160;km (12.1&#160;mi) from east to west.</p>
+<h3><span class="mw-headline" id="Climate">Climate</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rostock&amp;action=edit&amp;section=14" title="Edit section: Climate">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Rostock has an <a href="/wiki/Oceanic_climate" title="Oceanic climate">oceanic climate</a> typical of the South Baltic Sea region, and the climate has more in common with that found in southern <a href="/wiki/Sweden" title="Sweden">Sweden</a> and in <a href="/wiki/Sealand,_Denmark" class="mw-redirect" title="Sealand, Denmark">Sealand</a>, <a href="/wiki/Denmark" title="Denmark">Denmark</a> than the typical German oceanic climate that usually has milder winter days.</p>
+<table class="wikitable collapsible" style="width:90%; text-align:center; font-size:90%; line-height: 1.2em; margin:auto;">
+<tr>
+<th colspan="14">Climate data for Rostock</th>
+</tr>
+<tr>
+<th scope="row">Month</th>
+<th scope="col">Jan</th>
+<th scope="col">Feb</th>
+<th scope="col">Mar</th>
+<th scope="col">Apr</th>
+<th scope="col">May</th>
+<th scope="col">Jun</th>
+<th scope="col">Jul</th>
+<th scope="col">Aug</th>
+<th scope="col">Sep</th>
+<th scope="col">Oct</th>
+<th scope="col">Nov</th>
+<th scope="col">Dec</th>
+<th scope="col" style="border-left-width:medium">Year</th>
+</tr>
+<tr style="text-align: center;">
+<th scope="row" style="height: 16px;">Record high °C (°F)</th>
+<td style="background: #FFD2A5; color:#000000;">11<br />
+(52)</td>
+<td style="background: #FFB66E; color:#000000;">15<br />
+(59)</td>
+<td style="background: #FF8D1B; color:#000000;">21<br />
+(70)</td>
+<td style="background: #FF6A00; color:#000000;">26<br />
+(79)</td>
+<td style="background: #FF4800; color:#000000;">31<br />
+(88)</td>
+<td style="background: #FF3A00; color:#000000;">33<br />
+(91)</td>
+<td style="background: #FF3300; color:#000000;">34<br />
+(93)</td>
+<td style="background: #FF4100; color:#000000;">32<br />
+(90)</td>
+<td style="background: #FF5600; color:#000000;">29<br />
+(84)</td>
+<td style="background: #FF860D; color:#000000;">22<br />
+(72)</td>
+<td style="background: #FFB66E; color:#000000;">15<br />
+(59)</td>
+<td style="background: #FFBD7C; color:#000000;">14<br />
+(57)</td>
+<td style="background: #FF3300; color:#000000; border-left-width:medium">34<br />
+(93)</td>
+</tr>
+<tr style="text-align: center;">
+<th scope="row" style="height: 16px;">Average high °C (°F)</th>
+<td style="background: #F1F1FF; color:#000000;">2<br />
+(36)</td>
+<td style="background: #F1F1FF; color:#000000;">2<br />
+(36)</td>
+<td style="background: #FFEDDC; color:#000000;">7<br />
+(45)</td>
+<td style="background: #FFD2A5; color:#000000;">11<br />
+(52)</td>
+<td style="background: #FFA852; color:#000000;">17<br />
+(63)</td>
+<td style="background: #FF9429; color:#000000;">20<br />
+(68)</td>
+<td style="background: #FF860D; color:#000000;">22<br />
+(72)</td>
+<td style="background: #FF8D1B; color:#000000;">21<br />
+(70)</td>
+<td style="background: #FFA144; color:#000000;">18<br />
+(64)</td>
+<td style="background: #FFCB97; color:#000000;">12<br />
+(54)</td>
+<td style="background: #FFEDDC; color:#000000;">7<br />
+(45)</td>
+<td style="background: #F6F6FF; color:#000000;">3<br />
+(37)</td>
+<td style="background: #FFCB97; color:#000000; border-left-width:medium">12<br />
+(54)</td>
+</tr>
+<tr style="text-align: center;">
+<th scope="row" style="height: 16px;">Average low °C (°F)</th>
+<td style="background: #DBDBFF; color:#000000;">−2<br />
+(28)</td>
+<td style="background: #D6D6FF; color:#000000;">−3<br />
+(27)</td>
+<td style="background: #E1E1FF; color:#000000;">−1<br />
+(30)</td>
+<td style="background: #F6F6FF; color:#000000;">3<br />
+(37)</td>
+<td style="background: #FFEDDC; color:#000000;">7<br />
+(45)</td>
+<td style="background: #FFD9B3; color:#000000;">10<br />
+(50)</td>
+<td style="background: #FFC489; color:#000000;">13<br />
+(55)</td>
+<td style="background: #FFC489; color:#000000;">13<br />
+(55)</td>
+<td style="background: #FFDFC0; color:#000000;">9<br />
+(48)</td>
+<td style="background: #FFF4EA; color:#000000;">6<br />
+(43)</td>
+<td style="background: #F1F1FF; color:#000000;">2<br />
+(36)</td>
+<td style="background: #E1E1FF; color:#000000;">−1<br />
+(30)</td>
+<td style="background: #FFFBF8; color:#000000; border-left-width:medium">5<br />
+(41)</td>
+</tr>
+<tr style="text-align: center;">
+<th scope="row" style="height: 16px;">Record low °C (°F)</th>
+<td style="background: #8585FF; color:#000000;">−18<br />
+(0)</td>
+<td style="background: #7A7AFF; color:#000000;">−20<br />
+(−4)</td>
+<td style="background: #8585FF; color:#000000;">−18<br />
+(0)</td>
+<td style="background: #CBCBFF; color:#000000;">−5<br />
+(23)</td>
+<td style="background: #D6D6FF; color:#000000;">−3<br />
+(27)</td>
+<td style="background: #F1F1FF; color:#000000;">2<br />
+(36)</td>
+<td style="background: #FFF4EA; color:#000000;">6<br />
+(43)</td>
+<td style="background: #FFFBF8; color:#000000;">5<br />
+(41)</td>
+<td style="background: #ECECFF; color:#000000;">1<br />
+(34)</td>
+<td style="background: #CBCBFF; color:#000000;">−5<br />
+(23)</td>
+<td style="background: #B6B6FF; color:#000000;">−9<br />
+(16)</td>
+<td style="background: #9090FF; color:#000000;">−16<br />
+(3)</td>
+<td style="background: #7A7AFF; color:#000000; border-left-width:medium">−20<br />
+(−4)</td>
+</tr>
+<tr style="text-align: center;">
+<th scope="row" style="height: 16px;">Average <a href="/wiki/Precipitation" title="Precipitation">precipitation</a> mm (inches)</th>
+<td style="background: #BABAFF; color:#000000;">46<br />
+(1.81)</td>
+<td style="background: #C3C3FF; color:#000000;">36<br />
+(1.42)</td>
+<td style="background: #D2D2FF; color:#000000;">30<br />
+(1.18)</td>
+<td style="background: #BEBEFF; color:#000000;">42<br />
+(1.65)</td>
+<td style="background: #B7B7FF; color:#000000;">48<br />
+(1.89)</td>
+<td style="background: #A2A2FF; color:#000000;">60<br />
+(2.36)</td>
+<td style="background: #8989FF; color:#000000;">79<br />
+(3.11)</td>
+<td style="background: #9595FF; color:#000000;">71<br />
+(2.8)</td>
+<td style="background: #9494FF; color:#000000;">69<br />
+(2.72)</td>
+<td style="background: #9E9EFF; color:#000000;">65<br />
+(2.56)</td>
+<td style="background: #C2C2FF; color:#000000;">39<br />
+(1.54)</td>
+<td style="background: #BBBBFF; color:#000000;">45<br />
+(1.77)</td>
+<td style="background: #AFAFFF; color:#000000; border-left-width:medium">630<br />
+(24.8)</td>
+</tr>
+<tr>
+<td colspan="14" style="text-align:center;font-size:95%;">Source: BBC Weather<sup id="cite_ref-weather1_9-0" class="reference"><a href="#cite_note-weather1-9">[9]</a></sup></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Main_sights">Main sights</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rostock&amp;action=edit&amp;section=15" title="Edit section: Main sights">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Rostock">Rostock</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rostock&amp;action=edit&amp;section=16" title="Edit section: Rostock">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tnone" style="margin-left: auto; margin-right:auto; overflow:hidden; width:auto; max-width:1008px;">
+<div class="thumbinner" style="">
+<div class="overflowbugx" style="overflow:auto;"><a href="/wiki/File:Panorama1.jpg" class="image" title="Panorama of Rostock from the bank of the Warnow river during the Hanse Sail"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Panorama1.jpg/1000px-Panorama1.jpg" width="1000" height="142" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Panorama1.jpg/1500px-Panorama1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Panorama1.jpg/2000px-Panorama1.jpg 2x" data-file-width="2624" data-file-height="373" /></a></div>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Panorama1.jpg" title="File:Panorama1.jpg"></a></div>
+Panorama of Rostock from the bank of the <a href="/wiki/Warnow" title="Warnow">Warnow</a> river during the <a href="/wiki/Hanse_Sail" title="Hanse Sail">Hanse Sail</a></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Aerial_view_Yacht_Harbour_Residence_Rostock_Yachthafenresidenz_Hohe_D%C3%BCne_1.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Aerial_view_Yacht_Harbour_Residence_Rostock_Yachthafenresidenz_Hohe_D%C3%BCne_1.jpg/220px-Aerial_view_Yacht_Harbour_Residence_Rostock_Yachthafenresidenz_Hohe_D%C3%BCne_1.jpg" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Aerial_view_Yacht_Harbour_Residence_Rostock_Yachthafenresidenz_Hohe_D%C3%BCne_1.jpg/330px-Aerial_view_Yacht_Harbour_Residence_Rostock_Yachthafenresidenz_Hohe_D%C3%BCne_1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Aerial_view_Yacht_Harbour_Residence_Rostock_Yachthafenresidenz_Hohe_D%C3%BCne_1.jpg/440px-Aerial_view_Yacht_Harbour_Residence_Rostock_Yachthafenresidenz_Hohe_D%C3%BCne_1.jpg 2x" data-file-width="1024" data-file-height="685" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Aerial_view_Yacht_Harbour_Residence_Rostock_Yachthafenresidenz_Hohe_D%C3%BCne_1.jpg" class="internal" title="Enlarge"></a></div>
+Aerial view of marina and <i>Yacht Harbour Residence "Hohe Düne"</i> at the <a href="/wiki/Baltic_Sea" title="Baltic Sea">Baltic Sea</a>, close to <a href="/wiki/Warnem%C3%BCnde" title="Warnemünde">Warnemünde</a>.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Rostock_Heiligengeisthof.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Rostock_Heiligengeisthof.jpg/220px-Rostock_Heiligengeisthof.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Rostock_Heiligengeisthof.jpg/330px-Rostock_Heiligengeisthof.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Rostock_Heiligengeisthof.jpg/440px-Rostock_Heiligengeisthof.jpg 2x" data-file-width="1024" data-file-height="768" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Rostock_Heiligengeisthof.jpg" class="internal" title="Enlarge"></a></div>
+<i>Heiligengeisthof</i> (Holy Spirit Courtyard).</div>
+</div>
+</div>
+<p>One of the most picturesque places in Rostock is the <i>Neuer Markt</i> (New Market Square), with the Town Hall - that was originally built in the 13th century in <a href="/wiki/Brick_Gothic" title="Brick Gothic">Brick Gothic</a> style, but extensively transformed in the 18th century, with the addition of a <a href="/wiki/Baroque" title="Baroque">Baroque</a> façade and a banqueting hall. The square also preserved six original, carefully restored gable houses from the 15th and 16th centuries. The other historical houses in Hanseatic style that once bordered the square were destroyed in an Allied air-raid in 1942, and rebuilt in a simplified manner.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></p>
+<p>The 15th-century <i>Kerkhofhaus</i> (at Große Wasserstraße, behind the Town Hall) is considered the best preserved brick Gothic house in Rostock.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (April 2013)">citation needed</span></a></i>]</sup></p>
+<p><a href="/wiki/St._Mary%27s_Church,_Rostock" title="St. Mary's Church, Rostock">St. Mary's Church</a> <i>Marienkirche</i>, on Ziegenmarkt, is an imposing <a href="/wiki/Brick_Gothic" title="Brick Gothic">Brick Gothic</a> church. Built in the 13th century, it was enlarged and modified at the end of the 14th century into the present cross-shaped basilica. The huge tower was not completed until the end of the 18th century. Inside there is an <a href="/wiki/Astronomical_clock" title="Astronomical clock">astronomical clock</a> built in 1472 by Hans Düringer.</p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:242px;"><a href="/wiki/File:Rostock_Kr%C3%B6peliner_Stra%C3%9Fe.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Rostock_Kr%C3%B6peliner_Stra%C3%9Fe.jpg/240px-Rostock_Kr%C3%B6peliner_Stra%C3%9Fe.jpg" width="240" height="180" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Rostock_Kr%C3%B6peliner_Stra%C3%9Fe.jpg/360px-Rostock_Kr%C3%B6peliner_Stra%C3%9Fe.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Rostock_Kr%C3%B6peliner_Stra%C3%9Fe.jpg/480px-Rostock_Kr%C3%B6peliner_Stra%C3%9Fe.jpg 2x" data-file-width="1024" data-file-height="768" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Rostock_Kr%C3%B6peliner_Stra%C3%9Fe.jpg" class="internal" title="Enlarge"></a></div>
+<i>Kröpeliner Straße</i> - main shopping street</div>
+</div>
+</div>
+<p>The main pedestrian precinct is <i>Kröpeliner Straße</i>, that runs east from the Neuer Markt to the 14th-century <i>Kröpeliner Tor</i>, a former town gate. The main buildings of <a href="/wiki/University_of_Rostock" title="University of Rostock">Rostock University</a> lie at Universitätsplatz, near the middle of the street, in front of the lively fountain of <i>zest for life (Brunnen der Lebensfreude)</i>.</p>
+<p>The <i>Kloster St Katharinen</i> (Convent of St. Catherine), an old <a href="/wiki/Franciscan" class="mw-redirect" title="Franciscan">Franciscan</a> <a href="/wiki/Monastery" title="Monastery">monastery</a> founded in 1243, and extended several times during the 14th and 15th centuries. Now used as the seat of the Academy of Music and Theatre (HMT-Rostock).</p>
+<p>The Brick Gothic <i>Nikolaikirche</i> (St. Nicholas Church), which is the oldest church in Rostock, built in mid-13th century. Heavily damaged during <a href="/wiki/World_War_II" title="World War II">World War II</a> and subsequently restored, the building is now used as an exhibition centre and concert hall, due to its outstanding acoustics.</p>
+<p>Some parts of the medieval <a href="/wiki/City_wall" class="mw-redirect" title="City wall">city wall</a>, with four <a href="/wiki/City_gate" title="City gate">city gates</a>, have survived to the present day.</p>
+<h3><span id="Warnemünde"></span><span class="mw-headline" id="Warnem.C3.BCnde">Warnemünde</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rostock&amp;action=edit&amp;section=17" title="Edit section: Warnemünde">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Warnem%C3%BCnde_Altstadt_(03)_2006-09-21.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Warnem%C3%BCnde_Altstadt_%2803%29_2006-09-21.jpg/220px-Warnem%C3%BCnde_Altstadt_%2803%29_2006-09-21.jpg" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Warnem%C3%BCnde_Altstadt_%2803%29_2006-09-21.jpg/330px-Warnem%C3%BCnde_Altstadt_%2803%29_2006-09-21.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/be/Warnem%C3%BCnde_Altstadt_%2803%29_2006-09-21.jpg/440px-Warnem%C3%BCnde_Altstadt_%2803%29_2006-09-21.jpg 2x" data-file-width="1800" data-file-height="1200" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Warnem%C3%BCnde_Altstadt_(03)_2006-09-21.jpg" class="internal" title="Enlarge"></a></div>
+<i>Alexandrinenstraße</i> in Warnemünde.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Rostock22.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Rostock22.jpg/220px-Rostock22.jpg" width="220" height="176" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Rostock22.jpg/330px-Rostock22.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/52/Rostock22.jpg/440px-Rostock22.jpg 2x" data-file-width="752" data-file-height="600" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Rostock22.jpg" class="internal" title="Enlarge"></a></div>
+<i>Speicher</i> (office buildings) at night. Headquarters of <a href="/wiki/AIDA_Cruises" title="AIDA Cruises">AIDA Cruises</a>.</div>
+</div>
+</div>
+<p><a href="/wiki/Warnem%C3%BCnde" title="Warnemünde">Warnemünde</a> is the seaside part of Rostock and a major attraction of the city. Locals and tourists alike enjoy the maritime flair of old houses, a large beach, a <a href="/wiki/Lighthouse_Warnem%C3%BCnde" class="mw-redirect" title="Lighthouse Warnemünde">lighthouse</a> and the old fisherman port.</p>
+<h2><span class="mw-headline" id="Economy">Economy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rostock&amp;action=edit&amp;section=18" title="Edit section: Economy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The economy is mainly characterized by maritime industries (especially <a href="/wiki/Shipbuilding" title="Shipbuilding">shipbuilding</a>), high-tech industries (<a href="/wiki/Information_technology" title="Information technology">IT</a>, <a href="/wiki/Biotechnology" title="Biotechnology">biotechnology</a>/<a href="/wiki/Life_sciences" class="mw-redirect" title="Life sciences">life sciences</a>, <a href="/wiki/Biomedical_engineering" title="Biomedical engineering">medical engineering</a>), the <a href="/wiki/University_of_Rostock" title="University of Rostock">University of Rostock</a>, <a href="/wiki/Tourism_in_Germany" title="Tourism in Germany">tourism</a> and the service sector. Major companies include:</p>
+<dl>
+<dt>Maritime Industry</dt>
+</dl>
+<ul>
+<li><a href="/wiki/Caterpillar_Inc." title="Caterpillar Inc.">Caterpillar Inc.</a>, manufacturer of diesel engines for ships</li>
+<li>Deutsche Seereederei Rostock, transport, cruises, property and tourism holding</li>
+<li><a href="/wiki/F._Laeisz" title="F. Laeisz">F. Laeisz</a></li>
+<li><a href="/wiki/Neptun_Werft" title="Neptun Werft">Neptun Werft</a>, shipyard belonging to <a href="/wiki/Meyer_Werft" title="Meyer Werft">Meyer Neptun Group</a></li>
+<li>Nordic Yards Warnemünde, shipyard</li>
+<li>Schiffselektronik Rostock</li>
+<li>Tamsen Maritim shipyard</li>
+</ul>
+<dl>
+<dt>Other engineering</dt>
+</dl>
+<ul>
+<li><a href="/wiki/Nordex_SE" class="mw-redirect" title="Nordex SE">Nordex SE</a>, a major producer of <a href="/wiki/Wind_turbine" title="Wind turbine">wind turbines</a></li>
+<li><a href="/wiki/Suzlon" title="Suzlon">Suzlon</a>, world's 5th largest wind turbine manufacturer</li>
+<li><a href="/wiki/Liebherr" class="mw-redirect" title="Liebherr">Liebherr</a>, manufacturer of cranes</li>
+</ul>
+<dl>
+<dt>Tourism industry</dt>
+</dl>
+<ul>
+<li><a href="/wiki/AIDA_Cruises" title="AIDA Cruises">AIDA Cruises</a>, German company for cruises</li>
+<li><a href="/wiki/Scandlines" title="Scandlines">Scandlines</a>, German-Danish ferry operator (by <i>Scandferries Holding</i>)</li>
+</ul>
+<dl>
+<dt>Others</dt>
+</dl>
+<ul>
+<li>Hanseatische Brauerei Rostock, German brewery belonging to the <a href="/wiki/Dr._Oetker" title="Dr. Oetker">Oetker-Gruppe</a></li>
+<li><a href="/wiki/IKEA" title="IKEA">IKEA</a></li>
+<li>Rostock University Hospital (<i>Universitätsmedizin</i>)</li>
+<li><a href="/wiki/Yara_International" title="Yara International">Yara International</a>, supplier of plant nutrients</li>
+</ul>
+<h2><span class="mw-headline" id="Education">Education</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rostock&amp;action=edit&amp;section=19" title="Edit section: Education">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Rostock_Botanischer_Garten_1.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Rostock_Botanischer_Garten_1.jpg/220px-Rostock_Botanischer_Garten_1.jpg" width="220" height="81" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Rostock_Botanischer_Garten_1.jpg/330px-Rostock_Botanischer_Garten_1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Rostock_Botanischer_Garten_1.jpg/440px-Rostock_Botanischer_Garten_1.jpg 2x" data-file-width="4998" data-file-height="1845" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Rostock_Botanischer_Garten_1.jpg" class="internal" title="Enlarge"></a></div>
+Historical <a href="/wiki/Botanischer_Garten_Universit%C3%A4t_Rostock" title="Botanischer Garten Universität Rostock">Botanical Garden of Rostock University</a>, greenhouse</div>
+</div>
+</div>
+<p>Rostock is home to one of the oldest universities in the world. Founded in 1419, the <a href="/wiki/University_of_Rostock" title="University of Rostock">University of Rostock</a> is the third oldest university in Germany in continuous operation, and one of the <a href="/wiki/List_of_oldest_universities_in_continuous_operation" title="List of oldest universities in continuous operation">oldest universities of the world</a>. It also maintains a <a href="/wiki/Botanical_garden" title="Botanical garden">botanical garden</a>, the <a href="/wiki/Botanischer_Garten_Universit%C3%A4t_Rostock" title="Botanischer Garten Universität Rostock">Botanischer Garten Universität Rostock</a>.</p>
+<p>The Academy of Music and Theatre (<i>Hochschule für Musik und Theater</i>) offers graduate degrees in artistic fields. Founded in 1994, the institution combined <i>Ernst Busch</i>, the former drama school, and the outpost school of the <a href="/wiki/Hochschule_f%C3%BCr_Musik_Hanns_Eisler" class="mw-redirect" title="Hochschule für Musik Hanns Eisler">Hanns Eisler Music School Berlin</a>. Today, the combined school is a member of the Association of Baltic Academies of Music (ABAM), a union of 17 music conservatories at the Baltic Sea and Israel. Unique in Europe is the postgraduate degree in piano duo performance. The school possesses a large opera stage (Katharinensaal) and two chamber music halls. There are concerts every day throughout the year.</p>
+<p>Rostock also hosts the <a href="/wiki/Max_Planck_Institute_for_Demographic_Research" title="Max Planck Institute for Demographic Research">Max Planck Institute for Demographic Research</a> and the Leibniz Institute for Catalysis, as well as two branches of Fraunhofer Institutes, one for Computer Graphics and one for Large Structures in Production Technology.</p>
+<h2><span class="mw-headline" id="Culture">Culture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rostock&amp;action=edit&amp;section=20" title="Edit section: Culture">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Rostock_Theater_im_Stadthafen.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Rostock_Theater_im_Stadthafen.jpg/220px-Rostock_Theater_im_Stadthafen.jpg" width="220" height="138" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Rostock_Theater_im_Stadthafen.jpg/330px-Rostock_Theater_im_Stadthafen.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/52/Rostock_Theater_im_Stadthafen.jpg/440px-Rostock_Theater_im_Stadthafen.jpg 2x" data-file-width="1024" data-file-height="643" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Rostock_Theater_im_Stadthafen.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Volkstheater_Rostock" class="mw-redirect" title="Volkstheater Rostock">Volkstheater Rostock</a></div>
+</div>
+</div>
+<h3><span class="mw-headline" id="Events">Events</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rostock&amp;action=edit&amp;section=21" title="Edit section: Events">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The city is home to the annual <a href="/wiki/Hanse_Sail" title="Hanse Sail">Hanse Sail</a> festival, during which many large sailing ships and museum vessels are brought out to sea, drawing over 1.5 million visitors.</p>
+<p>An annual jazz festival, <i>Ostsee-Jazz</i> ("Baltic Sea Jazz"), takes place in June.</p>
+<h3><span class="mw-headline" id="Cinemas">Cinemas</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rostock&amp;action=edit&amp;section=22" title="Edit section: Cinemas">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a rel="nofollow" class="external text" href="http://www.liwu.de/">Lichtspieltheater Wundervoll</a> is the <a href="/wiki/Art_house" class="mw-redirect" title="Art house">art house</a> cinema of Rostock. It opened in 1993 and offers a daily programme in two venues, the Metropol and the Frieda 23 with three cinemas. At Frieda 23 is the <a rel="nofollow" class="external text" href="http://ifnm.de/blog/">Institut für neue Medien</a> (IFNM), Rostock's Institute for New Media, which includes a media workshop. Both Liwu and IFNM are active members of the <i>Landesverband Filmkommunikation Mecklenburg-Vorpommern</i>. Special screenings for schools, educational programmes and special programmes are offered as well. It is the central venue for Rostock's Film Festival, the <a rel="nofollow" class="external text" href="http://www.fish-rostock.de/">Festival im Stadthafen</a> (FISH), the German Federal Festival for Young German Film.</p>
+<h3><span class="mw-headline" id="Museums_and_Zoo">Museums and Zoo</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rostock&amp;action=edit&amp;section=23" title="Edit section: Museums and Zoo">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Kempowski_Archiv_2014.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/Kempowski_Archiv_2014.JPG/220px-Kempowski_Archiv_2014.JPG" width="220" height="293" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/Kempowski_Archiv_2014.JPG/330px-Kempowski_Archiv_2014.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/95/Kempowski_Archiv_2014.JPG/440px-Kempowski_Archiv_2014.JPG 2x" data-file-width="1704" data-file-height="2272" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Kempowski_Archiv_2014.JPG" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Walter_Kempowski" title="Walter Kempowski">Walter Kempowski</a> archives</div>
+</div>
+</div>
+<ul>
+<li><a href="/wiki/Rostock_Art_Gallery" title="Rostock Art Gallery">Rostock Art Gallery</a> (<i>Kunsthalle Rostock</i>)</li>
+<li><a href="/wiki/Museum_of_Cultural_History,_Rostock" class="mw-redirect" title="Museum of Cultural History, Rostock">Museum of Cultural History</a> (<i>Kulturhistorisches Museum</i>)</li>
+<li>Stasi Museum (<i>Dokumentations- und Gedenkstätte der Bundesbeauftragten für die Unterlagen des Staatssicherheitsdienstes der ehemaligen Deutschen Demokratischen Republik</i>)</li>
+<li>Warnemünde Local History Museum (<i>Heimatmuseum Warnemünde</i>)</li>
+<li>Shipbuilding and Shipping Museum (<i>Schiffbau- und Schifffahrtsmuseum</i>)</li>
+<li><a href="/wiki/Rostock_Zoo" title="Rostock Zoo">Rostock Zoo</a></li>
+<li>Walter Kempowski Archive</li>
+</ul>
+<h3><span class="mw-headline" id="Sport">Sport</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rostock&amp;action=edit&amp;section=24" title="Edit section: Sport">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Ostseestadion.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ostseestadion.JPG/220px-Ostseestadion.JPG" width="220" height="125" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ostseestadion.JPG/330px-Ostseestadion.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ostseestadion.JPG/440px-Ostseestadion.JPG 2x" data-file-width="1248" data-file-height="708" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Ostseestadion.JPG" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Ostseestadion" title="Ostseestadion">Ostseestadion</a>, home ground of <a href="/wiki/Hansa_Rostock" class="mw-redirect" title="Hansa Rostock">Hansa Rostock</a></div>
+</div>
+</div>
+<table class="wikitable">
+<tr>
+<th style="background: #BBDDFF; color:#000080;">Club</th>
+<th style="background: #BBDDFF; color:#000080;">Sport</th>
+<th style="background: #BBDDFF; color:#000080;">Founded</th>
+<th style="background: #BBDDFF; color:#000080;">League</th>
+<th style="background: #BBDDFF; color:#000080;">Venue</th>
+<th style="background: #BBDDFF; color:#000080;">Head Coach</th>
+<th style="background: #BBDDFF; color:#000080;">Website</th>
+</tr>
+<tr>
+<td><a href="/wiki/F.C._Hansa_Rostock" title="F.C. Hansa Rostock">F.C. Hansa Rostock</a></td>
+<td><a href="/wiki/Football_(soccer)" class="mw-redirect" title="Football (soccer)">Football</a></td>
+<td>1965</td>
+<td><a href="/wiki/3._Fu%C3%9Fball-Bundesliga" class="mw-redirect" title="3. Fußball-Bundesliga">3. Bundesliga</a></td>
+<td><a href="/wiki/Ostseestadion" title="Ostseestadion">Ostseestadion</a></td>
+<td><a href="/wiki/Christian_Brand" title="Christian Brand">Christian Brand</a></td>
+<td><a rel="nofollow" class="external autonumber" href="http://www.fc-hansa.de/">[1]</a></td>
+</tr>
+<tr>
+<td>Rostocker FC 1895</td>
+<td><a href="/wiki/Football_(soccer)" class="mw-redirect" title="Football (soccer)">Football</a></td>
+<td>1895</td>
+<td><a href="/wiki/Verbandsliga_Mecklenburg-Vorpommern" title="Verbandsliga Mecklenburg-Vorpommern">Verbandsliga Mecklenburg-Vorpommern</a></td>
+<td>Sportpark am Damerower Weg</td>
+<td>Jan Kistenmacher</td>
+<td><a rel="nofollow" class="external autonumber" href="http://www.rfc-1895.de">[2]</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/HC_Empor_Rostock" title="HC Empor Rostock">HC Empor Rostock</a></td>
+<td><a href="/wiki/Team_handball" class="mw-redirect" title="Team handball">Team handball</a></td>
+<td>1946</td>
+<td><a href="/wiki/Bundesliga_(handball)" class="mw-redirect" title="Bundesliga (handball)">2. Bundesliga</a></td>
+<td>Rostocker Stadthalle</td>
+<td>Maik Handschke</td>
+<td><a rel="nofollow" class="external autonumber" href="http://www.hc-empor.de/">[3]</a></td>
+</tr>
+<tr>
+<td>SV Warnemünde</td>
+<td><a href="/wiki/Volleyball" title="Volleyball">Volleyball</a></td>
+<td>1990</td>
+<td>3rd league (men and women team)</td>
+<td>Sporthalle Gerüstbauerring</td>
+<td></td>
+<td><a rel="nofollow" class="external autonumber" href="http://www.svw-vb.de/">[4]</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Piranhas_Rostock" class="mw-redirect" title="Piranhas Rostock">Piranhas Rostock</a></td>
+<td><a href="/wiki/Ice_hockey" title="Ice hockey">Ice hockey</a></td>
+<td>1953</td>
+<td><a href="/wiki/Oberliga_(ice_hockey)" title="Oberliga (ice hockey)">Oberliga</a> (3rd division)</td>
+<td>Eishalle Rostock</td>
+<td>Henry Thom</td>
+<td><a rel="nofollow" class="external autonumber" href="http://www.fc-hansa.de/">[5]</a></td>
+</tr>
+<tr>
+<td>EBC Rostock Seawolves</td>
+<td><a href="/wiki/Basketball" title="Basketball">Basketball</a></td>
+<td>1994</td>
+<td>Regionalliga Nord (3rd league)</td>
+<td>OSPA-Arena</td>
+<td>Sebastian Wild</td>
+<td><a rel="nofollow" class="external autonumber" href="http://www.ebcrostock.de/">[6]</a></td>
+</tr>
+<tr>
+<td>Rostocker Nasenbären</td>
+<td><a href="/wiki/Skater_hockey" class="mw-redirect" title="Skater hockey">Skater hockey</a></td>
+<td>2005</td>
+<td>Inline-Skaterhockey-Bundesliga (1st league)</td>
+<td>OSPA-Arena</td>
+<td>Dimitri Kramarenko<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></td>
+<td><a rel="nofollow" class="external autonumber" href="http://www.rostocker-nasenbaeren.de/">[7]</a></td>
+</tr>
+<tr>
+<td>HSG Warnemünde</td>
+<td><a href="/wiki/Water_polo" title="Water polo">Water polo</a></td>
+<td>1971</td>
+<td>Oberliga SH-MV (3rd league)</td>
+<td>Neptun-Schwimmhalle</td>
+<td></td>
+<td><a rel="nofollow" class="external autonumber" href="http://www.wasserball-rostock.de/">[8]</a></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Transport">Transport</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rostock&amp;action=edit&amp;section=25" title="Edit section: Transport">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Car">Car</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rostock&amp;action=edit&amp;section=26" title="Edit section: Car">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Rostock can be reached by motorway (<i><a href="/wiki/Autobahn" title="Autobahn">Autobahn</a></i>) <a href="/wiki/Bundesautobahn_1" title="Bundesautobahn 1">A 1</a> from <a href="/wiki/Hamburg" title="Hamburg">Hamburg</a> via <a href="/wiki/L%C3%BCbeck" title="Lübeck">Lübeck</a> on <a href="/wiki/Bundesautobahn_20" title="Bundesautobahn 20">A 20</a> and by <a href="/wiki/Bundesautobahn_19" title="Bundesautobahn 19">A 19</a> from <a href="/wiki/Berlin" title="Berlin">Berlin</a> and A 20 from <a href="/wiki/Stettin" class="mw-redirect" title="Stettin">Stettin</a> in Poland.</p>
+<h3><span class="mw-headline" id="Public_transport">Public transport</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rostock&amp;action=edit&amp;section=27" title="Edit section: Public transport">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Rostock-hbf-nord.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Rostock-hbf-nord.jpg/220px-Rostock-hbf-nord.jpg" width="220" height="140" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Rostock-hbf-nord.jpg/330px-Rostock-hbf-nord.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Rostock-hbf-nord.jpg/440px-Rostock-hbf-nord.jpg 2x" data-file-width="600" data-file-height="381" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Rostock-hbf-nord.jpg" class="internal" title="Enlarge"></a></div>
+<i>Rostock Hauptbahnhof</i> (main station)</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Liniennetz_Rostock_und_Umgebung.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Liniennetz_Rostock_und_Umgebung.png/220px-Liniennetz_Rostock_und_Umgebung.png" width="220" height="141" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Liniennetz_Rostock_und_Umgebung.png/330px-Liniennetz_Rostock_und_Umgebung.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Liniennetz_Rostock_und_Umgebung.png/440px-Liniennetz_Rostock_und_Umgebung.png 2x" data-file-width="4515" data-file-height="2900" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Liniennetz_Rostock_und_Umgebung.png" class="internal" title="Enlarge"></a></div>
+Transit map of Rostock</div>
+</div>
+</div>
+<p><i><a href="/wiki/Rostock_Hauptbahnhof" title="Rostock Hauptbahnhof">Rostock Hauptbahnhof</a></i> offers fast rail connections to <a href="/wiki/Hamburg" title="Hamburg">Hamburg</a> and <a href="/wiki/Berlin" title="Berlin">Berlin</a> and from there to almost any other European city.</p>
+<p>Within the city the <a href="/wiki/Trams_in_Rostock" title="Trams in Rostock">Rostock tramway network</a> is available, along with a wide network of buses and ferries. The first privately financed <a href="/wiki/Warnow_Tunnel" title="Warnow Tunnel">tunnel</a> in Germany crosses the <a href="/wiki/Warnow" title="Warnow">Warnow</a> river and thus connects the eastern part of Rostock with the western part.</p>
+<h3><span id="Ferry/ship"></span><span class="mw-headline" id="Ferry.2Fship">Ferry/ship</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rostock&amp;action=edit&amp;section=28" title="Edit section: Ferry/ship">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Rostock is Germany's largest Baltic port. Rostock is also home to a large <a href="/wiki/Ferry" title="Ferry">ferry</a> <a href="/wiki/Port" title="Port">port</a>. It is a main base for ferry operators <a href="/wiki/Scandlines" title="Scandlines">Scandlines</a> and <a href="/wiki/TT-Line" class="mw-redirect" title="TT-Line">TT-Line</a>, which both connect Rostock with major Scandinavian destinations. Furthermore, Rostock receives the highest number of cruise tourists in Germany every year.</p>
+<p>Ferries leave for</p>
+<ul>
+<li><a href="/wiki/Helsinki" title="Helsinki">Helsinki</a>, Finland</li>
+<li><a href="/wiki/Gedser" title="Gedser">Gedser</a>, Denmark</li>
+<li><a href="/wiki/Trelleborg" title="Trelleborg">Trelleborg</a>, Sweden</li>
+</ul>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 235px">
+<div style="width: 235px">
+<div class="thumb" style="width: 230px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Sunset_over_Rostock_harbour.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Sunset_over_Rostock_harbour.jpg/133px-Sunset_over_Rostock_harbour.jpg" width="133" height="200" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Sunset_over_Rostock_harbour.jpg/200px-Sunset_over_Rostock_harbour.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/be/Sunset_over_Rostock_harbour.jpg/266px-Sunset_over_Rostock_harbour.jpg 2x" data-file-width="1686" data-file-height="2531" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Rostock harbour at sunset</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 235px">
+<div style="width: 235px">
+<div class="thumb" style="width: 230px;">
+<div style="margin:40px auto;"><a href="/wiki/File:A%27Rosa_Blu_Stern_.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/A%27Rosa_Blu_Stern_.jpg/200px-A%27Rosa_Blu_Stern_.jpg" width="200" height="150" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/A%27Rosa_Blu_Stern_.jpg/300px-A%27Rosa_Blu_Stern_.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d5/A%27Rosa_Blu_Stern_.jpg/400px-A%27Rosa_Blu_Stern_.jpg 2x" data-file-width="2048" data-file-height="1536" /></a></div>
+</div>
+<div class="gallerytext">
+<p>The cruise ship <i><a href="/wiki/A%27Rosa_Blu" class="mw-redirect" title="A'Rosa Blu">A'Rosa Blu</a></i> leaving Rostock in summer 2003</p>
+</div>
+</div>
+</li>
+</ul>
+<h3><span class="mw-headline" id="Plane">Plane</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rostock&amp;action=edit&amp;section=29" title="Edit section: Plane">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a href="/wiki/Rostock%E2%80%93Laage_Airport" title="Rostock–Laage Airport">Rostock–Laage Airport</a> offers connections to major German and international destinations; regular flights to e.g. <a href="/wiki/Munich" title="Munich">Munich</a> are offered. The nearest larger international airports are in <a href="/wiki/Hamburg" title="Hamburg">Hamburg</a> and <a href="/wiki/Berlin" title="Berlin">Berlin</a>. There are also a number of airfields for smaller aircraft, such as Purkshof.</p>
+<h2><span class="mw-headline" id="Notable_people">Notable people</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rostock&amp;action=edit&amp;section=30" title="Edit section: Notable people">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main page: <a href="/wiki/Category:People_from_Rostock" title="Category:People from Rostock">Category:People from Rostock</a></div>
+<p>This is a list of notable people who were born or lived in the city of Rostock:</p>
+<ul>
+<li><a href="/wiki/Gebhard_Leberecht_von_Bl%C3%BCcher" title="Gebhard Leberecht von Blücher">Gebhard Leberecht von Blücher</a>, <a href="/wiki/Prussia" title="Prussia">Prussian</a> <a href="/wiki/Generalfeldmarschall" title="Generalfeldmarschall">Generalfeldmarschall</a></li>
+<li><a href="/wiki/Johann_Georg_Noel_Dragendorff" title="Johann Georg Noel Dragendorff">Johann Georg Noel Dragendorff</a> (1836–1898), chemist</li>
+<li><a href="/wiki/Joachim_Gauck" title="Joachim Gauck">Joachim Gauck</a>, (born 1940), former president of Germany</li>
+<li><a href="/wiki/Andr%C3%A9_Greipel" title="André Greipel">André Greipel</a>, (born 1982), cyclist</li>
+<li><a href="/wiki/Ernst_Heinkel" title="Ernst Heinkel">Ernst Heinkel</a>, (1888–1958), aviation pioneer</li>
+<li><a href="/wiki/Walter_Hallstein" title="Walter Hallstein">Walter Hallstein</a>, (1901–1982), politician (see <a href="/wiki/Hallstein_Doctrine" title="Hallstein Doctrine">Hallstein Doctrine</a>)</li>
+<li><a href="/wiki/Britta_Kamrau" title="Britta Kamrau">Britta Kamrau</a>, (born 1979), long-distance swimmer</li>
+<li><a href="/wiki/Walter_Kempowski" title="Walter Kempowski">Walter Kempowski</a>, (1929–2007), writer</li>
+<li><a href="/wiki/Franziska_Knuppe" title="Franziska Knuppe">Franziska Knuppe</a>, (born 1974), fashion model</li>
+<li><a href="/wiki/Albrecht_Kossel" title="Albrecht Kossel">Albrecht Kossel</a>, (1853–1927), recipient of 1910 Nobel Prize in physiology/medicine</li>
+<li><a href="/wiki/Paul_Martens" title="Paul Martens">Paul Martens</a>, (born 1983), cyclist</li>
+<li><a href="/wiki/Marteria" title="Marteria">Marteria</a> (Marten Laciny), (born 1982), rap singer/artist</li>
+<li><a href="/wiki/Gustav_Mie" title="Gustav Mie">Gustav Mie</a>, (1868–1957), physicist</li>
+<li><a href="/wiki/Hans_von_Ohain" title="Hans von Ohain">Hans von Ohain</a>, (1911–1998), physicist and engineer, constructor of the first operational jet engine</li>
+<li><a href="/wiki/Rudolph_Sohm" title="Rudolph Sohm">Rudolph Sohm</a>, (1941–1917), lawyer and Church historian</li>
+<li><a href="/wiki/Jan_Ullrich" title="Jan Ullrich">Jan Ullrich</a>, (born 1973), cyclist, winner of <a href="/wiki/Tour_de_France" title="Tour de France">Tour de France</a> 1997</li>
+<li><a href="/wiki/Paul_Walden" title="Paul Walden">Paul Walden</a>, (1863–1957), scientist</li>
+<li><a href="/wiki/Paul_Wallat" title="Paul Wallat">Paul Wallat</a>, (1879–1964), painter and sculptor</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rostock&amp;action=edit&amp;section=31" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://service.mvnet.de/statmv/daten_stam_berichte/e-bibointerth01/bevoelkerung--haushalte--familien--flaeche/a-i__/a123__/2015/daten/a123-2015-22.xls">"Bevölkerungsstand der Kreise, Ämter und Gemeinden in Mecklenburg-Vorpommern 31.12.2015"</a>. <i><a href="/wiki/Statistisches_Amt_Mecklenburg-Vorpommern" class="mw-redirect" title="Statistisches Amt Mecklenburg-Vorpommern">Statistisches Amt Mecklenburg-Vorpommern</a></i> (in German). July 2016.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARostock&amp;rft.atitle=Bev%C3%B6lkerungsstand+der+Kreise%2C+%C3%84mter+und+Gemeinden+in+Mecklenburg-Vorpommern+31.12.2015&amp;rft.date=2016-07&amp;rft.genre=unknown&amp;rft.jtitle=Statistisches+Amt+Mecklenburg-Vorpommern&amp;rft_id=http%3A%2F%2Fservice.mvnet.de%2Fstatmv%2Fdaten_stam_berichte%2Fe-bibointerth01%2Fbevoelkerung--haushalte--familien--flaeche%2Fa-i__%2Fa123__%2F2015%2Fdaten%2Fa123-2015-22.xls&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://rathaus.rostock.de/sixcms/detail.php?id=108&amp;_sid1=rostock_01.c.260.de&amp;_sid2=rostock_01.c.205911.de&amp;_sid3=rostock_01.c.288.de&amp;_sid4=&amp;_sid5=">"Partnerstädte"</a> (in German). Hansestadt Rostock<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-02-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARostock&amp;rft.btitle=Partnerst%C3%A4dte&amp;rft.genre=unknown&amp;rft.pub=Hansestadt+Rostock&amp;rft_id=http%3A%2F%2Frathaus.rostock.de%2Fsixcms%2Fdetail.php%3Fid%3D108%26_sid1%3Drostock_01.c.260.de%26_sid2%3Drostock_01.c.205911.de%26_sid3%3Drostock_01.c.288.de%26_sid4%3D%26_sid5%3D&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Szczecin_twinnings-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Szczecin_twinnings_3-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120818001351/http://bip.um.szczecin.pl/umszczecinbip/chapter_11296.asp">"Kontakty partnerskie Miasta Szczecin"</a>. <i>Urząd Miasta Szczecin</i> (in Polish). Archived from <a rel="nofollow" class="external text" href="http://bip.um.szczecin.pl/UMSzczecinBIP/chapter_11296.asp">the original</a> on 2012-08-18<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-07-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARostock&amp;rft.atitle=Kontakty+partnerskie+Miasta+Szczecin&amp;rft.genre=unknown&amp;rft.jtitle=Urz%C4%85d+Miasta+Szczecin&amp;rft_id=http%3A%2F%2Fbip.um.szczecin.pl%2FUMSzczecinBIP%2Fchapter_11296.asp&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Dunkirk_twinnings-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-Dunkirk_twinnings_4-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ville-dunkerque.fr/fr/entreprendrea-dunkerque/l-economie/dunkerque-internationale/index.html">"Dunkirk International"</a> (in French). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20071109212344/http://www.ville-dunkerque.fr/fr/entreprendrea-dunkerque/l-economie/dunkerque-internationale/index.html">Archived</a> from the original on 9 November 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">December 17,</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARostock&amp;rft.btitle=Dunkirk+International&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.ville-dunkerque.fr%2Ffr%2Fentreprendrea-dunkerque%2Fl-economie%2Fdunkerque-internationale%2Findex.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Riga-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Riga_5-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20081204021323/http://www.riga.lv/EN/Channels/Riga_Municipality/Twin_cities_of_Riga/default.htm">"Twin cities of Riga"</a>. <a href="/wiki/Riga_City_Council" title="Riga City Council">Riga City Council</a>. Archived from <a rel="nofollow" class="external text" href="http://www.riga.lv/EN/Channels/Riga_Municipality/Twin_cities_of_Riga/default.htm">the original</a> on 2008-12-04<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-07-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARostock&amp;rft.btitle=Twin+cities+of+Riga&amp;rft.genre=unknown&amp;rft.pub=Riga+City+Council&amp;rft_id=http%3A%2F%2Fwww.riga.lv%2FEN%2FChannels%2FRiga_Municipality%2FTwin_cities_of_Riga%2Fdefault.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Bremen_twinnings-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-Bremen_twinnings_6-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Frohmader, Andrea. <a rel="nofollow" class="external text" href="https://archive.is/20110718204253/http://www.rathaus.bremen.de/sixcms/detail.php?gsid=bremen54.c.2259.de">"Bremen - Referat 32 Städtepartnerschaften / Internationale Beziehungen"</a> [Bremen - Unit 32 Twinning / International Relations]. <i>Das Rathaus Bremen Senatskanzlei [Bremen City Hall - Senate Chancellery]</i> (in German). Archived from <a rel="nofollow" class="external text" href="http://www.rathaus.bremen.de/sixcms/detail.php?gsid=bremen54.c.2259.de">the original</a> on 2011-07-18<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-08-09</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARostock&amp;rft.atitle=Bremen+-+Referat+32+St%C3%A4dtepartnerschaften+%2F+Internationale+Beziehungen&amp;rft.aufirst=Andrea&amp;rft.aulast=Frohmader&amp;rft.genre=unknown&amp;rft.jtitle=Das+Rathaus+Bremen+Senatskanzlei+%5BBremen+City+Hall+-+Senate+Chancellery%5D&amp;rft_id=http%3A%2F%2Fwww.rathaus.bremen.de%2Fsixcms%2Fdetail.php%3Fgsid%3Dbremen54.c.2259.de&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150405132612/http://rz48.rostock.de/bi/to020.asp?TOLFDNR=7062109">"Auszug - Vereinbarung einer Städtepartnerschaft zwischen der Hansestadt Rostock und der Gemeinde Guldborgsund/ Dänemark"</a> (in German). Hansestadt Rostock. 14 May 2015. Archived from <a rel="nofollow" class="external text" href="http://rz48.rostock.de/bi/to020.asp?TOLFDNR=7062109">the original</a> on 2015-04-05<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-02-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARostock&amp;rft.btitle=Auszug+-+Vereinbarung+einer+St%C3%A4dtepartnerschaft+zwischen+der+Hansestadt+Rostock+und+der+Gemeinde+Guldborgsund%2F+D%C3%A4nemark&amp;rft.date=2015-05-14&amp;rft.genre=unknown&amp;rft.pub=Hansestadt+Rostock&amp;rft_id=http%3A%2F%2Frz48.rostock.de%2Fbi%2Fto020.asp%3FTOLFDNR%3D7062109&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.regiopole-rostock.de/">Regiopole Rostock</a> (German)</span></li>
+<li id="cite_note-weather1-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-weather1_9-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090208073533/http://www.bbc.co.uk/weather/world/city_guides/results.shtml?tt=TT003630">"Average Conditions Rostock, Germany"</a>. BBC Weather. Archived from <a rel="nofollow" class="external text" href="http://www.bbc.co.uk/weather/world/city_guides/results.shtml?tt=TT003630">the original</a> on February 8, 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">December 21,</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARostock&amp;rft.btitle=Average+Conditions+Rostock%2C+Germany&amp;rft.genre=unknown&amp;rft.pub=BBC+Weather&amp;rft_id=http%3A%2F%2Fwww.bbc.co.uk%2Fweather%2Fworld%2Fcity_guides%2Fresults.shtml%3Ftt%3DTT003630&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Bomben auf Rostock; H.-W. Bohl, B. Keipke, k. Schröder; Konrad Reich Verlag 1995</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.rostocker-nasenbaeren.de/verein-rostock.html">Rostocker Nasenbären website</a></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rostock&amp;action=edit&amp;section=32" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl>
+<dd><i>See also: <a href="/wiki/Timeline_of_Rostock#Bibliography" title="Timeline of Rostock">Bibliography of the history of Rostock</a></i></dd>
+</dl>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rostock&amp;action=edit&amp;section=33" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-labelledby="sister-projects" class="metadata plainlinks plainlist mbox-small" style="border:1px solid #aaa; padding:0.75em; background:#f9f9f9;">
+<div style="padding-bottom: 0.75em; text-align: center;">Find more about<b style="display:block;">Rostock</b>at Wikipedia's <a href="/wiki/Wikipedia:Wikimedia_sister_projects" title="Wikipedia:Wikimedia sister projects"><span id="sister-projects">sister projects</span></a></div>
+<ul style="border-top:1px solid #aaa; padding-top: 0.75em;">
+<li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/27px-Wiktionary-logo-v2.svg.png" width="27" height="27" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/41px-Wiktionary-logo-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/54px-Wiktionary-logo-v2.svg.png 2x" data-file-width="391" data-file-height="391" /></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a href="https://en.wiktionary.org/wiki/Special:Search/Rostock" class="extiw" title="wikt:Special:Search/Rostock">Definitions</a> from Wiktionary</span></li>
+<li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/20px-Commons-logo.svg.png" width="20" height="27" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a href="https://commons.wikimedia.org/wiki/Special:Search/Rostock" class="extiw" title="c:Special:Search/Rostock">Media</a> from Commons</span></li>
+<li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/27px-Wikinews-logo.svg.png" width="27" height="15" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/41px-Wikinews-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/54px-Wikinews-logo.svg.png 2x" data-file-width="759" data-file-height="415" /></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a href="https://en.wikinews.org/wiki/Special:Search/Rostock" class="extiw" title="n:Special:Search/Rostock">News</a> from Wikinews</span></li>
+<li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/23px-Wikiquote-logo.svg.png" width="23" height="27" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/35px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/46px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a href="https://en.wikiquote.org/wiki/Special:Search/Rostock" class="extiw" title="q:Special:Search/Rostock">Quotations</a> from Wikiquote</span></li>
+<li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/26px-Wikisource-logo.svg.png" width="26" height="27" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/39px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/51px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a href="https://en.wikisource.org/wiki/Special:Search/Rostock" class="extiw" title="s:Special:Search/Rostock">Texts</a> from Wikisource</span></li>
+<li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/27px-Wikibooks-logo.svg.png" width="27" height="27" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/41px-Wikibooks-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/54px-Wikibooks-logo.svg.png 2x" data-file-width="300" data-file-height="300" /></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a href="https://en.wikibooks.org/wiki/Special:Search/Rostock" class="extiw" title="b:Special:Search/Rostock">Textbooks</a> from Wikibooks</span></li>
+<li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/27px-Wikivoyage-Logo-v3-icon.svg.png" width="27" height="27" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/41px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/54px-Wikivoyage-Logo-v3-icon.svg.png 2x" data-file-width="193" data-file-height="193" /></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a href="https://en.wikivoyage.org/wiki/Rostock#Q2861" class="extiw" title="voy:Rostock">Travel guide</a> from Wikivoyage</span></li>
+<li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wikiversity-logo-en.svg/27px-Wikiversity-logo-en.svg.png" width="27" height="24" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wikiversity-logo-en.svg/41px-Wikiversity-logo-en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wikiversity-logo-en.svg/54px-Wikiversity-logo-en.svg.png 2x" data-file-width="1000" data-file-height="900" /></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a href="https://en.wikiversity.org/wiki/Special:Search/Rostock" class="extiw" title="v:Special:Search/Rostock">Learning resources</a> from Wikiversity</span></li>
+</ul>
+</div>
+<ul>
+<li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.rostock.de">Official website</a></span></span></li>
+<li><a rel="nofollow" class="external text" href="http://www.rostock.de/en/tourism">Official tourism site</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.eurob.org/index.php/Rostock;9/4">European Route of Brick Gothic: Rostock</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="border.7C30px.7CFlag_of_Mecklenburg-Vorpommern_Urban_and_rural_districts_in_the_state_of_Mecklenburg-Vorpommern_in_Germany_border.7C30px.7CFlag_of_Germany" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Districts_of_Mecklenburg-Vorpommern" title="Template:Districts of Mecklenburg-Vorpommern"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Districts_of_Mecklenburg-Vorpommern" title="Template talk:Districts of Mecklenburg-Vorpommern"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Districts_of_Mecklenburg-Vorpommern&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="border.7C30px.7CFlag_of_Mecklenburg-Vorpommern_Urban_and_rural_districts_in_the_state_of_Mecklenburg-Vorpommern_in_Germany_border.7C30px.7CFlag_of_Germany" style="font-size:114%;margin:0 4em"><a href="/wiki/File:Flag_of_Mecklenburg-Western_Pomerania.svg" class="image" title="Flag of Mecklenburg-Vorpommern"><img alt="Flag of Mecklenburg-Vorpommern" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Mecklenburg-Western_Pomerania.svg/30px-Flag_of_Mecklenburg-Western_Pomerania.svg.png" width="30" height="18" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Mecklenburg-Western_Pomerania.svg/45px-Flag_of_Mecklenburg-Western_Pomerania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Mecklenburg-Western_Pomerania.svg/60px-Flag_of_Mecklenburg-Western_Pomerania.svg.png 2x" data-file-width="1000" data-file-height="600" /></a> Urban and rural districts in the state of <a href="/wiki/Mecklenburg-Vorpommern" title="Mecklenburg-Vorpommern">Mecklenburg-Vorpommern</a> in Germany <a href="/wiki/File:Flag_of_Germany.svg" class="image" title="Flag of Germany"><img alt="Flag of Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/30px-Flag_of_Germany.svg.png" width="30" height="18" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/45px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/60px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Urban districts</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-selflink selflink">Rostock</a></li>
+<li><a href="/wiki/Schwerin" title="Schwerin">Schwerin</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="2" style="width:1px;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Flag_of_Mecklenburg-Western_Pomerania_(state).svg" class="image" title="Flag of Mecklenburg-Vorpommern"><img alt="Flag of Mecklenburg-Vorpommern" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Mecklenburg-Western_Pomerania_%28state%29.svg/50px-Flag_of_Mecklenburg-Western_Pomerania_%28state%29.svg.png" width="50" height="30" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Mecklenburg-Western_Pomerania_%28state%29.svg/75px-Flag_of_Mecklenburg-Western_Pomerania_%28state%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Mecklenburg-Western_Pomerania_%28state%29.svg/100px-Flag_of_Mecklenburg-Western_Pomerania_%28state%29.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Rural districts</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ludwigslust-Parchim" title="Ludwigslust-Parchim">Ludwigslust-Parchim</a></li>
+<li><a href="/wiki/Mecklenburgische_Seenplatte_(district)" title="Mecklenburgische Seenplatte (district)">Mecklenburgische Seenplatte</a></li>
+<li><a href="/wiki/Nordwestmecklenburg" title="Nordwestmecklenburg">Nordwestmecklenburg</a></li>
+<li><a href="/wiki/Rostock_(district)" title="Rostock (district)">Rostock</a></li>
+<li><a href="/wiki/Vorpommern-Greifswald" title="Vorpommern-Greifswald">Vorpommern-Greifswald</a></li>
+<li><a href="/wiki/Vorpommern-R%C3%BCgen" title="Vorpommern-Rügen">Vorpommern-Rügen</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Cities_in_Germany_by_population" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Cities_in_Germany" title="Template:Cities in Germany"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Cities_in_Germany" title="Template talk:Cities in Germany"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cities_in_Germany&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Cities_in_Germany_by_population" style="font-size:114%;margin:0 4em">Cities in Germany by population</div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">1,000,000+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Berlin" title="Berlin">Berlin</a></li>
+<li><a href="/wiki/Cologne" title="Cologne">Cologne</a></li>
+<li><a href="/wiki/Hamburg" title="Hamburg">Hamburg</a></li>
+<li><a href="/wiki/Munich" title="Munich">Munich</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">500,000+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bremen" title="Bremen">Bremen</a></li>
+<li><a href="/wiki/Dortmund" title="Dortmund">Dortmund</a></li>
+<li><a href="/wiki/Dresden" title="Dresden">Dresden</a></li>
+<li><a href="/wiki/D%C3%BCsseldorf" title="Düsseldorf">Düsseldorf</a></li>
+<li><a href="/wiki/Essen" title="Essen">Essen</a></li>
+<li><a href="/wiki/Frankfurt" title="Frankfurt">Frankfurt</a></li>
+<li><a href="/wiki/Hanover" title="Hanover">Hanover</a></li>
+<li><a href="/wiki/Leipzig" title="Leipzig">Leipzig</a></li>
+<li><a href="/wiki/Nuremberg" title="Nuremberg">Nuremberg</a></li>
+<li><a href="/wiki/Stuttgart" title="Stuttgart">Stuttgart</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">200,000+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aachen" title="Aachen">Aachen</a></li>
+<li><a href="/wiki/Augsburg" title="Augsburg">Augsburg</a></li>
+<li><a href="/wiki/Bielefeld" title="Bielefeld">Bielefeld</a></li>
+<li><a href="/wiki/Bochum" title="Bochum">Bochum</a></li>
+<li><a href="/wiki/Bonn" title="Bonn">Bonn</a></li>
+<li><a href="/wiki/Braunschweig" title="Braunschweig">Braunschweig</a></li>
+<li><a href="/wiki/Chemnitz" title="Chemnitz">Chemnitz</a></li>
+<li><a href="/wiki/Duisburg" title="Duisburg">Duisburg</a></li>
+<li><a href="/wiki/Erfurt" title="Erfurt">Erfurt</a></li>
+<li><a href="/wiki/Freiburg_im_Breisgau" title="Freiburg im Breisgau">Freiburg im Breisgau</a></li>
+<li><a href="/wiki/Gelsenkirchen" title="Gelsenkirchen">Gelsenkirchen</a></li>
+<li><a href="/wiki/Halle_(Saale)" title="Halle (Saale)">Halle (Saale)</a></li>
+<li><a href="/wiki/Karlsruhe" title="Karlsruhe">Karlsruhe</a></li>
+<li><a href="/wiki/Kiel" title="Kiel">Kiel</a></li>
+<li><a href="/wiki/Krefeld" title="Krefeld">Krefeld</a></li>
+<li><a href="/wiki/L%C3%BCbeck" title="Lübeck">Lübeck</a></li>
+<li><a href="/wiki/Magdeburg" title="Magdeburg">Magdeburg</a></li>
+<li><a href="/wiki/Mainz" title="Mainz">Mainz</a></li>
+<li><a href="/wiki/Mannheim" title="Mannheim">Mannheim</a></li>
+<li><a href="/wiki/M%C3%BCnster" title="Münster">Münster</a></li>
+<li><a href="/wiki/M%C3%B6nchengladbach" title="Mönchengladbach">Mönchengladbach</a></li>
+<li><a href="/wiki/Oberhausen" title="Oberhausen">Oberhausen</a></li>
+<li><a class="mw-selflink selflink">Rostock</a></li>
+<li><a href="/wiki/Wiesbaden" title="Wiesbaden">Wiesbaden</a></li>
+<li><a href="/wiki/Wuppertal" title="Wuppertal">Wuppertal</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">100,000+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bergisch_Gladbach" title="Bergisch Gladbach">Bergisch Gladbach</a></li>
+<li><a href="/wiki/Bottrop" title="Bottrop">Bottrop</a></li>
+<li><a href="/wiki/Bremerhaven" title="Bremerhaven">Bremerhaven</a></li>
+<li><a href="/wiki/Cottbus" title="Cottbus">Cottbus</a></li>
+<li><a href="/wiki/Darmstadt" title="Darmstadt">Darmstadt</a></li>
+<li><a href="/wiki/Erlangen" title="Erlangen">Erlangen</a></li>
+<li><a href="/wiki/F%C3%BCrth" title="Fürth">Fürth</a></li>
+<li><a href="/wiki/G%C3%B6ttingen" title="Göttingen">Göttingen</a></li>
+<li><a href="/wiki/Hagen" title="Hagen">Hagen</a></li>
+<li><a href="/wiki/Hamm" title="Hamm">Hamm</a></li>
+<li><a href="/wiki/Heidelberg" title="Heidelberg">Heidelberg</a></li>
+<li><a href="/wiki/Heilbronn" title="Heilbronn">Heilbronn</a></li>
+<li><a href="/wiki/Herne,_North_Rhine-Westphalia" title="Herne, North Rhine-Westphalia">Herne</a></li>
+<li><a href="/wiki/Hildesheim" title="Hildesheim">Hildesheim</a></li>
+<li><a href="/wiki/Ingolstadt" title="Ingolstadt">Ingolstadt</a></li>
+<li><a href="/wiki/Jena" title="Jena">Jena</a></li>
+<li><a href="/wiki/Kassel" title="Kassel">Kassel</a></li>
+<li><a href="/wiki/Koblenz" title="Koblenz">Koblenz</a></li>
+<li><a href="/wiki/Leverkusen" title="Leverkusen">Leverkusen</a></li>
+<li><a href="/wiki/Ludwigshafen" title="Ludwigshafen">Ludwigshafen</a></li>
+<li><a href="/wiki/Moers" title="Moers">Moers</a></li>
+<li><a href="/wiki/M%C3%BClheim" title="Mülheim">Mülheim an der Ruhr</a></li>
+<li><a href="/wiki/Neuss" title="Neuss">Neuss</a></li>
+<li><a href="/wiki/Offenbach_am_Main" title="Offenbach am Main">Offenbach am Main</a></li>
+<li><a href="/wiki/Oldenburg_(Oldenburg)" class="mw-redirect" title="Oldenburg (Oldenburg)">Oldenburg</a></li>
+<li><a href="/wiki/Osnabr%C3%BCck" title="Osnabrück">Osnabrück</a></li>
+<li><a href="/wiki/Paderborn" title="Paderborn">Paderborn</a></li>
+<li><a href="/wiki/Pforzheim" title="Pforzheim">Pforzheim</a></li>
+<li><a href="/wiki/Potsdam" title="Potsdam">Potsdam</a></li>
+<li><a href="/wiki/Recklinghausen" title="Recklinghausen">Recklinghausen</a></li>
+<li><a href="/wiki/Regensburg" title="Regensburg">Regensburg</a></li>
+<li><a href="/wiki/Remscheid" title="Remscheid">Remscheid</a></li>
+<li><a href="/wiki/Reutlingen" title="Reutlingen">Reutlingen</a></li>
+<li><a href="/wiki/Saarbr%C3%BCcken" title="Saarbrücken">Saarbrücken</a></li>
+<li><a href="/wiki/Salzgitter" title="Salzgitter">Salzgitter</a></li>
+<li><a href="/wiki/Siegen" title="Siegen">Siegen</a></li>
+<li><a href="/wiki/Solingen" title="Solingen">Solingen</a></li>
+<li><a href="/wiki/Trier" title="Trier">Trier</a></li>
+<li><a href="/wiki/Ulm" title="Ulm">Ulm</a></li>
+<li><a href="/wiki/Wolfsburg" title="Wolfsburg">Wolfsburg</a></li>
+<li><a href="/wiki/W%C3%BCrzburg" title="Würzburg">Würzburg</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/List_of_cities_and_towns_in_Germany" title="List of cities and towns in Germany">complete list</a></li>
+<li><a href="/wiki/List_of_municipalities_in_Germany" title="List of municipalities in Germany">municipalities</a></li>
+<li><a href="/wiki/Metropolitan_regions_in_Germany" title="Metropolitan regions in Germany">metropolitan regions</a></li>
+<li><a href="/wiki/List_of_cities_in_Germany_by_population" title="List of cities in Germany by population">cities with more than 100,000 inhabitants</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Capitals_of_the_former_East_German_Bezirke" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Bezirke_DDR_Seats" title="Template:Bezirke DDR Seats"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Bezirke_DDR_Seats" title="Template talk:Bezirke DDR Seats"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Bezirke_DDR_Seats&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Capitals_of_the_former_East_German_Bezirke" style="font-size:114%;margin:0 4em">Capitals of the former <a href="/wiki/East_Germany" title="East Germany">East German</a> <i><a href="/wiki/Administrative_divisions_of_East_Germany#Division_into_Bezirke" title="Administrative divisions of East Germany">Bezirke</a></i></div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/East_Berlin" title="East Berlin">East Berlin</a></li>
+<li><a href="/wiki/Cottbus" title="Cottbus">Cottbus</a></li>
+<li><a href="/wiki/Dresden" title="Dresden">Dresden</a></li>
+<li><a href="/wiki/Erfurt" title="Erfurt">Erfurt</a></li>
+<li><a href="/wiki/Frankfurt_(Oder)" title="Frankfurt (Oder)">Frankfurt (Oder)</a></li>
+<li><a href="/wiki/Gera" title="Gera">Gera</a></li>
+<li><a href="/wiki/Halle_(Saale)" title="Halle (Saale)">Halle</a></li>
+<li><a href="/wiki/Chemnitz" title="Chemnitz">Karl-Marx-Stadt (Chemnitz)</a></li>
+<li><a href="/wiki/Leipzig" title="Leipzig">Leipzig</a></li>
+<li><a href="/wiki/Magdeburg" title="Magdeburg">Magdeburg</a></li>
+<li><a href="/wiki/Neubrandenburg" title="Neubrandenburg">Neubrandenburg</a></li>
+<li><a href="/wiki/Potsdam" title="Potsdam">Potsdam</a></li>
+<li><a class="mw-selflink selflink">Rostock</a></li>
+<li><a href="/wiki/Schwerin" title="Schwerin">Schwerin</a></li>
+<li><a href="/wiki/Suhl" title="Suhl">Suhl</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="1" style="width:1px;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Flag_of_East_Germany.svg" class="image" title="Flag of East Germany"><img alt="Flag of East Germany" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/30px-Flag_of_East_Germany.svg.png" width="30" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/45px-Flag_of_East_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/60px-Flag_of_East_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Members_of_the_Hanseatic_League_by_Quarter" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Hanseatic_League" title="Template:Hanseatic League"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Hanseatic_League" title="Template talk:Hanseatic League"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Hanseatic_League&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Members_of_the_Hanseatic_League_by_Quarter" style="font-size:114%;margin:0 4em">Members of the <a href="/wiki/Hanseatic_League" title="Hanseatic League">Hanseatic League</a> by <a href="/wiki/Hanseatic_League#Quarters" title="Hanseatic League">Quarter</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3" style="padding:0.2em 0.4em;line-height:1.25em;">
+<div>
+<div class="plainlist">
+<ul>
+<li>Chief cities shown in <span class="smallcaps" style="font-variant:small-caps;">smallcaps</span>.</li>
+<li><a href="/wiki/Free_imperial_city" title="Free imperial city">Free Imperial Cities</a> of the <a href="/wiki/Holy_Roman_Empire" title="Holy Roman Empire">Holy Roman Empire</a> shown in <i>italics</i>.</li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Wendish</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:5.5em;font-weight:normal;;padding:0.75em 1.0em;"><span class="smallcaps" style="font-variant:small-caps;"><i><a href="/wiki/L%C3%BCbeck" title="Lübeck">Lübeck</a></i></span></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Anklam" title="Anklam">Anklam</a></li>
+<li><a href="/wiki/Demmin" title="Demmin">Demmin</a></li>
+<li><a href="/wiki/Greifswald" title="Greifswald">Greifswald</a></li>
+<li><i><a href="/wiki/Hamburg" title="Hamburg">Hamburg</a></i></li>
+<li><a href="/wiki/Ko%C5%82obrzeg" title="Kołobrzeg">Kolberg (Kołobrzeg)</a></li>
+<li><a href="/wiki/L%C3%BCneburg" title="Lüneburg">Lüneburg</a></li>
+<li><a class="mw-selflink selflink">Rostock</a></li>
+<li><a href="/wiki/Dar%C5%82owo" title="Darłowo">Rügenwalde (Darłowo)</a></li>
+<li><a href="/wiki/Szczecin" title="Szczecin">Stettin (Szczecin)</a></li>
+<li><a href="/wiki/S%C5%82upsk" title="Słupsk">Stolp (Słupsk)</a></li>
+<li><a href="/wiki/Stockholm" title="Stockholm">Stockholm</a></li>
+<li><a href="/wiki/Stralsund" title="Stralsund">Stralsund</a></li>
+<li><a href="/wiki/Visby" title="Visby">Visby</a></li>
+<li><a href="/wiki/Wismar" title="Wismar">Wismar</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+<td class="navbox-image" rowspan="7" style="width:1px;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Haupthandelsroute_Hanse.png" class="image" title="Principle trading routes of the Hanseatic League"><img alt="Principle trading routes of the Hanseatic League" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Haupthandelsroute_Hanse.png/150px-Haupthandelsroute_Hanse.png" width="150" height="115" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Haupthandelsroute_Hanse.png/225px-Haupthandelsroute_Hanse.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Haupthandelsroute_Hanse.png/300px-Haupthandelsroute_Hanse.png 2x" data-file-width="789" data-file-height="603" /></a><br />
+<br />
+<a href="/wiki/File:Hansestadt_Lubeck_Tatiana_Yagunova_Watercolor_painting_2014.jpg" class="image" title="Lubeck — a main city of the Hanseatic League"><img alt="Lubeck — a main city of the Hanseatic League" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Hansestadt_Lubeck_Tatiana_Yagunova_Watercolor_painting_2014.jpg/150px-Hansestadt_Lubeck_Tatiana_Yagunova_Watercolor_painting_2014.jpg" width="150" height="121" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Hansestadt_Lubeck_Tatiana_Yagunova_Watercolor_painting_2014.jpg/225px-Hansestadt_Lubeck_Tatiana_Yagunova_Watercolor_painting_2014.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Hansestadt_Lubeck_Tatiana_Yagunova_Watercolor_painting_2014.jpg/300px-Hansestadt_Lubeck_Tatiana_Yagunova_Watercolor_painting_2014.jpg 2x" data-file-width="3720" data-file-height="2996" /></a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Saxon</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:5.5em;font-weight:normal;">
+<div style="padding:0.1em 0;line-height:1.2em;"><span class="smallcaps" style="font-variant:small-caps;"><a href="/wiki/Braunschweig" title="Braunschweig">Brunswick</a><br />
+<a href="/wiki/Magdeburg" title="Magdeburg">Magdeburg</a></span></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Berlin" title="Berlin">Berlin</a></li>
+<li><i><a href="/wiki/Bremen" title="Bremen">Bremen</a></i></li>
+<li><a href="/wiki/Erfurt" title="Erfurt">Erfurt</a></li>
+<li><a href="/wiki/Frankfurt_(Oder)" title="Frankfurt (Oder)">Frankfurt an der Oder</a></li>
+<li><i><a href="/wiki/Goslar" title="Goslar">Goslar</a></i></li>
+<li><i><a href="/wiki/M%C3%BChlhausen" title="Mühlhausen">Mühlhausen</a></i></li>
+<li><i><a href="/wiki/Nordhausen" title="Nordhausen">Nordhausen</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Baltic</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:5.5em;font-weight:normal;">
+<div style="padding:0.1em 0;line-height:1.2em;line-height:1.1em;"><a href="/wiki/Gda%C5%84sk" title="Gdańsk"><span class="smallcaps" style="font-variant:small-caps;">Danzig</span><br />
+<small><span style="font-weight:normal;">(Gdańsk)</span></small></a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Wroc%C5%82aw" title="Wrocław">Breslau <small>(Wrocław)</small></a></li>
+<li><a href="/wiki/Tartu" title="Tartu">Dorpat <small>(Tartu)</small></a></li>
+<li><a href="/wiki/Elbl%C4%85g" title="Elbląg">Elbing <small>(Elbląg)</small></a></li>
+<li><a href="/wiki/K%C3%B6nigsberg" title="Königsberg">Königsberg</a> <small>(<a href="/wiki/Kaliningrad" title="Kaliningrad">Kaliningrad</a>)</small></li>
+<li><a href="/wiki/Krak%C3%B3w" title="Kraków">Cracow <small>(Kraków)</small></a></li>
+<li><a href="/wiki/Tallinn" title="Tallinn">Reval <small>(Tallinn)</small></a></li>
+<li><a href="/wiki/Riga" title="Riga">Riga <small>(Rīga)</small></a></li>
+<li><a href="/wiki/Toru%C5%84" title="Toruń">Thorn <small>(Toruń)</small></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Westphalian</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:5.5em;font-weight:normal;">
+<div style="padding:0.1em 0;line-height:1.2em;"><span class="smallcaps" style="font-variant:small-caps;"><i><a href="/wiki/Cologne" title="Cologne">Cologne</a></i></span> <span style="font-weight:normal;"><sup><small>1</small></sup></span><br />
+<span class="smallcaps" style="font-variant:small-caps;"><i><a href="/wiki/Dortmund" title="Dortmund">Dortmund</a></i></span> <span style="font-weight:normal;"><sup><small>1</small></sup></span></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Deventer" title="Deventer">Deventer</a></li>
+<li><a href="/wiki/Groningen" title="Groningen">Groningen</a></li>
+<li><a href="/wiki/Kampen,_Overijssel" title="Kampen, Overijssel">Kampen</a></li>
+<li><a href="/wiki/M%C3%BCnster" title="Münster">Münster</a></li>
+<li><a href="/wiki/Osnabr%C3%BCck" title="Osnabrück">Osnabrück</a></li>
+<li><i><a href="/wiki/Soest,_Germany" title="Soest, Germany">Soest</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<hr /></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><i><a href="/wiki/Kontor" title="Kontor">Kontore</a></i></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:5.5em;font-weight:normal;">Principal</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bryggen" title="Bryggen">Bryggen</a> <small>(<a href="/wiki/Bergen" title="Bergen">Bergen</a>)</small></li>
+<li>Hanzekantoor
+<ul>
+<li><small><a href="/wiki/Bruges" title="Bruges">Bruges</a></small></li>
+<li><small><a href="/wiki/Antwerp" title="Antwerp">Antwerp</a><sup>2</sup><small>&#160;</small></small></li>
+</ul>
+</li>
+<li><a href="/wiki/Steelyard" title="Steelyard">Steelyard</a> <small>(<a href="/wiki/London" title="London">London</a>)</small></li>
+<li>Peterhof <small>(<a href="/wiki/Veliky_Novgorod" title="Veliky Novgorod">Novgorod</a>)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:5.5em;font-weight:normal;">Subsidiary</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/King%27s_Lynn" title="King's Lynn">Bishop's Lynn</a></li>
+<li><a href="/wiki/Falsterbo" title="Falsterbo">Falsterbo</a></li>
+<li><a href="/wiki/Ipswich" title="Ipswich">Ipswich</a></li>
+<li><a href="/wiki/Kaunas" title="Kaunas">Kaunas</a></li>
+<li><a href="/wiki/Malm%C3%B6" title="Malmö">Malmö</a></li>
+<li><a href="/wiki/Polotsk" title="Polotsk">Polotsk</a></li>
+<li><a href="/wiki/Pskov_Republic" title="Pskov Republic">Pskov</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Other cities</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bristol" title="Bristol">Bristol</a></li>
+<li><a href="/wiki/Boston,_Lincolnshire" title="Boston, Lincolnshire">Boston</a></li>
+<li><a href="/wiki/Damme" title="Damme">Damme</a></li>
+<li><a href="/wiki/Leith" title="Leith">Leith</a></li>
+<li><a href="/wiki/Herford" title="Herford">Herford</a></li>
+<li><a href="/wiki/Kingston_upon_Hull" title="Kingston upon Hull">Hull</a></li>
+<li><a href="/wiki/Newcastle_upon_Tyne" title="Newcastle upon Tyne">Newcastle</a></li>
+<li><a href="/wiki/Stargard_Szczeci%C5%84ski" class="mw-redirect" title="Stargard Szczeciński">Stargard</a></li>
+<li><a href="/wiki/Great_Yarmouth" title="Great Yarmouth">Yarmouth</a></li>
+<li><a href="/wiki/York" title="York">York</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3" style="padding:0.2em 0.4em 0.4em;line-height:1.25em;">
+<div>
+<div class="plainlist">
+<ul>
+<li><sup><small>1</small></sup> <a href="/wiki/Cologne" title="Cologne">Cologne</a> and <a href="/wiki/Dortmund" title="Dortmund">Dortmund</a> were both capital of the Westphalian Quarter at different times.</li>
+<li><sup><small>2</small></sup> <a href="/wiki/Antwerp" title="Antwerp">Antwerp</a> gained importance once <a href="/wiki/Bruges" title="Bruges">Bruges</a> became inaccessible due to the silting of the <a href="/wiki/Zwin" title="Zwin">Zwin</a> channel.</li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/141899369">WorldCat Identities</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/141899369">141899369</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n81018417">n81018417</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000404791014">0000 0004 0479 1014</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/4050610-1">4050610-1</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.idref.fr/027973530">027973530</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb119902217">cb119902217</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb119902217">(data)</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1319
+Cached time: 20171012072008
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.756 seconds
+Real time usage: 0.954 seconds
+Preprocessor visited node count: 7834/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 171536/2097152 bytes
+Template argument size: 25656/2097152 bytes
+Highest expansion depth: 26/40
+Expensive parser function count: 7/500
+Lua time usage: 0.274/10.000 seconds
+Lua memory usage: 9.19 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  760.853      1 -total
+ 46.53%  353.997      1 Template:Infobox_German_location
+ 43.99%  334.713      1 Template:Infobox_settlement
+ 36.35%  276.604      1 Template:Infobox
+ 10.43%   79.322      7 Template:Population_Germany
+ 10.09%   76.753      1 Template:Weather_box
+  9.11%   69.328      8 Template:Cite_web
+  7.64%   58.109      5 Template:Convert
+  7.08%   53.874      9 Template:Navbox
+  6.73%   51.214      1 Template:Reflist
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:106296-0!canonical and timestamp 20171012072007 and revision id 803133964
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Rostock&amp;oldid=803133964">https://en.wikipedia.org/w/index.php?title=Rostock&amp;oldid=803133964</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Cities_in_Mecklenburg-Vorpommern" title="Category:Cities in Mecklenburg-Vorpommern">Cities in Mecklenburg-Vorpommern</a></li><li><a href="/wiki/Category:Rostock" title="Category:Rostock">Rostock</a></li><li><a href="/wiki/Category:Cities_and_towns_in_Mecklenburg" title="Category:Cities and towns in Mecklenburg">Cities and towns in Mecklenburg</a></li><li><a href="/wiki/Category:Denmark%E2%80%93Germany_border_crossings" title="Category:Denmark–Germany border crossings">Denmark–Germany border crossings</a></li><li><a href="/wiki/Category:Members_of_the_Hanseatic_League" title="Category:Members of the Hanseatic League">Members of the Hanseatic League</a></li><li><a href="/wiki/Category:Port_cities_and_towns_in_Germany" title="Category:Port cities and towns in Germany">Port cities and towns in Germany</a></li><li><a href="/wiki/Category:Port_cities_and_towns_of_the_Baltic_Sea" title="Category:Port cities and towns of the Baltic Sea">Port cities and towns of the Baltic Sea</a></li><li><a href="/wiki/Category:Populated_coastal_places_in_Germany_(Baltic_Sea)" title="Category:Populated coastal places in Germany (Baltic Sea)">Populated coastal places in Germany (Baltic Sea)</a></li><li><a href="/wiki/Category:Towns_in_Mecklenburg-Vorpommern" title="Category:Towns in Mecklenburg-Vorpommern">Towns in Mecklenburg-Vorpommern</a></li><li><a href="/wiki/Category:University_towns_in_Germany" title="Category:University towns in Germany">University towns in Germany</a></li><li><a href="/wiki/Category:L%C3%BCbeck_law" title="Category:Lübeck law">Lübeck law</a></li><li><a href="/wiki/Category:1218_establishments_in_Europe" title="Category:1218 establishments in Europe">1218 establishments in Europe</a></li><li><a href="/wiki/Category:Populated_places_established_in_the_13th_century" title="Category:Populated places established in the 13th century">Populated places established in the 13th century</a></li><li><a href="/wiki/Category:Grand_Duchy_of_Mecklenburg-Schwerin" title="Category:Grand Duchy of Mecklenburg-Schwerin">Grand Duchy of Mecklenburg-Schwerin</a></li><li><a href="/wiki/Category:Holocaust_locations_in_Germany" title="Category:Holocaust locations in Germany">Holocaust locations in Germany</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_German-language_sources_(de)" title="Category:CS1 German-language sources (de)">CS1 German-language sources (de)</a></li><li><a href="/wiki/Category:CS1_Polish-language_sources_(pl)" title="Category:CS1 Polish-language sources (pl)">CS1 Polish-language sources (pl)</a></li><li><a href="/wiki/Category:CS1_French-language_sources_(fr)" title="Category:CS1 French-language sources (fr)">CS1 French-language sources (fr)</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li><li><a href="/wiki/Category:Articles_with_Latin-language_external_links" title="Category:Articles with Latin-language external links">Articles with Latin-language external links</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_April_2013" title="Category:Articles with unsourced statements from April 2013">Articles with unsourced statements from April 2013</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Rostock" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Rostock" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Rostock" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Rostock" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Rostock">Read</a></span></li>
+							<li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Rostock&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Rostock&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Rostock" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Rostock" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Rostock&amp;oldid=803133964" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Rostock&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2861" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Rostock&amp;id=803133964" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Rostock">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Rostock&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Rostock&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Rostock" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikivoyage badge-Q17559452 badge-recommendedarticle" title="recommended article"><a href="https://en.wikivoyage.org/wiki/Rostock" hreflang="en">Wikivoyage</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Rostock" title="Rostock – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%B1%D9%88%D8%B3%D8%AA%D9%88%D9%83" title="روستوك – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Rostok" title="Rostok – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D8%B1%D9%88%D8%B3%D8%AA%D9%88%DA%A9" title="روستوک – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Rostock" title="Rostock – Chinese (Min Nan)" lang="zh-min-nan" hreflang="zh-min-nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%A0%D0%BE%D1%81%D1%82%D0%B0%D0%BA" title="Ростак – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/%D0%A0%D0%BE%D1%81%D1%82%D0%B0%D0%BA" title="Ростак – Belarusian (Taraškievica orthography)" lang="be-x-old" hreflang="be-x-old" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%BA" title="Росток – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Rostock" title="Rostock – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Rostock" title="Rostock – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Kreisfreie_Stadt_Rostock" title="Kreisfreie Stadt Rostock – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Rostock" title="Rostock – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Rostock" title="Rostock – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Rostock" title="Rostock – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de badge-Q17437796 badge-featuredarticle" title="featured article"><a href="https://de.wikipedia.org/wiki/Rostock" title="Rostock – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Rostock" title="Rostock – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%A1%CF%8C%CF%83%CF%84%CE%BF%CE%BA" title="Ρόστοκ – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Rostock" title="Rostock – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Rostock" title="Rostock – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Rostock" title="Rostock – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%B1%D9%88%D8%B3%D8%AA%D9%88%DA%A9" title="روستوک – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Rostock" title="Rostock – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/Rostock_(st%C3%AAd)" title="Rostock (stêd) – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li><li class="interlanguage-link interwiki-gd"><a href="https://gd.wikipedia.org/wiki/Rostock" title="Rostock – Scottish Gaelic" lang="gd" hreflang="gd" class="interlanguage-link-target">Gàidhlig</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Rostock" title="Rostock – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%A1%9C%EC%8A%A4%ED%86%A0%ED%81%AC" title="로스토크 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%8C%D5%B8%D5%BD%D5%BF%D5%B8%D5%AF" title="Ռոստոկ – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hsb"><a href="https://hsb.wikipedia.org/wiki/Roztok" title="Roztok – Upper Sorbian" lang="hsb" hreflang="hsb" class="interlanguage-link-target">Hornjoserbsce</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Rostock" title="Rostock – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-io"><a href="https://io.wikipedia.org/wiki/Rostock" title="Rostock – Ido" lang="io" hreflang="io" class="interlanguage-link-target">Ido</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Rostock" title="Rostock – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ie"><a href="https://ie.wikipedia.org/wiki/Rostock" title="Rostock – Interlingue" lang="ie" hreflang="ie" class="interlanguage-link-target">Interlingue</a></li><li class="interlanguage-link interwiki-os"><a href="https://os.wikipedia.org/wiki/%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%BA" title="Росток – Ossetic" lang="os" hreflang="os" class="interlanguage-link-target">Ирон</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Rostock" title="Rostock – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Rostock" title="Rostock – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A8%D7%95%D7%A1%D7%98%D7%95%D7%A7" title="רוסטוק – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%A0%E1%83%9D%E1%83%A1%E1%83%A2%E1%83%9D%E1%83%99%E1%83%98" title="როსტოკი – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%BA" title="Росток – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Rostock" title="Rostock – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li><li class="interlanguage-link interwiki-ku"><a href="https://ku.wikipedia.org/wiki/Rostock" title="Rostock – Kurdish" lang="ku" hreflang="ku" class="interlanguage-link-target">Kurdî</a></li><li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%BA" title="Росток – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Rostochium" title="Rostochium – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Rostoka" title="Rostoka – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-lb"><a href="https://lb.wikipedia.org/wiki/Rostock" title="Rostock – Luxembourgish" lang="lb" hreflang="lb" class="interlanguage-link-target">Lëtzebuergesch</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Rostokas" title="Rostokas – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-lmo"><a href="https://lmo.wikipedia.org/wiki/Rostock" title="Rostock – Lombard" lang="lmo" hreflang="lmo" class="interlanguage-link-target">Lumbaart</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Rostock" title="Rostock – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%BA" title="Росток – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%B0%E0%A5%8B%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8B%E0%A4%95" title="रोस्टोक – Marathi" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li><li class="interlanguage-link interwiki-mn"><a href="https://mn.wikipedia.org/wiki/%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%BA" title="Росток – Mongolian" lang="mn" hreflang="mn" class="interlanguage-link-target">Монгол</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Rostock_(stad)" title="Rostock (stad) – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B9%E3%83%88%E3%83%83%E3%82%AF" title="ロストック – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-frr"><a href="https://frr.wikipedia.org/wiki/Rostock_(st%C3%A4%C3%A4)" title="Rostock (stää) – Northern Frisian" lang="frr" hreflang="frr" class="interlanguage-link-target">Nordfriisk</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Rostock" title="Rostock – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Rostock" title="Rostock – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Rostock" title="Rostock – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Rostock" title="Rostock – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%D8%B1%D9%88%D8%B3%D9%B9%D8%A7%DA%A9" title="روسٹاک – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li><li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/Rostock" title="Rostock – Low German" lang="nds" hreflang="nds" class="interlanguage-link-target">Plattdüütsch</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Rostock" title="Rostock – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Rostock" title="Rostock – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Rostock" title="Rostock – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%BA" title="Росток – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sc"><a href="https://sc.wikipedia.org/wiki/Rostock" title="Rostock – Sardinian" lang="sc" hreflang="sc" class="interlanguage-link-target">Sardu</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Rostock" title="Rostock – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-stq"><a href="https://stq.wikipedia.org/wiki/Rostock" title="Rostock – Saterland Frisian" lang="stq" hreflang="stq" class="interlanguage-link-target">Seeltersk</a></li><li class="interlanguage-link interwiki-scn"><a href="https://scn.wikipedia.org/wiki/Rostock" title="Rostock – Sicilian" lang="scn" hreflang="scn" class="interlanguage-link-target">Sicilianu</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Rostock" title="Rostock – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Rostock" title="Rostock – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Rostock" title="Rostock – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%BA" title="Росток – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Rostock" title="Rostock – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Rostock" title="Rostock – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Rostock" title="Rostock – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%BA" title="Росток – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%A3%E0%B8%AD%E0%B8%AA%E0%B8%97%E0%B8%AD%E0%B8%84" title="รอสทอค – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Rostock" title="Rostock – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%BA" title="Росток – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Rostock" title="Rostock – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/Rostock" title="Rostock – Volapük" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Rostock" title="Rostock – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E7%BE%85%E6%96%AF%E6%89%98%E5%85%8B" title="羅斯托克 – Cantonese" lang="zh-yue" hreflang="zh-yue" class="interlanguage-link-target">粵語</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E7%BD%97%E6%96%AF%E6%89%98%E5%85%8B" title="罗斯托克 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2861#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 30 September 2017, at 17:27.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Rostock&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.756","walltime":"0.954","ppvisitednodes":{"value":7834,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":171536,"limit":2097152},"templateargumentsize":{"value":25656,"limit":2097152},"expansiondepth":{"value":26,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  760.853      1 -total"," 46.53%  353.997      1 Template:Infobox_German_location"," 43.99%  334.713      1 Template:Infobox_settlement"," 36.35%  276.604      1 Template:Infobox"," 10.43%   79.322      7 Template:Population_Germany"," 10.09%   76.753      1 Template:Weather_box","  9.11%   69.328      8 Template:Cite_web","  7.64%   58.109      5 Template:Convert","  7.08%   53.874      9 Template:Navbox","  6.73%   51.214      1 Template:Reflist"]},"scribunto":{"limitreport-timeusage":{"value":"0.274","limit":"10.000"},"limitreport-memusage":{"value":9641226,"limit":52428800}},"cachereport":{"origin":"mw1319","timestamp":"20171012072008","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":79,"wgHostname":"mw1247"});});</script>
+	</body>
+</html>

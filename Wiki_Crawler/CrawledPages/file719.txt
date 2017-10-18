@@ -1,0 +1,558 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Washington Monthly - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Washington_Monthly","wgTitle":"Washington Monthly","wgCurRevisionId":801161209,"wgRevisionId":801161209,"wgArticleId":325569,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["American monthly magazines","Magazines established in 1969","American political magazines","Modern liberal American magazines","Magazines published in Washington, D.C."],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Washington_Monthly","wgRelevantArticleId":325569,"wgRequestId":"WeeOqApAIDYAAD6G7QsAAAAA","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q7972062","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.3"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/8/81/MonthlyJulAug11.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Washington_Monthly"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Washington_Monthly&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Washington_Monthly&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Washington_Monthly"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Washington_Monthly rootpage-Washington_Monthly vector-experimental-print-styles vector-nav-directionality skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en"><i>Washington Monthly</i></h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox hproduct" style="width:22em">
+<caption class="fn"><i>Washington Monthly</i></caption>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:MonthlyJulAug11.jpg" class="image"><img alt="MonthlyJulAug11.jpg" src="//upload.wikimedia.org/wikipedia/en/thumb/8/81/MonthlyJulAug11.jpg/150px-MonthlyJulAug11.jpg" width="150" height="194" srcset="//upload.wikimedia.org/wikipedia/en/8/81/MonthlyJulAug11.jpg 1.5x" data-file-width="170" data-file-height="220" /></a></td>
+</tr>
+<tr>
+<th scope="row">Editor</th>
+<td><a href="/wiki/Paul_Glastris" title="Paul Glastris">Paul Glastris</a></td>
+</tr>
+<tr>
+<th scope="row">Frequency</th>
+<td>Monthly (1969–2008), Bimonthly (2008–present)</td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/List_of_magazines_by_circulation" title="List of magazines by circulation">Circulation</a></th>
+<td>10,630</td>
+</tr>
+<tr>
+<th scope="row">First issue</th>
+<td>1969<span class="noprint">; 48&#160;years ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">1969</span>)</span></td>
+</tr>
+<tr>
+<th scope="row">Based in</th>
+<td><a href="/wiki/Washington,_D.C." title="Washington, D.C.">Washington, D.C.</a>, <a href="/wiki/United_States" title="United States">U.S.</a></td>
+</tr>
+<tr>
+<th scope="row">Website</th>
+<td><span class="url"><a rel="nofollow" class="external text" href="http://www.washingtonmonthly.com">www<wbr />.washingtonmonthly<wbr />.com</a></span></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a></th>
+<td><a rel="nofollow" class="external text" href="https://www.worldcat.org/issn/0043-0633">0043-0633</a></td>
+</tr>
+</table>
+<p><i><b>Washington Monthly</b></i> is a bimonthly <a href="/wiki/Nonprofit" class="mw-redirect" title="Nonprofit">nonprofit</a> <a href="/wiki/Magazine" title="Magazine">magazine</a> of <a href="/wiki/United_States" title="United States">United States</a> <a href="/wiki/Politics" title="Politics">politics</a> and <a href="/wiki/Government" title="Government">government</a> that is based in <a href="/wiki/Washington,_D.C." title="Washington, D.C.">Washington, D.C.</a> The magazine is known for its annual ranking of American colleges and universities, which serve as an alternative to the <i><a href="/wiki/Forbes" title="Forbes">Forbes</a></i> and <i><a href="/wiki/U.S._News_%26_World_Report" title="U.S. News &amp; World Report">U.S. News &amp; World Report</a></i> rankings.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Contents_and_viewpoint"><span class="tocnumber">2</span> <span class="toctext">Contents and viewpoint</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#College_rankings"><span class="tocnumber">3</span> <span class="toctext">College rankings</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Current_national_rankings"><span class="tocnumber">3.1</span> <span class="toctext">Current national rankings</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Funding"><span class="tocnumber">4</span> <span class="toctext">Funding</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Washington_Monthly&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The magazine's founder is <a href="/wiki/Charles_Peters" title="Charles Peters">Charles Peters</a>, who started the magazine in 1969 and continued to write the "Tilting at Windmills" column in each issue until 2014.<sup id="cite_ref-Monthly01022014_1-0" class="reference"><a href="#cite_note-Monthly01022014-1">[1]</a></sup> <a href="/wiki/Paul_Glastris" title="Paul Glastris">Paul Glastris</a>, former speechwriter for <a href="/wiki/Bill_Clinton" title="Bill Clinton">Bill Clinton</a>, has been <i>Washington Monthly'</i>s editor-in-chief since 2001. In 2008, the magazine switched from a monthly to a bimonthly publication schedule, citing high publication costs.</p>
+<p>Diane Straus Tucker is the magazine's current publisher.<sup id="cite_ref-Masthead_2-0" class="reference"><a href="#cite_note-Masthead-2">[2]</a></sup> Past staff editors of the magazine include <a href="/wiki/Jonathan_Alter" title="Jonathan Alter">Jonathan Alter</a>, <a href="/wiki/Taylor_Branch" title="Taylor Branch">Taylor Branch</a>, <a href="/wiki/James_Fallows" title="James Fallows">James Fallows</a>, <a href="/wiki/Joshua_Green_(journalist)" title="Joshua Green (journalist)">Joshua Green</a>, <a href="/wiki/David_Ignatius" title="David Ignatius">David Ignatius</a>, <a href="/wiki/Mickey_Kaus" title="Mickey Kaus">Mickey Kaus</a>, <a href="/wiki/Nicholas_Lemann" title="Nicholas Lemann">Nicholas Lemann</a>, <a href="/wiki/Suzannah_Lessard" title="Suzannah Lessard">Suzannah Lessard</a>, <a href="/wiki/Jon_Meacham" title="Jon Meacham">Jon Meacham</a>, <a href="/wiki/Timothy_Noah" title="Timothy Noah">Timothy Noah</a>, <a href="/wiki/Joe_Nocera" title="Joe Nocera">Joe Nocera</a>, and <a href="/wiki/Steven_Waldman" title="Steven Waldman">Steven Waldman</a>.<sup id="cite_ref-NYT042202_3-0" class="reference"><a href="#cite_note-NYT042202-3">[3]</a></sup></p>
+<p>In 2008, the liberal watchdog and advocacy group <a href="/wiki/Common_Cause" title="Common Cause">Common Cause</a> considered acquiring <i>Washington Monthly</i>, but the deal fell apart.<sup id="cite_ref-WashingtonPost_4-0" class="reference"><a href="#cite_note-WashingtonPost-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></p>
+<h2><span class="mw-headline" id="Contents_and_viewpoint">Contents and viewpoint</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Washington_Monthly&amp;action=edit&amp;section=2" title="Edit section: Contents and viewpoint">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The politics of <i>Washington Monthly</i> are often considered <a href="/wiki/Centre-left_politics" title="Centre-left politics">center-left</a>.<sup id="cite_ref-PoliticsUnspun_6-0" class="reference"><a href="#cite_note-PoliticsUnspun-6">[6]</a></sup><sup id="cite_ref-NYMag122415_7-0" class="reference"><a href="#cite_note-NYMag122415-7">[7]</a></sup><sup id="cite_ref-Forbes091406_8-0" class="reference"><a href="#cite_note-Forbes091406-8">[8]</a></sup> Founder Charles Peters refers to himself as a <a href="/wiki/New_Deal" title="New Deal">New Deal</a> Democrat and advocates the use of government to address social problems. His columns also frequently emphasized the importance of a vigilant "<a href="/wiki/Fourth_estate" class="mw-redirect" title="Fourth estate">fourth estate</a>" in keeping government honest.</p>
+<p><i>Washington Monthly</i> features a continuing <a href="/wiki/Weblog" class="mw-redirect" title="Weblog">blog</a>; "Political Animal" was written principally by <a href="/wiki/Kevin_Drum" title="Kevin Drum">Kevin Drum</a> for several years, with frequent guest contributions by <i>Washington Monthly's</i> current and alumni editors. In 2008, <a href="/wiki/Steve_Benen" title="Steve Benen">Steve Benen</a> took over as lead blogger; in 2012, he was succeeded by Ed Kilgore.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> Kilgore left the magazine in 2015.<sup id="cite_ref-WaMo112015_10-0" class="reference"><a href="#cite_note-WaMo112015-10">[10]</a></sup></p>
+<p>In addition to "Political Animal," the magazine's website also hosts "Ten Miles Square," a general blog featuring posts from staff and political scientists, which debuted in 2011,<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> and "College Guide," a blog about higher education, which the magazine began offering in 2009.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></p>
+<h2><span class="mw-headline" id="College_rankings">College rankings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Washington_Monthly&amp;action=edit&amp;section=3" title="Edit section: College rankings">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i>Washington Monthly's</i> annual <a href="/wiki/College_and_university_rankings" title="College and university rankings">college and university rankings</a>,<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> a deliberate alternative college guide to <i><a href="/wiki/U.S._News_and_World_Report" class="mw-redirect" title="U.S. News and World Report">U.S. News and World Report</a></i> and <i><a href="/wiki/Forbes" title="Forbes">Forbes</a> College Rankings</i> among domestic publications, began as a research report in 2005. It was introduced as an official set of rankings in the September 2006 issue.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></p>
+<p>Its "National Universities Rankings", most recently published in 2016, began as a research report in 2005, with rankings appearing in the September 2006 issue. It ranks colleges on numerous metrics revolving around academic quality, faculty, and alumni outcomes as well as factoring in "contribution to the public good in numerous categories".</p>
+<p>The following are elements in the Washington Monthly rankings.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup></p>
+<ul>
+<li>Academic quality: a survey of the institution's academic structure, and general program</li>
+<li>Retention: first year retention rate, and graduation rate of the institutions</li>
+<li>Faculty resources: average class size, faculty degree level, student-faculty ratio, and proportion of full-time faculty</li>
+<li>Social Mobility: recruiting and graduating low-income students</li>
+<li>Research: producing cutting-edge scholarship and <a href="/wiki/Thesis" title="Thesis">PhD</a>s</li>
+<li>Service: encouraging students to give something back to their country</li>
+</ul>
+<h3><span class="mw-headline" id="Current_national_rankings">Current national rankings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Washington_Monthly&amp;action=edit&amp;section=4" title="Edit section: Current national rankings">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable" border="1" cellpadding="4" cellspacing="0" style="width:100%; margin:0.5em 1em 0.5em 0; border:2px #000000 solid; border-collapse:collapse;">
+<tr>
+<th style="background:#F9F9F9; width:20%;"><span style="color:black;">Top national universities</span></th>
+<th style="background:#F9F9F9; width:5%;"><span style="color:black;">2017 Rank</span><sup id="cite_ref-:1_18-0" class="reference"><a href="#cite_note-:1-18">[18]</a></sup></th>
+<th style="background:#F9F9F9; width:20%;"><span style="color:black;">Location</span></th>
+<th style="background:#F9F9F9; width:15%;"><span style="color:black;">Top liberal arts colleges</span></th>
+<th style="background:#F9F9F9; width:5%;"><span style="color:black;">2015 Rank</span><sup id="cite_ref-:1_18-1" class="reference"><a href="#cite_note-:1-18">[18]</a></sup></th>
+<th style="background:#F9F9F9; width:20%;"><span style="color:black;">Location</span></th>
+</tr>
+<tr>
+<td><a href="/wiki/Stanford_University" title="Stanford University">Stanford University</a></td>
+<td>1</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/23px-Flag_of_California.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/35px-Flag_of_California.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/45px-Flag_of_California.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span>California</td>
+<td><a href="/wiki/Bryn_Mawr_College" title="Bryn Mawr College">Bryn Mawr College</a></td>
+<td>1</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Pennsylvania.svg/23px-Flag_of_Pennsylvania.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Pennsylvania.svg/35px-Flag_of_Pennsylvania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Pennsylvania.svg/45px-Flag_of_Pennsylvania.svg.png 2x" data-file-width="675" data-file-height="450" />&#160;</span>Pennsylvania</td>
+</tr>
+<tr>
+<td><a href="/wiki/Harvard_University" title="Harvard University">Harvard University</a></td>
+<td>2</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Massachusetts.svg/23px-Flag_of_Massachusetts.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Massachusetts.svg/35px-Flag_of_Massachusetts.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Massachusetts.svg/46px-Flag_of_Massachusetts.svg.png 2x" data-file-width="1500" data-file-height="900" />&#160;</span>Massachusetts</td>
+<td><a href="/wiki/Carleton_College" title="Carleton College">Carleton College</a></td>
+<td>2</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Minnesota.svg/23px-Flag_of_Minnesota.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Minnesota.svg/35px-Flag_of_Minnesota.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Minnesota.svg/46px-Flag_of_Minnesota.svg.png 2x" data-file-width="500" data-file-height="318" />&#160;</span>Minnesota</td>
+</tr>
+<tr>
+<td><a href="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology">Massachusetts Institute of Technology</a></td>
+<td>3</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Massachusetts.svg/23px-Flag_of_Massachusetts.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Massachusetts.svg/35px-Flag_of_Massachusetts.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Massachusetts.svg/46px-Flag_of_Massachusetts.svg.png 2x" data-file-width="1500" data-file-height="900" />&#160;</span>Massachusetts</td>
+<td><a href="/wiki/Berea_College" title="Berea College">Berea College</a></td>
+<td>3</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Flag_of_Kentucky.svg/23px-Flag_of_Kentucky.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Flag_of_Kentucky.svg/35px-Flag_of_Kentucky.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Flag_of_Kentucky.svg/46px-Flag_of_Kentucky.svg.png 2x" data-file-width="950" data-file-height="500" />&#160;</span>Kentucky</td>
+</tr>
+<tr>
+<td><a href="/wiki/Texas_A%26M_University" title="Texas A&amp;M University">Texas A &amp; M</a></td>
+<td>4</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Texas.svg/23px-Flag_of_Texas.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Texas.svg/35px-Flag_of_Texas.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Texas.svg/45px-Flag_of_Texas.svg.png 2x" data-file-width="1080" data-file-height="720" />&#160;</span>Texas</td>
+<td><a href="/wiki/Swarthmore_College" title="Swarthmore College">Swarthmore College</a></td>
+<td>4</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Pennsylvania.svg/23px-Flag_of_Pennsylvania.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Pennsylvania.svg/35px-Flag_of_Pennsylvania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Pennsylvania.svg/45px-Flag_of_Pennsylvania.svg.png 2x" data-file-width="675" data-file-height="450" />&#160;</span>Pennsylvania</td>
+</tr>
+<tr>
+<td><a href="/wiki/Georgetown_University" title="Georgetown University">Georgetown University</a></td>
+<td>5</td>
+<td><span class="flagicon"><a href="/wiki/Washington,_D.C." title="Washington, D.C."><img alt="Washington, D.C." src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_Washington%2C_D.C..svg/23px-Flag_of_Washington%2C_D.C..svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_Washington%2C_D.C..svg/35px-Flag_of_Washington%2C_D.C..svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_Washington%2C_D.C..svg/46px-Flag_of_Washington%2C_D.C..svg.png 2x" data-file-width="800" data-file-height="400" /></a></span> District of Columbia</td>
+<td><a href="/wiki/Harvey_Mudd_College" title="Harvey Mudd College">Harvey Mudd College</a></td>
+<td>5</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/23px-Flag_of_California.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/35px-Flag_of_California.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/45px-Flag_of_California.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span>California</td>
+</tr>
+<tr>
+<td><a href="/wiki/University_of_California,_San_Diego" title="University of California, San Diego">University of California, San Diego</a></td>
+<td>6</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/23px-Flag_of_California.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/35px-Flag_of_California.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/45px-Flag_of_California.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span>California</td>
+<td><a href="/wiki/Reed_College" title="Reed College">Reed College</a></td>
+<td>6</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Oregon.svg/23px-Flag_of_Oregon.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Oregon.svg/35px-Flag_of_Oregon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Oregon.svg/46px-Flag_of_Oregon.svg.png 2x" data-file-width="750" data-file-height="450" />&#160;</span>Oregon</td>
+</tr>
+<tr>
+<td><a href="/wiki/University_of_Pennsylvania" title="University of Pennsylvania">University of Pennsylvania</a></td>
+<td>7</td>
+<td><span class="flagicon"><a href="/wiki/Pennsylvania" title="Pennsylvania"><img alt="Pennsylvania" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Pennsylvania.svg/23px-Flag_of_Pennsylvania.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Pennsylvania.svg/35px-Flag_of_Pennsylvania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Pennsylvania.svg/45px-Flag_of_Pennsylvania.svg.png 2x" data-file-width="675" data-file-height="450" /></a></span> Pennsylvania</td>
+<td><a href="/wiki/Pomona_College" title="Pomona College">Pomona College</a></td>
+<td>7</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/23px-Flag_of_California.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/35px-Flag_of_California.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/45px-Flag_of_California.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span>California</td>
+</tr>
+<tr>
+<td><a href="/wiki/University_of_Washington" title="University of Washington">University of Washington, Seattle</a></td>
+<td>8</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/Flag_of_Washington.svg/23px-Flag_of_Washington.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/Flag_of_Washington.svg/35px-Flag_of_Washington.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/54/Flag_of_Washington.svg/46px-Flag_of_Washington.svg.png 2x" data-file-width="1106" data-file-height="658" />&#160;</span>Washington</td>
+<td><a href="/wiki/Bates_College" title="Bates College">Bates College</a></td>
+<td>8</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Maine.svg/23px-Flag_of_Maine.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Maine.svg/35px-Flag_of_Maine.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Maine.svg/45px-Flag_of_Maine.svg.png 2x" data-file-width="687" data-file-height="458" />&#160;</span>Maine</td>
+</tr>
+<tr>
+<td><a href="/wiki/University_of_California,_Davis" title="University of California, Davis">University of California, Davis</a></td>
+<td>9</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/23px-Flag_of_California.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/35px-Flag_of_California.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/45px-Flag_of_California.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span>California</td>
+<td><a href="/wiki/Haverford_College" title="Haverford College">Haverford College</a></td>
+<td>9</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Pennsylvania.svg/23px-Flag_of_Pennsylvania.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Pennsylvania.svg/35px-Flag_of_Pennsylvania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Pennsylvania.svg/45px-Flag_of_Pennsylvania.svg.png 2x" data-file-width="675" data-file-height="450" />&#160;</span>Pennsylvania</td>
+</tr>
+<tr>
+<td><a href="/wiki/Yale_University" title="Yale University">Yale University</a></td>
+<td>10</td>
+<td><span class="flagicon"><a href="/wiki/Connecticut" title="Connecticut"><img alt="Connecticut" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Flag_of_Connecticut.svg/20px-Flag_of_Connecticut.svg.png" width="20" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Flag_of_Connecticut.svg/30px-Flag_of_Connecticut.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/Flag_of_Connecticut.svg/39px-Flag_of_Connecticut.svg.png 2x" data-file-width="594" data-file-height="459" /></a></span> Connecticut</td>
+<td><a href="/wiki/New_College_of_Florida" title="New College of Florida">New College of Florida</a></td>
+<td>10</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Florida.svg/23px-Flag_of_Florida.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Florida.svg/35px-Flag_of_Florida.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Florida.svg/45px-Flag_of_Florida.svg.png 2x" data-file-width="750" data-file-height="500" />&#160;</span>Florida</td>
+</tr>
+<tr>
+<td><a href="/wiki/Princeton_University" title="Princeton University">Princeton University</a></td>
+<td>11</td>
+<td><span class="flagicon"><a href="/wiki/New_Jersey" title="New Jersey"><img alt="New Jersey" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_New_Jersey.svg/23px-Flag_of_New_Jersey.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_New_Jersey.svg/35px-Flag_of_New_Jersey.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_New_Jersey.svg/45px-Flag_of_New_Jersey.svg.png 2x" data-file-width="750" data-file-height="500" /></a></span> New Jersey</td>
+<td><a href="/wiki/Knox_College_(Illinois)" title="Knox College (Illinois)">Knox College</a></td>
+<td>11</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Illinois.svg/23px-Flag_of_Illinois.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Illinois.svg/35px-Flag_of_Illinois.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Illinois.svg/46px-Flag_of_Illinois.svg.png 2x" data-file-width="1000" data-file-height="600" />&#160;</span>Illinois</td>
+</tr>
+<tr>
+<td><a href="/wiki/Duke_University" title="Duke University">Duke University</a></td>
+<td>12</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Flag_of_North_Carolina.svg/23px-Flag_of_North_Carolina.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Flag_of_North_Carolina.svg/35px-Flag_of_North_Carolina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Flag_of_North_Carolina.svg/45px-Flag_of_North_Carolina.svg.png 2x" data-file-width="750" data-file-height="500" />&#160;</span>North Carolina</td>
+<td><a href="/wiki/Macalester_College" title="Macalester College">Macalester College</a></td>
+<td>12</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Minnesota.svg/23px-Flag_of_Minnesota.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Minnesota.svg/35px-Flag_of_Minnesota.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Minnesota.svg/46px-Flag_of_Minnesota.svg.png 2x" data-file-width="500" data-file-height="318" />&#160;</span>Minnesota</td>
+</tr>
+<tr>
+<td><a href="/wiki/Utah_State_University" title="Utah State University">Utah State University</a></td>
+<td>13</td>
+<td><span class="flagicon"><a href="/wiki/Utah" title="Utah"><img alt="Utah" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Utah.svg/23px-Flag_of_Utah.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Utah.svg/35px-Flag_of_Utah.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Utah.svg/46px-Flag_of_Utah.svg.png 2x" data-file-width="1600" data-file-height="1000" /></a></span> Utah</td>
+<td><a href="/wiki/Williams_College" title="Williams College">Williams College</a></td>
+<td>13</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Massachusetts.svg/23px-Flag_of_Massachusetts.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Massachusetts.svg/35px-Flag_of_Massachusetts.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Massachusetts.svg/46px-Flag_of_Massachusetts.svg.png 2x" data-file-width="1500" data-file-height="900" />&#160;</span>Massachusetts</td>
+</tr>
+<tr>
+<td><a href="/wiki/University_of_California,_Berkeley" title="University of California, Berkeley">University of California, Berkeley</a></td>
+<td>14</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/23px-Flag_of_California.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/35px-Flag_of_California.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/45px-Flag_of_California.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span>California</td>
+<td><a href="/wiki/Wesleyan_University" title="Wesleyan University">Wesleyan University</a></td>
+<td>14</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Flag_of_Connecticut.svg/20px-Flag_of_Connecticut.svg.png" width="20" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Flag_of_Connecticut.svg/30px-Flag_of_Connecticut.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/Flag_of_Connecticut.svg/39px-Flag_of_Connecticut.svg.png 2x" data-file-width="594" data-file-height="459" />&#160;</span>Connecticut</td>
+</tr>
+<tr>
+<td><a href="/wiki/University_of_California,_Los_Angeles" title="University of California, Los Angeles">University of California, Los Angeles</a></td>
+<td>15</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/23px-Flag_of_California.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/35px-Flag_of_California.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/45px-Flag_of_California.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span>California</td>
+<td><a href="/wiki/Grinnell_College" title="Grinnell College">Grinnell College</a></td>
+<td>15</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Iowa.svg/22px-Flag_of_Iowa.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Iowa.svg/34px-Flag_of_Iowa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Iowa.svg/44px-Flag_of_Iowa.svg.png 2x" data-file-width="670" data-file-height="459" />&#160;</span>Iowa</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Funding">Funding</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Washington_Monthly&amp;action=edit&amp;section=5" title="Edit section: Funding">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <i>Washington Monthly</i> receives financial support from the <a href="/wiki/Lumina_Foundation" title="Lumina Foundation">Lumina Foundation</a> to provide coverage of post-secondary education-related issues.<sup id="cite_ref-lumina_19-0" class="reference"><a href="#cite_note-lumina-19">[19]</a></sup> The magazine has also received funding from the <a href="/wiki/Schumann_Center_for_Media_and_Democracy" title="Schumann Center for Media and Democracy">Schumann Center for Media and Democracy</a>,<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup> the <a href="/wiki/Carnegie_Corporation_of_New_York" title="Carnegie Corporation of New York">Carnegie Corporation of New York</a>,<sup id="cite_ref-carnegie_21-0" class="reference"><a href="#cite_note-carnegie-21">[21]</a></sup> and individual supporters, including <a href="/wiki/Warren_Buffett" title="Warren Buffett">Warren Buffett</a> and <a href="/wiki/Markos_Kounalakis" title="Markos Kounalakis">Markos Kounalakis</a>.<sup id="cite_ref-NYT042202_3-1" class="reference"><a href="#cite_note-NYT042202-3">[3]</a></sup></p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Washington_Monthly&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Monthly01022014-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Monthly01022014_1-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Peters, Charles. <a rel="nofollow" class="external text" href="http://www.washingtonmonthly.com/magazine/january_february_2014/tilting_at_windmills/why_bad_news_should_always_tri048348.php?page=all">"Why bad news should always trickle up ... Polyester and merlot ... The hippest fund-raiser in New York"</a>. <i>Washington Monthly</i> (Jan–Feb 2014)<span class="reference-accessdate">. Retrieved <span class="nowrap">Nov 9,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWashington+Monthly&amp;rft.atitle=Why+bad+news+should+always+trickle+up+...+Polyester+and+merlot+...+The+hippest+fund-raiser+in+New+York&amp;rft.aufirst=Charles&amp;rft.aulast=Peters&amp;rft.genre=article&amp;rft.issue=Jan%E2%80%93Feb+2014&amp;rft.jtitle=Washington+Monthly&amp;rft_id=http%3A%2F%2Fwww.washingtonmonthly.com%2Fmagazine%2Fjanuary_february_2014%2Ftilting_at_windmills%2Fwhy_bad_news_should_always_tri048348.php%3Fpage%3Dall&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Masthead-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Masthead_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.washingtonmonthly.com/inside/staff.html">"Washington Monthly Masthead"</a>. <i>Washington Monthly</i>. 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-01-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWashington+Monthly&amp;rft.btitle=Washington+Monthly+Masthead&amp;rft.date=2010&amp;rft.genre=unknown&amp;rft.pub=%27%27Washington+Monthly%27%27&amp;rft_id=http%3A%2F%2Fwww.washingtonmonthly.com%2Finside%2Fstaff.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-NYT042202-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-NYT042202_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-NYT042202_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Carr, David (April 22, 2002). <a rel="nofollow" class="external text" href="https://www.nytimes.com/2002/04/22/business/media-new-life-for-washington-watchdog.html">"New Life for Washington Watchdog"</a>. <i><a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-06-13</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWashington+Monthly&amp;rft.atitle=New+Life+for+Washington+Watchdog&amp;rft.aufirst=David&amp;rft.aulast=Carr&amp;rft.date=2002-04-22&amp;rft.genre=article&amp;rft.jtitle=The+New+York+Times&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2002%2F04%2F22%2Fbusiness%2Fmedia-new-life-for-washington-watchdog.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-WashingtonPost-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-WashingtonPost_4-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Birnbaum, Jeffrey H. (19 February 2008). <a rel="nofollow" class="external text" href="https://www.washingtonpost.com/wp-dyn/content/story/2008/02/19/ST2008021901252.html">"Common Cause, Washington Monthly Explore a Common Future"</a>. <i><a href="/wiki/Washington_Post" class="mw-redirect" title="Washington Post">Washington Post</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2010-04-30</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWashington+Monthly&amp;rft.atitle=Common+Cause%2C+Washington+Monthly+Explore+a+Common+Future&amp;rft.aufirst=Jeffrey+H.&amp;rft.aulast=Birnbaum&amp;rft.date=2008-02-19&amp;rft.genre=article&amp;rft.jtitle=Washington+Post&amp;rft_id=https%3A%2F%2Fwww.washingtonpost.com%2Fwp-dyn%2Fcontent%2Fstory%2F2008%2F02%2F19%2FST2008021901252.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation news">Calderone, Michael (May 27, 2008). <a rel="nofollow" class="external text" href="http://www.politico.com/blogs/michaelcalderone/0508/Washington_Monthly_not_merging_with_Common_Cause.html">"Washington Monthly not merging with Common Cause"</a>. <a href="/wiki/Politico" title="Politico">Politico</a><span class="reference-accessdate">. Retrieved <span class="nowrap">7 December</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWashington+Monthly&amp;rft.atitle=Washington+Monthly+not+merging+with+Common+Cause&amp;rft.aufirst=Michael&amp;rft.aulast=Calderone&amp;rft.date=2008-05-27&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.politico.com%2Fblogs%2Fmichaelcalderone%2F0508%2FWashington_Monthly_not_merging_with_Common_Cause.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-PoliticsUnspun-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-PoliticsUnspun_6-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://politicsunspun.com/?page_id=165">"Media Bias"</a>. Politics Unspun. 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">Feb 6,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWashington+Monthly&amp;rft.btitle=Media+Bias&amp;rft.date=2016&amp;rft.genre=unknown&amp;rft.pub=Politics+Unspun&amp;rft_id=http%3A%2F%2Fpoliticsunspun.com%2F%3Fpage_id%3D165&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-NYMag122415-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-NYMag122415_7-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Kilgore, Ed (Dec 24, 2015). <a rel="nofollow" class="external text" href="http://nymag.com/daily/intelligencer/2015/12/america-really-moving-left.html#">"Is America Really Moving Left?"</a>. <i>New York</i><span class="reference-accessdate">. Retrieved <span class="nowrap">Feb 6,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWashington+Monthly&amp;rft.atitle=Is+America+Really+Moving+Left%3F&amp;rft.aufirst=Ed&amp;rft.aulast=Kilgore&amp;rft.date=2015-12-24&amp;rft.genre=article&amp;rft.jtitle=New+York&amp;rft_id=http%3A%2F%2Fnymag.com%2Fdaily%2Fintelligencer%2F2015%2F12%2Famerica-really-moving-left.html%23&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Forbes091406-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-Forbes091406_8-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Karlgaard, Rich (Sep 14, 2006). <a rel="nofollow" class="external text" href="https://www.forbes.com/sites/digitalrules/2006/09/14/republicans-for-divided-government/#73b80f0b3ddf">"Republicans For Divided Government"</a>. <i>Forbes</i><span class="reference-accessdate">. Retrieved <span class="nowrap">Feb 6,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWashington+Monthly&amp;rft.atitle=Republicans+For+Divided+Government&amp;rft.aufirst=Rich&amp;rft.aulast=Karlgaard&amp;rft.date=2006-09-14&amp;rft.genre=article&amp;rft.jtitle=Forbes&amp;rft_id=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fdigitalrules%2F2006%2F09%2F14%2Frepublicans-for-divided-government%2F%2373b80f0b3ddf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.washingtonmonthly.com/political-animal/2012_01/and_thats_a_wrap034999.php">"And that's a wrap"</a>. <i>Washington Monthly</i>. January 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-01-31</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWashington+Monthly&amp;rft.btitle=And+that%27s+a+wrap&amp;rft.date=2012-01&amp;rft.genre=unknown&amp;rft.pub=%27%27Washington+Monthly%27%27&amp;rft_id=http%3A%2F%2Fwww.washingtonmonthly.com%2Fpolitical-animal%2F2012_01%2Fand_thats_a_wrap034999.php&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-WaMo112015-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-WaMo112015_10-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Glastris, Paul (Nov 20, 2015). <a rel="nofollow" class="external text" href="http://www.washingtonmonthly.com/political-animal-a/2015_11/ed_kilgore_some_going_away_tho058723.php">"Ed Kilgore: Some Going Away Thoughts"</a>. <i>Washington Monthly</i><span class="reference-accessdate">. Retrieved <span class="nowrap">Feb 6,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWashington+Monthly&amp;rft.atitle=Ed+Kilgore%3A+Some+Going+Away+Thoughts&amp;rft.aufirst=Paul&amp;rft.aulast=Glastris&amp;rft.date=2015-11-20&amp;rft.genre=article&amp;rft.jtitle=Washington+Monthly&amp;rft_id=http%3A%2F%2Fwww.washingtonmonthly.com%2Fpolitical-animal-a%2F2015_11%2Fed_kilgore_some_going_away_tho058723.php&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.washingtonmonthly.com/ten-miles-square/2011/04/welcome_to_ten_miles_square_the_new_washington_monthly_blog028267.php">"Welcome to the New Washingtonmonthly.com"</a>. <i>Washington Monthly</i>. April 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-11-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWashington+Monthly&amp;rft.btitle=Welcome+to+the+New+Washingtonmonthly.com&amp;rft.date=2011-04&amp;rft.genre=unknown&amp;rft.pub=%27%27Washington+Monthly%27%27&amp;rft_id=http%3A%2F%2Fwww.washingtonmonthly.com%2Ften-miles-square%2F2011%2F04%2Fwelcome_to_ten_miles_square_the_new_washington_monthly_blog028267.php&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.washingtonmonthly.com/college_guide/blog/welcome.php">"Welcome"</a>. <i>Washington Monthly</i>. September 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-11-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWashington+Monthly&amp;rft.btitle=Welcome&amp;rft.date=2009-09&amp;rft.genre=unknown&amp;rft.pub=%27%27Washington+Monthly%27%27&amp;rft_id=http%3A%2F%2Fwww.washingtonmonthly.com%2Fcollege_guide%2Fblog%2Fwelcome.php&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.washingtonmonthly.com/college_guide/">Washington Monthly's Annual College Guide</a></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.washingtonmonthly.com/features/2006/0609.collegeguide.html">"The <i>Washington Monthly's</i> Annual College Guide"</a></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.washingtonmonthly.com/college_guide/feature/a_note_on_methodology_1.php">Washington Monthly's Annual College Guide, a note on methodology</a></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation news">Mok, Harry (August 24, 2015). <a rel="nofollow" class="external text" href="http://universityofcalifornia.edu/news/uc-dominates-washington-monthlys-college-rankings">"UC dominates Washington Monthly's college rankings"</a>. University of California<span class="reference-accessdate">. Retrieved <span class="nowrap">7 December</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWashington+Monthly&amp;rft.atitle=UC+dominates+Washington+Monthly%27s+college+rankings&amp;rft.aufirst=Harry&amp;rft.aulast=Mok&amp;rft.date=2015-08-24&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Funiversityofcalifornia.edu%2Fnews%2Fuc-dominates-washington-monthlys-college-rankings&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.washingtonmonthly.com/college_guide/rankings/national_university_rank.php">Washington Monthly College Rankings</a></span></li>
+<li id="cite_note-:1-18"><span class="mw-cite-backlink">^ <a href="#cite_ref-:1_18-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:1_18-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://washingtonmonthly.com/college_guide?ranking=2017-rankings-national-universities">"Washington Monthly's National Universities Rankings"</a>. <i>The Washington Monthly</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-09-13</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWashington+Monthly&amp;rft.atitle=Washington+Monthly%27s+National+Universities+Rankings&amp;rft.genre=unknown&amp;rft.jtitle=The+Washington+Monthly&amp;rft_id=http%3A%2F%2Fwashingtonmonthly.com%2Fcollege_guide%3Franking%3D2017-rankings-national-universities&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-lumina-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-lumina_19-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.luminafoundation.org/luminagrants/washington_monthly_corporation_grant_9079/">"Strategic Media Partners: Washington Monthly Corporation"</a>. Lumina Foundation. 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">Feb 6,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWashington+Monthly&amp;rft.btitle=Strategic+Media+Partners%3A+Washington+Monthly+Corporation&amp;rft.date=2014&amp;rft.genre=unknown&amp;rft.pub=Lumina+Foundation&amp;rft_id=http%3A%2F%2Fwww.luminafoundation.org%2Fluminagrants%2Fwashington_monthly_corporation_grant_9079%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation news">Hagey, Keach (July 1, 2011). <a rel="nofollow" class="external text" href="http://www.politico.com/story/2011/07/liberal-journalisms-fickle-godfather-058180">"Liberal journalism's fickle godfather"</a>. Politico<span class="reference-accessdate">. Retrieved <span class="nowrap">7 December</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWashington+Monthly&amp;rft.atitle=Liberal+journalism%27s+fickle+godfather&amp;rft.aufirst=Keach&amp;rft.aulast=Hagey&amp;rft.date=2011-07-01&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.politico.com%2Fstory%2F2011%2F07%2Fliberal-journalisms-fickle-godfather-058180&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-carnegie-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-carnegie_21-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.carnegie.org/grants/grants-database/grantee/washington-monthly-corporation/#!/grants/grants-database/grant/33702.0/">"Grants Database: Washington Monthly Corporation"</a>. Carnegie Corporation of New York. 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">Feb 6,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWashington+Monthly&amp;rft.btitle=Grants+Database%3A+Washington+Monthly+Corporation&amp;rft.date=2016&amp;rft.genre=unknown&amp;rft.pub=Carnegie+Corporation+of+New+York&amp;rft_id=https%3A%2F%2Fwww.carnegie.org%2Fgrants%2Fgrants-database%2Fgrantee%2Fwashington-monthly-corporation%2F%23%21%2Fgrants%2Fgrants-database%2Fgrant%2F33702.0%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Washington_Monthly&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.washingtonmonthly.com/"><i>Washington Monthly</i> website</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.washingtonmonthly.com/college_guide/rankings-2015/national-universities-rank.php">Washington Monthly National College Rankings</a></li>
+<li><a rel="nofollow" class="external text" href="http://archives.jrn.columbia.edu/nyrm/2008/Features/FeatureLuzer.html">Last Call for the <i>Washington Monthly</i>?</a> <i>New York Review of Magazines</i>, May 2008.</li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="University_ranking_systems" style="padding:3px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:University_ranking_systems" title="Template:University ranking systems"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:University_ranking_systems" title="Template talk:University ranking systems"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:University_ranking_systems&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="University_ranking_systems" style="font-size:114%;margin:0 4em"><a href="/wiki/College_and_university_rankings" title="College and university rankings">University ranking systems</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;text-align: left;">Global</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Academic_Ranking_of_World_Universities" title="Academic Ranking of World Universities">Academic Ranking of World Universities</a></li>
+<li><a href="/wiki/CWTS_Leiden_Ranking" title="CWTS Leiden Ranking">CWTS Leiden Ranking</a></li>
+<li><a href="/wiki/College_and_university_rankings#Global_University_Ranking" title="College and university rankings">Global University Ranking</a></li>
+<li><a href="/wiki/Mines_ParisTech:_Professional_Ranking_of_World_Universities" title="Mines ParisTech: Professional Ranking of World Universities">Mines ParisTech: Professional Ranking of World Universities</a></li>
+<li><a href="/wiki/Performance_Ranking_of_Scientific_Papers_for_World_Universities" title="Performance Ranking of Scientific Papers for World Universities">Performance Ranking of Scientific Papers for World Universities</a></li>
+<li><a href="/wiki/QS_World_University_Rankings" title="QS World University Rankings">QS World University Rankings</a></li>
+<li><a href="/wiki/Round_University_Ranking" title="Round University Ranking">Round University Ranking</a></li>
+<li><a href="/wiki/Times_Higher_Education_World_University_Rankings" title="Times Higher Education World University Rankings">Times Higher Education World University Rankings</a></li>
+<li><a href="/wiki/University_Ranking_by_Academic_Performance" title="University Ranking by Academic Performance">University Ranking by Academic Performance</a></li>
+<li><a href="/wiki/U.S._News_%26_World_Report_Best_Global_University_Ranking" title="U.S. News &amp; World Report Best Global University Ranking">U.S. News &amp; World Report Best Global University Ranking</a></li>
+<li><a href="/wiki/Webometrics_Ranking_of_World_Universities" title="Webometrics Ranking of World Universities">Webometrics Ranking of World Universities</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;text-align: left;">Regional</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/College_and_university_rankings#European_Union" title="College and university rankings">European Union</a></li>
+<li><a href="/wiki/Rankings_of_universities_in_Latin_America" title="Rankings of universities in Latin America">Latin America</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;text-align: left;">National</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_universities_in_Australia#Rankings_of_universities" title="List of universities in Australia">Australia</a>
+<ul>
+<li><small><a href="/wiki/Excellence_in_Research_for_Australia" title="Excellence in Research for Australia">Excellence in Research for Australia</a></small></li>
+</ul>
+</li>
+<li><a href="/wiki/Rankings_of_universities_in_Brazil" title="Rankings of universities in Brazil">Brazil</a></li>
+<li><a href="/wiki/Rankings_of_universities_in_Canada" title="Rankings of universities in Canada">Canada</a>
+<ul>
+<li><small><i><a href="/wiki/Maclean%27s#University_Ranking_Guide" title="Maclean's">Maclean's</a></i></small></li>
+</ul>
+</li>
+<li><a href="/wiki/College_and_university_rankings#China" title="College and university rankings">China</a>
+<ul>
+<li><small><a href="/wiki/Chinese_university_ranking_(Wu_Shulian)" title="Chinese university ranking (Wu Shulian)">Wu Shulian</a></small></li>
+<li><small><a href="/wiki/Chinese_university_ranking_(CUAA)" title="Chinese university ranking (CUAA)">CUAA</a></small></li>
+<li><small><a href="/wiki/Chinese_university_ranking_(Netbig)" title="Chinese university ranking (Netbig)">Netbig</a></small></li>
+</ul>
+</li>
+<li><a href="/wiki/College_and_university_rankings#Germany" title="College and university rankings">Germany</a></li>
+<li><a href="/wiki/National_Institutional_Ranking_Framework" title="National Institutional Ranking Framework">India</a></li>
+<li><a href="/wiki/College_and_university_rankings#Japan" title="College and university rankings">Japan</a>
+<ul>
+<li><small><a href="/wiki/Going_broke_universities_%E2%80%93_Disappearing_universities" title="Going broke universities – Disappearing universities">Going broke universities – Disappearing universities</a></small></li>
+<li><small><a href="/wiki/Truly_Strong_Universities" title="Truly Strong Universities">Truly Strong Universities</a></small></li>
+</ul>
+</li>
+<li><a href="/wiki/Academic_rankings_of_universities_in_Mexico" title="Academic rankings of universities in Mexico">Mexico</a>
+<ul>
+<li><small><a href="/wiki/College_and_university_rankings#Mexico" title="College and university rankings">ECUM</a></small></li>
+</ul>
+</li>
+<li><a href="/wiki/Rankings_of_universities_in_Pakistan" title="Rankings of universities in Pakistan">Pakistan</a></li>
+<li><a href="/wiki/College_and_university_rankings#Russian_Federation" title="College and university rankings">Russia</a></li>
+<li><a href="/wiki/Rankings_of_universities_in_South_Africa" title="Rankings of universities in South Africa">South Africa</a></li>
+<li><a href="/wiki/Rankings_of_universities_in_the_United_Kingdom" title="Rankings of universities in the United Kingdom">United Kingdom</a></li>
+<li><a href="/wiki/Rankings_of_universities_in_the_United_States" title="Rankings of universities in the United States">United States</a>
+<ul>
+<li><small><a href="/wiki/Center_for_Measuring_University_Performance" title="Center for Measuring University Performance">Center for Measuring University Performance</a></small></li>
+<li><small><a href="/wiki/Faculty_Scholarly_Productivity_Index" title="Faculty Scholarly Productivity Index">Faculty Scholarly Productivity Index</a></small></li>
+<li><small><a href="/wiki/The_Princeton_Review#College_admissions" title="The Princeton Review">The Princeton Review</a></small></li>
+<li><small><i><a href="/wiki/U.S._News_%26_World_Report_Best_Colleges_Ranking" title="U.S. News &amp; World Report Best Colleges Ranking">U.S. News &amp; World Report Best Colleges Ranking</a></i></small></li>
+<li><small><i><a href="/wiki/Washington_Monthly#College_rankings" title="Washington Monthly">Washington Monthly</a></i></small></li>
+<li><small><i><a href="/wiki/What_Will_They_Learn%3F" title="What Will They Learn?">What Will They Learn?</a></i></small></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <b><a href="/wiki/Category:University_and_college_rankings" title="Category:University and college rankings">Category</a></b></div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1184
+Cached time: 20171018172600
+Cache expiry: 86400
+Dynamic content: true
+CPU time usage: 0.332 seconds
+Real time usage: 0.431 seconds
+Preprocessor visited node count: 3248/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 54415/2097152 bytes
+Template argument size: 3219/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 0/500
+Lua time usage: 0.130/10.000 seconds
+Lua memory usage: 4.01 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  337.636      1 -total
+ 44.06%  148.769      1 Template:Reflist
+ 29.55%   99.768      1 Template:Infobox_magazine
+ 26.18%   88.405      1 Template:Infobox
+ 22.90%   77.334      9 Template:Cite_news
+ 11.69%   39.479     25 Template:Flagu
+ 11.32%   38.234      8 Template:Cite_web
+  4.86%   16.425      1 Template:University_ranking_systems
+  4.64%   15.673      1 Template:Ifempty
+  4.01%   13.551      5 Template:Flagicon
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:325569-0!canonical and timestamp 20171018172600 and revision id 801161209
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Washington_Monthly&amp;oldid=801161209">https://en.wikipedia.org/w/index.php?title=Washington_Monthly&amp;oldid=801161209</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:American_monthly_magazines" title="Category:American monthly magazines">American monthly magazines</a></li><li><a href="/wiki/Category:Magazines_established_in_1969" title="Category:Magazines established in 1969">Magazines established in 1969</a></li><li><a href="/wiki/Category:American_political_magazines" title="Category:American political magazines">American political magazines</a></li><li><a href="/wiki/Category:Modern_liberal_American_magazines" title="Category:Modern liberal American magazines">Modern liberal American magazines</a></li><li><a href="/wiki/Category:Magazines_published_in_Washington,_D.C." title="Category:Magazines published in Washington, D.C.">Magazines published in Washington, D.C.</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Washington+Monthly" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Washington+Monthly" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Washington_Monthly" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Washington_Monthly" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Washington_Monthly">Read</a></span></li>
+							<li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Washington_Monthly&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Washington_Monthly&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Washington_Monthly" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Washington_Monthly" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Washington_Monthly&amp;oldid=801161209" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Washington_Monthly&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7972062" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Washington_Monthly&amp;id=801161209" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Washington+Monthly">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Washington+Monthly&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Washington_Monthly&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E8%8F%AF%E7%9B%9B%E9%A0%93%E6%9C%88%E5%88%8A" title="華盛頓月刊 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7972062#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 18 September 2017, at 01:13.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Washington_Monthly&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.332","walltime":"0.431","ppvisitednodes":{"value":3248,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":54415,"limit":2097152},"templateargumentsize":{"value":3219,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  337.636      1 -total"," 44.06%  148.769      1 Template:Reflist"," 29.55%   99.768      1 Template:Infobox_magazine"," 26.18%   88.405      1 Template:Infobox"," 22.90%   77.334      9 Template:Cite_news"," 11.69%   39.479     25 Template:Flagu"," 11.32%   38.234      8 Template:Cite_web","  4.86%   16.425      1 Template:University_ranking_systems","  4.64%   15.673      1 Template:Ifempty","  4.01%   13.551      5 Template:Flagicon"]},"scribunto":{"limitreport-timeusage":{"value":"0.130","limit":"10.000"},"limitreport-memusage":{"value":4205352,"limit":52428800}},"cachereport":{"origin":"mw1184","timestamp":"20171018172600","ttl":86400,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":541,"wgHostname":"mw1184"});});</script>
+	</body>
+</html>

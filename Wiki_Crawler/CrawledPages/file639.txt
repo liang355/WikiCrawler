@@ -1,0 +1,1631 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Arnold Arboretum - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Arnold_Arboretum","wgTitle":"Arnold Arboretum","wgCurRevisionId":798128354,"wgRevisionId":798128354,"wgArticleId":1672512,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from June 2017","All articles needing additional references","Coordinates on Wikidata","All articles with unsourced statements","Articles with unsourced statements from June 2013","Pages using div col with small parameter","Arboreta in Massachusetts","Botanical gardens in Massachusetts","Emerald Necklace","Arnold Arboretum","Frederick Law Olmsted works","Harvard University","National Historic Landmarks in Boston","Parks in Boston","1872 establishments in Massachusetts","Landmarks in Boston","National Register of Historic Places in Boston"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Arnold_Arboretum","wgRelevantArticleId":1672512,"wgRequestId":"WeXZ8gpAIDgAADbDjdUAAAAI","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCoordinates":{"lat":42.297777777778,"lon":-71.122777777778},"wgWikibaseItemId":"Q568666","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.3"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Arnold_Arboretum_-_Aug_2005_%28b%29.JPG/1200px-Arnold_Arboretum_-_Aug_2005_%28b%29.JPG"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Arnold_Arboretum"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Arnold_Arboretum&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Arnold_Arboretum&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Arnold_Arboretum"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Arnold_Arboretum rootpage-Arnold_Arboretum vector-experimental-print-styles vector-nav-directionality skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Arnold Arboretum</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Arnold_Arboretum&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(June 2017)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<table class="infobox" style="width:22em;width:250px; border-spacing:1px;">
+<tr>
+<td colspan="2" style="text-align:center;padding:0; border:none;"></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center">
+<div style="width:100%; font-size:105%; font-weight:bold; background: #A8EDEF; line-height:1.5">Arnold Arboretum</div>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center">
+<div style="width:100%; text-align:center; line-height:1.5; background: #A8EDEF;"><a href="/wiki/National_Register_of_Historic_Places" title="National Register of Historic Places">U.S. National Register of Historic Places</a></div>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center">
+<div style="width:100%; text-align:center; line-height:1.4; background: #87CEEB"><a href="/wiki/National_Historic_Landmark" title="National Historic Landmark">U.S. National Historic Landmark</a></div>
+</td>
+</tr>
+<tr style="display:none">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Arnold_Arboretum_-_Aug_2005_(b).JPG" class="image"><img alt="Arnold Arboretum - Aug 2005 (b).JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Arnold_Arboretum_-_Aug_2005_%28b%29.JPG/250px-Arnold_Arboretum_-_Aug_2005_%28b%29.JPG" width="250" height="333" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Arnold_Arboretum_-_Aug_2005_%28b%29.JPG/375px-Arnold_Arboretum_-_Aug_2005_%28b%29.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Arnold_Arboretum_-_Aug_2005_%28b%29.JPG/500px-Arnold_Arboretum_-_Aug_2005_%28b%29.JPG 2x" data-file-width="1920" data-file-height="2560" /></a>
+<div style="font-size:95%;">One of the small ponds within Arnold Arboretum</div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="font-weight:bold; border: 0;">Location</th>
+<td style="border: 0;"><a href="/wiki/Boston,_Massachusetts" class="mw-redirect" title="Boston, Massachusetts">Boston</a>, <a href="/wiki/Massachusetts" title="Massachusetts">Massachusetts</a></td>
+</tr>
+<tr>
+<th scope="row" style="font-weight:bold; border: 0;">Coordinates</th>
+<td style="border: 0;"><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Arnold_Arboretum&amp;params=42_17_52_N_71_7_22_W_type:landmark_region:US"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">42°17′52″N</span> <span class="longitude">71°7′22″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">42.29778°N 71.12278°W</span><span style="display:none">﻿ / <span class="geo">42.29778; -71.12278</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Arnold_Arboretum&amp;params=42_17_52_N_71_7_22_W_type:landmark_region:US"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">42°17′52″N</span> <span class="longitude">71°7′22″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">42.29778°N 71.12278°W</span><span style="display:none">﻿ / <span class="geo">42.29778; -71.12278</span></span></span></a></span></span></span></td>
+</tr>
+<tr>
+<th scope="row" style="font-weight:bold; border: 0;">Area</th>
+<td style="border: 0;">281 acres (114&#160;ha)</td>
+</tr>
+<tr>
+<th scope="row" style="font-weight:bold; border: 0;">Built</th>
+<td style="border: 0;">1872</td>
+</tr>
+<tr>
+<th scope="row" style="font-weight:bold; border: 0;">Architect</th>
+<td style="border: 0;">Frederick Law Olmsted</td>
+</tr>
+<tr>
+<th scope="row" style="font-weight:bold; border: 0;">NRHP&#160;reference&#160;#</th>
+<td style="border: 0;"><a rel="nofollow" class="external text" href="https://npgallery.nps.gov/AssetDetail/NRIS/66000127">66000127</a><sup id="cite_ref-nris_1-0" class="reference"><a href="#cite_note-nris-1">[1]</a></sup></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background: #A8EDEF">Significant dates</th>
+</tr>
+<tr>
+<th scope="row" style="font-weight:bold; border: 0;">Added to NRHP</th>
+<td style="border: 0;">October 15, 1966</td>
+</tr>
+<tr>
+<th scope="row" style="font-weight:bold; border: 0;">Designated&#160;NHL</th>
+<td style="border: 0;">January 12, 1965</td>
+</tr>
+</table>
+<p>The <b>Arnold Arboretum</b> of <a href="/wiki/Harvard_University" title="Harvard University">Harvard University</a> is an <a href="/wiki/Arboretum" title="Arboretum">arboretum</a> located in the <a href="/wiki/Jamaica_Plain,_Massachusetts" class="mw-redirect" title="Jamaica Plain, Massachusetts">Jamaica Plain</a> and <a href="/wiki/Roslindale,_Massachusetts" class="mw-redirect" title="Roslindale, Massachusetts">Roslindale</a> sections of <a href="/wiki/Boston,_Massachusetts" class="mw-redirect" title="Boston, Massachusetts">Boston, Massachusetts</a>. It was designed by <a href="/wiki/Frederick_Law_Olmsted" title="Frederick Law Olmsted">Frederick Law Olmsted</a> and is the second largest "link" in the <a href="/wiki/Emerald_Necklace" title="Emerald Necklace">Emerald Necklace</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Status"><span class="tocnumber">2</span> <span class="toctext">Status</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Location"><span class="tocnumber">3</span> <span class="toctext">Location</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Hours"><span class="tocnumber">4</span> <span class="toctext">Hours</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Area"><span class="tocnumber">5</span> <span class="toctext">Area</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Climate"><span class="tocnumber">6</span> <span class="toctext">Climate</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Collections_.28as_of_February_2011.29"><span class="tocnumber">7</span> <span class="toctext">Collections (as of February 2011)</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Collections_policy"><span class="tocnumber">8</span> <span class="toctext">Collections policy</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Research"><span class="tocnumber">9</span> <span class="toctext">Research</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Plant_records"><span class="tocnumber">10</span> <span class="toctext">Plant records</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Grounds_maintenance"><span class="tocnumber">11</span> <span class="toctext">Grounds maintenance</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Nursery_and_greenhouse_facilities"><span class="tocnumber">12</span> <span class="toctext">Nursery and greenhouse facilities</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Isabella_Welles_Hunnewell_Internship_Program"><span class="tocnumber">13</span> <span class="toctext">Isabella Welles Hunnewell Internship Program</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Horticultural_Apprenticeship"><span class="tocnumber">14</span> <span class="toctext">Horticultural Apprenticeship</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Lilac_Sunday"><span class="tocnumber">15</span> <span class="toctext">Lilac Sunday</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#Associated_collections"><span class="tocnumber">16</span> <span class="toctext">Associated collections</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#Publications"><span class="tocnumber">17</span> <span class="toctext">Publications</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#Institutional_collaborations"><span class="tocnumber">18</span> <span class="toctext">Institutional collaborations</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#See_also"><span class="tocnumber">19</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#References"><span class="tocnumber">20</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="#External_links"><span class="tocnumber">21</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arnold_Arboretum&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:ArnoldArboretum.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b3/ArnoldArboretum.jpg/220px-ArnoldArboretum.jpg" width="220" height="162" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b3/ArnoldArboretum.jpg/330px-ArnoldArboretum.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b3/ArnoldArboretum.jpg/440px-ArnoldArboretum.jpg 2x" data-file-width="1679" data-file-height="1238" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:ArnoldArboretum.jpg" class="internal" title="Enlarge"></a></div>
+Sign at the main gate</div>
+</div>
+</div>
+<p>The Arboretum was founded in 1872 when the President and Fellows of <a href="/wiki/Harvard_College#History" title="Harvard College">Harvard College</a> became trustees of a portion of the estate of James Arnold (1781–1868), a <a href="/wiki/Whaling" title="Whaling">whaling merchant</a> from <a href="/wiki/New_Bedford,_Massachusetts" title="New Bedford, Massachusetts">New Bedford</a>, <a href="/wiki/Massachusetts" title="Massachusetts">Massachusetts</a>.</p>
+<p>In 1842, <a href="/wiki/Benjamin_Bussey" title="Benjamin Bussey">Benjamin Bussey</a> (1757–1842), a prosperous Boston merchant and scientific farmer, donated his country estate <i>Woodland Hill</i> and a part of his fortune to Harvard University "for instruction in <a href="/wiki/Agriculture" title="Agriculture">agriculture</a>, <a href="/wiki/Horticulture" title="Horticulture">horticulture</a>, and related subjects". Bussey had inherited land from fellow patriot <a href="/wiki/Weld_Family" class="mw-redirect" title="Weld Family">Eleazer Weld</a> in 1800 and further enlarged his large estate between 1806 and 1837 by acquiring and consolidating various farms that had been established as early as the seventeenth century. Harvard used this land for the creation of the <a href="/wiki/Bussey_Institute" class="mw-redirect" title="Bussey Institute">Bussey Institute</a>, which was dedicated to agricultural experimentation. The first Bussey Institute building was completed in 1871 and served as headquarters for an <a href="/wiki/Undergraduate" class="mw-redirect" title="Undergraduate">undergraduate</a> school of agriculture.</p>
+<p>Sixteen years after Bussey's death, James Arnold specified that a portion of his estate was to be used for "...the promotion of <a href="/wiki/Agriculture" title="Agriculture">Agricultural</a>, or <a href="/wiki/Horticulture" title="Horticulture">Horticultural</a> improvements". In 1872, when the <a href="/wiki/Trustee" title="Trustee">trustees</a> of the will of James Arnold transferred his estate to Harvard University, Arnold’s gift was combined with 120 acres (0.49&#160;km<sup>2</sup>) of the former Bussey estate to create the Arnold Arboretum. In the deed of trust between the Arnold trustees and the College, income from Arnold’s legacy was to be used for establishing, developing and maintaining an arboretum to be known as the Arnold Arboretum, which "shall contain, as far as practicable, all the trees [and] shrubs ... either indigenous or exotic, which can be raised in the open air of <a href="/wiki/West_Roxbury" title="West Roxbury">West Roxbury</a>". The historical mission of the Arnold Arboretum is to increase knowledge of woody plants through research and to disseminate this knowledge through education.</p>
+<p>In 1872 <a href="/wiki/Charles_Sprague_Sargent" title="Charles Sprague Sargent">Charles Sprague Sargent</a> was appointed director and Arnold Professor of <a href="/wiki/Botany" title="Botany">Botany</a> shortly after the establishment of the institution.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Together with the landscape architect <a href="/wiki/Frederick_Law_Olmsted" title="Frederick Law Olmsted">Frederick Law Olmsted</a>, he developed the road and pathway system and delineated the collection areas by <a href="/wiki/Scientific_classification" class="mw-redirect" title="Scientific classification">family</a> and <a href="/wiki/Genus" title="Genus">genus</a>, following the then-current and widely accepted classification system of <a href="/wiki/George_Bentham" title="George Bentham">Bentham</a> and <a href="/wiki/William_Jackson_Hooker" title="William Jackson Hooker">Hooker</a>. The Hunnewell building was designed by architect <a href="/wiki/Alexander_Wadsworth_Longfellow,_Jr." class="mw-redirect" title="Alexander Wadsworth Longfellow, Jr.">Alexander Wadsworth Longfellow, Jr.</a> in 1892 and constructed with funds donated by <a href="/wiki/H._H._Hunnewell" title="H. H. Hunnewell">H. H. Hunnewell</a> in 1903.</p>
+<p>From 1946 to 1950 the landscape architect <a href="/wiki/Beatrix_Farrand" title="Beatrix Farrand">Beatrix Farrand</a> was the landscape design consultant for the Arboretum. Her early training in the 1890s included time with Charles Sprague Sargent and Jackson Thornton Johnson, the chief propagator and superintendent .<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Today the Arboretum occupies 281 acres (114&#160;<a href="/wiki/Hectare" title="Hectare">ha</a>) of land divided between four parcels, viz. the main Arboretum and the Peters Hill, Weld-Walter and South Street tracts. The collections are located primarily in the main Arboretum and on the Peters Hill tract. The Arboretum remains one of the finest examples of a landscape designed by Frederick Law Olmsted. It is known as the <a href="/wiki/Frederick_Law_Olmsted_National_Historic_Site" title="Frederick Law Olmsted National Historic Site">Frederick Law Olmsted National Historic Site</a> and has been designated as a <a href="/wiki/National_Historic_Landmark" title="National Historic Landmark">National Historic Landmark</a>.</p>
+<p>Dr. Ned Friedman is the eighth and current Director of the Arnold Arboretum. He is also the Arnold Professor of Organismic and Evolutionary Biology at Harvard University.</p>
+<h2><span class="mw-headline" id="Status">Status</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arnold_Arboretum&amp;action=edit&amp;section=2" title="Edit section: Status">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Arnold_Arboretum_-_Aug_2005_(a).JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/Arnold_Arboretum_-_Aug_2005_%28a%29.JPG/220px-Arnold_Arboretum_-_Aug_2005_%28a%29.JPG" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/Arnold_Arboretum_-_Aug_2005_%28a%29.JPG/330px-Arnold_Arboretum_-_Aug_2005_%28a%29.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/13/Arnold_Arboretum_-_Aug_2005_%28a%29.JPG/440px-Arnold_Arboretum_-_Aug_2005_%28a%29.JPG 2x" data-file-width="2560" data-file-height="1920" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Arnold_Arboretum_-_Aug_2005_(a).JPG" class="internal" title="Enlarge"></a></div>
+General view of Arnold Arboretum</div>
+</div>
+</div>
+<p>The Arboretum is privately endowed as a department of Harvard University. The land was deeded to the City of Boston in 1882 and incorporated into the so-called "<a href="/wiki/Emerald_Necklace" title="Emerald Necklace">Emerald Necklace</a>". Under the agreement with the City, Harvard University was given a thousand-year lease on the property, and the University, as trustee, is directly responsible for the development, maintenance, and operation of the Arboretum; the City retains responsibility for water fountains, benches, roads, boundaries, and policing. The annual operating budget of $7,350,644 (fiscal year 2003) is largely derived from the endowment, which is also managed by the University. All Arboretum staff are University employees. Other income is obtained through granting agencies and contributors.</p>
+<h2><span class="mw-headline" id="Location">Location</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arnold_Arboretum&amp;action=edit&amp;section=3" title="Edit section: Location">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The main Arborway gate is located on Route 203 a few hundred yards south of its junction with the Jamaicaway. Public transportation to the Arboretum is available on the <a href="/wiki/Massachusetts_Bay_Transportation_Authority" title="Massachusetts Bay Transportation Authority">MBTA</a> <a href="/wiki/Orange_Line_(MBTA)" title="Orange Line (MBTA)">Orange Line</a> to its terminus at <a href="/wiki/Forest_Hills_(MBTA_station)" title="Forest Hills (MBTA station)">Forest Hills Station</a> and by bus (<a href="/wiki/Green_Line_%22E%22_Branch" title="Green Line &quot;E&quot; Branch">#39</a>) to the Monument in Jamaica Plain. The Arboretum is within easy walking distance from either of these points. The Arboretum's southwest gate is very close to the turn between Weld and Walter Streets on the <a href="/wiki/51_(MBTA_bus)" class="mw-redirect" title="51 (MBTA bus)">#51 bus line</a> between Cleveland Circle/Reservoir and Forest Hills. The Centre Street entrance, across from Whitcomb Ave and Westchester Road, is served by the <a href="/wiki/38_(MBTA_bus)" class="mw-redirect" title="38 (MBTA bus)">#38 bus</a>.</p>
+<h2><span class="mw-headline" id="Hours">Hours</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arnold_Arboretum&amp;action=edit&amp;section=4" title="Edit section: Hours">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Arboretum_Headquarters.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Arboretum_Headquarters.JPG/220px-Arboretum_Headquarters.JPG" width="220" height="144" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Arboretum_Headquarters.JPG/330px-Arboretum_Headquarters.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/18/Arboretum_Headquarters.JPG/440px-Arboretum_Headquarters.JPG 2x" data-file-width="750" data-file-height="492" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Arboretum_Headquarters.JPG" class="internal" title="Enlarge"></a></div>
+Hunnewell Building, Arnold Arboretum</div>
+</div>
+</div>
+<p>The grounds are open free of charge to the public from sunrise to sunset 365 days of the year. The Visitor's Center in the Hunnewell Building, 125 Arborway, is open November through March, noon-4:00pm; April through October, 11:00am–6:00pm; closed Wednesdays. The Visitor’s Center is closed on holidays. The Library, located in the Hunnewell Building, is open Monday through Friday, 10:00am–3:45pm. The Library is closed on Sundays and holidays.</p>
+<h2><span class="mw-headline" id="Area">Area</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arnold_Arboretum&amp;action=edit&amp;section=5" title="Edit section: Area">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Two hundred and eighty one acres in the Jamaica Plain and Roslindale sections of Boston, Massachusetts, located at <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Arnold_Arboretum&amp;params=42_19_N_71_5_W_"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">42°19′N</span> <span class="longitude">71°5′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">42.317°N 71.083°W</span><span style="display:none">﻿ / <span class="geo">42.317; -71.083</span></span></span></a></span>, with altitudes ranging from 46 feet (15 m) in the meadow across the drive from the Hunnewell Building to 240 feet (79 m) at the top of Peters Hill.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (June 2013)">citation needed</span></a></i>]</sup> In 1938, the total area was given as 265 acres, a figure that was reported for decades until being corrected.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> The correct area is 281 acres.</p>
+<h2><span class="mw-headline" id="Climate">Climate</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arnold_Arboretum&amp;action=edit&amp;section=6" title="Edit section: Climate">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Average yearly rainfall is 43.63&#160;inches (1,102&#160;mm); average snowfall, 40.2&#160;inches (102 centimeters). Monthly mean temperature is 51.5 °F (10.8 °C); July's mean temperature is 73.5 °F (23 °C); January's is 29.6 °F (-1.3 °C). The Arboretum is located in USDA hardiness zone 6b (0 to −5 °F, −18 to −21 °C).</p>
+<h2><span id="Collections_(as_of_February_2011)"></span><span class="mw-headline" id="Collections_.28as_of_February_2011.29">Collections (as of February 2011)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arnold_Arboretum&amp;action=edit&amp;section=7" title="Edit section: Collections (as of February 2011)">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>At present, the living collections include 14,980 individual plants (including nursery holdings) belonging to 10,117 accessions representing 3,924 taxa; with particular emphasis on the <a href="/wiki/Woody_plant" title="Woody plant">ligneous</a> species of <a href="/wiki/North_America" title="North America">North America</a> and eastern <a href="/wiki/Asia" title="Asia">Asia</a>. Historic collections include the plant introductions from eastern Asia made by <a href="/wiki/Charles_Sprague_Sargent" title="Charles Sprague Sargent">Charles Sprague Sargent</a>, <a href="/wiki/Ernest_Henry_Wilson" title="Ernest Henry Wilson">Ernest Henry Wilson</a>, <a href="/wiki/William_Purdom" title="William Purdom">William Purdom</a>, <a href="/wiki/Joseph_Hers" title="Joseph Hers">Joseph Hers</a>, and <a href="/wiki/Joseph_Rock" title="Joseph Rock">Joseph Rock</a>. Recent introductions from Asia have resulted from the 1977 Arnold Arboretum Expedition to <a href="/wiki/Japan" title="Japan">Japan</a> and <a href="/wiki/Korea" title="Korea">Korea</a>, the 1980 Sino-American Botanical Expedition to western <a href="/wiki/Hubei_Province" class="mw-redirect" title="Hubei Province">Hubei Province</a>, and more recent expeditions to <a href="/wiki/People%27s_Republic_of_China" class="mw-redirect" title="People's Republic of China">China</a> and <a href="/wiki/Taiwan" title="Taiwan">Taiwan</a>.</p>
+<p>Comprehensive collections are maintained and augmented for most genera, and genera that have received particular emphasis include: <i><a href="/wiki/Acer_(genus)" class="mw-redirect" title="Acer (genus)">Acer</a></i>, <i><a href="/wiki/Beech" title="Beech">Fagus</a></i>, <i><a href="/wiki/Carya" class="mw-redirect" title="Carya">Carya</a></i>, <i><a href="/wiki/Forsythia" title="Forsythia">Forsythia</a></i>, <i><a href="/wiki/Taxodium" title="Taxodium">Taxodium</a></i>, <i><a href="/wiki/Pinus" class="mw-redirect" title="Pinus">Pinus</a></i>, <i><a href="/wiki/Metasequoia" title="Metasequoia">Metasequoia</a></i>, <i><a href="/wiki/Lonicera" class="mw-redirect" title="Lonicera">Lonicera</a></i>, <i><a href="/wiki/Magnolia" title="Magnolia">Magnolia</a></i>, <i><a href="/wiki/Malus" title="Malus">Malus</a></i>, <i><a href="/wiki/Quercus" class="mw-redirect" title="Quercus">Quercus</a></i>, <i><a href="/wiki/Rhododendron" title="Rhododendron">Rhododendron</a></i>, <i><a href="/wiki/Syringa" title="Syringa">Syringa</a></i>, <i><a href="/wiki/Paulownia" title="Paulownia">Paulownia</a></i>, <i><a href="/wiki/Albizia" title="Albizia">Albizia</a></i>, <i><a href="/wiki/Ilex" class="mw-redirect" title="Ilex">Ilex</a></i>, <i><a href="/wiki/Gleditsia" title="Gleditsia">Gleditsia</a></i> and <i><a href="/wiki/Tsuga" title="Tsuga">Tsuga</a></i>. Other comprehensive collections include the Bradley Collection of <a href="/wiki/Rose" title="Rose">Rosaceous Plants</a>, the collection of <a href="/wiki/Conifer" class="mw-redirect" title="Conifer">conifers</a> and dwarf conifers, and the <a href="/wiki/Larz_Anderson_Bonsai_Collection" title="Larz Anderson Bonsai Collection">Larz Anderson Bonsai Collection</a>. Approximately 500 accessions are processed annually.</p>
+<h2><span class="mw-headline" id="Collections_policy">Collections policy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arnold_Arboretum&amp;action=edit&amp;section=8" title="Edit section: Collections policy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:172px;"><a href="/wiki/File:ArnoldArboretumBirch20040415-01s.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/ArnoldArboretumBirch20040415-01s.jpg/170px-ArnoldArboretumBirch20040415-01s.jpg" width="170" height="227" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/ArnoldArboretumBirch20040415-01s.jpg/255px-ArnoldArboretumBirch20040415-01s.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/1/14/ArnoldArboretumBirch20040415-01s.jpg 2x" data-file-width="320" data-file-height="427" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:ArnoldArboretumBirch20040415-01s.jpg" class="internal" title="Enlarge"></a></div>
+A <a href="/wiki/Birch" title="Birch">birch</a> tree in early spring</div>
+</div>
+</div>
+<p>The mission of the Arnold Arboretum is to increase knowledge of the <a href="/wiki/Evolution" title="Evolution">evolution</a> and biology of woody plants. Historically, this research has investigated the global distribution and evolutionary history of trees, shrubs and vines, with particular emphasis on the disjunct species of <a href="/wiki/East_Asia" title="East Asia">East Asia</a> and North America. Today this work continues through molecular studies of the evolution and bio-geography of the floras of temperate Asia, North America and <a href="/wiki/Europe" title="Europe">Europe</a>.</p>
+<p>Research activities include molecular studies of gene evolution, investigations of plant-water relations, and the monitoring of plant phenology, vegetation succession, nutrient cycling and other factors that inform studies of environmental change. Applied work in horticulture uses the collections for studies in plant propagation, plant introduction, and environmental management. This diversity of scientific investigation is founded in a continuing commitment to acquire, grow, and document the recognized species and infraspecific <a href="/wiki/Taxa" class="mw-redirect" title="Taxa">taxa</a> of <a href="/wiki/Woody_plant" title="Woody plant">ligneous plants</a> of the <a href="/wiki/Northern_Hemisphere" title="Northern Hemisphere">Northern Hemisphere</a> that are able to withstand the climate of the Arboretum’s 281-acre (1.14&#160;km<sup>2</sup>) Jamaica Plain/Roslindale site.</p>
+<p>As a primary resource for research in plant biology, the Arboretum’s living collections are developed, curated, and managed to support scientific investigation and study. To this end, acquisition policies place priority on obtaining plants that are genetically representative of documented wild populations. For each taxon, the Arnold Arboretum aspires to grow multiple accessions of known wild provenance in order to represent significant variation that may occur across the geographic range of the species. Accessions of garden or cultivated provenance are also acquired as governed by the collections policies herein.</p>
+<p>For all specimens, full documentation of both provenance and history within the collection is a critical priority. Curatorial procedures provide for complete and accurate records for each accession, and document original provenance, locations in the collections, and changes in botanical identity. <a href="/wiki/Herbarium" title="Herbarium">Herbarium</a> specimens, <a href="/wiki/DNA" title="DNA">DNA</a> materials, and <a href="/wiki/Digital_images" class="mw-redirect" title="Digital images">digital images</a> are gathered for the collection and maintained in Arboretum data systems and the herbarium at the Roslindale site.</p>
+<h2><span class="mw-headline" id="Research">Research</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arnold_Arboretum&amp;action=edit&amp;section=9" title="Edit section: Research">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Research on plant pathology and integrated pest management for maintenance of the living collections is constantly ongoing. Herbarium-based research focuses on the systematics and biodiversity of both temperate and tropical Asian forests, as well as the ecology and potential for sustainable use of their resources. The Arboretum's education programs offer school groups and the general public a wide range of lectures, courses, and walks focusing on the ecology and cultivation of plants. Its quarterly magazine, <a rel="nofollow" class="external text" href="https://web.archive.org/web/20091007133215/http://arnoldia.arboretum.harvard.edu/static/home"><i>Arnoldia</i></a>, provides in-depth information on horticulture, botany, and garden history. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20051228104826/http://www.arboretum.harvard.edu/research/research.html">Current Research Initiatives</a></p>
+<h2><span class="mw-headline" id="Plant_records">Plant records</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arnold_Arboretum&amp;action=edit&amp;section=10" title="Edit section: Plant records">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Plant records are maintained on a computerized database, <i>BG-BASE</i> 6.8 (<a rel="nofollow" class="external text" href="http://rbg-web2.rbge.org.uk/BG-BASE/welcome.htm#top"><i>BG-BASE</i> Inc.</a>), which was initiated in 1985 at the request of the Arnold Arboretum and the Threatened Plants Unit (TPU) of the World Conservation Monitoring Centre (<a rel="nofollow" class="external text" href="http://www.unep-wcmc.org/">WCMC</a>). Currently the Arboretum utilizes a suite of <a rel="nofollow" class="external text" href="http://www.esri.com/">ESRI</a> Desktop and Mobile <a rel="nofollow" class="external text" href="http://www.gis.com/">GIS</a> software applications to manage, analyze, query, capture, manipulate, and display geographic information. A computer-driven embosser generates records labels. All accessioned plants in the collections are labeled with accession number, botanical name, and <a href="/wiki/Cultivar" title="Cultivar">cultivar</a> name (when appropriate), source information, common name, and map location. Trunk and/or display labels are also hung on many accessions and include botanical and common names and nativity. Stake labels are used to identify plants located in the Leventritt Garden and Chinese Path.</p>
+<h2><span class="mw-headline" id="Grounds_maintenance">Grounds maintenance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arnold_Arboretum&amp;action=edit&amp;section=11" title="Edit section: Grounds maintenance">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The grounds staff consists of the manager of horticulture, three <a href="/wiki/Arborists" class="mw-redirect" title="Arborists">arborists</a>, ten horticultural technologists, a foreman, and a gardener. During the summer months ten horticultural interns supplement the grounds staff. A wide array of vehicles and modern equipment, including an aerial lift truck and a <a href="/wiki/John_Deere" title="John Deere">John Deere</a> backhoe and front loader, are used in grounds maintenance. Permanent grounds staff, excluding the manager, are members of <a href="/wiki/AFL/CIO" class="mw-redirect" title="AFL/CIO">AFL/CIO</a> Local 615, Service Employees International Union (<a rel="nofollow" class="external text" href="http://www.seiu.org/">SEIU</a>).</p>
+<h2><span class="mw-headline" id="Nursery_and_greenhouse_facilities">Nursery and greenhouse facilities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arnold_Arboretum&amp;action=edit&amp;section=12" title="Edit section: Nursery and greenhouse facilities">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <a rel="nofollow" class="external text" href="http://arboretum.harvard.edu/plants/collections-management/propagation-distribution/">Dana Greenhouses</a>, located at 1050 Centre Street (with a mailing address of 125 Arborway), were completed in 1962. They comprise four service <a href="/wiki/Greenhouse" title="Greenhouse">greenhouses</a> totaling 3,744 square feet (348 m²), the headhouse with offices, cold rooms, storage areas, and a classroom. Staffing at the greenhouse includes the manager of greenhouses and nurseries, the plant propagator, two assistants, and, during the summer months, two horticultural interns. Adjacent to the greenhouse is a shade house of 3,150 square feet (293 m²), a 12,600 cubic foot (357 m³) cold storage facility, and three irrigated, inground nurseries totaling approximately one and one-half acres (6,000 m²). Also located in the greenhouse complex is the bonsai pavilion, where the <a href="/wiki/Larz_Anderson_Bonsai_Collection" title="Larz Anderson Bonsai Collection">Larz Anderson Bonsai Collection</a> is displayed from the middle of April to the end of October. During the winter months the bonsai are held in the cold storage unit at temperatures slightly above freezing.</p>
+<h2><span class="mw-headline" id="Isabella_Welles_Hunnewell_Internship_Program">Isabella Welles Hunnewell Internship Program</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arnold_Arboretum&amp;action=edit&amp;section=13" title="Edit section: Isabella Welles Hunnewell Internship Program">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:172px;"><a href="/wiki/File:Arnold_Arboretum_-_Aug_2005_(c).JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Arnold_Arboretum_-_Aug_2005_%28c%29.JPG/170px-Arnold_Arboretum_-_Aug_2005_%28c%29.JPG" width="170" height="227" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Arnold_Arboretum_-_Aug_2005_%28c%29.JPG/255px-Arnold_Arboretum_-_Aug_2005_%28c%29.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/76/Arnold_Arboretum_-_Aug_2005_%28c%29.JPG/340px-Arnold_Arboretum_-_Aug_2005_%28c%29.JPG 2x" data-file-width="1920" data-file-height="2560" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Arnold_Arboretum_-_Aug_2005_(c).JPG" class="internal" title="Enlarge"></a></div>
+General view of Arnold Arboretum</div>
+</div>
+</div>
+<p>The Living Collections Department of the Arnold Arboretum offers a paid summer internship Program <sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> that combines hands-on training in horticulture with educational courses. Intern trainees will be accepted for 12- to 24-week appointments. Ten interns will work with the grounds maintenance department and two in the Dana Greenhouses.</p>
+<p>The Program supports the educational and horticultural missions of the Arnold Arboretum by providing students in the plant sciences with on-the-job training during the summer months. Interns work directly with the Arboretum's historic landscape and world-renowned scientific collection, gaining practical experience in public horticulture, collections and landscape management, and the arboreal sciences. Working alongside Arboretum staff, interns receive valuable mentoring opportunities and engage in a formal program of instruction, both in the classroom and in the field. A series of field trips scheduled throughout their summer experience offers participants valuable networking opportunities and exposure to the operations of many other botanical institutions. Fundamentally, the program provides essential support to horticulture staff in caring for the Arboretum's 281-acre landscape and living collection of more than 15,000 woody plants. The program helps identify exceptional talent, and many interns extend their terms through apprenticeships, fellowships, and full-time positions.</p>
+<p>As part of the Program, interns participate in mandatory instructional sessions and field trips in order to develop a broader sense of the Arboretum’s horticultural practices as well as those of other institutions. Sessions and field trips are led by Arnold staff members and embrace an open question and answer format encouraging all to participate. Interns often bring experience and knowledge that everyone, including staff, benefits from. It is a competitive-free learning environment.</p>
+<p>The Hunnewell Internship Program was endowed in 2003 by the descendants of <a href="/wiki/H._H._Hunnewell" title="H. H. Hunnewell">H. H. Hunnewell</a> and his wife, Isabella Pratt Welles Hunnewell, for whom the Program is named. The Program honors the longtime commitment of the Hunnewell family to both the Arnold Arboretum and to the advancement of botanical science and horticulture. <a href="/wiki/H._H._Hunnewell" title="H. H. Hunnewell">H. H. Hunnewell</a> was a distant cousin and friend of <a href="/wiki/Charles_Sprague_Sargent" title="Charles Sprague Sargent">Charles Sprague Sargent</a>, and Hunnewell and Sargent advised and helped each other on the creation of the Arnold Arboretum and Hunnewell's <a href="/wiki/H.H._Hunnewell_Estate" class="mw-redirect" title="H.H. Hunnewell Estate">estate</a> in Wellesley, respectively.</p>
+<h2><span class="mw-headline" id="Horticultural_Apprenticeship">Horticultural Apprenticeship</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arnold_Arboretum&amp;action=edit&amp;section=14" title="Edit section: Horticultural Apprenticeship">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Arboretum created the horticultural apprenticeship program in 1997 to provide hands-on experience in all aspects of the development, curation, and maintenance of the Arboretum's living collections to individuals interested in pursuing a career in an arboretum or botanical garden.</p>
+<h2><span class="mw-headline" id="Lilac_Sunday">Lilac Sunday</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arnold_Arboretum&amp;action=edit&amp;section=15" title="Edit section: Lilac Sunday">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a href="/wiki/File:Lilac_Sunday_2014,_Arnold_Arboretum,_Jamaica_Plain_MA.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Lilac_Sunday_2014%2C_Arnold_Arboretum%2C_Jamaica_Plain_MA.jpg/250px-Lilac_Sunday_2014%2C_Arnold_Arboretum%2C_Jamaica_Plain_MA.jpg" width="250" height="188" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Lilac_Sunday_2014%2C_Arnold_Arboretum%2C_Jamaica_Plain_MA.jpg/375px-Lilac_Sunday_2014%2C_Arnold_Arboretum%2C_Jamaica_Plain_MA.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Lilac_Sunday_2014%2C_Arnold_Arboretum%2C_Jamaica_Plain_MA.jpg/500px-Lilac_Sunday_2014%2C_Arnold_Arboretum%2C_Jamaica_Plain_MA.jpg 2x" data-file-width="3264" data-file-height="2448" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Lilac_Sunday_2014,_Arnold_Arboretum,_Jamaica_Plain_MA.jpg" class="internal" title="Enlarge"></a></div>
+<center>Lilac Sunday</center>
+</div>
+</div>
+</div>
+<p>The second Sunday in May every year is "<a href="/wiki/Lilac" class="mw-redirect" title="Lilac">Lilac</a> Sunday". This is the only day of the year that <a href="/wiki/Picnic" title="Picnic">picnicking</a> is allowed. In 2008, on the 100th anniversary of <a rel="nofollow" class="external text" href="http://arboretum.harvard.edu/news-events/lilac-sunday/">Lilac Sunday</a>, the Arboretum website touted:</p>
+<blockquote>
+<p>Of the thousands of flowering plants in the Arboretum, only one, the lilac, is singled out each year for a daylong celebration. On Lilac Sunday, garden enthusiasts from all over New England gather at the Arboretum to picnic and tour the lilac collection. On the day of the event, which takes place rain or shine, the Arboretum is open as usual from dawn to dusk.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></p>
+</blockquote>
+<h2><span class="mw-headline" id="Associated_collections">Associated collections</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arnold_Arboretum&amp;action=edit&amp;section=16" title="Edit section: Associated collections">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Arboretum's herbarium in <a href="/wiki/Jamaica_Plain" title="Jamaica Plain">Jamaica Plain</a> holds specimens of cultivated plants that relate to the living collections (ca. 160,000). The Jamaica Plain herbarium, horticultural library, archives, and photographs are maintained in the Hunnewell building at 125 Arborway; however, the main portions of the herbarium and library collections are housed in Cambridge on the campus of <a href="/wiki/Harvard_University" title="Harvard University">Harvard University</a>, at 22 Divinity Avenue.</p>
+<h2><span class="mw-headline" id="Publications">Publications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arnold_Arboretum&amp;action=edit&amp;section=17" title="Edit section: Publications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The inventory of living collections is updated periodically and made available to sister botanical gardens and arboreta on request; it is also available on the Arboretum’s website (<a rel="nofollow" class="external text" href="http://www.arboretum.harvard.edu/plants/inventory.html">searchable inventory</a>). <i><a rel="nofollow" class="external text" href="https://web.archive.org/web/20091007133215/http://arnoldia.arboretum.harvard.edu/static/home">Arnoldia</a></i>, the quarterly magazine of the Arnold Arboretum, frequently publishes articles relating to the living collections. Publication of a journal targeting more scientific audience, <i>Journal of the Arnold Arboretum</i>, established in 1919, was suspended in 1990,<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> when it was incorporated into <i><a href="/wiki/Harvard_Papers_in_Botany" title="Harvard Papers in Botany">Harvard Papers in Botany</a></i> (HPB).<sup id="cite_ref-About_HPB_8-0" class="reference"><a href="#cite_note-About_HPB-8">[8]</a></sup> The 71 volumes are available online at the <a href="/wiki/Biodiversity_Heritage_Library" title="Biodiversity Heritage Library">Biodiversity Heritage Library</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></p>
+<p><a rel="nofollow" class="external text" href="http://www.hup.harvard.edu/catalog.php?isbn=9780674766945"><i>A Reunion of Trees</i></a><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> by Stephen A. Spongberg (curator emeritus) recounts the history of the introduction of many of the exotic species included in the Arobretum’s collections. <i>New England Natives</i><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> written by horticultural research archivist <a rel="nofollow" class="external text" href="https://archive.is/20121210214742/http://arboretum.harvard.edu/about/staff/sheila-connor/">Sheila Connor</a> describes many of the trees and shrubs of the New England flora and the ways New Englanders have used them since prehistoric times. <a rel="nofollow" class="external text" href="http://worid-of-books.com/?id=TO7aAAAAMAAJ"><i>Science in the Pleasure Ground</i></a><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> by Ida Hay (former curatorial associate) constitutes an institutional biography of the Arboretum.</p>
+<h2><span class="mw-headline" id="Institutional_collaborations">Institutional collaborations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arnold_Arboretum&amp;action=edit&amp;section=18" title="Edit section: Institutional collaborations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Arboretum maintains an institutional membership in the American Public Garden Association (<a rel="nofollow" class="external text" href="http://www.aabga.org/">APGA</a>), Botanic Gardens Conservation International (<a rel="nofollow" class="external text" href="http://www.bgci.org/usa">BGCI</a>), and the International Association of Botanical Gardens and Arboreta. Additionally, members of the staff are associated with many national and international botanical and horticultural organizations. The Arboretum is also a cooperating institution with the Center for Plant Conservation (<a rel="nofollow" class="external text" href="http://www.centerforplantconservation.org/">CPC</a>), and as an active member of the North American Plant Collections Consortium (<a rel="nofollow" class="external text" href="https://web.archive.org/web/20110219214205/http://www.publicgardens.org/content/what-napcc">NAPCC</a>), it is committed to broadening and maintaining its holdings of: <i><a href="/wiki/Maple" title="Maple">Acer</a></i>, <i><a href="/wiki/Carya" class="mw-redirect" title="Carya">Carya</a></i>, <i><a href="/wiki/Beech" title="Beech">Fagus</a></i>, <i>Stewartia</i>, <i><a href="/wiki/Syringa" title="Syringa">Syringa</a></i>, and <i><a href="/wiki/Tsuga" title="Tsuga">Tsuga</a></i> for the purposes of plant conservation, evaluation, and research. The Arboretum is also a member of the North American China Plant Exploration Consortium (NACPEC).</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arnold_Arboretum&amp;action=edit&amp;section=19" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:France_Loiret_La_Bussiere_Potager_05.jpg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/France_Loiret_La_Bussiere_Potager_05.jpg/32px-France_Loiret_La_Bussiere_Potager_05.jpg" width="32" height="22" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/France_Loiret_La_Bussiere_Potager_05.jpg/48px-France_Loiret_La_Bussiere_Potager_05.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f0/France_Loiret_La_Bussiere_Potager_05.jpg/64px-France_Loiret_La_Bussiere_Potager_05.jpg 2x" data-file-width="3294" data-file-height="2227" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Gardening" title="Portal:Gardening">Gardening portal</a></span></li>
+</ul>
+</div>
+<div class="div-col columns column-width" style="-moz-column-width: 20em; -webkit-column-width: 20em; column-width: 20em; font-size:90%;">
+<ul>
+<li><a href="/wiki/Case_Estates" title="Case Estates">The Case Estates of the Arnold Arboretum</a></li>
+<li><a href="/wiki/Boston_Architectural_College#The_Landscape_Institute_.28LI.29_at_the_Boston_Architectural_College" title="Boston Architectural College">The Landscape Institute at the BAC</a> (formerly operated by the Arnold Arboretum, and before that by <a href="/wiki/Radcliffe_College" title="Radcliffe College">Radcliffe College</a>)</li>
+<li><a href="/wiki/Larz_Anderson_Bonsai_Collection" title="Larz Anderson Bonsai Collection">Larz Anderson Bonsai Collection</a>, donated by businessman and <a href="/wiki/Ambassador" title="Ambassador">ambassador</a> <a href="/wiki/Larz_Anderson" title="Larz Anderson">Larz Anderson</a></li>
+<li><a href="/wiki/List_of_botanical_gardens_in_the_United_States" class="mw-redirect" title="List of botanical gardens in the United States">List of botanical gardens in the United States</a></li>
+<li><a href="/wiki/List_of_National_Historic_Landmarks_in_Boston" title="List of National Historic Landmarks in Boston">List of National Historic Landmarks in Boston</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_southern_Boston,_Massachusetts" class="mw-redirect" title="National Register of Historic Places listings in southern Boston, Massachusetts">National Register of Historic Places listings in southern Boston, Massachusetts</a></li>
+<li><a href="/wiki/North_American_Plant_Collections_Consortium" class="mw-redirect" title="North American Plant Collections Consortium">North American Plant Collections Consortium</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arnold_Arboretum&amp;action=edit&amp;section=20" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-nris-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-nris_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a href="/wiki/National_Park_Service" title="National Park Service">National Park Service</a> (2007-01-23). <a rel="nofollow" class="external text" href="http://nrhp.focus.nps.gov/natreg/docs/All_Data.html">"National Register Information System"</a>. <i>National Register of Historic Places</i>. National Park Service.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArnold+Arboretum&amp;rft.atitle=National+Register+Information+System&amp;rft.au=National+Park+Service&amp;rft.date=2007-01-23&amp;rft.genre=unknown&amp;rft.jtitle=National+Register+of+Historic+Places&amp;rft_id=http%3A%2F%2Fnrhp.focus.nps.gov%2Fnatreg%2Fdocs%2FAll_Data.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">* <cite class="citation journal">Bullard, F. Lauriston (April 1911). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=Zm0AAAAAYAAJ&amp;pg=PA14147">"A Museum Of Living Trees: The Arnold Arboretum, Of Harvard University, Which Is Gather Every Tree And Shrub In The World That Will Grow In The Latitude Of Boston, The Daring Work Of Its Explorers In Western China And Tibet"</a>. <i><a href="/wiki/World%27s_Work" class="mw-redirect" title="World's Work">The World's Work: A History of Our Time</a></i>. <b>XXI</b>: 14147–14158<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-07-10</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArnold+Arboretum&amp;rft.atitle=A+Museum+Of+Living+Trees%3A+The+Arnold+Arboretum%2C+Of+Harvard+University%2C+Which+Is+Gather+Every+Tree+And+Shrub+In+The+World+That+Will+Grow+In+The+Latitude+Of+Boston%2C+The+Daring+Work+Of+Its+Explorers+In+Western+China+And+Tibet&amp;rft.aufirst=F.+Lauriston&amp;rft.aulast=Bullard&amp;rft.date=1911-04&amp;rft.genre=article&amp;rft.jtitle=The+World%27s+Work%3A+A+History+of+Our+Time&amp;rft.pages=14147-14158&amp;rft.volume=XXI&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DZm0AAAAAYAAJ%26pg%3DPA14147&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Nolan 1995. pp.34-37, 204-09, 213</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://arboretum.harvard.edu/about/acreage/">"Measuring the Arboretum"</a> at the Arnold Arboretum site; accessed June 21, 2013</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.arboretum.harvard.edu/programs/intern.html">Collections Internships &amp; Fellowships</a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.arboretum.harvard.edu/plants/lilac_sunday.html">Lilacs</a> at the Arnold Arboretum</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation journal">Robert E. Cook (1990). <a rel="nofollow" class="external text" href="http://www.biodiversitylibrary.org/item/33634#page/4/mode/1up">"Important notice"</a>. <i>Journal of the Arnold Arboretum</i>. <b>71</b>: ii.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArnold+Arboretum&amp;rft.atitle=Important+notice&amp;rft.au=Robert+E.+Cook&amp;rft.date=1990&amp;rft.genre=article&amp;rft.jtitle=Journal+of+the+Arnold+Arboretum&amp;rft.pages=ii&amp;rft.volume=71&amp;rft_id=http%3A%2F%2Fwww.biodiversitylibrary.org%2Fitem%2F33634%23page%2F4%2Fmode%2F1up&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-About_HPB-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-About_HPB_8-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://huh.harvard.edu/pages/publications-about">"About HPB"</a>. Harvard University Herbaria &amp; Libraries<span class="reference-accessdate">. Retrieved <span class="nowrap">May 24,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArnold+Arboretum&amp;rft.btitle=About+HPB&amp;rft.genre=unknown&amp;rft.pub=Harvard+University+Herbaria+%26+Libraries&amp;rft_id=http%3A%2F%2Fhuh.harvard.edu%2Fpages%2Fpublications-about&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.biodiversitylibrary.org/bibliography/480#/summary">"Details - Journal of the Arnold Arboretum"</a>. Biodiversity Heritage Library<span class="reference-accessdate">. Retrieved <span class="nowrap">May 24,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArnold+Arboretum&amp;rft.btitle=Details+-+Journal+of+the+Arnold+Arboretum&amp;rft.genre=unknown&amp;rft.pub=Biodiversity+Heritage+Library&amp;rft_id=http%3A%2F%2Fwww.biodiversitylibrary.org%2Fbibliography%2F480%23%2Fsummary&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation book">Spongberg, Stephen A. (1990). <i>A Reunion of Trees: The Discovery of Exotic Plants and Their Introduction into North American and European Landscapes</i>. Harvard University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-674-76694-5" title="Special:BookSources/978-0-674-76694-5">978-0-674-76694-5</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArnold+Arboretum&amp;rft.aufirst=Stephen+A.&amp;rft.aulast=Spongberg&amp;rft.btitle=A+Reunion+of+Trees%3A+The+Discovery+of+Exotic+Plants+and+Their+Introduction+into+North+American+and+European+Landscapes&amp;rft.date=1990&amp;rft.genre=book&amp;rft.isbn=978-0-674-76694-5&amp;rft.pub=Harvard+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation book">Connor, Sheila (1993). <i>New England Natives</i>. Harvard University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-674-61350-8" title="Special:BookSources/978-0-674-61350-8">978-0-674-61350-8</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArnold+Arboretum&amp;rft.aufirst=Sheila&amp;rft.aulast=Connor&amp;rft.btitle=New+England+Natives&amp;rft.date=1993&amp;rft.genre=book&amp;rft.isbn=978-0-674-61350-8&amp;rft.pub=Harvard+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation book">Hay, Ida (1995). <i>Science in the Pleasure Ground</i>. Northeastern University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-55553-201-7" title="Special:BookSources/978-1-55553-201-7">978-1-55553-201-7</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArnold+Arboretum&amp;rft.aufirst=Ida&amp;rft.aulast=Hay&amp;rft.btitle=Science+in+the+Pleasure+Ground&amp;rft.date=1995&amp;rft.genre=book&amp;rft.isbn=978-1-55553-201-7&amp;rft.pub=Northeastern+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arnold_Arboretum&amp;action=edit&amp;section=21" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Arnold_Arboretum" class="extiw" title="commons:Category:Arnold Arboretum">Arnold Arboretum</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.arboretum.harvard.edu/">Arnold Arboretum</a> Official Website</li>
+<li><a rel="nofollow" class="external text" href="http://www.bostoncentral.com/activities/parks/p108.php">Arnold Arboretum Visitor Information</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.huh.harvard.edu/">Harvard University Herbaria</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.publicgardens.org/">American Public Gardens Association (APGA)</a></li>
+<li><a rel="nofollow" class="external text" href="http://flora.huh.harvard.edu/china/">Flora of China</a></li>
+<li><a rel="nofollow" class="external text" href="http://via.harvard.edu:9080/via/deliver/advancedsearch?_collection=via">Virtual Information Access (VIA)</a> Catalog of visual resources at Harvard University.</li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20051227134244/http://www.loc.gov/preserv/prd/gardfor/gfhome.html">Garden and Forest</a> A Journal of Horticulture, Landscape Art, and Forestry (1888–1897)</li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080502145934/http://www.nps.gov/history/nr/twhp/wwwlps/lessons/56arnold/56arnold.htm"><i>Boston's Arnold Arboretum: A Place for Study and Recreation,</i> a National Park Service Teaching with Historic Places (TwHP) lesson plan</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080514161210/http://www.nps.gov/history/nr/TwHP/wwwlps/lessons/86bostonparks/86bostonparks.htm"><i>The Emerald Necklace: Boston's Green Connection,</i> a National Park Service Teaching with Historic Places (TwHP) lesson plan</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Botany" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background: #90EE90;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Botany" title="Template:Botany"><abbr title="View this template" style="background: #90EE90;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Botany" title="Template talk:Botany"><abbr title="Discuss this template" style="background: #90EE90;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Botany&amp;action=edit"><abbr title="Edit this template" style="background: #90EE90;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Botany" style="font-size:114%;margin:0 4em"><a href="/wiki/Botany" title="Botany">Botany</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: #90EE90;">
+<div><a href="/wiki/History_of_botany" title="History of botany">History of botany</a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #90EE90;;width:1%"><a href="/wiki/Branches_of_botany" title="Branches of botany">Subdisciplines</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/History_of_plant_systematics" title="History of plant systematics">Plant systematics</a></li>
+<li><a href="/wiki/Ethnobotany" title="Ethnobotany">Ethnobotany</a></li>
+<li><a href="/wiki/Paleobotany" title="Paleobotany">Paleobotany</a></li>
+<li><a href="/wiki/Plant_anatomy" title="Plant anatomy">Plant anatomy</a></li>
+<li><a href="/wiki/Plant_ecology" title="Plant ecology">Plant ecology</a></li>
+<li><a href="/wiki/Phytogeography" title="Phytogeography">Phytogeography</a>
+<ul>
+<li><a href="/wiki/Geobotanical_prospecting" title="Geobotanical prospecting">Geobotany</a></li>
+<li><a href="/wiki/Flora" title="Flora">Flora</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Phytochemistry" title="Phytochemistry">Phytochemistry</a></li>
+<li><a href="/wiki/Plant_pathology" title="Plant pathology">Plant pathology</a></li>
+<li><a href="/wiki/Bryology" title="Bryology">Bryology</a></li>
+<li><a href="/wiki/Phycology" title="Phycology">Phycology</a></li>
+<li><a href="/wiki/Floristics" title="Floristics">Floristics</a></li>
+<li><a href="/wiki/Dendrology" title="Dendrology">Dendrology</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #90EE90;;width:1%"><a href="/wiki/Plant" title="Plant">Plant</a> groups</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Algae" title="Algae">Algae</a></li>
+<li><a href="/wiki/Archaeplastida" title="Archaeplastida">Archaeplastida</a></li>
+<li><a href="/wiki/Bryophyte" title="Bryophyte">Bryophyte</a></li>
+<li><a href="/wiki/Non-vascular_plant" title="Non-vascular plant">Non-vascular plants</a></li>
+<li><a href="/wiki/Vascular_plant" title="Vascular plant">Vascular plants</a></li>
+<li><a href="/wiki/Spermatophyte" title="Spermatophyte">Spermatophytes</a></li>
+<li><a href="/wiki/Pteridophyte" title="Pteridophyte">Pteridophyte</a></li>
+<li><a href="/wiki/Gymnosperm" title="Gymnosperm">Gymnosperm</a></li>
+<li><a href="/wiki/Flowering_plant" title="Flowering plant">Angiosperm</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #90EE90;;width:1%">
+<div style="padding:0.1em 0;line-height:1.2em;line-height:1.2em"><a href="/wiki/Plant_morphology" title="Plant morphology">Plant morphology</a><br />
+<span style="font-weight:normal;">(<a href="/wiki/Glossary_of_plant_morphology" title="Glossary of plant morphology">glossary</a>)</span></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="background: #90EE90;;width:1%"><a href="/wiki/Plant_cell" title="Plant cell">Plant cells</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cell_wall" title="Cell wall">Cell wall</a></li>
+<li><a href="/wiki/Phragmoplast" title="Phragmoplast">Phragmoplast</a></li>
+<li><a href="/wiki/Plastid" title="Plastid">Plastid</a></li>
+<li><a href="/wiki/Plasmodesmata" class="mw-redirect" title="Plasmodesmata">Plasmodesmata</a></li>
+<li><a href="/wiki/Vacuole" title="Vacuole">Vacuole</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #90EE90;;width:1%"><a href="/wiki/Tissue_(biology)" title="Tissue (biology)">Tissues</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Meristem" title="Meristem">Meristem</a></li>
+<li><a href="/wiki/Vascular_tissue" title="Vascular tissue">Vascular tissue</a>
+<ul>
+<li><a href="/wiki/Vascular_bundle" title="Vascular bundle">Vascular bundle</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Ground_tissue" title="Ground tissue">Ground tissue</a>
+<ul>
+<li><a href="/wiki/Mesophyll" class="mw-redirect" title="Mesophyll">Mesophyll</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Cork_cambium" title="Cork cambium">Cork</a></li>
+<li><a href="/wiki/Wood" title="Wood">Wood</a></li>
+<li><a href="/wiki/Storage_organ" title="Storage organ">Storage organs</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #90EE90;;width:1%">Vegetative</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Root" title="Root">Root</a></li>
+<li><a href="/wiki/Rhizoid" title="Rhizoid">Rhizoid</a></li>
+<li><a href="/wiki/Bulb" title="Bulb">Bulb</a></li>
+<li><a href="/wiki/Rhizome" title="Rhizome">Rhizome</a></li>
+<li><a href="/wiki/Shoot" title="Shoot">Shoot</a>
+<ul>
+<li><a href="/wiki/Plant_stem" title="Plant stem">Stem</a></li>
+<li><a href="/wiki/Leaf" title="Leaf">Leaf</a>
+<ul>
+<li><a href="/wiki/Petiole_(botany)" title="Petiole (botany)">Petiole</a></li>
+<li><a href="/wiki/Cataphyll" title="Cataphyll">Cataphyll</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Bud" title="Bud">Bud</a></li>
+<li><a href="/wiki/Sessility_(botany)" title="Sessility (botany)">Sessility</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #90EE90;;width:1%"><a href="/wiki/Plant_reproductive_morphology" title="Plant reproductive morphology">Reproductive</a><br />
+(Flower)</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/ABC_model_of_flower_development" title="ABC model of flower development">Flower development</a></li>
+<li><a href="/wiki/Inflorescence" title="Inflorescence">Inflorescence</a>
+<ul>
+<li><a href="/wiki/Umbel" title="Umbel">Umbel</a></li>
+<li><a href="/wiki/Raceme" title="Raceme">Raceme</a></li>
+<li><a href="/wiki/Bract" title="Bract">Bract</a></li>
+<li><a href="/wiki/Pedicel_(botany)" title="Pedicel (botany)">Pedicellate</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Flower" title="Flower">Flower</a>
+<ul>
+<li><a href="/wiki/Whorl_(botany)" title="Whorl (botany)">Whorl</a></li>
+<li><a href="/wiki/Floral_symmetry" title="Floral symmetry">Floral symmetry</a></li>
+<li><a href="/wiki/Floral_diagram" title="Floral diagram">Floral diagram</a></li>
+<li><a href="/wiki/Floral_formula" title="Floral formula">Floral formula</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Receptacle_(botany)" title="Receptacle (botany)">Receptacle</a></li>
+<li><a href="/wiki/Hypanthium" title="Hypanthium">Hypanthium (Floral cup)</a></li>
+<li><a href="/wiki/Perianth" title="Perianth">Perianth</a>
+<ul>
+<li><a href="/wiki/Tepal" title="Tepal">Tepal</a></li>
+<li><a href="/wiki/Petal" title="Petal">Petal</a></li>
+<li><a href="/wiki/Sepal" title="Sepal">Sepal</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Sporophyll" title="Sporophyll">Sporophyll</a></li>
+<li><a href="/wiki/Gynoecium" title="Gynoecium">Gynoecium</a>
+<ul>
+<li><a href="/wiki/Ovary_(botany)" title="Ovary (botany)">Ovary</a>
+<ul>
+<li><a href="/wiki/Ovule" title="Ovule">Ovule</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Stigma_(botany)" title="Stigma (botany)">Stigma</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Archegonium" title="Archegonium">Archegonium</a></li>
+<li><a href="/wiki/Stamen" title="Stamen">Androecium</a>
+<ul>
+<li><a href="/wiki/Stamen" title="Stamen">Stamen</a></li>
+<li><a href="/wiki/Staminode" title="Staminode">Staminode</a></li>
+<li><a href="/wiki/Pollen" title="Pollen">Pollen</a></li>
+<li><a href="/wiki/Tapetum_(botany)" title="Tapetum (botany)">Tapetum</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Gynostemium" class="mw-redirect" title="Gynostemium">Gynandrium</a></li>
+<li><a href="/wiki/Gametophyte" title="Gametophyte">Gametophyte</a></li>
+<li><a href="/wiki/Sporophyte" title="Sporophyte">Sporophyte</a></li>
+<li><a href="/wiki/Plant_embryo" class="mw-redirect" title="Plant embryo">Plant embryo</a></li>
+<li><a href="/wiki/Fruit" title="Fruit">Fruit</a>
+<ul>
+<li><a href="/wiki/Fruit_anatomy" title="Fruit anatomy">Fruit anatomy</a></li>
+<li><a href="/wiki/Berry_(botany)" title="Berry (botany)">Berry</a></li>
+<li><a href="/wiki/Capsule_(fruit)" title="Capsule (fruit)">Capsule</a></li>
+<li><a href="/wiki/Seed" title="Seed">Seed</a>
+<ul>
+<li><a href="/wiki/Seed_dispersal" title="Seed dispersal">Seed dispersal</a></li>
+<li><a href="/wiki/Endosperm" title="Endosperm">Endosperm</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #90EE90;;width:1%">Surface structures</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Epicuticular_wax" title="Epicuticular wax">Epicuticular wax</a></li>
+<li><a href="/wiki/Plant_cuticle" title="Plant cuticle">Plant cuticle</a></li>
+<li><a href="/wiki/Epidermis_(botany)" title="Epidermis (botany)">Epidermis</a></li>
+<li><a href="/wiki/Stoma" title="Stoma">Stoma</a></li>
+<li><a href="/wiki/Nectary" class="mw-redirect" title="Nectary">Nectary</a></li>
+<li><a href="/wiki/Trichome" title="Trichome">Trichome</a></li>
+<li><a href="/wiki/Thorns,_spines,_and_prickles" title="Thorns, spines, and prickles">Prickle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #90EE90;;width:1%">
+<div class="hlist hlist-separated">
+<ul>
+<li><a href="/wiki/Plant_physiology" title="Plant physiology">Plant physiology</a></li>
+<li>Materials</li>
+</ul>
+</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Plant_nutrition" title="Plant nutrition">Nutrition</a></li>
+<li><a href="/wiki/Photosynthesis" title="Photosynthesis">Photosynthesis</a>
+<ul>
+<li><a href="/wiki/Chlorophyll" title="Chlorophyll">Chlorophyll</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Plant_hormone" title="Plant hormone">Plant hormone</a></li>
+<li><a href="/wiki/Transpiration" title="Transpiration">Transpiration</a></li>
+<li><a href="/wiki/Turgor_pressure" title="Turgor pressure">Turgor pressure</a></li>
+<li><a href="/wiki/Bulk_movement" title="Bulk movement">Bulk flow</a></li>
+<li><a href="/wiki/Aleurone" title="Aleurone">Aleurone</a></li>
+<li><a href="/wiki/Phytomelanin" title="Phytomelanin">Phytomelanin</a></li>
+<li><a href="/wiki/Sugar" title="Sugar">Sugar</a></li>
+<li><a href="/wiki/Sap" title="Sap">Sap</a></li>
+<li><a href="/wiki/Starch" title="Starch">Starch</a></li>
+<li><a href="/wiki/Cellulose" title="Cellulose">Cellulose</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #90EE90;;width:1%">Plant growth and habit</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Secondary_growth" title="Secondary growth">Secondary growth</a></li>
+<li><a href="/wiki/Woody_plant" title="Woody plant">Woody plants</a></li>
+<li><a href="/wiki/Herbaceous_plant" title="Herbaceous plant">Herbaceous plants</a></li>
+<li><a href="/wiki/Habit_(biology)#Structure" title="Habit (biology)">Habit</a>
+<ul>
+<li><a href="/wiki/Vine" title="Vine">Vines</a>
+<ul>
+<li><a href="/wiki/Liana" title="Liana">Lianas</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Shrub" title="Shrub">Shrubs</a>
+<ul>
+<li><a href="/wiki/Subshrub" title="Subshrub">Subshrubs</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Tree" title="Tree">Trees</a></li>
+<li><a href="/wiki/Succulent_plant" title="Succulent plant">Succulent plants</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #90EE90;;width:1%"><a href="/wiki/Plant_reproduction" title="Plant reproduction">Reproduction</a>
+<div class="hlist hlist-separated">
+<ul>
+<li><a href="/wiki/Plant_evolution" title="Plant evolution">Evolution</a></li>
+<li><a href="/wiki/Plant_ecology" title="Plant ecology">Ecology</a></li>
+</ul>
+</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alternation_of_generations" title="Alternation of generations">Alternation of generations</a></li>
+<li><a href="/wiki/Sporangium" title="Sporangium">Sporangium</a>
+<ul>
+<li><a href="/wiki/Spore" title="Spore">Spore</a></li>
+<li><a href="/wiki/Microsporangia" title="Microsporangia">Microsporangia</a>
+<ul>
+<li><a href="/wiki/Microspore" title="Microspore">Microspore</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Sporangium" title="Sporangium">Megasporangium</a>
+<ul>
+<li><a href="/wiki/Megaspore" title="Megaspore">Megaspore</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="/wiki/Pollination" title="Pollination">Pollination</a>
+<ul>
+<li><a href="/wiki/Pollinator" title="Pollinator">Pollinators</a></li>
+<li><a href="/wiki/Pollen_tube" title="Pollen tube">Pollen tube</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Double_fertilization" title="Double fertilization">Double fertilization</a></li>
+<li><a href="/wiki/Germination" title="Germination">Germination</a></li>
+<li><a href="/wiki/Plant_evolutionary_developmental_biology" title="Plant evolutionary developmental biology">Evolutionary development</a></li>
+<li><a href="/wiki/Evolutionary_history_of_plants" title="Evolutionary history of plants">Evolutionary history</a>
+<ul>
+<li><a href="/wiki/Timeline_of_plant_evolution" title="Timeline of plant evolution">timeline</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Hardiness_zone" title="Hardiness zone">Hardiness zone</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #90EE90;;width:1%"><a href="/wiki/Plant_taxonomy" title="Plant taxonomy">Plant taxonomy</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/History_of_plant_systematics" title="History of plant systematics">History of plant systematics</a></li>
+<li><a href="/wiki/Herbarium" title="Herbarium">Herbarium</a></li>
+<li><a href="/wiki/Biological_classification" class="mw-redirect" title="Biological classification">Biological classification</a></li>
+<li><a href="/wiki/Botanical_nomenclature" title="Botanical nomenclature">Botanical nomenclature</a>
+<ul>
+<li><a href="/wiki/Botanical_name" title="Botanical name">Botanical name</a></li>
+<li><a href="/wiki/Correct_name_(botany)" class="mw-redirect" title="Correct name (botany)">Correct name</a></li>
+<li><a href="/wiki/Author_citation_(botany)" title="Author citation (botany)">Author citation</a></li>
+<li><a href="/wiki/International_Code_of_Nomenclature_for_algae,_fungi,_and_plants" title="International Code of Nomenclature for algae, fungi, and plants">International Code of Nomenclature for algae, fungi, and plants (ICN)</a></li>
+<li><a href="/wiki/International_Code_of_Nomenclature_for_Cultivated_Plants" title="International Code of Nomenclature for Cultivated Plants">- for Cultivated Plants (ICNCP)</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Taxonomic_rank" title="Taxonomic rank">Taxonomic rank</a></li>
+<li><a href="/wiki/International_Association_for_Plant_Taxonomy" title="International Association for Plant Taxonomy">International Association for Plant Taxonomy (IAPT)</a></li>
+<li><a href="/wiki/List_of_systems_of_plant_taxonomy" title="List of systems of plant taxonomy">Plant taxonomy systems</a></li>
+<li><a href="/wiki/Cultivated_plant_taxonomy" title="Cultivated plant taxonomy">Cultivated plant taxonomy</a>
+<ul>
+<li><a href="/wiki/Citrus_taxonomy" title="Citrus taxonomy">Citrus taxonomy</a></li>
+<li><a href="/wiki/Cultigen" title="Cultigen">cultigen</a>
+<ul>
+<li><a href="/wiki/Cultivar" title="Cultivar">cultivar</a></li>
+<li><a href="/wiki/Cultivar_group" title="Cultivar group">Group</a></li>
+<li><a href="/wiki/Grex_(horticulture)" title="Grex (horticulture)">grex</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #90EE90;;width:1%">Practice</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Agronomy" title="Agronomy">Agronomy</a></li>
+<li><a href="/wiki/Floriculture" title="Floriculture">Floriculture</a></li>
+<li><a href="/wiki/Forestry" title="Forestry">Forestry</a></li>
+<li><a href="/wiki/Horticulture" title="Horticulture">Horticulture</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #90EE90;;width:1%">
+<div class="hlist hlist-separated">
+<ul>
+<li>Lists</li>
+<li>Related topics</li>
+</ul>
+</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Glossary_of_botanical_terms" title="Glossary of botanical terms">Botanical terms</a></li>
+<li><a href="/wiki/List_of_botanists" title="List of botanists">Botanists</a>
+<ul>
+<li><a href="/wiki/List_of_botanists_by_author_abbreviation" class="mw-redirect" title="List of botanists by author abbreviation">by author abbreviation</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Botanical_expedition" title="Botanical expedition">Botanical expedition</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: #90EE90;">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /><b><a href="/wiki/Category:Botany" title="Category:Botany">Category</a></b></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /><b><a href="https://commons.wikimedia.org/wiki/Category:Botany" class="extiw" title="commons:Category:Botany">Commons</a></b></li>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /><b><a href="/wiki/Portal:Plants" title="Portal:Plants">Portal</a></b></li>
+<li><img alt="WikiProject" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/16px-People_icon.svg.png" title="WikiProject" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/24px-People_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/32px-People_icon.svg.png 2x" data-file-width="100" data-file-height="100" /><b><a href="/wiki/Wikipedia:WikiProject_Plants" title="Wikipedia:WikiProject Plants">WikiProject</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="History_of_botany" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:History_of_botany" title="Template:History of botany"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:History_of_botany" title="Template talk:History of botany"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:History_of_botany&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="History_of_botany" style="font-size:114%;margin:0 4em"><a href="/wiki/History_of_botany" title="History of botany">History of botany</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Fields and<br />
+disciplines</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Agriculture" title="Agriculture">Agriculture</a></li>
+<li><a href="/wiki/Biogeography" title="Biogeography">Biogeography</a></li>
+<li><a href="/wiki/Bryology" title="Bryology">Bryology</a></li>
+<li><a href="/wiki/Cladistics" title="Cladistics">Cladistics</a></li>
+<li><a href="/wiki/Comparative_anatomy" title="Comparative anatomy">Comparative anatomy</a></li>
+<li><a href="/wiki/Cytology" title="Cytology">Cytology</a></li>
+<li><a href="/wiki/Economic_botany" title="Economic botany">Economic botany</a></li>
+<li><a href="/wiki/Ethnobotany" title="Ethnobotany">Ethnobotany</a></li>
+<li><a href="/wiki/Floristics" title="Floristics">Floristics</a></li>
+<li><a href="/wiki/Forestry" title="Forestry">Forestry</a></li>
+<li><a href="/wiki/Genetic_engineering" title="Genetic engineering">Genetic engineering</a></li>
+<li><a href="/wiki/Horticulture" title="Horticulture">Horticulture</a></li>
+<li><a href="/wiki/Lichenology" title="Lichenology">Lichenology</a></li>
+<li><a href="/wiki/Molecular_phylogenetics" title="Molecular phylogenetics">Molecular phylogenetics</a></li>
+<li><a href="/wiki/Mycology" title="Mycology">Mycology</a></li>
+<li><a href="/wiki/Natural_history" title="Natural history">Natural history</a></li>
+<li><a href="/wiki/Numerical_taxonomy" title="Numerical taxonomy">Numerical taxonomy</a></li>
+<li><a href="/wiki/Paleobotany" title="Paleobotany">Paleobotany</a></li>
+<li><a href="/wiki/Palynology" title="Palynology">Palynology</a></li>
+<li><a href="/wiki/Phycology" title="Phycology">Phycology</a></li>
+<li><a href="/wiki/Phytochemistry" title="Phytochemistry">Phytochemistry</a></li>
+<li><a href="/wiki/Phytogeography" title="Phytogeography">Phytogeography</a></li>
+<li><a href="/wiki/Plant_anatomy" title="Plant anatomy">Plant anatomy</a></li>
+<li><a href="/wiki/Plant_ecology" title="Plant ecology">Plant ecology</a></li>
+<li><a href="/wiki/Plant_genetics" title="Plant genetics">Plant genetics</a></li>
+<li><a href="/wiki/Plant_morphology" title="Plant morphology">Plant morphology</a></li>
+<li><a href="/wiki/Plant_pathology" title="Plant pathology">Plant pathology</a></li>
+<li><a href="/wiki/Plant_physiology" title="Plant physiology">Plant physiology</a></li>
+<li><a href="/wiki/Pteridology" class="mw-redirect" title="Pteridology">Pteridology</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="6" style="width:1px;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Teofrasto_Orto_botanico_detail.jpg" class="image" title="Theophrastus"><img alt="Theophrastus" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Teofrasto_Orto_botanico_detail.jpg/60px-Teofrasto_Orto_botanico_detail.jpg" width="60" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Teofrasto_Orto_botanico_detail.jpg/90px-Teofrasto_Orto_botanico_detail.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Teofrasto_Orto_botanico_detail.jpg/120px-Teofrasto_Orto_botanico_detail.jpg 2x" data-file-width="900" data-file-height="1200" /></a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Institutions</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Jardin_des_Plantes" class="mw-redirect" title="Jardin des Plantes">Jardin des Plantes</a></li>
+<li><a href="/wiki/Natural_History_Museum,_London" title="Natural History Museum, London">Natural History Museum, London</a></li>
+<li><a href="/wiki/Orto_botanico_di_Padova" title="Orto botanico di Padova">Orto botanico di Padova</a></li>
+<li><a href="/wiki/Orto_botanico_di_Pisa" title="Orto botanico di Pisa">Orto botanico di Pisa</a></li>
+<li><a href="/wiki/Rothamsted_Research" title="Rothamsted Research">Rothamsted Research</a></li>
+<li><a href="/wiki/Royal_Botanic_Gardens,_Kew" title="Royal Botanic Gardens, Kew">Royal Botanic Gardens, Kew</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Publications</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Historia_Plantarum_(Theophrastus)" title="Historia Plantarum (Theophrastus)"><i>Historia Plantarum</i></a> and <i><a href="/w/index.php?title=Causes_of_Plants&amp;action=edit&amp;redlink=1" class="new" title="Causes of Plants (page does not exist)">Causes of Plants</a></i> of Theophrastus c. 300 BC</li>
+<li><a href="/wiki/On_Plants" title="On Plants"><i>De Plantis</i></a> of Nicolaus of Damascus c. 1st-century BC</li>
+<li><i><a href="/wiki/De_Materia_Medica" title="De Materia Medica">De Materia Medica</a></i> of Dioscorides c. 60 AD</li>
+<li><a href="/wiki/Natural_History_(Pliny)" title="Natural History (Pliny)"><i>Naturalis Historia</i></a> 77–79 AD</li>
+<li><i><a href="/w/index.php?title=De_Vegetabilibus&amp;action=edit&amp;redlink=1" class="new" title="De Vegetabilibus (page does not exist)">De Vegetabilibus</a></i> of Albertus Magnus c. 1256</li>
+<li><i><a href="/w/index.php?title=Herbarum_Vivae_Icones&amp;action=edit&amp;redlink=1" class="new" title="Herbarum Vivae Icones (page does not exist)">Herbarum Vivae Icones</a></i> 1530</li>
+<li><i><a href="/w/index.php?title=Libellus_De_Re_Herbaria_Novus&amp;action=edit&amp;redlink=1" class="new" title="Libellus De Re Herbaria Novus (page does not exist)">Libellus De Re Herbaria Novus</a></i> 1538</li>
+<li><i><a href="/wiki/Kre%C3%BCtterbuch" class="mw-redirect" title="Kreütterbuch">Kreütterbuch</a></i> of Hieronymus Bock 1539</li>
+<li><i><a href="/wiki/De_plantis_libri_XVI" class="mw-redirect" title="De plantis libri XVI">De plantis libri XVI</a></i> of Caesalpino 1583</li>
+<li><i><a href="/w/index.php?title=Stirpium_Historiae&amp;action=edit&amp;redlink=1" class="new" title="Stirpium Historiae (page does not exist)">Stirpium Historiae</a></i> 1583</li>
+<li><i><a href="/wiki/Herball,_or_Generall_Historie_of_Plantes" class="mw-redirect" title="Herball, or Generall Historie of Plantes">Herball, or Generall Historie of Plantes</a></i> 1597</li>
+<li><i><a href="/w/index.php?title=Prodromus_Theatrici_Botanici&amp;action=edit&amp;redlink=1" class="new" title="Prodromus Theatrici Botanici (page does not exist)">Prodromus Theatrici Botanici</a></i> 1620</li>
+<li><i><a href="/w/index.php?title=Pinax_theatri_botanici&amp;action=edit&amp;redlink=1" class="new" title="Pinax theatri botanici (page does not exist)">Pinax theatri botanici</a></i> 1623</li>
+<li><i><a href="/w/index.php?title=Anatome_Plantarum&amp;action=edit&amp;redlink=1" class="new" title="Anatome Plantarum (page does not exist)">Anatome Plantarum</a></i> 1675</li>
+<li><i><a href="/w/index.php?title=Anatomy_of_Plants&amp;action=edit&amp;redlink=1" class="new" title="Anatomy of Plants (page does not exist)">Anatomy of Plants</a></i> 1682</li>
+<li><a href="/wiki/Historia_Plantarum_(Ray)" title="Historia Plantarum (Ray)"><i>Historia Plantarum</i></a> of John Ray 1686–1704</li>
+<li><i><a href="/w/index.php?title=De_Sexu_Plantarum_Epistola&amp;action=edit&amp;redlink=1" class="new" title="De Sexu Plantarum Epistola (page does not exist)">De Sexu Plantarum Epistola</a></i> 1694</li>
+<li><i><a href="/w/index.php?title=%C3%89l%C3%A9ments_de_botanique&amp;action=edit&amp;redlink=1" class="new" title="Éléments de botanique (page does not exist)">Éléments de botanique</a></i> 1694</li>
+<li><i><a href="/w/index.php?title=Vegetable_Staticks&amp;action=edit&amp;redlink=1" class="new" title="Vegetable Staticks (page does not exist)">Vegetable Staticks</a></i> 1727</li>
+<li><i><a href="/wiki/Systema_Naturae" title="Systema Naturae">Systema Naturae</a></i> 1735</li>
+<li><i><a href="/wiki/Genera_Plantarum" title="Genera Plantarum">Genera Plantarum</a></i> 1737</li>
+<li><i><a href="/wiki/Philosophia_Botanica" title="Philosophia Botanica">Philosophia Botanica</a></i> 1751</li>
+<li><i><a href="/wiki/Species_Plantarum" title="Species Plantarum">Species Plantarum</a></i> 1753</li>
+<li><a href="/wiki/10th_edition_of_Systema_Naturae" title="10th edition of Systema Naturae"><i>Systema Naturae, 10th ed.</i></a> 1758–9</li>
+<li><i><a href="/w/index.php?title=Familles_des_Plantes&amp;action=edit&amp;redlink=1" class="new" title="Familles des Plantes (page does not exist)">Familles des Plantes</a></i> 1763–4</li>
+<li><i><a href="/w/index.php?title=Experiments_Upon_Vegetables&amp;action=edit&amp;redlink=1" class="new" title="Experiments Upon Vegetables (page does not exist)">Experiments Upon Vegetables</a></i> 1779</li>
+<li><i><a href="/w/index.php?title=Die_Metamorphose_der_Pflantzen&amp;action=edit&amp;redlink=1" class="new" title="Die Metamorphose der Pflantzen (page does not exist)">Die Metamorphose der Pflantzen</a></i> 1790</li>
+<li><i><a href="/w/index.php?title=Trait%C3%A9_d%27Anatomie_et_de_Physiologie_V%C3%A9g%C3%A9tale&amp;action=edit&amp;redlink=1" class="new" title="Traité d'Anatomie et de Physiologie Végétale (page does not exist)">Traité d'Anatomie et de Physiologie Végétale</a></i> 1802</li>
+<li><i><a href="/w/index.php?title=Recherches_Chimiques_sur_la_V%C3%A9g%C3%A9tation&amp;action=edit&amp;redlink=1" class="new" title="Recherches Chimiques sur la Végétation (page does not exist)">Recherches Chimiques sur la Végétation</a></i> 1804</li>
+<li><i><a href="/w/index.php?title=Beytr%C3%A4ge_zur_Anatomie_der_Pflanzen&amp;action=edit&amp;redlink=1" class="new" title="Beyträge zur Anatomie der Pflanzen (page does not exist)">Beyträge zur Anatomie der Pflanzen</a></i> 1812</li>
+<li><i><a href="/wiki/Prodromus_Systematis_Naturalis_Regni_Vegetabilis" title="Prodromus Systematis Naturalis Regni Vegetabilis">Prodromus Systematis Naturalis Regni Vegetabilis</a></i> 1824–73
+<ul>
+<li><a href="/wiki/Nepenthaceae_(1873_monograph)" title="Nepenthaceae (1873 monograph)">Nepenthaceae</a></li>
+</ul>
+</li>
+<li><i><a href="/w/index.php?title=Die_Vegetabilische_Zelle&amp;action=edit&amp;redlink=1" class="new" title="Die Vegetabilische Zelle (page does not exist)">Die Vegetabilische Zelle</a></i> 1851</li>
+<li><i><a href="/w/index.php?title=Vergleichende_Untersuchungen&amp;action=edit&amp;redlink=1" class="new" title="Vergleichende Untersuchungen (page does not exist)">Vergleichende Untersuchungen</a></i> 1851</li>
+<li><i><a href="/wiki/On_the_Origin_of_Species" title="On the Origin of Species">On the Origin of Species</a></i> 1859</li>
+<li><i><a href="/wiki/Experiments_on_Plant_Hybridization" title="Experiments on Plant Hybridization">Experiments on Plant Hybridization</a></i> 1865</li>
+<li><i><a href="/w/index.php?title=Die_Vegetation_der_Erde&amp;action=edit&amp;redlink=1" class="new" title="Die Vegetation der Erde (page does not exist)">Die Vegetation der Erde</a></i> 1872</li>
+<li><i><a href="/wiki/Plantesamfund" title="Plantesamfund">Plantesamfund</a></i> 1895</li>
+<li><i><a href="/w/index.php?title=Pflanzengeographie_auf_Physiologischer_Grundlage&amp;action=edit&amp;redlink=1" class="new" title="Pflanzengeographie auf Physiologischer Grundlage (page does not exist)">Pflanzengeographie auf Physiologischer Grundlage</a></i> 1898</li>
+<li><i><a href="/wiki/Variation_and_Evolution_in_Plants" title="Variation and Evolution in Plants">Variation and Evolution in Plants</a></i> 1950</li>
+<li><a href="/wiki/Ontogeny_and_Phylogeny_(book)" title="Ontogeny and Phylogeny (book)"><i>Ontogeny and Phylogeny</i></a> 1977</li>
+<li><i><a href="/w/index.php?title=An_Integrated_System_of_Classification_of_Flowering_Plants&amp;action=edit&amp;redlink=1" class="new" title="An Integrated System of Classification of Flowering Plants (page does not exist)">An Integrated System of Classification of Flowering Plants</a></i> 1981</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Theories and<br />
+concepts</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alternation_of_generations" title="Alternation of generations">Alternation of generations</a></li>
+<li><a href="/wiki/Cell_theory" title="Cell theory">Cell theory</a></li>
+<li><a href="/wiki/Center_of_diversity" class="mw-redirect" title="Center of diversity">Center of diversity</a></li>
+<li><a href="/wiki/Phylogenetic_nomenclature" title="Phylogenetic nomenclature">Phylogenetic nomenclature</a></li>
+<li><a href="/wiki/Spontaneous_generation" title="Spontaneous generation">Spontaneous generation</a></li>
+<li><a href="/wiki/Taxonomy_(biology)" title="Taxonomy (biology)">Taxonomy</a></li>
+<li><a href="/wiki/Ultrastructure" title="Ultrastructure">Ultrastructure</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Influential<br />
+figures</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Theophrastus" title="Theophrastus">Theophrastus</a> c. 371–287 BC</li>
+<li><a href="/wiki/Pliny_the_Elder" title="Pliny the Elder">Pliny the Elder</a> 23–79 AD</li>
+<li><a href="/wiki/Pedanius_Dioscorides" title="Pedanius Dioscorides">Pedanius Dioscorides</a> c. 40–90 AD</li>
+<li><a href="/wiki/Otto_Brunfels" title="Otto Brunfels">Otto Brunfels</a> 1464–1534</li>
+<li><a href="/wiki/Hieronymus_Bock" title="Hieronymus Bock">Hieronymus Bock</a> 1498–1554</li>
+<li><a href="/wiki/Valerius_Cordus" title="Valerius Cordus">Valerius Cordus</a> 1515–1544</li>
+<li><a href="/wiki/William_Turner_(naturalist)" title="William Turner (naturalist)">William Turner</a> 1515–1568</li>
+<li><a href="/wiki/Rembert_Dodoens" title="Rembert Dodoens">Rembert Dodoens</a> 1517–1585</li>
+<li><a href="/wiki/Andrea_Cesalpino" title="Andrea Cesalpino">Andrea Cesalpino</a> 1519–1603</li>
+<li><a href="/wiki/Gaspard_Bauhin" title="Gaspard Bauhin">Gaspard Bauhin</a> 1560–1624</li>
+<li><a href="/wiki/Joachim_Jungius" title="Joachim Jungius">Joachim Jungius</a> 1587–1657</li>
+<li><a href="/wiki/John_Ray" title="John Ray">John Ray</a> 1623–1705</li>
+<li><a href="/wiki/Nehemiah_Grew" title="Nehemiah Grew">Nehemiah Grew</a> 1628–1711</li>
+<li><a href="/wiki/Marcello_Malpighi" title="Marcello Malpighi">Marcello Malpighi</a> 1628–1694</li>
+<li><a href="/wiki/Joseph_Pitton_de_Tournefort" title="Joseph Pitton de Tournefort">Joseph Pitton de Tournefort</a> 1656–1708</li>
+<li><a href="/wiki/Rudolf_Jakob_Camerarius" title="Rudolf Jakob Camerarius">Rudolf Jakob Camerarius</a> 1665–1721</li>
+<li><a href="/wiki/Stephen_Hales" title="Stephen Hales">Stephen Hales</a> 1677–1761</li>
+<li><a href="/wiki/Bernard_de_Jussieu" title="Bernard de Jussieu">Bernard de Jussieu</a> 1699–1777</li>
+<li><a href="/wiki/Carl_Linnaeus" title="Carl Linnaeus">Carolus Linnaeus</a> 1707–1778</li>
+<li><a href="/wiki/Michel_Adanson" title="Michel Adanson">Michel Adanson</a> 1727–1806</li>
+<li><a href="/wiki/Jan_Ingenhousz" title="Jan Ingenhousz">Jan Ingenhousz</a> 1730–1799</li>
+<li><a href="/wiki/Joseph_Banks" title="Joseph Banks">Joseph Banks</a> 1743–1820</li>
+<li><a href="/wiki/Johann_Wolfgang_von_Goethe" title="Johann Wolfgang von Goethe">Johann Wolfgang von Goethe</a> 1749–1832</li>
+<li><a href="/wiki/Carl_Ludwig_Willdenow" title="Carl Ludwig Willdenow">Carl Ludwig Willdenow</a> 1765–1812</li>
+<li><a href="/wiki/Nicolas-Th%C3%A9odore_de_Saussure" title="Nicolas-Théodore de Saussure">Nicolas-Théodore de Saussure</a> 1767–1845</li>
+<li><a href="/wiki/Alexander_von_Humboldt" title="Alexander von Humboldt">Alexander von Humboldt</a> 1769–1859</li>
+<li><a href="/wiki/Aim%C3%A9_Bonpland" title="Aimé Bonpland">Aimé Bonpland</a> 1773–1858</li>
+<li><a href="/wiki/Thomas_Nuttall" title="Thomas Nuttall">Thomas Nuttall</a> 1786–1859</li>
+<li><a href="/wiki/Joakim_Frederik_Schouw" title="Joakim Frederik Schouw">Joakim Frederik Schouw</a> 1789–1852</li>
+<li><a href="/wiki/Matthias_Jakob_Schleiden" title="Matthias Jakob Schleiden">Matthias Jakob Schleiden</a> 1804–1881</li>
+<li><a href="/wiki/Alexander_Braun" title="Alexander Braun">Alexander Braun</a> 1805–1877</li>
+<li><a href="/wiki/George_Engelmann" title="George Engelmann">George Engelmann</a> 1809–1884</li>
+<li><a href="/wiki/Asa_Gray" title="Asa Gray">Asa Gray</a> 1810–1888</li>
+<li><a href="/wiki/August_Grisebach" title="August Grisebach">August Grisebach</a> 1814–1879</li>
+<li><a href="/wiki/Joseph_Dalton_Hooker" title="Joseph Dalton Hooker">Joseph Hooker</a> 1817–1911</li>
+<li><a href="/wiki/Gregor_Mendel" title="Gregor Mendel">Gregor Mendel</a> 1822–1884</li>
+<li><a href="/wiki/Nathanael_Pringsheim" title="Nathanael Pringsheim">Nathanael Pringsheim</a> 1823–1894</li>
+<li><a href="/wiki/Wilhelm_Hofmeister" title="Wilhelm Hofmeister">Wilhelm Hofmeister</a> 1824–1877</li>
+<li><a href="/wiki/Julius_von_Sachs" title="Julius von Sachs">Julius von Sachs</a> 1832–1897</li>
+<li><a href="/wiki/Eugenius_Warming" title="Eugenius Warming">Eugenius Warming</a> 1841–1924</li>
+<li><a href="/wiki/William_Gilson_Farlow" title="William Gilson Farlow">William Gilson Farlow</a> 1844–1919</li>
+<li><a href="/wiki/Andreas_Franz_Wilhelm_Schimper" title="Andreas Franz Wilhelm Schimper">Andreas Franz Wilhelm Schimper</a> 1856–1901</li>
+<li><a href="/wiki/Nikolai_Vavilov" title="Nikolai Vavilov">Nikolai Vavilov</a> 1887–1943</li>
+<li><a href="/wiki/Barbara_McClintock" title="Barbara McClintock">Barbara McClintock</a> 1902–1992</li>
+<li><a href="/wiki/G._Ledyard_Stebbins" title="G. Ledyard Stebbins">G. Ledyard Stebbins</a> 1906–2000</li>
+<li><a href="/wiki/Eugene_Odum" title="Eugene Odum">Eugene Odum</a> 1913–2002</li>
+<li><a href="/wiki/Arthur_Cronquist" title="Arthur Cronquist">Arthur Cronquist</a> 1919–1992</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Related</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Botanical_garden" title="Botanical garden">Botanical garden</a></li>
+<li><a href="/wiki/Herbal" title="Herbal">Herbal</a></li>
+<li><a href="/wiki/Plant_taxonomy" title="Plant taxonomy">Plant taxonomy</a></li>
+<li><a href="/wiki/History_of_plant_systematics" title="History of plant systematics">History of plant systematics</a></li>
+<li><a href="/wiki/List_of_systems_of_plant_taxonomy" title="List of systems of plant taxonomy">Systems of plant taxonomy</a></li>
+<li><a href="/wiki/Herbalism" title="Herbalism">Herbalism</a></li>
+<li><a href="/wiki/History_of_agricultural_science" title="History of agricultural science">History of agricultural science</a></li>
+<li><a href="/wiki/History_of_agriculture" title="History of agriculture">History of agriculture</a></li>
+<li><a href="/wiki/History_of_biochemistry" title="History of biochemistry">History of biochemistry</a></li>
+<li><a href="/wiki/History_of_biology" title="History of biology">History of biology</a></li>
+<li><a href="/wiki/History_of_biotechnology" title="History of biotechnology">History of biotechnology</a></li>
+<li><a href="/wiki/History_of_ecology" title="History of ecology">History of ecology</a></li>
+<li><a href="/wiki/History_of_evolutionary_thought" title="History of evolutionary thought">History of evolutionary thought</a></li>
+<li><a href="/wiki/History_of_genetics" title="History of genetics">History of genetics</a></li>
+<li><a href="/wiki/History_of_geology" title="History of geology">History of geology</a></li>
+<li><a href="/wiki/History_of_medicine" title="History of medicine">History of medicine</a></li>
+<li><a href="/wiki/History_of_molecular_biology" title="History of molecular biology">History of molecular biology</a></li>
+<li><a href="/wiki/History_of_molecular_evolution" title="History of molecular evolution">History of molecular evolution</a></li>
+<li><a href="/wiki/History_of_paleontology" title="History of paleontology">History of paleontology</a></li>
+<li><a href="/wiki/History_of_phycology" title="History of phycology">History of phycology</a></li>
+<li><a href="/wiki/History_of_science" title="History of science">History of science</a></li>
+<li><a href="/wiki/Natural_philosophy" title="Natural philosophy">Natural philosophy</a></li>
+<li><a href="/wiki/Philosophy_of_biology" title="Philosophy of biology">Philosophy of biology</a></li>
+<li><a href="/wiki/Timeline_of_biology_and_organic_chemistry" title="Timeline of biology and organic chemistry">Timeline of biology and organic chemistry</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3" style="font-weight:bold;">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:History_of_botany" title="Category:History of botany">Category</a></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <a href="https://commons.wikimedia.org/wiki/Category:History_of_botany" class="extiw" title="commons:Category:History of botany">Commons</a></li>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <a href="/wiki/Portal:Plants" title="Portal:Plants">Portal</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Emerald_Necklace" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3" style="background:green; color:white;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Emerald_Necklace" title="Template:Emerald Necklace"><abbr title="View this template" style=";background:green; color:white;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Emerald_Necklace" title="Template talk:Emerald Necklace"><abbr title="Discuss this template" style=";background:green; color:white;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Emerald_Necklace&amp;action=edit"><abbr title="Edit this template" style=";background:green; color:white;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Emerald_Necklace" style="font-size:114%;margin:0 4em"><a href="/wiki/Emerald_Necklace" title="Emerald Necklace"><span style="color:#FFFFFF;">Emerald Necklace</span></a></div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px;background:transparent; text-align:center;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Arborway" title="Arborway">Arborway</a></li>
+<li><a class="mw-selflink selflink">Arnold Arboretum</a></li>
+<li><a href="/wiki/The_Fens_(Boston,_Massachusetts)" title="The Fens (Boston, Massachusetts)">The Fens</a></li>
+<li><a href="/wiki/Boston_Common" title="Boston Common">Boston Common</a></li>
+<li><a href="/wiki/Public_Garden_(Boston)" title="Public Garden (Boston)">Boston Public Garden</a></li>
+<li><a href="/wiki/Commonwealth_Avenue_(Boston)" title="Commonwealth Avenue (Boston)">Commonwealth Avenue</a></li>
+<li><a href="/wiki/Dorchesterway" title="Dorchesterway">Dorchesterway</a></li>
+<li><a href="/wiki/Fenway_(parkway)" title="Fenway (parkway)">Fenway</a></li>
+<li><a href="/wiki/Franklin_Park_(Boston)" title="Franklin Park (Boston)">Franklin Park</a></li>
+<li><a href="/wiki/Jamaica_Pond" title="Jamaica Pond">Jamaica Pond</a></li>
+<li><a href="/wiki/Jamaicaway" title="Jamaicaway">Jamaicaway</a></li>
+<li><a href="/wiki/Olmsted_Park" title="Olmsted Park">Olmsted Park</a></li>
+<li><a href="/wiki/Park_Drive_(parkway)" title="Park Drive (parkway)">Park Drive</a></li>
+<li><a href="/wiki/Riverway" title="Riverway">Riverway</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="1" style="width:1px;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Flag_of_Boston.svg" class="image" title="Flag of Boston MA"><img alt="Flag of Boston MA" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Boston.svg/80px-Flag_of_Boston.svg.png" width="80" height="56" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Boston.svg/120px-Flag_of_Boston.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Boston.svg/160px-Flag_of_Boston.svg.png 2x" data-file-width="500" data-file-height="350" /></a></div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow hlist" colspan="3">
+<div>
+<ul>
+<li><a href="/wiki/Frederick_Law_Olmsted" title="Frederick Law Olmsted">Frederick Law Olmsted</a></li>
+<li><b><a href="/wiki/Boston" title="Boston">Boston, Massachusetts</a></b>
+<ul>
+<li><a href="/wiki/Jamaica_Plain,_Massachusetts" class="mw-redirect" title="Jamaica Plain, Massachusetts">Jamaica Plain</a></li>
+<li><a href="/wiki/Roxbury,_Massachusetts" class="mw-redirect" title="Roxbury, Massachusetts">Roxbury</a></li>
+<li><a href="/wiki/Brookline,_Massachusetts" title="Brookline, Massachusetts">Brookline</a></li>
+<li><a href="/wiki/Dorchester,_Massachusetts" class="mw-redirect" title="Dorchester, Massachusetts">Dorchester</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Horticulture_and_gardening" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Horticulture_and_gardening" title="Template:Horticulture and gardening"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Horticulture_and_gardening" title="Template talk:Horticulture and gardening"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Horticulture_and_gardening&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Horticulture_and_gardening" style="font-size:114%;margin:0 4em"><a href="/wiki/Horticulture" title="Horticulture">Horticulture</a> and <a href="/wiki/Gardening" title="Gardening">gardening</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Gardening" title="Gardening">Gardening</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/History_of_gardening" title="History of gardening">History</a></li>
+<li><a href="/wiki/Garden_design" title="Garden design">Design</a>
+<ul>
+<li><a href="/wiki/Computer-aided_garden_design" title="Computer-aided garden design">computer-aided</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Garden_tool" title="Garden tool">Garden tool</a></li>
+<li><a href="/wiki/Green_wall" title="Green wall">Green wall</a></li>
+<li><a href="/wiki/Arboretum" title="Arboretum">Arboretum</a></li>
+<li><a href="/wiki/Allotment_(gardening)" title="Allotment (gardening)">Allotment</a></li>
+<li><a href="/wiki/Butterfly_gardening" title="Butterfly gardening">Butterfly</a></li>
+<li><a href="/wiki/Community_gardening" title="Community gardening">Community</a></li>
+<li><a href="/wiki/Forest_gardening" title="Forest gardening">Forest</a></li>
+<li><a href="/wiki/French_intensive_gardening" title="French intensive gardening">French intensive</a></li>
+<li><a href="/wiki/Guerrilla_gardening" title="Guerrilla gardening">Guerrilla</a></li>
+<li><a href="/wiki/Garden" title="Garden">Garden</a></li>
+<li><a href="/wiki/Conservation_and_restoration_of_historic_gardens" title="Conservation and restoration of historic gardens">Historic conservation</a></li>
+<li><a href="/wiki/English_landscape_garden" title="English landscape garden">Landscape</a></li>
+<li><a href="/wiki/Natural_landscaping" title="Natural landscaping">Native</a></li>
+<li><a href="/wiki/Parterre" title="Parterre">Parterre</a></li>
+<li><a href="/wiki/Raised-bed_gardening" title="Raised-bed gardening">Raised bed</a></li>
+<li><a href="/wiki/Square_foot_gardening" title="Square foot gardening">Square foot</a></li>
+<li><a href="/wiki/Sustainable_gardening" title="Sustainable gardening">Sustainable</a></li>
+<li><a href="/wiki/Xeriscaping" title="Xeriscaping">Xeriscaping</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="5" style="width:1px;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:RegaderaMetalica.jpg" class="image"><img alt="RegaderaMetalica.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/RegaderaMetalica.jpg/100px-RegaderaMetalica.jpg" width="100" height="75" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/RegaderaMetalica.jpg/150px-RegaderaMetalica.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/04/RegaderaMetalica.jpg/200px-RegaderaMetalica.jpg 2x" data-file-width="1024" data-file-height="768" /></a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_garden_types" title="List of garden types">Types of gardens</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Back_garden" title="Back garden">Back</a></li>
+<li><a href="/wiki/Biblical_garden" title="Biblical garden">Biblical</a></li>
+<li><a href="/wiki/Botanical_garden" title="Botanical garden">Botanical</a></li>
+<li><a href="/wiki/Butterfly_house" title="Butterfly house">Butterfly</a></li>
+<li><a href="/wiki/Byzantine_gardens" title="Byzantine gardens">Byzantine</a></li>
+<li><a href="/wiki/Cactus_garden" title="Cactus garden">Cactus</a></li>
+<li><a href="/wiki/Lingnan_garden" title="Lingnan garden">Cantonese</a></li>
+<li><a href="/wiki/Chinese_garden" title="Chinese garden">Chinese</a></li>
+<li><a href="/wiki/Color_garden" title="Color garden">Color</a></li>
+<li><a href="/wiki/Container_garden" title="Container garden">Container</a></li>
+<li><a href="/wiki/Cottage_garden" title="Cottage garden">Cottage</a></li>
+<li><a href="/wiki/Dutch_garden" title="Dutch garden">Dutch</a></li>
+<li><a href="/wiki/English_landscape_garden" title="English landscape garden">English</a></li>
+<li><a href="/wiki/Fernery" title="Fernery">Fernery</a></li>
+<li><a href="/wiki/Chinampa" title="Chinampa">Floating</a></li>
+<li><a href="/wiki/Flower_garden" title="Flower garden">Flower</a></li>
+<li>French
+<ul>
+<li><a href="/wiki/French_formal_garden" title="French formal garden">formal</a></li>
+<li><a href="/wiki/French_landscape_garden" title="French landscape garden">landscape</a></li>
+<li><a href="/wiki/Gardens_of_the_French_Renaissance" title="Gardens of the French Renaissance">Renaissance</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Front_yard" title="Front yard">Front</a></li>
+<li><a href="/wiki/Greek_gardens" title="Greek gardens">Greek</a></li>
+<li><a href="/wiki/Greenhouse" title="Greenhouse">Greenhouse</a></li>
+<li><a href="/wiki/Hanging_garden_(cultivation)" title="Hanging garden (cultivation)">Hanging</a></li>
+<li><a href="/wiki/H%C3%BCgelkultur" title="Hügelkultur">Hügelkultur</a></li>
+<li><a href="/wiki/Islamic_garden" title="Islamic garden">Islamic</a></li>
+<li><a href="/wiki/Italian_Renaissance_garden" title="Italian Renaissance garden">Italian</a></li>
+<li><a href="/wiki/Japanese_garden" title="Japanese garden">Japanese</a></li>
+<li><a href="/wiki/Kitchen_garden" title="Kitchen garden">Kitchen</a></li>
+<li><a href="/wiki/Knot_garden" title="Knot garden">Knot</a></li>
+<li><a href="/wiki/Korean_garden" title="Korean garden">Korean</a></li>
+<li><a href="/wiki/Market_garden" title="Market garden">Market</a></li>
+<li><a href="/wiki/Mary_garden" title="Mary garden">Mary</a></li>
+<li><a href="/wiki/Monastic_garden" title="Monastic garden">Monastic</a></li>
+<li><a href="/wiki/Mughal_gardens" title="Mughal gardens">Mughal</a></li>
+<li><a href="/wiki/Orangery" title="Orangery">Orangery</a></li>
+<li><a href="/wiki/Orchard" title="Orchard">Orchard</a></li>
+<li><a href="/wiki/Persian_gardens" title="Persian gardens">Persian</a>
+<ul>
+<li><a href="/wiki/Bagh_(garden)" title="Bagh (garden)">Bagh</a></li>
+<li><a href="/wiki/Charbagh" title="Charbagh">Charbagh</a></li>
+<li><a href="/wiki/Paradise_garden" title="Paradise garden">Paradise</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Philosophical_garden" title="Philosophical garden">Philosophical</a></li>
+<li><a href="/wiki/Pleasure_garden" title="Pleasure garden">Pleasure</a></li>
+<li><a href="/wiki/Roman_gardens" title="Roman gardens">Roman</a></li>
+<li><a href="/wiki/Spanish_garden" title="Spanish garden">Spanish</a></li>
+<li><a href="/wiki/Rain_garden" title="Rain garden">Rain</a></li>
+<li><a href="/wiki/Rose_garden" title="Rose garden">Rose</a></li>
+<li><a href="/wiki/Roof_garden" title="Roof garden">Roof</a></li>
+<li><a href="/wiki/Sacred_garden" title="Sacred garden">Sacred</a></li>
+<li><a href="/wiki/Gardens_in_Scotland" class="mw-redirect" title="Gardens in Scotland">Scottish</a></li>
+<li><a href="/wiki/Sculpture_garden" title="Sculpture garden">Sculpture</a></li>
+<li><a href="/wiki/Sensory_garden" title="Sensory garden">Sensory</a></li>
+<li><a href="/wiki/Shade_garden" title="Shade garden">Shade</a></li>
+<li><a href="/wiki/Therapeutic_garden" title="Therapeutic garden">Therapeutic</a></li>
+<li><a href="/wiki/Trial_garden" title="Trial garden">Trial</a></li>
+<li><a href="/wiki/Tropical_garden" title="Tropical garden">Tropical</a></li>
+<li><a href="/wiki/Victory_garden" title="Victory garden">Victory</a></li>
+<li><a href="/wiki/Vineyard" title="Vineyard">Vineyard</a></li>
+<li><a href="/wiki/Walled_garden" title="Walled garden">Walled</a></li>
+<li><a href="/wiki/Water_garden" title="Water garden">Water</a></li>
+<li><a href="/wiki/Wildlife_garden" title="Wildlife garden">Wildlife</a></li>
+<li><a href="/wiki/Winter_garden" title="Winter garden">Winter</a></li>
+<li><a href="/wiki/Japanese_rock_garden" title="Japanese rock garden">Zen</a></li>
+<li><a href="/wiki/Zoo" title="Zoo">Zoological</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Horticulture" title="Horticulture">Horticulture</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Agriculture" title="Agriculture">Agriculture</a>
+<ul>
+<li><a href="/wiki/Animal-free_agriculture" title="Animal-free agriculture">stock-free</a></li>
+<li><a href="/wiki/Sustainable_agriculture" title="Sustainable agriculture">sustainable</a></li>
+<li><a href="/wiki/Urban_agriculture" title="Urban agriculture">urban</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Arboriculture" title="Arboriculture">Arboriculture</a></li>
+<li><a href="/wiki/Botany" title="Botany">Botany</a></li>
+<li><a href="/wiki/Companion_planting" title="Companion planting">Companion planting</a></li>
+<li><a href="/wiki/Crop" title="Crop">Crop</a>
+<ul>
+<li><a href="/wiki/List_of_most_valuable_crops_and_livestock_products" title="List of most valuable crops and livestock products">most valuable</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Horticultural_flora" title="Horticultural flora">Flora</a></li>
+<li><a href="/wiki/Floriculture" title="Floriculture">Floriculture</a></li>
+<li><a href="/wiki/Pomology" title="Pomology">Fruticulture</a></li>
+<li><a href="/wiki/Genetically_modified_tree" title="Genetically modified tree">Genetically modified tree</a></li>
+<li><a href="/wiki/Hydroculture" title="Hydroculture">Hydroculture</a></li>
+<li><a href="/wiki/Indigenous_horticulture" title="Indigenous horticulture">Indigenous</a></li>
+<li><a href="/wiki/Intercropping" title="Intercropping">Intercropping</a></li>
+<li><a href="/wiki/Landscape_architecture" title="Landscape architecture">Landscape architecture</a></li>
+<li><a href="/wiki/Oenology" title="Oenology">Oenology</a></li>
+<li><a href="/wiki/Olericulture" title="Olericulture">Olericulture</a></li>
+<li><a href="/wiki/Plant" title="Plant">Plant</a>
+<ul>
+<li><a href="/wiki/Plant_breeding" title="Plant breeding">breeding</a></li>
+<li><a href="/wiki/Plant_propagation" title="Plant propagation">propagation</a></li>
+<li><a href="/wiki/Drought_tolerance" title="Drought tolerance">drought tolerance</a></li>
+<li><a href="/wiki/Hardiness_(plants)" title="Hardiness (plants)">hardiness</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Pomology" title="Pomology">Pomology</a></li>
+<li><a href="/wiki/Postharvest_physiology" class="mw-redirect" title="Postharvest physiology">Postharvest physiology</a></li>
+<li><a href="/wiki/Tropical_horticulture" title="Tropical horticulture">Tropical</a></li>
+<li>Urban
+<ul>
+<li><a href="/wiki/Urban_agriculture" title="Urban agriculture">agriculture</a></li>
+<li><a href="/wiki/Urban_horticulture" title="Urban horticulture">horticulture</a></li>
+<li><a href="/wiki/Urban_forestry" title="Urban forestry">forestry</a></li>
+<li><a href="/wiki/Urban_reforestation" title="Urban reforestation">reforestation</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Viticulture" title="Viticulture">Viticulture</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Organic_horticulture" title="Organic horticulture">Organic</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Biodynamic_agriculture" title="Biodynamic agriculture">Biodynamic agriculture</a></li>
+<li><a href="/wiki/Outline_of_organic_gardening_and_farming" title="Outline of organic gardening and farming">List of organic gardening and farming topics</a></li>
+<li><a href="/wiki/Vegan_organic_gardening" title="Vegan organic gardening">Vegan organic gardening</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Plant protection</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Fungicide" title="Fungicide">Fungicide</a></li>
+<li><a href="/wiki/Herbicide" title="Herbicide">Herbicide</a></li>
+<li><a href="/wiki/Index_of_pesticide_articles" title="Index of pesticide articles">Index of pesticide articles</a></li>
+<li><a href="/wiki/List_of_fungicides" title="List of fungicides">List of fungicides</a></li>
+<li><a href="/wiki/Pesticide" title="Pesticide">Pesticide</a></li>
+<li><a href="/wiki/Plant_disease_forecasting" title="Plant disease forecasting">Plant disease forecasting</a></li>
+<li><a href="/wiki/Pruning" title="Pruning">Pruning</a></li>
+<li><a href="/wiki/Weed_control" title="Weed control">Weed control</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div>
+<ul>
+<li><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Corn_01.JPG/16px-Corn_01.JPG" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Corn_01.JPG/24px-Corn_01.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Corn_01.JPG/32px-Corn_01.JPG 2x" data-file-width="1632" data-file-height="1224" /> <b><a href="/wiki/Portal:Agriculture_and_agronomy" title="Portal:Agriculture and agronomy">Agriculture and agronomy portal</a></b></li>
+<li><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Leaf_1_web.jpg/16px-Leaf_1_web.jpg" width="16" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Leaf_1_web.jpg/24px-Leaf_1_web.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Leaf_1_web.jpg/32px-Leaf_1_web.jpg 2x" data-file-width="1024" data-file-height="768" /> <b><a href="/wiki/Portal:Gardening" title="Portal:Gardening">Gardening portal</a></b></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <b><a href="https://commons.wikimedia.org/wiki/Category:Horticulture" class="extiw" title="commons:Category:Horticulture">Commons</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="U.S._National_Register_of_Historic_Places_in_Massachusetts" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3" style="background-color:#A8EDEF">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:National_Register_of_Historic_Places_in_Massachusetts" title="Template:National Register of Historic Places in Massachusetts"><abbr title="View this template" style="background-color:#A8EDEF;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:National_Register_of_Historic_Places_in_Massachusetts" title="Template talk:National Register of Historic Places in Massachusetts"><abbr title="Discuss this template" style="background-color:#A8EDEF;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:National_Register_of_Historic_Places_in_Massachusetts&amp;action=edit"><abbr title="Edit this template" style="background-color:#A8EDEF;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="U.S._National_Register_of_Historic_Places_in_Massachusetts" style="font-size:114%;margin:0 4em"><a href="/wiki/National_Register_of_Historic_Places_listings_in_Massachusetts" title="National Register of Historic Places listings in Massachusetts">U.S. National Register of Historic Places in Massachusetts</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A8EDEF;width:1%">Topics</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Contributing_property" title="Contributing property">Contributing property</a></li>
+<li><a href="/wiki/Keeper_of_the_Register" title="Keeper of the Register">Keeper of the Register</a></li>
+<li><a href="/wiki/Historic_districts_in_the_United_States" title="Historic districts in the United States">Historic district</a></li>
+<li><a href="/wiki/History_of_the_National_Register_of_Historic_Places" title="History of the National Register of Historic Places">History of the National Register of Historic Places</a></li>
+<li><a href="/wiki/National_Park_Service" title="National Park Service">National Park Service</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_property_types" title="National Register of Historic Places property types">Property types</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="4" style="width:1px;padding:0px 0px 0px 2px">
+<div><img alt="Map of the United States with Massachusetts highlighted" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Map_of_USA_MA.svg/100px-Map_of_USA_MA.svg.png" width="100" height="65" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Map_of_USA_MA.svg/151px-Map_of_USA_MA.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Map_of_USA_MA.svg/200px-Map_of_USA_MA.svg.png 2x" data-file-width="286" data-file-height="186" /></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A8EDEF;width:1%">Lists by county</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Barnstable_County,_Massachusetts" title="National Register of Historic Places listings in Barnstable County, Massachusetts">Barnstable</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Berkshire_County,_Massachusetts" title="National Register of Historic Places listings in Berkshire County, Massachusetts">Berkshire</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Bristol_County,_Massachusetts" title="National Register of Historic Places listings in Bristol County, Massachusetts">Bristol</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Dukes_County,_Massachusetts" title="National Register of Historic Places listings in Dukes County, Massachusetts">Dukes</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Essex_County,_Massachusetts" title="National Register of Historic Places listings in Essex County, Massachusetts">Essex</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Franklin_County,_Massachusetts" title="National Register of Historic Places listings in Franklin County, Massachusetts">Franklin</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Hampden_County,_Massachusetts" title="National Register of Historic Places listings in Hampden County, Massachusetts">Hampden</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Hampshire_County,_Massachusetts" title="National Register of Historic Places listings in Hampshire County, Massachusetts">Hampshire</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Middlesex_County,_Massachusetts" title="National Register of Historic Places listings in Middlesex County, Massachusetts">Middlesex</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Nantucket_County,_Massachusetts" title="National Register of Historic Places listings in Nantucket County, Massachusetts">Nantucket</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Norfolk_County,_Massachusetts" title="National Register of Historic Places listings in Norfolk County, Massachusetts">Norfolk</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Plymouth_County,_Massachusetts" title="National Register of Historic Places listings in Plymouth County, Massachusetts">Plymouth</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Suffolk_County,_Massachusetts" title="National Register of Historic Places listings in Suffolk County, Massachusetts">Suffolk</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Worcester_County,_Massachusetts" title="National Register of Historic Places listings in Worcester County, Massachusetts">Worcester</a> (<a href="/wiki/National_Register_of_Historic_Places_listings_in_northern_Worcester_County,_Massachusetts" title="National Register of Historic Places listings in northern Worcester County, Massachusetts">northern</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A8EDEF;width:1%">Lists by city</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;background-color:#A8EDEF">Barnstable County</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Barnstable,_Massachusetts" title="National Register of Historic Places listings in Barnstable, Massachusetts">Barnstable</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Harwich,_Massachusetts" title="National Register of Historic Places listings in Harwich, Massachusetts">Harwich</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;background-color:#A8EDEF">Bristol County</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Fall_River,_Massachusetts" title="National Register of Historic Places listings in Fall River, Massachusetts">Fall River</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_New_Bedford,_Massachusetts" title="National Register of Historic Places listings in New Bedford, Massachusetts">New Bedford</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Taunton,_Massachusetts" title="National Register of Historic Places listings in Taunton, Massachusetts">Taunton</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;background-color:#A8EDEF">Essex County</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Andover,_Massachusetts" title="National Register of Historic Places listings in Andover, Massachusetts">Andover</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Gloucester,_Massachusetts" title="National Register of Historic Places listings in Gloucester, Massachusetts">Gloucester</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Ipswich,_Massachusetts" title="National Register of Historic Places listings in Ipswich, Massachusetts">Ipswich</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Lawrence,_Massachusetts" title="National Register of Historic Places listings in Lawrence, Massachusetts">Lawrence</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Lynn,_Massachusetts" title="National Register of Historic Places listings in Lynn, Massachusetts">Lynn</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Methuen,_Massachusetts" title="National Register of Historic Places listings in Methuen, Massachusetts">Methuen</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Salem,_Massachusetts" title="National Register of Historic Places listings in Salem, Massachusetts">Salem</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;background-color:#A8EDEF">Hampden County</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Springfield,_Massachusetts" title="National Register of Historic Places listings in Springfield, Massachusetts">Springfield</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;background-color:#A8EDEF">Middlesex County</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Arlington,_Massachusetts" title="National Register of Historic Places listings in Arlington, Massachusetts">Arlington</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Cambridge,_Massachusetts" title="National Register of Historic Places listings in Cambridge, Massachusetts">Cambridge</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Concord,_Massachusetts" title="National Register of Historic Places listings in Concord, Massachusetts">Concord</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Framingham,_Massachusetts" title="National Register of Historic Places listings in Framingham, Massachusetts">Framingham</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Lexington,_Massachusetts" title="National Register of Historic Places listings in Lexington, Massachusetts">Lexington</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Lowell,_Massachusetts" title="National Register of Historic Places listings in Lowell, Massachusetts">Lowell</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Marlborough,_Massachusetts" title="National Register of Historic Places listings in Marlborough, Massachusetts">Marlborough</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Medford,_Massachusetts" title="National Register of Historic Places listings in Medford, Massachusetts">Medford</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Newton,_Massachusetts" title="National Register of Historic Places listings in Newton, Massachusetts">Newton</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Reading,_Massachusetts" title="National Register of Historic Places listings in Reading, Massachusetts">Reading</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Sherborn,_Massachusetts" title="National Register of Historic Places listings in Sherborn, Massachusetts">Sherborn</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Somerville,_Massachusetts" title="National Register of Historic Places listings in Somerville, Massachusetts">Somerville</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Stoneham,_Massachusetts" title="National Register of Historic Places listings in Stoneham, Massachusetts">Stoneham</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Wakefield,_Massachusetts" title="National Register of Historic Places listings in Wakefield, Massachusetts">Wakefield</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Waltham,_Massachusetts" title="National Register of Historic Places listings in Waltham, Massachusetts">Waltham</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Weston,_Massachusetts" title="National Register of Historic Places listings in Weston, Massachusetts">Weston</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Winchester,_Massachusetts" title="National Register of Historic Places listings in Winchester, Massachusetts">Winchester</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;background-color:#A8EDEF">Norfolk County</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Brookline,_Massachusetts" title="National Register of Historic Places listings in Brookline, Massachusetts">Brookline</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Milton,_Massachusetts" title="National Register of Historic Places listings in Milton, Massachusetts">Milton</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Quincy,_Massachusetts" title="National Register of Historic Places listings in Quincy, Massachusetts">Quincy</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;background-color:#A8EDEF">Suffolk County</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Boston" title="National Register of Historic Places listings in Boston">Boston</a>
+<ul>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_northern_Boston" title="National Register of Historic Places listings in northern Boston">northern</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_southern_Boston" title="National Register of Historic Places listings in southern Boston">southern</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;background-color:#A8EDEF">Worcester County</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Southbridge,_Massachusetts" title="National Register of Historic Places listings in Southbridge, Massachusetts">Southbridge</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Uxbridge,_Massachusetts" title="National Register of Historic Places listings in Uxbridge, Massachusetts">Uxbridge</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Worcester,_Massachusetts" title="National Register of Historic Places listings in Worcester, Massachusetts">Worcester</a>
+<ul>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_eastern_Worcester,_Massachusetts" title="National Register of Historic Places listings in eastern Worcester, Massachusetts">eastern</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_northwestern_Worcester,_Massachusetts" title="National Register of Historic Places listings in northwestern Worcester, Massachusetts">northwestern</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_southwestern_Worcester,_Massachusetts" title="National Register of Historic Places listings in southwestern Worcester, Massachusetts">southwestern</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A8EDEF;width:1%">Other lists</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_bridges_on_the_National_Register_of_Historic_Places_in_Massachusetts" title="List of bridges on the National Register of Historic Places in Massachusetts">Bridges</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Cape_Cod_National_Seashore" title="National Register of Historic Places listings in Cape Cod National Seashore">Cape Cod National Seashore</a></li>
+<li><a href="/wiki/List_of_National_Historic_Landmarks_in_Massachusetts" title="List of National Historic Landmarks in Massachusetts">National Historic Landmarks</a>
+<ul>
+<li><a href="/wiki/List_of_National_Historic_Landmarks_in_Boston" title="List of National Historic Landmarks in Boston">Boston</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3" style="background-color:#A8EDEF">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:National_Register_of_Historic_Places_in_Massachusetts" title="Category:National Register of Historic Places in Massachusetts">Category</a></li>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <a href="/wiki/Portal:National_Register_of_Historic_Places" title="Portal:National Register of Historic Places">NRHP portal</a></li>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <a href="/wiki/Portal:Massachusetts" title="Portal:Massachusetts">Massachusetts portal</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1238
+Cached time: 20171017095842
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.516 seconds
+Real time usage: 0.678 seconds
+Preprocessor visited node count: 3502/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 183588/2097152 bytes
+Template argument size: 4565/2097152 bytes
+Highest expansion depth: 19/40
+Expensive parser function count: 2/500
+Lua time usage: 0.212/10.000 seconds
+Lua memory usage: 7.36 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  479.391      1 -total
+ 47.40%  227.209      2 Template:Infobox
+ 39.24%  188.122      1 Template:Infobox_NRHP
+ 18.81%   90.167      1 Template:Reflist
+ 13.63%   65.345      7 Template:Navbox
+ 10.71%   51.353      1 Template:Refimprove
+  8.57%   41.092      3 Template:Cite_web
+  8.46%   40.574      4 Template:Convert
+  7.51%   36.023      1 Template:NRISref
+  7.11%   34.072      1 Template:Botany
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1672512-0!canonical and timestamp 20171017095842 and revision id 798128354
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Arnold_Arboretum&amp;oldid=798128354">https://en.wikipedia.org/w/index.php?title=Arnold_Arboretum&amp;oldid=798128354</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Arboreta_in_Massachusetts" title="Category:Arboreta in Massachusetts">Arboreta in Massachusetts</a></li><li><a href="/wiki/Category:Botanical_gardens_in_Massachusetts" title="Category:Botanical gardens in Massachusetts">Botanical gardens in Massachusetts</a></li><li><a href="/wiki/Category:Emerald_Necklace" title="Category:Emerald Necklace">Emerald Necklace</a></li><li><a href="/wiki/Category:Arnold_Arboretum" title="Category:Arnold Arboretum">Arnold Arboretum</a></li><li><a href="/wiki/Category:Frederick_Law_Olmsted_works" title="Category:Frederick Law Olmsted works">Frederick Law Olmsted works</a></li><li><a href="/wiki/Category:Harvard_University" title="Category:Harvard University">Harvard University</a></li><li><a href="/wiki/Category:National_Historic_Landmarks_in_Boston" title="Category:National Historic Landmarks in Boston">National Historic Landmarks in Boston</a></li><li><a href="/wiki/Category:Parks_in_Boston" title="Category:Parks in Boston">Parks in Boston</a></li><li><a href="/wiki/Category:1872_establishments_in_Massachusetts" title="Category:1872 establishments in Massachusetts">1872 establishments in Massachusetts</a></li><li><a href="/wiki/Category:Landmarks_in_Boston" title="Category:Landmarks in Boston">Landmarks in Boston</a></li><li><a href="/wiki/Category:National_Register_of_Historic_Places_in_Boston" title="Category:National Register of Historic Places in Boston">National Register of Historic Places in Boston</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_June_2017" title="Category:Articles needing additional references from June 2017">Articles needing additional references from June 2017</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_June_2013" title="Category:Articles with unsourced statements from June 2013">Articles with unsourced statements from June 2013</a></li><li><a href="/wiki/Category:Pages_using_div_col_with_small_parameter" title="Category:Pages using div col with small parameter">Pages using div col with small parameter</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Arnold+Arboretum" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Arnold+Arboretum" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Arnold_Arboretum" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Arnold_Arboretum" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Arnold_Arboretum">Read</a></span></li>
+							<li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Arnold_Arboretum&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Arnold_Arboretum&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Arnold_Arboretum" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Arnold_Arboretum" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Arnold_Arboretum&amp;oldid=798128354" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Arnold_Arboretum&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q568666" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Arnold_Arboretum&amp;id=798128354" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Arnold+Arboretum">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Arnold+Arboretum&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Arnold_Arboretum&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Arnold_Arboretum" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-species"><a href="https://species.wikimedia.org/wiki/A" hreflang="en">Wikispecies</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Arnold_Arboretum" title="Arnold Arboretum – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Arnold_Arboretum" title="Arnold Arboretum – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Arnold-Arboretum" title="Arnold-Arboretum – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Arnold_Arboretum" title="Arnold Arboretum – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Arnold_Arboretum" title="Arnold Arboretum – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Arnold_Arboretum" title="Arnold Arboretum – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%BD%D0%B4%D1%80%D0%B0%D1%80%D0%B8%D0%B9_%D0%90%D1%80%D0%BD%D0%BE%D0%BB%D1%8C%D0%B4%D0%B0" title="Дендрарий Арнольда – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q568666#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 31 August 2017, at 04:39.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Arnold_Arboretum&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.516","walltime":"0.678","ppvisitednodes":{"value":3502,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":183588,"limit":2097152},"templateargumentsize":{"value":4565,"limit":2097152},"expansiondepth":{"value":19,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  479.391      1 -total"," 47.40%  227.209      2 Template:Infobox"," 39.24%  188.122      1 Template:Infobox_NRHP"," 18.81%   90.167      1 Template:Reflist"," 13.63%   65.345      7 Template:Navbox"," 10.71%   51.353      1 Template:Refimprove","  8.57%   41.092      3 Template:Cite_web","  8.46%   40.574      4 Template:Convert","  7.51%   36.023      1 Template:NRISref","  7.11%   34.072      1 Template:Botany"]},"scribunto":{"limitreport-timeusage":{"value":"0.212","limit":"10.000"},"limitreport-memusage":{"value":7722634,"limit":52428800}},"cachereport":{"origin":"mw1238","timestamp":"20171017095842","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":83,"wgHostname":"mw1186"});});</script>
+	</body>
+</html>

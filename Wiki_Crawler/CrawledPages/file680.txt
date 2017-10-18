@@ -1,0 +1,1481 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Massachusetts Hall (Harvard University) - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Massachusetts_Hall_(Harvard_University)","wgTitle":"Massachusetts Hall (Harvard University)","wgCurRevisionId":805150928,"wgRevisionId":805150928,"wgArticleId":2614601,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Coordinates on Wikidata","Harvard Freshman Dormitories","National Historic Landmarks in Cambridge, Massachusetts","School buildings completed in 1720","Harvard Square","University and college buildings on the National Register of Historic Places in Massachusetts","Historic district contributing properties in Massachusetts","1720 establishments in Massachusetts","National Register of Historic Places in Cambridge, Massachusetts"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Massachusetts_Hall_(Harvard_University)","wgRelevantArticleId":2614601,"wgRequestId":"WeVoLgpAADwAAGL7p1MAAAAY","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Massachusetts_Hall,_Harvard_University","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Massachusetts_Hall_(Harvard_University)","wgCoordinates":{"lat":42.374438888889,"lon":-71.118283333333},"wgWikibaseItemId":"Q6784282","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.3"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Harvard_University_Massachusetts_Hall.jpg/1200px-Harvard_University_Massachusetts_Hall.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Massachusetts_Hall_(Harvard_University)"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Massachusetts_Hall_(Harvard_University)&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Massachusetts_Hall_(Harvard_University)&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Massachusetts_Hall_(Harvard_University)"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Massachusetts_Hall_Harvard_University rootpage-Massachusetts_Hall_Harvard_University vector-experimental-print-styles vector-nav-directionality skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Massachusetts Hall (Harvard University)</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a href="/w/index.php?title=Massachusetts_Hall,_Harvard_University&amp;redirect=no" class="mw-redirect" title="Massachusetts Hall, Harvard University">Massachusetts Hall, Harvard University</a>)</span></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox" style="width:22em;width:250px; border-spacing:1px;">
+<tr>
+<td colspan="2" style="text-align:center;padding:0; border:none;"></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center">
+<div style="width:100%; font-size:105%; font-weight:bold; background: #A8EDEF; line-height:1.5">Massachusetts Hall, Harvard University</div>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center">
+<div style="width:100%; text-align:center; line-height:1.5; background: #A8EDEF;"><a href="/wiki/National_Register_of_Historic_Places" title="National Register of Historic Places">U.S. National Register of Historic Places</a></div>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center">
+<div style="width:100%; text-align:center; line-height:1.4; background: #87CEEB"><a href="/wiki/National_Historic_Landmark" title="National Historic Landmark">U.S. National Historic Landmark</a></div>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center">
+<div style="width:100%; text-align:center; line-height:1.5; background: #CCFFCC"><a href="/wiki/Historic_districts_in_the_United_States" title="Historic districts in the United States">U.S. Historic district</a><br />
+<a href="/wiki/Contributing_property" title="Contributing property">Contributing property</a></div>
+</td>
+</tr>
+<tr style="display:none">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Harvard_University_Massachusetts_Hall.jpg" class="image"><img alt="Harvard University Massachusetts Hall.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Harvard_University_Massachusetts_Hall.jpg/250px-Harvard_University_Massachusetts_Hall.jpg" width="250" height="181" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Harvard_University_Massachusetts_Hall.jpg/375px-Harvard_University_Massachusetts_Hall.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Harvard_University_Massachusetts_Hall.jpg/500px-Harvard_University_Massachusetts_Hall.jpg 2x" data-file-width="1600" data-file-height="1159" /></a>
+<div style="font-size:95%;">Massachusetts Hall, May 2005</div>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center">
+<div class="switcher-container">
+<div class="center">
+<div style="width:250px;float:none;clear:both;margin-left:auto;margin-right:auto">
+<div style="width:250px;padding:0">
+<div style="position:relative;width:250px"><a href="/wiki/File:USA_Massachusetts_location_map.svg" class="image" title="Massachusetts Hall (Harvard University) is located in Massachusetts"><img alt="Massachusetts Hall (Harvard University) is located in Massachusetts" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/USA_Massachusetts_location_map.svg/250px-USA_Massachusetts_location_map.svg.png" width="250" height="171" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/USA_Massachusetts_location_map.svg/375px-USA_Massachusetts_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/79/USA_Massachusetts_location_map.svg/500px-USA_Massachusetts_location_map.svg.png 2x" data-file-width="1050" data-file-height="717" /></a>
+<div style="position:absolute;top:34.551%;left:64.543%">
+<div style="position:absolute;left:-4px;top:-4px;line-height:0"><img alt="Massachusetts Hall (Harvard University)" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/7px-Red_pog.svg.png" title="Massachusetts Hall (Harvard University)" width="7" height="7" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/11px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/14px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div>
+</div>
+</div>
+<span class="switcher-label" style="display:none">Show map of Massachusetts</span></div>
+</div>
+</div>
+<div class="center">
+<div style="width:250px;float:none;clear:both;margin-left:auto;margin-right:auto">
+<div style="width:250px;padding:0">
+<div style="position:relative;width:250px"><a href="/wiki/File:Usa_edcp_location_map.svg" class="image" title="Massachusetts Hall (Harvard University) is located in the US"><img alt="Massachusetts Hall (Harvard University) is located in the US" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Usa_edcp_location_map.svg/250px-Usa_edcp_location_map.svg.png" width="250" height="155" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Usa_edcp_location_map.svg/375px-Usa_edcp_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Usa_edcp_location_map.svg/500px-Usa_edcp_location_map.svg.png 2x" data-file-width="1181" data-file-height="731" /></a>
+<div style="position:absolute;top:28.093%;left:89.366%">
+<div style="position:absolute;left:-4px;top:-4px;line-height:0"><img alt="Massachusetts Hall (Harvard University)" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/7px-Red_pog.svg.png" title="Massachusetts Hall (Harvard University)" width="7" height="7" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/11px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/14px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div>
+</div>
+</div>
+<span class="switcher-label" style="display:none">Show map of the US</span></div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="font-weight:bold; border: 0;">Location</th>
+<td style="border: 0;"><a href="/wiki/Cambridge,_Massachusetts" title="Cambridge, Massachusetts">Cambridge, Massachusetts</a></td>
+</tr>
+<tr>
+<th scope="row" style="font-weight:bold; border: 0;">Coordinates</th>
+<td style="border: 0;"><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Massachusetts_Hall_(Harvard_University)&amp;params=42_22_27.98_N_71_7_5.82_W_type:landmark_region:US-MA"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">42°22′27.98″N</span> <span class="longitude">71°7′5.82″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">42.3744389°N 71.1182833°W</span><span style="display:none">﻿ / <span class="geo">42.3744389; -71.1182833</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Massachusetts_Hall_(Harvard_University)&amp;params=42_22_27.98_N_71_7_5.82_W_type:landmark_region:US-MA"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">42°22′27.98″N</span> <span class="longitude">71°7′5.82″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">42.3744389°N 71.1182833°W</span><span style="display:none">﻿ / <span class="geo">42.3744389; -71.1182833</span></span></span></a></span></span></span></td>
+</tr>
+<tr>
+<th scope="row" style="font-weight:bold; border: 0;">Built</th>
+<td style="border: 0;">1718–1720</td>
+</tr>
+<tr>
+<th scope="row" style="font-weight:bold; border: 0;">Architect</th>
+<td style="border: 0;"><a href="/wiki/John_Leverett_the_Younger" title="John Leverett the Younger">John Leverett</a></td>
+</tr>
+<tr>
+<th scope="row" style="font-weight:bold; border: 0;">Architectural&#160;style</th>
+<td style="border: 0;">Georgian</td>
+</tr>
+<tr>
+<th scope="row" style="font-weight:bold; border: 0;">Part of</th>
+<td style="border: 0;"><a href="/wiki/Old_Harvard_Yard" class="mw-redirect" title="Old Harvard Yard">Old Harvard Yard</a> (<a rel="nofollow" class="external text" href="https://npgallery.nps.gov/AssetDetail/NRIS/73000287">#73000287</a>)</td>
+</tr>
+<tr>
+<th scope="row" style="font-weight:bold; border: 0;">NRHP&#160;reference&#160;#</th>
+<td style="border: 0;"><a rel="nofollow" class="external text" href="https://npgallery.nps.gov/AssetDetail/NRIS/66000769">66000769</a><sup id="cite_ref-nris_1-0" class="reference"><a href="#cite_note-nris-1">[1]</a></sup></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background: #A8EDEF">Significant dates</th>
+</tr>
+<tr>
+<th scope="row" style="font-weight:bold; border: 0;">Added to NRHP</th>
+<td style="border: 0;">October 15, 1966</td>
+</tr>
+<tr>
+<th scope="row" style="font-weight:bold; border: 0;">Designated&#160;NHL</th>
+<td style="border: 0;">October 9, 1960</td>
+</tr>
+<tr>
+<th scope="row" style="font-weight:bold; border: 0;">Designated&#160;CP</th>
+<td style="border: 0;">February 6, 1973</td>
+</tr>
+</table>
+<p><b>Massachusetts Hall</b> is the oldest surviving building at <a href="/wiki/Harvard_College" title="Harvard College">Harvard College</a>, the first institution of higher learning in the British colonies in America, and second oldest academic building in the United States after the <a href="/wiki/Wren_Building" title="Wren Building">Wren Building</a> at the <a href="/wiki/College_of_William_%26_Mary" title="College of William &amp; Mary">College of William &amp; Mary</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> As such, it possesses great significance not only in the history of American education but also in the story of the developing English Colonies of the 18th century. Massachusetts Hall was designed by Harvard Presidents <a href="/wiki/John_Leverett_the_Younger" title="John Leverett the Younger">John Leverett</a> and his successor <a href="/wiki/Benjamin_Wadsworth" title="Benjamin Wadsworth">Benjamin Wadsworth</a>. It was erected between 1718 and 1720 in <a href="/wiki/Harvard_Yard" title="Harvard Yard">Harvard Yard</a>. It was originally a dormitory containing 32 chambers and 64 small private studies for the 64 students it was designed to house. During the <a href="/wiki/Siege_of_Boston" title="Siege of Boston">siege of Boston</a>, 640 American soldiers took quarters in the hall. Much of the interior woodwork and hardware, including brass doorknobs, disappeared at this time.</p>
+<p>While designed as a residence for students, the building has served many purposes through the years. After Thomas Hollis donated a quadrant and a 24-foot telescope in 1722, for example, the building housed an informal observatory.</p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Massachusetts_Hall,_Harvard_University.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Massachusetts_Hall%2C_Harvard_University.JPG/220px-Massachusetts_Hall%2C_Harvard_University.JPG" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Massachusetts_Hall%2C_Harvard_University.JPG/330px-Massachusetts_Hall%2C_Harvard_University.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Massachusetts_Hall%2C_Harvard_University.JPG/440px-Massachusetts_Hall%2C_Harvard_University.JPG 2x" data-file-width="2560" data-file-height="1920" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Massachusetts_Hall,_Harvard_University.JPG" class="internal" title="Enlarge"></a></div>
+Massachusetts Hall is the oldest surviving building at <a href="/wiki/Harvard_College" title="Harvard College">Harvard College</a>.</div>
+</div>
+</div>
+<p>Currently, the President of the University, Provost, Treasurer, and Vice Presidents have offices that occupy the first two floors and half of the third. Freshmen reside in the fourth floor.</p>
+<p>Massachusetts Hall, as Harvard's oldest extant dormitory, has housed many influential people. <a href="/wiki/Founding_Fathers_of_the_United_States" title="Founding Fathers of the United States">Founding fathers</a> who lived in Massachusetts Hall include <a href="/wiki/John_Adams" title="John Adams">John Adams</a>, <a href="/wiki/John_Hancock" title="John Hancock">John Hancock</a>, <a href="/wiki/Samuel_Adams" title="Samuel Adams">Samuel Adams</a>, <a href="/wiki/Elbridge_Gerry" title="Elbridge Gerry">Elbridge Gerry</a>, and <a href="/wiki/James_Otis,_Jr." class="mw-redirect" title="James Otis, Jr.">James Otis</a>. Members of the Wigglesworth, Weld, Thayer, Eliot, and Lowell families (among others), whose names now grace other dormitories, also lived in Massachusetts Hall. More recent notable residents of Massachusetts Hall include <a href="/wiki/Alan_Jay_Lerner" title="Alan Jay Lerner">Alan Jay Lerner</a>, <a href="/wiki/Elliot_Richardson" title="Elliot Richardson">Elliot Richardson</a> and <a href="/wiki/John_Harbison" title="John Harbison">John Harbison</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Massachusetts_Hall_(Harvard_University)&amp;action=edit&amp;section=1" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/List_of_National_Historic_Landmarks_in_Massachusetts" title="List of National Historic Landmarks in Massachusetts">List of National Historic Landmarks in Massachusetts</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Cambridge,_Massachusetts" title="National Register of Historic Places listings in Cambridge, Massachusetts">National Register of Historic Places listings in Cambridge, Massachusetts</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Massachusetts_Hall_(Harvard_University)&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-nris-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-nris_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a href="/wiki/National_Park_Service" title="National Park Service">National Park Service</a> (2007-01-23). <a rel="nofollow" class="external text" href="http://nrhp.focus.nps.gov/natreg/docs/All_Data.html">"National Register Information System"</a>. <i>National Register of Historic Places</i>. National Park Service.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMassachusetts+Hall+%28Harvard+University%29&amp;rft.atitle=National+Register+Information+System&amp;rft.au=National+Park+Service&amp;rft.date=2007-01-23&amp;rft.genre=unknown&amp;rft.jtitle=National+Register+of+Historic+Places&amp;rft_id=http%3A%2F%2Fnrhp.focus.nps.gov%2Fnatreg%2Fdocs%2FAll_Data.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.thecrimson.com/article.aspx?ref=518014">"The Critical Mass. (Hall)", <i>The Crimson</i>, April 5, 2007</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">The other, the <a href="/wiki/Wren_Building" title="Wren Building">Wren Building</a> at the <a href="/wiki/College_of_William_and_Mary" class="mw-redirect" title="College of William and Mary">College of William and Mary</a>, has been destroyed by fire three times, and rebuilt.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Source: Dorm History Search at <a rel="nofollow" class="external free" href="http://hcs.harvard.edu/~dorms/">http://hcs.harvard.edu/~dorms/</a></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Massachusetts_Hall_(Harvard_University)&amp;action=edit&amp;section=3" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.cr.nps.gov/history/online_books/colonials-patriots/sitec15.htm">National Park Service, Survey of Historic Sites and Buildings - Massachusetts Hall</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.news.harvard.edu/tour/3.html">Harvard Virtual Tour - Massachusetts Hall</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.thecrimson.com/article.aspx?ref=510928">Harvard Crimson - For Sale by Owner: Historic Colonial</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Harvard_University" style="padding:3px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Harvard" title="Template:Harvard"><abbr title="View this template" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Harvard" title="Template talk:Harvard"><abbr title="Discuss this template" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Harvard&amp;action=edit"><abbr title="Edit this template" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Harvard_University" style="font-size:114%;margin:0 4em"><a href="/wiki/Harvard_University" title="Harvard University"><span style="color:white">Harvard University</span></a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%"></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/History_of_Harvard_University" title="History of Harvard University">History</a></li>
+<li><a href="/wiki/John_Harvard_(clergyman)" title="John Harvard (clergyman)">John Harvard</a>
+<ul>
+<li><a href="/wiki/John_Harvard_(statue)" title="John Harvard (statue)">statue</a></li>
+</ul>
+</li>
+<li><a href="/wiki/President_of_Harvard_University" title="President of Harvard University">President</a> <a href="/wiki/Drew_Gilpin_Faust" title="Drew Gilpin Faust">Drew Gilpin Faust</a></li>
+<li><a href="/wiki/Harvard_Board_of_Overseers" title="Harvard Board of Overseers">Board of Overseers</a></li>
+<li><a href="/wiki/President_and_Fellows_of_Harvard_College" title="President and Fellows of Harvard College">President and Fellows of Harvard College</a></li>
+<li>Provost <a href="/wiki/Alan_M._Garber" class="mw-redirect" title="Alan M. Garber">Alan M. Garber</a></li>
+<li><a href="/wiki/Harvard_Library" title="Harvard Library">The Harvard Library</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="14" style="width:1px;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:John_Harvard_statue.jpg" class="image"><img alt="John Harvard statue.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/John_Harvard_statue.jpg/110px-John_Harvard_statue.jpg" width="110" height="123" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/John_Harvard_statue.jpg/165px-John_Harvard_statue.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/John_Harvard_statue.jpg/220px-John_Harvard_statue.jpg 2x" data-file-width="1622" data-file-height="1809" /></a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Arts and<br />
+Sciences</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%"></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_Faculty_of_Arts_and_Sciences" title="Harvard Faculty of Arts and Sciences">Harvard Faculty of Arts and Sciences</a></li>
+<li>Dean <a href="/wiki/Michael_D._Smith_(computer_scientist)" title="Michael D. Smith (computer scientist)">Michael D. Smith</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">College</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_College" title="Harvard College">Harvard College</a></li>
+<li>Dean <a href="/wiki/Rakesh_Khurana" title="Rakesh Khurana">Rakesh Khurana</a></li>
+<li><a href="/wiki/Radcliffe_College" title="Radcliffe College">Radcliffe College</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/List_of_Harvard_College_freshman_dormitories" title="List of Harvard College freshman dormitories">Freshman dormitories</a></li>
+<li>Upperclass houses
+<ul>
+<li><a href="/wiki/Adams_House_(Harvard_University)" class="mw-redirect" title="Adams House (Harvard University)">Adams</a></li>
+<li><a href="/wiki/Cabot_House" title="Cabot House">Cabot</a></li>
+<li><a href="/wiki/Currier_House_(Harvard_College)" title="Currier House (Harvard College)">Currier</a></li>
+<li><a href="/wiki/Dudley_House_(Harvard_College)" class="mw-redirect" title="Dudley House (Harvard College)">Dudley</a></li>
+<li><a href="/wiki/Dunster_House" title="Dunster House">Dunster</a></li>
+<li><a href="/wiki/Eliot_House" class="mw-redirect" title="Eliot House">Eliot</a></li>
+<li><a href="/wiki/Kirkland_House,_Harvard_University" class="mw-redirect" title="Kirkland House, Harvard University">Kirkland</a></li>
+<li><a href="/wiki/Leverett_House" title="Leverett House">Leverett</a></li>
+<li><a href="/wiki/Lowell_House" title="Lowell House">Lowell</a></li>
+<li><a href="/wiki/Mather_House_(Harvard_University)" class="mw-redirect" title="Mather House (Harvard University)">Mather</a></li>
+<li><a href="/wiki/Pforzheimer_House" title="Pforzheimer House">Pforzheimer</a></li>
+<li><a href="/wiki/Quincy_House_(Harvard)" class="mw-redirect" title="Quincy House (Harvard)">Quincy</a></li>
+<li><a href="/wiki/Winthrop_House" title="Winthrop House">Winthrop</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><a href="/wiki/List_of_Harvard_College_undergraduate_organizations" title="List of Harvard College undergraduate organizations">Undergraduate organizations</a></li>
+<li><i><a href="/wiki/The_Harvard_Crimson" title="The Harvard Crimson">The Harvard Crimson</a></i></li>
+<li><i><a href="/wiki/The_Harvard_Lampoon" title="The Harvard Lampoon">The Harvard Lampoon</a></i></li>
+<li><i><a href="/wiki/The_Harvard_Advocate" title="The Harvard Advocate">The Harvard Advocate</a></i></li>
+<li><i><a href="/wiki/The_Harvard_Independent" title="The Harvard Independent">The Harvard Independent</a></i></li>
+</ul>
+<ul>
+<li><b>Athletics</b>: <a href="/wiki/Harvard_Crimson" title="Harvard Crimson">Harvard Crimson</a></li>
+<li><a href="/wiki/Ivy_League" title="Ivy League">Ivy League</a></li>
+<li><a href="/wiki/Harvard_Stadium" title="Harvard Stadium">Harvard Stadium</a></li>
+<li><a href="/wiki/Harvard%E2%80%93Yale_football_rivalry" title="Harvard–Yale football rivalry">Yale football rivalry</a></li>
+<li><a href="/wiki/Lavietes_Pavilion" title="Lavietes Pavilion">Lavietes Pavilion</a></li>
+<li><a href="/wiki/Bright_Hockey_Center" class="mw-redirect" title="Bright Hockey Center">Bright Hockey Center</a></li>
+<li><a href="/wiki/Cornell%E2%80%93Harvard_hockey_rivalry" title="Cornell–Harvard hockey rivalry">Cornell hockey rivalry</a></li>
+<li><a href="/wiki/Beanpot_(ice_hockey)" title="Beanpot (ice hockey)">Beanpot</a></li>
+<li><a href="/wiki/Weld_Boathouse" title="Weld Boathouse">Weld Boathouse</a></li>
+<li><a href="/wiki/Newell_Boathouse_(Harvard_University)" class="mw-redirect" title="Newell Boathouse (Harvard University)">Newall Boathouse</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Continuing<br />
+Education</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_Division_of_Continuing_Education" title="Harvard Division of Continuing Education">Division of Continuing Education</a></li>
+<li>Dean <a href="/wiki/Huntington_D._Lambert" title="Huntington D. Lambert">Huntington D. Lambert</a></li>
+<li><a href="/wiki/Harvard_Extension_School" title="Harvard Extension School">Extension School</a></li>
+<li><a href="/wiki/Harvard_Summer_School" title="Harvard Summer School">Summer School</a></li>
+<li><a href="/wiki/History_of_Harvard_Extension_School" title="History of Harvard Extension School">History of Harvard Extension School</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Eng.<span style="white-space:nowrap"> </span>&amp;<span style="white-space:nowrap"> </span>Appl.<br />
+Sciences</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_John_A._Paulson_School_of_Engineering_and_Applied_Sciences" title="Harvard John A. Paulson School of Engineering and Applied Sciences">Harvard John A. Paulson School of Engineering and Applied Sciences</a></li>
+<li>Dean <a href="/wiki/Francis_J._Doyle_III" title="Francis J. Doyle III">Francis J. Doyle III</a></li>
+<li><a href="/wiki/Lyman_Laboratory_of_Physics" title="Lyman Laboratory of Physics">Lyman Laboratory of Physics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Graduate<br />
+School</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_Graduate_School_of_Arts_and_Sciences" title="Harvard Graduate School of Arts and Sciences">Graduate School of Arts and Sciences</a></li>
+<li>Dean <a href="/wiki/Xiao-Li_Meng" title="Xiao-Li Meng">Xiao-Li Meng</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Libraries</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cabot_Science_Library" title="Cabot Science Library">Cabot</a></li>
+<li><a href="/wiki/Harvard%E2%80%93Yenching_Library" title="Harvard–Yenching Library">Harvard-Yenching</a></li>
+<li><a href="/wiki/Houghton_Library" title="Houghton Library">Houghton</a>
+<ul>
+<li><i><a href="/wiki/Harvard_Review" title="Harvard Review">Harvard Review</a></i></li>
+</ul>
+</li>
+<li><a href="/wiki/Lamont_Library" title="Lamont Library">Lamont</a></li>
+<li><a href="/w/index.php?title=Pusey_Library&amp;action=edit&amp;redlink=1" class="new" title="Pusey Library (page does not exist)">Pusey</a></li>
+<li><a href="/wiki/Widener_Library" title="Widener Library">Widener</a>
+<ul>
+<li><a href="/wiki/Harry_Widener" class="mw-redirect" title="Harry Widener">Harry Widener</a></li>
+<li><a href="/wiki/Eleanor_Elkins_Widener" title="Eleanor Elkins Widener">Eleanor Elkins Widener</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Grossman_Library" title="Grossman Library">Grossman</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%"></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carpenter_Center_for_the_Visual_Arts" title="Carpenter Center for the Visual Arts">Carpenter Center for the Visual Arts</a></li>
+<li><a href="/wiki/Center_for_Hellenic_Studies" title="Center for Hellenic Studies">Center for Hellenic Studies</a></li>
+<li><a href="/w/index.php?title=Charles_Warren_Center_for_Studies_in_American_History&amp;action=edit&amp;redlink=1" class="new" title="Charles Warren Center for Studies in American History (page does not exist)">Charles Warren Center for Studies in American History</a></li>
+<li><a href="/wiki/Collection_of_Historical_Scientific_Instruments" class="mw-redirect" title="Collection of Historical Scientific Instruments">Collection of Historical Scientific Instruments</a></li>
+<li><a href="/wiki/Harvard%E2%80%93Smithsonian_Center_for_Astrophysics" title="Harvard–Smithsonian Center for Astrophysics">Harvard–Smithsonian Center for Astrophysics</a></li>
+<li><a href="/w/index.php?title=Institute_for_Quantitative_Social_Science&amp;action=edit&amp;redlink=1" class="new" title="Institute for Quantitative Social Science (page does not exist)">Institute for Quantitative Social Science</a></li>
+<li><a href="/wiki/Nieman_Foundation_for_Journalism" title="Nieman Foundation for Journalism">Nieman Foundation for Journalism</a></li>
+<li><a href="/wiki/Harvard_Ukrainian_Research_Institute" title="Harvard Ukrainian Research Institute">Ukrainian Research Institute</a></li>
+<li><a href="/wiki/Villa_I_Tatti" title="Villa I Tatti">Villa I Tatti</a></li>
+<li><a href="/wiki/W._E._B._Du_Bois_Institute" title="W. E. B. Du Bois Institute">W. E. B. Du Bois Institute</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Business</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_Business_School" title="Harvard Business School">Harvard Business School</a></li>
+<li>Dean <a href="/wiki/Nitin_Nohria" title="Nitin Nohria">Nitin Nohria</a></li>
+<li><a href="/wiki/Harvard_Business_Publishing" title="Harvard Business Publishing">Harvard Business Publishing</a>
+<ul>
+<li><a href="/wiki/Harvard_Business_Press" class="mw-redirect" title="Harvard Business Press">Harvard Business Press</a></li>
+<li><i><a href="/wiki/Harvard_Business_Review" title="Harvard Business Review">Harvard Business Review</a></i></li>
+</ul>
+</li>
+<li><a href="/wiki/Baker_Library/Bloomberg_Center" title="Baker Library/Bloomberg Center">Baker Library/Bloomberg Center</a></li>
+<li><a href="/wiki/Spangler_Center" title="Spangler Center">Spangler Center</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Design</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_Graduate_School_of_Design" title="Harvard Graduate School of Design">Harvard Graduate School of Design</a></li>
+<li>Dean <a href="/wiki/Mohsen_Mostafavi" title="Mohsen Mostafavi">Mohsen Mostafavi</a></li>
+<li><i><a href="/wiki/Harvard_Design_Magazine" title="Harvard Design Magazine">Harvard Design Magazine</a></i></li>
+<li><a href="/wiki/Joint_Center_for_Housing_Studies" title="Joint Center for Housing Studies">Joint Center for Housing Studies</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Divinity</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_Divinity_School" title="Harvard Divinity School">Harvard Divinity School</a></li>
+<li>Dean <a href="/wiki/David_N._Hempton" title="David N. Hempton">David N. Hempton</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Education</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_Graduate_School_of_Education" title="Harvard Graduate School of Education">Harvard Graduate School of Education</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Government</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/John_F._Kennedy_School_of_Government" title="John F. Kennedy School of Government">John F. Kennedy School of Government</a></li>
+<li>Dean <a href="/wiki/Douglas_Elmendorf" title="Douglas Elmendorf">Douglas Elmendorf</a></li>
+<li><a href="/wiki/Harvard_Institute_of_Politics" title="Harvard Institute of Politics">Institute of Politics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Law</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_Law_School" title="Harvard Law School">Harvard Law School</a></li>
+<li>Dean <a href="/wiki/Martha_Minow" title="Martha Minow">Martha Minow</a></li>
+<li><i><a href="/wiki/Harvard_Law_Review" title="Harvard Law Review">Harvard Law Review</a></i></li>
+<li><i><a href="/wiki/Harvard_Journal_of_Law_%26_Technology" title="Harvard Journal of Law &amp; Technology">Harvard Journal of Law &amp; Technology</a></i></li>
+<li><i><a href="/wiki/Harvard_Law_Record" title="Harvard Law Record">Harvard Law Record</a></i></li>
+<li><i><a href="/wiki/Harvard_International_Law_Journal" title="Harvard International Law Journal">Harvard International Law Journal</a></i></li>
+<li><i><a href="/wiki/Harvard_Civil_Rights-Civil_Liberties_Law_Review" title="Harvard Civil Rights-Civil Liberties Law Review">Harvard Civil Rights-Civil Liberties Law Review</a></i></li>
+<li><i><a href="/wiki/Harvard_Journal_on_Legislation" title="Harvard Journal on Legislation">Harvard Journal on Legislation</a></i></li>
+<li><a href="/wiki/Berkman_Center_for_Internet_%26_Society" class="mw-redirect" title="Berkman Center for Internet &amp; Society">Berkman Center</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Medicine</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%"></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_Medical_School" title="Harvard Medical School">Harvard Medical School</a></li>
+<li>Dean <a href="/wiki/Jeffrey_Scott_Flier" title="Jeffrey Scott Flier">Jeffrey Scott Flier</a></li>
+<li><a href="/wiki/Broad_Institute" title="Broad Institute">Broad Institute</a></li>
+<li><a href="/wiki/Countway_Library_of_Medicine" class="mw-redirect" title="Countway Library of Medicine">Countway Library</a></li>
+<li><a href="/wiki/Center_for_the_History_of_Medicine" class="mw-redirect" title="Center for the History of Medicine">Center for the History of Medicine</a>
+<ul>
+<li><a href="/wiki/Warren_Anatomical_Museum" title="Warren Anatomical Museum">Warren Anatomical Museum</a></li>
+</ul>
+</li>
+<li><a href="/w/index.php?title=Schepens_Eye_Research_Institute&amp;action=edit&amp;redlink=1" class="new" title="Schepens Eye Research Institute (page does not exist)">Schepens Eye Research Institute</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Dentistry</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_School_of_Dental_Medicine" title="Harvard School of Dental Medicine">Harvard School of Dental Medicine</a></li>
+<li>Dean <a href="/w/index.php?title=Bruce_Donoff&amp;action=edit&amp;redlink=1" class="new" title="Bruce Donoff (page does not exist)">Bruce Donoff</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Public health</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_T.H._Chan_School_of_Public_Health" title="Harvard T.H. Chan School of Public Health">Harvard T.H. Chan School of Public Health</a></li>
+<li>Dean <a href="/wiki/Michelle_Ann_Williams" title="Michelle Ann Williams">Michelle Ann Williams</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Museums</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_Art_Museums" title="Harvard Art Museums">Harvard Art Museums</a>
+<ul>
+<li><a href="/wiki/Arthur_M._Sackler_Museum" class="mw-redirect" title="Arthur M. Sackler Museum">Arthur M. Sackler</a></li>
+<li><a href="/wiki/Fogg_Museum" class="mw-redirect" title="Fogg Museum">Fogg Museum</a></li>
+<li><a href="/wiki/Busch%E2%80%93Reisinger_Museum" class="mw-redirect" title="Busch–Reisinger Museum">Busch-Reisinger</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Harvard_Collection_of_Historical_Scientific_Instruments" title="Harvard Collection of Historical Scientific Instruments">Harvard Collection of Historical Scientific Instruments</a></li>
+<li><a href="/wiki/Harvard_Museum_of_Natural_History" title="Harvard Museum of Natural History">Museum of Natural History</a>
+<ul>
+<li><a href="/wiki/Glass_Flowers" title="Glass Flowers">Glass Flowers</a></li>
+<li><a href="/wiki/Harvard_Mineralogical_Museum" title="Harvard Mineralogical Museum">Mineralogical Museum</a></li>
+<li><a href="/wiki/Harvard_University_Herbaria" title="Harvard University Herbaria">Herbaria</a></li>
+<li><a href="/wiki/Museum_of_Comparative_Zoology" title="Museum of Comparative Zoology">Comparative Zoology</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Peabody_Museum_of_Archaeology_and_Ethnology" title="Peabody Museum of Archaeology and Ethnology">Peabody Museum of Archaeology and Ethnology</a></li>
+<li><a href="/wiki/Semitic_Museum" title="Semitic Museum">Semitic Museum</a></li>
+<li><a href="/wiki/General_Artemas_Ward_House" title="General Artemas Ward House">General Artemas Ward House</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Cambridge<br />
+campus</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Memorial_Hall_(Harvard_University)" title="Memorial Hall (Harvard University)">Memorial Hall</a></li>
+<li><a href="/wiki/Harvard_Science_Center" title="Harvard Science Center">Science Center</a></li>
+<li><a href="/wiki/Smith_Campus_Center" title="Smith Campus Center">Smith Campus Center</a></li>
+<li><a href="/wiki/Peabody_Terrace" title="Peabody Terrace">Peabody Terrace</a></li>
+<li><a href="/wiki/Harvard_Graduate_Center" title="Harvard Graduate Center">Harvard Graduate Center</a></li>
+<li><a href="/wiki/Harvard_Hall" title="Harvard Hall">Harvard Hall</a></li>
+<li><a href="/wiki/University_Hall_(Harvard_University)" title="University Hall (Harvard University)">University Hall</a></li>
+<li><a href="/wiki/Memorial_Church_of_Harvard_University" title="Memorial Church of Harvard University">Memorial Church</a>
+<ul>
+<li><a href="/wiki/Harvard_University_Choir" title="Harvard University Choir">Choir</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Harvard_Yard" title="Harvard Yard">Harvard Yard</a></li>
+<li><a href="/wiki/Johnston_Gate" title="Johnston Gate">Johnston Gate</a></li>
+<li><a href="/wiki/Boylston_Hall" title="Boylston Hall">Boylston Hall</a></li>
+<li><a class="mw-selflink selflink">Massachusetts Hall</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Centers and<br />
+Institutes</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dumbarton_Oaks" title="Dumbarton Oaks">Dumbarton Oaks</a></li>
+<li><a href="/wiki/Harvard_Forest" title="Harvard Forest">Harvard Forest</a></li>
+<li><a href="/wiki/Harvard%E2%80%93MIT_Division_of_Health_Sciences_and_Technology" class="mw-redirect" title="Harvard–MIT Division of Health Sciences and Technology">Health Science and Technology</a></li>
+<li><a href="/wiki/Institute_for_Advanced_Theater_Training" title="Institute for Advanced Theater Training">Institute for Advanced Theater Training</a></li>
+<li><a href="/wiki/Radcliffe_Institute_for_Advanced_Study" title="Radcliffe Institute for Advanced Study">Radcliffe Institute for Advanced Study</a>
+<ul>
+<li><a href="/wiki/Schlesinger_Library" title="Schlesinger Library">Schlesinger Library</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Real_Colegio_Complutense" title="Real Colegio Complutense">Real Colegio Complutense</a></li>
+<li><a href="/wiki/Rowland_Institute_for_Science" title="Rowland Institute for Science">Rowland Institute for Science</a></li>
+<li><a href="/wiki/Wyss_Institute_for_Biologically_Inspired_Engineering" title="Wyss Institute for Biologically Inspired Engineering">Wyss Institute for Biologically Inspired Engineering</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Misc.</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/History_and_traditions_of_Harvard_commencements" title="History and traditions of Harvard commencements">Commencement traditions</a>
+<ul>
+<li><a href="/wiki/Academic_regalia_of_Harvard_University" title="Academic regalia of Harvard University">Academic regalia</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Heraldry_of_Harvard_University" title="Heraldry of Harvard University">Heraldry</a></li>
+<li><a href="/wiki/Harvard_Tercentenary_celebration" title="Harvard Tercentenary celebration">Tercentenary celebration</a></li>
+<li><a href="/wiki/Harvard_University_Professor" title="Harvard University Professor">Harvard University Professor</a></li>
+<li><i><a href="/wiki/Harvard_Magazine" title="Harvard Magazine">Harvard Magazine</a></i></li>
+<li><i><a href="/wiki/Harvard_Gazette" title="Harvard Gazette">Harvard Gazette</a></i></li>
+<li><a href="/wiki/Harvard_University_Press" title="Harvard University Press">Harvard University Press</a></li>
+<li><a href="/wiki/Harvard_Society_of_Fellows" title="Harvard Society of Fellows">Society of Fellows</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="U.S._National_Register_of_Historic_Places_in_Massachusetts" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3" style="background-color:#A8EDEF">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:National_Register_of_Historic_Places_in_Massachusetts" title="Template:National Register of Historic Places in Massachusetts"><abbr title="View this template" style="background-color:#A8EDEF;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:National_Register_of_Historic_Places_in_Massachusetts" title="Template talk:National Register of Historic Places in Massachusetts"><abbr title="Discuss this template" style="background-color:#A8EDEF;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:National_Register_of_Historic_Places_in_Massachusetts&amp;action=edit"><abbr title="Edit this template" style="background-color:#A8EDEF;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="U.S._National_Register_of_Historic_Places_in_Massachusetts" style="font-size:114%;margin:0 4em"><a href="/wiki/National_Register_of_Historic_Places_listings_in_Massachusetts" title="National Register of Historic Places listings in Massachusetts">U.S. National Register of Historic Places in Massachusetts</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A8EDEF;width:1%">Topics</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Contributing_property" title="Contributing property">Contributing property</a></li>
+<li><a href="/wiki/Keeper_of_the_Register" title="Keeper of the Register">Keeper of the Register</a></li>
+<li><a href="/wiki/Historic_districts_in_the_United_States" title="Historic districts in the United States">Historic district</a></li>
+<li><a href="/wiki/History_of_the_National_Register_of_Historic_Places" title="History of the National Register of Historic Places">History of the National Register of Historic Places</a></li>
+<li><a href="/wiki/National_Park_Service" title="National Park Service">National Park Service</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_property_types" title="National Register of Historic Places property types">Property types</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="4" style="width:1px;padding:0px 0px 0px 2px">
+<div><img alt="Map of the United States with Massachusetts highlighted" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Map_of_USA_MA.svg/100px-Map_of_USA_MA.svg.png" width="100" height="65" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Map_of_USA_MA.svg/151px-Map_of_USA_MA.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Map_of_USA_MA.svg/200px-Map_of_USA_MA.svg.png 2x" data-file-width="286" data-file-height="186" /></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A8EDEF;width:1%">Lists by county</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Barnstable_County,_Massachusetts" title="National Register of Historic Places listings in Barnstable County, Massachusetts">Barnstable</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Berkshire_County,_Massachusetts" title="National Register of Historic Places listings in Berkshire County, Massachusetts">Berkshire</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Bristol_County,_Massachusetts" title="National Register of Historic Places listings in Bristol County, Massachusetts">Bristol</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Dukes_County,_Massachusetts" title="National Register of Historic Places listings in Dukes County, Massachusetts">Dukes</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Essex_County,_Massachusetts" title="National Register of Historic Places listings in Essex County, Massachusetts">Essex</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Franklin_County,_Massachusetts" title="National Register of Historic Places listings in Franklin County, Massachusetts">Franklin</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Hampden_County,_Massachusetts" title="National Register of Historic Places listings in Hampden County, Massachusetts">Hampden</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Hampshire_County,_Massachusetts" title="National Register of Historic Places listings in Hampshire County, Massachusetts">Hampshire</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Middlesex_County,_Massachusetts" title="National Register of Historic Places listings in Middlesex County, Massachusetts">Middlesex</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Nantucket_County,_Massachusetts" title="National Register of Historic Places listings in Nantucket County, Massachusetts">Nantucket</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Norfolk_County,_Massachusetts" title="National Register of Historic Places listings in Norfolk County, Massachusetts">Norfolk</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Plymouth_County,_Massachusetts" title="National Register of Historic Places listings in Plymouth County, Massachusetts">Plymouth</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Suffolk_County,_Massachusetts" title="National Register of Historic Places listings in Suffolk County, Massachusetts">Suffolk</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Worcester_County,_Massachusetts" title="National Register of Historic Places listings in Worcester County, Massachusetts">Worcester</a> (<a href="/wiki/National_Register_of_Historic_Places_listings_in_northern_Worcester_County,_Massachusetts" title="National Register of Historic Places listings in northern Worcester County, Massachusetts">northern</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A8EDEF;width:1%">Lists by city</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;background-color:#A8EDEF">Barnstable County</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Barnstable,_Massachusetts" title="National Register of Historic Places listings in Barnstable, Massachusetts">Barnstable</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Harwich,_Massachusetts" title="National Register of Historic Places listings in Harwich, Massachusetts">Harwich</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;background-color:#A8EDEF">Bristol County</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Fall_River,_Massachusetts" title="National Register of Historic Places listings in Fall River, Massachusetts">Fall River</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_New_Bedford,_Massachusetts" title="National Register of Historic Places listings in New Bedford, Massachusetts">New Bedford</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Taunton,_Massachusetts" title="National Register of Historic Places listings in Taunton, Massachusetts">Taunton</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;background-color:#A8EDEF">Essex County</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Andover,_Massachusetts" title="National Register of Historic Places listings in Andover, Massachusetts">Andover</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Gloucester,_Massachusetts" title="National Register of Historic Places listings in Gloucester, Massachusetts">Gloucester</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Ipswich,_Massachusetts" title="National Register of Historic Places listings in Ipswich, Massachusetts">Ipswich</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Lawrence,_Massachusetts" title="National Register of Historic Places listings in Lawrence, Massachusetts">Lawrence</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Lynn,_Massachusetts" title="National Register of Historic Places listings in Lynn, Massachusetts">Lynn</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Methuen,_Massachusetts" title="National Register of Historic Places listings in Methuen, Massachusetts">Methuen</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Salem,_Massachusetts" title="National Register of Historic Places listings in Salem, Massachusetts">Salem</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;background-color:#A8EDEF">Hampden County</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Springfield,_Massachusetts" title="National Register of Historic Places listings in Springfield, Massachusetts">Springfield</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;background-color:#A8EDEF">Middlesex County</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Arlington,_Massachusetts" title="National Register of Historic Places listings in Arlington, Massachusetts">Arlington</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Cambridge,_Massachusetts" title="National Register of Historic Places listings in Cambridge, Massachusetts">Cambridge</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Concord,_Massachusetts" title="National Register of Historic Places listings in Concord, Massachusetts">Concord</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Framingham,_Massachusetts" title="National Register of Historic Places listings in Framingham, Massachusetts">Framingham</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Lexington,_Massachusetts" title="National Register of Historic Places listings in Lexington, Massachusetts">Lexington</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Lowell,_Massachusetts" title="National Register of Historic Places listings in Lowell, Massachusetts">Lowell</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Marlborough,_Massachusetts" title="National Register of Historic Places listings in Marlborough, Massachusetts">Marlborough</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Medford,_Massachusetts" title="National Register of Historic Places listings in Medford, Massachusetts">Medford</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Newton,_Massachusetts" title="National Register of Historic Places listings in Newton, Massachusetts">Newton</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Reading,_Massachusetts" title="National Register of Historic Places listings in Reading, Massachusetts">Reading</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Sherborn,_Massachusetts" title="National Register of Historic Places listings in Sherborn, Massachusetts">Sherborn</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Somerville,_Massachusetts" title="National Register of Historic Places listings in Somerville, Massachusetts">Somerville</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Stoneham,_Massachusetts" title="National Register of Historic Places listings in Stoneham, Massachusetts">Stoneham</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Wakefield,_Massachusetts" title="National Register of Historic Places listings in Wakefield, Massachusetts">Wakefield</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Waltham,_Massachusetts" title="National Register of Historic Places listings in Waltham, Massachusetts">Waltham</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Weston,_Massachusetts" title="National Register of Historic Places listings in Weston, Massachusetts">Weston</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Winchester,_Massachusetts" title="National Register of Historic Places listings in Winchester, Massachusetts">Winchester</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;background-color:#A8EDEF">Norfolk County</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Brookline,_Massachusetts" title="National Register of Historic Places listings in Brookline, Massachusetts">Brookline</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Milton,_Massachusetts" title="National Register of Historic Places listings in Milton, Massachusetts">Milton</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Quincy,_Massachusetts" title="National Register of Historic Places listings in Quincy, Massachusetts">Quincy</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;background-color:#A8EDEF">Suffolk County</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Boston" title="National Register of Historic Places listings in Boston">Boston</a>
+<ul>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_northern_Boston" title="National Register of Historic Places listings in northern Boston">northern</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_southern_Boston" title="National Register of Historic Places listings in southern Boston">southern</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%;background-color:#A8EDEF">Worcester County</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Southbridge,_Massachusetts" title="National Register of Historic Places listings in Southbridge, Massachusetts">Southbridge</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Uxbridge,_Massachusetts" title="National Register of Historic Places listings in Uxbridge, Massachusetts">Uxbridge</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Worcester,_Massachusetts" title="National Register of Historic Places listings in Worcester, Massachusetts">Worcester</a>
+<ul>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_eastern_Worcester,_Massachusetts" title="National Register of Historic Places listings in eastern Worcester, Massachusetts">eastern</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_northwestern_Worcester,_Massachusetts" title="National Register of Historic Places listings in northwestern Worcester, Massachusetts">northwestern</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_southwestern_Worcester,_Massachusetts" title="National Register of Historic Places listings in southwestern Worcester, Massachusetts">southwestern</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A8EDEF;width:1%">Other lists</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_bridges_on_the_National_Register_of_Historic_Places_in_Massachusetts" title="List of bridges on the National Register of Historic Places in Massachusetts">Bridges</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Cape_Cod_National_Seashore" title="National Register of Historic Places listings in Cape Cod National Seashore">Cape Cod National Seashore</a></li>
+<li><a href="/wiki/List_of_National_Historic_Landmarks_in_Massachusetts" title="List of National Historic Landmarks in Massachusetts">National Historic Landmarks</a>
+<ul>
+<li><a href="/wiki/List_of_National_Historic_Landmarks_in_Boston" title="List of National Historic Landmarks in Boston">Boston</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3" style="background-color:#A8EDEF">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:National_Register_of_Historic_Places_in_Massachusetts" title="Category:National Register of Historic Places in Massachusetts">Category</a></li>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <a href="/wiki/Portal:National_Register_of_Historic_Places" title="Portal:National Register of Historic Places">NRHP portal</a></li>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <a href="/wiki/Portal:Massachusetts" title="Portal:Massachusetts">Massachusetts portal</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="John_Adams" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:John_Adams" title="Template:John Adams"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:John_Adams" title="Template talk:John Adams"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:John_Adams&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="John_Adams" style="font-size:114%;margin:0 4em"><a href="/wiki/John_Adams" title="John Adams">John Adams</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><span class="nowrap"><a href="/wiki/List_of_Presidents_of_the_United_States" title="List of Presidents of the United States">2nd</a> <a href="/wiki/President_of_the_United_States" title="President of the United States">President of the United States, 1797–1801</a></span></li>
+<li><span class="nowrap"><a href="/wiki/List_of_Vice_Presidents_of_the_United_States" title="List of Vice Presidents of the United States">1st</a> <a href="/wiki/Vice_President_of_the_United_States" title="Vice President of the United States">Vice President of the United States, 1789–1797</a></span></li>
+<li><span class="nowrap"><a href="/wiki/United_States_Ambassador_to_the_United_Kingdom" title="United States Ambassador to the United Kingdom">U.S. Ambassador to the United Kingdom, 1785–1788</a></span></li>
+<li><span class="nowrap"><a href="/wiki/United_States_Ambassador_to_the_Netherlands" title="United States Ambassador to the Netherlands">U.S. Ambassador to the Netherlands, 1782–1788</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Second_Continental_Congress" title="Second Continental Congress">Delegate, Second Continental Congress, 1775–1778</a></span></li>
+<li><span class="nowrap"><a href="/wiki/First_Continental_Congress" title="First Continental Congress">Delegate, First Continental Congress, 1774</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Founding_Fathers_of_the_United_States" title="Founding Fathers of the United States">Founding of the<br />
+United States</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Braintree_Instructions" title="Braintree Instructions"><i>Braintree Instructions</i> <small>(1765)</small></a></li>
+<li><a href="/wiki/Boston_Massacre#Trials" title="Boston Massacre">Boston Massacre defense</a></li>
+<li><a href="/wiki/Continental_Association" title="Continental Association">Continental Association</a></li>
+<li><a href="/wiki/John_Adams#Dispute_concerning_Parliament.27s_authority" title="John Adams"><i>Novanglus; A History of the Dispute with America, From Its Origin in 1754 to the Present Time</i> <small>(1775)</small></a></li>
+<li><a href="/wiki/Thoughts_on_Government" title="Thoughts on Government"><i>Thoughts on Government</i> <small>(1776)</small></a></li>
+<li><a href="/wiki/John_Adams#Declaration_of_Independence" title="John Adams">Declaration of Independence</a>
+<ul>
+<li><a href="/wiki/United_States_Declaration_of_Independence#May_15_preamble" title="United States Declaration of Independence">May 15 preamble</a></li>
+<li><a href="/wiki/Committee_of_Five" title="Committee of Five">Committee of Five</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Model_Treaty" title="Model Treaty">Model Treaty</a>
+<ul>
+<li><a href="/wiki/Treaty_of_Amity_and_Commerce_(United_States%E2%80%93France)" title="Treaty of Amity and Commerce (United States–France)">Treaty of Amity and Commerce</a></li>
+<li><a href="/wiki/Treaty_of_Alliance_(1778)" title="Treaty of Alliance (1778)">Treaty of Alliance</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Board_of_War" title="Board of War">Board of War</a></li>
+<li><a href="/wiki/United_States_Secretary_of_the_Navy#Secretaries_of_the_Navy" title="United States Secretary of the Navy">Chairman of the Marine Committee, 1775-1779</a>
+<ul>
+<li><a href="/wiki/Continental_Navy" title="Continental Navy">Continental Navy</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Staten_Island_Peace_Conference" title="Staten Island Peace Conference">Staten Island Peace Conference</a>
+<ul>
+<li><a href="/wiki/Conference_House" title="Conference House">Conference House</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Constitution_of_Massachusetts" title="Constitution of Massachusetts"><i>Constitution of Massachusetts</i> <small>(1780)</small></a></li>
+<li><a href="/wiki/Treaty_of_Paris_(1783)" title="Treaty of Paris (1783)">Treaty of Paris, 1783</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Presidency_of_John_Adams" title="Presidency of John Adams">Presidency</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Inauguration_of_John_Adams" title="Inauguration of John Adams">Inauguration</a></li>
+<li><a href="/wiki/Quasi-War" title="Quasi-War">Quasi War with France</a>
+<ul>
+<li><a href="/wiki/XYZ_Affair" title="XYZ Affair">XYZ Affair</a></li>
+<li><a href="/wiki/An_Act_further_to_protect_the_commerce_of_the_United_States" title="An Act further to protect the commerce of the United States">Commerce Protection Act</a></li>
+<li><a href="/wiki/History_of_the_United_States_Marine_Corps#Establishment_of_the_modern_Marine_Corps" title="History of the United States Marine Corps">United States Marine Corps</a></li>
+<li><a href="/wiki/Convention_of_1800" title="Convention of 1800">Convention of 1800</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Alien_and_Sedition_Acts" title="Alien and Sedition Acts">Alien and Sedition Acts</a>
+<ul>
+<li><a href="/wiki/Naturalization_Act_of_1798" title="Naturalization Act of 1798">Naturalization Act of 1798</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Navy_Department_Library" title="Navy Department Library">Navy Department Library</a></li>
+<li><a href="/wiki/Treaty_of_Tellico" title="Treaty of Tellico">Treaty of Tellico</a></li>
+<li><a href="/wiki/Treaty_of_Tripoli" title="Treaty of Tripoli">Treaty of Tripoli</a></li>
+<li><a href="/wiki/Midnight_Judges_Act" title="Midnight Judges Act">Midnight Judges Act</a>
+<ul>
+<li><i><a href="/wiki/Marbury_v._Madison" title="Marbury v. Madison">Marbury v. Madison</a></i></li>
+</ul>
+</li>
+<li><a href="/wiki/1797_State_of_the_Union_Address" title="1797 State of the Union Address">State of the Union Address (1797</a></li>
+<li><a href="/wiki/1798_State_of_the_Union_Address" title="1798 State of the Union Address">1798</a></li>
+<li><a href="/wiki/1799_State_of_the_Union_Address" title="1799 State of the Union Address">1799</a></li>
+<li><a href="/wiki/1800_State_of_the_Union_Address" title="1800 State of the Union Address">1800)</a></li>
+<li><a href="/wiki/John_Adams#Administration_and_cabinet" title="John Adams">Cabinet</a></li>
+<li><a href="/wiki/List_of_federal_judges_appointed_by_John_Adams" title="List of federal judges appointed by John Adams">Federal judiciary appointments</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Other writings</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Massachusetts_Historical_Society#Collections" title="Massachusetts Historical Society">Massachusetts Historical Society holdings</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Life and<br />
+homes</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/John_Adams#Early_life_and_education" title="John Adams">Early life and education</a></li>
+<li><a href="/wiki/Adams_National_Historical_Park" title="Adams National Historical Park">Adams National Historical Park</a>
+<ul>
+<li><a href="/wiki/John_Adams_Birthplace" title="John Adams Birthplace">John Adams Birthplace</a></li>
+<li><a href="/wiki/John_Quincy_Adams_Birthplace" title="John Quincy Adams Birthplace">Family home and John Quincy Adams birthplace</a></li>
+<li><a href="/wiki/Peacefield" title="Peacefield">Peacefield</a></li>
+<li><a href="/wiki/Adams_National_Historical_Park#Stone_Library" title="Adams National Historical Park">Presidential Library</a></li>
+</ul>
+</li>
+<li><a class="mw-selflink selflink">Massachusetts Hall, Harvard University</a></li>
+<li><a href="/wiki/President%27s_House_(Philadelphia)" title="President's House (Philadelphia)">Presidents House, Philadelphia</a></li>
+<li><a href="/wiki/American_Academy_of_Arts_and_Sciences" title="American Academy of Arts and Sciences">Co-founder and second president, American Academy of Arts and Sciences</a></li>
+<li><a href="/wiki/United_First_Parish_Church_(Quincy,_Massachusetts)" class="mw-redirect" title="United First Parish Church (Quincy, Massachusetts)">United First Parish Church and gravesite</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Elections</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/United_States_presidential_election,_1788%E2%80%9389" title="United States presidential election, 1788–89">United States presidential election 1788–1789</a></li>
+<li><a href="/wiki/United_States_presidential_election,_1792" title="United States presidential election, 1792">1792</a></li>
+<li><a href="/wiki/United_States_presidential_election,_1796" title="United States presidential election, 1796">1796</a></li>
+<li><a href="/wiki/United_States_presidential_election,_1800" title="United States presidential election, 1800">1800</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Legacy</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Adams_House_(Harvard_University)" class="mw-redirect" title="Adams House (Harvard University)">Adams House at Harvard University</a></li>
+<li><a href="/wiki/John_Adams_Building" title="John Adams Building">John Adams Building</a></li>
+<li><a href="/wiki/Presidents_of_the_United_States_on_U.S._postage_stamps#John_Adams" title="Presidents of the United States on U.S. postage stamps">U.S. Postage stamps</a></li>
+<li><a href="/wiki/Adams_Memorial" title="Adams Memorial">Adams Memorial</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Popular culture</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Profiles_in_Courage_(TV_series)" title="Profiles in Courage (TV series)"><i>Profiles in Courage</i> <small>(1964 series)</small></a></li>
+<li><a href="/wiki/American_Primitive" title="American Primitive"><i>American Primitive</i> <small>(1969 play)</small></a></li>
+<li><a href="/wiki/1776_(musical)" title="1776 (musical)"><i>1776</i> <small>(1969 musical</small></a></li>
+<li><a href="/wiki/1776_(film)" title="1776 (film)"><small>1972 film)</small></a></li>
+<li><a href="/wiki/The_Adams_Chronicles" title="The Adams Chronicles"><i>The Adams Chronicles</i> <small>(1976 miniseries)</small></a></li>
+<li><a href="/wiki/Liberty!" title="Liberty!"><i>Liberty!</i> <small>(1997 documentary series)</small></a></li>
+<li><a href="/wiki/Liberty%27s_Kids" title="Liberty's Kids"><i>Liberty's Kids <small>(2002 animated series)</small></i></a></li>
+<li><a href="/wiki/John_Adams_(book)" title="John Adams (book)"><i>John Adams</i> <small>(2001 book</small></a></li>
+<li><a href="/wiki/John_Adams_(miniseries)" title="John Adams (miniseries)"><small>2008 miniseries)</small></a></li>
+<li><a href="/wiki/Sons_of_Liberty_(miniseries)" title="Sons of Liberty (miniseries)"><i>Sons of Liberty</i> <small>(2015 miniseries)</small></a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Related</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Adams_and_Liberty" title="Adams and Liberty">"Adams and Liberty" campaign song</a></li>
+<li><a href="/wiki/Boston_Public_Library#Overview" title="Boston Public Library">Adams' personal library</a></li>
+<li><a href="/wiki/American_Enlightenment" title="American Enlightenment">American Enlightenment</a></li>
+<li><a href="/wiki/Congress_Hall" title="Congress Hall">Congress Hall</a></li>
+<li><a href="/wiki/Federalist_Party" title="Federalist Party">Federalist Party</a>
+<ul>
+<li><a href="/wiki/Federalist_Era" title="Federalist Era">Federalist Era</a></li>
+<li><a href="/wiki/First_Party_System" title="First Party System">First Party System</a></li>
+<li><a href="/wiki/Republicanism_in_the_United_States" title="Republicanism in the United States">republicanism</a></li>
+</ul>
+</li>
+<li><a href="/wiki/American_Philosophical_Society" title="American Philosophical Society">American Philosophical Society</a></li>
+<li><i><a href="/wiki/Gazette_of_the_United_States" title="Gazette of the United States">Gazette of the United States</a></i></li>
+<li><i><a href="/wiki/The_American_Museum_(magazine)" title="The American Museum (magazine)">The American Museum</a></i></li>
+<li><a href="/wiki/American_Revolution" title="American Revolution">American Revolution</a>
+<ul>
+<li><a href="/wiki/Patriot_(American_Revolution)" title="Patriot (American Revolution)">patriots</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Adams_political_family" title="Adams political family">Family</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Abigail_Adams" title="Abigail Adams">Abigail Adams</a>
+<ul>
+<li><small>wife</small></li>
+<li><a href="/wiki/Quincy_political_family" title="Quincy political family"><small>Quincy family</small></a></li>
+</ul>
+</li>
+<li><a href="/wiki/Abigail_Adams_Smith" title="Abigail Adams Smith">Abigail Adams Smith</a> <small>(daughter)</small></li>
+<li><a href="/wiki/John_Quincy_Adams" title="John Quincy Adams">John Quincy Adams</a>
+<ul>
+<li><small>son</small></li>
+<li><a href="/wiki/Presidency_of_John_Quincy_Adams" title="Presidency of John Quincy Adams"><small>presidency</small></a></li>
+</ul>
+</li>
+<li><a href="/wiki/Charles_Adams_(1770%E2%80%931800)" title="Charles Adams (1770–1800)">Charles Adams</a> <small>(son)</small></li>
+<li><a href="/wiki/Thomas_Boylston_Adams_(1772%E2%80%931832)" title="Thomas Boylston Adams (1772–1832)">Thomas Boylston Adams</a> <small>(son)</small></li>
+<li><a href="/wiki/George_Washington_Adams" title="George Washington Adams">George W. Adams</a> <small>(grandson)</small></li>
+<li><a href="/wiki/Charles_Francis_Adams_Sr." title="Charles Francis Adams Sr.">Charles Adams Sr.</a> <small>(grandson)</small></li>
+<li><a href="/wiki/John_Adams_II" title="John Adams II">John Adams II</a> <small>(grandson)</small></li>
+<li><a href="/wiki/John_Quincy_Adams_II" title="John Quincy Adams II">John Q. Adams</a> <small>(great-grandson)</small></li>
+<li><a href="/wiki/Henry_Adams" title="Henry Adams">Henry Adams</a> <small>(great-grandson)</small></li>
+<li><a href="/wiki/Brooks_Adams" title="Brooks Adams">Brooks Adams</a> <small>(great-grandson)</small></li>
+<li><a href="/wiki/John_Adams_Sr." title="John Adams Sr.">John Adams Sr.</a> <small>(father)</small></li>
+<li><a href="/wiki/Susanna_Boylston" title="Susanna Boylston">Susanna Boylston</a> <small>(mother)</small></li>
+<li><a href="/wiki/Elihu_Adams" title="Elihu Adams">Elihu Adams</a> <small>(brother)</small></li>
+<li><a href="/wiki/Samuel_Adams" title="Samuel Adams">Samuel Adams</a> <small>(second cousin)</small></li>
+<li><a href="/wiki/Louisa_Adams" title="Louisa Adams">Louisa Adams</a>
+<ul>
+<li><small>daughter-in-law</small></li>
+<li><a href="/wiki/First_Ladies_of_the_United_States" class="mw-redirect" title="First Ladies of the United States"><small>First Lady</small></a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><b><a href="/wiki/George_Washington" title="George Washington">← George Washington</a></b></li>
+<li><b><a href="/wiki/Thomas_Jefferson" title="Thomas Jefferson">Thomas Jefferson →</a></b></li>
+</ul>
+<ul>
+<li><b><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:John_Adams" title="Category:John Adams">Category</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Samuel_Adams" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Samuel_Adams" title="Template:Samuel Adams"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/w/index.php?title=Template_talk:Samuel_Adams&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Samuel Adams (page does not exist)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Samuel_Adams&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Samuel_Adams" style="font-size:114%;margin:0 4em"><a href="/wiki/Samuel_Adams" title="Samuel Adams">Samuel Adams</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><span class="nowrap"><a href="/wiki/Governor_of_Massachusetts" title="Governor of Massachusetts">4th Governor of Massachusetts, 1794—1797</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Second_Continental_Congress" title="Second Continental Congress">Second Continental Congress, 1775—1781</a></span></li>
+<li><span class="nowrap"><a href="/wiki/First_Continental_Congress" title="First Continental Congress">First Continental Congress, 1774</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Massachusetts_House_of_Representatives" title="Massachusetts House of Representatives">Clerk of the Massachusetts House of Representatives, 1766—1774</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Founding_Fathers_of_the_United_States" title="Founding Fathers of the United States">United States<br />
+founding events</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/The_Independent_Advertiser" title="The Independent Advertiser">The Independent Advertiser</a></i></li>
+<li><a href="/wiki/Boston_Caucus" title="Boston Caucus">Boston Caucus</a></li>
+<li><a href="/wiki/Samuel_Adams#Sugar_Act" title="Samuel Adams">1764 Sugar Act response</a>
+<ul>
+<li><a href="/wiki/Sugar_Act#Effect_on_the_American_colonies" title="Sugar Act">protests</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Massachusetts_Circular_Letter" title="Massachusetts Circular Letter">1768 Massachusetts Circular Letter</a></li>
+<li><a href="/wiki/Journal_of_Occurrences" title="Journal of Occurrences">Probable author, 1768–1769 "Journal of Occurrences"</a></li>
+<li><a href="/wiki/Christopher_Seider" title="Christopher Seider">Arranged Christopher Seider funeral, 1770</a></li>
+<li><a href="/wiki/Boston_Pamphlet" title="Boston Pamphlet">Co-author, 1772 <i>Boston Pamphlet</i></a></li>
+<li><a href="/wiki/Committee_of_correspondence#Massachusetts" class="mw-redirect" title="Committee of correspondence">Boston Committee of Correspondence, 1772</a></li>
+<li><a href="/wiki/Hutchinson_Letters_Affair" title="Hutchinson Letters Affair">Hutchinson Letters Affair</a></li>
+<li><a href="/wiki/Boston_Tea_Party#Standoff_in_Boston" title="Boston Tea Party">Co-inspired and publicized, Boston Tea Party</a></li>
+<li><a href="/wiki/Continental_Association" title="Continental Association">Signed, 1774 Continental Association</a></li>
+<li><a href="/wiki/Massachusetts_Provincial_Congress" title="Massachusetts Provincial Congress">Massachusetts Provincial Congress</a></li>
+<li><a href="/wiki/Letters_to_the_inhabitants_of_Canada" title="Letters to the inhabitants of Canada">Co-author, 1776 <i>Letter to the inhabitants of Canada</i></a></li>
+<li><a href="/wiki/United_States_Declaration_of_Independence" title="United States Declaration of Independence">Signed, United States Declaration of Independence</a></li>
+<li><a href="/wiki/Articles_of_Confederation" title="Articles of Confederation">Signed, Articles of Confederation</a></li>
+<li><a href="/wiki/Massachusetts_Compromise" title="Massachusetts Compromise">1788 Massachusetts Compromise</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Life</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Samuel_Adams#Early_life" title="Samuel Adams">Early life</a></li>
+<li><a class="mw-selflink selflink">Massachusetts Hall, Harvard University</a></li>
+<li><a href="/wiki/Sons_of_Liberty" title="Sons of Liberty">Sons of Liberty</a></li>
+<li><a href="/wiki/United_States_House_of_Representatives_elections,_1789#Massachusetts" class="mw-redirect" title="United States House of Representatives elections, 1789">1789 U.S. House election</a></li>
+<li><a href="/wiki/United_States_presidential_election,_1796" title="United States presidential election, 1796">1796 presidential election</a></li>
+<li><a href="/wiki/Samuel_Adams_and_Paul_Revere_time_capsule" title="Samuel Adams and Paul Revere time capsule">Samuel Adams and Paul Revere time capsule</a></li>
+<li><a href="/wiki/Granary_Burying_Ground" title="Granary Burying Ground">Granary Burying Ground</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Related</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Republicanism_in_the_United_States" title="Republicanism in the United States">American republicanism</a></li>
+<li><i><a href="/wiki/Boston_Gazette" title="Boston Gazette">Boston Gazette</a></i></li>
+<li><a href="/wiki/American_Revolution" title="American Revolution">American Revolution</a>
+<ul>
+<li><a href="/wiki/Patriot_(American_Revolution)" title="Patriot (American Revolution)">patriots</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Founding_Fathers_of_the_United_States" title="Founding Fathers of the United States">Founding Father</a></li>
+<li><a href="/wiki/Faneuil_Hall" title="Faneuil Hall">Faneuil Hall</a></li>
+<li><a href="/wiki/Old_South_Meeting_House" title="Old South Meeting House">Old South Meeting House</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Legacy</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Samuel_Adams_(Whitney)" title="Samuel Adams (Whitney)"><i>Samuel Adams</i> (Whitney)</a></li>
+<li><a href="/wiki/Adams,_Massachusetts" title="Adams, Massachusetts">Adams, Massachusetts</a></li>
+<li><a href="/wiki/Liberty%27s_Kids" title="Liberty's Kids"><i>Liberty's Kids</i> <small>(2002 animated series)</small></a></li>
+<li><a href="/wiki/John_Adams_(miniseries)" title="John Adams (miniseries)"><i>John Adams</i> <small>(2008 miniseries)</small></a></li>
+<li><a href="/wiki/Sons_of_Liberty_(miniseries)" title="Sons of Liberty (miniseries)"><i>Sons of Liberty</i> <small>(2015 miniseries)</small></a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Family</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/John_Adams" title="John Adams">John Adams <small>(second cousin)</small></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="John_Hancock" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:John_Hancock" title="Template:John Hancock"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:John_Hancock" title="Template talk:John Hancock"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:John_Hancock&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="John_Hancock" style="font-size:114%;margin:0 4em"><a href="/wiki/John_Hancock" title="John Hancock">John Hancock</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div><a href="/wiki/File:JohnHancocksSignature.svg" class="image"><img alt="JohnHancocksSignature.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/JohnHancocksSignature.svg/111px-JohnHancocksSignature.svg.png" width="111" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/JohnHancocksSignature.svg/167px-JohnHancocksSignature.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d5/JohnHancocksSignature.svg/222px-JohnHancocksSignature.svg.png 2x" data-file-width="585" data-file-height="160" /></a>
+<ul>
+<li><span class="nowrap"><a href="/wiki/Governor_of_Massachusetts" title="Governor of Massachusetts">1st and 3rd Governor of Massachusetts, 1780–1785, 1787–1793</a></span></li>
+<li><span class="nowrap"><a href="/wiki/President_of_the_Continental_Congress" title="President of the Continental Congress">President, 2nd Continential Congress, 1775–1777</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Boston_Board_of_Selectmen" title="Boston Board of Selectmen">Boston Board of Selectmen, 1766–1775</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Founding_Fathers_of_the_United_States" title="Founding Fathers of the United States">United States<br />
+Founding events</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/HMS_Liberty_(1768)" title="HMS Liberty (1768)">HMS <i>Liberty</i> confiscation</a></li>
+<li><a href="/wiki/Sons_of_Liberty" title="Sons of Liberty">Sons of Liberty</a></li>
+<li><a href="/wiki/Boston_Tea_Party" title="Boston Tea Party">Co-inspired, Boston Tea Party</a></li>
+<li><a href="/wiki/Minor_American_Revolution_holidays#Massacre_Day" title="Minor American Revolution holidays">1774 Massacre Day speech</a></li>
+<li><a href="/wiki/Massachusetts_Provincial_Congress" title="Massachusetts Provincial Congress">President, Massachusetts Provincial Congress</a></li>
+<li><a href="/wiki/Committee_of_Safety_(American_Revolution)" class="mw-redirect" title="Committee of Safety (American Revolution)">Chairman, Massachusetts Committee of Safety</a></li>
+<li><a href="/wiki/United_States_Declaration_of_Independence" title="United States Declaration of Independence">Presided over, signed, United States Declaration of Independence</a>
+<ul>
+<li><a href="/wiki/Signing_of_the_United_States_Declaration_of_Independence" title="Signing of the United States Declaration of Independence">signing</a></li>
+<li><a href="/wiki/Physical_history_of_the_United_States_Declaration_of_Independence#Dunlap_broadside" title="Physical history of the United States Declaration of Independence">Dunlap broadside</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Articles_of_Confederation" title="Articles of Confederation">Signed, Articles of Confederation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Life</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/John_Hancock#Early_life" title="John Hancock">Early life</a></li>
+<li><a href="/wiki/Hancock-Clarke_House" class="mw-redirect" title="Hancock-Clarke House">Hancock-Clarke House</a></li>
+<li><a href="/wiki/Hancock_Manor" title="Hancock Manor">Hancock Manor</a></li>
+<li><a class="mw-selflink selflink">Massachusetts Hall, Harvard University</a></li>
+<li><a href="/wiki/Boston_Cadets" class="mw-redirect" title="Boston Cadets">Boston Cadets</a></li>
+<li><a href="/wiki/American_Academy_of_Arts_and_Sciences" title="American Academy of Arts and Sciences">Co-founder, American Academy of Arts and Sciences</a></li>
+<li><a href="/wiki/United_States_presidential_election,_1788%E2%80%9389" title="United States presidential election, 1788–89">United States presidential election, 1788–89</a></li>
+<li><a href="/wiki/Granary_Burying_Ground" title="Granary Burying Ground">Granary Burying Ground</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Related</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/American_Revolution" title="American Revolution">American Revolution</a>
+<ul>
+<li><a href="/wiki/Patriot_(American_Revolution)" title="Patriot (American Revolution)">patriots</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Founding_Fathers_of_the_United_States" title="Founding Fathers of the United States">Founding Father</a></li>
+<li><a href="/wiki/Syng_inkstand" title="Syng inkstand">Syng inkstand</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Legacy</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/USS_Hancock_(1776)" title="USS Hancock (1776)">USS <i>Hancock</i>, 1776</a></li>
+<li><a href="/wiki/Liberty%27s_Kids" title="Liberty's Kids"><i>Liberty's Kids <small>(2002 animated series)</small></i></a></li>
+<li><a href="/wiki/John_Adams_(miniseries)" title="John Adams (miniseries)"><i>John Adams</i> <small>(2008 miniseries)</small></a></li>
+<li><a href="/wiki/Sons_of_Liberty_(miniseries)" title="Sons of Liberty (miniseries)"><i>Sons of Liberty</i> <small>(2015 miniseries)</small></a></li>
+<li><a href="/wiki/John_Hancock_Tower" title="John Hancock Tower">John Hancock Tower</a></li>
+<li><a href="/wiki/John_Hancock_Center" title="John Hancock Center">John Hancock Center</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Family</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dorothy_Quincy" title="Dorothy Quincy">Dorothy Quincy <small>(wife)</small></a></li>
+<li><a href="/wiki/John_Hancock_Jr." title="John Hancock Jr.">John Hancock Jr. <small>(father)</small></a></li>
+<li><a href="/wiki/Thomas_Hancock_(merchant)" title="Thomas Hancock (merchant)">Thomas Hancock <small>(uncle)</small></a></li>
+<li><a href="/wiki/John_Hancock,_Sr." class="mw-redirect" title="John Hancock, Sr.">John Hancock, Sr. <small>(grandfather)</small></a></li>
+<li><a href="/wiki/Edmund_Quincy_(1703%E2%80%931788)" title="Edmund Quincy (1703–1788)">Edmund Quincy <small>(father-in-law)</small></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1212
+Cached time: 20171016191504
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.332 seconds
+Real time usage: 0.425 seconds
+Preprocessor visited node count: 3458/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 222753/2097152 bytes
+Template argument size: 9986/2097152 bytes
+Highest expansion depth: 19/40
+Expensive parser function count: 2/500
+Lua time usage: 0.130/10.000 seconds
+Lua memory usage: 4.48 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  311.447      1 -total
+ 74.42%  231.786      2 Template:Infobox
+ 61.52%  191.616      1 Template:Infobox_NRHP
+ 30.79%   95.881      8 Template:Navbox
+ 12.81%   39.898      1 Template:Harvard
+ 12.75%   39.725      1 Template:Reflist
+ 10.77%   33.542      1 Template:Both
+ 10.68%   33.268      1 Template:NRISref
+  9.86%   30.718      1 Template:Cite_web
+  9.81%   30.566      1 Template:Coord
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2614601-0!canonical and timestamp 20171016191503 and revision id 805150928
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Massachusetts_Hall_(Harvard_University)&amp;oldid=805150928">https://en.wikipedia.org/w/index.php?title=Massachusetts_Hall_(Harvard_University)&amp;oldid=805150928</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Harvard_Freshman_Dormitories" title="Category:Harvard Freshman Dormitories">Harvard Freshman Dormitories</a></li><li><a href="/wiki/Category:National_Historic_Landmarks_in_Cambridge,_Massachusetts" title="Category:National Historic Landmarks in Cambridge, Massachusetts">National Historic Landmarks in Cambridge, Massachusetts</a></li><li><a href="/wiki/Category:School_buildings_completed_in_1720" title="Category:School buildings completed in 1720">School buildings completed in 1720</a></li><li><a href="/wiki/Category:Harvard_Square" title="Category:Harvard Square">Harvard Square</a></li><li><a href="/wiki/Category:University_and_college_buildings_on_the_National_Register_of_Historic_Places_in_Massachusetts" title="Category:University and college buildings on the National Register of Historic Places in Massachusetts">University and college buildings on the National Register of Historic Places in Massachusetts</a></li><li><a href="/wiki/Category:Historic_district_contributing_properties_in_Massachusetts" title="Category:Historic district contributing properties in Massachusetts">Historic district contributing properties in Massachusetts</a></li><li><a href="/wiki/Category:1720_establishments_in_Massachusetts" title="Category:1720 establishments in Massachusetts">1720 establishments in Massachusetts</a></li><li><a href="/wiki/Category:National_Register_of_Historic_Places_in_Cambridge,_Massachusetts" title="Category:National Register of Historic Places in Cambridge, Massachusetts">National Register of Historic Places in Cambridge, Massachusetts</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Massachusetts+Hall+%28Harvard+University%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Massachusetts+Hall+%28Harvard+University%29" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Massachusetts_Hall_(Harvard_University)" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Massachusetts_Hall_(Harvard_University)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Massachusetts_Hall_(Harvard_University)">Read</a></span></li>
+							<li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Massachusetts_Hall_(Harvard_University)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Massachusetts_Hall_(Harvard_University)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Massachusetts_Hall_(Harvard_University)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Massachusetts_Hall_(Harvard_University)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Massachusetts_Hall_(Harvard_University)&amp;oldid=805150928" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Massachusetts_Hall_(Harvard_University)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q6784282" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Massachusetts_Hall_%28Harvard_University%29&amp;id=805150928" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Massachusetts+Hall+%28Harvard+University%29">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Massachusetts+Hall+%28Harvard+University%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Massachusetts_Hall_(Harvard_University)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%84%D5%A1%D5%BD%D5%BD%D5%A1%D5%B9%D5%B8%D6%82%D5%BD%D5%A5%D5%A9%D5%BD_%D5%80%D5%B8%D5%AC" title="Մասսաչուսեթս Հոլ – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q6784282#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 13 October 2017, at 11:56.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Massachusetts_Hall_(Harvard_University)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.332","walltime":"0.425","ppvisitednodes":{"value":3458,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":222753,"limit":2097152},"templateargumentsize":{"value":9986,"limit":2097152},"expansiondepth":{"value":19,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  311.447      1 -total"," 74.42%  231.786      2 Template:Infobox"," 61.52%  191.616      1 Template:Infobox_NRHP"," 30.79%   95.881      8 Template:Navbox"," 12.81%   39.898      1 Template:Harvard"," 12.75%   39.725      1 Template:Reflist"," 10.77%   33.542      1 Template:Both"," 10.68%   33.268      1 Template:NRISref","  9.86%   30.718      1 Template:Cite_web","  9.81%   30.566      1 Template:Coord"]},"scribunto":{"limitreport-timeusage":{"value":"0.130","limit":"10.000"},"limitreport-memusage":{"value":4692727,"limit":52428800}},"cachereport":{"origin":"mw1212","timestamp":"20171016191504","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":78,"wgHostname":"mw1265"});});</script>
+	</body>
+</html>

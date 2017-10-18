@@ -1,0 +1,487 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>European Library - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"European_Library","wgTitle":"European Library","wgCurRevisionId":777613286,"wgRevisionId":777613286,"wgArticleId":1877082,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from May 2013","Articles needing additional references from February 2008","All articles needing additional references","Pages using deprecated image syntax","Articles containing potentially dated statements from April 2014","All articles containing potentially dated statements","Wikipedia articles with VIAF identifiers","Wikipedia articles with GND identifiers","National libraries","Internet and the European Union","Cultural policies of the European Union","European culture","Aggregation-based digital libraries","Multilingual websites"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"European_Library","wgRelevantArticleId":1877082,"wgRequestId":"WdpjOgpAMFMAAAvdHN4AAAAG","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q240304","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.2"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/0/0d/European_Library_logo.PNG"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/European_Library"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=European_Library&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=European_Library&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/European_Library"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-European_Library rootpage-European_Library vector-nav-directionality skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">European Library</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=European_Library&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(February 2008)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<table class="infobox vcard" style="width:22em">
+<caption class="fn org">The European Library</caption>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:European_Library_logo.PNG" class="image"><img alt="European Library logo.PNG" src="//upload.wikimedia.org/wikipedia/en/thumb/0/0d/European_Library_logo.PNG/247px-European_Library_logo.PNG" width="247" height="138" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/0d/European_Library_logo.PNG/371px-European_Library_logo.PNG 1.5x, //upload.wikimedia.org/wikipedia/en/0/0d/European_Library_logo.PNG 2x" data-file-width="399" data-file-height="223" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:European_Library_screenshot.PNG" class="image"><img alt="European Library screenshot.PNG" src="//upload.wikimedia.org/wikipedia/en/thumb/1/1c/European_Library_screenshot.PNG/247px-European_Library_screenshot.PNG" width="247" height="222" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/1/1c/European_Library_screenshot.PNG 1.5x" data-file-width="332" data-file-height="299" /></a></td>
+</tr>
+<tr>
+<th scope="row">
+<div style="padding:0.1em 0;line-height:1.2em;">Type of site</div>
+</th>
+<td>Portal to the content of Europe's national and research libraries</td>
+</tr>
+<tr>
+<th scope="row">Headquarters</th>
+<td class="adr"><span class="locality">Dutch Royal Library, <a href="/wiki/Netherlands" title="Netherlands">Netherlands</a>"</span></td>
+</tr>
+<tr>
+<th scope="row">Owner</th>
+<td>CENL (a <a href="/wiki/Consortium" title="Consortium">consortium</a> of 49 national libraries)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></td>
+</tr>
+<tr>
+<th scope="row">Website</th>
+<td class="url"><a rel="nofollow" class="external text" href="http://www.theeuropeanlibrary.org/">theeuropeanlibrary.org</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Alexa_Internet" title="Alexa Internet">Alexa</a> rank</th>
+<td><img alt="Positive decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Decrease_Positive.svg/11px-Decrease_Positive.svg.png" title="Positive decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Decrease_Positive.svg/17px-Decrease_Positive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Decrease_Positive.svg/22px-Decrease_Positive.svg.png 2x" data-file-width="300" data-file-height="300" /> 403,183 (April 2014<sup class="plainlinks noprint asof-tag update" style="display:none;"><a class="external text" href="//en.wikipedia.org/w/index.php?title=European_Library&amp;action=edit">[update]</a></sup>)<sup id="cite_ref-alexa_2-0" class="reference"><a href="#cite_note-alexa-2">[2]</a></sup></td>
+</tr>
+<tr>
+<th scope="row">Commercial</th>
+<td>No</td>
+</tr>
+<tr>
+<th scope="row">Launched</th>
+<td>17 March 2005</td>
+</tr>
+</table>
+<p><b>The European Library</b> is an Internet service that allows access to the resources of 49 European <a href="/wiki/National_libraries" class="mw-redirect" title="National libraries">national libraries</a><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> and an increasing number of research libraries. Searching is free and delivers metadata records as well as digital objects, mostly free of charge. The objects come from institutions located in countries which are members of the <a href="/wiki/Council_of_Europe" title="Council of Europe">Council of Europe</a> and range from catalogue records to full-text books, magazines, journals and audio recordings. Over 200 million records are searchable, including 24 million pages of full-text content and more than 7 million digital objects. Thirty five different languages are represented among the searchable objects.</p>
+<p>The European Library ceases operation on 2016-12-31.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History_and_concept"><span class="tocnumber">1</span> <span class="toctext">History and concept</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#The_European_Library_and_Europeana"><span class="tocnumber">2</span> <span class="toctext">The European Library and Europeana</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Virtual_exhibitions"><span class="tocnumber">3</span> <span class="toctext">Virtual exhibitions</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Financing_and_ownership"><span class="tocnumber">4</span> <span class="toctext">Financing and ownership</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Partner_libraries"><span class="tocnumber">5</span> <span class="toctext">Partner libraries</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History_and_concept">History and concept</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=European_Library&amp;action=edit&amp;section=1" title="Edit section: History and concept">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The European Library of today has evolved from a number of earlier projects.</p>
+<p>Its starting point was in 1997 when the GABRIEL (Gateway and Bridge to Europe's National Libraries) project set out to establish a joint web portal of European national libraries. At a basic level, the portal provided information about each library's collections and access to their online public access catalogues (OPACs).</p>
+<table class="rquote floatleft" role="presentation" style="border-collapse:collapse; border-style:none; float:left; margin:0.5em 0.75em; width:33%;">
+<tr style="text-align:left; vertical-align:top;">
+<td style="color:#b2b7f2; font-size:3.3em; font-family:'Times New Roman',serif; font-weight:bold; padding:4px 2px 2px; width:0.5em; line-height: 1em;">“</td>
+<td style="padding:0 10px;">The European Library exists to open up the universe of knowledge, information and cultures of all Europe's national libraries.</td>
+<td style="color:#b2b7f2; font-size:3.3em; font-family:'Times New Roman',serif; font-weight:bold; padding:4px 2px 2px; text-align:right; vertical-align:bottom; width:0.5em; line-height: 1em;">”</td>
+</tr>
+<tr>
+<td class="rquotecite" colspan="3" style="padding-top:10px; font-size:smaller; line-height:1em; text-align:right;"><cite>—&#160; European Library Mission<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></cite></td>
+</tr>
+</table>
+<p>GABRIEL was followed by the TEL (The European Library) project, which ran from 2001–2004 and created a framework for access to key national and deposit collections within Europe. The project was part-funded under the <a href="/wiki/Fifth_Framework_Programme" class="mw-redirect" title="Fifth Framework Programme">Fifth Framework Programme</a> of the <a href="/wiki/European_Commission" title="European Commission">European Commission</a>. The national libraries involved in the TEL project were those of Finland, Germany, Italy (Florence), Italy (Rome), Netherlands, Portugal, Slovenia, Switzerland and United Kingdom.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></p>
+<p>This led to the launch of TheEuropeanLibrary.org portal on 17 March 2005.</p>
+<p>Between 2005–2007, the TEL-ME-MOR project helped to incorporate 10 more national libraries from new European Union member states as full partners of The European Library. By the beginning of 2008, a further nine national libraries within the European Union and the European Free Trade Association had joined the service.</p>
+<p>The European Library took a further step towards its enlargement with the EDLproject, during which national libraries continued to join The European Library. The project also focused on multilingualism, undertook the first steps towards a European Metadata Registry and created a roadmap for potential digitization efforts in the national libraries.</p>
+<table class="wikitable">
+<tr>
+<th scope="col" width="75">Year of Joining</th>
+<th scope="col" width="650">National Libraries</th>
+</tr>
+<tr>
+<td>2005</td>
+<td>Netherlands, Switzerland, UK, Finland, France, Germany, Portugal, Italy-Florence, Italy-Rome</td>
+</tr>
+<tr>
+<td>2006</td>
+<td>Malta, Cyprus, Czech Republic, Hungary, Latvia, Lithuania, Slovenia, Estonia, Poland, Slovakia, Austria, Serbia, Croatia, Denmark</td>
+</tr>
+<tr>
+<td>2007</td>
+<td>Belgium, Greece, Iceland, Ireland, Liechtenstein, Luxembourg, Norway, Spain, Sweden, Russia-Moscow</td>
+</tr>
+<tr>
+<td>2008</td>
+<td>Albania, Azerbaijan, Armenia, Bosnia &amp; Herzegovina, Bulgaria, Macedonia, Georgia, Moldova, Montenegro, Romania, Turkey, Russia Saint Petersburg, Ukraine</td>
+</tr>
+<tr>
+<td>*</td>
+<td>San Marino, Vatican City (collections not searchable)</td>
+</tr>
+<tr>
+<td>2011</td>
+<td>Wales</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="The_European_Library_and_Europeana">The European Library and Europeana</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=European_Library&amp;action=edit&amp;section=2" title="Edit section: The European Library and Europeana">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The European Library provided much of the organization and support required to launch <a href="/wiki/Europeana" title="Europeana">Europeana</a> – a European Commission initiative that makes millions of digital objects from libraries, museums and archives accessible to the public via the Europeana website.</p>
+<p>When the <a href="/wiki/European_Parliament" title="European Parliament">European Parliament</a> called for Europeana to be established, the Conference of European National Librarians (CENL), under the auspices of the <a href="/wiki/National_Library_of_the_Netherlands" title="National Library of the Netherlands">National Library of the Netherlands</a> and CENL's service The European Library, were asked to submit for a project under the <a href="/w/index.php?title=EContentplus&amp;action=edit&amp;redlink=1" class="new" title="EContentplus (page does not exist)">eContentplus</a> programme. Work began on a prototype in 2007 and Europeana was launched in November 2008.</p>
+<p>Europeana now operates independently but The European Library continues to work closely with Europeana. The European Library is the aggregator of digital content from national libraries for Europeana and delivers digital content from national libraries on a monthly basis to Europeana.</p>
+<p>As of July 2012, The European Library was the second biggest content provider to Europeana,<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> with 3.45 million items added to the Europeana database.</p>
+<p>Some human and technical resources are also shared between Europeana and The European Library.</p>
+<h2><span class="mw-headline" id="Virtual_exhibitions">Virtual exhibitions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=European_Library&amp;action=edit&amp;section=3" title="Edit section: Virtual exhibitions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In addition to its search engine, The European Library pulls together themes from the collections of Europe's national libraries<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> and displays them in virtual exhibitions. These exhibitions unite geographically disparate objects in a single online space, offering Pan-European sources on the topic.</p>
+<ul>
+<li>Manuscripts and Princes in Medieval and Renaissance Europe:<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> 34 manuscripts from the royal collections of the Carolingian Emperors, French King Charles V and his family, and the Aragonese kings of Naples.</li>
+<li>Travelling Through History:<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> Centuries worth of travel memorabilia from 13 European libraries, including photographs, sounds, maps and books.</li>
+<li>Reading Europe:<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> Almost 1,000 books selected by <a href="/wiki/National_libraries" class="mw-redirect" title="National libraries">national libraries</a>, with curatorial information and full-text versions in most cases.</li>
+<li>A Roma Journey:<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> Texts, photographs, paintings and recordings of traditional songs showing the heritage of the <a href="/wiki/Romani_people" title="Romani people">Romani people</a> in Europe.</li>
+<li>Napoleonic Wars:<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> A selection of portraits, military maps, city plans, letters, books and other material from the <a href="/wiki/Napoleonic_Wars" title="Napoleonic Wars">Napoleonic Wars</a>.</li>
+<li>Treasures of Europe's National Libraries:<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> A collection of objects selected by Europe's national libraries as some of the most outstanding items in their collections.</li>
+<li>National Library Buildings:<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> Images of the National Libraries that are partners of The European Library.</li>
+</ul>
+<h2><span class="mw-headline" id="Financing_and_ownership">Financing and ownership</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=European_Library&amp;action=edit&amp;section=4" title="Edit section: Financing and ownership">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The European Library is financed by its owners, the Conference of European National Librarians (CENL). The portal is maintained by The European Library Office located in the premises of the <a href="/wiki/National_Library_of_the_Netherlands" title="National Library of the Netherlands">Dutch Royal Library</a> in <a href="/wiki/The_Hague" title="The Hague">The Hague</a>. Its programme director is Jill Cousins.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup></p>
+<h2><span class="mw-headline" id="Partner_libraries">Partner libraries</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=European_Library&amp;action=edit&amp;section=5" title="Edit section: Partner libraries">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The 48 National Libraries who participate in The European Library project are:</p>
+<div>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+<tr>
+<td style="width: 50%;text-align: left; vertical-align: top;">
+<ul>
+<li>Albania: <a href="/wiki/National_Library_of_Albania" title="National Library of Albania">Biblioteka Kombëtare e Shqipërisë</a></li>
+<li>Armenia: <a href="/wiki/National_Library_of_Armenia" title="National Library of Armenia">Հայաստանի Ազգային գրադարան</a></li>
+<li>Austria: <a href="/wiki/National_Library_of_Austria" class="mw-redirect" title="National Library of Austria">Österreichische Nationalbibliothek</a></li>
+<li>Azerbaijan: <a href="/wiki/National_Library_of_Azerbaijan" title="National Library of Azerbaijan">Mirzə Fətəli Axundov adına Azərbaycan Milli Kitabxanası</a></li>
+<li>Belgium: <a href="/wiki/Royal_Library_of_Belgium" title="Royal Library of Belgium">Koninklijke Bibliotheek België</a></li>
+<li>Bosnia and Herzegovina: <a href="/wiki/National_Library_of_Bosnia_and_Herzegovina" class="mw-redirect" title="National Library of Bosnia and Herzegovina">Nacionalna i univerzitetska biblioteka Bosne i Hercegovine</a></li>
+<li>Bulgaria: <a href="/wiki/National_Library_of_Bulgaria" class="mw-redirect" title="National Library of Bulgaria">Национална библиотека „Свети Свети Кирил и Методий</a></li>
+<li>Croatia: <a href="/wiki/National_Library_of_Croatia" class="mw-redirect" title="National Library of Croatia">Nacionalna i sveučilišna knjižnica u Zagrebu</a></li>
+<li>Cyprus: <a href="/wiki/National_Library_of_Cyprus" class="mw-redirect" title="National Library of Cyprus">Κυπριακή Βιβλιοθήκη</a></li>
+<li>Czech Republic: <a href="/wiki/National_Library_(Czech_Republic)" class="mw-redirect" title="National Library (Czech Republic)">Národní knihovna Ceské republiky</a></li>
+<li>Denmark: <a href="/wiki/Royal_Danish_Library" class="mw-redirect" title="Royal Danish Library">Det Kongelige Bibliotek</a></li>
+<li>Estonia: <a href="/wiki/National_Library_of_Estonia" title="National Library of Estonia">Eesti Rahvusraamatukogu</a></li>
+<li>Finland: <a href="/wiki/National_Library_of_Finland" title="National Library of Finland">Kansalliskirjasto</a></li>
+<li>France: <a href="/wiki/National_Library_of_France" class="mw-redirect" title="National Library of France">Bibliothèque nationale de France</a></li>
+<li>Georgia: <a href="/wiki/National_Parliamentary_Library_of_Georgia" title="National Parliamentary Library of Georgia">საქართველოს პარლამენტის ეროვნული ბიბლიოთეკა</a></li>
+<li>Germany: <a href="/wiki/National_Library_of_Germany" class="mw-redirect" title="National Library of Germany">German National Library</a></li>
+<li>Greece: <a href="/wiki/National_Library_of_Greece" title="National Library of Greece">Εθνική Βιβλιοθήκη</a></li>
+<li>Hungary: <a href="/wiki/National_Library_of_Hungary" class="mw-redirect" title="National Library of Hungary">Országos Széchényi Könyvtár</a></li>
+<li>Iceland: <a href="/wiki/National_Library_of_Iceland" class="mw-redirect" title="National Library of Iceland">Landsbókasafn Íslands – Háskólabókasafn</a></li>
+<li>Ireland: <a href="/wiki/National_Library_of_Ireland" title="National Library of Ireland">Leabharlann Náisiúnta na hÉireann</a></li>
+<li>Italy-Florence: <a href="/wiki/National_Central_Library_(Florence)" title="National Central Library (Florence)">Biblioteca Nazionale Centrale di Firenze</a></li>
+<li>Italy-Rome: <a href="/wiki/Biblioteca_Nazionale_Centrale_Roma" class="mw-redirect" title="Biblioteca Nazionale Centrale Roma">Biblioteca Nazionale Centrale</a></li>
+<li>Latvia: <a href="/wiki/Latvian_National_Library" class="mw-redirect" title="Latvian National Library">Latvijas Nacionālā bibliotēka</a></li>
+<li>Liechtenstein: <a href="/wiki/Liechtensteinische_Landesbibliothek" class="mw-redirect" title="Liechtensteinische Landesbibliothek">Liechtensteinische Landesbibliothek</a></li>
+</ul>
+</td>
+<td style="text-align: left; vertical-align: top;">
+<ul>
+<li>Lithuania: <a href="/wiki/Martynas_Ma%C5%BEvydas_National_Library_of_Lithuania" title="Martynas Mažvydas National Library of Lithuania">Lietuvos nacionalinė Martyno Mažvydo biblioteka</a></li>
+<li>Luxembourg: <a href="/wiki/National_Library_of_Luxembourg" title="National Library of Luxembourg">Bibliothèque nationale de Luxembourg</a></li>
+<li>Macedonia: <a href="/wiki/National_and_University_Library_St._Kliment_Ohridski" class="mw-redirect" title="National and University Library St. Kliment Ohridski">National and University Library St. Kliment Ohridski</a> (<i>Nacionalna i univerzitetska biblioteka Sv. Kliment Ohridski</i>)</li>
+<li>Malta: <a href="/wiki/National_Library_of_Malta" title="National Library of Malta">Bibljoteka Nazzjonali ta' Malta</a></li>
+<li>Moldova: <a href="/wiki/National_Library_of_Moldova" title="National Library of Moldova">Biblioteca Naţională a Republicii Moldova</a></li>
+<li>Montenegro: <a href="/wiki/Central_National_Library_of_Montenegro" class="mw-redirect" title="Central National Library of Montenegro">Centralna narodna biblioteka Crne Gore</a></li>
+<li>Netherlands: <a href="/wiki/National_Library_of_the_Netherlands" title="National Library of the Netherlands">Koninklijke Bibliotheek</a></li>
+<li>Norway: <a href="/wiki/National_Library_of_Norway" title="National Library of Norway">Nasjonalbiblioteket</a></li>
+<li>Poland: <a href="/wiki/National_Library_of_Poland" title="National Library of Poland">Biblioteka Narodowa</a></li>
+<li>Portugal: <a href="/wiki/National_Library_of_Portugal" class="mw-redirect" title="National Library of Portugal">Biblioteca Nacional de Portugal</a></li>
+<li>Romania: <a href="/wiki/National_Library_of_Romania" title="National Library of Romania">Biblioteca Naţională a României</a></li>
+<li>Russia-Moscow: <a href="/wiki/Russian_State_Library" title="Russian State Library">Российская государственная библиотека</a></li>
+<li>Russia-St.Petersburg: <a href="/wiki/National_Library_of_Russia" title="National Library of Russia">Rossiiskaya Natsionalnaya Biblioteka</a></li>
+<li>San Marino: Biblioteca di Stato e Beni Librari</li>
+<li>Serbia: <a href="/wiki/National_Library_of_Serbia" title="National Library of Serbia">Народна библиотека Србије / Narodna biblioteka Srbije</a></li>
+<li>Slovakia: <a href="/wiki/National_Library_of_Slovakia" class="mw-redirect" title="National Library of Slovakia">Slovenská národná knižnica</a></li>
+<li>Slovenia: <a href="/wiki/National_Library_of_Slovenia" class="mw-redirect" title="National Library of Slovenia">Narodna in univerzitetna knjižnica</a></li>
+<li>Spain: <a href="/wiki/National_Library_of_Spain" class="mw-redirect" title="National Library of Spain">Biblioteca Nacional de España</a></li>
+<li>Sweden: <a href="/wiki/National_Library_of_Sweden" title="National Library of Sweden">Kungliga biblioteket</a></li>
+<li>Switzerland: <a href="/wiki/National_Library_of_Switzerland" class="mw-redirect" title="National Library of Switzerland">Swiss National Library</a></li>
+<li>Turkey: <a href="/wiki/National_Library_of_Turkey" title="National Library of Turkey">Millî Kütüphane</a></li>
+<li>Ukraine: <a href="/wiki/National_Library_of_Ukraine" class="mw-redirect" title="National Library of Ukraine">Національна бібліотека України імені В.І. Вернадського</a></li>
+<li>United Kingdom: <a href="/wiki/British_Library" title="British Library">British Library</a></li>
+<li>Vatican City: <a href="/wiki/Vatican_Library" title="Vatican Library">Bibliotheca Apostolica Vaticana</a></li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+<p>Research Libraries who have also contributed content to The European Library as a result of the Europeana Libraries project include:</p>
+<div>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+<tr>
+<td style="width: 50%;text-align: left; vertical-align: top;">
+<ul>
+<li><a href="/wiki/Bavarian_State_Library" title="Bavarian State Library">Bavarian State Library</a></li>
+<li><a href="/wiki/Belgrade_University_Library" title="Belgrade University Library">Belgrade University Library</a></li>
+<li><a href="/wiki/Hungarian_Parliament" class="mw-redirect" title="Hungarian Parliament">Hungarian Parliament</a> Library</li>
+<li><a href="/wiki/National_Library_of_Wales" title="National Library of Wales">National Library of Wales</a></li>
+<li><a href="/wiki/Romanian_Academy" title="Romanian Academy">Romanian Academy</a> Library</li>
+<li><a href="/wiki/Trinity_College_Dublin" class="mw-redirect" title="Trinity College Dublin">Trinity College Dublin</a></li>
+<li><a href="/wiki/Universidad_Complutense_de_Madrid" class="mw-redirect" title="Universidad Complutense de Madrid">Universidad Complutense de Madrid</a></li>
+<li><a href="/wiki/University_of_Berne" class="mw-redirect" title="University of Berne">University of Berne</a></li>
+<li><a href="/wiki/University_College,_London" class="mw-redirect" title="University College, London">University College, London</a></li>
+<li><a href="/wiki/University_of_Ghent" class="mw-redirect" title="University of Ghent">University of Ghent</a></li>
+</ul>
+</td>
+<td style="text-align: left; vertical-align: top;">
+<ul>
+<li><a href="/wiki/Katholieke_Universiteit_Leuven" class="mw-redirect" title="Katholieke Universiteit Leuven">University of Leuven</a></li>
+<li><a href="/wiki/University_of_Lund" class="mw-redirect" title="University of Lund">University of Lund</a></li>
+<li><a href="/wiki/University_of_Oxford" title="University of Oxford">University of Oxford</a></li>
+<li><a href="/wiki/University_of_Sibiu" class="mw-redirect" title="University of Sibiu">University of Sibiu</a></li>
+<li><a href="/wiki/University_of_Tartu_Library" class="mw-redirect" title="University of Tartu Library">University of Tartu Library</a></li>
+<li><a href="/wiki/University_of_Uppsala" class="mw-redirect" title="University of Uppsala">University of Uppsala</a></li>
+<li><a href="/wiki/University_of_Vienna" title="University of Vienna">University of Vienna</a></li>
+<li><a href="/wiki/Wellcome_Library" title="Wellcome Library">Wellcome Trust Library</a></li>
+<li><a href="/wiki/Zentralbibliothek_Z%C3%BCrich" title="Zentralbibliothek Zürich">Zentralbibliothek Zürich</a></li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=European_Library&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.cenl.org">CENL</a>, Official Website of CENL. Accessed 09 October 2015</span></li>
+<li id="cite_note-alexa-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-alexa_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.alexa.com/siteinfo/theeuropeanlibrary.org">"Theeuropeanlibrary.org Site Info"</a>. <a href="/wiki/Alexa_Internet" title="Alexa Internet">Alexa Internet</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2014-04-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEuropean+Library&amp;rft.btitle=Theeuropeanlibrary.org+Site+Info&amp;rft.genre=unknown&amp;rft.pub=Alexa+Internet&amp;rft_id=http%3A%2F%2Fwww.alexa.com%2Fsiteinfo%2Ftheeuropeanlibrary.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Singer, Natasha "<a rel="nofollow" class="external text" href="https://www.nytimes.com/2011/01/09/business/09stream.html?_r=1">Playing Catch-Up in a Digital Library Race</a>." New York Times, 8 January 2011. Accessed 17 January 2011.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.cenl.org/wp-content/uploads/20161213-TEL-closure-press-release-final.pdf">"Europe's national libraries and CENL commit to collaboration and mutual support as they build on the legacy of The European Library: TEL services to be discontinued from 31 December 2016"</a> <span style="font-size:85%;">(PDF)</span>. 2016-12-13.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEuropean+Library&amp;rft.btitle=Europe%27s+national+libraries+and+CENL+commit+to+collaboration+and+mutual+support+as+they+build+on+the+legacy+of+The+European+Library%3A+TEL+services+to+be+discontinued+from+31+December+2016&amp;rft.date=2016-12-13&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.cenl.org%2Fwp-content%2Fuploads%2F20161213-TEL-closure-press-release-final.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.theeuropeanlibrary.org/portal/organisation/about_us/aboutus_en.html#where_is_tel_going">The European Library Vision and Mission</a>. <i>TheEuropeanLibrary.org</i>. Accessed January 18, 2011.</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Van Veen, Theo and Oldroyd, Bill. "<a rel="nofollow" class="external text" href="http://www.dlib.org/dlib/february04/vanveen/02vanveen.html">Search and Retrieval in The European Library</a>." <i>D-Lib Magazine</i> Volume 10 Number 2 (2004). Accessed 18 January 2011.</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://europeana.eu/portal/europeana-contributors.html">List of Europeana contributors</a>. <i>Europeana.eu</i>. Accessed 18 January 2011.</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Bjørner, Susanne. <a rel="nofollow" class="external text" href="http://www.allbusiness.com/technology/software-services-applications/12369091-1.html">Thinking About Culture and Language</a>. <i>Searcher</i>, 1 June 2009. Accessed 18 January 2011.</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.theeuropeanlibrary.org/tel4/virtual/regia">Manuscripts and Princes in Medieval and Renaissance Europe</a> <i>TheEuropeanLibrary.org</i>. Accessed 30 July 2012.</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.theeuropeanlibrary.org/exhibition-travel-history">Travelling through History</a> <i>TheEuropeanLibrary.org</i>. Accessed 30 July 2012.</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.theeuropeanlibrary.org/exhibition-reading-europe/index.html">Reading Europe: European Culture Through The Book</a> <i>TheEuropeanLibrary.org</i>. Accessed 18 January 2011.</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.theeuropeanlibrary.org/exhibition/roma_journey/eng/index.html">A Roma Journey</a> <i>TheEuropeanLibrary.org</i>. Accessed 18 January 2011.</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.theeuropeanlibrary.org/exhibition/napoleonic_wars/index.html">Napoleonic Wars</a> <i>TheEuropeanLibrary.org</i>. Accessed 18 January 2011.</span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.theeuropeanlibrary.org/exhibition/treasures/index.html">Treasures of Europe's National Libraries</a> <i>TheEuropeanLibrary.org</i>. Accessed 18 January 2011.</span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.theeuropeanlibrary.org/exhibition/buildings/index.html">National Library Buildings</a> <i>TheEuropeanLibrary.org</i>. Accessed 18 January 2011.</span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.theeuropeanlibrary.org/portal/organisation/about_us/aboutus_en.html">About Us</a> <i>TheEuropeanLibrary.org</i>. Accessed 18 January 2011.</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=European_Library&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.theeuropeanlibrary.org/">The European Library</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.cenl.org">Conference of European National Librarians (CENL)</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.europeana-libraries.eu">Europeana Libraries</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/135446872">WorldCat Identities</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/135446872">135446872</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/7581775-5">7581775-5</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1273
+Cached time: 20171008144218
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.208 seconds
+Real time usage: 0.268 seconds
+Preprocessor visited node count: 1211/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 18547/2097152 bytes
+Template argument size: 1752/2097152 bytes
+Highest expansion depth: 23/40
+Expensive parser function count: 3/500
+Lua time usage: 0.087/10.000 seconds
+Lua memory usage: 2.83 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  232.091      1 -total
+ 29.43%   68.300      1 Template:Infobox_Website
+ 25.97%   60.277      1 Template:Infobox
+ 22.88%   53.111      1 Template:Reflist
+ 15.20%   35.273      2 Template:Cite_web
+ 15.13%   35.121      1 Template:Refimprove
+ 13.74%   31.900      1 Template:Ambox
+ 13.51%   31.364      1 Template:Use_dmy_dates
+ 11.56%   26.838      1 Template:Authority_control
+  7.76%   18.005      2 Template:DMCA
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1877082-0!canonical and timestamp 20171008144218 and revision id 777613286
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=European_Library&amp;oldid=777613286">https://en.wikipedia.org/w/index.php?title=European_Library&amp;oldid=777613286</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:National_libraries" title="Category:National libraries">National libraries</a></li><li><a href="/wiki/Category:Internet_and_the_European_Union" title="Category:Internet and the European Union">Internet and the European Union</a></li><li><a href="/wiki/Category:Cultural_policies_of_the_European_Union" title="Category:Cultural policies of the European Union">Cultural policies of the European Union</a></li><li><a href="/wiki/Category:European_culture" title="Category:European culture">European culture</a></li><li><a href="/wiki/Category:Aggregation-based_digital_libraries" title="Category:Aggregation-based digital libraries">Aggregation-based digital libraries</a></li><li><a href="/wiki/Category:Multilingual_websites" title="Category:Multilingual websites">Multilingual websites</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_dmy_dates_from_May_2013" title="Category:Use dmy dates from May 2013">Use dmy dates from May 2013</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_February_2008" title="Category:Articles needing additional references from February 2008">Articles needing additional references from February 2008</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Pages_using_deprecated_image_syntax" title="Category:Pages using deprecated image syntax">Pages using deprecated image syntax</a></li><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_April_2014" title="Category:Articles containing potentially dated statements from April 2014">Articles containing potentially dated statements from April 2014</a></li><li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">All articles containing potentially dated statements</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=European+Library" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=European+Library" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/European_Library" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:European_Library" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="collapsible selected"><span><a href="/wiki/European_Library">Read</a></span></li>
+							<li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=European_Library&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=European_Library&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/European_Library" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/European_Library" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=European_Library&amp;oldid=777613286" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=European_Library&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q240304" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=European_Library&amp;id=777613286" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=European+Library">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=European+Library&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=European_Library&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Avropa_kitabxanas%C4%B1" title="Avropa kitabxanası – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Evropsk%C3%A1_knihovna" title="Evropská knihovna – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/European_Library" title="European Library – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/European_Library" title="European Library – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/The_European_Library" title="The European Library – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%95%CF%85%CF%81%CF%89%CF%80%CE%B1%CF%8A%CE%BA%CE%AE_%CE%92%CE%B9%CE%B2%CE%BB%CE%B9%CE%BF%CE%B8%CE%AE%CE%BA%CE%B7" title="Ευρωπαϊκή Βιβλιοθήκη – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/The_European_Library" title="The European Library – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/E%C5%ADropa_Biblioteko" title="Eŭropa Biblioteko – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Biblioth%C3%A8que_europ%C3%A9enne" title="Bibliothèque européenne – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/European_Library" title="European Library – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Europska_knji%C5%BEnica" title="Europska knjižnica – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Biblioteca_europea" title="Biblioteca europea – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-csb"><a href="https://csb.wikipedia.org/wiki/E%C3%B9ropejsk%C3%B4_Bibloteka" title="Eùropejskô Bibloteka – Kashubian" lang="csb" hreflang="csb" class="interlanguage-link-target">Kaszëbsczi</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Eur%C3%B3pai_K%C3%B6nyvt%C3%A1r" title="Európai Könyvtár – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/The_European_Library" title="The European Library – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/European_Library" title="European Library – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/European_Library" title="European Library – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Biblioteka_Europejska" title="Biblioteka Europejska – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/The_European_Library" title="The European Library – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0" title="Европейская библиотека – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Eur%C3%B3pska_kni%C5%BEnica" title="Európska knižnica – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Evropska_knji%C5%BEnica" title="Evropska knjižnica – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D1%81%D0%BA%D0%B0_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0" title="Европска библиотека – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%84%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D1%8C%D0%BA%D0%B0_%D0%B1%D1%96%D0%B1%D0%BB%D1%96%D0%BE%D1%82%D0%B5%D0%BA%D0%B0" title="Європейська бібліотека – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Th%C6%B0_vi%E1%BB%87n_ch%C3%A2u_%C3%82u" title="Thư viện châu Âu – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%AD%90%E6%B4%B2%E5%9C%96%E6%9B%B8%E9%A4%A8" title="歐洲圖書館 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q240304#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 28 April 2017, at 06:22.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=European_Library&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.208","walltime":"0.268","ppvisitednodes":{"value":1211,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":18547,"limit":2097152},"templateargumentsize":{"value":1752,"limit":2097152},"expansiondepth":{"value":23,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  232.091      1 -total"," 29.43%   68.300      1 Template:Infobox_Website"," 25.97%   60.277      1 Template:Infobox"," 22.88%   53.111      1 Template:Reflist"," 15.20%   35.273      2 Template:Cite_web"," 15.13%   35.121      1 Template:Refimprove"," 13.74%   31.900      1 Template:Ambox"," 13.51%   31.364      1 Template:Use_dmy_dates"," 11.56%   26.838      1 Template:Authority_control","  7.76%   18.005      2 Template:DMCA"]},"scribunto":{"limitreport-timeusage":{"value":"0.087","limit":"10.000"},"limitreport-memusage":{"value":2970774,"limit":52428800}},"cachereport":{"origin":"mw1273","timestamp":"20171008144218","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":80,"wgHostname":"mw1248"});});</script>
+	</body>
+</html>

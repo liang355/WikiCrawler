@@ -1,0 +1,1405 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Solingen - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Solingen","wgTitle":"Solingen","wgCurRevisionId":803976137,"wgRevisionId":803976137,"wgArticleId":181249,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 German-language sources (de)","Coordinates on Wikidata","Articles with hAudio microformats","Articles containing potentially dated statements from 2007","All articles containing potentially dated statements","Articles needing additional references from January 2013","All articles needing additional references","Interlanguage link template link number","Articles with German-language external links","Wikipedia articles incorporating a citation from the New International Encyclopedia","Wikipedia articles with VIAF identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","Cities in North Rhine-Westphalia","Solingen","Members of the Hanseatic League"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Solingen","wgRelevantArticleId":181249,"wgRequestId":"Webe@gpAICsAAHE0uMcAAAAV","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCoordinates":{"lat":51.166666666667,"lon":7.0833333333333},"wgWikibaseItemId":"Q2942","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.3"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Solingen_Innenstadt_001.JPG/1200px-Solingen_Innenstadt_001.JPG"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Solingen"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Solingen&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Solingen&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Solingen"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Solingen rootpage-Solingen vector-experimental-print-styles vector-nav-directionality skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Solingen</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox geography vcard" style="width:22em;width:23em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap"><span class="fn org"><span class="wrap">Solingen</span></span></th>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Solingen_Innenstadt_001.JPG" class="image" title="Solingen-Mitte"><img alt="Solingen-Mitte" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Solingen_Innenstadt_001.JPG/250px-Solingen_Innenstadt_001.JPG" width="250" height="167" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Solingen_Innenstadt_001.JPG/375px-Solingen_Innenstadt_001.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Solingen_Innenstadt_001.JPG/500px-Solingen_Innenstadt_001.JPG 2x" data-file-width="3872" data-file-height="2592" /></a>
+<div>Solingen-Mitte</div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" class="maptable" style="text-align:center">
+<table style="width:100%; background:none;">
+<tr>
+<td style="vertical-align:middle; text-align:center;"><a href="/wiki/File:Flagge_Solingen.svg" class="image" title="Flag of Solingen  "><img alt="Flag of Solingen  " src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Flagge_Solingen.svg/100px-Flagge_Solingen.svg.png" width="100" height="60" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Flagge_Solingen.svg/150px-Flagge_Solingen.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Flagge_Solingen.svg/200px-Flagge_Solingen.svg.png 2x" data-file-width="500" data-file-height="300" /></a><br />
+<small>Flag</small></td>
+<td style="vertical-align:middle; text-align:center;"><a href="/wiki/File:Solingen_wappen.svg" class="image" title="Coat of arms of Solingen  "><img alt="Coat of arms of Solingen  " src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Solingen_wappen.svg/56px-Solingen_wappen.svg.png" width="56" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Solingen_wappen.svg/84px-Solingen_wappen.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Solingen_wappen.svg/112px-Solingen_wappen.svg.png 2x" data-file-width="415" data-file-height="592" /></a><br />
+<small>Coat of arms</small></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center">
+<div class="center">
+<div style="width:170px;float:none;clear:both;margin-left:auto;margin-right:auto">
+<div style="width:170px;padding:0">
+<div style="position:relative;width:170px"><a href="/wiki/File:Germany_adm_location_map.svg" class="image" title="Solingen   is located in Germany"><img alt="Solingen   is located in Germany" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/170px-Germany_adm_location_map.svg.png" width="170" height="202" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/255px-Germany_adm_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/340px-Germany_adm_location_map.svg.png 2x" data-file-width="1073" data-file-height="1272" /></a>
+<div style="position:absolute;top:49.789%;left:15.833%">
+<div style="position:absolute;left:-3px;top:-3px;line-height:0"><img alt="Solingen  " src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png" title="Solingen  " width="6" height="6" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/9px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div>
+<div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:4px;text-align:left"><span style="padding:1px;float:left"><span class="wrap">Solingen</span></span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr class="mergedbottomrow">
+<td colspan="2" style="text-align:center">Coordinates: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Solingen&amp;params=51_10_0_N_07_05_0_E_type:city(158726)_region:DE-NW"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">51°10′0″N</span> <span class="longitude">07°05′0″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">51.16667°N 7.08333°E</span><span style="display:none">﻿ / <span class="geo">51.16667; 7.08333</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Solingen&amp;params=51_10_0_N_07_05_0_E_type:city(158726)_region:DE-NW"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">51°10′0″N</span> <span class="longitude">07°05′0″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">51.16667°N 7.08333°E</span><span style="display:none">﻿ / <span class="geo">51.16667; 7.08333</span></span></span></a></span></span></span></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Country</th>
+<td><a href="/wiki/Germany" title="Germany">Germany</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/States_of_Germany" title="States of Germany">State</a></th>
+<td><a href="/wiki/North_Rhine-Westphalia" title="North Rhine-Westphalia">North Rhine-Westphalia</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Regierungsbezirk" title="Regierungsbezirk">Admin. region</a></th>
+<td><a href="/wiki/D%C3%BCsseldorf_(region)" title="Düsseldorf (region)">Düsseldorf</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Districts_of_Germany" title="Districts of Germany">District</a></th>
+<td><a href="/wiki/Urban_districts_of_Germany" class="mw-redirect" title="Urban districts of Germany">Urban districts of Germany</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Government</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;<a href="/wiki/Lord_Mayor" class="mw-redirect" title="Lord Mayor">Lord Mayor</a></th>
+<td>Tim Kurzbach (<a href="/wiki/Social_Democratic_Party_of_Germany" title="Social Democratic Party of Germany">SPD</a>)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Area</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Total</th>
+<td>89.45&#160;km<sup>2</sup> (34.54&#160;sq&#160;mi)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Elevation</th>
+<td>53-276&#160;m (−853&#160;ft)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Population <span style="font-weight:normal">(2015-12-31)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></span></th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Total</th>
+<td>158,726</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Density</th>
+<td>1,800/km<sup>2</sup> (4,600/sq&#160;mi)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/Time_zone" title="Time zone">Time zone</a></th>
+<td><a href="/wiki/Central_European_Time" title="Central European Time">CET</a>/<a href="/wiki/Central_European_Summer_Time" title="Central European Summer Time">CEST</a> (UTC+1/+2)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/List_of_postal_codes_in_Germany" title="List of postal codes in Germany">Postal codes</a></th>
+<td class="adr"><span class="postal-code">42601-42719</span></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/List_of_dialling_codes_in_Germany" title="List of dialling codes in Germany">Dialling codes</a></th>
+<td>0212</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Vehicle_registration_plate" title="Vehicle registration plate">Vehicle registration</a></th>
+<td>SG</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Website</th>
+<td><a rel="nofollow" class="external text" href="http://www.solingen.de/">www.solingen.de</a></td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Solingen_Graefrath_2006_08_09_0093.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Solingen_Graefrath_2006_08_09_0093.jpg/220px-Solingen_Graefrath_2006_08_09_0093.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Solingen_Graefrath_2006_08_09_0093.jpg/330px-Solingen_Graefrath_2006_08_09_0093.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Solingen_Graefrath_2006_08_09_0093.jpg/440px-Solingen_Graefrath_2006_08_09_0093.jpg 2x" data-file-width="2304" data-file-height="1728" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Solingen_Graefrath_2006_08_09_0093.jpg" class="internal" title="Enlarge"></a></div>
+Typical Houses in Solingen-<a href="/wiki/Gr%C3%A4frath" title="Gräfrath">Gräfrath</a></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Clemens.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Clemens.jpg/220px-Clemens.jpg" width="220" height="220" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Clemens.jpg/330px-Clemens.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/53/Clemens.jpg/440px-Clemens.jpg 2x" data-file-width="500" data-file-height="500" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Clemens.jpg" class="internal" title="Enlarge"></a></div>
+Solingen-Mitte: St. Clemens Church and Clemens Galerien</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Mummenscheid1.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Mummenscheid1.jpg/220px-Mummenscheid1.jpg" width="220" height="144" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Mummenscheid1.jpg/330px-Mummenscheid1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Mummenscheid1.jpg/440px-Mummenscheid1.jpg 2x" data-file-width="1957" data-file-height="1281" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Mummenscheid1.jpg" class="internal" title="Enlarge"></a></div>
+Farmyard Mummenscheid in the borough of Wald</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:SG-Gr%C3%A4frath_gesamter_Markt.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/SG-Gr%C3%A4frath_gesamter_Markt.JPG/220px-SG-Gr%C3%A4frath_gesamter_Markt.JPG" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/SG-Gr%C3%A4frath_gesamter_Markt.JPG/330px-SG-Gr%C3%A4frath_gesamter_Markt.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/SG-Gr%C3%A4frath_gesamter_Markt.JPG/440px-SG-Gr%C3%A4frath_gesamter_Markt.JPG 2x" data-file-width="2816" data-file-height="2112" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:SG-Gr%C3%A4frath_gesamter_Markt.JPG" class="internal" title="Enlarge"></a></div>
+Historical market place in the borough of <a href="/wiki/Gr%C3%A4frath" title="Gräfrath">Gräfrath</a></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Wupper_bei_Wupperbr%C3%BCcke_Wiesenkotten_03_ies.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Wupper_bei_Wupperbr%C3%BCcke_Wiesenkotten_03_ies.jpg/220px-Wupper_bei_Wupperbr%C3%BCcke_Wiesenkotten_03_ies.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Wupper_bei_Wupperbr%C3%BCcke_Wiesenkotten_03_ies.jpg/330px-Wupper_bei_Wupperbr%C3%BCcke_Wiesenkotten_03_ies.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/29/Wupper_bei_Wupperbr%C3%BCcke_Wiesenkotten_03_ies.jpg/440px-Wupper_bei_Wupperbr%C3%BCcke_Wiesenkotten_03_ies.jpg 2x" data-file-width="2048" data-file-height="1536" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Wupper_bei_Wupperbr%C3%BCcke_Wiesenkotten_03_ies.jpg" class="internal" title="Enlarge"></a></div>
+River <a href="/wiki/Wupper" title="Wupper">Wupper</a></div>
+</div>
+</div>
+<p><b>Solingen</b> (<small>German pronunciation:</small> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA/Standard_German" title="Help:IPA/Standard German">[ˈzoːlɪŋən]</a></span><small class="nowrap metadata">&#160;(<span class="unicode haudio"><span class="fn"><span style="white-space:nowrap"><a href="/wiki/File:De-Solingen.ogg" title="About this sound"><img alt="About this sound" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" data-file-width="20" data-file-height="20" /></a>&#160;</span><a href="//upload.wikimedia.org/wikipedia/commons/e/e8/De-Solingen.ogg" class="internal" title="De-Solingen.ogg">listen</a></span></span>)</small>) is a city in <a href="/wiki/North_Rhine-Westphalia" title="North Rhine-Westphalia">North Rhine-Westphalia</a>, Germany. It is located on the northern edge of the region called <a href="/wiki/Bergisches_Land" title="Bergisches Land">Bergisches Land</a>, south of the <a href="/wiki/Ruhr_area" class="mw-redirect" title="Ruhr area">Ruhr area</a>, and with a 2009 population<sup id="cite_ref-Bev.C3.B6lkerungsstand_2-0" class="reference"><a href="#cite_note-Bev.C3.B6lkerungsstand-2">[2]</a></sup> of 161,366 is after <a href="/wiki/Wuppertal" title="Wuppertal">Wuppertal</a> the second largest city in the Bergisches Land. It is a member of the regional authority of the <a href="/wiki/Rhineland" title="Rhineland">Rhineland</a>.</p>
+<p>Solingen is called the "City of Blades", since it has long been renowned for the manufacturing of fine swords, knives, scissors and razors made by famous firms such as Dreiturm, <a href="/wiki/DOVO_Solingen" title="DOVO Solingen">DOVO Solingen</a>, <a href="/wiki/W%C3%BCsthof" title="Wüsthof">Wüsthof</a>, <a href="/wiki/J._A._Henckels" title="J. A. Henckels">J. A. Henckels</a>, <a href="/wiki/B%C3%B6ker" title="Böker">Böker</a>, Klauberg, Eickhorn-Solingen, and numerous other manufacturers.</p>
+<p>In Medieval times, the <a href="/wiki/Swordsmith" class="mw-redirect" title="Swordsmith">swordsmiths</a> of Solingen coined the town's image, which is preserved to this date. In the latter part of the 17th century, a group of swordsmiths from Solingen broke their guild oaths by taking their sword-making secrets with them to <a href="/wiki/Shotley_Bridge" title="Shotley Bridge">Shotley Bridge</a>, <a href="/wiki/County_Durham" title="County Durham">County Durham</a> in England.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Geography"><span class="tocnumber">1</span> <span class="toctext">Geography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Neighbouring_cities_and_communities"><span class="tocnumber">1.1</span> <span class="toctext">Neighbouring cities and communities</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#City_administration"><span class="tocnumber">1.2</span> <span class="toctext">City administration</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Middle_Ages"><span class="tocnumber">2.1</span> <span class="toctext">Middle Ages</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Modern_Age"><span class="tocnumber">2.2</span> <span class="toctext">Modern Age</span></a>
+<ul>
+<li class="toclevel-3 tocsection-7"><a href="#Interwar_Period"><span class="tocnumber">2.2.1</span> <span class="toctext">Interwar Period</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="#World_War_II"><span class="tocnumber">2.2.2</span> <span class="toctext">World War II</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Population"><span class="tocnumber">3</span> <span class="toctext">Population</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Travel"><span class="tocnumber">4</span> <span class="toctext">Travel</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#Rail"><span class="tocnumber">4.1</span> <span class="toctext">Rail</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Trolleybus"><span class="tocnumber">4.2</span> <span class="toctext">Trolleybus</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Airtraffic"><span class="tocnumber">4.3</span> <span class="toctext">Airtraffic</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#Religion"><span class="tocnumber">5</span> <span class="toctext">Religion</span></a>
+<ul>
+<li class="toclevel-2 tocsection-15"><a href="#Christianity"><span class="tocnumber">5.1</span> <span class="toctext">Christianity</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Image_gallery"><span class="tocnumber">5.2</span> <span class="toctext">Image gallery</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Islam"><span class="tocnumber">5.3</span> <span class="toctext">Islam</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-18"><a href="#Tourism_and_culture"><span class="tocnumber">6</span> <span class="toctext">Tourism and culture</span></a>
+<ul>
+<li class="toclevel-2 tocsection-19"><a href="#Main_sights"><span class="tocnumber">6.1</span> <span class="toctext">Main sights</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#Museums"><span class="tocnumber">6.2</span> <span class="toctext">Museums</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#Parks_and_gardens"><span class="tocnumber">6.3</span> <span class="toctext">Parks and gardens</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-22"><a href="#Famous_people"><span class="tocnumber">7</span> <span class="toctext">Famous people</span></a>
+<ul>
+<li class="toclevel-2 tocsection-23"><a href="#Born_before_1900"><span class="tocnumber">7.1</span> <span class="toctext">Born before 1900</span></a></li>
+<li class="toclevel-2 tocsection-24"><a href="#Born_after_1900"><span class="tocnumber">7.2</span> <span class="toctext">Born after 1900</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-25"><a href="#Sports"><span class="tocnumber">8</span> <span class="toctext">Sports</span></a>
+<ul>
+<li class="toclevel-2 tocsection-26"><a href="#Baseball"><span class="tocnumber">8.1</span> <span class="toctext">Baseball</span></a></li>
+<li class="toclevel-2 tocsection-27"><a href="#Chess"><span class="tocnumber">8.2</span> <span class="toctext">Chess</span></a></li>
+<li class="toclevel-2 tocsection-28"><a href="#Handball"><span class="tocnumber">8.3</span> <span class="toctext">Handball</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-29"><a href="#Reception"><span class="tocnumber">9</span> <span class="toctext">Reception</span></a></li>
+<li class="toclevel-1 tocsection-30"><a href="#International_relations"><span class="tocnumber">10</span> <span class="toctext">International relations</span></a>
+<ul>
+<li class="toclevel-2 tocsection-31"><a href="#Twin_towns_.E2.80.93_Sister_cities"><span class="tocnumber">10.1</span> <span class="toctext">Twin towns – Sister cities</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-32"><a href="#References"><span class="tocnumber">11</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-33"><a href="#External_links"><span class="tocnumber">12</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Geography">Geography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solingen&amp;action=edit&amp;section=1" title="Edit section: Geography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Solingen lies southwest of <a href="/wiki/Wuppertal" title="Wuppertal">Wuppertal</a> in the <a href="/wiki/Bergisches_Land" title="Bergisches Land">Bergisches Land</a>. The city has an area of 89.45 square kilometres (34.54&#160;sq&#160;mi), of which roughly 50% is used for agriculture, horticulture, or forestry. The city's border is 62 kilometres (39&#160;mi) long, and the city's dimensions are 15.6 kilometres (9.7&#160;mi) east to west and 11.7 kilometres (7.3&#160;mi) north to south. The <a href="/wiki/Wupper" title="Wupper">Wupper river</a>, a right tributary of the <a href="/wiki/Rhine" title="Rhine">Rhine</a>, flows through the city for 26 kilometres (16&#160;mi). The city's highest point at 276 metres (906&#160;ft) is in the northern borough of <a href="/wiki/Gr%C3%A4frath" title="Gräfrath">Gräfrath</a> at the Light Tower, previously the <a href="/wiki/Water_tower" title="Water tower">water tower</a>, and the lowest point at 53 metres (174&#160;ft) is in the southwest.</p>
+<h3><span class="mw-headline" id="Neighbouring_cities_and_communities">Neighbouring cities and communities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solingen&amp;action=edit&amp;section=2" title="Edit section: Neighbouring cities and communities">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The following cities and communities share a border with Solingen, starting in the northeast and going clockwise around the city:</p>
+<ul>
+<li><a href="/wiki/Wuppertal" title="Wuppertal">Wuppertal</a> (<a href="/wiki/Urban_districts_of_Germany" class="mw-redirect" title="Urban districts of Germany">unitary urban district</a>)</li>
+<li><a href="/wiki/Remscheid" title="Remscheid">Remscheid</a> (unitary urban district)</li>
+<li><a href="/wiki/Wermelskirchen" title="Wermelskirchen">Wermelskirchen</a> (within the <a href="/wiki/Rheinisch-Bergischer_Kreis" title="Rheinisch-Bergischer Kreis">Rheinisch-Bergischer district</a>)</li>
+<li><a href="/wiki/Leichlingen" title="Leichlingen">Leichlingen</a> (Rheinisch-Bergischer district)</li>
+<li><a href="/wiki/Langenfeld,_Rhineland" title="Langenfeld, Rhineland">Langenfeld</a> (within the <a href="/wiki/Mettmann_(district)" title="Mettmann (district)">district of Mettmann</a>)</li>
+<li><a href="/wiki/Hilden" title="Hilden">Hilden</a> (Mettmann)</li>
+<li><a href="/wiki/Haan" title="Haan">Haan</a> (Mettmann)</li>
+</ul>
+<h3><span class="mw-headline" id="City_administration">City administration</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solingen&amp;action=edit&amp;section=3" title="Edit section: City administration">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Solingen currently consists of five <a href="/wiki/Borough" title="Borough">boroughs</a>. Each borough has a municipal council of either 13 or 15 representatives (<i>Bezirksvertreter</i>) elected every five years by the borough's population. The municipal councils are responsible for many of the boroughs' important administrative affairs.</p>
+<p>The five city boroughs:</p>
+<ul>
+<li><a href="/wiki/Gr%C3%A4frath" title="Gräfrath">Gräfrath</a></li>
+<li>Wald (Solingen)</li>
+<li>(Solingen-)Mitte</li>
+<li>Ohligs/Aufderhöhe/Merscheid</li>
+<li>Höhscheid/Burg</li>
+</ul>
+<p>The individuals boroughs are in part composed of separate quarters or residential areas with their own names, although they often lack precise borders. These areas are:</p>
+<dl>
+<dd><b>Aufderhöhe:</b> Aufderbech, Börkhaus, Gosse, Horn, Holzhof, Josefstal, Landwehr, Löhdorf, Pohligsfeld, Riefnacken, Rupelrath, Siebels, Steinendorf, Ufer, Wiefeldick</dd>
+<dd><b><a href="/wiki/Burg_an_der_Wupper" class="mw-redirect" title="Burg an der Wupper">Burg</a>:</b> Angerscheid, Höhrath</dd>
+<dd><b><a href="/wiki/Gr%C3%A4frath" title="Gräfrath">Gräfrath</a>:</b> Central, Flachsberg, Flockertsholz, Focher Dahl, Fürkeltrath, Heide, Ketzberg, Külf, Nümmen, Piepersberg, Rathland, Schieten, Zum Holz</dd>
+<dd><b>Höhscheid:</b> Balkhausen, Bünkenberg, Dorperhof, Friedrichstal, Fürkelt, Glüder, Grünewald, Haasenmühle, Hästen, Katternberg, Kohlsberg, Meiswinkel, Nacken, Pfaffenberg, Pilghausen, Rölscheid, Rüden, Schaberg, Schlicken, Unnersberg, Weeg, Widdert, Wippe</dd>
+<dd><b>Merscheid:</b> Büschberg, Dahl, Dingshaus, Fürk, Fürker Irlen, Gönrath, Hübben, Hoffnung, Limminghofen, Scheuren, Schmalzgrube</dd>
+<dd><b>Mitte:</b> Entenpfuhl, Eick, Grunenburg, Hasseldelle, Kannenhof, Kohlfurth, Krahenhöhe, Mangenberg, Meigen, Müngsten, Papiermühle, Scheidt, Schlagbaum, Schrodtberg, Stöcken, Stockdum, Theegarten, Vorspel, Windfeln</dd>
+<dd><b>Ohligs:</b> Brabant, Broßhaus, Buschfeld, Caspersbroich, Deusberg, Engelsberger Hof, Hackhausen, Keusenhof, Mankhaus, Maubes, Monhofer Feld, Poschheide, Scharrenberg, Schnittert, Suppenheide, Unterland, Wilzhaus, Verlach</dd>
+<dd><b>Wald:</b> Bavert, Demmeltrath, Eschbach, Eigen, Fuhr, Garzenhaus, Itter, Kotzert, <a href="/wiki/Lochbach_(Itter)" title="Lochbach (Itter)">Lochbachtal</a>, Rolsberg, Vogelsang, Weyer</dd>
+</dl>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solingen&amp;action=edit&amp;section=4" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Middle_Ages">Middle Ages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solingen&amp;action=edit&amp;section=5" title="Edit section: Middle Ages">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:SOL001.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/SOL001.JPG/220px-SOL001.JPG" width="220" height="227" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/a/a1/SOL001.JPG 1.5x" data-file-width="326" data-file-height="337" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:SOL001.JPG" class="internal" title="Enlarge"></a></div>
+Coins issued after World War I by the City of Solingen</div>
+</div>
+</div>
+<p>Solingen was first mentioned in 1067 by a chronicler who called the area "Solonchon". Early variations of the name included "Solengen", "Solungen", and "Soleggen", although the modern name seems to have been in use since the late 14th and early 15th centuries.</p>
+<p>Blacksmith smelters, dating back to over 2000 years, have been found around the town adding to Solingen's fame as a Northern Europe blacksmith centre. Swords from Solingen have turned up in places such as the Anglo-Saxon kingdoms in the British Isles. Northern Europe prized the quality of Solingen's manufactured weaponry, and they were traded across the European continent. Solingen today remains the knife-centre of Germany.</p>
+<p>It was a tiny village for centuries, but became a fortified town in the 15th century.</p>
+<h3><span class="mw-headline" id="Modern_Age">Modern Age</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solingen&amp;action=edit&amp;section=6" title="Edit section: Modern Age">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Stadt_Solingen_1922.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Stadt_Solingen_1922.jpg/220px-Stadt_Solingen_1922.jpg" width="220" height="305" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Stadt_Solingen_1922.jpg/330px-Stadt_Solingen_1922.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Stadt_Solingen_1922.jpg/440px-Stadt_Solingen_1922.jpg 2x" data-file-width="3161" data-file-height="4380" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Stadt_Solingen_1922.jpg" class="internal" title="Enlarge"></a></div>
+Bond of the City of Solingen, issued 1. July 1922</div>
+</div>
+</div>
+<h4><span class="mw-headline" id="Interwar_Period">Interwar Period</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solingen&amp;action=edit&amp;section=7" title="Edit section: Interwar Period">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In 1929 Ohligs, located in the <a href="/wiki/Prussia" title="Prussia">Prussian</a> <a href="/wiki/Rhine_Province" title="Rhine Province">Rhine Province</a>, 17 miles (27&#160;km) by rail north of <a href="/wiki/Cologne" title="Cologne">Cologne</a> became part of Solingen. Its chief manufactures were <a href="/wiki/Cutlery" title="Cutlery">cutlery</a> and <a href="/wiki/Household_hardware" title="Household hardware">hardware</a>, and there were iron-foundries and <a href="/wiki/Flour_mill" class="mw-redirect" title="Flour mill">flour mills</a>. Other industries are brewing, dyeing, weaving and brick-making.</p>
+<h4><span class="mw-headline" id="World_War_II">World War II</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solingen&amp;action=edit&amp;section=8" title="Edit section: World War II">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In <a href="/wiki/World_War_II" title="World War II">World War II</a> the Old Town was completely destroyed by an <a href="/wiki/Airstrike" title="Airstrike">air raid</a> of the British air force in 1944; 1,800 people died and over 1,500 people were badly injured.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> As such, there are few pre-war sights in the centre.</p>
+<h2><span class="mw-headline" id="Population">Population</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solingen&amp;action=edit&amp;section=9" title="Edit section: Population">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Solingen's population doubled between the years 1880 and 1890 due to the incorporation of the city Dorp into Solingen in 1889, at which time the population reached 36,000. The population again received a large boost on August 1, 1929 through the incorporation of Ohligs, Wald, Höhscheid, and Gräfrath into the city limits. This brought the population above the 100,000 mark, which gave Solingen the distinction of "large city" (<i>Großstadt</i>). The number of inhabitants peaked in 1971 with 177,899 residents, and the 2006 population figure was 163,263.</p>
+<p>The following chart shows the population figures within Solingen's city limits at the respective points in time. The figures are derived from <a href="/wiki/Census" title="Census">census</a> estimates or numbers provided by statistical offices or city agencies, with the exception of figures preceding 1843, which were gathered using inconsistent recording techniques.</p>
+<table>
+<tr>
+<td valign="top">
+<table class="wikitable">
+<tr class="Hintergrundfarbe5">
+<th>Year</th>
+<th>Population</th>
+</tr>
+<tr>
+<td>1747</td>
+<td style="text-align:right;">ca. 2,000</td>
+</tr>
+<tr>
+<td>1804</td>
+<td style="text-align:right;">ca. 2,871</td>
+</tr>
+<tr>
+<td>1818</td>
+<td style="text-align:right;">ca. 4,000</td>
+</tr>
+<tr>
+<td>3 December 1846<sup id="cite_ref-fn1_4-0" class="reference"><a href="#cite_note-fn1-4">[a]</a></sup></td>
+<td style="text-align:right;">6,127</td>
+</tr>
+<tr>
+<td>3 December 1861<sup id="cite_ref-fn1_4-1" class="reference"><a href="#cite_note-fn1-4">[a]</a></sup></td>
+<td style="text-align:right;">10,100</td>
+</tr>
+<tr>
+<td>3 December 1864<sup id="cite_ref-fn1_4-2" class="reference"><a href="#cite_note-fn1-4">[a]</a></sup></td>
+<td style="text-align:right;">11,800</td>
+</tr>
+<tr>
+<td>3 December 1867<sup id="cite_ref-fn1_4-3" class="reference"><a href="#cite_note-fn1-4">[a]</a></sup></td>
+<td style="text-align:right;">13,000</td>
+</tr>
+<tr>
+<td>1 December 1871<sup id="cite_ref-fn1_4-4" class="reference"><a href="#cite_note-fn1-4">[a]</a></sup></td>
+<td style="text-align:right;">14,040</td>
+</tr>
+<tr>
+<td>1 December 1875<sup id="cite_ref-fn1_4-5" class="reference"><a href="#cite_note-fn1-4">[a]</a></sup></td>
+<td style="text-align:right;">15,142</td>
+</tr>
+<tr>
+<td>1 December 1880<sup id="cite_ref-fn1_4-6" class="reference"><a href="#cite_note-fn1-4">[a]</a></sup></td>
+<td style="text-align:right;">16,900</td>
+</tr>
+<tr>
+<td>1 December 1885<sup id="cite_ref-fn1_4-7" class="reference"><a href="#cite_note-fn1-4">[a]</a></sup></td>
+<td style="text-align:right;">18,641</td>
+</tr>
+<tr>
+<td>1 December 1890<sup id="cite_ref-fn1_4-8" class="reference"><a href="#cite_note-fn1-4">[a]</a></sup></td>
+<td style="text-align:right;">36,540</td>
+</tr>
+<tr>
+<td>2 December 1895<sup id="cite_ref-fn1_4-9" class="reference"><a href="#cite_note-fn1-4">[a]</a></sup></td>
+<td style="text-align:right;">40,843</td>
+</tr>
+<tr>
+<td>1 December 1900<sup id="cite_ref-fn1_4-10" class="reference"><a href="#cite_note-fn1-4">[a]</a></sup></td>
+<td style="text-align:right;">45,260</td>
+</tr>
+<tr>
+<td>1 December 1905<sup id="cite_ref-fn1_4-11" class="reference"><a href="#cite_note-fn1-4">[a]</a></sup></td>
+<td style="text-align:right;">49,018</td>
+</tr>
+<tr>
+<td>1 December 1910<sup id="cite_ref-fn1_4-12" class="reference"><a href="#cite_note-fn1-4">[a]</a></sup></td>
+<td style="text-align:right;">50,536</td>
+</tr>
+<tr>
+<td>1 December 1916<sup id="cite_ref-fn1_4-13" class="reference"><a href="#cite_note-fn1-4">[a]</a></sup></td>
+<td style="text-align:right;">45,720</td>
+</tr>
+</table>
+</td>
+<td valign="top">
+<table class="wikitable">
+<tr class="Hintergrundfarbe5">
+<th>Year</th>
+<th>Population</th>
+</tr>
+<tr>
+<td>5 December 1917<sup id="cite_ref-fn1_4-14" class="reference"><a href="#cite_note-fn1-4">[a]</a></sup></td>
+<td style="text-align:right;">47,459</td>
+</tr>
+<tr>
+<td>8 October 1919<sup id="cite_ref-fn1_4-15" class="reference"><a href="#cite_note-fn1-4">[a]</a></sup></td>
+<td style="text-align:right;">48,912</td>
+</tr>
+<tr>
+<td>16 June 1925<sup id="cite_ref-fn1_4-16" class="reference"><a href="#cite_note-fn1-4">[a]</a></sup></td>
+<td style="text-align:right;">52,002</td>
+</tr>
+<tr>
+<td>16 June 1933<sup id="cite_ref-fn1_4-17" class="reference"><a href="#cite_note-fn1-4">[a]</a></sup></td>
+<td style="text-align:right;">140,162</td>
+</tr>
+<tr>
+<td>17 May 1939<sup id="cite_ref-fn1_4-18" class="reference"><a href="#cite_note-fn1-4">[a]</a></sup></td>
+<td style="text-align:right;">140,466</td>
+</tr>
+<tr>
+<td>31 December 1945</td>
+<td style="text-align:right;">129,440</td>
+</tr>
+<tr>
+<td>29 October 1946<sup id="cite_ref-fn1_4-19" class="reference"><a href="#cite_note-fn1-4">[a]</a></sup></td>
+<td style="text-align:right;">133,001</td>
+</tr>
+<tr>
+<td>13 September 1950<sup id="cite_ref-fn1_4-20" class="reference"><a href="#cite_note-fn1-4">[a]</a></sup></td>
+<td style="text-align:right;">147,845</td>
+</tr>
+<tr>
+<td>25 September 1956<sup id="cite_ref-fn1_4-21" class="reference"><a href="#cite_note-fn1-4">[a]</a></sup></td>
+<td style="text-align:right;">161,353</td>
+</tr>
+<tr>
+<td>6 June 1961<sup id="cite_ref-fn1_4-22" class="reference"><a href="#cite_note-fn1-4">[a]</a></sup></td>
+<td style="text-align:right;">169,930</td>
+</tr>
+<tr>
+<td>31 December 1965</td>
+<td style="text-align:right;">175,634</td>
+</tr>
+<tr>
+<td>27 May 1970<sup id="cite_ref-fn1_4-23" class="reference"><a href="#cite_note-fn1-4">[a]</a></sup></td>
+<td style="text-align:right;">176,420</td>
+</tr>
+<tr>
+<td>31 December 1975</td>
+<td style="text-align:right;">171,810</td>
+</tr>
+<tr>
+<td>31 December 1980</td>
+<td style="text-align:right;">166,085</td>
+</tr>
+<tr>
+<td>31 December 1985</td>
+<td style="text-align:right;">157,923</td>
+</tr>
+<tr>
+<td>25 May 1987<sup id="cite_ref-fn1_4-24" class="reference"><a href="#cite_note-fn1-4">[a]</a></sup></td>
+<td style="text-align:right;">159,103</td>
+</tr>
+<tr>
+<td>31 December 1990</td>
+<td style="text-align:right;">165,401</td>
+</tr>
+</table>
+</td>
+<td valign="top">
+<table class="wikitable">
+<tr class="Hintergrundfarbe5">
+<th>Year</th>
+<th>Population</th>
+</tr>
+<tr>
+<td>31 December 1995</td>
+<td style="text-align:right;">165,735</td>
+</tr>
+<tr>
+<td>31 December 2000</td>
+<td style="text-align:right;">164,973</td>
+</tr>
+<tr>
+<td>31 December 2005</td>
+<td style="text-align:right;">163,581</td>
+</tr>
+<tr>
+<td>31 December 2006</td>
+<td style="text-align:right;">162,948</td>
+</tr>
+<tr>
+<td>31 December 2007</td>
+<td style="text-align:right;">162,575</td>
+</tr>
+<tr>
+<td>31 December 2008</td>
+<td style="text-align:right;">161,779</td>
+</tr>
+<tr>
+<td>30 April 2009</td>
+<td style="text-align:right;">160,242</td>
+</tr>
+<tr>
+<td>9 May 2011<sup id="cite_ref-fn1_4-25" class="reference"><a href="#cite_note-fn1-4">[a]</a></sup></td>
+<td style="text-align:right;">155,265</td>
+</tr>
+<tr>
+<td>31 December 2012</td>
+<td style="text-align:right;">155,316</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<div class="reflist" style="list-style-type: lower-alpha;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-fn1-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-fn1_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-fn1_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-fn1_4-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-fn1_4-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-fn1_4-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-fn1_4-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-fn1_4-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-fn1_4-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-fn1_4-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-fn1_4-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-fn1_4-10"><sup><i><b>k</b></i></sup></a> <a href="#cite_ref-fn1_4-11"><sup><i><b>l</b></i></sup></a> <a href="#cite_ref-fn1_4-12"><sup><i><b>m</b></i></sup></a> <a href="#cite_ref-fn1_4-13"><sup><i><b>n</b></i></sup></a> <a href="#cite_ref-fn1_4-14"><sup><i><b>o</b></i></sup></a> <a href="#cite_ref-fn1_4-15"><sup><i><b>p</b></i></sup></a> <a href="#cite_ref-fn1_4-16"><sup><i><b>q</b></i></sup></a> <a href="#cite_ref-fn1_4-17"><sup><i><b>r</b></i></sup></a> <a href="#cite_ref-fn1_4-18"><sup><i><b>s</b></i></sup></a> <a href="#cite_ref-fn1_4-19"><sup><i><b>t</b></i></sup></a> <a href="#cite_ref-fn1_4-20"><sup><i><b>u</b></i></sup></a> <a href="#cite_ref-fn1_4-21"><sup><i><b>v</b></i></sup></a> <a href="#cite_ref-fn1_4-22"><sup><i><b>w</b></i></sup></a> <a href="#cite_ref-fn1_4-23"><sup><i><b>x</b></i></sup></a> <a href="#cite_ref-fn1_4-24"><sup><i><b>y</b></i></sup></a> <a href="#cite_ref-fn1_4-25"><sup><i><b>z</b></i></sup></a></span> <span class="reference-text">Census results</span></li>
+</ol>
+</div>
+</div>
+<p>30.9% of the population of Solingen has foreign roots (statistics 2012).</p>
+<table class="infobox" style="float:right;">
+<tr>
+<td colspan="2"><b>Largest groups of foreign residents</b></td>
+</tr>
+<tr>
+<th>Nationality</th>
+<th>Population (2017)</th>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/23px-Flag_of_Turkey.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/35px-Flag_of_Turkey.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/45px-Flag_of_Turkey.svg.png 2x" data-file-width="1200" data-file-height="800" />&#160;</span><a href="/wiki/Turkey" title="Turkey">Turkey</a></td>
+<td>6,936</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/wiki/Italy" title="Italy">Italy</a></td>
+<td>6,705</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/23px-Flag_of_Greece.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/35px-Flag_of_Greece.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/45px-Flag_of_Greece.svg.png 2x" data-file-width="600" data-file-height="400" />&#160;</span><a href="/wiki/Greece" title="Greece">Greece</a></td>
+<td>2,192</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/35px-Flag_of_Poland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/46px-Flag_of_Poland.svg.png 2x" data-file-width="1280" data-file-height="800" />&#160;</span><a href="/wiki/Poland" title="Poland">Poland</a></td>
+<td>2,175</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/23px-Flag_of_Serbia.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/35px-Flag_of_Serbia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/45px-Flag_of_Serbia.svg.png 2x" data-file-width="1350" data-file-height="900" />&#160;</span><a href="/wiki/Serbia" title="Serbia">Serbia</a></td>
+<td>1,546</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/23px-Flag_of_Syria.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/35px-Flag_of_Syria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/45px-Flag_of_Syria.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Syria" title="Syria">Syria</a></td>
+<td>810</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Travel">Travel</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solingen&amp;action=edit&amp;section=10" title="Edit section: Travel">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Rail">Rail</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solingen&amp;action=edit&amp;section=11" title="Edit section: Rail">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Solingen_Hauptbahnhof" title="Solingen Hauptbahnhof">Solingen Hauptbahnhof</a> is served by <a href="/wiki/Rhine-Ruhr_S-Bahn" title="Rhine-Ruhr S-Bahn">Rhine-Ruhr S-Bahn</a> <a href="/wiki/S1_(Rhine-Ruhr_S-Bahn)" title="S1 (Rhine-Ruhr S-Bahn)">line S1</a> from <a href="/wiki/D%C3%BCsseldorf" title="Düsseldorf">Düsseldorf</a> and <a href="/wiki/D%C3%BCsseldorf_Airport" title="Düsseldorf Airport">Düsseldorf Airport</a> Station. S-Bahn <a href="/wiki/S7_(Rhine-Ruhr_S-Bahn)" title="S7 (Rhine-Ruhr S-Bahn)">line S7</a> links Solingen (including the station nearest the town centre, <a href="/wiki/Solingen_Mitte_station" title="Solingen Mitte station">Solingen Mitte</a>, and <a href="/wiki/Solingen_Gr%C3%BCnewald_station" title="Solingen Grünewald station">Solingen-Grünewald</a>) to <a href="/wiki/Wuppertal_Hauptbahnhof" title="Wuppertal Hauptbahnhof">Wuppertal</a> via <a href="/wiki/Remscheid_Hauptbahnhof" title="Remscheid Hauptbahnhof">Remscheid</a>, <a href="/wiki/Remscheid-Lennep_station" title="Remscheid-Lennep station">Remscheid-Lennep</a> and <a href="/wiki/Wuppertal-Ronsdorf_station" title="Wuppertal-Ronsdorf station">Wuppertal-Ronsdorf</a>. This line has been operated by <a href="/wiki/Abellio_Deutschland" title="Abellio Deutschland">Abellio Deutschland</a> starting 15 Dec. 2013. The <a href="/wiki/Rhein-Wupper-Bahn" title="Rhein-Wupper-Bahn">Rhein-Wupper-Bahn</a> (RB 48) runs over the <a href="/wiki/Gruiten%E2%80%93K%C3%B6ln-Deutz_railway" title="Gruiten–Köln-Deutz railway">Gruiten–Köln-Deutz line</a> to Bonn-Mehlem via <a href="/wiki/Opladen_station" title="Opladen station">Opladen</a> and <a href="/wiki/K%C3%B6ln_Hauptbahnhof" title="Köln Hauptbahnhof">Cologne</a>. It has been operated by <a href="/wiki/National_Express" title="National Express">National Express</a> starting 13 Dec. 2015.</p>
+<table class="wikitable">
+<tr>
+<th colspan="4" align="center"><i><b>Railway stations of Solingen</b></i></th>
+</tr>
+<tr>
+<td><b>Station</b></td>
+<td><b>Lines served</b></td>
+<td><b>Destinations</b></td>
+<td><b>Notes</b></td>
+</tr>
+<tr>
+<td rowspan="10"><a href="/wiki/Solingen_Hauptbahnhof" title="Solingen Hauptbahnhof">Solingen Hauptbahnhof</a></td>
+<td><a href="/wiki/File:Deutsche_Bahn_AG-Logo.svg" class="image"><img alt="Deutsche Bahn AG-Logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Deutsche_Bahn_AG-Logo.svg/15px-Deutsche_Bahn_AG-Logo.svg.png" width="15" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Deutsche_Bahn_AG-Logo.svg/23px-Deutsche_Bahn_AG-Logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Deutsche_Bahn_AG-Logo.svg/30px-Deutsche_Bahn_AG-Logo.svg.png 2x" data-file-width="744" data-file-height="527" /></a> ICE42</td>
+<td><a href="/wiki/Dortmund_Hauptbahnhof" title="Dortmund Hauptbahnhof">Dortmund</a> – <b>Solingen</b> – <a href="/wiki/Mannheim_Hauptbahnhof" title="Mannheim Hauptbahnhof">Mannheim</a> – <a href="/wiki/Munich_Hauptbahnhof" class="mw-redirect" title="Munich Hauptbahnhof">Munich</a> (<i>InterCity Express</i>)</td>
+<td rowspan="10">Interchange with <i>Obus Solingen</i> (trolleybus) lines 681, 682.</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Deutsche_Bahn_AG-Logo.svg" class="image"><img alt="Deutsche Bahn AG-Logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Deutsche_Bahn_AG-Logo.svg/15px-Deutsche_Bahn_AG-Logo.svg.png" width="15" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Deutsche_Bahn_AG-Logo.svg/23px-Deutsche_Bahn_AG-Logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Deutsche_Bahn_AG-Logo.svg/30px-Deutsche_Bahn_AG-Logo.svg.png 2x" data-file-width="744" data-file-height="527" /></a> ICE43</td>
+<td><a href="/wiki/Hannover_Hauptbahnhof" title="Hannover Hauptbahnhof">Hannover</a> – <b>Solingen</b> – <a href="/wiki/K%C3%B6ln_Hauptbahnhof" title="Köln Hauptbahnhof">Cologne</a> – Mannheim – <a href="/wiki/Basel_SBB_station" class="mw-redirect" title="Basel SBB station">Basel</a> (<i>InterCity Express</i>)</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Deutsche_Bahn_AG-Logo.svg" class="image"><img alt="Deutsche Bahn AG-Logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Deutsche_Bahn_AG-Logo.svg/15px-Deutsche_Bahn_AG-Logo.svg.png" width="15" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Deutsche_Bahn_AG-Logo.svg/23px-Deutsche_Bahn_AG-Logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Deutsche_Bahn_AG-Logo.svg/30px-Deutsche_Bahn_AG-Logo.svg.png 2x" data-file-width="744" data-file-height="527" /></a> ICE91</td>
+<td>Dortmund – <b>Solingen</b> – <a href="/wiki/Frankfurt_Hauptbahnhof" class="mw-redirect" title="Frankfurt Hauptbahnhof">Frankfurt</a> – <a href="/wiki/Wien_Westbahnhof_railway_station" title="Wien Westbahnhof railway station">Vienna</a> (<i>InterCity Express</i>)</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Deutsche_Bahn_AG-Logo.svg" class="image"><img alt="Deutsche Bahn AG-Logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Deutsche_Bahn_AG-Logo.svg/15px-Deutsche_Bahn_AG-Logo.svg.png" width="15" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Deutsche_Bahn_AG-Logo.svg/23px-Deutsche_Bahn_AG-Logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Deutsche_Bahn_AG-Logo.svg/30px-Deutsche_Bahn_AG-Logo.svg.png 2x" data-file-width="744" data-file-height="527" /></a> IC31</td>
+<td><a href="/wiki/Hamburg_Hauptbahnhof" title="Hamburg Hauptbahnhof">Hamburg</a> – <b>Solingen</b> – Cologne – Frankfurt (<i>InterCity</i>)</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Deutsche_Bahn_AG-Logo.svg" class="image"><img alt="Deutsche Bahn AG-Logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Deutsche_Bahn_AG-Logo.svg/15px-Deutsche_Bahn_AG-Logo.svg.png" width="15" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Deutsche_Bahn_AG-Logo.svg/23px-Deutsche_Bahn_AG-Logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Deutsche_Bahn_AG-Logo.svg/30px-Deutsche_Bahn_AG-Logo.svg.png 2x" data-file-width="744" data-file-height="527" /></a> IC55</td>
+<td><a href="/wiki/Leipzig_Hauptbahnhof" title="Leipzig Hauptbahnhof">Leipzig</a> – Hannover – <b>Solingen</b> – Cologne</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:National_Express_Logo.svg" class="image"><img alt="National Express Logo.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c7/National_Express_Logo.svg/100px-National_Express_Logo.svg.png" width="100" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c7/National_Express_Logo.svg/150px-National_Express_Logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c7/National_Express_Logo.svg/200px-National_Express_Logo.svg.png 2x" data-file-width="279" data-file-height="39" /></a> <a href="/wiki/Rhein-M%C3%BCnsterland-Express" title="Rhein-Münsterland-Express">RE7</a></td>
+<td><a href="/wiki/Krefeld_Hauptbahnhof" title="Krefeld Hauptbahnhof">Krefeld</a> – Cologne – <b>Solingen</b> – Wuppertal – <a href="/wiki/Hagen_Hauptbahnhof" title="Hagen Hauptbahnhof">Hagen</a> – <a href="/wiki/Hamm_station" class="mw-redirect" title="Hamm station">Hamm</a> – <a href="/wiki/M%C3%BCnster_Hauptbahnhof" title="Münster Hauptbahnhof">Münster</a> – <a href="/wiki/Rheine" title="Rheine">Rheine</a> (<i>RegionalExpress</i>)</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Abellio_logo.svg" class="image"><img alt="Abellio logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Abellio_logo.svg/50px-Abellio_logo.svg.png" width="50" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Abellio_logo.svg/75px-Abellio_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Abellio_logo.svg/100px-Abellio_logo.svg.png 2x" data-file-width="512" data-file-height="128" /></a> <a href="/wiki/S7_(Rhine-Ruhr_S-Bahn)" title="S7 (Rhine-Ruhr S-Bahn)">S7</a></td>
+<td><i>S-Bahn</i> to Wuppertal Hauptbahnhof via Remscheid</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:National_Express_Logo.svg" class="image"><img alt="National Express Logo.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c7/National_Express_Logo.svg/100px-National_Express_Logo.svg.png" width="100" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c7/National_Express_Logo.svg/150px-National_Express_Logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c7/National_Express_Logo.svg/200px-National_Express_Logo.svg.png 2x" data-file-width="279" data-file-height="39" /></a> <a href="/wiki/Rhein-Wupper-Bahn" title="Rhein-Wupper-Bahn">RB48</a></td>
+<td>Wuppertal-Oberbarmen – <b>Solingen</b> – Cologne – <a href="/wiki/Bonn_Hauptbahnhof" title="Bonn Hauptbahnhof">Bonn-Mehlem</a> (<i>RegionalBahn</i>)</td>
+</tr>
+<tr>
+<td><a href="/wiki/S1_(Rhine-Ruhr_S-Bahn)" title="S1 (Rhine-Ruhr S-Bahn)">S1</a></td>
+<td><i>S-Bahn</i> to <a href="/wiki/Dortmund_Hauptbahnhof" title="Dortmund Hauptbahnhof">Dortmund</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/S7_(Rhine-Ruhr_S-Bahn)" title="S7 (Rhine-Ruhr S-Bahn)">S7</a></td>
+<td><i>S-Bahn</i> to Wuppertal via <a href="/wiki/Remscheid_Hauptbahnhof" title="Remscheid Hauptbahnhof">Remscheid</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Solingen_Mitte_station" title="Solingen Mitte station">Solingen Mitte</a></td>
+<td><a href="/wiki/S7_(Rhine-Ruhr_S-Bahn)" title="S7 (Rhine-Ruhr S-Bahn)">S7</a></td>
+<td colspan="2">Nearest station to historic centre.<br />
+Interchange with trolleybus lines 681, 683, 684, 686.</td>
+</tr>
+<tr>
+<td><a href="/wiki/Solingen_Gr%C3%BCnewald_station" title="Solingen Grünewald station">Solingen Grünewald</a></td>
+<td><a href="/wiki/S7_(Rhine-Ruhr_S-Bahn)" title="S7 (Rhine-Ruhr S-Bahn)">S7</a></td>
+<td colspan="2">Interchange with trolleybus line 682.</td>
+</tr>
+<tr>
+<td><a href="/wiki/Solingen_Vogelpark_station" title="Solingen Vogelpark station">Solingen Vogelpark</a></td>
+<td>S1</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td><a href="/wiki/Solingen-Schaberg_station" class="mw-redirect" title="Solingen-Schaberg station">Solingen Schaberg</a></td>
+<td><a href="/wiki/S7_(Rhine-Ruhr_S-Bahn)" title="S7 (Rhine-Ruhr S-Bahn)">S7</a></td>
+<td colspan="2"></td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Trolleybus">Trolleybus</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solingen&amp;action=edit&amp;section=12" title="Edit section: Trolleybus">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Netzplan_Oberleitungsbus_Solingen.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Netzplan_Oberleitungsbus_Solingen.png/220px-Netzplan_Oberleitungsbus_Solingen.png" width="220" height="226" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Netzplan_Oberleitungsbus_Solingen.png/330px-Netzplan_Oberleitungsbus_Solingen.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Netzplan_Oberleitungsbus_Solingen.png/440px-Netzplan_Oberleitungsbus_Solingen.png 2x" data-file-width="1939" data-file-height="1995" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Netzplan_Oberleitungsbus_Solingen.png" class="internal" title="Enlarge"></a></div>
+Solingen trolleybus network map</div>
+</div>
+</div>
+<p><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup><br />
+Solingen has a <a href="/wiki/Trolleybus" title="Trolleybus">Trolleybus</a> network, one of only three in Germany remaining besides <a href="/wiki/Eberswalde" title="Eberswalde">Eberswalde</a> and <a href="/wiki/Esslingen_am_Neckar" title="Esslingen am Neckar">Esslingen am Neckar</a>. The network centres on <i>Graf-Wilhelm-Platz</i> (Count William Square).</p>
+<dl>
+<dt>History</dt>
+</dl>
+<p>The first trolleybus was brought into service on 19 June 1952. The network was a conversion of the previous <a href="/wiki/Tram" title="Tram">tram</a> services. Conversion from tramway was completed on 2 December 1959. Extensions to the system were opened in 1981–82 – Schlagbaum to Hasselstraße (2.6 kilometres (1.6&#160;mi)) and Höhscheid to Brockenberg (0.8 kilometres (0.50&#160;mi)) respectively – and in 1993 from Aufderhöhe to Mangenberg/Graf-Wilhem-Platz (8.2 kilometres (5.1&#160;mi)).</p>
+<p>The mid-1990s saw plans to replace the trolleybuses with diesel buses, but this was never pursued; trolleybuses being preferred over <a href="/wiki/Diesel_engine" title="Diesel engine">diesel</a> vehicles because of superior acceleration and better suitability for the hilly terrain.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Solingen_Van_Hool_AG_300_T.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Solingen_Van_Hool_AG_300_T.jpg/220px-Solingen_Van_Hool_AG_300_T.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Solingen_Van_Hool_AG_300_T.jpg/330px-Solingen_Van_Hool_AG_300_T.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Solingen_Van_Hool_AG_300_T.jpg/440px-Solingen_Van_Hool_AG_300_T.jpg 2x" data-file-width="1024" data-file-height="768" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Solingen_Van_Hool_AG_300_T.jpg" class="internal" title="Enlarge"></a></div>
+A Solingen trolleybus at Graf-Wilhelm-Platz</div>
+</div>
+</div>
+<dl>
+<dt>Network</dt>
+</dl>
+<p>As of 2007<sup class="plainlinks noprint asof-tag update" style="display:none;"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Solingen&amp;action=edit">[update]</a></sup>, 6 lines are in operation. The older lines (681–684) are served every ten minutes, and the newer lines (685–686, opened 22 August 1993) run every half-hour, although they are duplicated by each other for the majority of their route. Routes 681 and 682 interchange with the city's principal railway station – Solingen Hbf – which lies in the western <a href="/wiki/Suburb" title="Suburb">suburbs</a>. Line 683 – at 14.5 kilometres (9.0&#160;mi), by far the network's longest – also connects to the <a href="/wiki/Wuppertal_Schwebebahn" class="mw-redirect" title="Wuppertal Schwebebahn">Wuppertal Schwebebahn</a> at <a href="/wiki/Wuppertal-Vohwinkel_station" title="Wuppertal-Vohwinkel station">Vohwinkel</a>, the northern end of the route and the western terminus of the Schwebebahn. The southern extent of 683 is the town of <a href="/wiki/Burg_an_der_Wupper" class="mw-redirect" title="Burg an der Wupper">Burg an der Wupper</a>, which contains <a href="/wiki/Schloss_Burg_(Solingen)" class="mw-redirect" title="Schloss Burg (Solingen)">Schloss Burg</a> (Burg Castle). Burg is also home to the world's only trolleybus <a href="/wiki/Turntable_(railroad)" class="mw-redirect" title="Turntable (railroad)">turntable</a>, owing to lack of space to provide a full turning circle. This precludes the use of <a href="/wiki/Articulated_vehicle" title="Articulated vehicle">articulated vehicles</a> like on the rest of the network. Until November 2009 this turntable was in regular use for line 683. Since November 2009 line 683 has been extended to Burger Bahnhof. On the new section, the buses use their diesel engine instead of electricity, as no overhead wires were constructed here.</p>
+<dl>
+<dt>Fleet</dt>
+</dl>
+<p>As of early 2007<sup class="plainlinks noprint asof-tag update" style="display:none;"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Solingen&amp;action=edit">[update]</a></sup> the fleet stands at 49 vehicles: 15 articulated <a href="/wiki/VDL_Berkhof" title="VDL Berkhof">Berkhof</a> buses (2001/2), 20 articulated <a href="/wiki/Van_Hool" title="Van Hool">Van Hool</a> buses (2002/3), and 14 three-<a href="/wiki/Axle" title="Axle">axle</a> <a href="/wiki/MAN_SE" title="MAN SE">MAN</a> buses (1986-7). The latter are due for replacement during 2008. The power supply is 600&#160;<a href="/wiki/Volt" title="Volt">V</a>&#160;<a href="/wiki/Direct_current" title="Direct current">DC</a>.</p>
+<h3><span class="mw-headline" id="Airtraffic">Airtraffic</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solingen&amp;action=edit&amp;section=13" title="Edit section: Airtraffic">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The nearest Airports are Düsseldorf Airport and Cologne/Bonn Airport. Both International Airports can be reached by train from Solingen-Hauptbahnhof (change trains at Köln-Messe/Deutz Station for the S-Bahn 13 to Cologne/Bonn Airport). Other easily reached airports are the airports of Frankfurt am Main (ICE train stop), Dortmund (railway station "Holzwickede" on the RE7 trainline) and the low cost airport Weeze (coaches from Düsseldorf Hauptbahnhof).</p>
+<h2><span class="mw-headline" id="Religion">Religion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solingen&amp;action=edit&amp;section=14" title="Edit section: Religion">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Christianity">Christianity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solingen&amp;action=edit&amp;section=15" title="Edit section: Christianity">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Solingen has belonged from its beginnings to the <a href="/wiki/Roman_Catholic_Archdiocese_of_Cologne" title="Roman Catholic Archdiocese of Cologne">Roman Catholic Archdiocese of Cologne</a> (<i>Erzbistum Köln</i>), and more specifically to the <a href="/wiki/Archdeacon" title="Archdeacon">Archdeaconry</a> of the <a href="/wiki/Probst" title="Probst">Probst</a> (<i>provost</i>) of <a href="/wiki/Cunibert" title="Cunibert">St. Kunibert</a>, the <a href="/wiki/Deanery" title="Deanery">deanery</a> of Deutz. Although the <a href="/wiki/Protestant_Reformation" class="mw-redirect" title="Protestant Reformation">Protestant Reformation</a> gradually made gains in the city, which was under the control of the <a href="/wiki/Berg_(state)" class="mw-redirect" title="Berg (state)">Counts of Berg</a>, the population by and large remained Catholic for a while. The Catholic community was newly endowed by the local lord in 1658 and in 1701 received a new church building. In 1827 Solingen became the seat of its own deanery within the newly defined Archdiocese of Cologne, to which the city's current parishes still belong.</p>
+<p>As mentioned, the Reformation only gradually gained a foothold in Solingen. A <a href="/wiki/Reformed_church" class="mw-redirect" title="Reformed church">reformed church</a> affiliated with the Bergisch <a href="/wiki/Synod" title="Synod">synod</a> was established in 1590, and the city's <a href="/wiki/Parish_church" title="Parish church">parish church</a> became reformed in 1649. <a href="/wiki/Lutheranism" title="Lutheranism">Lutherans</a> had been present in Solingen since the beginning of the 17th century, and a Lutheran congregation was founded in 1635. In 1672 a formalized religious agreement was reached between the city's religious groups. The Reformation was also introduced in Gräfrath in 1590, where a church council was apparently established in 1629. The Reformed and Lutheran churches were formed into a <a href="/wiki/United_and_uniting_churches" title="United and uniting churches">united church community</a> in 1838 following the general <a href="/wiki/Prussian_Union_(Evangelical_Christian_Church)" class="mw-redirect" title="Prussian Union (Evangelical Christian Church)">merger of Reformed and Lutheran churches</a> in <a href="/wiki/Prussia" title="Prussia">Prussia</a> in 1817.</p>
+<p>The <a href="/wiki/Protestant" class="mw-redirect" title="Protestant">Protestant</a> parishes originally belonged to the district synod of Lennep, today part of the city <a href="/wiki/Remscheid" title="Remscheid">Remscheid</a>. A new synod was established in Solingen in 1843, and the city acquired its own <a href="/wiki/Superintendent_(ecclesiastical)" title="Superintendent (ecclesiastical)">superintendent</a>, a form of church administrator. This formed the basis for the present-day Church District of Solingen, a member of the <a href="/wiki/Evangelical_Church_in_the_Rhineland" title="Evangelical Church in the Rhineland">Evangelical Church in the Rhineland</a>. With the exception of the <a href="/wiki/Free_churches" class="mw-redirect" title="Free churches">free churches</a>, most Protestant churches belong to the Church District of Solingen.</p>
+<p>Today approximately 34% of Solingen's population belongs to Protestant churches, and roughly 26% belong to Catholic churches. Other church communities in Solingen include <a href="/wiki/Greek_Orthodox_Church" title="Greek Orthodox Church">Greek Orthodox</a>, <a href="/wiki/Union_of_Evangelical_Free_Church_Congregations_in_Germany" title="Union of Evangelical Free Church Congregations in Germany">Evangelical Free</a> (including <a href="/wiki/Baptist" class="mw-redirect" title="Baptist">Baptist</a> and <a href="/wiki/Plymouth_Brethren" title="Plymouth Brethren">Brethren</a>), <a href="/wiki/United_Methodist_Church" title="United Methodist Church">Methodist</a>, <a href="/wiki/Seventh-day_Adventist_Church" title="Seventh-day Adventist Church">Seventh-day Adventist</a>, <a href="/wiki/Pentecostalism" title="Pentecostalism">Pentecostal</a>, <a href="/wiki/The_Salvation_Army" title="The Salvation Army">Salvation Army</a>, and <a href="/wiki/Free_church" title="Free church">free</a> churches. <a href="/wiki/The_Church_of_Jesus_Christ_of_Latter-day_Saints" title="The Church of Jesus Christ of Latter-day Saints">The Church of Jesus Christ of Latter-day Saints</a>, <a href="/wiki/Jehovah%27s_Witnesses" title="Jehovah's Witnesses">Jehovah's Witnesses</a> and the <a href="/wiki/New_Apostolic_Church" title="New Apostolic Church">New Apostolic Church</a> also have communities in Solingen.</p>
+<h3><span class="mw-headline" id="Image_gallery">Image gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solingen&amp;action=edit&amp;section=16" title="Edit section: Image gallery">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Solingen_St._Clemens.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Solingen_St._Clemens.jpg/102px-Solingen_St._Clemens.jpg" width="102" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Solingen_St._Clemens.jpg/154px-Solingen_St._Clemens.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Solingen_St._Clemens.jpg/205px-Solingen_St._Clemens.jpg 2x" data-file-width="270" data-file-height="316" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Catholic Church St. Clemens</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Waldkirche.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Waldkirche.jpg/90px-Waldkirche.jpg" width="90" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Waldkirche.jpg/135px-Waldkirche.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Waldkirche.jpg/180px-Waldkirche.jpg 2x" data-file-width="300" data-file-height="400" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Protestant Church Wald</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Rupelrath_kapelle_01.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Rupelrath_kapelle_01.jpg/85px-Rupelrath_kapelle_01.jpg" width="85" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Rupelrath_kapelle_01.jpg/128px-Rupelrath_kapelle_01.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Rupelrath_kapelle_01.jpg/171px-Rupelrath_kapelle_01.jpg 2x" data-file-width="200" data-file-height="281" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Protestant Chapel St. Reinoldi in Rupelrath</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Lutherkirche_Solingen.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Lutherkirche_Solingen.jpg/90px-Lutherkirche_Solingen.jpg" width="90" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Lutherkirche_Solingen.jpg/135px-Lutherkirche_Solingen.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Lutherkirche_Solingen.jpg/180px-Lutherkirche_Solingen.jpg 2x" data-file-width="480" data-file-height="640" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Martin-Luther-Church in Solingen-Mitte</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:35px auto;"><a href="/wiki/File:Evangelische_Kirche_Solingen-Unterburg.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Evangelische_Kirche_Solingen-Unterburg.jpg/120px-Evangelische_Kirche_Solingen-Unterburg.jpg" width="120" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Evangelische_Kirche_Solingen-Unterburg.jpg/180px-Evangelische_Kirche_Solingen-Unterburg.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Evangelische_Kirche_Solingen-Unterburg.jpg/240px-Evangelische_Kirche_Solingen-Unterburg.jpg 2x" data-file-width="2048" data-file-height="1365" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Protestant Church Burg</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Solingen-Gr%C3%A4frath_Historischer_Ortskern_E_39.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Solingen-Gr%C3%A4frath_Historischer_Ortskern_E_39.JPG/120px-Solingen-Gr%C3%A4frath_Historischer_Ortskern_E_39.JPG" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Solingen-Gr%C3%A4frath_Historischer_Ortskern_E_39.JPG/180px-Solingen-Gr%C3%A4frath_Historischer_Ortskern_E_39.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/Solingen-Gr%C3%A4frath_Historischer_Ortskern_E_39.JPG/240px-Solingen-Gr%C3%A4frath_Historischer_Ortskern_E_39.JPG 2x" data-file-width="2560" data-file-height="1920" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Protestant Church Gräfrath</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:35px auto;"><a href="/wiki/File:DorperKircheSG_004.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/DorperKircheSG_004.JPG/120px-DorperKircheSG_004.JPG" width="120" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/DorperKircheSG_004.JPG/180px-DorperKircheSG_004.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/DorperKircheSG_004.JPG/240px-DorperKircheSG_004.JPG 2x" data-file-width="3872" data-file-height="2592" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Protestant Church Dorp</p>
+</div>
+</div>
+</li>
+</ul>
+<h3><span class="mw-headline" id="Islam">Islam</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solingen&amp;action=edit&amp;section=17" title="Edit section: Islam">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Most of the Turkish immigrants belong to the Muslim faith and they have several mosques/worship places in Solingen:</p>
+<ul>
+<li><a href="/wiki/DITIB" class="mw-redirect" title="DITIB">DITIB</a> Solingen Wald</li>
+<li>Mesjid Nur</li>
+<li>Islamische Gemeinde Milli Görüs (<a href="/wiki/Mill%C3%AE_G%C3%B6r%C3%BC%C5%9F" title="Millî Görüş">IGMG</a>)</li>
+<li>Islamisches Kulturzentrum</li>
+<li>Solingen Camii (Verband der Islamischen Kulturzentren, VIKZ)</li>
+</ul>
+<h2><span class="mw-headline" id="Tourism_and_culture">Tourism and culture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solingen&amp;action=edit&amp;section=18" title="Edit section: Tourism and culture">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Schloss-burg-20040223-135s.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Schloss-burg-20040223-135s.jpg/220px-Schloss-burg-20040223-135s.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Schloss-burg-20040223-135s.jpg/330px-Schloss-burg-20040223-135s.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/a/a5/Schloss-burg-20040223-135s.jpg 2x" data-file-width="400" data-file-height="300" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Schloss-burg-20040223-135s.jpg" class="internal" title="Enlarge"></a></div>
+Schloss Burg, Burg-on-Wupper</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Muengstener300x225.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Muengstener300x225.jpg/220px-Muengstener300x225.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/0/00/Muengstener300x225.jpg 1.5x" data-file-width="300" data-file-height="225" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Muengstener300x225.jpg" class="internal" title="Enlarge"></a></div>
+<i>Müngstener Brücke</i>, a railroad bridge between Solingen and Remscheid.</div>
+</div>
+</div>
+<p>Locations of note in the city include:</p>
+<h3><span class="mw-headline" id="Main_sights">Main sights</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solingen&amp;action=edit&amp;section=19" title="Edit section: Main sights">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><i><a href="/wiki/Schloss_Burg_(Solingen)" class="mw-redirect" title="Schloss Burg (Solingen)">Schloss Burg</a></i>, the castle of the counts of Berg</li>
+<li><i><a href="/wiki/M%C3%BCngsten_Bridge" title="Müngsten Bridge">Müngsten Bridge</a></i>, a railroad bridge connecting Solingen with the neighbour town of <a href="/wiki/Remscheid" title="Remscheid">Remscheid</a>. Standing at 107 m above the ground, it is the highest <a href="/wiki/Railroad" class="mw-redirect" title="Railroad">railroad</a> <a href="/wiki/Bridge" title="Bridge">bridge</a> of Germany. It was constructed in 1897 and originally named the <i>Kaiser-Wilhelm-Brücke</i> after <a href="/wiki/Wilhelm_I_of_Germany" class="mw-redirect" title="Wilhelm I of Germany">Wilhelm I</a></li>
+<li><i>Klosterkirche</i>, former convent church (1690)</li>
+</ul>
+<h3><span class="mw-headline" id="Museums">Museums</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solingen&amp;action=edit&amp;section=20" title="Edit section: Museums">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>Rhineland Industrial Museum <a href="/wiki/Hendrichs_Drop_Forge" class="mw-redirect" title="Hendrichs Drop Forge">Hendrichs Drop Forge</a>, an Anchor Point of ERIH, The <a href="/wiki/European_Route_of_Industrial_Heritage" title="European Route of Industrial Heritage">European Route of Industrial Heritage</a></li>
+<li><i>Deutsches Klingenmuseum</i> (German Blade Museum), presenting swords and cutlery of all epochs</li>
+<li><i>Kunstmuseum Solingen</i> (Museum of Art)</li>
+<li><i>Museum Plagiarius</i>, the Plagiarius exhibition shows more than 350 product units – i.e. original products and their brazen plagiarisms – in direct comparison. The registered society conducts an annual competition that awards the anti-prize "Plagiarius" to those manufacturers and distributors that a jury of peers have found guilty of making or selling "the most flagrant" imitations.</li>
+<li><i><a href="/wiki/Stan_Laurel" title="Stan Laurel">Laurel</a> &amp; <a href="/wiki/Oliver_Hardy" title="Oliver Hardy">Hardy</a> Museum</i></li>
+</ul>
+<h3><span class="mw-headline" id="Parks_and_gardens">Parks and gardens</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solingen&amp;action=edit&amp;section=21" title="Edit section: Parks and gardens">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Botanischer_Garten_Solingen" title="Botanischer Garten Solingen">Botanischer Garten Solingen</a>, a <a href="/wiki/Botanical_garden" title="Botanical garden">botanical garden</a></li>
+<li><i>Bärenloch</i></li>
+<li><i>Walder Stadtpark</i> in Solingen-Wald</li>
+<li><i>Gustav-Coppel-Park</i></li>
+<li><i>Süd-Park</i></li>
+<li><i>Brückenpark</i> beneath the <i><a href="/wiki/M%C3%BCngsten_Bridge" title="Müngsten Bridge">Müngsten Bridge</a></i></li>
+</ul>
+<h2><span class="mw-headline" id="Famous_people">Famous people</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solingen&amp;action=edit&amp;section=22" title="Edit section: Famous people">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Solingen&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(January 2013)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Born_before_1900">Born before 1900</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solingen&amp;action=edit&amp;section=23" title="Edit section: Born before 1900">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>Heinz Bender, Chief White House Pastry Chef during U.S. Presidents Johnson, Nixon, Ford and Carter's administrations</li>
+<li><a href="/wiki/Johann_Wilhelm_Meigen" title="Johann Wilhelm Meigen">Johann Wilhelm Meigen</a> (1764–1845), an insect collector, specialist of <a href="/wiki/Fly" title="Fly">Diptera</a></li>
+</ul>
+<div class="center">
+<div class="floatnone"><a href="/wiki/File:Johann_Wilhelm_Meigen.png" class="image" title="Joh. Wilh. Meigen"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/a/a0/Johann_Wilhelm_Meigen.png" width="268" height="406" data-file-width="268" data-file-height="406" /></a></div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:152px;"><a href="/wiki/File:Devaranne_Portrait.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Devaranne_Portrait.jpg/150px-Devaranne_Portrait.jpg" width="150" height="199" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Devaranne_Portrait.jpg/225px-Devaranne_Portrait.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Devaranne_Portrait.jpg/300px-Devaranne_Portrait.jpg 2x" data-file-width="569" data-file-height="755" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Devaranne_Portrait.jpg" class="internal" title="Enlarge"></a></div>
+J. C. C. Devaranne</div>
+</div>
+</div>
+<ul>
+<li><a href="/wiki/J._C._C._Devaranne" class="mw-redirect" title="J. C. C. Devaranne">J. C. C. Devaranne</a> (1784–1813), helped to lead resistance against Napoleonic occupation in 1813.</li>
+<li><a href="/w/index.php?title=Wilhelm_von_Voss&amp;action=edit&amp;redlink=1" class="new" title="Wilhelm von Voss (page does not exist)">Wilhelm von Voss</a> (1784–1818), Prussian Administrative Officer and District Administrator of Solingen</li>
+<li><a href="/wiki/Karl_Mager" title="Karl Mager">Karl Mager</a> (1810–1858), school educator and school politician</li>
+<li><a href="/wiki/Karl_Adams_(mathematician)" title="Karl Adams (mathematician)">Karl Adams (mathematician)</a> (1811–1849), mathematician and teacher</li>
+<li><a href="/wiki/Albert_Bierstadt" title="Albert Bierstadt">Albert Bierstadt</a> (1830–1902), landscape painter</li>
+<li><a href="/wiki/Adolf_Kamphausen" title="Adolf Kamphausen">Adolf Kamphausen</a>, (1829–1909), biblical scholar</li>
+<li>Georg Keßler (1851–1910), Prussian Administrative Officer</li>
+<li><a href="/wiki/Ernst_Otto_Beckmann" title="Ernst Otto Beckmann">Ernst Otto Beckmann</a> (1853–1923), chemist</li>
+<li><a href="/w/index.php?title=Friedrich_Haumann&amp;action=edit&amp;redlink=1" class="new" title="Friedrich Haumann (page does not exist)">Friedrich Haumann</a> (1857–1924), municipal politician first Lord Mayor of Solingen</li>
+<li><a href="/wiki/Ludwig_Woltmann" title="Ludwig Woltmann">Ludwig Woltmann</a> (1871–1907), anthropologist, zoologist and neo-Kantian</li>
+<li><a href="/wiki/Artur_M%C3%B6ller_van_den_Bruck" class="mw-redirect" title="Artur Möller van den Bruck">Artur Möller van den Bruck</a> (1876–1925) writer</li>
+<li>Albert Müller (1891–1954), communist and politician</li>
+<li>Paul Voss (1894–1976), designer</li>
+<li><a href="/wiki/Paul_Franken" title="Paul Franken">Paul Franken</a> (1894–1944), socialist politician, victims of Stalinism</li>
+<li><a href="/wiki/Karl_Allmenr%C3%B6der" title="Karl Allmenröder">Karl Allmenröder</a>, (1896–1917), fighter pilot of the Luftstreitkräfte during World War I.</li>
+<li><a href="/wiki/Carl_Clauberg" title="Carl Clauberg">Carl Clauberg</a> (1898–1957), gynecologist, who, as an SS physician, carried out massive forced sterilizations on concentration camp prisoners</li>
+</ul>
+<h3><span class="mw-headline" id="Born_after_1900">Born after 1900</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solingen&amp;action=edit&amp;section=24" title="Edit section: Born after 1900">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Hermann_Friedrich_Graebe" title="Hermann Friedrich Graebe">Hermann Friedrich Graebe</a> (1900–1986), manager and engineer, 'Righteous Among the Nations' by Israel</li>
+<li><a href="/wiki/Josef_Dahmen" title="Josef Dahmen">Josef Dahmen</a> (1903–1985), theater and film actor</li>
+<li><a href="/wiki/Adolf_Eichmann" title="Adolf Eichmann">Adolf Eichmann</a> (1906–1962), major organiser of the <a href="/wiki/Holocaust" class="mw-redirect" title="Holocaust">Holocaust</a></li>
+<li><a href="/wiki/Georg_Meistermann" title="Georg Meistermann">Georg Meistermann</a> (1911–1990), painter of numerous sacred and profane glass windows</li>
+<li><a href="/wiki/J%C3%BCrgen_Thorwald" title="Jürgen Thorwald">Jürgen Thorwald</a> (1915–2006, pseudonym for: Heinz Bongartz), author of popular scientific representations</li>
+<li><a href="/wiki/Christel_Rupke" title="Christel Rupke">Christel Rupke</a> (1919–1998), swimmer</li>
+<li><a href="/wiki/Walter_Scheel" title="Walter Scheel">Walter Scheel</a> (1919–2016), politician (<a href="/wiki/Free_Democratic_Party_(Germany)" title="Free Democratic Party (Germany)">FDP</a>), was the 4th <a href="/w/index.php?title=Federal_President_(Germany)&amp;action=edit&amp;redlink=1" class="new" title="Federal President (Germany) (page does not exist)">Federal President</a> (1974–1979)</li>
+<li><a href="/wiki/Klaus_Lehnertz" title="Klaus Lehnertz">Klaus Lehnertz</a> (born 1938), athlete</li>
+<li><a href="/wiki/Adolf_Weil_(motorcyclist)" title="Adolf Weil (motorcyclist)">Adolf Weil</a> (1938–2011), the most successful motocross rider in the Federal Republic of Germany</li>
+<li><a href="/wiki/Christoph_Wolff" title="Christoph Wolff">Christoph Wolff</a> (born 1940), musicologist (<a href="/wiki/Johann_Sebastian_Bach" title="Johann Sebastian Bach">Bach</a>, researcher and director of the Bach Archive, at the <a href="/wiki/Harvard_University" title="Harvard University">Harvard University</a></li>
+<li><a href="/wiki/Pina_Bausch" title="Pina Bausch">Pina Bausch</a> (1940–2009), dancer, choreographer and director of the dance theater of the same name in <a href="/wiki/Wuppertal" title="Wuppertal">Wuppertal</a></li>
+<li><a href="/w/index.php?title=Hans-Joachim_Freund&amp;action=edit&amp;redlink=1" class="new" title="Hans-Joachim Freund (page does not exist)">Hans-Joachim Freund</a> (born 1951), chemist, director at the Fritz Haber Institute of the Max Planck Society</li>
+<li>Michael Schade (born 1952), spokesman of the management of Bayer 04 Leverkusen Fußball GmbH</li>
+<li><a href="/wiki/Wolfgang_Schwerk" title="Wolfgang Schwerk">Wolfgang Schwerk</a> (born 1955), <a href="/wiki/Ultramarathon" title="Ultramarathon">Ultramarathon</a> runner</li>
+<li>Michael Lesch (born 1956), actor</li>
+<li>Andreas Schäfer (born 1957), director and author</li>
+<li>Trumpeter and Solingen Youth Orchestra founder Alois Mansfeld</li>
+<li><a href="/wiki/Ulay" title="Ulay">Ulay (Frank Uwe Laysiepen)</a>, artist, photographer and performer who used to perform with <a href="/wiki/Marina_Abramovi%C4%87" title="Marina Abramović">Marina Abramović</a>.</li>
+<li><a href="/wiki/Timotheus_H%C3%B6ttges" title="Timotheus Höttges">Timotheus Höttges</a> (born 1962), manager and board member of Deutsche Telekom</li>
+<li><a href="/wiki/Richard_David_Precht" title="Richard David Precht">Richard David Precht</a> (born 1964), philosopher, writer and publicist</li>
+<li><a href="/w/index.php?title=Bernd_Schneider_(chessplayer)&amp;action=edit&amp;redlink=1" class="new" title="Bernd Schneider (chessplayer) (page does not exist)">Bernd Schneider</a><span class="noprint" style="font-size:85%; font-style: normal;">&#160;(<a href="https://de.wikipedia.org/wiki/Bernd_Schneider_(Schachspieler)" class="extiw" title="de:Bernd Schneider (Schachspieler)">de</a>)</span> (born 1965), German champion in chess</li>
+<li><a href="/wiki/Veronica_Ferres" title="Veronica Ferres">Veronica Ferres</a> (born 1965), actress</li>
+<li><a href="/wiki/Sebastian_Thrun" title="Sebastian Thrun">Sebastian Thrun</a> (born 1967), former professor at Stanford University, founder of the online university <a href="/wiki/Udacity" title="Udacity">Udacity</a></li>
+<li><a href="/wiki/Jens_Weidmann" title="Jens Weidmann">Jens Weidmann</a> (born 1968), President of the <a href="/wiki/Deutsche_Bundesbank" title="Deutsche Bundesbank">Deutsche Bundesbank</a></li>
+<li><a href="/wiki/Mola_Adebisi" title="Mola Adebisi">Mola Adebisi</a>, (born 1973) German TV-presenter grew up and lives in Solingen</li>
+<li><a href="/wiki/Accept_(band)" title="Accept (band)">Accept</a>, Heavy Metal band formed in Solingen in the early 1970s</li>
+<li><a href="/wiki/Marco_Matias_(musician)" title="Marco Matias (musician)">Marco Matias (musician)</a> (born 1975), German-Portuguese singer</li>
+<li><a href="/wiki/Fahriye_Evcen" title="Fahriye Evcen">Fahriye Evcen</a> (born 1986), actress</li>
+<li><a href="/wiki/Kevin_Kampl" title="Kevin Kampl">Kevin Kampl</a> (born 1990), Slovenian footballer</li>
+<li><a href="/wiki/Christoph_Kramer" title="Christoph Kramer">Christoph Kramer</a> (born 1991), soccer player</li>
+</ul>
+<ul class="gallery mw-gallery-traditional" style="max-width: 815px;_width: 815px;">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Bundesarchiv_Bild_146-1989-047-20,_Walter_Scheel.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bundesarchiv_Bild_146-1989-047-20%2C_Walter_Scheel.jpg/86px-Bundesarchiv_Bild_146-1989-047-20%2C_Walter_Scheel.jpg" width="86" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bundesarchiv_Bild_146-1989-047-20%2C_Walter_Scheel.jpg/129px-Bundesarchiv_Bild_146-1989-047-20%2C_Walter_Scheel.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bundesarchiv_Bild_146-1989-047-20%2C_Walter_Scheel.jpg/172px-Bundesarchiv_Bild_146-1989-047-20%2C_Walter_Scheel.jpg 2x" data-file-width="571" data-file-height="798" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Walter Scheel (1974)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Richard_David_Precht_(9194).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Richard_David_Precht_%289194%29.jpg/120px-Richard_David_Precht_%289194%29.jpg" width="120" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Richard_David_Precht_%289194%29.jpg/180px-Richard_David_Precht_%289194%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/04/Richard_David_Precht_%289194%29.jpg/240px-Richard_David_Precht_%289194%29.jpg 2x" data-file-width="2300" data-file-height="2300" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Richard David Precht (2009)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Veronica_Ferres_portrait_schwarzes_Kleid_150133.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Veronica_Ferres_portrait_schwarzes_Kleid_150133.jpg/80px-Veronica_Ferres_portrait_schwarzes_Kleid_150133.jpg" width="80" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Veronica_Ferres_portrait_schwarzes_Kleid_150133.jpg/119px-Veronica_Ferres_portrait_schwarzes_Kleid_150133.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/56/Veronica_Ferres_portrait_schwarzes_Kleid_150133.jpg/159px-Veronica_Ferres_portrait_schwarzes_Kleid_150133.jpg 2x" data-file-width="2252" data-file-height="3390" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Veronica Ferres (2012)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:1LIVE_Krone_2014_Christoph_Kramer_und_Freundlin_Celine_cropped.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/1LIVE_Krone_2014_Christoph_Kramer_und_Freundlin_Celine_cropped.jpg/80px-1LIVE_Krone_2014_Christoph_Kramer_und_Freundlin_Celine_cropped.jpg" width="80" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/1LIVE_Krone_2014_Christoph_Kramer_und_Freundlin_Celine_cropped.jpg/119px-1LIVE_Krone_2014_Christoph_Kramer_und_Freundlin_Celine_cropped.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e4/1LIVE_Krone_2014_Christoph_Kramer_und_Freundlin_Celine_cropped.jpg/159px-1LIVE_Krone_2014_Christoph_Kramer_und_Freundlin_Celine_cropped.jpg 2x" data-file-width="683" data-file-height="1028" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Christoph Kramer (2014)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Pina_Bausch_cropped.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/Pina_Bausch_cropped.jpg/53px-Pina_Bausch_cropped.jpg" width="53" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/Pina_Bausch_cropped.jpg/80px-Pina_Bausch_cropped.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/13/Pina_Bausch_cropped.jpg/107px-Pina_Bausch_cropped.jpg 2x" data-file-width="245" data-file-height="549" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Pina Bausch (2009)</p>
+</div>
+</div>
+</li>
+</ul>
+<p>The founders of Studebaker Brothers Manufacturing Company, which later became the automobile company <a href="/wiki/Studebaker" title="Studebaker">Studebaker</a>, trace their lineage to bladesmen from the region that migrated to America in 1736.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[6]</a></sup></p>
+<h2><span class="mw-headline" id="Sports">Sports</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solingen&amp;action=edit&amp;section=25" title="Edit section: Sports">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Baseball">Baseball</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solingen&amp;action=edit&amp;section=26" title="Edit section: Baseball">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a href="/wiki/Solingen_Alligators" title="Solingen Alligators">Solingen Alligators</a> are a baseball and softball club from Solingen. The club was founded in 1991 and the first men's team was promoted to the first division of the Baseball Bundesliga for the 2003 season. It has played there in every season since, winning the league championship in 2006 and 2014. The club claims over 250 members.</p>
+<h3><span class="mw-headline" id="Chess">Chess</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solingen&amp;action=edit&amp;section=27" title="Edit section: Chess">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <i>Schachgesellschaft Solingen e.V. 1868</i> is best known for its chess team, which plays in the Schachbundesliga (<a href="/wiki/Chess_Bundesliga" title="Chess Bundesliga">Chess Bundesliga</a>), the top tier of the German chess league system, and is the most successful club in German chess history, having won a record 12 national titles (1969, 1971, 1972, 1973, 1974, 1975, 1980, 1980/81, 1986/87, 1987/88, 1996/97 and 2015/16), three national cups (1986, 2006 und 2009) and 2 European cups (1976 and 1990).</p>
+<h3><span class="mw-headline" id="Handball">Handball</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solingen&amp;action=edit&amp;section=28" title="Edit section: Handball">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In <i><a href="/wiki/Team_handball" class="mw-redirect" title="Team handball">handball</a></i>, Solingen's most successful team is <i><a href="/wiki/Bergischer_HC" title="Bergischer HC">Bergischer HC</a></i>, playing in the top-tier <a href="/wiki/Handball-Bundesliga" title="Handball-Bundesliga">Handball-Bundesliga</a> which they were promoted to for the second time in 2013, reaching 15th place in the <a href="/wiki/2013%E2%80%9314_Handball-Bundesliga" title="2013–14 Handball-Bundesliga">2013–14 campaign</a> and therefore staying in the top flight for a second consecutive season. <i>BHC</i> originates from a 2006 cooperation between the <i>SG Solingen</i> and rivals <i>LTV Wuppertal</i> from the nearby <a href="/wiki/Wuppertal" title="Wuppertal">city of the same name</a>. The club advertises itself as a representative of the entire <a href="/wiki/Bergisches_Land" title="Bergisches Land">Bergisches Land</a> region. The team plays its home games at both Solingen's <i>Klingenhalle</i> (2,600 seats) and Wuppertal's <i>Uni-Halle</i> (3,200 seats).</p>
+<h2><span class="mw-headline" id="Reception">Reception</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solingen&amp;action=edit&amp;section=29" title="Edit section: Reception">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Hapag_cargo_ship_Solingen_in_1966_at_the_West_Indies,_Central_America_-_Island_-_Service.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hapag_cargo_ship_Solingen_in_1966_at_the_West_Indies%2C_Central_America_-_Island_-_Service.jpg/220px-Hapag_cargo_ship_Solingen_in_1966_at_the_West_Indies%2C_Central_America_-_Island_-_Service.jpg" width="220" height="142" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hapag_cargo_ship_Solingen_in_1966_at_the_West_Indies%2C_Central_America_-_Island_-_Service.jpg/330px-Hapag_cargo_ship_Solingen_in_1966_at_the_West_Indies%2C_Central_America_-_Island_-_Service.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hapag_cargo_ship_Solingen_in_1966_at_the_West_Indies%2C_Central_America_-_Island_-_Service.jpg/440px-Hapag_cargo_ship_Solingen_in_1966_at_the_West_Indies%2C_Central_America_-_Island_-_Service.jpg 2x" data-file-width="1200" data-file-height="777" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Hapag_cargo_ship_Solingen_in_1966_at_the_West_Indies,_Central_America_-_Island_-_Service.jpg" class="internal" title="Enlarge"></a></div>
+The cargo ship <i>Solingen</i> in 1966</div>
+</div>
+</div>
+<p>In May 1955, the city of Solingen took over the <a href="/wiki/Partnership" title="Partnership">partnership</a> of the German general cargo ship <i>Solingen</i> of the <a href="/wiki/Hamburg_America_Line" title="Hamburg America Line">Hamburg-American Packet Transit Actien-Gesellschaft (Hapag)</a>.</p>
+<h2><span class="mw-headline" id="International_relations">International relations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solingen&amp;action=edit&amp;section=30" title="Edit section: International relations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/List_of_twin_towns_and_sister_cities_in_Germany" title="List of twin towns and sister cities in Germany">List of twin towns and sister cities in Germany</a></div>
+<h3><span id="Twin_towns_–_Sister_cities"></span><span class="mw-headline" id="Twin_towns_.E2.80.93_Sister_cities">Twin towns – Sister cities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solingen&amp;action=edit&amp;section=31" title="Edit section: Twin towns – Sister cities">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Solingen is <a href="/wiki/Twin_towns_and_sister_cities" class="mw-redirect" title="Twin towns and sister cities">twinned</a> with:</p>
+<ul>
+<li><span class="flagicon"><a href="/wiki/Poland" title="Poland"><img alt="Poland" src="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/35px-Flag_of_Poland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/46px-Flag_of_Poland.svg.png 2x" data-file-width="1280" data-file-height="800" /></a></span> <a href="/wiki/Z%C5%82otoryja" title="Złotoryja">Złotoryja</a>, <a href="/wiki/Poland" title="Poland">Poland</a>, since 1955</li>
+<li><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Gouda,_South_Holland" title="Gouda, South Holland">Gouda</a>, <a href="/wiki/Netherlands" title="Netherlands">Netherlands</a>, since 1957</li>
+<li><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Chalon-sur-Sa%C3%B4ne" title="Chalon-sur-Saône">Chalon-sur-Saône</a>, France, since 1960</li>
+<li><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Blyth,_Northumberland" title="Blyth, Northumberland">Blyth</a>, <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>, since 1962</li>
+<li><span class="flagicon"><a href="/wiki/Nicaragua" title="Nicaragua"><img alt="Nicaragua" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/23px-Flag_of_Nicaragua.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/35px-Flag_of_Nicaragua.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/46px-Flag_of_Nicaragua.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Jinotega,_Jinotega" class="mw-redirect" title="Jinotega, Jinotega">Jinotega, Jinotega</a>, <a href="/wiki/Nicaragua" title="Nicaragua">Nicaragua</a>, since 1985</li>
+<li><span class="flagicon"><a href="/wiki/Israel" title="Israel"><img alt="Israel" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/21px-Flag_of_Israel.svg.png" width="21" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/32px-Flag_of_Israel.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/41px-Flag_of_Israel.svg.png 2x" data-file-width="660" data-file-height="480" /></a></span> <a href="/wiki/Ness_Ziona" title="Ness Ziona">Ness Ziona</a>, <a href="/wiki/Israel" title="Israel">Israel</a>, since 1986</li>
+<li><span class="flagicon"><a href="/wiki/Senegal" title="Senegal"><img alt="Senegal" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/23px-Flag_of_Senegal.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/35px-Flag_of_Senegal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/45px-Flag_of_Senegal.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Thi%C3%A8s" title="Thiès">Thiès</a>, <a href="/wiki/Senegal" title="Senegal">Senegal</a>, since 1990</li>
+<li><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Aue" title="Aue">Aue</a>, Germany, since 1990</li>
+<li>sponsorship: citizens from the former district (Landkreis) Goldberg/Silesia, since 1955</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solingen&amp;action=edit&amp;section=32" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.it.nrw.de/statistik/a/daten/bevoelkerungszahlen_zensus/index.html">"Amtliche Bevölkerungszahlen"</a>. <i><a href="/wiki/Landesbetrieb_Information_und_Technik_NRW" class="mw-redirect" title="Landesbetrieb Information und Technik NRW">Landesbetrieb Information und Technik NRW</a></i> (in German). 18 July 2016.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolingen&amp;rft.atitle=Amtliche+Bev%C3%B6lkerungszahlen&amp;rft.date=2016-07-18&amp;rft.genre=unknown&amp;rft.jtitle=Landesbetrieb+Information+und+Technik+NRW&amp;rft_id=http%3A%2F%2Fwww.it.nrw.de%2Fstatistik%2Fa%2Fdaten%2Fbevoelkerungszahlen_zensus%2Findex.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Bev.C3.B6lkerungsstand-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Bev.C3.B6lkerungsstand_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.it.nrw.de/statistik/a/daten/amtlichebevoelkerungszahlen/rp7_juni09.html">"Bevölkerung im Regierungsbezirk Detmold"</a> (in German). <i>Landesbetrieb Information und Technik NRW</i><span class="reference-accessdate">. Retrieved <span class="nowrap">22 April</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolingen&amp;rft.btitle=Bev%C3%B6lkerung+im+Regierungsbezirk+Detmold&amp;rft.genre=unknown&amp;rft.pub=%27%27Landesbetrieb+Information+und+Technik+NRW%27%27&amp;rft_id=http%3A%2F%2Fwww.it.nrw.de%2Fstatistik%2Fa%2Fdaten%2Famtlichebevoelkerungszahlen%2Frp7_juni09.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://solinger-bote.de/nachrichten/2014/11/05/solingen-gedenken-an-solinger-bombenopfer-vor-70-jahren/">http://solinger-bote.de/nachrichten/2014/11/05/solingen-gedenken-an-solinger-bombenopfer-vor-70-jahren/</a></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation book">Groneck, Christoph; Lohkemper, Paul (2007). <i>Wuppertal Schwebebahn Album</i>. Berlin: Robert Schwandl. pp.&#160;58–61.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolingen&amp;rft.au=Groneck%2C+Christoph&amp;rft.au=Lohkemper%2C+Paul&amp;rft.btitle=Wuppertal+Schwebebahn+Album&amp;rft.date=2007&amp;rft.genre=book&amp;rft.pages=58-61&amp;rft.place=Berlin&amp;rft.pub=Robert+Schwandl&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web">DeWitt, Bill. <a rel="nofollow" class="external text" href="https://wayback.archive.org/web/20161031140635/http://www.stude100.com/stu/Pg1/pg1.php">"Family Origins and The Wagon Business"</a>. <i>Studebaker 100</i>. Archived from <a rel="nofollow" class="external text" href="http://www.stude100.com/stu/Pg1/pg1.php">the original</a> on 31 October 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">17 May</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolingen&amp;rft.atitle=Family+Origins+and+The+Wagon+Business&amp;rft.aufirst=Bill&amp;rft.aulast=DeWitt&amp;rft.genre=unknown&amp;rft.jtitle=Studebaker+100&amp;rft_id=http%3A%2F%2Fwww.stude100.com%2Fstu%2FPg1%2Fpg1.php&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://wayback.archive.org/web/20160402004358/http://www.studebakerfamily.org/history/">"History of the Studebaker Family and Company"</a>. Studebaker Family National Association. Archived from <a rel="nofollow" class="external text" href="http://www.studebakerfamily.org/history/">the original</a> on 2 April 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">17 May</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolingen&amp;rft.btitle=History+of+the+Studebaker+Family+and+Company&amp;rft.genre=unknown&amp;rft.pub=Studebaker+Family+National+Association&amp;rft_id=http%3A%2F%2Fwww.studebakerfamily.org%2Fhistory%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solingen&amp;action=edit&amp;section=33" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><span class="languageicon">(in German)</span> <a rel="nofollow" class="external text" href="http://www.solingen.de">Solingen official website</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.die-bergischen-drei.de/en/solingen.html">Travel guide from <i>die-bergischen-drei.de</i></a></li>
+<li><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" width="12" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> Media related to <a href="https://commons.wikimedia.org/wiki/Category:Solingen" class="extiw" title="commons:Category:Solingen">Solingen</a> at Wikimedia Commons</li>
+<li><a href="/wiki/File:Wikivoyage-Logo-v3-icon.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/16px-Wikivoyage-Logo-v3-icon.svg.png" width="16" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/24px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/32px-Wikivoyage-Logo-v3-icon.svg.png 2x" data-file-width="193" data-file-height="193" /></a> <a href="https://en.wikivoyage.org/wiki/Solingen#Q2942" class="extiw" title="voy:Solingen">Solingen</a> travel guide from Wikivoyage</li>
+<li><img alt="Wikisource-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png" width="12" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/18px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/24px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" />&#160;<cite class="citation encyclopaedia">"<a href="https://en.wikisource.org/wiki/The_New_International_Encyclop%C3%A6dia/Ohligs" class="extiw" title="s:The New International Encyclopædia/Ohligs">Ohligs</a>". <i><a href="/wiki/New_International_Encyclopedia" title="New International Encyclopedia">New International Encyclopedia</a></i>. 1905.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolingen&amp;rft.atitle=Ohligs&amp;rft.btitle=New+International+Encyclopedia&amp;rft.date=1905&amp;rft.genre=bookitem&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Cities_in_Germany_by_population" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Cities_in_Germany" title="Template:Cities in Germany"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Cities_in_Germany" title="Template talk:Cities in Germany"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cities_in_Germany&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Cities_in_Germany_by_population" style="font-size:114%;margin:0 4em">Cities in Germany by population</div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">1,000,000+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Berlin" title="Berlin">Berlin</a></li>
+<li><a href="/wiki/Cologne" title="Cologne">Cologne</a></li>
+<li><a href="/wiki/Hamburg" title="Hamburg">Hamburg</a></li>
+<li><a href="/wiki/Munich" title="Munich">Munich</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">500,000+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bremen" title="Bremen">Bremen</a></li>
+<li><a href="/wiki/Dortmund" title="Dortmund">Dortmund</a></li>
+<li><a href="/wiki/Dresden" title="Dresden">Dresden</a></li>
+<li><a href="/wiki/D%C3%BCsseldorf" title="Düsseldorf">Düsseldorf</a></li>
+<li><a href="/wiki/Essen" title="Essen">Essen</a></li>
+<li><a href="/wiki/Frankfurt" title="Frankfurt">Frankfurt</a></li>
+<li><a href="/wiki/Hanover" title="Hanover">Hanover</a></li>
+<li><a href="/wiki/Leipzig" title="Leipzig">Leipzig</a></li>
+<li><a href="/wiki/Nuremberg" title="Nuremberg">Nuremberg</a></li>
+<li><a href="/wiki/Stuttgart" title="Stuttgart">Stuttgart</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">200,000+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aachen" title="Aachen">Aachen</a></li>
+<li><a href="/wiki/Augsburg" title="Augsburg">Augsburg</a></li>
+<li><a href="/wiki/Bielefeld" title="Bielefeld">Bielefeld</a></li>
+<li><a href="/wiki/Bochum" title="Bochum">Bochum</a></li>
+<li><a href="/wiki/Bonn" title="Bonn">Bonn</a></li>
+<li><a href="/wiki/Braunschweig" title="Braunschweig">Braunschweig</a></li>
+<li><a href="/wiki/Chemnitz" title="Chemnitz">Chemnitz</a></li>
+<li><a href="/wiki/Duisburg" title="Duisburg">Duisburg</a></li>
+<li><a href="/wiki/Erfurt" title="Erfurt">Erfurt</a></li>
+<li><a href="/wiki/Freiburg_im_Breisgau" title="Freiburg im Breisgau">Freiburg im Breisgau</a></li>
+<li><a href="/wiki/Gelsenkirchen" title="Gelsenkirchen">Gelsenkirchen</a></li>
+<li><a href="/wiki/Halle_(Saale)" title="Halle (Saale)">Halle (Saale)</a></li>
+<li><a href="/wiki/Karlsruhe" title="Karlsruhe">Karlsruhe</a></li>
+<li><a href="/wiki/Kiel" title="Kiel">Kiel</a></li>
+<li><a href="/wiki/Krefeld" title="Krefeld">Krefeld</a></li>
+<li><a href="/wiki/L%C3%BCbeck" title="Lübeck">Lübeck</a></li>
+<li><a href="/wiki/Magdeburg" title="Magdeburg">Magdeburg</a></li>
+<li><a href="/wiki/Mainz" title="Mainz">Mainz</a></li>
+<li><a href="/wiki/Mannheim" title="Mannheim">Mannheim</a></li>
+<li><a href="/wiki/M%C3%BCnster" title="Münster">Münster</a></li>
+<li><a href="/wiki/M%C3%B6nchengladbach" title="Mönchengladbach">Mönchengladbach</a></li>
+<li><a href="/wiki/Oberhausen" title="Oberhausen">Oberhausen</a></li>
+<li><a href="/wiki/Rostock" title="Rostock">Rostock</a></li>
+<li><a href="/wiki/Wiesbaden" title="Wiesbaden">Wiesbaden</a></li>
+<li><a href="/wiki/Wuppertal" title="Wuppertal">Wuppertal</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">100,000+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bergisch_Gladbach" title="Bergisch Gladbach">Bergisch Gladbach</a></li>
+<li><a href="/wiki/Bottrop" title="Bottrop">Bottrop</a></li>
+<li><a href="/wiki/Bremerhaven" title="Bremerhaven">Bremerhaven</a></li>
+<li><a href="/wiki/Cottbus" title="Cottbus">Cottbus</a></li>
+<li><a href="/wiki/Darmstadt" title="Darmstadt">Darmstadt</a></li>
+<li><a href="/wiki/Erlangen" title="Erlangen">Erlangen</a></li>
+<li><a href="/wiki/F%C3%BCrth" title="Fürth">Fürth</a></li>
+<li><a href="/wiki/G%C3%B6ttingen" title="Göttingen">Göttingen</a></li>
+<li><a href="/wiki/Hagen" title="Hagen">Hagen</a></li>
+<li><a href="/wiki/Hamm" title="Hamm">Hamm</a></li>
+<li><a href="/wiki/Heidelberg" title="Heidelberg">Heidelberg</a></li>
+<li><a href="/wiki/Heilbronn" title="Heilbronn">Heilbronn</a></li>
+<li><a href="/wiki/Herne,_North_Rhine-Westphalia" title="Herne, North Rhine-Westphalia">Herne</a></li>
+<li><a href="/wiki/Hildesheim" title="Hildesheim">Hildesheim</a></li>
+<li><a href="/wiki/Ingolstadt" title="Ingolstadt">Ingolstadt</a></li>
+<li><a href="/wiki/Jena" title="Jena">Jena</a></li>
+<li><a href="/wiki/Kassel" title="Kassel">Kassel</a></li>
+<li><a href="/wiki/Koblenz" title="Koblenz">Koblenz</a></li>
+<li><a href="/wiki/Leverkusen" title="Leverkusen">Leverkusen</a></li>
+<li><a href="/wiki/Ludwigshafen" title="Ludwigshafen">Ludwigshafen</a></li>
+<li><a href="/wiki/Moers" title="Moers">Moers</a></li>
+<li><a href="/wiki/M%C3%BClheim" title="Mülheim">Mülheim an der Ruhr</a></li>
+<li><a href="/wiki/Neuss" title="Neuss">Neuss</a></li>
+<li><a href="/wiki/Offenbach_am_Main" title="Offenbach am Main">Offenbach am Main</a></li>
+<li><a href="/wiki/Oldenburg_(Oldenburg)" class="mw-redirect" title="Oldenburg (Oldenburg)">Oldenburg</a></li>
+<li><a href="/wiki/Osnabr%C3%BCck" title="Osnabrück">Osnabrück</a></li>
+<li><a href="/wiki/Paderborn" title="Paderborn">Paderborn</a></li>
+<li><a href="/wiki/Pforzheim" title="Pforzheim">Pforzheim</a></li>
+<li><a href="/wiki/Potsdam" title="Potsdam">Potsdam</a></li>
+<li><a href="/wiki/Recklinghausen" title="Recklinghausen">Recklinghausen</a></li>
+<li><a href="/wiki/Regensburg" title="Regensburg">Regensburg</a></li>
+<li><a href="/wiki/Remscheid" title="Remscheid">Remscheid</a></li>
+<li><a href="/wiki/Reutlingen" title="Reutlingen">Reutlingen</a></li>
+<li><a href="/wiki/Saarbr%C3%BCcken" title="Saarbrücken">Saarbrücken</a></li>
+<li><a href="/wiki/Salzgitter" title="Salzgitter">Salzgitter</a></li>
+<li><a href="/wiki/Siegen" title="Siegen">Siegen</a></li>
+<li><a class="mw-selflink selflink">Solingen</a></li>
+<li><a href="/wiki/Trier" title="Trier">Trier</a></li>
+<li><a href="/wiki/Ulm" title="Ulm">Ulm</a></li>
+<li><a href="/wiki/Wolfsburg" title="Wolfsburg">Wolfsburg</a></li>
+<li><a href="/wiki/W%C3%BCrzburg" title="Würzburg">Würzburg</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/List_of_cities_and_towns_in_Germany" title="List of cities and towns in Germany">complete list</a></li>
+<li><a href="/wiki/List_of_municipalities_in_Germany" title="List of municipalities in Germany">municipalities</a></li>
+<li><a href="/wiki/Metropolitan_regions_in_Germany" title="Metropolitan regions in Germany">metropolitan regions</a></li>
+<li><a href="/wiki/List_of_cities_in_Germany_by_population" title="List of cities in Germany by population">cities with more than 100,000 inhabitants</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="border.7C30px.7CFlag_of_North_Rhine-Westphalia_Urban_and_rural_districts_in_the_state_of_North_Rhine-Westphalia_in_Germany_border.7C30px.7CFlag_of_Germany" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Germany_districts_North_Rhine-Westphalia" title="Template:Germany districts North Rhine-Westphalia"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Germany_districts_North_Rhine-Westphalia" title="Template talk:Germany districts North Rhine-Westphalia"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Germany_districts_North_Rhine-Westphalia&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="border.7C30px.7CFlag_of_North_Rhine-Westphalia_Urban_and_rural_districts_in_the_state_of_North_Rhine-Westphalia_in_Germany_border.7C30px.7CFlag_of_Germany" style="font-size:114%;margin:0 4em"><a href="/wiki/File:Flag_of_North_Rhine-Westphalia.svg" class="image" title="Flag of North Rhine-Westphalia"><img alt="Flag of North Rhine-Westphalia" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_North_Rhine-Westphalia.svg/30px-Flag_of_North_Rhine-Westphalia.svg.png" width="30" height="18" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_North_Rhine-Westphalia.svg/45px-Flag_of_North_Rhine-Westphalia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_North_Rhine-Westphalia.svg/60px-Flag_of_North_Rhine-Westphalia.svg.png 2x" data-file-width="800" data-file-height="480" /></a> Urban and rural districts in the state of <a href="/wiki/North_Rhine-Westphalia" title="North Rhine-Westphalia">North Rhine-Westphalia</a> in Germany <a href="/wiki/File:Flag_of_Germany.svg" class="image" title="Flag of Germany"><img alt="Flag of Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/30px-Flag_of_Germany.svg.png" width="30" height="18" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/45px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/60px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Urban_districts_of_Germany" class="mw-redirect" title="Urban districts of Germany">Urban districts</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bielefeld" title="Bielefeld">Bielefeld</a></li>
+<li><a href="/wiki/Bochum" title="Bochum">Bochum</a></li>
+<li><a href="/wiki/Bonn" title="Bonn">Bonn</a></li>
+<li><a href="/wiki/Bottrop" title="Bottrop">Bottrop</a></li>
+<li><a href="/wiki/Dortmund" title="Dortmund">Dortmund</a></li>
+<li><a href="/wiki/Duisburg" title="Duisburg">Duisburg</a></li>
+<li><a href="/wiki/D%C3%BCsseldorf" title="Düsseldorf">Düsseldorf</a></li>
+<li><a href="/wiki/Essen" title="Essen">Essen</a></li>
+<li><a href="/wiki/Gelsenkirchen" title="Gelsenkirchen">Gelsenkirchen</a></li>
+<li><a href="/wiki/Hagen" title="Hagen">Hagen</a></li>
+<li><a href="/wiki/Hamm" title="Hamm">Hamm</a></li>
+<li><a href="/wiki/Herne,_Germany" class="mw-redirect" title="Herne, Germany">Herne</a></li>
+<li><a href="/wiki/Cologne" title="Cologne">Köln (<i>Cologne</i>)</a></li>
+<li><a href="/wiki/Krefeld" title="Krefeld">Krefeld</a></li>
+<li><a href="/wiki/Leverkusen" title="Leverkusen">Leverkusen</a></li>
+<li><a href="/wiki/M%C3%B6nchengladbach" title="Mönchengladbach">Mönchengladbach</a></li>
+<li><a href="/wiki/M%C3%BClheim" title="Mülheim">Mülheim</a></li>
+<li><a href="/wiki/M%C3%BCnster" title="Münster">Münster</a></li>
+<li><a href="/wiki/Oberhausen" title="Oberhausen">Oberhausen</a></li>
+<li><a href="/wiki/Remscheid" title="Remscheid">Remscheid</a></li>
+<li><a class="mw-selflink selflink">Solingen</a></li>
+<li><a href="/wiki/Wuppertal" title="Wuppertal">Wuppertal</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="2" style="width:1px;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Deutschland_Lage_von_Nordrhein-Westfalen.svg" class="image"><img alt="Deutschland Lage von Nordrhein-Westfalen.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Deutschland_Lage_von_Nordrhein-Westfalen.svg/90px-Deutschland_Lage_von_Nordrhein-Westfalen.svg.png" width="90" height="122" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Deutschland_Lage_von_Nordrhein-Westfalen.svg/135px-Deutschland_Lage_von_Nordrhein-Westfalen.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Deutschland_Lage_von_Nordrhein-Westfalen.svg/180px-Deutschland_Lage_von_Nordrhein-Westfalen.svg.png 2x" data-file-width="592" data-file-height="801" /></a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_rural_districts_of_Germany" class="mw-redirect" title="List of rural districts of Germany">Rural districts</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aachen_(district)" title="Aachen (district)">Aachen</a></li>
+<li><a href="/wiki/Borken_(district)" title="Borken (district)">Borken</a></li>
+<li><a href="/wiki/Coesfeld_(district)" title="Coesfeld (district)">Coesfeld</a></li>
+<li><a href="/wiki/D%C3%BCren_(district)" title="Düren (district)">Düren</a></li>
+<li><a href="/wiki/Ennepe-Ruhr-Kreis" title="Ennepe-Ruhr-Kreis">Ennepe-Ruhr-Kreis</a></li>
+<li><a href="/wiki/Euskirchen_(district)" title="Euskirchen (district)">Euskirchen</a></li>
+<li><a href="/wiki/G%C3%BCtersloh_(district)" title="Gütersloh (district)">Gütersloh</a></li>
+<li><a href="/wiki/Heinsberg_(district)" title="Heinsberg (district)">Heinsberg</a></li>
+<li><a href="/wiki/Herford_(district)" title="Herford (district)">Herford</a></li>
+<li><a href="/wiki/Hochsauerlandkreis" title="Hochsauerlandkreis">Hochsauerlandkreis</a></li>
+<li><a href="/wiki/H%C3%B6xter_(district)" title="Höxter (district)">Höxter</a></li>
+<li><a href="/wiki/Kleve_(district)" title="Kleve (district)">Kleve (<i>Cleves</i>)</a></li>
+<li><a href="/wiki/Lippe_(district)" title="Lippe (district)">Lippe</a></li>
+<li><a href="/wiki/M%C3%A4rkischer_Kreis" title="Märkischer Kreis">Märkischer Kreis</a></li>
+<li><a href="/wiki/Mettmann_(district)" title="Mettmann (district)">Mettmann</a></li>
+<li><a href="/wiki/Minden-L%C3%BCbbecke" title="Minden-Lübbecke">Minden-Lübbecke</a></li>
+<li><a href="/wiki/Oberbergischer_Kreis" title="Oberbergischer Kreis">Oberbergischer Kreis</a></li>
+<li><a href="/wiki/Olpe_(district)" title="Olpe (district)">Olpe</a></li>
+<li><a href="/wiki/Paderborn_(district)" title="Paderborn (district)">Paderborn</a></li>
+<li><a href="/wiki/Recklinghausen_(district)" title="Recklinghausen (district)">Recklinghausen</a></li>
+<li><a href="/wiki/Rheinisch-Bergischer_Kreis" title="Rheinisch-Bergischer Kreis">Rheinisch-Bergischer Kreis</a></li>
+<li><a href="/wiki/Rhein-Erft-Kreis" title="Rhein-Erft-Kreis">Rhein-Erft-Kreis</a></li>
+<li><a href="/wiki/Rhein-Kreis_Neuss" title="Rhein-Kreis Neuss">Rhein-Kreis Neuss</a></li>
+<li><a href="/wiki/Rhein-Sieg-Kreis" title="Rhein-Sieg-Kreis">Rhein-Sieg-Kreis</a></li>
+<li><a href="/wiki/Siegen-Wittgenstein" title="Siegen-Wittgenstein">Siegen-Wittgenstein</a></li>
+<li><a href="/wiki/Soest_(district)" title="Soest (district)">Soest</a></li>
+<li><a href="/wiki/Steinfurt_(district)" title="Steinfurt (district)">Steinfurt</a></li>
+<li><a href="/wiki/Unna_(district)" title="Unna (district)">Unna</a></li>
+<li><a href="/wiki/Viersen_(district)" title="Viersen (district)">Viersen</a></li>
+<li><a href="/wiki/Warendorf_(district)" title="Warendorf (district)">Warendorf</a></li>
+<li><a href="/wiki/Wesel_(district)" title="Wesel (district)">Wesel</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/265231507">WorldCat Identities</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/265231507">265231507</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/4055431-4">4055431-4</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb11951639t">cb11951639t</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb11951639t">(data)</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1275
+Cached time: 20171018044811
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.608 seconds
+Real time usage: 0.858 seconds
+Preprocessor visited node count: 8180/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 96612/2097152 bytes
+Template argument size: 19857/2097152 bytes
+Highest expansion depth: 26/40
+Expensive parser function count: 11/500
+Lua time usage: 0.183/10.000 seconds
+Lua memory usage: 7.68 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  666.627      1 -total
+ 40.86%  272.362      1 Template:Infobox_German_location
+ 38.89%  259.224      1 Template:Infobox_settlement
+ 32.56%  217.039      1 Template:Infobox
+  7.90%   52.666      7 Template:Population_Germany
+  6.87%   45.809      4 Template:Cite_web
+  6.16%   41.057     10 Template:Convert
+  6.06%   40.418      2 Template:Reflist
+  5.98%   39.884      7 Template:Metadata_Population_DE-NW
+  5.23%   34.890      9 Template:Both
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:181249-0!canonical and timestamp 20171018044810 and revision id 803976137
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Solingen&amp;oldid=803976137">https://en.wikipedia.org/w/index.php?title=Solingen&amp;oldid=803976137</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Cities_in_North_Rhine-Westphalia" title="Category:Cities in North Rhine-Westphalia">Cities in North Rhine-Westphalia</a></li><li><a href="/wiki/Category:Solingen" title="Category:Solingen">Solingen</a></li><li><a href="/wiki/Category:Members_of_the_Hanseatic_League" title="Category:Members of the Hanseatic League">Members of the Hanseatic League</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_German-language_sources_(de)" title="Category:CS1 German-language sources (de)">CS1 German-language sources (de)</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_2007" title="Category:Articles containing potentially dated statements from 2007">Articles containing potentially dated statements from 2007</a></li><li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">All articles containing potentially dated statements</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_January_2013" title="Category:Articles needing additional references from January 2013">Articles needing additional references from January 2013</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Interlanguage_link_template_link_number" title="Category:Interlanguage link template link number">Interlanguage link template link number</a></li><li><a href="/wiki/Category:Articles_with_German-language_external_links" title="Category:Articles with German-language external links">Articles with German-language external links</a></li><li><a href="/wiki/Category:Wikipedia_articles_incorporating_a_citation_from_the_New_International_Encyclopedia" title="Category:Wikipedia articles incorporating a citation from the New International Encyclopedia">Wikipedia articles incorporating a citation from the New International Encyclopedia</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Solingen" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Solingen" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Solingen" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Solingen" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Solingen">Read</a></span></li>
+							<li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Solingen&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Solingen&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Solingen" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Solingen" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Solingen&amp;oldid=803976137" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Solingen&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2942" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Solingen&amp;id=803976137" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Solingen">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Solingen&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Solingen&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Solingen" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikivoyage"><a href="https://en.wikivoyage.org/wiki/Solingen" hreflang="en">Wikivoyage</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Solingen" title="Solingen – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%B2%D9%88%D9%84%D9%8A%D9%86%D8%BA%D9%86" title="زولينغن – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D8%B2%D9%88%D9%84%DB%8C%D9%86%D9%82%D9%86" title="زولینقن – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Solingen" title="Solingen – Chinese (Min Nan)" lang="zh-min-nan" hreflang="zh-min-nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%97%D0%BE%D0%BB%D1%96%D0%BD%D0%B3%D0%B5%D0%BD" title="Золінген – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%97%D0%BE%D0%BB%D0%B8%D0%BD%D0%B3%D0%B5%D0%BD" title="Золинген – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Solingen" title="Solingen – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Solingen" title="Solingen – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Solingen" title="Solingen – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Solingen_(kapital_sa_distrito)" title="Solingen (kapital sa distrito) – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Solingen" title="Solingen – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Solingen" title="Solingen – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Solingen" title="Solingen – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Solingen" title="Solingen – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%96%CF%8C%CE%BB%CE%B9%CE%BD%CE%B3%CE%BA%CE%B5%CE%BD" title="Ζόλινγκεν – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Solingen" title="Solingen – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Solingen" title="Solingen – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Solingen" title="Solingen – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%B2%D9%88%D9%84%DB%8C%D9%86%DA%AF%D9%86" title="زولینگن – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Solingen" title="Solingen – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/Solingen" title="Solingen – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%A1%B8%EB%A7%81%EA%B2%90" title="졸링겐 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Solingen" title="Solingen – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Solingen" title="Solingen – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%96%D7%95%D7%9C%D7%99%D7%A0%D7%92%D7%9F" title="זולינגן – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%96%E1%83%9D%E1%83%9A%E1%83%98%E1%83%9C%E1%83%92%E1%83%94%E1%83%9C%E1%83%98" title="ზოლინგენი – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%97%D0%BE%D0%BB%D0%B8%D0%BD%D0%B3%D0%B5%D0%BD" title="Золинген – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Solingen" title="Solingen – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li><li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/%D0%97%D0%BE%D0%BB%D0%B8%D0%BD%D0%B3%D0%B5%D0%BD" title="Золинген – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Zolingene" title="Zolingene – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Zolingenas" title="Zolingenas – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-li"><a href="https://li.wikipedia.org/wiki/Solich" title="Solich – Limburgish" lang="li" hreflang="li" class="interlanguage-link-target">Limburgs</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Solingen" title="Solingen – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Solingen" title="Solingen – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%BE%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B2%E3%83%B3" title="ゾーリンゲン – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-frr"><a href="https://frr.wikipedia.org/wiki/Solingen" title="Solingen – Northern Frisian" lang="frr" hreflang="frr" class="interlanguage-link-target">Nordfriisk</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Solingen" title="Solingen – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Solingen" title="Solingen – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Solingen" title="Solingen – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li><li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%D8%B3%D9%88%D9%84%D9%86%DA%AF%D9%86" title="سولنگن – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li><li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/Solingen" title="Solingen – Low German" lang="nds" hreflang="nds" class="interlanguage-link-target">Plattdüütsch</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Solingen" title="Solingen – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Solingen" title="Solingen – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Solingen" title="Solingen – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%97%D0%BE%D0%BB%D0%B8%D0%BD%D0%B3%D0%B5%D0%BD" title="Золинген – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Solingen" title="Solingen – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-stq"><a href="https://stq.wikipedia.org/wiki/Solingen" title="Solingen – Saterland Frisian" lang="stq" hreflang="stq" class="interlanguage-link-target">Seeltersk</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Solingen" title="Solingen – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Solingen" title="Solingen – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-szl"><a href="https://szl.wikipedia.org/wiki/Solingen" title="Solingen – Silesian" lang="szl" hreflang="szl" class="interlanguage-link-target">Ślůnski</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%97%D0%BE%D0%BB%D0%B8%D0%BD%D0%B3%D0%B5%D0%BD" title="Золинген – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Solingen" title="Solingen – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Solingen" title="Solingen – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Solingen" title="Solingen – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%97%D0%BE%D0%BB%D0%B8%D0%BD%D0%B3%D0%B5%D0%BD" title="Золинген – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B9%82%E0%B8%8B%E0%B8%A5%E0%B8%B4%E0%B8%87%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99" title="โซลิงเงิน – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Solingen" title="Solingen – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%97%D0%BE%D0%BB%D1%96%D0%BD%D0%B3%D0%B5%D0%BD" title="Золінген – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Solingen" title="Solingen – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/Solingen" title="Solingen – Volapük" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Solingen" title="Solingen – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E7%B4%A2%E6%9E%97%E6%A0%B9" title="索林根 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2942#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 5 October 2017, at 21:45.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Solingen&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.608","walltime":"0.858","ppvisitednodes":{"value":8180,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":96612,"limit":2097152},"templateargumentsize":{"value":19857,"limit":2097152},"expansiondepth":{"value":26,"limit":40},"expensivefunctioncount":{"value":11,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  666.627      1 -total"," 40.86%  272.362      1 Template:Infobox_German_location"," 38.89%  259.224      1 Template:Infobox_settlement"," 32.56%  217.039      1 Template:Infobox","  7.90%   52.666      7 Template:Population_Germany","  6.87%   45.809      4 Template:Cite_web","  6.16%   41.057     10 Template:Convert","  6.06%   40.418      2 Template:Reflist","  5.98%   39.884      7 Template:Metadata_Population_DE-NW","  5.23%   34.890      9 Template:Both"]},"scribunto":{"limitreport-timeusage":{"value":"0.183","limit":"10.000"},"limitreport-memusage":{"value":8055462,"limit":52428800}},"cachereport":{"origin":"mw1275","timestamp":"20171018044811","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":110,"wgHostname":"mw1322"});});</script>
+	</body>
+</html>

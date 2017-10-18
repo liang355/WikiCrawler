@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>PayScale - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"PayScale","wgTitle":"PayScale","wgCurRevisionId":787501729,"wgRevisionId":787501729,"wgArticleId":7805559,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles lacking in-text citations from July 2008","All articles lacking in-text citations","Pages using deprecated image syntax","All stub articles","Online databases","Companies based in Seattle","2002 establishments in Washington (state)","Privately held companies based in Washington (state)","Companies established in 2002","United States financial services company stubs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"PayScale","wgRelevantArticleId":7805559,"wgRequestId":"WeUuQApAMFkAABIn3iUAAABS","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q7156560","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.3"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/thumb/2/25/Payscale.svg/1200px-Payscale.svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/PayScale"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=PayScale&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=PayScale&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/PayScale"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-PayScale rootpage-PayScale vector-experimental-print-styles vector-nav-directionality skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">PayScale</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-style ambox-More_footnotes" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/60px-Text_document_with_red_question_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/80px-Text_document_with_red_question_mark.svg.png 2x" data-file-width="48" data-file-height="48" /></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This article includes a <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">list of references</a>, but <b>its sources remain unclear</b> because it has <b>insufficient <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a></b>. <span class="hide-when-compact">Please help to <a href="/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check" title="Wikipedia:WikiProject Fact and Reference Check">improve</a> this article by <a href="/wiki/Wikipedia:When_to_cite" title="Wikipedia:When to cite">introducing</a> more precise citations.</span> <small><i>(July 2008)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<table class="infobox vcard" style="width:22em">
+<caption class="fn org">PayScale</caption>
+<tr>
+<td colspan="2" class="logo" style="text-align:center"><a href="/wiki/File:Payscale.svg" class="image"><img alt="Payscale.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/2/25/Payscale.svg/200px-Payscale.svg.png" width="200" height="67" srcset="//upload.wikimedia.org/wikipedia/en/thumb/2/25/Payscale.svg/300px-Payscale.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/2/25/Payscale.svg/400px-Payscale.svg.png 2x" data-file-width="295" data-file-height="99" /></a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">
+<div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/List_of_business_entities" title="List of business entities">Type</a></div>
+</th>
+<td class="category" style="line-height:1.35em;"><a href="/wiki/Privately_held_company" title="Privately held company">Private</a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">Founded</th>
+<td style="line-height:1.35em;">2002-01-01</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">Headquarters</th>
+<td class="label" style="line-height:1.35em;"><a href="/wiki/Seattle,_Washington" class="mw-redirect" title="Seattle, Washington">Seattle</a>, <a href="/wiki/Washington_(U.S._state)" class="mw-redirect" title="Washington (U.S. state)">Washington</a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">
+<div style="padding:0.1em 0;line-height:1.2em;">Key people</div>
+</th>
+<td class="agent" style="line-height:1.35em;">Michael Metzger, CEO and President<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">Website</th>
+<td style="line-height:1.35em;"><a rel="nofollow" class="external free" href="http://www.payscale.com">http://www.payscale.com</a></td>
+</tr>
+</table>
+<p><b>PayScale, Inc.</b> or <b>payscale.com</b> is an online <a href="/wiki/Salary" title="Salary">salary</a>, <a href="/wiki/Employee_benefit" class="mw-redirect" title="Employee benefit">benefits</a> and <a href="/wiki/Wage" title="Wage">compensation information</a> company, which launched its service on January 1, 2002.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> It was founded by Joe Giordano, a former <a href="/wiki/Microsoft" title="Microsoft">Microsoft</a> and <a href="/wiki/Drugstore.com" title="Drugstore.com">drugstore.com</a> manager, and John Gaffney. On April 24, 2014 <a href="/wiki/Warburg_Pincus" title="Warburg Pincus">Warburg Pincus</a> acquired PayScale in a deal worth up to $100m.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p>
+<p>PayScale was developed to help people obtain accurate real-time information on job market compensation. The service works via the <a href="/wiki/Internet" title="Internet">Internet</a> by enabling individual employees to submit their job profile and salary data, which is then compared to others. The company claims that it is able to use the volume of information statistically to determine accurate real-time salary information.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<p>The company generates revenue by selling aggregate data and <a href="/wiki/Web_service" title="Web service">web services</a> to employers, to aid in determining correct market rates for hiring, benchmarking and budgeting, and by targeted advertising to employees that visit its web site.</p>
+<p>The company has published rankings of U.S. universities based on "return on investment," or the purported difference between student expenditures for a university degree and the money they earn from it.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> These rankings are dramatically different from better-known rankings published by <i>U.S. News and World Report</i>, <i>Forbes</i>, <i>The Economist</i>, and other mainstream publications (for instance, PayScale places <a href="/wiki/Yale_University" title="Yale University">Yale University</a> 93rd among American universities and <a href="/wiki/Georgetown_University" title="Georgetown University">Georgetown University</a> 132nd). <i>The Chronicle of Higher Education</i> has criticized PayScale for using misleading sample sizes and for omitting all alumni of universities who go on to grad school from its count.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=PayScale&amp;action=edit&amp;section=1" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.payscale.com/about/management-team">"PayScale Management Team"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">7 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APayScale&amp;rft.btitle=PayScale+Management+Team&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.payscale.com%2Fabout%2Fmanagement-team&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://investing.businessweek.com/research/stocks/private/snapshot.asp?privcapId=24326552">"PayScale, Inc. on Business Week"</a>. Investing.businessweek.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-08-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APayScale&amp;rft.btitle=PayScale%2C+Inc.+on+Business+Week&amp;rft.genre=unknown&amp;rft.pub=Investing.businessweek.com&amp;rft_id=http%3A%2F%2Finvesting.businessweek.com%2Fresearch%2Fstocks%2Fprivate%2Fsnapshot.asp%3FprivcapId%3D24326552&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation news">Cook, John (24 April 2014). <a rel="nofollow" class="external text" href="https://techcrunch.com/2014/04/24/warburg-pincus-buys-compensation-software-service-payscale-for-up-to-100-million/">"Salary report generator PayScale getting up to $100M in deal led by Warburg Pincus"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">7 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APayScale&amp;rft.atitle=Salary+report+generator+PayScale+getting+up+to+%24100M+in+deal+led+by+Warburg+Pincus&amp;rft.aufirst=John&amp;rft.aulast=Cook&amp;rft.date=2014-04-24&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Ftechcrunch.com%2F2014%2F04%2F24%2Fwarburg-pincus-buys-compensation-software-service-payscale-for-up-to-100-million%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web">DAMON DARLIN (March 3, 2007). <a rel="nofollow" class="external text" href="https://www.nytimes.com/2007/03/03/technology/03money.html?_r=1&amp;adxnnl=1&amp;adxnnlx=1343934796-7z5jEd+mlQCxIvK2a4T6KQ">"Using the Web to Get the Boss to Pay More"</a>. The New York Times<span class="reference-accessdate">. Retrieved <span class="nowrap">2 August</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APayScale&amp;rft.au=DAMON+DARLIN&amp;rft.btitle=Using+the+Web+to+Get+the+Boss+to+Pay+More&amp;rft.date=2007-03-03&amp;rft.genre=unknown&amp;rft.pub=The+New+York+Times&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2007%2F03%2F03%2Ftechnology%2F03money.html%3F_r%3D1%26adxnnl%3D1%26adxnnlx%3D1343934796-7z5jEd%2BmlQCxIvK2a4T6KQ&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.payscale.com/college-education-value-2013">"2013 College Education ROI Rankings: Does a Degree Always Pay Off"</a>?</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Svaldi, David (April 21, 2014). "The More You Pay, the More It's Worth." The Huffington Post. (Quoting the Chronicle of Higher Education)</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=PayScale&amp;action=edit&amp;section=2" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.payscale.com">PayScale web site</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.nytimes.com/2007/03/03/technology/03money.html">New York Times</a> by <i>Damon Darlin</i> <i><a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a></i> (March 3, 2007)</li>
+<li><a rel="nofollow" class="external text" href="https://techcrunch.com/2006/10/12/how-much-money-do-you-make/">Review: How Much Money Do You Make?</a> by <i>Michael Arrington</i> <a href="/wiki/TechCrunch" title="TechCrunch">TechCrunch</a> (October 12, 2006)</li>
+<li><a rel="nofollow" class="external text" href="http://seattletimes.nwsource.com/html/businesstechnology/2002455291_btinterface29.html"><i>PayScale shows you the money</i></a> from <i><a href="/wiki/The_Seattle_Times" title="The Seattle Times">The Seattle Times</a></i> (August 29, 2005)</li>
+</ul>
+<p><br /></p>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent">
+<tr>
+<td><a href="/wiki/File:2005-Penny-Uncirculated-Obverse-cropped.png" class="image"><img alt="Stub icon 1" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2005-Penny-Uncirculated-Obverse-cropped.png/30px-2005-Penny-Uncirculated-Obverse-cropped.png" width="30" height="31" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2005-Penny-Uncirculated-Obverse-cropped.png/45px-2005-Penny-Uncirculated-Obverse-cropped.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2005-Penny-Uncirculated-Obverse-cropped.png/60px-2005-Penny-Uncirculated-Obverse-cropped.png 2x" data-file-width="922" data-file-height="946" /></a> <a href="/wiki/File:Crystal_Clear_app_kspread.png" class="image"><img alt="Stub icon 2" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Crystal_Clear_app_kspread.png/30px-Crystal_Clear_app_kspread.png" width="30" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Crystal_Clear_app_kspread.png/45px-Crystal_Clear_app_kspread.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Crystal_Clear_app_kspread.png/60px-Crystal_Clear_app_kspread.png 2x" data-file-width="128" data-file-height="128" /></a></td>
+<td><i>This article about a financial services corporation of the United States is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="//en.wikipedia.org/w/index.php?title=PayScale&amp;action=edit">expanding it</a>.</i>
+<div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:US-finance-company-stub" title="Template:US-finance-company-stub"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:US-finance-company-stub" title="Template talk:US-finance-company-stub"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:US-finance-company-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1266
+Cached time: 20171009080537
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.152 seconds
+Real time usage: 0.202 seconds
+Preprocessor visited node count: 829/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 17885/2097152 bytes
+Template argument size: 732/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 1/500
+Lua time usage: 0.073/10.000 seconds
+Lua memory usage: 2.83 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  180.398      1 -total
+ 32.70%   58.985      1 Template:More_footnotes
+ 32.01%   57.737      1 Template:Reflist
+ 26.56%   47.909      1 Template:Infobox_company
+ 22.41%   40.422      3 Template:Cite_web
+ 19.93%   35.960      1 Template:Infobox
+ 17.89%   32.268      1 Template:Ambox
+  6.73%   12.139      1 Template:US-finance-company-stub
+  5.89%   10.617      1 Template:Asbox
+  3.21%    5.793      1 Template:Br_separated_entries
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:7805559-0!canonical and timestamp 20171009080536 and revision id 787501729
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=PayScale&amp;oldid=787501729">https://en.wikipedia.org/w/index.php?title=PayScale&amp;oldid=787501729</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Online_databases" title="Category:Online databases">Online databases</a></li><li><a href="/wiki/Category:Companies_based_in_Seattle" title="Category:Companies based in Seattle">Companies based in Seattle</a></li><li><a href="/wiki/Category:2002_establishments_in_Washington_(state)" title="Category:2002 establishments in Washington (state)">2002 establishments in Washington (state)</a></li><li><a href="/wiki/Category:Privately_held_companies_based_in_Washington_(state)" title="Category:Privately held companies based in Washington (state)">Privately held companies based in Washington (state)</a></li><li><a href="/wiki/Category:Companies_established_in_2002" title="Category:Companies established in 2002">Companies established in 2002</a></li><li><a href="/wiki/Category:United_States_financial_services_company_stubs" title="Category:United States financial services company stubs">United States financial services company stubs</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_lacking_in-text_citations_from_July_2008" title="Category:Articles lacking in-text citations from July 2008">Articles lacking in-text citations from July 2008</a></li><li><a href="/wiki/Category:All_articles_lacking_in-text_citations" title="Category:All articles lacking in-text citations">All articles lacking in-text citations</a></li><li><a href="/wiki/Category:Pages_using_deprecated_image_syntax" title="Category:Pages using deprecated image syntax">Pages using deprecated image syntax</a></li><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=PayScale" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=PayScale" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/PayScale" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:PayScale" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="collapsible selected"><span><a href="/wiki/PayScale">Read</a></span></li>
+							<li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=PayScale&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=PayScale&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/PayScale" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/PayScale" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=PayScale&amp;oldid=787501729" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=PayScale&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7156560" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=PayScale&amp;id=787501729" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=PayScale">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=PayScale&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=PayScale&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/PayScale" title="PayScale – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7156560#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 25 June 2017, at 19:32.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=PayScale&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.152","walltime":"0.202","ppvisitednodes":{"value":829,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":17885,"limit":2097152},"templateargumentsize":{"value":732,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  180.398      1 -total"," 32.70%   58.985      1 Template:More_footnotes"," 32.01%   57.737      1 Template:Reflist"," 26.56%   47.909      1 Template:Infobox_company"," 22.41%   40.422      3 Template:Cite_web"," 19.93%   35.960      1 Template:Infobox"," 17.89%   32.268      1 Template:Ambox","  6.73%   12.139      1 Template:US-finance-company-stub","  5.89%   10.617      1 Template:Asbox","  3.21%    5.793      1 Template:Br_separated_entries"]},"scribunto":{"limitreport-timeusage":{"value":"0.073","limit":"10.000"},"limitreport-memusage":{"value":2970371,"limit":52428800}},"cachereport":{"origin":"mw1266","timestamp":"20171009080537","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":55,"wgHostname":"mw1254"});});</script>
+	</body>
+</html>

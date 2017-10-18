@@ -1,0 +1,960 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Ingolstadt - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Ingolstadt","wgTitle":"Ingolstadt","wgCurRevisionId":800875325,"wgRevisionId":800875325,"wgArticleId":208251,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 German-language sources (de)","CS1 Polish-language sources (pl)","Coordinates on Wikidata","Articles with hAudio microformats","Articles containing potentially dated statements from December 2014","All articles containing potentially dated statements","All articles with unsourced statements","Articles with unsourced statements from July 2014","Articles containing German-language text","Articles containing potentially dated statements from 2014","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with GND identifiers","Cities in Bavaria","Ingolstadt","Populated places on the Danube"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Ingolstadt","wgRelevantArticleId":208251,"wgRequestId":"Web0IgpAMFQAAJn8P1AAAAJH","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCoordinates":{"lat":48.766666666667,"lon":11.433333333333},"wgWikibaseItemId":"Q3004","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.3"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/e/e2/Ingolstadt.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Ingolstadt"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Ingolstadt&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Ingolstadt&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Ingolstadt"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Ingolstadt rootpage-Ingolstadt vector-experimental-print-styles vector-nav-directionality skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Ingolstadt</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox geography vcard" style="width:22em;width:23em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap"><span class="fn org"><span class="wrap">Ingolstadt</span></span></th>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Ingolstadt.jpg" class="image" title="Ingolstadt by night"><img alt="Ingolstadt by night" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ingolstadt.jpg/250px-Ingolstadt.jpg" width="250" height="156" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ingolstadt.jpg/375px-Ingolstadt.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ingolstadt.jpg/500px-Ingolstadt.jpg 2x" data-file-width="700" data-file-height="438" /></a>
+<div>Ingolstadt by night</div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" class="maptable" style="text-align:center">
+<table style="width:100%; background:none;">
+<tr>
+<td style="vertical-align:middle; text-align:center;"><a href="/wiki/File:Flagge_Ingolstadt.png" class="image" title="Flag of Ingolstadt  "><img alt="Flag of Ingolstadt  " src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flagge_Ingolstadt.png/100px-Flagge_Ingolstadt.png" width="100" height="60" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flagge_Ingolstadt.png/150px-Flagge_Ingolstadt.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flagge_Ingolstadt.png/200px-Flagge_Ingolstadt.png 2x" data-file-width="360" data-file-height="216" /></a><br />
+<small>Flag</small></td>
+<td style="vertical-align:middle; text-align:center;"><a href="/wiki/File:Wappen_Ingolstadt.svg" class="image" title="Coat of arms of Ingolstadt  "><img alt="Coat of arms of Ingolstadt  " src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Wappen_Ingolstadt.svg/66px-Wappen_Ingolstadt.svg.png" width="66" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Wappen_Ingolstadt.svg/99px-Wappen_Ingolstadt.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Wappen_Ingolstadt.svg/131px-Wappen_Ingolstadt.svg.png 2x" data-file-width="597" data-file-height="726" /></a><br />
+<small>Coat of arms</small></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center">
+<div class="center">
+<div style="width:170px;float:none;clear:both;margin-left:auto;margin-right:auto">
+<div style="width:170px;padding:0">
+<div style="position:relative;width:170px"><a href="/wiki/File:Germany_adm_location_map.svg" class="image" title="Ingolstadt   is located in Germany"><img alt="Ingolstadt   is located in Germany" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/170px-Germany_adm_location_map.svg.png" width="170" height="202" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/255px-Germany_adm_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/340px-Germany_adm_location_map.svg.png 2x" data-file-width="1073" data-file-height="1272" /></a>
+<div style="position:absolute;top:80.165%;left:59.33%">
+<div style="position:absolute;left:-3px;top:-3px;line-height:0"><img alt="Ingolstadt  " src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png" title="Ingolstadt  " width="6" height="6" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/9px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div>
+<div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:4px;text-align:left"><span style="padding:1px;float:left"><span class="wrap">Ingolstadt</span></span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr class="mergedbottomrow">
+<td colspan="2" style="text-align:center">Coordinates: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Ingolstadt&amp;params=48_46_N_11_26_E_type:city(132438)_region:DE-BY"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">48°46′N</span> <span class="longitude">11°26′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">48.767°N 11.433°E</span><span style="display:none">﻿ / <span class="geo">48.767; 11.433</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Ingolstadt&amp;params=48_46_N_11_26_E_type:city(132438)_region:DE-BY"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">48°46′N</span> <span class="longitude">11°26′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">48.767°N 11.433°E</span><span style="display:none">﻿ / <span class="geo">48.767; 11.433</span></span></span></a></span></span></span></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Country</th>
+<td><a href="/wiki/Germany" title="Germany">Germany</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/States_of_Germany" title="States of Germany">State</a></th>
+<td><a href="/wiki/Bavaria" title="Bavaria">Bavaria</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Regierungsbezirk" title="Regierungsbezirk">Admin. region</a></th>
+<td><a href="/wiki/Oberbayern_(region)" class="mw-redirect" title="Oberbayern (region)">Oberbayern</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Districts_of_Germany" title="Districts of Germany">District</a></th>
+<td><a href="/wiki/Urban_districts_of_Germany" class="mw-redirect" title="Urban districts of Germany">Urban district</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Government</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;<a href="/wiki/Lord_Mayor" class="mw-redirect" title="Lord Mayor">Lord Mayor</a></th>
+<td>Christian Lösel (<a href="/wiki/Christian_Social_Union_in_Bavaria" title="Christian Social Union in Bavaria">CSU</a>)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Area</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Total</th>
+<td>133.37&#160;km<sup>2</sup> (51.49&#160;sq&#160;mi)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Elevation</th>
+<td>374&#160;m (1,227&#160;ft)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Population <span style="font-weight:normal">(2015-12-31)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></span></th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Total</th>
+<td>132,438</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Density</th>
+<td>990/km<sup>2</sup> (2,600/sq&#160;mi)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/Time_zone" title="Time zone">Time zone</a></th>
+<td><a href="/wiki/Central_European_Time" title="Central European Time">CET</a>/<a href="/wiki/Central_European_Summer_Time" title="Central European Summer Time">CEST</a> (UTC+1/+2)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/List_of_postal_codes_in_Germany" title="List of postal codes in Germany">Postal codes</a></th>
+<td class="adr"><span class="postal-code">85049–85057</span></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/List_of_dialling_codes_in_Germany" title="List of dialling codes in Germany">Dialling codes</a></th>
+<td>0841<br />
+08450 <small>(Zuchering, Brunnenreuth)</small><br />
+08424 <small>(Irgertsheim)</small><br />
+08458 <small>(Pettenhofen/Mühlhausen/Dünzlau)</small><br />
+08459 <small>(Niederfeld)</small></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Vehicle_registration_plate" title="Vehicle registration plate">Vehicle registration</a></th>
+<td>IN</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Website</th>
+<td><a rel="nofollow" class="external text" href="http://www.ingolstadt.de/">www.ingolstadt.de</a></td>
+</tr>
+</table>
+<p><b>Ingolstadt</b> (<small>German pronunciation:</small> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA/Standard_German" title="Help:IPA/Standard German">[ˈɪŋɡɔlˌʃtat]</a></span><small class="nowrap metadata">&#160;(<span class="unicode haudio"><span class="fn"><span style="white-space:nowrap"><a href="/wiki/File:De-Ingolstadt.ogg" title="About this sound"><img alt="About this sound" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" data-file-width="20" data-file-height="20" /></a>&#160;</span><a href="//upload.wikimedia.org/wikipedia/commons/5/5e/De-Ingolstadt.ogg" class="internal" title="De-Ingolstadt.ogg">listen</a></span></span>)</small>; <small><a href="/wiki/Austro-Bavarian_language" class="mw-redirect" title="Austro-Bavarian language">Austro-Bavarian</a></small> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[ˈɪŋl̩<span style="margin-left:1px">ʃ</span>tɔːd]</span>) is a city in the Free State of <a href="/wiki/Bavaria" title="Bavaria">Bavaria</a>, in the Federal Republic of Germany. It is located along the banks of the River <a href="/wiki/Danube" title="Danube">Danube</a>, in the centre of Bavaria. As of 31 December 2014<sup class="plainlinks noprint asof-tag update" style="display:none;"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Ingolstadt&amp;action=edit">[update]</a></sup>, Ingolstadt had 131,002 citizens. It is part of the Munich Metropolitan Area, which has a total population of more than 5 million.</p>
+<p>The <i><a href="/wiki/Illuminati" title="Illuminati">Illuminati</a></i>, a Bavarian <a href="/wiki/Secret_society" title="Secret society">secret society</a>, was founded in Ingolstadt in the late 18th century.</p>
+<p>Ingolstadt is a setting in the novel <i><a href="/wiki/Frankenstein" title="Frankenstein">Frankenstein</a></i> by <a href="/wiki/Mary_Shelley" title="Mary Shelley">Mary Shelley</a>, where the scientist Victor Frankenstein creates his monster.</p>
+<p>It is the site of the headquarters of the German automobile manufacturer <a href="/wiki/Audi" title="Audi">Audi</a>, defence aircraft manufacturer <a href="/wiki/Airbus_Defence_and_Space" title="Airbus Defence and Space">Airbus</a> (formerly Cassidian Air Systems), and electronic stores <a href="/wiki/Media_Markt" title="Media Markt">Media Markt</a> and <a href="/wiki/Saturn_(store)" title="Saturn (store)">Saturn</a>.</p>
+<p><a href="/wiki/Ingolstadt_Hauptbahnhof" title="Ingolstadt Hauptbahnhof">Ingolstadt Central Station</a> has been connected to <a href="/wiki/Nuremberg" title="Nuremberg">Nuremberg</a> by a high-speed rail link since May 2006. Ingolstadt also has a second passenger station at <a href="/wiki/Ingolstadt_Nord_station" title="Ingolstadt Nord station">Ingolstadt Nord</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Geography"><span class="tocnumber">1</span> <span class="toctext">Geography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History_and_culture"><span class="tocnumber">2</span> <span class="toctext">History and culture</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Cityscape"><span class="tocnumber">3</span> <span class="toctext">Cityscape</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Main_sights"><span class="tocnumber">3.1</span> <span class="toctext">Main sights</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Parks_and_natural_areas"><span class="tocnumber">3.2</span> <span class="toctext">Parks and natural areas</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Schools"><span class="tocnumber">4</span> <span class="toctext">Schools</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Ingolstadt_School_of_Management"><span class="tocnumber">4.1</span> <span class="toctext">Ingolstadt School of Management</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#University_of_Applied_Sciences"><span class="tocnumber">4.2</span> <span class="toctext">University of Applied Sciences</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Sports"><span class="tocnumber">5</span> <span class="toctext">Sports</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Literary_references"><span class="tocnumber">6</span> <span class="toctext">Literary references</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#International_relations"><span class="tocnumber">7</span> <span class="toctext">International relations</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Organizations_and_clubs"><span class="tocnumber">8</span> <span class="toctext">Organizations and clubs</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#See_also"><span class="tocnumber">9</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#References"><span class="tocnumber">10</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#External_links"><span class="tocnumber">11</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Geography">Geography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ingolstadt&amp;action=edit&amp;section=1" title="Edit section: Geography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Covering an urban area of 133.35 square kilometres (51.49&#160;sq&#160;mi), Ingolstadt is geographically Bavaria's fourth-largest city after Munich, Nuremberg and Augsburg. At its largest point the city is about 18&#160;km (11 miles) from east to west and from north to south about 15&#160;km (9 miles). The city boundary has a length of 70&#160;km (43 miles).</p>
+<p>The city boundary is about 14&#160;km (9&#160;mi) away from the geographic centre of Bavaria in <a href="/wiki/Kipfenberg" title="Kipfenberg">Kipfenberg</a>. The old town is approximately 374 metres (1,227 feet) <a href="/wiki/Above_mean_sea_level" class="mw-redirect" title="Above mean sea level">above sea level</a> and the highest point, located in the district of Pettenhofen, is 410.87&#160;m (1,348.00&#160;ft). The lowest point of the Schutter confluence with the Danube is at 362&#160;m (1,188&#160;ft) <a href="/wiki/Above_mean_sea_level" class="mw-redirect" title="Above mean sea level">above sea level</a>. Ingolstadt uses Central European Time as throughout Germany; the average time lag is 14 minutes.</p>
+<p>The city is expanding at the northern and southern banks of the Danube in a wide flat bowl. The Ingolstadt basin borders the Jura foothills, located south and is to the north of the Donau-Isar-Hügelland. In the southwest is the Donaumoos while in the east the lowland forests of the Danube reach into the urban area. It is the second largest hardwood floodplain on the Danube. The Sandrach, the former Southern main branch of the Danube, partly forms the Southern city border. In the north, the Schutter flows through from the west reaching the Danube near to the Altstadt.</p>
+<h2><span class="mw-headline" id="History_and_culture">History and culture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ingolstadt&amp;action=edit&amp;section=2" title="Edit section: History and culture">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Altes_Rathaus_Ingolstadt.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Altes_Rathaus_Ingolstadt.JPG/220px-Altes_Rathaus_Ingolstadt.JPG" width="220" height="303" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Altes_Rathaus_Ingolstadt.JPG/330px-Altes_Rathaus_Ingolstadt.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Altes_Rathaus_Ingolstadt.JPG/440px-Altes_Rathaus_Ingolstadt.JPG 2x" data-file-width="1953" data-file-height="2691" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Altes_Rathaus_Ingolstadt.JPG" class="internal" title="Enlarge"></a></div>
+Old City Hall</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Liebfrauenm%C3%BCnster_Ingolstadt.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Liebfrauenm%C3%BCnster_Ingolstadt.JPG/220px-Liebfrauenm%C3%BCnster_Ingolstadt.JPG" width="220" height="293" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Liebfrauenm%C3%BCnster_Ingolstadt.JPG/330px-Liebfrauenm%C3%BCnster_Ingolstadt.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Liebfrauenm%C3%BCnster_Ingolstadt.JPG/440px-Liebfrauenm%C3%BCnster_Ingolstadt.JPG 2x" data-file-width="2112" data-file-height="2816" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Liebfrauenm%C3%BCnster_Ingolstadt.JPG" class="internal" title="Enlarge"></a></div>
+Church of Our Lady</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Kreuztor_Ingoldstadt.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Kreuztor_Ingoldstadt.jpg/220px-Kreuztor_Ingoldstadt.jpg" width="220" height="330" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Kreuztor_Ingoldstadt.jpg/330px-Kreuztor_Ingoldstadt.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/31/Kreuztor_Ingoldstadt.jpg/440px-Kreuztor_Ingoldstadt.jpg 2x" data-file-width="1413" data-file-height="2118" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Kreuztor_Ingoldstadt.jpg" class="internal" title="Enlarge"></a></div>
+The Kreuztor</div>
+</div>
+</div>
+<p>Ingolstadt was first mentioned in a document of <a href="/wiki/Charlemagne" title="Charlemagne">Charlemagne</a> on 6 February 806 as "Ingoldes stat", the place of Ingold. Circa 1250, Ingolstadt was granted city status.</p>
+<p>Ingolstadt was the capital of the <a href="/wiki/Bavaria-Ingolstadt" title="Bavaria-Ingolstadt">Duchy of Bavaria-Ingolstadt</a> between 1392 and 1447. Ingolstadt was then united with <a href="/wiki/Bavaria-Landshut" title="Bavaria-Landshut">Bavaria-Landshut</a>. <a href="/wiki/Louis_VII,_Duke_of_Bavaria" title="Louis VII, Duke of Bavaria">Louis VII, Duke of Bavaria</a> ordered the building of the <a href="/wiki/New_Castle_(Ingolstadt)" title="New Castle (Ingolstadt)">New Castle</a>, whose form was strongly influenced by <a href="/wiki/Gothic_architecture" title="Gothic architecture">French Gothic architecture</a>.</p>
+<p>In 1472 <a href="/wiki/Louis_IX,_Duke_of_Bavaria" title="Louis IX, Duke of Bavaria">Louis IX, Duke of Bavaria</a> founded the <a href="/wiki/University_of_Ingolstadt" title="University of Ingolstadt">University of Ingolstadt</a> which became the <a href="/wiki/Ludwig-Maximilians-Universit%C3%A4t_M%C3%BCnchen" class="mw-redirect" title="Ludwig-Maximilians-Universität München">Ludwig-Maximilians-University</a>. In 1800 it was moved to <a href="/wiki/Landshut" title="Landshut">Landshut</a> and in 1826 eventually to <a href="/wiki/Munich" title="Munich">Munich</a>. The <a href="/wiki/University_of_Ingolstadt" title="University of Ingolstadt">University of Ingolstadt</a> was an important defender of the Roman Catholic Church during the Reformation era, led by such notable scholars as <a href="/wiki/Johann_Eck" title="Johann Eck">Johann Eck</a>.</p>
+<p>Ingolstadt is where <a href="/wiki/William_IV,_Duke_of_Bavaria" title="William IV, Duke of Bavaria">William IV, Duke of Bavaria</a> wrote and signed the Bavarian <a href="/wiki/Reinheitsgebot" title="Reinheitsgebot">Reinheitsgebot</a> in 1516.</p>
+<p>In the Battle of Ingolstadt in May 1525, the <a href="/wiki/Black_Company" title="Black Company">Black Company</a> – a unit of <a href="/wiki/Franconia" title="Franconia">Franconian</a> farmers and knights fighting on the side of the peasants during the <a href="/wiki/German_Peasants%27_War" title="German Peasants' War">German Peasants' War</a> – took their <a href="/wiki/Last_stand" title="Last stand">last stand</a> at Ingolstadt against the <a href="/wiki/Swabian_League" title="Swabian League">Swabian League</a>, all eventually being defeated and killed.</p>
+<p>On 30 April 1632, the German <a href="/wiki/Field_marshal" title="Field marshal">field marshal</a> <a href="/wiki/Johann_Tserclaes,_Count_of_Tilly" title="Johann Tserclaes, Count of Tilly">Johann Tserclaes, Count of Tilly</a> died at Ingolstadt during a <a href="/wiki/Sweden" title="Sweden">Swedish</a> siege of the city. The field marshal had been badly wounded in a previous engagement with the Swedes under King <a href="/wiki/Gustavus_Adolphus" class="mw-redirect" title="Gustavus Adolphus">Gustavus Adolphus</a>. Ingolstadt proved to be the first fortress in <a href="/wiki/Catholic_League_(German)" title="Catholic League (German)">Germany</a> that held out for the entire length of the Swedish siege, and the Swedes eventually withdrew.</p>
+<p>The remains of Gustavus Adolphus' horse can be seen in the City Museum. The horse was shot from under the king by one of the cannons inside the fortress, a cannon known as "The Fig". When the Swedes withdrew, the city preserved the remains of the king's horse, eventually putting the form on display. It has remained thus for almost 400 years. In 1748, <a href="/wiki/Adam_Weishaupt" title="Adam Weishaupt">Adam Weishaupt</a>, the founder of the Order of <a href="/wiki/Illuminati" title="Illuminati">Illuminati</a>, was born in Ingolstadt. After the French invasion in 1799 the fortress was demolished and the university was relocated to <a href="/wiki/Landshut" title="Landshut">Landshut</a>.</p>
+<p>Originally a fortress city, Ingolstadt is enclosed by a <a href="/wiki/Medieval" class="mw-redirect" title="Medieval">medieval</a> defensive wall. The Bavarian fortress (1537–1930) now holds the <a rel="nofollow" class="external text" href="http://www.bayerisches-armeemuseum.de/">museum of the Bavarian army</a>. During <a href="/wiki/World_War_I" title="World War I">World War I</a>, future <a href="/wiki/France" title="France">French</a> president <a href="/wiki/Charles_de_Gaulle" title="Charles de Gaulle">Charles de Gaulle</a> was detained there as a <a href="/wiki/Prisoner_of_war" title="Prisoner of war">prisoner of war</a>. A <a href="/wiki/Sapper" title="Sapper">sappers</a>' drill ground lies next to the river, and two military air bases are located nearby, one used for testing aircraft. The long military tradition of the city is reflected in today's civil and cultural life. Former "off-limit" military training areas have been converted into well-used public parks.</p>
+<p>Adolf Scherzer composed the "Bayerischen Defiliermarsch". Mary Shelley's <i><a href="/wiki/Frankenstein" title="Frankenstein">Frankenstein</a></i> was set at the <i>Ingolstädter Alte Anatomie</i> (Old Anatomy Building), now a museum for medical history. <a href="/wiki/Marieluise_Flei%C3%9Fer" title="Marieluise Fleißer">Marieluise Fleißer</a> set her play <i><a href="/wiki/Pioneers_in_Ingolstadt" title="Pioneers in Ingolstadt">Pioneers in Ingolstadt</a></i> (1928) in the city.</p>
+<p>In 1945, the car manufacturer <a href="/wiki/Auto_Union" title="Auto Union">Auto Union</a> first arrived in the city. The company's original factories in <a href="/wiki/Chemnitz" title="Chemnitz">Chemnitz</a> and <a href="/wiki/Zwickau" title="Zwickau">Zwickau</a> (both then in Soviet controlled <a href="/wiki/East_Germany" title="East Germany">East Germany</a>) were shattered during the <a href="/wiki/Second_World_War" class="mw-redirect" title="Second World War">war</a>, and were seized by the Russians as <a href="/wiki/War_reparations" title="War reparations">reparations</a>. Auto Union executives initially started a spare parts operation in Ingolstadt in the immediate post war period, with a view to relocating the entire company to the region. With the help of <a href="/wiki/Marshall_Plan" title="Marshall Plan">Marshall Plan</a> aid, Auto Union was formally re-founded in Ingolstadt in 1949, ultimately evolving into the modern-era <a href="/wiki/Audi" title="Audi">Audi company</a>, after it was taken over by <a href="/wiki/Volkswagen" title="Volkswagen">Volkswagen</a> in 1964. Today, Audi is the region's largest employer and now dominates the economy of the city.</p>
+<table class="infobox" style="float:right;">
+<tr>
+<td colspan="2"><b>Largest groups of foreign residents</b><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></td>
+</tr>
+<tr>
+<th>Nationality</th>
+<th>Population (2017)</th>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/23px-Flag_of_Turkey.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/35px-Flag_of_Turkey.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/45px-Flag_of_Turkey.svg.png 2x" data-file-width="1200" data-file-height="800" />&#160;</span><a href="/wiki/Turkey" title="Turkey">Turkey</a></td>
+<td>5,589</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/23px-Flag_of_Romania.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/35px-Flag_of_Romania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/45px-Flag_of_Romania.svg.png 2x" data-file-width="600" data-file-height="400" />&#160;</span><a href="/wiki/Romania" title="Romania">Romania</a></td>
+<td>2,393</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_SFR_Yugoslavia.svg/23px-Flag_of_SFR_Yugoslavia.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_SFR_Yugoslavia.svg/35px-Flag_of_SFR_Yugoslavia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_SFR_Yugoslavia.svg/46px-Flag_of_SFR_Yugoslavia.svg.png 2x" data-file-width="600" data-file-height="300" />&#160;</span><a href="/wiki/Socialist_Federal_Republic_of_Yugoslavia" title="Socialist Federal Republic of Yugoslavia">Yugoslavia</a></td>
+<td>2,298</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/35px-Flag_of_Poland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/46px-Flag_of_Poland.svg.png 2x" data-file-width="1280" data-file-height="800" />&#160;</span><a href="/wiki/Poland" title="Poland">Poland</a></td>
+<td>1,592</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/23px-Flag_of_Greece.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/35px-Flag_of_Greece.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/45px-Flag_of_Greece.svg.png 2x" data-file-width="600" data-file-height="400" />&#160;</span><a href="/wiki/Greece" title="Greece">Greece</a></td>
+<td>1,134</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/wiki/Italy" title="Italy">Italy</a></td>
+<td>1,006</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/23px-Flag_of_Syria.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/35px-Flag_of_Syria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/45px-Flag_of_Syria.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Syria" title="Syria">Syria</a></td>
+<td>972</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/23px-Flag_of_Hungary.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/35px-Flag_of_Hungary.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/46px-Flag_of_Hungary.svg.png 2x" data-file-width="1200" data-file-height="600" />&#160;</span><a href="/wiki/Hungary" title="Hungary">Hungary</a></td>
+<td>814</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Cityscape">Cityscape</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ingolstadt&amp;action=edit&amp;section=3" title="Edit section: Cityscape">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Main_sights">Main sights</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ingolstadt&amp;action=edit&amp;section=4" title="Edit section: Main sights">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>As one of five ducal residences of medieval Bavaria — besides Landshut, Munich, Straubing and Burghausen — the city of Ingolstadt features many Gothic buildings, such as the <i>Herzogskasten</i> (Old ducal castle; ca. 1255) and the <a href="/wiki/New_Castle_(Ingolstadt)" title="New Castle (Ingolstadt)">New Castle</a>, which was built from 1418 onwards. The largest church is the Gothic hall church of Our Lady, which was begun in 1425. Also the churches of Saint Maurice (1235) and of the Gnadenthal and Franciscans monasteries date from the Gothic era. The <a href="/wiki/Kreuztor_(Ingolstadt)" title="Kreuztor (Ingolstadt)">Kreuztor</a> (1385) is one of the remaining gates of the old city wall. The Gothic Old City Hall was constructed in the 14th century, and later altered several times.</p>
+<p>The Baroque era is represented by the Old Anatomy Building of the university (1723–1736, designed by Gabriel de Gabrieli) and the church St. Maria de Victoria, which was built by the <a href="/wiki/Asam_brothers" title="Asam brothers">Asam brothers</a> (1732–1736). The church of the Augustinians of <a href="/wiki/Johann_Michael_Fischer" title="Johann Michael Fischer">Johann Michael Fischer</a> (1736) was completely destroyed in World War II.</p>
+<p>Many buildings of the neo-classical fortification of <a href="/wiki/Leo_von_Klenze" title="Leo von Klenze">Leo von Klenze</a> have been preserved, such as the <i>Reduit Tilly</i> and the towers <i>Baur</i> and <i>Triva</i>.</p>
+<p>As well as being the home of the headquarters of the car manufacturer <a href="/wiki/Audi" title="Audi">Audi</a>, the town is also home to Audi's <a href="/wiki/Museum_mobile" title="Museum mobile">museum mobile</a>, which is open to the public and presents historic exhibits and offers guided tours.</p>
+<h3><span class="mw-headline" id="Parks_and_natural_areas">Parks and natural areas</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ingolstadt&amp;action=edit&amp;section=5" title="Edit section: Parks and natural areas">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Ingolstadt is a green city with numerous parks, green spaces and forests. The most prominent of these is the "<a href="/wiki/Glacis" title="Glacis">Glacis</a>", formerly an open space in front of the city walls, now surrounding the historic city center. It functions as a "green belt" and a buffer area between traffic, residential areas and schools. It is possible to traverse it using spacious paths for pedestrians and cyclists, with a good view of the site of the former fortifications, including a well-preserved section of the ditch. The biggest park in the city, the <a href="/w/index.php?title=Klenzepark&amp;action=edit&amp;redlink=1" class="new" title="Klenzepark (page does not exist)">Klenzepark</a>, which contained the former <a href="/w/index.php?title=Reduit_Tilly&amp;action=edit&amp;redlink=1" class="new" title="Reduit Tilly (page does not exist)">Ingolstadt State Fortress</a>, and was the site of the <a href="/w/index.php?title=Landesgartenschau&amp;action=edit&amp;redlink=1" class="new" title="Landesgartenschau (page does not exist)">Landesgartenschau</a> in 1992, is also a part of the Glacis.</p>
+<p>The biggest forest in Ingolstadt is the Auwald ("riverside forest", also called "Schüttel"). It is found on both the northern and southern banks of the Danube, and is one of the biggest well-preserved river forests in Germany, extending mainly from Neuburg to Ingolstadt with extensions to the city center. The forest serves as a natural reserve, with parts containing unique vegetation or acting as a wildlife reserve.</p>
+<h2><span class="mw-headline" id="Schools">Schools</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ingolstadt&amp;action=edit&amp;section=6" title="Edit section: Schools">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Ingolstadt_School_of_Management">Ingolstadt School of Management</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ingolstadt&amp;action=edit&amp;section=7" title="Edit section: Ingolstadt School of Management">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Ingolstadt is home of one of <a href="/wiki/Germany" title="Germany">Germany</a>'s foremost<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2014)">citation needed</span></a></i>]</sup> business schools: the <a href="/wiki/WFI_-_Ingolstadt_School_of_Management" class="mw-redirect" title="WFI - Ingolstadt School of Management">Ingolstadt School of Management</a>. It is the department of business administration and economics of the <a href="/wiki/Catholic_University_of_Eichst%C3%A4tt-Ingolstadt" title="Catholic University of Eichstätt-Ingolstadt">Catholic University of Eichstätt-Ingolstadt</a>. In national rankings, the business school regularly scores among the top ten, which is due to its high academic quality and excellent student:professor ratio. The faculty maintains a large network of partner universities for international educational exchange.</p>
+<p>The Ingolstadt School of management offers <a href="/wiki/Bachelor%27s_degree" title="Bachelor's degree">bachelor's</a> and <a href="/wiki/Master%27s_degree" title="Master's degree">master's degrees</a> in business administration (<a href="/wiki/German_language" title="German language">German</a>: <span lang="de" xml:lang="de">BWL - Betriebswirtschaftslehre</span>). Among the academic programs offered are also an executive <a href="/wiki/MBA" class="mw-redirect" title="MBA">MBA</a> and doctoral degrees.</p>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.ku.de/Fakultaeten/WWF/">Ingolstadt School of Management</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.ku-eichstaett.de/">Catholic University of Eichstaett-Ingolstadt</a></li>
+</ul>
+<h3><span class="mw-headline" id="University_of_Applied_Sciences">University of Applied Sciences</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ingolstadt&amp;action=edit&amp;section=8" title="Edit section: University of Applied Sciences">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The University of Applied Sciences Ingolstadt is a new university for technology, computer sciences and business administration. With around 2,500 students the University is the biggest institution of learning in Ingolstadt.</p>
+<p>Several scholarship programmes supported by companies such as Siemens and Temic provide gifted students with financial assistance during their studies. These students deepen their practical experience by working at these organizations.</p>
+<p>The University of Applied Sciences Ingolstadt offers several undergraduate and graduate programmes. Every programme is listed under the top 25 in Germany.</p>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.thi.de/">University of Applied Sciences Ingolstadt</a></li>
+</ul>
+<h2><span class="mw-headline" id="Sports">Sports</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ingolstadt&amp;action=edit&amp;section=9" title="Edit section: Sports">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The sports life of the city is based on the 83 registered sports clubs. The biggest sports club is the <a href="/wiki/MTV_Ingolstadt" title="MTV Ingolstadt">MTV 1881 Ingolstadt</a>, with over 3000 registered members in 16 branches. In total, the sports clubs in Ingolstadt have more than 41,000 members.</p>
+<p>Ingolstadt is especially known for <a href="/wiki/Ice_hockey" title="Ice hockey">ice hockey</a> and <a href="/wiki/Association_football" title="Association football">association football</a>. <a href="/wiki/ERC_Ingolstadt" title="ERC Ingolstadt">ERC Ingolstadt</a>, founded in 1964, plays in the <a href="/wiki/Deutsche_Eishockey_Liga" title="Deutsche Eishockey Liga">German Ice Hockey League</a> since the 2002-03 season. With the exception of its season of debut and 2007–08, the club has reached the national play-offs every year as of 2014<sup class="plainlinks noprint asof-tag update" style="display:none;"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Ingolstadt&amp;action=edit">[update]</a></sup>, and has reached the semi-finals three times. They won the German Ice Hockey League Championship in 2014.</p>
+<p>The football club <a href="/wiki/FC_Ingolstadt_04" title="FC Ingolstadt 04">FC Ingolstadt 04</a> came into existence in 2004 after the merger of the football branches of MTV Ingolstadt and ESV Ingolstadt. In the 2007-08 season, it was promoted from the third highest division at the time, <a href="/wiki/Regionalliga_S%C3%BCd_(1994%E2%80%932012)" title="Regionalliga Süd (1994–2012)">Regionalliga Süd</a> to <a href="/wiki/2._Bundesliga" title="2. Bundesliga">2. Bundesliga</a>. In the 2008-09 season, it was relegated at the penultimate place, but was promoted again in 2010-11 and remained in 2. Bundesliga till 2015. In 2015, Ingolstadt won the 2. Bundesliga and were promoted to the country's highest league, the <a href="/wiki/Bundesliga" title="Bundesliga">Bundesliga</a>. During their first season in the Bundesliga, Ingolstadt finished in 11th place. They were relegated to 2. Bundesliga by the end of the 2016-17 season.</p>
+<h2><span class="mw-headline" id="Literary_references">Literary references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ingolstadt&amp;action=edit&amp;section=10" title="Edit section: Literary references">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Ingolstadt is one of the many settings in Mary Shelley's novel <i><a href="/wiki/Frankenstein" title="Frankenstein">Frankenstein</a></i>. Primarily, Victor Frankenstein attends university in Ingolstadt. The musical version of the novel, <a href="/wiki/Frankenstein_-_A_New_Musical" class="mw-redirect" title="Frankenstein - A New Musical">Frankenstein - A New Musical</a> has many scenes set in Ingolstadt.</p>
+<p>Ingolstadt is also a pivotal location in <i><a href="/wiki/The_Illuminatus!_Trilogy" title="The Illuminatus! Trilogy">The Illuminatus! Trilogy</a></i> by <a href="/wiki/Robert_Shea" title="Robert Shea">Robert Shea</a> and <a href="/wiki/Robert_Anton_Wilson" title="Robert Anton Wilson">Robert Anton Wilson</a>.</p>
+<p>Dr. <a href="/wiki/Faust" title="Faust">Faust</a> is mentioned in an old and short local tale.</p>
+<p>The sixth scene of "<a href="/wiki/Mother_Courage_and_Her_Children" title="Mother Courage and Her Children">Mother Courage and Her Children</a>" by "<a href="/wiki/Bertolt_Brecht" title="Bertolt Brecht">Bertolt Brecht</a>" is set in Ingolstadt, when count Tilly died in 1632, during the "<a href="/wiki/Thirty_Years_War" class="mw-redirect" title="Thirty Years War">Thirty Years War</a>"</p>
+<p><a href="/wiki/Rainer_Werner_Fassbinder" title="Rainer Werner Fassbinder">Rainer Werner Fassbinder</a>'s 1971 film <a href="/wiki/Pioneers_in_Ingolstadt" title="Pioneers in Ingolstadt">Pioneers in Ingolstadt</a> is set in the town.</p>
+<p><i><a href="/wiki/The_X-Files" title="The X-Files">The X-Files</a></i> episode "The Post-Modern Prometheus" makes a reference to the <a href="/wiki/University_of_Ingolstadt" title="University of Ingolstadt">University of Ingolstadt</a>. This was an allusion to <i>Frankenstein</i>, as the episode was filled with Frankenstein references, and the full title of <i>Frankenstein</i> is actually <i>"Frankenstein: or, The Modern Prometheus"</i> (also see: <a href="/wiki/Prometheus" title="Prometheus">Prometheus</a>).</p>
+<h2><span class="mw-headline" id="International_relations">International relations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ingolstadt&amp;action=edit&amp;section=11" title="Edit section: International relations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/List_of_twin_towns_and_sister_cities_in_Germany" title="List of twin towns and sister cities in Germany">List of twin towns and sister cities in Germany</a></div>
+<p>Several other cities are sister cities to Ingolstadt:</p>
+<table class="wikitable">
+<tr valign="top">
+<td>
+<ul>
+<li><span class="flagicon"><a href="/wiki/Hungary" title="Hungary"><img alt="Hungary" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/23px-Flag_of_Hungary.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/35px-Flag_of_Hungary.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/46px-Flag_of_Hungary.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Gy%C5%91r" title="Győr">Győr</a>, Hungary</li>
+<li><span class="flagicon"><a href="/wiki/Scotland" title="Scotland"><img alt="Scotland" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/23px-Flag_of_Scotland.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/35px-Flag_of_Scotland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/46px-Flag_of_Scotland.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Kirkcaldy" title="Kirkcaldy">Kirkcaldy</a>, <a href="/wiki/Fife" title="Fife">Fife</a>, <a href="/wiki/Scotland" title="Scotland">Scotland</a></li>
+<li><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Grasse" title="Grasse">Grasse</a>, <a href="/wiki/Provence-Alpes-C%C3%B4te_d%27Azur" title="Provence-Alpes-Côte d'Azur">PACA</a>, France</li>
+</ul>
+</td>
+<td>
+<ul>
+<li><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Carrara" title="Carrara">Carrara</a>, <a href="/wiki/Tuscany" title="Tuscany">Tuscany</a>, Italy</li>
+<li><span class="flagicon"><a href="/wiki/Serbia" title="Serbia"><img alt="Serbia" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/23px-Flag_of_Serbia.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/35px-Flag_of_Serbia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/45px-Flag_of_Serbia.svg.png 2x" data-file-width="1350" data-file-height="900" /></a></span> <a href="/wiki/Kragujevac" title="Kragujevac">Kragujevac</a>, Serbia</li>
+<li><span class="flagicon"><a href="/wiki/Turkey" title="Turkey"><img alt="Turkey" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/23px-Flag_of_Turkey.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/35px-Flag_of_Turkey.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/45px-Flag_of_Turkey.svg.png 2x" data-file-width="1200" data-file-height="800" /></a></span> <a href="/wiki/Manisa" title="Manisa">Manisa</a>, Turkey</li>
+</ul>
+</td>
+<td>
+<ul>
+<li><span class="flagicon"><a href="/wiki/Poland" title="Poland"><img alt="Poland" src="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/35px-Flag_of_Poland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/46px-Flag_of_Poland.svg.png 2x" data-file-width="1280" data-file-height="800" /></a></span> <a href="/wiki/Opole" title="Opole">Opole</a>, Poland <sup id="cite_ref-Opole_twinnings_3-0" class="reference"><a href="#cite_note-Opole_twinnings-3">[3]</a></sup></li>
+<li><span class="flagicon"><a href="/wiki/Russia" title="Russia"><img alt="Russia" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/35px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/45px-Flag_of_Russia.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Moscow" title="Moscow">Moscow</a>, <a href="/wiki/Central_Administrative_Okrug" title="Central Administrative Okrug">Central Administrative Okrug</a>, Russia</li>
+<li><span class="flagicon"><a href="/wiki/Slovenia" title="Slovenia"><img alt="Slovenia" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/23px-Flag_of_Slovenia.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/35px-Flag_of_Slovenia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/46px-Flag_of_Slovenia.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Murska_Sobota" title="Murska Sobota">Murska Sobota</a>, Slovenia</li>
+<li><span class="flagicon"><a href="/wiki/China" title="China"><img alt="China" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Foshan" title="Foshan">Foshan</a>, <a href="/wiki/Guangdong" title="Guangdong">Guangdong</a>, China (since 2013)<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Organizations_and_clubs">Organizations and clubs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ingolstadt&amp;action=edit&amp;section=12" title="Edit section: Organizations and clubs">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/MTV_Ingolstadt" title="MTV Ingolstadt">MTV 1881 Ingolstadt</a>, Ingolstadt's major sports club</li>
+<li><a href="/wiki/FC_Ingolstadt_04" title="FC Ingolstadt 04">FC Ingolstadt 04</a>, <a href="/wiki/Soccer" class="mw-redirect" title="Soccer">Footballclub</a> in <a href="/wiki/1._Fu%C3%9Fball-Bundesliga" class="mw-redirect" title="1. Fußball-Bundesliga">Bundesliga</a> (I)</li>
+<li><a href="/w/index.php?title=Gr%C3%BCn-Wei%C3%9F_Ingolstadt&amp;action=edit&amp;redlink=1" class="new" title="Grün-Weiß Ingolstadt (page does not exist)">Grün-Weiß Ingolstadt</a>, <a href="/wiki/Soccer" class="mw-redirect" title="Soccer">Footballclub</a> in Kreisklasse (IX)</li>
+<li>Ingolstadt Schanzer, Baseball team in <a href="/wiki/Bundesliga_(baseball)" title="Bundesliga (baseball)">2. Bundesliga</a> (II)</li>
+<li><a href="/wiki/ERC_Ingolstadt" title="ERC Ingolstadt">ERC Ingolstadt</a>, <a href="/wiki/Ice_hockey" title="Ice hockey">Ice hockey</a> team in <a href="/wiki/Deutsche_Eishockey_Liga" title="Deutsche Eishockey Liga">DEL</a> (I)</li>
+<li>The <a href="/wiki/Bavarian_Illuminati" class="mw-redirect" title="Bavarian Illuminati">Bavarian Illuminati</a></li>
+<li><a href="/wiki/Ingolstadt_Dukes" title="Ingolstadt Dukes">Ingolstadt Dukes</a> <a href="/wiki/American_football" title="American football">American football</a> in <a href="/wiki/German_Football_League" title="German Football League">GFL</a> (I)</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ingolstadt&amp;action=edit&amp;section=13" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/University_of_Ingolstadt" title="University of Ingolstadt">University of Ingolstadt</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ingolstadt&amp;action=edit&amp;section=14" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.statistikdaten.bayern.de/genesis/online?sequenz=tabelleErgebnis&amp;selectionname=12411-001">"Fortschreibung des Bevölkerungsstandes"</a>. <i><a href="/wiki/Bayerisches_Landesamt_f%C3%BCr_Statistik_und_Datenverarbeitung" class="mw-redirect" title="Bayerisches Landesamt für Statistik und Datenverarbeitung">Bayerisches Landesamt für Statistik und Datenverarbeitung</a></i> (in German). June 2016.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIngolstadt&amp;rft.atitle=Fortschreibung+des+Bev%C3%B6lkerungsstandes&amp;rft.date=2016-06&amp;rft.genre=unknown&amp;rft.jtitle=Bayerisches+Landesamt+f%C3%BCr+Statistik+und+Datenverarbeitung&amp;rft_id=https%3A%2F%2Fwww.statistikdaten.bayern.de%2Fgenesis%2Fonline%3Fsequenz%3DtabelleErgebnis%26selectionname%3D12411-001&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www2.ingolstadt.de/media/custom/465_1978_1.PDF?1414754753">"Bevölkerung"</a> [Population] <span style="font-size:85%;">(pdf)</span> (in German). Stadt Ingolstadt. pp.&#160;34–38<span class="reference-accessdate">. Retrieved <span class="nowrap">21 July</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIngolstadt&amp;rft.btitle=Bev%C3%B6lkerung&amp;rft.genre=unknown&amp;rft.pages=34-38&amp;rft.pub=Stadt+Ingolstadt&amp;rft_id=http%3A%2F%2Fwww2.ingolstadt.de%2Fmedia%2Fcustom%2F465_1978_1.PDF%3F1414754753&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Opole_twinnings-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Opole_twinnings_3-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20130801203953/http://www.opole.pl/miasta_partnerskie_opola">"Miasta Partnerskie Opola"</a>. <i>Urzad Miasta Opola</i> (in Polish). Archived from <a rel="nofollow" class="external text" href="http://www.opole.pl/miasta_partnerskie_opola">the original</a> on 2013-08-01<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-08-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIngolstadt&amp;rft.atitle=Miasta+Partnerskie+Opola&amp;rft.genre=unknown&amp;rft.jtitle=Urzad+Miasta+Opola&amp;rft_id=http%3A%2F%2Fwww.opole.pl%2Fmiasta_partnerskie_opola&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www2.ingolstadt.de/index.phtml?object=tx%7C1842.55.1&amp;NavID=1842.86&amp;Aktuell_ID=13449">http://www2.ingolstadt.de/index.phtml?object=tx%7C1842.55.1&amp;NavID=1842.86&amp;Aktuell_ID=13449</a></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.augsburger-allgemeine.de/neuburg/Ingolstadt-und-Foshan-id27503787.html">http://www.augsburger-allgemeine.de/neuburg/Ingolstadt-und-Foshan-id27503787.html</a></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ingolstadt&amp;action=edit&amp;section=15" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Ingolstadt" class="extiw" title="commons:Category:Ingolstadt">Ingolstadt</a></b></i>.</td>
+</tr>
+</table>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/40px-Wikivoyage-Logo-v3-icon.svg.png" width="40" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/60px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/80px-Wikivoyage-Logo-v3-icon.svg.png 2x" data-file-width="193" data-file-height="193" /></td>
+<td class="mbox-text plainlist">Wikivoyage has a travel guide for <i><b><a href="https://en.wikivoyage.org/wiki/Ingolstadt#Q3004" class="extiw" title="wikivoyage:Ingolstadt">Ingolstadt</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.ingolstadt.de/">Ingolstadt</a> Official website of the city (in German)</li>
+<li><a rel="nofollow" class="external text" href="http://panoramen-ingolstadt.bayern-online.de/">Virtual tour through Ingolstadt</a> (in German, but more images than text)</li>
+<li><a rel="nofollow" class="external text" href="http://www.ku-eichstaett.de/en/">Catholic University Eichstätt-Ingolstadt</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.fh-ingolstadt.de/">University of Applied Sciences (Fachhochschule)</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.bayerisches-armeemuseum.de/">Museum of the Bavarian Army</a> (in German)</li>
+<li><a rel="nofollow" class="external text" href="http://www.audi.com/">Audi</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.bingo-ev.de/~ks451/ingolsta/index.html">A history of Ingolstadt by Kurt Scheurer</a> (in German)</li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20051204174219/http://www.suhrkamp.de/autoren/fleisser/fleisser_bio.htm">A biography of Marieluise Fleißer</a> (in German)</li>
+<li><a rel="nofollow" class="external text" href="http://www.deutsches-filmhaus.de/filme_einzeln/f_einzeln/fassbinder/fassbinder_m-p/pioniere.htm"><i>Pioniere in Ingolstadt</i> by Marieluise Fleißer</a> (in</li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Cities_in_Germany_by_population" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Cities_in_Germany" title="Template:Cities in Germany"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Cities_in_Germany" title="Template talk:Cities in Germany"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cities_in_Germany&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Cities_in_Germany_by_population" style="font-size:114%;margin:0 4em">Cities in Germany by population</div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">1,000,000+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Berlin" title="Berlin">Berlin</a></li>
+<li><a href="/wiki/Cologne" title="Cologne">Cologne</a></li>
+<li><a href="/wiki/Hamburg" title="Hamburg">Hamburg</a></li>
+<li><a href="/wiki/Munich" title="Munich">Munich</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">500,000+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bremen" title="Bremen">Bremen</a></li>
+<li><a href="/wiki/Dortmund" title="Dortmund">Dortmund</a></li>
+<li><a href="/wiki/Dresden" title="Dresden">Dresden</a></li>
+<li><a href="/wiki/D%C3%BCsseldorf" title="Düsseldorf">Düsseldorf</a></li>
+<li><a href="/wiki/Essen" title="Essen">Essen</a></li>
+<li><a href="/wiki/Frankfurt" title="Frankfurt">Frankfurt</a></li>
+<li><a href="/wiki/Hanover" title="Hanover">Hanover</a></li>
+<li><a href="/wiki/Leipzig" title="Leipzig">Leipzig</a></li>
+<li><a href="/wiki/Nuremberg" title="Nuremberg">Nuremberg</a></li>
+<li><a href="/wiki/Stuttgart" title="Stuttgart">Stuttgart</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">200,000+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aachen" title="Aachen">Aachen</a></li>
+<li><a href="/wiki/Augsburg" title="Augsburg">Augsburg</a></li>
+<li><a href="/wiki/Bielefeld" title="Bielefeld">Bielefeld</a></li>
+<li><a href="/wiki/Bochum" title="Bochum">Bochum</a></li>
+<li><a href="/wiki/Bonn" title="Bonn">Bonn</a></li>
+<li><a href="/wiki/Braunschweig" title="Braunschweig">Braunschweig</a></li>
+<li><a href="/wiki/Chemnitz" title="Chemnitz">Chemnitz</a></li>
+<li><a href="/wiki/Duisburg" title="Duisburg">Duisburg</a></li>
+<li><a href="/wiki/Erfurt" title="Erfurt">Erfurt</a></li>
+<li><a href="/wiki/Freiburg_im_Breisgau" title="Freiburg im Breisgau">Freiburg im Breisgau</a></li>
+<li><a href="/wiki/Gelsenkirchen" title="Gelsenkirchen">Gelsenkirchen</a></li>
+<li><a href="/wiki/Halle_(Saale)" title="Halle (Saale)">Halle (Saale)</a></li>
+<li><a href="/wiki/Karlsruhe" title="Karlsruhe">Karlsruhe</a></li>
+<li><a href="/wiki/Kiel" title="Kiel">Kiel</a></li>
+<li><a href="/wiki/Krefeld" title="Krefeld">Krefeld</a></li>
+<li><a href="/wiki/L%C3%BCbeck" title="Lübeck">Lübeck</a></li>
+<li><a href="/wiki/Magdeburg" title="Magdeburg">Magdeburg</a></li>
+<li><a href="/wiki/Mainz" title="Mainz">Mainz</a></li>
+<li><a href="/wiki/Mannheim" title="Mannheim">Mannheim</a></li>
+<li><a href="/wiki/M%C3%BCnster" title="Münster">Münster</a></li>
+<li><a href="/wiki/M%C3%B6nchengladbach" title="Mönchengladbach">Mönchengladbach</a></li>
+<li><a href="/wiki/Oberhausen" title="Oberhausen">Oberhausen</a></li>
+<li><a href="/wiki/Rostock" title="Rostock">Rostock</a></li>
+<li><a href="/wiki/Wiesbaden" title="Wiesbaden">Wiesbaden</a></li>
+<li><a href="/wiki/Wuppertal" title="Wuppertal">Wuppertal</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">100,000+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bergisch_Gladbach" title="Bergisch Gladbach">Bergisch Gladbach</a></li>
+<li><a href="/wiki/Bottrop" title="Bottrop">Bottrop</a></li>
+<li><a href="/wiki/Bremerhaven" title="Bremerhaven">Bremerhaven</a></li>
+<li><a href="/wiki/Cottbus" title="Cottbus">Cottbus</a></li>
+<li><a href="/wiki/Darmstadt" title="Darmstadt">Darmstadt</a></li>
+<li><a href="/wiki/Erlangen" title="Erlangen">Erlangen</a></li>
+<li><a href="/wiki/F%C3%BCrth" title="Fürth">Fürth</a></li>
+<li><a href="/wiki/G%C3%B6ttingen" title="Göttingen">Göttingen</a></li>
+<li><a href="/wiki/Hagen" title="Hagen">Hagen</a></li>
+<li><a href="/wiki/Hamm" title="Hamm">Hamm</a></li>
+<li><a href="/wiki/Heidelberg" title="Heidelberg">Heidelberg</a></li>
+<li><a href="/wiki/Heilbronn" title="Heilbronn">Heilbronn</a></li>
+<li><a href="/wiki/Herne,_North_Rhine-Westphalia" title="Herne, North Rhine-Westphalia">Herne</a></li>
+<li><a href="/wiki/Hildesheim" title="Hildesheim">Hildesheim</a></li>
+<li><a class="mw-selflink selflink">Ingolstadt</a></li>
+<li><a href="/wiki/Jena" title="Jena">Jena</a></li>
+<li><a href="/wiki/Kassel" title="Kassel">Kassel</a></li>
+<li><a href="/wiki/Koblenz" title="Koblenz">Koblenz</a></li>
+<li><a href="/wiki/Leverkusen" title="Leverkusen">Leverkusen</a></li>
+<li><a href="/wiki/Ludwigshafen" title="Ludwigshafen">Ludwigshafen</a></li>
+<li><a href="/wiki/Moers" title="Moers">Moers</a></li>
+<li><a href="/wiki/M%C3%BClheim" title="Mülheim">Mülheim an der Ruhr</a></li>
+<li><a href="/wiki/Neuss" title="Neuss">Neuss</a></li>
+<li><a href="/wiki/Offenbach_am_Main" title="Offenbach am Main">Offenbach am Main</a></li>
+<li><a href="/wiki/Oldenburg_(Oldenburg)" class="mw-redirect" title="Oldenburg (Oldenburg)">Oldenburg</a></li>
+<li><a href="/wiki/Osnabr%C3%BCck" title="Osnabrück">Osnabrück</a></li>
+<li><a href="/wiki/Paderborn" title="Paderborn">Paderborn</a></li>
+<li><a href="/wiki/Pforzheim" title="Pforzheim">Pforzheim</a></li>
+<li><a href="/wiki/Potsdam" title="Potsdam">Potsdam</a></li>
+<li><a href="/wiki/Recklinghausen" title="Recklinghausen">Recklinghausen</a></li>
+<li><a href="/wiki/Regensburg" title="Regensburg">Regensburg</a></li>
+<li><a href="/wiki/Remscheid" title="Remscheid">Remscheid</a></li>
+<li><a href="/wiki/Reutlingen" title="Reutlingen">Reutlingen</a></li>
+<li><a href="/wiki/Saarbr%C3%BCcken" title="Saarbrücken">Saarbrücken</a></li>
+<li><a href="/wiki/Salzgitter" title="Salzgitter">Salzgitter</a></li>
+<li><a href="/wiki/Siegen" title="Siegen">Siegen</a></li>
+<li><a href="/wiki/Solingen" title="Solingen">Solingen</a></li>
+<li><a href="/wiki/Trier" title="Trier">Trier</a></li>
+<li><a href="/wiki/Ulm" title="Ulm">Ulm</a></li>
+<li><a href="/wiki/Wolfsburg" title="Wolfsburg">Wolfsburg</a></li>
+<li><a href="/wiki/W%C3%BCrzburg" title="Würzburg">Würzburg</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/List_of_cities_and_towns_in_Germany" title="List of cities and towns in Germany">complete list</a></li>
+<li><a href="/wiki/List_of_municipalities_in_Germany" title="List of municipalities in Germany">municipalities</a></li>
+<li><a href="/wiki/Metropolitan_regions_in_Germany" title="Metropolitan regions in Germany">metropolitan regions</a></li>
+<li><a href="/wiki/List_of_cities_in_Germany_by_population" title="List of cities in Germany by population">cities with more than 100,000 inhabitants</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="border.7C30px.7CFlag_of_Bavaria_Urban_and_rural_districts_in_the_Free_State_of_Bavaria_in_Germany_border.7C30px.7CFlag_of_Germany" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Germany_districts_Bavaria" title="Template:Germany districts Bavaria"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Germany_districts_Bavaria" title="Template talk:Germany districts Bavaria"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Germany_districts_Bavaria&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="border.7C30px.7CFlag_of_Bavaria_Urban_and_rural_districts_in_the_Free_State_of_Bavaria_in_Germany_border.7C30px.7CFlag_of_Germany" style="font-size:114%;margin:0 4em"><a href="/wiki/File:Flag_of_Bavaria_(lozengy).svg" class="image" title="Flag of Bavaria"><img alt="Flag of Bavaria" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Bavaria_%28lozengy%29.svg/30px-Flag_of_Bavaria_%28lozengy%29.svg.png" width="30" height="18" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Bavaria_%28lozengy%29.svg/45px-Flag_of_Bavaria_%28lozengy%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Bavaria_%28lozengy%29.svg/60px-Flag_of_Bavaria_%28lozengy%29.svg.png 2x" data-file-width="1000" data-file-height="600" /></a> Urban and rural districts in the <a href="/wiki/Bavaria" title="Bavaria">Free State of Bavaria</a> in Germany <a href="/wiki/File:Flag_of_Germany.svg" class="image" title="Flag of Germany"><img alt="Flag of Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/30px-Flag_of_Germany.svg.png" width="30" height="18" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/45px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/60px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Urban<br />
+districts</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Amberg" title="Amberg">Amberg</a></li>
+<li><a href="/wiki/Ansbach" title="Ansbach">Ansbach</a></li>
+<li><a href="/wiki/Aschaffenburg" title="Aschaffenburg">Aschaffenburg</a></li>
+<li><a href="/wiki/Augsburg" title="Augsburg">Augsburg</a></li>
+<li><a href="/wiki/Bamberg" title="Bamberg">Bamberg</a></li>
+<li><a href="/wiki/Bayreuth" title="Bayreuth">Bayreuth</a></li>
+<li><a href="/wiki/Coburg" title="Coburg">Coburg</a></li>
+<li><a href="/wiki/Erlangen" title="Erlangen">Erlangen</a></li>
+<li><a href="/wiki/F%C3%BCrth" title="Fürth">Fürth</a></li>
+<li><a href="/wiki/Hof,_Bavaria" title="Hof, Bavaria">Hof</a></li>
+<li><a class="mw-selflink selflink">Ingolstadt</a></li>
+<li><a href="/wiki/Kaufbeuren" title="Kaufbeuren">Kaufbeuren</a></li>
+<li><a href="/wiki/Kempten" title="Kempten">Kempten</a></li>
+<li><a href="/wiki/Landshut" title="Landshut">Landshut</a></li>
+<li><a href="/wiki/Memmingen" title="Memmingen">Memmingen</a></li>
+<li><a href="/wiki/Munich" title="Munich">München (<i>Munich</i>)</a></li>
+<li><a href="/wiki/Nuremberg" title="Nuremberg">Nürnberg (<i>Nuremberg</i>)</a></li>
+<li><a href="/wiki/Passau" title="Passau">Passau</a></li>
+<li><a href="/wiki/Regensburg" title="Regensburg">Regensburg</a></li>
+<li><a href="/wiki/Rosenheim" title="Rosenheim">Rosenheim</a></li>
+<li><a href="/wiki/Schwabach" title="Schwabach">Schwabach</a></li>
+<li><a href="/wiki/Schweinfurt" title="Schweinfurt">Schweinfurt</a></li>
+<li><a href="/wiki/Straubing" title="Straubing">Straubing</a></li>
+<li><a href="/wiki/Weiden_in_der_Oberpfalz" title="Weiden in der Oberpfalz">Weiden</a></li>
+<li><a href="/wiki/W%C3%BCrzburg" title="Würzburg">Würzburg</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Rural<br />
+districts</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aichach-Friedberg" title="Aichach-Friedberg">Aichach-Friedberg</a></li>
+<li><a href="/wiki/Alt%C3%B6tting_(district)" title="Altötting (district)">Altötting</a></li>
+<li><a href="/wiki/Amberg-Sulzbach" title="Amberg-Sulzbach">Amberg-Sulzbach</a></li>
+<li><a href="/wiki/Ansbach_(district)" title="Ansbach (district)">Ansbach</a></li>
+<li><a href="/wiki/Aschaffenburg_(district)" title="Aschaffenburg (district)">Aschaffenburg</a></li>
+<li><a href="/wiki/Augsburg_(district)" title="Augsburg (district)">Augsburg</a></li>
+<li><a href="/wiki/Bad_Kissingen_(district)" title="Bad Kissingen (district)">Bad Kissingen</a></li>
+<li><a href="/wiki/Bad_T%C3%B6lz-Wolfratshausen" title="Bad Tölz-Wolfratshausen">Bad Tölz-Wolfratshausen</a></li>
+<li><a href="/wiki/Bamberg_(district)" title="Bamberg (district)">Bamberg</a></li>
+<li><a href="/wiki/Bayreuth_(district)" title="Bayreuth (district)">Bayreuth</a></li>
+<li><a href="/wiki/Berchtesgadener_Land" title="Berchtesgadener Land">Berchtesgadener Land</a></li>
+<li><a href="/wiki/Cham_(district)" title="Cham (district)">Cham</a></li>
+<li><a href="/wiki/Coburg_(district)" title="Coburg (district)">Coburg</a></li>
+<li><a href="/wiki/Dachau_(district)" title="Dachau (district)">Dachau</a></li>
+<li><a href="/wiki/Deggendorf_(district)" title="Deggendorf (district)">Deggendorf</a></li>
+<li><a href="/wiki/Dillingen_(district)" title="Dillingen (district)">Dillingen</a></li>
+<li><a href="/wiki/Dingolfing-Landau" title="Dingolfing-Landau">Dingolfing-Landau</a></li>
+<li><a href="/wiki/Donau-Ries" title="Donau-Ries">Donau-Ries</a></li>
+<li><a href="/wiki/Ebersberg_(district)" title="Ebersberg (district)">Ebersberg</a></li>
+<li><a href="/wiki/Eichst%C3%A4tt_(district)" title="Eichstätt (district)">Eichstätt</a></li>
+<li><a href="/wiki/Erding_(district)" title="Erding (district)">Erding</a></li>
+<li><a href="/wiki/Erlangen-H%C3%B6chstadt" title="Erlangen-Höchstadt">Erlangen-Höchstadt</a></li>
+<li><a href="/wiki/Forchheim_(district)" title="Forchheim (district)">Forchheim</a></li>
+<li><a href="/wiki/Freising_(district)" title="Freising (district)">Freising</a></li>
+<li><a href="/wiki/Freyung-Grafenau" title="Freyung-Grafenau">Freyung-Grafenau</a></li>
+<li><a href="/wiki/F%C3%BCrstenfeldbruck_(district)" title="Fürstenfeldbruck (district)">Fürstenfeldbruck</a></li>
+<li><a href="/wiki/F%C3%BCrth_(district)" title="Fürth (district)">Fürth</a></li>
+<li><a href="/wiki/Garmisch-Partenkirchen_(district)" title="Garmisch-Partenkirchen (district)">Garmisch-Partenkirchen</a></li>
+<li><a href="/wiki/G%C3%BCnzburg_(district)" title="Günzburg (district)">Günzburg</a></li>
+<li><a href="/wiki/Ha%C3%9Fberge_(district)" title="Haßberge (district)">Haßberge</a></li>
+<li><a href="/wiki/Hof_(district)" title="Hof (district)">Hof</a></li>
+<li><a href="/wiki/Kelheim_(district)" title="Kelheim (district)">Kelheim</a></li>
+<li><a href="/wiki/Kitzingen_(district)" title="Kitzingen (district)">Kitzingen</a></li>
+<li><a href="/wiki/Kronach_(district)" title="Kronach (district)">Kronach</a></li>
+<li><a href="/wiki/Kulmbach_(district)" title="Kulmbach (district)">Kulmbach</a></li>
+<li><a href="/wiki/Landsberg_(district)" title="Landsberg (district)">Landsberg</a></li>
+<li><a href="/wiki/Landshut_(district)" title="Landshut (district)">Landshut</a></li>
+<li><a href="/wiki/Lichtenfels_(district)" title="Lichtenfels (district)">Lichtenfels</a></li>
+<li><a href="/wiki/Lindau_(district)" title="Lindau (district)">Lindau</a></li>
+<li><a href="/wiki/Main-Spessart" title="Main-Spessart">Main-Spessart</a></li>
+<li><a href="/wiki/Miesbach_(district)" title="Miesbach (district)">Miesbach</a></li>
+<li><a href="/wiki/Miltenberg_(district)" title="Miltenberg (district)">Miltenberg</a></li>
+<li><a href="/wiki/M%C3%BChldorf_(district)" title="Mühldorf (district)">Mühldorf</a></li>
+<li><a href="/wiki/Munich_(district)" title="Munich (district)">München (<i>Munich</i>)</a></li>
+<li><a href="/wiki/Neuburg-Schrobenhausen" title="Neuburg-Schrobenhausen">Neuburg-Schrobenhausen</a></li>
+<li><a href="/wiki/Neumarkt_(district)" title="Neumarkt (district)">Neumarkt</a></li>
+<li><a href="/wiki/Neustadt_(Aisch)-Bad_Windsheim" title="Neustadt (Aisch)-Bad Windsheim">Neustadt (Aisch)-Bad Windsheim</a></li>
+<li><a href="/wiki/Neustadt_an_der_Waldnaab_(district)" title="Neustadt an der Waldnaab (district)">Neustadt an der Waldnaab</a></li>
+<li><a href="/wiki/Neu-Ulm_(district)" title="Neu-Ulm (district)">Neu-Ulm</a></li>
+<li><a href="/wiki/N%C3%BCrnberger_Land" title="Nürnberger Land">Nürnberger Land</a></li>
+<li><a href="/wiki/Oberallg%C3%A4u" title="Oberallgäu">Oberallgäu</a></li>
+<li><a href="/wiki/Ostallg%C3%A4u" title="Ostallgäu">Ostallgäu</a></li>
+<li><a href="/wiki/Passau_(district)" title="Passau (district)">Passau</a></li>
+<li><a href="/wiki/Pfaffenhofen_(district)" title="Pfaffenhofen (district)">Pfaffenhofen</a></li>
+<li><a href="/wiki/Regen_(district)" title="Regen (district)">Regen</a></li>
+<li><a href="/wiki/Regensburg_(district)" title="Regensburg (district)">Regensburg</a></li>
+<li><a href="/wiki/Rh%C3%B6n-Grabfeld" title="Rhön-Grabfeld">Rhön-Grabfeld</a></li>
+<li><a href="/wiki/Rosenheim_(district)" title="Rosenheim (district)">Rosenheim</a></li>
+<li><a href="/wiki/Roth_(district)" title="Roth (district)">Roth</a></li>
+<li><a href="/wiki/Rottal-Inn" title="Rottal-Inn">Rottal-Inn</a></li>
+<li><a href="/wiki/Schwandorf_(district)" title="Schwandorf (district)">Schwandorf</a></li>
+<li><a href="/wiki/Schweinfurt_(district)" title="Schweinfurt (district)">Schweinfurt</a></li>
+<li><a href="/wiki/Starnberg_(district)" title="Starnberg (district)">Starnberg</a></li>
+<li><a href="/wiki/Straubing-Bogen" title="Straubing-Bogen">Straubing-Bogen</a></li>
+<li><a href="/wiki/Tirschenreuth_(district)" title="Tirschenreuth (district)">Tirschenreuth</a></li>
+<li><a href="/wiki/Traunstein_(district)" title="Traunstein (district)">Traunstein</a></li>
+<li><a href="/wiki/Unterallg%C3%A4u" title="Unterallgäu">Unterallgäu</a></li>
+<li><a href="/wiki/Weilheim-Schongau" title="Weilheim-Schongau">Weilheim-Schongau</a></li>
+<li><a href="/wiki/Wei%C3%9Fenburg-Gunzenhausen" title="Weißenburg-Gunzenhausen">Weißenburg-Gunzenhausen</a></li>
+<li><a href="/wiki/Wunsiedel_(district)" title="Wunsiedel (district)">Wunsiedel</a></li>
+<li><a href="/wiki/W%C3%BCrzburg_(district)" title="Würzburg (district)">Würzburg</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="The_Danube" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Danube" title="Template:Danube"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Danube" title="Template talk:Danube"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Danube&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="The_Danube" style="font-size:114%;margin:0 4em"><a href="/wiki/Danube" title="Danube">The Danube</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Countries</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Geography_of_Germany" title="Geography of Germany">Germany</a></li>
+<li><a href="/wiki/Geography_of_Austria" title="Geography of Austria">Austria</a></li>
+<li><a href="/wiki/Geography_of_Slovakia" title="Geography of Slovakia">Slovakia</a></li>
+<li><a href="/wiki/Geography_of_Hungary" title="Geography of Hungary">Hungary</a></li>
+<li><a href="/wiki/Geography_of_Croatia" title="Geography of Croatia">Croatia</a></li>
+<li><a href="/wiki/Geography_of_Serbia" title="Geography of Serbia">Serbia</a></li>
+<li><a href="/wiki/Geography_of_Bulgaria" title="Geography of Bulgaria">Bulgaria</a></li>
+<li><a href="/wiki/Geography_of_Romania" title="Geography of Romania">Romania</a></li>
+<li><a href="/wiki/Geography_of_Moldova" title="Geography of Moldova">Moldova</a></li>
+<li><a href="/wiki/Geography_of_Ukraine" title="Geography of Ukraine">Ukraine</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="4" style="width:1px;padding:0px 0px 0px 2px;padding-left: 0.5em;">
+<div><a href="/wiki/File:Danubemap.png" class="image" title="Map indicating the Danube"><img alt="Map indicating the Danube" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Danubemap.png/120px-Danubemap.png" width="120" height="77" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Danubemap.png/180px-Danubemap.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/Danubemap.png/240px-Danubemap.png 2x" data-file-width="747" data-file-height="480" /></a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Cities</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ulm" title="Ulm">Ulm</a></li>
+<li><a class="mw-selflink selflink">Ingolstadt</a></li>
+<li><a href="/wiki/Regensburg" title="Regensburg">Regensburg</a></li>
+<li><a href="/wiki/Passau" title="Passau">Passau</a></li>
+<li><a href="/wiki/Linz" title="Linz">Linz</a></li>
+<li><a href="/wiki/Vienna" title="Vienna">Vienna</a></li>
+<li><a href="/wiki/Bratislava" title="Bratislava">Bratislava</a></li>
+<li><a href="/wiki/Gy%C5%91r" title="Győr">Győr</a></li>
+<li><a href="/wiki/Budapest" title="Budapest">Budapest</a></li>
+<li><a href="/wiki/Vukovar" title="Vukovar">Vukovar</a></li>
+<li><a href="/wiki/Ilok" title="Ilok">Ilok</a></li>
+<li><a href="/wiki/Novi_Sad" title="Novi Sad">Novi Sad</a></li>
+<li><a href="/wiki/Belgrade" title="Belgrade">Belgrade</a></li>
+<li><a href="/wiki/Ruse,_Bulgaria" title="Ruse, Bulgaria">Ruse</a></li>
+<li><a href="/wiki/Br%C4%83ila" title="Brăila">Brăila</a></li>
+<li><a href="/wiki/Gala%C8%9Bi" title="Galați">Galați</a></li>
+<li><a href="/wiki/Izmail" title="Izmail">Izmail</a></li>
+<li><a href="/wiki/Tulcea" title="Tulcea">Tulcea</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_tributaries_of_the_Danube" title="List of tributaries of the Danube">Tributaries</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Iller" title="Iller">Iller</a></li>
+<li><a href="/wiki/Lech_(river)" title="Lech (river)">Lech</a></li>
+<li><a href="/wiki/Regen_(river)" title="Regen (river)">Regen</a></li>
+<li><a href="/wiki/Isar" title="Isar">Isar</a></li>
+<li><a href="/wiki/Inn_(river)" title="Inn (river)">Inn</a></li>
+<li><a href="/wiki/Morava_(river)" title="Morava (river)">Morava</a></li>
+<li><a href="/wiki/V%C3%A1h" title="Váh">Váh</a></li>
+<li><a href="/wiki/Hron" title="Hron">Hron</a></li>
+<li><a href="/wiki/Ipe%C4%BE" title="Ipeľ">Ipeľ/Ipoly</a></li>
+<li><a href="/wiki/Drava" title="Drava">Drava</a></li>
+<li><a href="/wiki/Tisza" title="Tisza">Tisza/Tisa</a></li>
+<li><a href="/wiki/Sava" title="Sava">Sava</a></li>
+<li><a href="/wiki/Timi%C8%99_River" title="Timiș River">Timiș/Tamiš</a></li>
+<li><a href="/wiki/Great_Morava" title="Great Morava">Great Morava</a></li>
+<li><a href="/wiki/Timok_(river)" class="mw-redirect" title="Timok (river)">Timok</a></li>
+<li><a href="/wiki/Jiu_River" title="Jiu River">Jiu</a></li>
+<li><a href="/wiki/Iskar_(river)" title="Iskar (river)">Iskar</a></li>
+<li><a href="/wiki/Olt_River" title="Olt River">Olt</a></li>
+<li><a href="/wiki/Osam" title="Osam">Osam</a></li>
+<li><a href="/wiki/Yantra_(river)" title="Yantra (river)">Yantra</a></li>
+<li><a href="/wiki/Vedea_(river)" title="Vedea (river)">Vedea</a></li>
+<li><a href="/wiki/Arge%C8%99_(river)" title="Argeș (river)">Argeș</a></li>
+<li><a href="/wiki/Ialomi%C8%9Ba_(river)" title="Ialomița (river)">Ialomița</a></li>
+<li><a href="/wiki/Siret_(river)" title="Siret (river)">Siret</a></li>
+<li><a href="/wiki/Prut" title="Prut">Prut</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">See also</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_islands_in_the_Danube" title="List of islands in the Danube">List of islands in the Danube</a></li>
+<li><a href="/wiki/List_of_crossings_of_the_Danube" title="List of crossings of the Danube">List of crossings of the Danube</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/132524888">WorldCat Identities</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/132524888">132524888</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n80128697">n80128697</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/4026991-7">4026991-7</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1273
+Cached time: 20171018062436
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.572 seconds
+Real time usage: 0.762 seconds
+Preprocessor visited node count: 7339/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 104928/2097152 bytes
+Template argument size: 21529/2097152 bytes
+Highest expansion depth: 26/40
+Expensive parser function count: 10/500
+Lua time usage: 0.198/10.000 seconds
+Lua memory usage: 6.24 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  633.167      1 -total
+ 60.67%  384.140      1 Template:Infobox_German_location
+ 57.31%  362.865      1 Template:Infobox_settlement
+ 48.76%  308.708      1 Template:Infobox
+ 18.54%  117.400      7 Template:Population_Germany
+ 13.12%   83.082      7 Template:Metadata_Population_DE-BY
+  7.91%   50.062      9 Template:Both
+  7.48%   47.341      1 Template:Coord
+  7.45%   47.189      3 Template:Cite_web
+  6.44%   40.761      1 Template:Citation_needed
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:208251-0!canonical and timestamp 20171018062435 and revision id 800875325
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Ingolstadt&amp;oldid=800875325">https://en.wikipedia.org/w/index.php?title=Ingolstadt&amp;oldid=800875325</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Cities_in_Bavaria" title="Category:Cities in Bavaria">Cities in Bavaria</a></li><li><a href="/wiki/Category:Ingolstadt" title="Category:Ingolstadt">Ingolstadt</a></li><li><a href="/wiki/Category:Populated_places_on_the_Danube" title="Category:Populated places on the Danube">Populated places on the Danube</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_German-language_sources_(de)" title="Category:CS1 German-language sources (de)">CS1 German-language sources (de)</a></li><li><a href="/wiki/Category:CS1_Polish-language_sources_(pl)" title="Category:CS1 Polish-language sources (pl)">CS1 Polish-language sources (pl)</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_December_2014" title="Category:Articles containing potentially dated statements from December 2014">Articles containing potentially dated statements from December 2014</a></li><li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">All articles containing potentially dated statements</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_July_2014" title="Category:Articles with unsourced statements from July 2014">Articles with unsourced statements from July 2014</a></li><li><a href="/wiki/Category:Articles_containing_German-language_text" title="Category:Articles containing German-language text">Articles containing German-language text</a></li><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_2014" title="Category:Articles containing potentially dated statements from 2014">Articles containing potentially dated statements from 2014</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Ingolstadt" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Ingolstadt" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Ingolstadt" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Ingolstadt" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Ingolstadt">Read</a></span></li>
+							<li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Ingolstadt&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Ingolstadt&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Ingolstadt" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Ingolstadt" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Ingolstadt&amp;oldid=800875325" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Ingolstadt&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3004" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Ingolstadt&amp;id=800875325" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Ingolstadt">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Ingolstadt&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Ingolstadt&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Ingolstadt" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikivoyage"><a href="https://en.wikivoyage.org/wiki/Ingolstadt" hreflang="en">Wikivoyage</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Ingolstadt" title="Ingolstadt – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A5%D9%86%D8%BA%D9%88%D9%84%D8%B4%D8%AA%D8%A7%D8%AA" title="إنغولشتات – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-an"><a href="https://an.wikipedia.org/wiki/Ingolstadt" title="Ingolstadt – Aragonese" lang="an" hreflang="an" class="interlanguage-link-target">Aragonés</a></li><li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D8%A7%DB%8C%D9%86%D9%82%D9%88%D9%84%D8%B4%D8%AA%D8%A7%D8%AA" title="اینقولشتات – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%87%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%B2%E0%A6%B8%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A1" title="ইঙ্গলসস্ট্যাড – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Ingolstadt" title="Ingolstadt – Chinese (Min Nan)" lang="zh-min-nan" hreflang="zh-min-nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%86%D0%BD%D0%B3%D0%B0%D0%BB%D1%8C%D1%88%D1%82%D0%B0%D1%82" title="Інгальштат – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%98%D0%BD%D0%B3%D0%BE%D0%BB%D1%89%D0%B0%D1%82" title="Инголщат – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bar badge-Q17437798 badge-goodarticle" title="good article"><a href="https://bar.wikipedia.org/wiki/Inglstod" title="Inglstod – Bavarian" lang="bar" hreflang="bar" class="interlanguage-link-target">Boarisch</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Ingolstadt" title="Ingolstadt – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Ingolstadt" title="Ingolstadt – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Ingolstadt" title="Ingolstadt – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Ingolstadt_(munisipyo)" title="Ingolstadt (munisipyo) – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Ingolstadt" title="Ingolstadt – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Ingolstadt" title="Ingolstadt – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Ingolstadt" title="Ingolstadt – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de badge-Q17437798 badge-goodarticle" title="good article"><a href="https://de.wikipedia.org/wiki/Ingolstadt" title="Ingolstadt – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Ingolstadt" title="Ingolstadt – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%8A%CE%BD%CE%B3%CE%BA%CE%BF%CE%BB%CF%83%CF%84%CE%B1%CF%84" title="Ίνγκολστατ – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Ingolstadt" title="Ingolstadt – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Ingolstadt" title="Ingolstadt – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Ingolstadt" title="Ingolstadt – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A7%DB%8C%D9%86%DA%AF%D9%88%D9%84%D8%B4%D8%AA%D8%A7%D8%AA" title="اینگولشتات – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Ingolstadt" title="Ingolstadt – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/Ingolstadt" title="Ingolstadt – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li><li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/Ingolstadt" title="Ingolstadt – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Ingolstadt" title="Ingolstadt – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-hak"><a href="https://hak.wikipedia.org/wiki/Ingolstadt" title="Ingolstadt – Hakka Chinese" lang="hak" hreflang="hak" class="interlanguage-link-target">客家語/Hak-kâ-ngî</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%9E%89%EA%B3%A8%EC%8A%88%ED%83%80%ED%8A%B8" title="잉골슈타트 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hsb"><a href="https://hsb.wikipedia.org/wiki/Ingolstadt" title="Ingolstadt – Upper Sorbian" lang="hsb" hreflang="hsb" class="interlanguage-link-target">Hornjoserbsce</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Ingolstadt" title="Ingolstadt – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Ingolstadt" title="Ingolstadt – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ie"><a href="https://ie.wikipedia.org/wiki/Ingolstadt" title="Ingolstadt – Interlingue" lang="ie" hreflang="ie" class="interlanguage-link-target">Interlingue</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Ingolstadt" title="Ingolstadt – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Ingolstadt" title="Ingolstadt – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%90%D7%99%D7%A0%D7%92%D7%95%D7%9C%D7%A9%D7%98%D7%90%D7%93%D7%98" title="אינגולשטאדט – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%98%E1%83%9C%E1%83%92%E1%83%9D%E1%83%9A%E1%83%A8%E1%83%A2%E1%83%90%E1%83%93%E1%83%A2%E1%83%98" title="ინგოლშტადტი – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%98%D0%BD%D0%B3%D0%BE%D0%BB%D1%8C%D1%88%D1%82%D0%B0%D0%B4%D1%82" title="Ингольштадт – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Ingolstadt" title="Ingolstadt – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li><li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/%D0%98%D0%BD%D0%B3%D0%BE%D0%BB%D1%8C%D1%88%D1%82%D0%B0%D0%B4%D1%82" title="Ингольштадт – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Ingolstadium" title="Ingolstadium – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Ingol%C5%A1tate" title="Ingolštate – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Ingol%C5%A1tatas" title="Ingolštatas – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-lmo"><a href="https://lmo.wikipedia.org/wiki/Ingolstadt" title="Ingolstadt – Lombard" lang="lmo" hreflang="lmo" class="interlanguage-link-target">Lumbaart</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Ingolstadt" title="Ingolstadt – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%98%D0%BD%D0%B3%D0%BE%D0%BB%D1%88%D1%82%D0%B0%D1%82" title="Инголштат – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%87%E0%A4%82%E0%A4%97%E0%A5%8B%E0%A4%B2%E0%A4%B6%E0%A5%8D%E0%A4%9F%E0%A4%BE%E0%A4%9F" title="इंगोलश्टाट – Marathi" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Ingolstadt" title="Ingolstadt – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Ingolstadt" title="Ingolstadt – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%82%B4%E3%83%AB%E3%82%B7%E3%83%A5%E3%82%BF%E3%83%83%E3%83%88" title="インゴルシュタット – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-frr"><a href="https://frr.wikipedia.org/wiki/Ingolstadt" title="Ingolstadt – Northern Frisian" lang="frr" hreflang="frr" class="interlanguage-link-target">Nordfriisk</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Ingolstadt" title="Ingolstadt – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Ingolstadt" title="Ingolstadt – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Ingolstadt" title="Ingolstadt – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%D8%A7%D9%86%DA%AF%D9%88%D9%84%D8%B3%D9%B9%DA%88" title="انگولسٹڈ – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Ingolstadt" title="Ingolstadt – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Ingolstadt" title="Ingolstadt – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Ingolstadt" title="Ingolstadt – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D0%B3%D0%BE%D0%BB%D1%8C%D1%88%D1%82%D0%B0%D0%B4%D1%82" title="Ингольштадт – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Ingolstadt" title="Ingolstadt – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-stq"><a href="https://stq.wikipedia.org/wiki/Ingolstadt" title="Ingolstadt – Saterland Frisian" lang="stq" hreflang="stq" class="interlanguage-link-target">Seeltersk</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Ingolstadt" title="Ingolstadt – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Ingolstadt" title="Ingolstadt – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Ingolstadt" title="Ingolstadt – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-szl"><a href="https://szl.wikipedia.org/wiki/Ingolstadt" title="Ingolstadt – Silesian" lang="szl" hreflang="szl" class="interlanguage-link-target">Ślůnski</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%98%D0%BD%D0%B3%D0%BE%D0%BB%D1%88%D1%82%D0%B0%D1%82" title="Инголштат – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Ingolstadt" title="Ingolstadt – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Ingolstadt" title="Ingolstadt – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Ingolstadt" title="Ingolstadt – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-kab"><a href="https://kab.wikipedia.org/wiki/Ingolstadt" title="Ingolstadt – Kabyle" lang="kab" hreflang="kab" class="interlanguage-link-target">Taqbaylit</a></li><li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%98%D0%BD%D0%B3%D0%BE%D0%BB%D1%8C%D1%88%D1%82%D0%B0%D0%B4%D1%82" title="Ингольштадт – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%AD%E0%B8%B4%E0%B8%87%E0%B9%82%E0%B8%81%E0%B8%A5%E0%B8%8A%E0%B8%95%E0%B8%B1%E0%B8%94%E0%B8%97%E0%B9%8C" title="อิงโกลชตัดท์ – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Ingolstadt" title="Ingolstadt – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%86%D0%BD%D0%B3%D0%BE%D0%BB%D1%8C%D1%88%D1%82%D0%B0%D0%B4%D1%82" title="Інгольштадт – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Ingolstadt" title="Ingolstadt – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/Ingolstadt" title="Ingolstadt – Volapük" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Ingolstadt" title="Ingolstadt – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E6%81%A9%E9%AB%98%E6%96%AF%E9%81%94%E7%89%B9" title="恩高斯達特 – Cantonese" lang="zh-yue" hreflang="zh-yue" class="interlanguage-link-target">粵語</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E8%8B%B1%E6%88%88%E5%B0%94%E6%96%BD%E5%A1%94%E7%89%B9" title="英戈尔施塔特 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3004#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 16 September 2017, at 06:21.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Ingolstadt&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.572","walltime":"0.762","ppvisitednodes":{"value":7339,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":104928,"limit":2097152},"templateargumentsize":{"value":21529,"limit":2097152},"expansiondepth":{"value":26,"limit":40},"expensivefunctioncount":{"value":10,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  633.167      1 -total"," 60.67%  384.140      1 Template:Infobox_German_location"," 57.31%  362.865      1 Template:Infobox_settlement"," 48.76%  308.708      1 Template:Infobox"," 18.54%  117.400      7 Template:Population_Germany"," 13.12%   83.082      7 Template:Metadata_Population_DE-BY","  7.91%   50.062      9 Template:Both","  7.48%   47.341      1 Template:Coord","  7.45%   47.189      3 Template:Cite_web","  6.44%   40.761      1 Template:Citation_needed"]},"scribunto":{"limitreport-timeusage":{"value":"0.198","limit":"10.000"},"limitreport-memusage":{"value":6539535,"limit":52428800}},"cachereport":{"origin":"mw1273","timestamp":"20171018062436","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":80,"wgHostname":"mw1249"});});</script>
+	</body>
+</html>

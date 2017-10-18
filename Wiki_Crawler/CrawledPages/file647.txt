@@ -1,0 +1,1136 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Villa I Tatti - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Villa_I_Tatti","wgTitle":"Villa I Tatti","wgCurRevisionId":782870902,"wgRevisionId":782870902,"wgArticleId":27150585,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles in need of updating from December 2010","Wikipedia articles in need of updating from December 2011","Coordinates on Wikidata","Harvard University schools","Italian Renaissance","Libraries in Florence","Villas in Florence","Early music","Research institutes in Italy","Photo archives","Tourist attractions in Florence","Harvard University buildings","Former private collections"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Villa_I_Tatti","wgRelevantArticleId":27150585,"wgRequestId":"WeUqhApAIC0AABaK5tEAAAAJ","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCoordinates":{"lat":43.786388888889,"lon":11.309722222222},"wgWikibaseItemId":"Q3558578","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.math.scripts","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.3"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Villa_i_tatti%2C_facciata_ovest_01.JPG/1200px-Villa_i_tatti%2C_facciata_ovest_01.JPG"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Villa_I_Tatti"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Villa_I_Tatti&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Villa_I_Tatti&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Villa_I_Tatti"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Villa_I_Tatti rootpage-Villa_I_Tatti vector-experimental-print-styles vector-nav-directionality skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Villa I Tatti</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Villa_i_tatti,_facciata_ovest_01.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/Villa_i_tatti%2C_facciata_ovest_01.JPG/220px-Villa_i_tatti%2C_facciata_ovest_01.JPG" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/Villa_i_tatti%2C_facciata_ovest_01.JPG/330px-Villa_i_tatti%2C_facciata_ovest_01.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/40/Villa_i_tatti%2C_facciata_ovest_01.JPG/440px-Villa_i_tatti%2C_facciata_ovest_01.JPG 2x" data-file-width="2592" data-file-height="1944" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Villa_i_tatti,_facciata_ovest_01.JPG" class="internal" title="Enlarge"></a></div>
+Villa I Tatti</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Villa_i_tatti,_giardino_all%27italiana_10.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Villa_i_tatti%2C_giardino_all%27italiana_10.JPG/220px-Villa_i_tatti%2C_giardino_all%27italiana_10.JPG" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Villa_i_tatti%2C_giardino_all%27italiana_10.JPG/330px-Villa_i_tatti%2C_giardino_all%27italiana_10.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Villa_i_tatti%2C_giardino_all%27italiana_10.JPG/440px-Villa_i_tatti%2C_giardino_all%27italiana_10.JPG 2x" data-file-width="2592" data-file-height="1944" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Villa_i_tatti,_giardino_all%27italiana_10.JPG" class="internal" title="Enlarge"></a></div>
+The villa from the gardens</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Villa_i_tatti,_ext.,_giardino_05.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Villa_i_tatti%2C_ext.%2C_giardino_05.JPG/220px-Villa_i_tatti%2C_ext.%2C_giardino_05.JPG" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Villa_i_tatti%2C_ext.%2C_giardino_05.JPG/330px-Villa_i_tatti%2C_ext.%2C_giardino_05.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Villa_i_tatti%2C_ext.%2C_giardino_05.JPG/440px-Villa_i_tatti%2C_ext.%2C_giardino_05.JPG 2x" data-file-width="3648" data-file-height="2736" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Villa_i_tatti,_ext.,_giardino_05.JPG" class="internal" title="Enlarge"></a></div>
+The gardens</div>
+</div>
+</div>
+<p><b>Villa I Tatti, The Harvard Center for Italian Renaissance Studies</b> is a center for advanced research in the humanities located in <a href="/wiki/Florence" title="Florence">Florence</a>, <a href="/wiki/Italy" title="Italy">Italy</a>, and belongs to <a href="/wiki/Harvard_University" title="Harvard University">Harvard University</a>. It also houses a library and an art collection, and it is the site of Italian and English gardens. Villa I Tatti is located on an estate of olive groves, vineyards, and gardens on the border of <a href="/wiki/Florence" title="Florence">Florence</a>, <a href="/wiki/Fiesole" title="Fiesole">Fiesole</a> and <a href="/wiki/Settignano" title="Settignano">Settignano</a>.</p>
+<p>Villa I Tatti is not open to the general public.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#The_Berensons_and_Harvard"><span class="tocnumber">1.1</span> <span class="toctext">The Berensons and Harvard</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Green_Garden_at_Villa_I_Tatti"><span class="tocnumber">2</span> <span class="toctext">Green Garden at Villa I Tatti</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Setting"><span class="tocnumber">2.1</span> <span class="toctext">Setting</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Operations"><span class="tocnumber">3</span> <span class="toctext">Operations</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#I_Tatti_and_Harvard"><span class="tocnumber">3.1</span> <span class="toctext">I Tatti and Harvard</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#I_Tatti_Fellowships"><span class="tocnumber">3.2</span> <span class="toctext">I Tatti Fellowships</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Library_and_Fototeca"><span class="tocnumber">3.3</span> <span class="toctext">Library and Fototeca</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#The_Morrill_Music_Library"><span class="tocnumber">3.4</span> <span class="toctext">The Morrill Music Library</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#The_Fototeca_Berenson"><span class="tocnumber">3.5</span> <span class="toctext">The Fototeca Berenson</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#The_Berenson_Archive"><span class="tocnumber">3.6</span> <span class="toctext">The Berenson Archive</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Collections_of_Italian_painting_and_Oriental_art"><span class="tocnumber">3.7</span> <span class="toctext">Collections of Italian painting and Oriental art</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Scholarly_Programs_and_Publications"><span class="tocnumber">3.8</span> <span class="toctext">Scholarly Programs and Publications</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Music_at_Villa_I_Tatti"><span class="tocnumber">3.9</span> <span class="toctext">Music at Villa I Tatti</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#Directors_of_Villa_I_Tatti"><span class="tocnumber">4</span> <span class="toctext">Directors of Villa I Tatti</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#Bibliography"><span class="tocnumber">7</span> <span class="toctext">Bibliography</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Villa_I_Tatti&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>For almost sixty years Villa I Tatti was the home of <a href="/wiki/Bernard_Berenson" title="Bernard Berenson">Bernard Berenson</a> (1865–1959), the connoisseur whose attributions of early <a href="/wiki/Italian_Renaissance" title="Italian Renaissance">Italian Renaissance</a> painting guided scholarship and collecting in this field for the first half of the twentieth century. It houses the Berenson collection of Italian primitives, and of Chinese and Islamic art, as well as a research library of 140,000 volumes and a collection of 250,000 photographs.</p>
+<p>In 1900 Bernard Berenson married <a href="/wiki/Mary_Berenson" title="Mary Berenson">Mary Whitall Pearsall Smith</a>, who had formerly been married to the British politician, Frank Costelloe. Mary Berenson came from a liberal Quaker family from Philadelphia, and had two daughters from her previous marriage, but the marriage to Berenson remained childless. The couple moved to I Tatti shortly before their marriage, first renting the property from the expatriate English aristocrat, <a href="/wiki/John_Temple_Leader" title="John Temple Leader">John Temple Leader</a>, and then in 1907 buying it outright from Temple Leader’s heir, Lord Westbury. Between 1907 and 1915 the seventeenth-century farmhouse became a Renaissance-style villa under the direction of the English architect and writer <a href="/wiki/Geoffrey_Scott_(architectural_historian)" title="Geoffrey Scott (architectural historian)">Geoffrey Scott</a>, while a formal garden in the Anglo-Italian Renaissance style was laid out by the English landscape architect <a href="/wiki/Cecil_Pinsent" title="Cecil Pinsent">Cecil Pinsent</a>.</p>
+<p>Berenson envisaged Villa I Tatti as a “lay monastery” for the leisurely study of Mediterranean culture through its art. He was against academic production, specialization, degrees, and what are now called in the Italian academic world “titoli,” and instead prized the slow maturing of ideas in tranquil contemplation. He considered his own achievement to lie as much in conversation as in writing.</p>
+<p>Berenson died at the age of 94 in 1959 after bequeathing the estate, the collection, and the library to Harvard University. “Villa I Tatti, The Harvard Center for Italian Renaissance Studies,” as it was officially named, opened its doors to six fellows in 1961. In the intervening five decades since then it has welcomed over 700 fellows and visiting scholars from the United States and Canada, almost all of the European countries east and west, as well as Japan and Australia.</p>
+<h3><span class="mw-headline" id="The_Berensons_and_Harvard">The Berensons and Harvard</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Villa_I_Tatti&amp;action=edit&amp;section=2" title="Edit section: The Berensons and Harvard">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Berenson’s esteem for Harvard dated from his youth. He arrived in Boston at age ten as a poor Jewish immigrant from Lithuania. His brilliance was soon recognized and, after finishing the Boston Latin School and completing a year at Boston University, he was supported through Harvard College by wealthier members of Boston society, graduating with the class of 1887. His interests there were in literature and ancient and oriental languages. He trained himself as a connoisseur of early Italian painting by travel throughout Europe and especially Italy, beginning in 1887. As early as 1915 he expressed his intention to leave his house and library to Harvard, and he reaffirmed his intention in 1937, in a letter published in the fiftieth-anniversary volume of his Harvard class.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> However, Fascism, war, and post-war travail in Italy led Harvard to hesitate, and the bequest was only formally accepted by the Harvard Corporation at the time of Berenson’s death in 1959,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> opening its doors to the first class of fellows in 1961.</p>
+<h2><span class="mw-headline" id="Green_Garden_at_Villa_I_Tatti">Green Garden at Villa I Tatti</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Villa_I_Tatti&amp;action=edit&amp;section=3" title="Edit section: Green Garden at Villa I Tatti">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The garden was created by the then young and inexperienced garden designer Cecil Pinsent. Pinsent had been touring Tuscany making topographic drawings of buildings together with his friend <a href="/wiki/Geoffrey_Scott_(architectural_historian)" title="Geoffrey Scott (architectural historian)">Geoffrey Scott</a>; they were both hired through Scott's connection with Berenson's wife, <a href="/wiki/Mary_Berenson" title="Mary Berenson">Mary</a>. I Tatti was to become a formidable test, through which Pinsent could become a recognized specialist of the formal garden.</p>
+<p>The Green Garden at I Tatti was Pinsent's first attempt to recreate a garden in the early Renaissance style. It was conceived as an outdoor extension of the house, an unfolding sequence, designed with the open intention of reviving the Italian style<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> The steep slopes were made into terraced "floors" and the walkways and stairways that connect the various floors were paved with mosaics of cobblestones. A large water tank enables "english style" lawns. Tall cypress trees screen the garden and box hedges divide its compartments.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> In the words of horticulturist presenter <a href="/wiki/Monty_Don" title="Monty Don">Monty Don</a>, "[Pinsent] has ruthlessly excluded all colour except green."<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></p>
+<h3><span class="mw-headline" id="Setting">Setting</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Villa_I_Tatti&amp;action=edit&amp;section=4" title="Edit section: Setting">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>I Tatti is set in a mythic landscape. The stony hillsides above it, pockmarked by quarries that supplied the pietra serena for Renaissance Florence, bred masons and sculptors. Nearby Settignano was home to the sculptor <a href="/wiki/Desiderio_da_Settignano" title="Desiderio da Settignano">Desiderio da Settignano</a> and to the infant <a href="/wiki/Michelangelo" title="Michelangelo">Michelangelo</a>, who was sent there to nurse at his family’s estate (the Villa Michelangelo). A number of houses in the area are given out as the refuge of <a href="/wiki/Boccaccio" class="mw-redirect" title="Boccaccio">Boccaccio</a> during the plague and thus the setting of the <a href="/wiki/Decameron" class="mw-redirect" title="Decameron">Decameron</a>. Boccaccio’s Arcadian poem, the Ninfale fiesolano, celebrates the Mensola, a stream flowing through the property. The scarred and over-quarried hillsides were reforested with cypresses by Temple Leader in the late nineteenth century, giving them their present sylvan aspect.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Anglo-American villa culture flourished in the area at the turn of the twentieth century.</p>
+<h2><span class="mw-headline" id="Operations">Operations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Villa_I_Tatti&amp;action=edit&amp;section=5" title="Edit section: Operations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>“Villa I Tatti, The Harvard Center for Italian Renaissance Studies” is owned and administered by Harvard University, but it is not the typical American student program abroad. Rather, Harvard conceives of Villa I Tatti as an international institution for the advancement of Italian Renaissance studies on the post-doctoral level. Villa I Tatti is one of three centers for advanced research in the humanities belonging to Harvard but located outside of Cambridge, Massachusetts. The others are <a href="/wiki/Dumbarton_Oaks" title="Dumbarton Oaks">Dumbarton Oaks</a>, founded in 1940 for Byzantine, pre-Columbian and garden and landscape studies, and the <a href="/wiki/Center_for_Hellenic_Studies" title="Center for Hellenic Studies">Center for Hellenic Studies</a>, founded in 1962, both in Washington, D.C.</p>
+<h3><span class="mw-headline" id="I_Tatti_and_Harvard">I Tatti and Harvard</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Villa_I_Tatti&amp;action=edit&amp;section=6" title="Edit section: I Tatti and Harvard">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>While remaining true to the principal outlines of Berenson’s vision, Harvard altered Berenson’s intended structure by admitting other fields than art history. History and literature were present from the beginning of the Center’s existence as a Harvard research institute, and music followed upon the establishment of a library in music history, funded generously by gifts from Elizabeth and Gordon Morrill. It was Harvard’s insistence on a mix of fields that gives I Tatti its distinctive character. Although “interdisciplinary” was not much in use as a term in 1961, the Center was effectively an interdisciplinary institution from the start.</p>
+<h3><span class="mw-headline" id="I_Tatti_Fellowships">I Tatti Fellowships</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Villa_I_Tatti&amp;action=edit&amp;section=7" title="Edit section: I Tatti Fellowships">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Each year fifteen full-year fellows are chosen from about 110-120 applicants. All have the doctorate at the time of application but are still in the early phase of their careers. Senior distinguished scholars are not eligible for the fellowship, but every year the director invites some who come without stipend as Visiting Professors in Residence. In a given year perhaps a third of the fellowships tend to be in art history, a third in history, and a third in literature and music. There are no quotas of nation. About half of the fellows over almost 50 years have been from the United States and Canada and half from other countries.</p>
+<p>In addition to the fifteen year-long fellowships there are a number of short-term awards aimed at specific groups. A limited number of Mellon Visiting Fellowships, for periods ranging from three to six months, are available each academic year for advanced research in any aspect of the Italian Renaissance. This Fellowship is designed to reach out to Italian Renaissance scholars from areas that have been under-represented at I Tatti, especially those living and working in Asia, Latin America, the Iberian Peninsula and the Mediterranean basin (except Italy and France) and the Islamic countries. There is a similar three-month award, named after I Tatti's third director the <a href="/wiki/Craig_Hugh_Smyth" title="Craig Hugh Smyth">Craig Hugh Smyth</a> Fellowship, for Renaissance scholars whose career paths do not normally allow sabbaticals or afford extended summer vacations, such as museum curators.</p>
+<h3><span class="mw-headline" id="Library_and_Fototeca">Library and Fototeca</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Villa_I_Tatti&amp;action=edit&amp;section=8" title="Edit section: Library and Fototeca">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/The_I_Tatti_Renaissance_Library" title="The I Tatti Renaissance Library">The I Tatti Renaissance Library</a></div>
+<p>Berenson described I Tatti as a library with a house attached. Library spaces were added to I Tatti in 1909, 1915, 1923 and 1948–54. The shelf space created during Berenson’s lifetime was doubled in 1985 when an additional section, the Paul E. Geier Library, was created in one of the former farm buildings. The wing of the library built by Berenson in 1948–54 was recently renovated by the Roman architectural firm of <a rel="nofollow" class="external text" href="http://www.garofalomiura.it/">Garofalo and Miura</a> and renamed in honor of I Tatti’s third director and his wife, Craig Hugh Smyth and Barbara Linforth Smyth. Opened in October 2009, the new Smyth Library effectively doubled both the wing’s original shelving capacity and the number of workspaces available there.</p>
+<p>At his death Berenson left a large personal library of 50,000 volumes, principally dedicated to Mediterranean culture seen through its art and archeology. It also included significant holdings in Chinese, Indian and Near Eastern art, reflecting his collecting interests in those fields. The books were located in a library designed by Cecil Pinsent in 1915, but, also scattered throughout the house. It was not conceived as an interdisciplinary Renaissance library from the beginning but as a reflection of Berenson’s personal interests. Italian literature was not strongly represented and music was absent. During the early decades of the institution’s life it became a priority to flesh out the library’s holdings in areas of Renaissance studies not collected by Berenson himself, and to initiate periodical subscriptions in these fields.</p>
+<p>Transformed from a rich but idiosyncratic personal library into a modern research library, the Biblioteca Berenson aims to provide comprehensive research-level coverage of current scholarly publications in all fields of Italian art, architecture, history, science, medicine, society, culture and literature approximately from 1200 to 1650. Research tools are also acquired in adjacent fields such as northern Europe in the same period, medieval studies, and Byzantine and Islamic cultures around the Mediterranean, especially where these relate to Renaissance Italy. It tries to provide modern editions of many of the works of Greek and Latin literature. Currently it holds some 140,000 volumes, which include 106,000 books, 7,000 offprints, 14,000 auction catalogues, and 23,000 periodical volumes. Over 600 periodicals are currently received, most with complete runs from the start of publication.</p>
+<p>In 1993 I Tatti joined with three other research libraries in Florence to form a consortium for joint, on-line cataloging, IRIS, which now counts seven member libraries. The Biblioteca Berenson is also one of the 73 libraries that form the Harvard College Library and its holdings are accessible through the Harvard on-line catalogue, HOLLIS. In addition, the considerable electronic resources available through the Harvard library are also available at I Tatti, which makes it one of the largest collections of electronic resources in Italy.</p>
+<h3><span class="mw-headline" id="The_Morrill_Music_Library">The Morrill Music Library</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Villa_I_Tatti&amp;action=edit&amp;section=9" title="Edit section: The Morrill Music Library">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Established by a gift from <a href="/w/index.php?title=F._Gordon_Morrill&amp;action=edit&amp;redlink=1" class="new" title="F. Gordon Morrill (page does not exist)">F. Gordon Morrill</a> and Elizabeth Morrill, the Morrill Music library has been part of the Biblioteca Berenson since 1966. It covers all western music from the Greeks to the early baroque period, with emphasis on Italian music composed up to 1640. It includes 4,150 scores and 4,300 critical studies, monographs, treatises, and reference works; it subscribes to 84 journal titles. There is also an extensive microfilm collection of musical manuscripts and early printed books. The aim is to acquire every published work in Italian musicology for the period up to 1640.</p>
+<h3><span class="mw-headline" id="The_Fototeca_Berenson">The Fototeca Berenson</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Villa_I_Tatti&amp;action=edit&amp;section=10" title="Edit section: The Fototeca Berenson">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Fototeca Berenson contained 170,000 photographs at Berenson’s death and now contains approximately 250,000 photographs. They are organized topographically, according to Berenson’s original scheme: Florence, Siena, Central Italy, Northern Italy, Lombardy, Venice, Southern Italy, and within each school by artist and location. A section of the Fototeca is devoted to images of “homeless” works of art—the term used by Berenson for objects that were once on the art market but whose presents locations are now unknown. The versos of many photographs contain handwritten notes by Bernard and <a href="/wiki/Mary_Berenson" title="Mary Berenson">Mary Berenson</a>, <a href="/w/index.php?title=Nicky_Mariano&amp;action=edit&amp;redlink=1" class="new" title="Nicky Mariano (page does not exist)">Nicky Mariano</a> and other art connoisseurs from the first half of the twentieth century. A project to digitize the Fototeca Berenson, making its holdings accessible through the Harvard Libraries’ website, is currently in progress.</p>
+<p>Apart from the main collection of photographs on Renaissance painting, there are other minor sections of images representing sculpture, medieval art, <a href="/wiki/Byzantine_architecture" title="Byzantine architecture">Byzantine</a> and early Christian architecture. Of particular importance are the photos taken by the <a href="/wiki/Islamic_architecture" title="Islamic architecture">Islamic</a> architectural historian <a href="/wiki/K._A._C._Creswell" title="K. A. C. Creswell">Archibald Creswell</a> and the collection of some 2,000 vintage prints with views of <a href="/wiki/India" title="India">India</a> from the photographers Johnston &amp; Hoffmann.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p>
+<h3><span class="mw-headline" id="The_Berenson_Archive">The Berenson Archive</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Villa_I_Tatti&amp;action=edit&amp;section=11" title="Edit section: The Berenson Archive">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Bernard and Mary Berenson cultivated many friendships through letters. Their letters of their correspondents<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> and some of their own letters are kept in the Berenson Archive, together with diaries, notes, drafts of books, personal photographs and other biographical material. The Archive has been enriched since the founding of the Harvard Center by gifts or acquisitions of papers pertaining to Giorgio Castelfranco, <a href="/wiki/Kenneth_Clark" title="Kenneth Clark">Kenneth Clark</a>, Andrea Francalanci, Frederick Hartt, Giuseppe Marchini, Emilio Marcucci, <a href="/w/index.php?title=Nicky_Mariano&amp;action=edit&amp;redlink=1" class="new" title="Nicky Mariano (page does not exist)">Nicky Mariano</a>, Roberto and Livia Papini, Valeria Piacentini, Laurance P. and Isabel M. Roberts, Stanislaus Eric Steenbok and the Whitall Pearsall Smith family.</p>
+<h3><span class="mw-headline" id="Collections_of_Italian_painting_and_Oriental_art">Collections of Italian painting and Oriental art</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Villa_I_Tatti&amp;action=edit&amp;section=12" title="Edit section: Collections of Italian painting and Oriental art">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:The_Ecstasy_of_st_Francis--Sassetta--Bernson_collecton--Settignano.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/The_Ecstasy_of_st_Francis--Sassetta--Bernson_collecton--Settignano.jpg/220px-The_Ecstasy_of_st_Francis--Sassetta--Bernson_collecton--Settignano.jpg" width="220" height="372" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/The_Ecstasy_of_st_Francis--Sassetta--Bernson_collecton--Settignano.jpg/330px-The_Ecstasy_of_st_Francis--Sassetta--Bernson_collecton--Settignano.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/The_Ecstasy_of_st_Francis--Sassetta--Bernson_collecton--Settignano.jpg/440px-The_Ecstasy_of_st_Francis--Sassetta--Bernson_collecton--Settignano.jpg 2x" data-file-width="994" data-file-height="1683" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:The_Ecstasy_of_st_Francis--Sassetta--Bernson_collecton--Settignano.jpg" class="internal" title="Enlarge"></a></div>
+Sassetta's <i>Ectasy of Saint Francis</i>, highlight of Berenson's Italian art collection</div>
+</div>
+</div>
+<p>I Tatti is home to the art collection of Bernard and Mary Berenson, which includes an important collection of about 100 late Medieval and Renaissance Italian paintings. The painting collection was formed between ca. 1900 and ca. 1920, with few additions thereafter. Shortly before his death in 1959, Berenson donated his Madonna and Child by Ambrogio Lorenzetti to the Uffizi, which owned two smaller paintings that originally came from the same dismembered altarpiece. The most famous works in the collection, and among the first to be acquired by the Berensons, are three panels depicting St. Francis in Glory, The Blessed Rainieri Rasini, and St. John the Baptist coming from the Sansepolcro Altarpiece by the Sienese painter <a href="/wiki/Sassetta" class="mw-redirect" title="Sassetta">Sassetta</a> (painted 1437–1444).<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> A comprehensive modern catalogue of the Berenson Collection of Italian paintings is currently in preparation.</p>
+<p>Bernard Berenson also formed a smaller but important collection of Oriental art, including works from China, Japan, Tibet, Thailand, Java, Cambodia and Burma.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> Berenson also assembled a small but significant collection of Near Eastern manuscripts, including an illuminated page from the renowned fourteenth-century Great Mongol (formerly Demotte) <a href="/wiki/Shahnama" class="mw-redirect" title="Shahnama">Shahnama</a>.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></p>
+<h3><span class="mw-headline" id="Scholarly_Programs_and_Publications">Scholarly Programs and Publications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Villa_I_Tatti&amp;action=edit&amp;section=13" title="Edit section: Scholarly Programs and Publications">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>I Tatti’s scholarly programs provide a special forum for discussion, and have become increasingly crucial to the Center’s mission of creating bridges with its sister institutions and the international scholarly community. There is also an active program of public lectures by outside scholars and shop-talks by fellows. In addition, I Tatti organizes and hosts one or two symposia or giornate di studio each semester which bring scholars from other countries.</p>
+<p>Each year I Tatti hosts the Bernard Berenson Lectures, a series of three interconnected lectures on a given theme, presented by a senior scholar of worldwide renown in the field of Renaissance studies. Each cycle of Berenson Lectures is published by Harvard University Press.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> In addition to publication of the acts of various conferences, select monographs, and the annual Berenson Lectures, there is an annual journal for scholarly essays on Renaissance subjects in English and Italian, I Tatti Studies, which was founded in 1985.</p>
+<p>Recently a series of monographs on Renaissance history has been initiated with Harvard University Press, the I Tatti Studies in Italian Renaissance History, under the general editorship of <a href="/wiki/Edward_Muir" class="mw-redirect" title="Edward Muir">Edward Muir</a>.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></p>
+<p>Under the editorship of <a href="/wiki/James_Hankins" title="James Hankins">James Hankins</a> of Harvard, Harvard University Press also publishes the <a href="/wiki/I_Tatti_Renaissance_Library" class="mw-redirect" title="I Tatti Renaissance Library">I Tatti Renaissance Library</a>, which is modeled on the <a href="/wiki/Loeb_Classical_Library" title="Loeb Classical Library">Loeb Classical Library</a> and aims to publish the major literary, historical, philosophical and scientific works of the Italian Renaissance written in Latin with modern English translation on facing pages. Forty-one volumes have appeared to date and about 120 more are envisaged in the course of the next decade. The series will put this “lost continent” of Latin literature within the reach of scholars and students in many fields.</p>
+<p>Both the fellowship and the scholarly events have been enhanced by the completion late in 2010 of the Deborah Loeb Brice Loggiato, site of fellows' studies and a small auditorium, the Gould Hall, on the designed by Charles Brickbauer.</p>
+<h3><span class="mw-headline" id="Music_at_Villa_I_Tatti">Music at Villa I Tatti</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Villa_I_Tatti&amp;action=edit&amp;section=14" title="Edit section: Music at Villa I Tatti">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The concerts of early music organized by the Morrill Music Library are an integral part of the academic activities at Villa I Tatti. They range from intimate performances for the I Tatti community, often on period instruments, to those performed by early music groups for a wider audience. The series Early Music at I Tatti, established in 2002 by <a href="/wiki/Joseph_Connors" title="Joseph Connors">Joseph Connors</a> with Kathryn Bosi, offers twice-yearly concerts performed by musicians of international renown. These aim to present to the Florentine community innovative programs of early music centering on a particular theme or idea, such as an examination of the concept of humor in Renaissance music (Early Music at I Tatti, II), the role of music in medieval thought (Early Music at I Tatti, I) or the traditional repertoire deriving from the therapeutic effects of music on the bite of the tarantula spider in southern Italy (Early Music at I Tatti, XII). Many offer repertoires which are rarely heard in Italy today, ranging from works by one of the earliest known Florentine composers, <a href="/wiki/Paolo_da_Firenze" title="Paolo da Firenze">Paolo da Firenze</a> (fl. 1390–1425) (Early Music at I Tatti, VII), to music written for the Habsburg court at Vienna in the mid seventeenth century by Italian composers favored by the Austrian emperors (Early Music at I Tatti, IX). Contemporary music is sometimes an integral part of the programs: Early Music at I Tatti, IV juxtaposed Petrarch settings by Renaissance composers with settings by the English composer <a href="/wiki/Gavin_Bryars" title="Gavin Bryars">Gavin Bryars</a>, while Early Music at I Tatti, VIII focused on the fruitful relationship which has developed between contemporary composers and performers of early music. Both concerts featured world premieres of new works written for the occasion.</p>
+<h2><span class="mw-headline" id="Directors_of_Villa_I_Tatti">Directors of Villa I Tatti</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Villa_I_Tatti&amp;action=edit&amp;section=15" title="Edit section: Directors of Villa I Tatti">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/w/index.php?title=Kenneth_B._Murdock&amp;action=edit&amp;redlink=1" class="new" title="Kenneth B. Murdock (page does not exist)">Kenneth B. Murdock</a> 1961–1964</li>
+<li><a href="/w/index.php?title=Myron_P._Gilmore&amp;action=edit&amp;redlink=1" class="new" title="Myron P. Gilmore (page does not exist)">Myron P. Gilmore</a><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> 1964–1973</li>
+<li><a href="/wiki/Craig_Hugh_Smyth" title="Craig Hugh Smyth">Craig Hugh Smyth</a><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> 1973–1985</li>
+<li><a href="/w/index.php?title=Louise_George_Clubb&amp;action=edit&amp;redlink=1" class="new" title="Louise George Clubb (page does not exist)">Louise George Clubb</a> 1985–1988</li>
+<li>Walter Kaiser 1988–2002</li>
+<li><a href="/wiki/Joseph_Connors" title="Joseph Connors">Joseph Connors</a> 2002–2010</li>
+<li><a href="/wiki/Lino_Pertile" title="Lino Pertile">Lino Pertile</a> 2010–2015</li>
+<li><a href="/wiki/Alina_Payne" title="Alina Payne">Alina Payne</a> 2015–present</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Villa_I_Tatti&amp;action=edit&amp;section=16" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Italian_Studies" class="mw-redirect" title="Italian Studies">Italian Studies</a></li>
+<li><a href="/wiki/Italian_Renaissance" title="Italian Renaissance">Italian Renaissance</a></li>
+<li><a href="/wiki/Harvard_University" title="Harvard University">Harvard University</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Villa_I_Tatti&amp;action=edit&amp;section=17" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap mw-references-columns">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://itatti.harvard.edu/visitor-information">http://itatti.harvard.edu/visitor-information</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><i>Harvard College Class of 1887: Fiftieth Anniversary Report</i>, Cambridge, 1937, p. 42.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Janet Tassel, “Viva I Tatti....and the Ghost of Bernard Berenson Within,” <i>The Harvard Magazine</i>, March–April 1994, pp. 34–41.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">The Florentine Villa: Architecture History Society; By Grazia Gobbi Sica; page 94</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web">Cei, Marco. <a rel="nofollow" class="external text" href="http://www.aboutplants.eu/portal/cms/ENG/content-landscape/251-love-art-and-gardens-the-villa-i-tatti-in-fiesole.html">"Love, art and gardens: the villa "I Tatti" in Fiesole"</a>. <i>About Plants</i><span class="reference-accessdate">. Retrieved <span class="nowrap">5 April</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVilla+I+Tatti&amp;rft.atitle=Love%2C+art+and+gardens%3A+the+villa+%22I+Tatti%22+in+Fiesole&amp;rft.aufirst=Marco&amp;rft.aulast=Cei&amp;rft.genre=unknown&amp;rft.jtitle=About+Plants&amp;rft_id=http%3A%2F%2Fwww.aboutplants.eu%2Fportal%2Fcms%2FENG%2Fcontent-landscape%2F251-love-art-and-gardens-the-villa-i-tatti-in-fiesole.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web">Don, Monty. <a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=EfrijhsuuR0">"Monty Don's Italian Gardens"</a>. <i>YouTube</i><span class="reference-accessdate">. Retrieved <span class="nowrap">5 April</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVilla+I+Tatti&amp;rft.atitle=Monty+Don%27s+Italian+Gardens&amp;rft.aufirst=Monty&amp;rft.aulast=Don&amp;rft.genre=unknown&amp;rft.jtitle=YouTube&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DEfrijhsuuR0&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Francesca Baldry, <i>John Temple Leader e il Castello di Vincigliata: un episodio di restauro e di collezionismo nella Firenze dell’Ottocento</i>, Florence, 1997.</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://id.lib.harvard.edu/aleph/014217515/catalog">The Creswell photographs of Islamic architecture</a></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><i>The Berenson Archive: An Inventory of Correspondence compiled by Nicky Mariano on the Centenary of the Birth of Bernard Berenson 1865-1959</i>, Florence, 1965.</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Machtelt Israels, ed., <i>Sassetta: The Borgo San Sepolcro Altarpiece</i>, Cambridge, MA, and Amsterdam, 2009.</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Laurance P. Roberts, <i>The Bernard Berenson Collection of Oriental Art at Villa I Tatti</i>, New York, 1991; Michael Rocke, “’Una sorta di sogno d’estasi’: Bernard Berenson, l’oriente e il patrimonio orientale di Villa I Tatti,” in Adriana Boscario and Maurizio Bossi, ed., <i>Firenze, Il Giappone e l’Asia orientale</i>, Florence, 2001, pp. 367–84.</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">Richard Ettinghausen, <i>Persian Miniatures in the Bernard Berenson Collection</i>, Milan, 1961; Angelo M. Piemontesi, “I manoscritti persiani della Collezione Berenson,” <i>Studi in onore di Francesco Gabrieli nel suo ottantesimo compleanno</i>, ed. Renato Traini, Rome, 1984, pp. 631–39; Priscilla Soucek, “Walter Pater, Bernard Berenson, and the Reception of Persian Manuscript Illustration,” <i>RES</i>, XL, 2001, pp. 113-28; Gauvin Alexander Bailey, “The Bernard Berenson Collection of Islamic Painting at Villa I Tatti: Mamluk, Ilkhanid, and Early Timurid Miniatures. Part I,” <i>Oriental Art</i>, XLVII, no. 4, 2001, pp. 53–62; idem, “The Bernard Berenson Collection of Islamic Painting at Villa I Tatti: Turkman, Uzbek, and Safavid Miniatures. Part II,” <i>Oriental Art</i>, XLIII, no. 1, 2002, pp. 2-16.</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">Berenson Lectures published to date: Edward Muir, <i>The Culture Wars of the Late Renaissance: Skeptics, Libertines, and Opera</i>, Cambridge, MA and London, 2007; Dale Kent, <i>Friendship, Love and Trust in Renaissance Florence</i>, Cambridge, MA and London, 2009. The lectures of Charles Dempsey on Florentine vernacular culture and those by Julian Gardner on Giotto and his publics will be published in 2010;<sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers#Precise_language" title="Wikipedia:Manual of Style/Dates and numbers"><span title="The text near this tag is dated.">needs update</span></a></i>]</sup> those by Caroline Elam on the image of Florence will be published in 2011.<sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers#Precise_language" title="Wikipedia:Manual of Style/Dates and numbers"><span title="The text near this tag is dated.">needs update</span></a></i>]</sup></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">Titles published to date include: Lodi Nauta, <i>In Defense of Common Sense: Lorenzo Valla’s Humanist Critique of Scholastic Philosophy</i> (2009); Alison Brown, <i>The Return of Lucretius to Renaissance Florence</i> (2010); Stephen Bowd, <i>Venice’s Most Loyal City: Civic Identity in Renaissance Brescia</i> (2010).</span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">Sergio Bertelli and Gloria Ramakus, ed., <i>Essays Presented to Myron P. Gilmore</i>, 2 vols., Florence, 1978.</span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">Caroline Elam and Louis A. Waldman, ed., <i>Craig Hugh Smyth—In Memoriam</i>, Florence, 2009; Andrew Morrogh, Fiorella Superbi Gioffredi, Piero Morselli a*d Eve Borsook, ed., <i>Renaissance Studies in Honor of Craig Hugh Smyth</i>, 2 vols, Florence, 1985.</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Villa_I_Tatti&amp;action=edit&amp;section=18" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/w/index.php?title=Myron_Gilmore&amp;action=edit&amp;redlink=1" class="new" title="Myron Gilmore (page does not exist)">Myron Gilmore</a>, “Villa I Tatti, The Harvard University Center for Italian Renaissance Studies: The First Ten Years,” <i>The Harvard Library Bulletin</i>, XIX, no. 1, January 1971, pp.&#160;99–109; Italian version as “I Tatti a dieci anni dalla morte di Bernard Berenson,” <i>Antichità Viva</i>, VIII, no. 6, 1969, pp.&#160;48–52.</li>
+<li><a href="/w/index.php?title=Luisa_Vertova&amp;action=edit&amp;redlink=1" class="new" title="Luisa Vertova (page does not exist)">Luisa Vertova</a>, “I Tatti,” <i>Antichità Viva</i>, VIII, no. 6, 1969, pp.&#160;53–78.</li>
+<li><a href="/wiki/Ernest_Samuels" title="Ernest Samuels">Ernest Samuels</a>, <i>Bernard Berenson: The Making of a Connoisseur</i>, Cambridge MA, 1979; <i>Bernard Berenson: The Making of a Legend</i>, Cambridge MA, 1987.</li>
+<li><a href="/w/index.php?title=Laurance_P._Roberts&amp;action=edit&amp;redlink=1" class="new" title="Laurance P. Roberts (page does not exist)">Laurance P. Roberts</a>, <i>The Bernard Berenson Collection of Oriental Art at Villa I Tatti</i>, New York, 1991.</li>
+<li><a href="/wiki/William_Weaver" title="William Weaver">William Weaver</a>, <i>A Legacy of Excellence: The Story of Villa I Tatti</i>, New York, 1997.</li>
+<li><i>Villa I Tatti, The Harvard University Center for Italian Renaissance Studies: Forty Years, 1961/62-2001/02</i>, Florence, 2002.</li>
+<li><a href="/wiki/Joseph_Connors" title="Joseph Connors">Joseph Connors</a> and <a href="/wiki/Louis_A._Waldman" title="Louis A. Waldman">Louis A. Waldman</a>, ed., <i>Bernard Berenson at Fifty</i> Florence. 2014.</li>
+<li><a href="/w/index.php?title=Carl_Brandon_Stehlke&amp;action=edit&amp;redlink=1" class="new" title="Carl Brandon Stehlke (page does not exist)">Carl Brandon Stehlke</a> and <a href="/w/index.php?title=Machtelt_Br%C3%BCggen_Isra%C3%ABls&amp;action=edit&amp;redlink=1" class="new" title="Machtelt Brüggen Israëls (page does not exist)">Machtelt Brüggen Israëls</a>, eds., <i>The Bernard and Mary Berenson Collection of European Paintings at I Tatti</i>, Milan and Florence, 2015. A short <a rel="nofollow" class="external text" href="https://www.academia.edu/29392365/_The_Berenson_Collection_A_Guide_in_I_Tatti_Studies_19.2_2016_pp._235-55">guide</a> to this volume from I Tatti Studies 2016.</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Villa_I_Tatti&amp;action=edit&amp;section=19" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Villa_I_Tatti" class="extiw" title="commons:Category:Villa I Tatti">Villa I Tatti</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://itatti.harvard.edu/">Villa I Tatti</a></li>
+<li><a rel="nofollow" class="external text" href="http://journals.uchicago.edu/its"><i>I Tatti Studies in the Italian Renaissance</i> journal website</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.hup.harvard.edu/collection.php?recid=301">I Tatti Studies in Italian Renaissance History, at Harvard University Press</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.hup.harvard.edu/collection.php?recid=504">The I Tatti Renaissance Library, at Harvard University Press</a></li>
+</ul>
+<p><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Villa_I_Tatti&amp;params=43_47_11_N_11_18_35_E_type:landmark_source:kolossus-itwiki"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">43°47′11″N</span> <span class="longitude">11°18′35″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">43.78639°N 11.30972°E</span><span style="display:none">﻿ / <span class="geo">43.78639; 11.30972</span></span></span></a></span></span></span></p>
+<div role="navigation" class="navbox" aria-labelledby="Harvard_University" style="padding:3px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Harvard" title="Template:Harvard"><abbr title="View this template" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Harvard" title="Template talk:Harvard"><abbr title="Discuss this template" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Harvard&amp;action=edit"><abbr title="Edit this template" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Harvard_University" style="font-size:114%;margin:0 4em"><a href="/wiki/Harvard_University" title="Harvard University"><span style="color:white">Harvard University</span></a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%"></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/History_of_Harvard_University" title="History of Harvard University">History</a></li>
+<li><a href="/wiki/John_Harvard_(clergyman)" title="John Harvard (clergyman)">John Harvard</a>
+<ul>
+<li><a href="/wiki/John_Harvard_(statue)" title="John Harvard (statue)">statue</a></li>
+</ul>
+</li>
+<li><a href="/wiki/President_of_Harvard_University" title="President of Harvard University">President</a> <a href="/wiki/Drew_Gilpin_Faust" title="Drew Gilpin Faust">Drew Gilpin Faust</a></li>
+<li><a href="/wiki/Harvard_Board_of_Overseers" title="Harvard Board of Overseers">Board of Overseers</a></li>
+<li><a href="/wiki/President_and_Fellows_of_Harvard_College" title="President and Fellows of Harvard College">President and Fellows of Harvard College</a></li>
+<li>Provost <a href="/wiki/Alan_M._Garber" class="mw-redirect" title="Alan M. Garber">Alan M. Garber</a></li>
+<li><a href="/wiki/Harvard_Library" title="Harvard Library">The Harvard Library</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="14" style="width:1px;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:John_Harvard_statue.jpg" class="image"><img alt="John Harvard statue.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/John_Harvard_statue.jpg/110px-John_Harvard_statue.jpg" width="110" height="123" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/John_Harvard_statue.jpg/165px-John_Harvard_statue.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/John_Harvard_statue.jpg/220px-John_Harvard_statue.jpg 2x" data-file-width="1622" data-file-height="1809" /></a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Arts and<br />
+Sciences</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%"></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_Faculty_of_Arts_and_Sciences" title="Harvard Faculty of Arts and Sciences">Harvard Faculty of Arts and Sciences</a></li>
+<li>Dean <a href="/wiki/Michael_D._Smith_(computer_scientist)" title="Michael D. Smith (computer scientist)">Michael D. Smith</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">College</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_College" title="Harvard College">Harvard College</a></li>
+<li>Dean <a href="/wiki/Rakesh_Khurana" title="Rakesh Khurana">Rakesh Khurana</a></li>
+<li><a href="/wiki/Radcliffe_College" title="Radcliffe College">Radcliffe College</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/List_of_Harvard_College_freshman_dormitories" title="List of Harvard College freshman dormitories">Freshman dormitories</a></li>
+<li>Upperclass houses
+<ul>
+<li><a href="/wiki/Adams_House_(Harvard_University)" class="mw-redirect" title="Adams House (Harvard University)">Adams</a></li>
+<li><a href="/wiki/Cabot_House" title="Cabot House">Cabot</a></li>
+<li><a href="/wiki/Currier_House_(Harvard_College)" title="Currier House (Harvard College)">Currier</a></li>
+<li><a href="/wiki/Dudley_House_(Harvard_College)" class="mw-redirect" title="Dudley House (Harvard College)">Dudley</a></li>
+<li><a href="/wiki/Dunster_House" title="Dunster House">Dunster</a></li>
+<li><a href="/wiki/Eliot_House" class="mw-redirect" title="Eliot House">Eliot</a></li>
+<li><a href="/wiki/Kirkland_House,_Harvard_University" class="mw-redirect" title="Kirkland House, Harvard University">Kirkland</a></li>
+<li><a href="/wiki/Leverett_House" title="Leverett House">Leverett</a></li>
+<li><a href="/wiki/Lowell_House" title="Lowell House">Lowell</a></li>
+<li><a href="/wiki/Mather_House_(Harvard_University)" class="mw-redirect" title="Mather House (Harvard University)">Mather</a></li>
+<li><a href="/wiki/Pforzheimer_House" title="Pforzheimer House">Pforzheimer</a></li>
+<li><a href="/wiki/Quincy_House_(Harvard)" class="mw-redirect" title="Quincy House (Harvard)">Quincy</a></li>
+<li><a href="/wiki/Winthrop_House" title="Winthrop House">Winthrop</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><a href="/wiki/List_of_Harvard_College_undergraduate_organizations" title="List of Harvard College undergraduate organizations">Undergraduate organizations</a></li>
+<li><i><a href="/wiki/The_Harvard_Crimson" title="The Harvard Crimson">The Harvard Crimson</a></i></li>
+<li><i><a href="/wiki/The_Harvard_Lampoon" title="The Harvard Lampoon">The Harvard Lampoon</a></i></li>
+<li><i><a href="/wiki/The_Harvard_Advocate" title="The Harvard Advocate">The Harvard Advocate</a></i></li>
+<li><i><a href="/wiki/The_Harvard_Independent" title="The Harvard Independent">The Harvard Independent</a></i></li>
+</ul>
+<ul>
+<li><b>Athletics</b>: <a href="/wiki/Harvard_Crimson" title="Harvard Crimson">Harvard Crimson</a></li>
+<li><a href="/wiki/Ivy_League" title="Ivy League">Ivy League</a></li>
+<li><a href="/wiki/Harvard_Stadium" title="Harvard Stadium">Harvard Stadium</a></li>
+<li><a href="/wiki/Harvard%E2%80%93Yale_football_rivalry" title="Harvard–Yale football rivalry">Yale football rivalry</a></li>
+<li><a href="/wiki/Lavietes_Pavilion" title="Lavietes Pavilion">Lavietes Pavilion</a></li>
+<li><a href="/wiki/Bright_Hockey_Center" class="mw-redirect" title="Bright Hockey Center">Bright Hockey Center</a></li>
+<li><a href="/wiki/Cornell%E2%80%93Harvard_hockey_rivalry" title="Cornell–Harvard hockey rivalry">Cornell hockey rivalry</a></li>
+<li><a href="/wiki/Beanpot_(ice_hockey)" title="Beanpot (ice hockey)">Beanpot</a></li>
+<li><a href="/wiki/Weld_Boathouse" title="Weld Boathouse">Weld Boathouse</a></li>
+<li><a href="/wiki/Newell_Boathouse_(Harvard_University)" class="mw-redirect" title="Newell Boathouse (Harvard University)">Newall Boathouse</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Continuing<br />
+Education</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_Division_of_Continuing_Education" title="Harvard Division of Continuing Education">Division of Continuing Education</a></li>
+<li>Dean <a href="/wiki/Huntington_D._Lambert" title="Huntington D. Lambert">Huntington D. Lambert</a></li>
+<li><a href="/wiki/Harvard_Extension_School" title="Harvard Extension School">Extension School</a></li>
+<li><a href="/wiki/Harvard_Summer_School" title="Harvard Summer School">Summer School</a></li>
+<li><a href="/wiki/History_of_Harvard_Extension_School" title="History of Harvard Extension School">History of Harvard Extension School</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Eng.<span style="white-space:nowrap"> </span>&amp;<span style="white-space:nowrap"> </span>Appl.<br />
+Sciences</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_John_A._Paulson_School_of_Engineering_and_Applied_Sciences" title="Harvard John A. Paulson School of Engineering and Applied Sciences">Harvard John A. Paulson School of Engineering and Applied Sciences</a></li>
+<li>Dean <a href="/wiki/Francis_J._Doyle_III" title="Francis J. Doyle III">Francis J. Doyle III</a></li>
+<li><a href="/wiki/Lyman_Laboratory_of_Physics" title="Lyman Laboratory of Physics">Lyman Laboratory of Physics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Graduate<br />
+School</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_Graduate_School_of_Arts_and_Sciences" title="Harvard Graduate School of Arts and Sciences">Graduate School of Arts and Sciences</a></li>
+<li>Dean <a href="/wiki/Xiao-Li_Meng" title="Xiao-Li Meng">Xiao-Li Meng</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Libraries</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cabot_Science_Library" title="Cabot Science Library">Cabot</a></li>
+<li><a href="/wiki/Harvard%E2%80%93Yenching_Library" title="Harvard–Yenching Library">Harvard-Yenching</a></li>
+<li><a href="/wiki/Houghton_Library" title="Houghton Library">Houghton</a>
+<ul>
+<li><i><a href="/wiki/Harvard_Review" title="Harvard Review">Harvard Review</a></i></li>
+</ul>
+</li>
+<li><a href="/wiki/Lamont_Library" title="Lamont Library">Lamont</a></li>
+<li><a href="/w/index.php?title=Pusey_Library&amp;action=edit&amp;redlink=1" class="new" title="Pusey Library (page does not exist)">Pusey</a></li>
+<li><a href="/wiki/Widener_Library" title="Widener Library">Widener</a>
+<ul>
+<li><a href="/wiki/Harry_Widener" class="mw-redirect" title="Harry Widener">Harry Widener</a></li>
+<li><a href="/wiki/Eleanor_Elkins_Widener" title="Eleanor Elkins Widener">Eleanor Elkins Widener</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Grossman_Library" title="Grossman Library">Grossman</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%"></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carpenter_Center_for_the_Visual_Arts" title="Carpenter Center for the Visual Arts">Carpenter Center for the Visual Arts</a></li>
+<li><a href="/wiki/Center_for_Hellenic_Studies" title="Center for Hellenic Studies">Center for Hellenic Studies</a></li>
+<li><a href="/w/index.php?title=Charles_Warren_Center_for_Studies_in_American_History&amp;action=edit&amp;redlink=1" class="new" title="Charles Warren Center for Studies in American History (page does not exist)">Charles Warren Center for Studies in American History</a></li>
+<li><a href="/wiki/Collection_of_Historical_Scientific_Instruments" class="mw-redirect" title="Collection of Historical Scientific Instruments">Collection of Historical Scientific Instruments</a></li>
+<li><a href="/wiki/Harvard%E2%80%93Smithsonian_Center_for_Astrophysics" title="Harvard–Smithsonian Center for Astrophysics">Harvard–Smithsonian Center for Astrophysics</a></li>
+<li><a href="/w/index.php?title=Institute_for_Quantitative_Social_Science&amp;action=edit&amp;redlink=1" class="new" title="Institute for Quantitative Social Science (page does not exist)">Institute for Quantitative Social Science</a></li>
+<li><a href="/wiki/Nieman_Foundation_for_Journalism" title="Nieman Foundation for Journalism">Nieman Foundation for Journalism</a></li>
+<li><a href="/wiki/Harvard_Ukrainian_Research_Institute" title="Harvard Ukrainian Research Institute">Ukrainian Research Institute</a></li>
+<li><a class="mw-selflink selflink">Villa I Tatti</a></li>
+<li><a href="/wiki/W._E._B._Du_Bois_Institute" title="W. E. B. Du Bois Institute">W. E. B. Du Bois Institute</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Business</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_Business_School" title="Harvard Business School">Harvard Business School</a></li>
+<li>Dean <a href="/wiki/Nitin_Nohria" title="Nitin Nohria">Nitin Nohria</a></li>
+<li><a href="/wiki/Harvard_Business_Publishing" title="Harvard Business Publishing">Harvard Business Publishing</a>
+<ul>
+<li><a href="/wiki/Harvard_Business_Press" class="mw-redirect" title="Harvard Business Press">Harvard Business Press</a></li>
+<li><i><a href="/wiki/Harvard_Business_Review" title="Harvard Business Review">Harvard Business Review</a></i></li>
+</ul>
+</li>
+<li><a href="/wiki/Baker_Library/Bloomberg_Center" title="Baker Library/Bloomberg Center">Baker Library/Bloomberg Center</a></li>
+<li><a href="/wiki/Spangler_Center" title="Spangler Center">Spangler Center</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Design</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_Graduate_School_of_Design" title="Harvard Graduate School of Design">Harvard Graduate School of Design</a></li>
+<li>Dean <a href="/wiki/Mohsen_Mostafavi" title="Mohsen Mostafavi">Mohsen Mostafavi</a></li>
+<li><i><a href="/wiki/Harvard_Design_Magazine" title="Harvard Design Magazine">Harvard Design Magazine</a></i></li>
+<li><a href="/wiki/Joint_Center_for_Housing_Studies" title="Joint Center for Housing Studies">Joint Center for Housing Studies</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Divinity</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_Divinity_School" title="Harvard Divinity School">Harvard Divinity School</a></li>
+<li>Dean <a href="/wiki/David_N._Hempton" title="David N. Hempton">David N. Hempton</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Education</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_Graduate_School_of_Education" title="Harvard Graduate School of Education">Harvard Graduate School of Education</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Government</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/John_F._Kennedy_School_of_Government" title="John F. Kennedy School of Government">John F. Kennedy School of Government</a></li>
+<li>Dean <a href="/wiki/Douglas_Elmendorf" title="Douglas Elmendorf">Douglas Elmendorf</a></li>
+<li><a href="/wiki/Harvard_Institute_of_Politics" title="Harvard Institute of Politics">Institute of Politics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Law</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_Law_School" title="Harvard Law School">Harvard Law School</a></li>
+<li>Dean <a href="/wiki/Martha_Minow" title="Martha Minow">Martha Minow</a></li>
+<li><i><a href="/wiki/Harvard_Law_Review" title="Harvard Law Review">Harvard Law Review</a></i></li>
+<li><i><a href="/wiki/Harvard_Journal_of_Law_%26_Technology" title="Harvard Journal of Law &amp; Technology">Harvard Journal of Law &amp; Technology</a></i></li>
+<li><i><a href="/wiki/Harvard_Law_Record" title="Harvard Law Record">Harvard Law Record</a></i></li>
+<li><i><a href="/wiki/Harvard_International_Law_Journal" title="Harvard International Law Journal">Harvard International Law Journal</a></i></li>
+<li><i><a href="/wiki/Harvard_Civil_Rights-Civil_Liberties_Law_Review" title="Harvard Civil Rights-Civil Liberties Law Review">Harvard Civil Rights-Civil Liberties Law Review</a></i></li>
+<li><i><a href="/wiki/Harvard_Journal_on_Legislation" title="Harvard Journal on Legislation">Harvard Journal on Legislation</a></i></li>
+<li><a href="/wiki/Berkman_Center_for_Internet_%26_Society" class="mw-redirect" title="Berkman Center for Internet &amp; Society">Berkman Center</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Medicine</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%"></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_Medical_School" title="Harvard Medical School">Harvard Medical School</a></li>
+<li>Dean <a href="/wiki/Jeffrey_Scott_Flier" title="Jeffrey Scott Flier">Jeffrey Scott Flier</a></li>
+<li><a href="/wiki/Broad_Institute" title="Broad Institute">Broad Institute</a></li>
+<li><a href="/wiki/Countway_Library_of_Medicine" class="mw-redirect" title="Countway Library of Medicine">Countway Library</a></li>
+<li><a href="/wiki/Center_for_the_History_of_Medicine" class="mw-redirect" title="Center for the History of Medicine">Center for the History of Medicine</a>
+<ul>
+<li><a href="/wiki/Warren_Anatomical_Museum" title="Warren Anatomical Museum">Warren Anatomical Museum</a></li>
+</ul>
+</li>
+<li><a href="/w/index.php?title=Schepens_Eye_Research_Institute&amp;action=edit&amp;redlink=1" class="new" title="Schepens Eye Research Institute (page does not exist)">Schepens Eye Research Institute</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Dentistry</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_School_of_Dental_Medicine" title="Harvard School of Dental Medicine">Harvard School of Dental Medicine</a></li>
+<li>Dean <a href="/w/index.php?title=Bruce_Donoff&amp;action=edit&amp;redlink=1" class="new" title="Bruce Donoff (page does not exist)">Bruce Donoff</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Public health</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_T.H._Chan_School_of_Public_Health" title="Harvard T.H. Chan School of Public Health">Harvard T.H. Chan School of Public Health</a></li>
+<li>Dean <a href="/wiki/Michelle_Ann_Williams" title="Michelle Ann Williams">Michelle Ann Williams</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Museums</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_Art_Museums" title="Harvard Art Museums">Harvard Art Museums</a>
+<ul>
+<li><a href="/wiki/Arthur_M._Sackler_Museum" class="mw-redirect" title="Arthur M. Sackler Museum">Arthur M. Sackler</a></li>
+<li><a href="/wiki/Fogg_Museum" class="mw-redirect" title="Fogg Museum">Fogg Museum</a></li>
+<li><a href="/wiki/Busch%E2%80%93Reisinger_Museum" class="mw-redirect" title="Busch–Reisinger Museum">Busch-Reisinger</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Harvard_Collection_of_Historical_Scientific_Instruments" title="Harvard Collection of Historical Scientific Instruments">Harvard Collection of Historical Scientific Instruments</a></li>
+<li><a href="/wiki/Harvard_Museum_of_Natural_History" title="Harvard Museum of Natural History">Museum of Natural History</a>
+<ul>
+<li><a href="/wiki/Glass_Flowers" title="Glass Flowers">Glass Flowers</a></li>
+<li><a href="/wiki/Harvard_Mineralogical_Museum" title="Harvard Mineralogical Museum">Mineralogical Museum</a></li>
+<li><a href="/wiki/Harvard_University_Herbaria" title="Harvard University Herbaria">Herbaria</a></li>
+<li><a href="/wiki/Museum_of_Comparative_Zoology" title="Museum of Comparative Zoology">Comparative Zoology</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Peabody_Museum_of_Archaeology_and_Ethnology" title="Peabody Museum of Archaeology and Ethnology">Peabody Museum of Archaeology and Ethnology</a></li>
+<li><a href="/wiki/Semitic_Museum" title="Semitic Museum">Semitic Museum</a></li>
+<li><a href="/wiki/General_Artemas_Ward_House" title="General Artemas Ward House">General Artemas Ward House</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Cambridge<br />
+campus</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Memorial_Hall_(Harvard_University)" title="Memorial Hall (Harvard University)">Memorial Hall</a></li>
+<li><a href="/wiki/Harvard_Science_Center" title="Harvard Science Center">Science Center</a></li>
+<li><a href="/wiki/Smith_Campus_Center" title="Smith Campus Center">Smith Campus Center</a></li>
+<li><a href="/wiki/Peabody_Terrace" title="Peabody Terrace">Peabody Terrace</a></li>
+<li><a href="/wiki/Harvard_Graduate_Center" title="Harvard Graduate Center">Harvard Graduate Center</a></li>
+<li><a href="/wiki/Harvard_Hall" title="Harvard Hall">Harvard Hall</a></li>
+<li><a href="/wiki/University_Hall_(Harvard_University)" title="University Hall (Harvard University)">University Hall</a></li>
+<li><a href="/wiki/Memorial_Church_of_Harvard_University" title="Memorial Church of Harvard University">Memorial Church</a>
+<ul>
+<li><a href="/wiki/Harvard_University_Choir" title="Harvard University Choir">Choir</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Harvard_Yard" title="Harvard Yard">Harvard Yard</a></li>
+<li><a href="/wiki/Johnston_Gate" title="Johnston Gate">Johnston Gate</a></li>
+<li><a href="/wiki/Boylston_Hall" title="Boylston Hall">Boylston Hall</a></li>
+<li><a href="/wiki/Massachusetts_Hall_(Harvard_University)" title="Massachusetts Hall (Harvard University)">Massachusetts Hall</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Centers and<br />
+Institutes</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dumbarton_Oaks" title="Dumbarton Oaks">Dumbarton Oaks</a></li>
+<li><a href="/wiki/Harvard_Forest" title="Harvard Forest">Harvard Forest</a></li>
+<li><a href="/wiki/Harvard%E2%80%93MIT_Division_of_Health_Sciences_and_Technology" class="mw-redirect" title="Harvard–MIT Division of Health Sciences and Technology">Health Science and Technology</a></li>
+<li><a href="/wiki/Institute_for_Advanced_Theater_Training" title="Institute for Advanced Theater Training">Institute for Advanced Theater Training</a></li>
+<li><a href="/wiki/Radcliffe_Institute_for_Advanced_Study" title="Radcliffe Institute for Advanced Study">Radcliffe Institute for Advanced Study</a>
+<ul>
+<li><a href="/wiki/Schlesinger_Library" title="Schlesinger Library">Schlesinger Library</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Real_Colegio_Complutense" title="Real Colegio Complutense">Real Colegio Complutense</a></li>
+<li><a href="/wiki/Rowland_Institute_for_Science" title="Rowland Institute for Science">Rowland Institute for Science</a></li>
+<li><a href="/wiki/Wyss_Institute_for_Biologically_Inspired_Engineering" title="Wyss Institute for Biologically Inspired Engineering">Wyss Institute for Biologically Inspired Engineering</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Misc.</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/History_and_traditions_of_Harvard_commencements" title="History and traditions of Harvard commencements">Commencement traditions</a>
+<ul>
+<li><a href="/wiki/Academic_regalia_of_Harvard_University" title="Academic regalia of Harvard University">Academic regalia</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Heraldry_of_Harvard_University" title="Heraldry of Harvard University">Heraldry</a></li>
+<li><a href="/wiki/Harvard_Tercentenary_celebration" title="Harvard Tercentenary celebration">Tercentenary celebration</a></li>
+<li><a href="/wiki/Harvard_University_Professor" title="Harvard University Professor">Harvard University Professor</a></li>
+<li><i><a href="/wiki/Harvard_Magazine" title="Harvard Magazine">Harvard Magazine</a></i></li>
+<li><i><a href="/wiki/Harvard_Gazette" title="Harvard Gazette">Harvard Gazette</a></i></li>
+<li><a href="/wiki/Harvard_University_Press" title="Harvard University Press">Harvard University Press</a></li>
+<li><a href="/wiki/Harvard_Society_of_Fellows" title="Harvard Society of Fellows">Society of Fellows</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Tourism_in_Florence" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Florence_landmarks" title="Template:Florence landmarks"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Florence_landmarks" title="Template talk:Florence landmarks"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Florence_landmarks&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Tourism_in_Florence" style="font-size:114%;margin:0 4em"><a href="/wiki/Tourism_in_Italy" title="Tourism in Italy">Tourism</a> in <a href="/wiki/Florence" title="Florence">Florence</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Religious sites</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:6em">Basilicas</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Florence_Cathedral" title="Florence Cathedral">Cathedral of Santa Maria del Fiore</a></li>
+<li><a href="/wiki/Basilica_of_San_Lorenzo,_Florence" class="mw-redirect" title="Basilica of San Lorenzo, Florence">S Lorenzo</a>
+<ul>
+<li><a href="/wiki/Medici_Chapel" title="Medici Chapel">Medici Chapel</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Basilica_of_Santa_Croce,_Florence" class="mw-redirect" title="Basilica of Santa Croce, Florence">S Croce</a>
+<ul>
+<li><a href="/wiki/Baroncelli_Chapel" title="Baroncelli Chapel">Baroncelli</a> and <a href="/wiki/Pazzi_Chapel" title="Pazzi Chapel">Pazzi Chapels</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Basilica_of_Santa_Maria_Novella" class="mw-redirect" title="Basilica of Santa Maria Novella">S Maria Novella</a>
+<ul>
+<li><a href="/wiki/Tornabuoni_Chapel" title="Tornabuoni Chapel">Tornabuoni Chapel</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Santissima_Annunziata,_Florence" title="Santissima Annunziata, Florence">SS Annunziata</a></li>
+<li><a href="/wiki/San_Marco,_Florence" title="San Marco, Florence">S Marco</a></li>
+<li><a href="/wiki/San_Miniato_al_Monte" title="San Miniato al Monte">S Miniato al Monte</a></li>
+<li><a href="/wiki/Santa_Maria_del_Carmine,_Florence" title="Santa Maria del Carmine, Florence">S Maria del Carmine</a>
+<ul>
+<li><a href="/wiki/Brancacci_Chapel" title="Brancacci Chapel">Brancacci Chapel</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Santa_Trinita" title="Santa Trinita">S Trinita</a>
+<ul>
+<li><a href="/wiki/Bartolini_Salimbeni_Chapel" title="Bartolini Salimbeni Chapel">Bartolini Salimbeni Chapel</a></li>
+<li><a href="/wiki/Sassetti_Chapel" title="Sassetti Chapel">Sassetti Chapel</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Santo_Spirito,_Florence" title="Santo Spirito, Florence">S Spirito</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:6em"><a href="/wiki/Category:Churches_in_Florence" title="Category:Churches in Florence">Churches</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Badia_Fiorentina" title="Badia Fiorentina">Badia Fiorentina</a></li>
+<li><a href="/wiki/Florence_Baptistery" title="Florence Baptistery">Battistero di San Giovanni</a></li>
+<li><a href="/wiki/Church_of_St._Mary_of_the_Angels,_Florence" class="mw-redirect" title="Church of St. Mary of the Angels, Florence">S Mary of the Angels</a></li>
+<li><a href="/wiki/Florence_Charterhouse" title="Florence Charterhouse">Certosa</a></li>
+<li><a href="/wiki/Orsanmichele" title="Orsanmichele">Orsanmichele</a></li>
+<li><a href="/wiki/Ognissanti,_Florence" title="Ognissanti, Florence">Ognissanti</a></li>
+<li><a href="/wiki/Oratorio_dei_Vanchetoni" title="Oratorio dei Vanchetoni">Oratorio dei Vanchetoni</a></li>
+<li><a href="/wiki/Oratory_of_Ges%C3%B9_Pellegrino" title="Oratory of Gesù Pellegrino">Oratory of Gesù Pellegrino</a></li>
+<li><a href="/wiki/Oratory_of_St_Thomas_Aquinas_(Florence)" class="mw-redirect" title="Oratory of St Thomas Aquinas (Florence)">Oratory of S Thomas Aquinas</a></li>
+<li><a href="/wiki/San_Frediano_in_Cestello" title="San Frediano in Cestello">San Frediano in Cestello</a></li>
+<li><a href="/wiki/San_Gaetano,_Florence" title="San Gaetano, Florence">S Gaetano</a></li>
+<li><a href="/wiki/San_Giovannino_degli_Scolopi" title="San Giovannino degli Scolopi">S Giovannino degli Scolopi</a></li>
+<li><a href="/wiki/San_Giovannino_dei_Cavalieri" title="San Giovannino dei Cavalieri">S Giovannino dei Cavalieri</a></li>
+<li><a href="/wiki/San_Jacopo_sopr%27Arno" title="San Jacopo sopr'Arno">S Jacopo sopr'Arno</a></li>
+<li><a href="/wiki/San_Salvatore_al_Vescovo" title="San Salvatore al Vescovo">S Salvatore al Vescovo</a></li>
+<li><a href="/wiki/Sant%27Ambrogio,_Florence" title="Sant'Ambrogio, Florence">S Ambrogio</a></li>
+<li><a href="/wiki/Santa_Felicita,_Florence" title="Santa Felicita, Florence">S Felicita</a></li>
+<li><a href="/wiki/Santa_Maria_Maddalena_dei_Pazzi" title="Santa Maria Maddalena dei Pazzi">Santa Maria Maddalena dei Pazzi</a></li>
+<li><a href="/wiki/Santa_Maria_Maggiore,_Florence" title="Santa Maria Maggiore, Florence">S Maria Maggiore</a></li>
+<li><a href="/wiki/San_Martino_del_Vescovo" title="San Martino del Vescovo">S Martino del Vescovo</a></li>
+<li><a href="/wiki/Santi_Apostoli,_Florence" title="Santi Apostoli, Florence">Ss Apostoli</a></li>
+<li><a href="/wiki/San_Pancrazio,_Florence" title="San Pancrazio, Florence">S Pancrazio</a></li>
+<li><a href="/wiki/San_Salvi" title="San Salvi">S Salvi</a></li>
+<li><a href="/wiki/Santi_Simone_e_Giuda,_Florence" title="Santi Simone e Giuda, Florence">Ss Simone e Giuda</a></li>
+<li><a href="/wiki/Santo_Stefano_al_Ponte" title="Santo Stefano al Ponte">S Stefano al Ponte</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:6em">Other</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Great_Synagogue_of_Florence" title="Great Synagogue of Florence">Great Synagogue</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+<td class="navbox-image" rowspan="12" style="width:1px;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:FlorenceCoA.svg" class="image"><img alt="FlorenceCoA.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/FlorenceCoA.svg/60px-FlorenceCoA.svg.png" width="60" height="78" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/FlorenceCoA.svg/90px-FlorenceCoA.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ae/FlorenceCoA.svg/120px-FlorenceCoA.svg.png 2x" data-file-width="660" data-file-height="860" /></a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Museums, galleries<br />
+and palaces</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bargello" title="Bargello">Bargello</a></li>
+<li><a href="/wiki/Casa_Buonarroti" title="Casa Buonarroti">Casa Buonarroti</a></li>
+<li><a href="/wiki/Casa_Guidi" title="Casa Guidi">Casa Guidi</a></li>
+<li><a href="/wiki/Galleria_dell%27Accademia" title="Galleria dell'Accademia">Galleria dell'Accademia</a>
+<ul>
+<li><a href="/wiki/David_(Michelangelo)" title="David (Michelangelo)"><i>David</i></a></li>
+</ul>
+</li>
+<li><a href="/wiki/Garden_of_Archimedes" title="Garden of Archimedes">Garden of Archimedes</a></li>
+<li><a href="/wiki/Loggia_del_Bigallo" title="Loggia del Bigallo">Loggia del Bigallo</a></li>
+<li><a href="/wiki/Loggia_del_Mercato_Nuovo" title="Loggia del Mercato Nuovo">Loggia del Mercato Nuovo</a></li>
+<li><a href="/wiki/Loggia_del_Pesce" title="Loggia del Pesce">Loggia del Pesce</a></li>
+<li><a href="/wiki/Loggia_Rucellai" title="Loggia Rucellai">Loggia Rucellai</a></li>
+<li><a href="/wiki/Museo_dell%27Opera_del_Duomo_(Florence)" title="Museo dell'Opera del Duomo (Florence)">Museo dell'Opera del Duomo</a></li>
+<li><a href="/wiki/Museo_Galileo" title="Museo Galileo">Museo Galileo</a></li>
+<li><a href="/wiki/Museo_Nazionale_Alinari_della_Fotografia" title="Museo Nazionale Alinari della Fotografia">Museo Nazionale Alinari della Fotografia</a></li>
+<li><a href="/wiki/Museo_Nazionale_di_San_Marco" title="Museo Nazionale di San Marco">Museo Nazionale di San Marco</a></li>
+<li><a href="/wiki/Museo_di_Storia_Naturale_di_Firenze" title="Museo di Storia Naturale di Firenze">Museo di Storia Naturale di Firenze</a>
+<ul>
+<li><a href="/wiki/La_Specola" title="La Specola">La Specola</a></li>
+</ul>
+</li>
+<li><a href="/wiki/National_Archaeological_Museum_(Florence)" title="National Archaeological Museum (Florence)">National Archaeological Museum</a></li>
+<li><a href="/wiki/Orsanmichele" title="Orsanmichele">Orsanmichele</a></li>
+<li><a href="/wiki/Ospedale_degli_Innocenti" title="Ospedale degli Innocenti">Ospedale degli Innocenti</a></li>
+<li><a href="/wiki/Palazzo_dell%27Arte_dei_Beccai" title="Palazzo dell'Arte dei Beccai">Palazzo dell'Arte dei Beccai</a></li>
+<li><a href="/wiki/Palazzo_Davanzati" title="Palazzo Davanzati">Palazzo Davanzati</a></li>
+<li><a href="/wiki/Palazzo_Gondi" title="Palazzo Gondi">Palazzo Gondi</a></li>
+<li><a href="/wiki/Palazzo_Medici_Riccardi" title="Palazzo Medici Riccardi">Palazzo Medici Riccardi</a>
+<ul>
+<li><a href="/wiki/Magi_Chapel" title="Magi Chapel">Magi Chapel</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Palazzo_Pitti" title="Palazzo Pitti">Palazzo Pitti</a>
+<ul>
+<li><a href="/wiki/Museo_delle_Porcellane" class="mw-redirect" title="Museo delle Porcellane">Museo delle Porcellane</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Palazzo_Vecchio" title="Palazzo Vecchio">Palazzo Vecchio</a>
+<ul>
+<li><a href="/wiki/Studiolo_of_Francesco_I" title="Studiolo of Francesco I">Studiolo of Francesco I</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Palazzo_Spini_Feroni" title="Palazzo Spini Feroni">Palazzo Spini Feroni</a></li>
+<li><a href="/wiki/Stibbert_Museum" title="Stibbert Museum">Stibbert Museum</a></li>
+<li><a href="/wiki/Uffizi" title="Uffizi">Uffizi</a>
+<ul>
+<li><a href="/wiki/Loggia_dei_Lanzi" title="Loggia dei Lanzi">Loggia dei Lanzi</a></li>
+<li><a href="/wiki/Vasari_Corridor" title="Vasari Corridor">Vasari Corridor</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Towers (Torri)</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Torre_degli_Amidei" title="Torre degli Amidei">degli Amidei</a></li>
+<li><a href="/wiki/Giotto%27s_Campanile" title="Giotto's Campanile">Giotto's Campanile</a></li>
+<li><a href="/wiki/Torre_degli_Alberti" title="Torre degli Alberti">degli Alberti</a></li>
+<li><a href="/wiki/Torre_dei_Della_Bella" title="Torre dei Della Bella">dei Della Bella</a></li>
+<li><a href="/wiki/Torre_dei_Gianfigliazzi" title="Torre dei Gianfigliazzi">dei Gianfigliazzi</a></li>
+<li><a href="/wiki/Torre_dei_Mannelli" title="Torre dei Mannelli">dei Mannelli</a></li>
+<li><a href="/wiki/Torre_dei_Pulci" title="Torre dei Pulci">dei Pulci</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Library</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Biblioteca_Riccardiana" title="Biblioteca Riccardiana">Biblioteca Riccardiana</a> at Palazzo Medici Riccardi</li>
+<li><a href="/wiki/British_Institute_of_Florence" title="British Institute of Florence">British Institute of Florence</a></li>
+<li><a href="/wiki/Gabinetto_Vieusseux" title="Gabinetto Vieusseux">Gabinetto Vieusseux</a> (<a href="/wiki/Palazzo_Strozzi" title="Palazzo Strozzi">Palazzo Strozzi</a>)</li>
+<li><a href="/wiki/Kunsthistorisches_Institut_in_Florenz" title="Kunsthistorisches Institut in Florenz">Kunsthistorisches Institut</a></li>
+<li><a href="/wiki/Laurentian_Library" title="Laurentian Library">Laurentian Library</a></li>
+<li><a href="/wiki/National_Central_Library_(Florence)" title="National Central Library (Florence)">National Central Library</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Landmarks</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Fountain_of_Neptune,_Florence" title="Fountain of Neptune, Florence">Fountain of Neptune</a></li>
+<li><a href="/wiki/Giotto%27s_Campanile" title="Giotto's Campanile">Giotto's Campanile</a></li>
+<li><a href="/wiki/Ponte_Vecchio" title="Ponte Vecchio">Ponte Vecchio</a></li>
+<li><a href="/wiki/Monument_to_Dante" title="Monument to Dante">Monument to Dante</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Theatres_in_Florence" title="Theatres in Florence">Theatres</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Teatro_Comunale_Florence" title="Teatro Comunale Florence">Teatro Comunale Florence</a></li>
+<li><a href="/wiki/Teatro_della_Pergola" title="Teatro della Pergola">Teatro della Pergola</a></li>
+<li><a href="/wiki/Teatro_Verdi_(Florence)" title="Teatro Verdi (Florence)">Teatro Verdi</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_squares_in_Florence" title="List of squares in Florence">Squares</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Squares_of_Florence" class="mw-redirect" title="Squares of Florence">Squares of Florence</a></li>
+<li><a href="/wiki/Piazza_del_Duomo,_Florence" title="Piazza del Duomo, Florence">Piazza del Duomo</a></li>
+<li><a href="/wiki/Piazza_della_Repubblica,_Florence" title="Piazza della Repubblica, Florence">Piazza della Repubblica</a></li>
+<li><a href="/wiki/Piazza_Santa_Croce" title="Piazza Santa Croce">Piazza Santa Croce</a></li>
+<li><a href="/wiki/Piazza_della_Signoria" title="Piazza della Signoria">Piazza della Signoria</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Streets</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Via_Camillo_Cavour" title="Via Camillo Cavour">Via Cavour</a></li>
+<li><a href="/wiki/Via_de%27_Tornabuoni" title="Via de' Tornabuoni">Via de' Tornabuoni</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Fort</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Belvedere_(fort)" title="Belvedere (fort)">Belvedere</a></li>
+<li><a href="/wiki/Fortezza_da_Basso" title="Fortezza da Basso">Fortezza da Basso</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Gardens and parks</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Boboli_Gardens" title="Boboli Gardens">Boboli Gardens</a></li>
+<li><a href="/wiki/Giardino_Bardini" title="Giardino Bardini">Giardino Bardini</a></li>
+<li><a href="/wiki/Giardino_dell%27Iris" title="Giardino dell'Iris">Giardino dell'Iris</a></li>
+<li><a href="/wiki/Giardino_delle_rose_(Firenze)" title="Giardino delle rose (Firenze)">Giardino delle rose</a></li>
+<li><a href="/wiki/Orto_Botanico_di_Firenze" title="Orto Botanico di Firenze">Orto Botanico di Firenze</a></li>
+<li><a href="/wiki/Parco_delle_Cascine" title="Parco delle Cascine">Parco delle Cascine</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Villas</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Medici_villas" title="Medici villas">Medici villas</a>
+<ul>
+<li><a href="/wiki/Villa_di_Castello" title="Villa di Castello">di Castello</a></li>
+<li><a href="/wiki/Villa_La_Petraia" title="Villa La Petraia">La Petraia</a></li>
+<li><a href="/wiki/Villa_Medici_at_Careggi" title="Villa Medici at Careggi">di Careggi</a></li>
+<li><a href="/wiki/Villa_Medicea_L%27Ambrogiana" title="Villa Medicea L'Ambrogiana">Medicea L'Ambrogiana</a></li>
+<li><a href="/wiki/Villa_del_Poggio_Imperiale" title="Villa del Poggio Imperiale">del Poggio Imperiale</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Villa_Gamberaia" title="Villa Gamberaia">Gamberaia</a></li>
+<li><a class="mw-selflink selflink">I Tatti</a></li>
+<li><a href="/wiki/Villa_Il_Gioiello" title="Villa Il Gioiello">Il Gioiello</a></li>
+<li><a href="/wiki/Villa_La_Pietra" title="Villa La Pietra">La Pietra</a></li>
+<li><a href="/wiki/Villa_Rusciano" title="Villa Rusciano">Rusciano</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Events and traditions</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Calcio_Fiorentino" title="Calcio Fiorentino">Calcio Fiorentino</a></li>
+<li><a href="/wiki/Maggio_Musicale_Fiorentino" title="Maggio Musicale Fiorentino">Maggio Musicale Fiorentino</a></li>
+<li><a href="/wiki/Scoppio_del_carro" title="Scoppio del carro">Scoppio del carro</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div><a href="/wiki/Category:Districts_of_Florence" title="Category:Districts of Florence">Districts of Florence</a> • <a href="/wiki/Trams_in_Florence" title="Trams in Florence">Trams in Florence</a></div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1324
+Cached time: 20171016215412
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 0.288 seconds
+Real time usage: 0.376 seconds
+Preprocessor visited node count: 1473/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 126528/2097152 bytes
+Template argument size: 1553/2097152 bytes
+Highest expansion depth: 27/40
+Expensive parser function count: 2/500
+Lua time usage: 0.096/10.000 seconds
+Lua memory usage: 3.99 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  250.629      1 -total
+ 41.85%  104.897      5 Template:Navbox
+ 25.53%   63.993      2 Template:Update_after
+ 23.08%   57.840      1 Template:Harvard
+ 21.39%   53.615      2 Template:Fix-span
+ 16.92%   42.415      4 Template:Category_handler
+ 13.45%   33.710      2 Template:Cite_web
+ 12.90%   32.321      1 Template:Commons_category
+ 11.71%   29.360      3 Template:CollegePrimaryStyle
+  8.14%   20.399      1 Template:Main
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:27150585-0!canonical and timestamp 20171016215412 and revision id 782870902
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Villa_I_Tatti&amp;oldid=782870902">https://en.wikipedia.org/w/index.php?title=Villa_I_Tatti&amp;oldid=782870902</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Harvard_University_schools" title="Category:Harvard University schools">Harvard University schools</a></li><li><a href="/wiki/Category:Italian_Renaissance" title="Category:Italian Renaissance">Italian Renaissance</a></li><li><a href="/wiki/Category:Libraries_in_Florence" title="Category:Libraries in Florence">Libraries in Florence</a></li><li><a href="/wiki/Category:Villas_in_Florence" title="Category:Villas in Florence">Villas in Florence</a></li><li><a href="/wiki/Category:Early_music" title="Category:Early music">Early music</a></li><li><a href="/wiki/Category:Research_institutes_in_Italy" title="Category:Research institutes in Italy">Research institutes in Italy</a></li><li><a href="/wiki/Category:Photo_archives" title="Category:Photo archives">Photo archives</a></li><li><a href="/wiki/Category:Tourist_attractions_in_Florence" title="Category:Tourist attractions in Florence">Tourist attractions in Florence</a></li><li><a href="/wiki/Category:Harvard_University_buildings" title="Category:Harvard University buildings">Harvard University buildings</a></li><li><a href="/wiki/Category:Former_private_collections" title="Category:Former private collections">Former private collections</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_articles_in_need_of_updating_from_December_2010" title="Category:Wikipedia articles in need of updating from December 2010">Wikipedia articles in need of updating from December 2010</a></li><li><a href="/wiki/Category:Wikipedia_articles_in_need_of_updating_from_December_2011" title="Category:Wikipedia articles in need of updating from December 2011">Wikipedia articles in need of updating from December 2011</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Villa+I+Tatti" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Villa+I+Tatti" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Villa_I_Tatti" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Villa_I_Tatti" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Villa_I_Tatti">Read</a></span></li>
+							<li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Villa_I_Tatti&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Villa_I_Tatti&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Villa_I_Tatti" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Villa_I_Tatti" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Villa_I_Tatti&amp;oldid=782870902" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Villa_I_Tatti&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3558578" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Villa_I_Tatti&amp;id=782870902" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Villa+I+Tatti">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Villa+I+Tatti&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Villa_I_Tatti&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Villa_I_Tatti" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Villa_I_Tatti" title="Villa I Tatti – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Villa_I_Tatti" title="Villa I Tatti – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3558578#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 29 May 2017, at 18:35.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Villa_I_Tatti&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.288","walltime":"0.376","ppvisitednodes":{"value":1473,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":126528,"limit":2097152},"templateargumentsize":{"value":1553,"limit":2097152},"expansiondepth":{"value":27,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  250.629      1 -total"," 41.85%  104.897      5 Template:Navbox"," 25.53%   63.993      2 Template:Update_after"," 23.08%   57.840      1 Template:Harvard"," 21.39%   53.615      2 Template:Fix-span"," 16.92%   42.415      4 Template:Category_handler"," 13.45%   33.710      2 Template:Cite_web"," 12.90%   32.321      1 Template:Commons_category"," 11.71%   29.360      3 Template:CollegePrimaryStyle","  8.14%   20.399      1 Template:Main"]},"scribunto":{"limitreport-timeusage":{"value":"0.096","limit":"10.000"},"limitreport-memusage":{"value":4182323,"limit":52428800}},"cachereport":{"origin":"mw1324","timestamp":"20171016215412","ttl":3600,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":463,"wgHostname":"mw1324"});});</script>
+	</body>
+</html>

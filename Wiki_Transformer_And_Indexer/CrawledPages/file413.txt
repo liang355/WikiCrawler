@@ -1,0 +1,1225 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Bremerhaven - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Bremerhaven","wgTitle":"Bremerhaven","wgCurRevisionId":805752342,"wgRevisionId":805752342,"wgArticleId":18933240,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 German-language sources (de)","Webarchive template wayback links","All articles with dead external links","Articles with dead external links from November 2016","Articles with permanently dead external links","CS1 French-language sources (fr)","CS1 Polish-language sources (pl)","Coordinates on Wikidata","Articles with hAudio microformats","Interlanguage link template link number","All articles with unsourced statements","Articles with unsourced statements from December 2007","Wikipedia articles with VIAF identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","Cities in Bremen (state)","Bremerhaven","Enclaves and exclaves","Populated coastal places in Germany (North Sea)","Port cities and towns in Germany","Port cities and towns of the North Sea","1827 establishments in Bremen"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Bremerhaven","wgRelevantArticleId":18933240,"wgRequestId":"WeX0FQpAAEAAAG9@iaIAAAAA","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCoordinates":{"lat":53.55,"lon":8.5833333333333},"wgWikibaseItemId":"Q2706","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.3"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Havenwelten_%C3%9Cberblick_Bremerhaven_2013.jpg/1200px-Havenwelten_%C3%9Cberblick_Bremerhaven_2013.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Bremerhaven"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Bremerhaven&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Bremerhaven&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Bremerhaven"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Bremerhaven rootpage-Bremerhaven vector-experimental-print-styles vector-nav-directionality skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Bremerhaven</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox geography vcard" style="width:22em;width:23em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap"><span class="fn org"><span class="wrap">Bremerhaven</span></span></th>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Havenwelten_%C3%9Cberblick_Bremerhaven_2013.jpg" class="image" title="Bremerhaven in July 2013"><img alt="Bremerhaven in July 2013" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Havenwelten_%C3%9Cberblick_Bremerhaven_2013.jpg/250px-Havenwelten_%C3%9Cberblick_Bremerhaven_2013.jpg" width="250" height="168" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Havenwelten_%C3%9Cberblick_Bremerhaven_2013.jpg/375px-Havenwelten_%C3%9Cberblick_Bremerhaven_2013.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Havenwelten_%C3%9Cberblick_Bremerhaven_2013.jpg/500px-Havenwelten_%C3%9Cberblick_Bremerhaven_2013.jpg 2x" data-file-width="4423" data-file-height="2969" /></a>
+<div>Bremerhaven in July 2013</div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" class="maptable" style="text-align:center">
+<table style="width:100%; background:none;">
+<tr>
+<td style="vertical-align:middle; text-align:center;"><a href="/wiki/File:Wappen_Bremerhaven.png" class="image" title="Coat of arms of Bremerhaven  "><img alt="Coat of arms of Bremerhaven  " src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Wappen_Bremerhaven.png/70px-Wappen_Bremerhaven.png" width="70" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Wappen_Bremerhaven.png/105px-Wappen_Bremerhaven.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Wappen_Bremerhaven.png/140px-Wappen_Bremerhaven.png 2x" data-file-width="278" data-file-height="318" /></a><br />
+<small>Coat of arms</small></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center">
+<div class="center">
+<div style="width:170px;float:none;clear:both;margin-left:auto;margin-right:auto">
+<div style="width:170px;padding:0">
+<div style="position:relative;width:170px"><a href="/wiki/File:Germany_adm_location_map.svg" class="image" title="Bremerhaven   is located in Germany"><img alt="Bremerhaven   is located in Germany" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/170px-Germany_adm_location_map.svg.png" width="170" height="202" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/255px-Germany_adm_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/340px-Germany_adm_location_map.svg.png 2x" data-file-width="1073" data-file-height="1272" /></a>
+<div style="position:absolute;top:19.62%;left:30.833%">
+<div style="position:absolute;left:-3px;top:-3px;line-height:0"><img alt="Bremerhaven  " src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png" title="Bremerhaven  " width="6" height="6" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/9px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div>
+<div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:4px;text-align:left"><span style="padding:1px;float:left"><span class="wrap">Bremerhaven</span></span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr class="mergedbottomrow">
+<td colspan="2" style="text-align:center">Coordinates: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Bremerhaven&amp;params=53_33_0_N_8_35_0_E_type:city(114025)_region:DE-HB"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">53°33′0″N</span> <span class="longitude">8°35′0″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">53.55000°N 8.58333°E</span><span style="display:none">﻿ / <span class="geo">53.55000; 8.58333</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Bremerhaven&amp;params=53_33_0_N_8_35_0_E_type:city(114025)_region:DE-HB"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">53°33′0″N</span> <span class="longitude">8°35′0″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">53.55000°N 8.58333°E</span><span style="display:none">﻿ / <span class="geo">53.55000; 8.58333</span></span></span></a></span></span></span></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Country</th>
+<td><a href="/wiki/Germany" title="Germany">Germany</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/States_of_Germany" title="States of Germany">State</a></th>
+<td><a href="/wiki/Bremen_(state)" title="Bremen (state)">Bremen</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Founded</th>
+<td>1827</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Government</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;<a href="/wiki/Lord_Mayor" class="mw-redirect" title="Lord Mayor">Lord Mayor</a></th>
+<td>Melf Grantz (<a href="/wiki/SPD" class="mw-redirect" title="SPD">SPD</a>)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Area</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Total</th>
+<td>93.82&#160;km<sup>2</sup> (36.22&#160;sq&#160;mi)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Elevation</th>
+<td>2&#160;m (7&#160;ft)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Population <span style="font-weight:normal">(2015-12-31)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></span></th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Total</th>
+<td>114,025</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Density</th>
+<td>1,200/km<sup>2</sup> (3,100/sq&#160;mi)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/Time_zone" title="Time zone">Time zone</a></th>
+<td><a href="/wiki/Central_European_Time" title="Central European Time">CET</a>/<a href="/wiki/Central_European_Summer_Time" title="Central European Summer Time">CEST</a> (UTC+1/+2)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/List_of_postal_codes_in_Germany" title="List of postal codes in Germany">Postal codes</a></th>
+<td class="adr"><span class="postal-code">27568-27580</span></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/List_of_dialling_codes_in_Germany" title="List of dialling codes in Germany">Dialling codes</a></th>
+<td>0471</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Vehicle_registration_plate" title="Vehicle registration plate">Vehicle registration</a></th>
+<td>HB <small>(with 1 letter and 4 <a href="/wiki/Numerical_digit" title="Numerical digit">digits</a>)</small></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Website</th>
+<td><a rel="nofollow" class="external text" href="http://www.bremerhaven.de/">bremerhaven.de</a></td>
+</tr>
+</table>
+<p><b>Bremerhaven</b> (<small>German pronunciation:</small> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA/Standard_German" title="Help:IPA/Standard German">[ˌbʁeːmɐˈhaːfn̩]</a></span><small class="nowrap metadata">&#160;(<span class="unicode haudio"><span class="fn"><span style="white-space:nowrap"><a href="/wiki/File:De-Bremerhaven.ogg" title="About this sound"><img alt="About this sound" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" data-file-width="20" data-file-height="20" /></a>&#160;</span><a href="//upload.wikimedia.org/wikipedia/commons/b/be/De-Bremerhaven.ogg" class="internal" title="De-Bremerhaven.ogg">listen</a></span></span>)</small>, literally "<a href="/wiki/Bremen" title="Bremen">Bremen</a>'s harbour", <a href="/wiki/Low_German" title="Low German">Low German</a>: <i>Bremerhoben</i>) is a city at the <a href="/wiki/Port_city" class="mw-redirect" title="Port city">seaport</a> of the <a href="/wiki/Bremen_(state)" title="Bremen (state)">Free Hanseatic City of Bremen</a>, a <a href="/wiki/States_of_Germany" title="States of Germany">state</a> of the <a href="/wiki/Germany" title="Germany">Federal Republic of Germany</a>.</p>
+<p>It forms an <a href="/wiki/Enclave" class="mw-redirect" title="Enclave">enclave</a> in the state of <a href="/wiki/Lower_Saxony" title="Lower Saxony">Lower Saxony</a> and is located at the mouth of the <a href="/wiki/Weser_River" class="mw-redirect" title="Weser River">River Weser</a> on its eastern bank, opposite the town of <a href="/wiki/Nordenham" title="Nordenham">Nordenham</a>. Though a relatively new city, it has a long history as a <a href="/wiki/Trade" title="Trade">trade</a> <a href="/wiki/Port" title="Port">port</a> and today is one of the most important German ports, playing a crucial role in Germany's trade.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Trade"><span class="tocnumber">2</span> <span class="toctext">Trade</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Climate"><span class="tocnumber">3</span> <span class="toctext">Climate</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Transportation"><span class="tocnumber">4</span> <span class="toctext">Transportation</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Roads"><span class="tocnumber">4.1</span> <span class="toctext">Roads</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Railway"><span class="tocnumber">4.2</span> <span class="toctext">Railway</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Tourist_attractions"><span class="tocnumber">5</span> <span class="toctext">Tourist attractions</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Politics"><span class="tocnumber">6</span> <span class="toctext">Politics</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Sport"><span class="tocnumber">7</span> <span class="toctext">Sport</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Research_and_Education"><span class="tocnumber">8</span> <span class="toctext">Research and Education</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#International_relations"><span class="tocnumber">9</span> <span class="toctext">International relations</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#Twin_towns_.E2.80.93_Sister_cities"><span class="tocnumber">9.1</span> <span class="toctext">Twin towns – Sister cities</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#People_born_in_Bremerhaven"><span class="tocnumber">10</span> <span class="toctext">People born in Bremerhaven</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#People_who_have_worked_in_the_city"><span class="tocnumber">11</span> <span class="toctext">People who have worked in the city</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#References_and_notes"><span class="tocnumber">12</span> <span class="toctext">References and notes</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#External_links"><span class="tocnumber">13</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bremerhaven&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:172px;"><a href="/wiki/File:Denkmal_Johann_Smidt.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Denkmal_Johann_Smidt.jpg/170px-Denkmal_Johann_Smidt.jpg" width="170" height="227" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Denkmal_Johann_Smidt.jpg/255px-Denkmal_Johann_Smidt.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/35/Denkmal_Johann_Smidt.jpg/340px-Denkmal_Johann_Smidt.jpg 2x" data-file-width="1712" data-file-height="2288" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Denkmal_Johann_Smidt.jpg" class="internal" title="Enlarge"></a></div>
+City founder <a href="/wiki/Johann_Smidt" title="Johann Smidt">Johann Smidt</a></div>
+</div>
+</div>
+<p><span style="white-space: nowrap">The town was founded</span> in 1827, but settlements, such as Lehe, were in the vicinity as early as the 12th century, and Geestendorf, which was "mentioned in documents of the ninth century".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> These tiny villages were built on small islands in the swampy estuary. In 1381, the city of <a href="/wiki/Bremen" title="Bremen">Bremen</a> established <i>de facto</i> rule over the lower <a href="/wiki/Weser" title="Weser">Weser</a> stream, including Lehe, later therefore called Bremerlehe. Early in 1653, <a href="/wiki/Sweden" title="Sweden">Swedish</a> <a href="/wiki/Bremen-Verden" title="Bremen-Verden">Bremen-Verden</a>'s troops captured Bremerlehe by force.</p>
+<p>The <a href="/wiki/Emperor_Ferdinand_III" class="mw-redirect" title="Emperor Ferdinand III">Emperor Ferdinand III</a> ordered his vassal <a href="/wiki/Christina_of_Sweden" class="mw-redirect" title="Christina of Sweden">Christina of Sweden</a>, then Duchess regnant of Bremen-Verden, to restitute Bremerlehe to Bremen. However, Swedish Bremen-Verden soon enacted the <a href="/wiki/First_Bremian_War" class="mw-redirect" title="First Bremian War">First Bremian War</a> (March to July 1654) and in the following peace treaty (<a href="/w/index.php?title=Recess_of_Stade_(1654)&amp;action=edit&amp;redlink=1" class="new" title="Recess of Stade (1654) (page does not exist)">First Stade Recess</a><span class="noprint" style="font-size:85%; font-style: normal;">&#160;(<a href="https://de.wikipedia.org/wiki/Erster_Stader_Vergleich" class="extiw" title="de:Erster Stader Vergleich">de</a>)</span>; November 1654) Bremen had to cede Bremerlehe and its surroundings to Swedish Bremen-Verden. The latter developed plans to found a fortified town on the site, and much later this location became the present-day city of Bremerhaven. In 1672, under the reign of <a href="/wiki/Charles_XI_of_Sweden" title="Charles XI of Sweden">Charles XI of Sweden</a>, in <a href="/wiki/Personal_union" title="Personal union">personal union</a> Duke of <a href="/w/index.php?title=Duchy_of_Bremen-Verden&amp;action=edit&amp;redlink=1" class="new" title="Duchy of Bremen-Verden (page does not exist)">Bremen-Verden</a>—colonists tried unsuccessfully to erect a castle (named <a href="/wiki/Carlsburg,_Weser" title="Carlsburg, Weser">Carlsburg</a> after Charles XI) there; this fortified structure was meant to protect, as well as control shipping heading for Bremen.</p>
+<p>Finally, in 1827, the city of Bremen under <a href="/wiki/Burgomaster" title="Burgomaster">Burgomaster</a> <a href="/wiki/Johann_Smidt" title="Johann Smidt">Johann Smidt</a> bought the territories at the mouth of the Weser from the <a href="/wiki/Kingdom_of_Hanover" title="Kingdom of Hanover">Kingdom of Hanover</a>. Bremen sought this territory to retain its share of Germany's overseas trade, which was threatened by the silting up of the Weser around the old inland port of Bremen. Bremerhaven (literally in English: Bremener Haven/Harbour) was founded to be a haven for Bremen's merchant marine, becoming the second harbour for Bremen, despite being 50&#160;km (31&#160;mi) downstream. Due to trade with, and emigration to North America, the port and the town grew quickly. In 1848, Bremerhaven became the home port of the <a href="/wiki/German_Confederation" title="German Confederation">German Confederation</a>'s <a href="/wiki/Reichsflotte" title="Reichsflotte">Navy</a> under <a href="/wiki/Karl_Rudolf_Brommy" title="Karl Rudolf Brommy">Karl Rudolf Brommy</a>.</p>
+<p>The <a href="/wiki/Kingdom_of_Hanover" title="Kingdom of Hanover">Kingdom of Hanover</a> founded a rival town next to Bremerhaven and called it <b>Geestemünde</b> (1845). Both towns grew and established the three economic pillars of trade, shipbuilding and fishing. Following inter-state negotiations at different times, Bremerhaven's boundary was several times extended at the expense of Hanoveran territory. In 1924, Geestemünde and the neighbouring municipality of Lehe were united to become the new city of <b>Wesermünde</b>, and in 1939 Bremerhaven (apart from the overseas port) was removed from the jurisdiction of Bremen and made a part of Wesermünde, then a part of the Prussian <a href="/wiki/Province_of_Hanover" title="Province of Hanover">Province of Hanover</a>.</p>
+<p>Bremerhaven was one of the important harbours of emigration in Europe.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:282px;"><a href="/wiki/File:Jade-weser-muendung_map_de.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Jade-weser-muendung_map_de.png/280px-Jade-weser-muendung_map_de.png" width="280" height="260" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Jade-weser-muendung_map_de.png/420px-Jade-weser-muendung_map_de.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Jade-weser-muendung_map_de.png/560px-Jade-weser-muendung_map_de.png 2x" data-file-width="800" data-file-height="743" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Jade-weser-muendung_map_de.png" class="internal" title="Enlarge"></a></div>
+Bremerhaven on the east bank of the Weser</div>
+</div>
+</div>
+<p>As possibly the most critical North Sea base of the Nazi War Navy, the <a href="/wiki/Kriegsmarine" title="Kriegsmarine">Kriegsmarine</a>, most of the city was destroyed in the allied air <a href="/wiki/Bombing_of_Bremen_in_World_War_II" title="Bombing of Bremen in World War II">bombing of Bremen in World War II</a>; however, key parts of the port were deliberately spared<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2007)">citation needed</span></a></i>]</sup> by the <a href="/wiki/Allies_of_World_War_II" title="Allies of World War II">Allied forces</a> to provide a usable harbour for supplying the Allies after the war. All of Wesermünde, including those parts which did not previously belong to Bremerhaven, was a postwar enclave run by the United States within the British zone of northern Germany. Most of the US military units and their personnel were assigned to the city's Carl Schurz Kaserne. One of the longest US units based at the Kaserne was a US military radio and TV station, an "Amerikanischer Soldatensender", <a href="/wiki/AFN_Bremerhaven" title="AFN Bremerhaven">AFN Bremerhaven</a>, which broadcast for 48 years. In 1993, the Kaserne was vacated by the US military and returned to the German government. In 1947 the city became part of the federal state <a href="/wiki/Bremen_(state)" title="Bremen (state)">Free Hanseatic City of Bremen</a> and was consequently renamed from Wesermünde to Bremerhaven. Today, Bremerhaven is therefore part of the <a href="/wiki/City-state" title="City-state">city-state</a> of Bremen, being to all intents and purposes a state comprising two cities, while also a city in its own right. This is complicated somewhat by the fact that the city of Bremen has owned the "overseas port" within Bremerhaven since 1927. To further complicate matters, a treaty between the two cities (as mentioned in Section 8 of Bremerhaven's municipal constitution) makes Bremerhaven responsible for the municipal administration of those parts owned directly by Bremen (known as <i>stadtbremisch</i>).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<table class="infobox" style="float:right;">
+<tr>
+<td colspan="2"><b>Largest groups of foreign residents</b></td>
+</tr>
+<tr>
+<th>Nationality</th>
+<th>Population (2017)</th>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/23px-Flag_of_Turkey.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/35px-Flag_of_Turkey.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/45px-Flag_of_Turkey.svg.png 2x" data-file-width="1200" data-file-height="800" />&#160;</span><a href="/wiki/Turkey" title="Turkey">Turkey</a></td>
+<td>8,929</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/23px-Flag_of_Bulgaria.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/35px-Flag_of_Bulgaria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/46px-Flag_of_Bulgaria.svg.png 2x" data-file-width="1000" data-file-height="600" />&#160;</span><a href="/wiki/Bulgaria" title="Bulgaria">Bulgaria</a></td>
+<td>2,112</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/35px-Flag_of_Poland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/46px-Flag_of_Poland.svg.png 2x" data-file-width="1280" data-file-height="800" />&#160;</span><a href="/wiki/Poland" title="Poland">Poland</a></td>
+<td>1,159</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/23px-Flag_of_Romania.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/35px-Flag_of_Romania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/45px-Flag_of_Romania.svg.png 2x" data-file-width="600" data-file-height="400" />&#160;</span><a href="/wiki/Romania" title="Romania">Romania</a></td>
+<td>1,047</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/23px-Flag_of_Syria.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/35px-Flag_of_Syria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/45px-Flag_of_Syria.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Syria" title="Syria">Syria</a></td>
+<td>875</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/23px-Flag_of_Iran.svg.png" width="23" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/35px-Flag_of_Iran.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/46px-Flag_of_Iran.svg.png 2x" data-file-width="630" data-file-height="360" />&#160;</span><a href="/wiki/Iran" title="Iran">Iran</a></td>
+<td>722</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/23px-Flag_of_Iraq.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/35px-Flag_of_Iraq.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/45px-Flag_of_Iraq.svg.png 2x" data-file-width="411" data-file-height="274" />&#160;</span><a href="/wiki/Iraq" title="Iraq">Iraq</a></td>
+<td>640</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Trade">Trade</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bremerhaven&amp;action=edit&amp;section=2" title="Edit section: Trade">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The port of Bremerhaven is the sixteenth-largest <a href="/wiki/Containerization" title="Containerization">container</a> port in the world and the fourth-largest in Europe with 4.9 million&#160;<a href="/wiki/Twenty-foot_equivalent_unit" title="Twenty-foot equivalent unit">twenty-foot equivalent units</a>&#160;(TEU) of cargo handled in 2007<sup id="cite_ref-dcn_5-0" class="reference"><a href="#cite_note-dcn-5">[5]</a></sup> and 5,5 million in 2015.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> The container terminal is situated on the bank of the river Weser opening to the north-sea. In the wet dock parts, accessible by two large locks, more than 2 million cars are imported or exported every year with 2,3 million in 2014. Bremerhaven imports and exports more cars than any other city in Europe. Another million tons of "High-and-Heavy" goods are handled with <a href="/wiki/Roll-on/roll-off" title="Roll-on/roll-off">ro-ro</a> ships. In 2011 a new <a href="/wiki/Panamax" title="Panamax">panamax</a>-sized lock has replaced the 1897 <i>Kaiserschleuse</i>, then the largest lock worldwide.</p>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Ports_of_Bremen" title="Ports of Bremen">Ports of Bremen</a></div>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 235px">
+<div style="width: 235px">
+<div class="thumb" style="width: 230px;">
+<div style="margin:15px auto;"><a href="/wiki/File:A_Weser_watershed_closer.gif" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/A_Weser_watershed_closer.gif/131px-A_Weser_watershed_closer.gif" width="131" height="200" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/A_Weser_watershed_closer.gif/197px-A_Weser_watershed_closer.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/A_Weser_watershed_closer.gif/263px-A_Weser_watershed_closer.gif 2x" data-file-width="370" data-file-height="563" /></a></div>
+</div>
+<div class="gallerytext">
+<p>The river Weser flows by <a href="/wiki/Bremen" title="Bremen">Bremen</a> to the estuary at Bremerhaven (top).</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 235px">
+<div style="width: 235px">
+<div class="thumb" style="width: 230px;">
+<div style="margin:40px auto;"><a href="/wiki/File:HB_2016-0607_photo32_Bremerhaven_sea_port.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/HB_2016-0607_photo32_Bremerhaven_sea_port.jpg/200px-HB_2016-0607_photo32_Bremerhaven_sea_port.jpg" width="200" height="150" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/HB_2016-0607_photo32_Bremerhaven_sea_port.jpg/300px-HB_2016-0607_photo32_Bremerhaven_sea_port.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ef/HB_2016-0607_photo32_Bremerhaven_sea_port.jpg/400px-HB_2016-0607_photo32_Bremerhaven_sea_port.jpg 2x" data-file-width="3930" data-file-height="2948" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Skyline of <a href="/wiki/Havenwelten" title="Havenwelten">Havenwelten</a>-district</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 235px">
+<div style="width: 235px">
+<div class="thumb" style="width: 230px;">
+<div style="margin:59px auto;"><a href="/wiki/File:HB_2016-0607_photo34_Bremerhaven_sea_port.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HB_2016-0607_photo34_Bremerhaven_sea_port.jpg/200px-HB_2016-0607_photo34_Bremerhaven_sea_port.jpg" width="200" height="112" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HB_2016-0607_photo34_Bremerhaven_sea_port.jpg/300px-HB_2016-0607_photo34_Bremerhaven_sea_port.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HB_2016-0607_photo34_Bremerhaven_sea_port.jpg/400px-HB_2016-0607_photo34_Bremerhaven_sea_port.jpg 2x" data-file-width="5300" data-file-height="2981" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Overseas port of Bremerhaven.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 235px">
+<div style="width: 235px">
+<div class="thumb" style="width: 230px;">
+<div style="margin:40px auto;"><a href="/wiki/File:MSC_Venezuela.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/MSC_Venezuela.jpg/200px-MSC_Venezuela.jpg" width="200" height="150" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/MSC_Venezuela.jpg/300px-MSC_Venezuela.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/82/MSC_Venezuela.jpg/400px-MSC_Venezuela.jpg 2x" data-file-width="1200" data-file-height="900" /></a></div>
+</div>
+<div class="gallerytext">
+<p>The MSC <i>Venezuela</i> docking at Bremerhaven's container port.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 235px">
+<div style="width: 235px">
+<div class="thumb" style="width: 230px;">
+<div style="margin:48.5px auto;"><a href="/wiki/File:2013-05-03_Fotoflug_Nordholz_Papenburg_HP_1430.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/2013-05-03_Fotoflug_Nordholz_Papenburg_HP_1430.JPG/200px-2013-05-03_Fotoflug_Nordholz_Papenburg_HP_1430.JPG" width="200" height="133" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/2013-05-03_Fotoflug_Nordholz_Papenburg_HP_1430.JPG/300px-2013-05-03_Fotoflug_Nordholz_Papenburg_HP_1430.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7d/2013-05-03_Fotoflug_Nordholz_Papenburg_HP_1430.JPG/400px-2013-05-03_Fotoflug_Nordholz_Papenburg_HP_1430.JPG 2x" data-file-width="5760" data-file-height="3840" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Locks and Docks around <a href="/wiki/Lloyd_Werft" title="Lloyd Werft">Lloyd Werft</a></p>
+</div>
+</div>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Climate">Climate</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bremerhaven&amp;action=edit&amp;section=3" title="Edit section: Climate">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Bremerhaven has a temperate <a href="/wiki/Oceanic_climate" title="Oceanic climate">maritime climate</a>; severe frost and heat waves with temperatures above 30&#160;°C (86&#160;°F) are rare. On average, the city receives about 742&#160;mm (29.2&#160;in) of precipitation distributed throughout the year, with a slight peak in the summer months between June and August. The hottest temperature ever recorded was 35.8&#160;°C (96.4&#160;°F) on 9 August 1992, and the coldest was −18.6&#160;°C (−1.5&#160;°F) on 25 February 1956.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p>
+<table class="wikitable collapsible" style="width:90%; text-align:center; font-size:90%; line-height: 1.2em; margin:auto;">
+<tr>
+<th colspan="14">Climate data for Bremerhaven (Averages 1981–2010)</th>
+</tr>
+<tr>
+<th scope="row">Month</th>
+<th scope="col">Jan</th>
+<th scope="col">Feb</th>
+<th scope="col">Mar</th>
+<th scope="col">Apr</th>
+<th scope="col">May</th>
+<th scope="col">Jun</th>
+<th scope="col">Jul</th>
+<th scope="col">Aug</th>
+<th scope="col">Sep</th>
+<th scope="col">Oct</th>
+<th scope="col">Nov</th>
+<th scope="col">Dec</th>
+<th scope="col" style="border-left-width:medium">Year</th>
+</tr>
+<tr style="text-align: center;">
+<th scope="row" style="height: 16px;">Average high °C (°F)</th>
+<td style="background: #FDFDFF; color:#000000;">4.2<br />
+(39.6)</td>
+<td style="background: #FFFDFC; color:#000000;">4.7<br />
+(40.5)</td>
+<td style="background: #FFE7D0; color:#000000;">7.9<br />
+(46.2)</td>
+<td style="background: #FFC790; color:#000000;">12.5<br />
+(54.5)</td>
+<td style="background: #FFAA56; color:#000000;">16.7<br />
+(62.1)</td>
+<td style="background: #FF9B37; color:#000000;">19.0<br />
+(66.2)</td>
+<td style="background: #FF8913; color:#000000;">21.6<br />
+(70.9)</td>
+<td style="background: #FF8A16; color:#000000;">21.4<br />
+(70.5)</td>
+<td style="background: #FFA246; color:#000000;">17.9<br />
+(64.2)</td>
+<td style="background: #FFC184; color:#000000;">13.4<br />
+(56.1)</td>
+<td style="background: #FFE5CC; color:#000000;">8.2<br />
+(46.8)</td>
+<td style="background: #FFFDFC; color:#000000;">4.7<br />
+(40.5)</td>
+<td style="background: #FFC68D; color:#000000; border-left-width:medium">12.7<br />
+(54.9)</td>
+</tr>
+<tr style="text-align: center;">
+<th scope="row" style="height: 16px;">Daily mean °C (°F)</th>
+<td style="background: #F2F2FF; color:#000000;">2.1<br />
+(35.8)</td>
+<td style="background: #F3F3FF; color:#000000;">2.4<br />
+(36.3)</td>
+<td style="background: #FFFAF6; color:#000000;">5.1<br />
+(41.2)</td>
+<td style="background: #FFE1C3; color:#000000;">8.8<br />
+(47.8)</td>
+<td style="background: #FFC489; color:#000000;">13.0<br />
+(55.4)</td>
+<td style="background: #FFB266; color:#000000;">15.6<br />
+(60.1)</td>
+<td style="background: #FFA143; color:#000000;">18.1<br />
+(64.6)</td>
+<td style="background: #FFA246; color:#000000;">17.9<br />
+(64.2)</td>
+<td style="background: #FFB872; color:#000000;">14.7<br />
+(58.5)</td>
+<td style="background: #FFD5AC; color:#000000;">10.5<br />
+(50.9)</td>
+<td style="background: #FFF3E8; color:#000000;">6.1<br />
+(43)</td>
+<td style="background: #F5F5FF; color:#000000;">2.8<br />
+(37)</td>
+<td style="background: #FFDAB5; color:#000000; border-left-width:medium">9.8<br />
+(49.6)</td>
+</tr>
+<tr style="text-align: center;">
+<th scope="row" style="height: 16px;">Average low °C (°F)</th>
+<td style="background: #E6E6FF; color:#000000;">0<br />
+(32)</td>
+<td style="background: #E7E7FF; color:#000000;">0.2<br />
+(32.4)</td>
+<td style="background: #F3F3FF; color:#000000;">2.3<br />
+(36.1)</td>
+<td style="background: #FFF8F2; color:#000000;">5.4<br />
+(41.7)</td>
+<td style="background: #FFDDBB; color:#000000;">9.4<br />
+(48.9)</td>
+<td style="background: #FFC892; color:#000000;">12.4<br />
+(54.3)</td>
+<td style="background: #FFB872; color:#000000;">14.7<br />
+(58.5)</td>
+<td style="background: #FFB872; color:#000000;">14.7<br />
+(58.5)</td>
+<td style="background: #FFCD9B; color:#000000;">11.7<br />
+(53.1)</td>
+<td style="background: #FFE7D0; color:#000000;">7.9<br />
+(46.2)</td>
+<td style="background: #FBFBFF; color:#000000;">3.9<br />
+(39)</td>
+<td style="background: #EBEBFF; color:#000000;">0.8<br />
+(33.4)</td>
+<td style="background: #FFEEDD; color:#000000; border-left-width:medium">6.9<br />
+(44.4)</td>
+</tr>
+<tr style="text-align: center;">
+<th scope="row" style="height: 16px;">Average <a href="/wiki/Precipitation" title="Precipitation">precipitation</a> mm (inches)</th>
+<td style="background: #A7A7FF; color:#000000;">58.8<br />
+(2.315)</td>
+<td style="background: #B9B9FF; color:#000000;">42.1<br />
+(1.657)</td>
+<td style="background: #ACACFF; color:#000000;">55.4<br />
+(2.181)</td>
+<td style="background: #C4C4FF; color:#000000;">37.9<br />
+(1.492)</td>
+<td style="background: #B3B3FF; color:#000000;">50.7<br />
+(1.996)</td>
+<td style="background: #8686FF; color:#000000;">78.0<br />
+(3.071)</td>
+<td style="background: #8888FF; color:#000000;">79.7<br />
+(3.138)</td>
+<td style="background: #8E8EFF; color:#000000;">75.8<br />
+(2.984)</td>
+<td style="background: #8B8BFF; color:#000000;">74.7<br />
+(2.941)</td>
+<td style="background: #9999FF; color:#000000;">68.0<br />
+(2.677)</td>
+<td style="background: #9494FF; color:#000000;">69.0<br />
+(2.717)</td>
+<td style="background: #9D9DFF; color:#000000;">65.1<br />
+(2.563)</td>
+<td style="background: #9F9FFF; color:#000000; border-left-width:medium">755.2<br />
+(29.732)</td>
+</tr>
+<tr style="text-align: center;">
+<th scope="row" style="height: 16px;">Mean monthly <a href="/wiki/Sunshine_duration" title="Sunshine duration">sunshine hours</a></th>
+<td style="background: #545454; color:#FFFFFF;">46.1</td>
+<td style="background: #8C8C8C; color:#FFFFFF;">69.6</td>
+<td style="background: #B2B278; color:#000000;">110.9</td>
+<td style="background: #D1D100; color:#000000;">174.3</td>
+<td style="background: #DCDC00; color:#000000;">221.8</td>
+<td style="background: #D8D800; color:#000000;">195.6</td>
+<td style="background: #DADA00; color:#000000;">211.4</td>
+<td style="background: #D6D600; color:#000000;">196.4</td>
+<td style="background: #C2C218; color:#000000;">141.5</td>
+<td style="background: #AEAE8C; color:#000000;">103.8</td>
+<td style="background: #626262; color:#FFFFFF;">52.2</td>
+<td style="background: #444444; color:#FFFFFF;">37.4</td>
+<td style="background: #BCBC3D; color:#000000; border-left-width:medium">1,561</td>
+</tr>
+<tr>
+<td colspan="14" style="text-align:center;font-size:95%;">Source: <a href="/w/index.php?title=European_Climate_Assessment_Dataset&amp;action=edit&amp;redlink=1" class="new" title="European Climate Assessment Dataset (page does not exist)">European Climate Assessment Dataset</a><sup id="cite_ref-ecad.eu_8-0" class="reference"><a href="#cite_note-ecad.eu-8">[8]</a></sup></td>
+</tr>
+</table>
+<table class="wikitable collapsible" style="width:90%; text-align:center; font-size:90%; line-height: 1.2em; margin:auto;">
+<tr>
+<th colspan="14">Climate data for Bremerhaven (Averages 1961–1990, Extremes 1949-)</th>
+</tr>
+<tr>
+<th scope="row">Month</th>
+<th scope="col">Jan</th>
+<th scope="col">Feb</th>
+<th scope="col">Mar</th>
+<th scope="col">Apr</th>
+<th scope="col">May</th>
+<th scope="col">Jun</th>
+<th scope="col">Jul</th>
+<th scope="col">Aug</th>
+<th scope="col">Sep</th>
+<th scope="col">Oct</th>
+<th scope="col">Nov</th>
+<th scope="col">Dec</th>
+<th scope="col" style="border-left-width:medium">Year</th>
+</tr>
+<tr style="text-align: center;">
+<th scope="row" style="height: 16px;">Record high °C (°F)</th>
+<td style="background: #FFC388; color:#000000;">13.1<br />
+(55.6)</td>
+<td style="background: #FFB46A; color:#000000;">15.3<br />
+(59.5)</td>
+<td style="background: #FF8206; color:#000000;">22.5<br />
+(72.5)</td>
+<td style="background: #FF5600; color:#000000;">28.9<br />
+(84)</td>
+<td style="background: #FF4D00; color:#000000;">30.3<br />
+(86.5)</td>
+<td style="background: #FF3100; color:#000000;">34.3<br />
+(93.7)</td>
+<td style="background: #FF2E00; color:#000000;">34.8<br />
+(94.6)</td>
+<td style="background: #FF2700; color:#000000;">35.8<br />
+(96.4)</td>
+<td style="background: #FF4A00; color:#000000;">30.7<br />
+(87.3)</td>
+<td style="background: #FF6B00; color:#000000;">25.9<br />
+(78.6)</td>
+<td style="background: #FF9F3F; color:#000000;">18.4<br />
+(65.1)</td>
+<td style="background: #FFBD7C; color:#000000;">14.0<br />
+(57.2)</td>
+<td style="background: #FF2700; color:#000000; border-left-width:medium">35.8<br />
+(96.4)</td>
+</tr>
+<tr style="text-align: center;">
+<th scope="row" style="height: 16px;">Average high °C (°F)</th>
+<td style="background: #F6F6FF; color:#000000;">3.0<br />
+(37.4)</td>
+<td style="background: #FBFBFF; color:#000000;">3.8<br />
+(38.8)</td>
+<td style="background: #FFEEDD; color:#000000;">6.9<br />
+(44.4)</td>
+<td style="background: #FFD2A6; color:#000000;">10.9<br />
+(51.6)</td>
+<td style="background: #FFAF5F; color:#000000;">16.1<br />
+(61)</td>
+<td style="background: #FF9B38; color:#000000;">18.9<br />
+(66)</td>
+<td style="background: #FF9429; color:#000000;">20.0<br />
+(68)</td>
+<td style="background: #FF9022; color:#000000;">20.5<br />
+(68.9)</td>
+<td style="background: #FFA44A; color:#000000;">17.6<br />
+(63.7)</td>
+<td style="background: #FFC387; color:#000000;">13.2<br />
+(55.8)</td>
+<td style="background: #FFE8D1; color:#000000;">7.8<br />
+(46)</td>
+<td style="background: #FDFDFF; color:#000000;">4.3<br />
+(39.7)</td>
+<td style="background: #FFCC99; color:#000000; border-left-width:medium">11.9<br />
+(53.4)</td>
+</tr>
+<tr style="text-align: center;">
+<th scope="row" style="height: 16px;">Daily mean °C (°F)</th>
+<td style="background: #ECECFF; color:#000000;">1.1<br />
+(34)</td>
+<td style="background: #EFEFFF; color:#000000;">1.6<br />
+(34.9)</td>
+<td style="background: #FCFCFF; color:#000000;">4.1<br />
+(39.4)</td>
+<td style="background: #FFEAD5; color:#000000;">7.5<br />
+(45.5)</td>
+<td style="background: #FFC993; color:#000000;">12.3<br />
+(54.1)</td>
+<td style="background: #FFB368; color:#000000;">15.4<br />
+(59.7)</td>
+<td style="background: #FFAA55; color:#000000;">16.8<br />
+(62.2)</td>
+<td style="background: #FFA954; color:#000000;">16.9<br />
+(62.4)</td>
+<td style="background: #FFBC79; color:#000000;">14.2<br />
+(57.6)</td>
+<td style="background: #FFD7AF; color:#000000;">10.3<br />
+(50.5)</td>
+<td style="background: #FFF7EF; color:#000000;">5.6<br />
+(42.1)</td>
+<td style="background: #F4F4FF; color:#000000;">2.5<br />
+(36.5)</td>
+<td style="background: #FFDFC0; color:#000000; border-left-width:medium">9.0<br />
+(48.2)</td>
+</tr>
+<tr style="text-align: center;">
+<th scope="row" style="height: 16px;">Average low °C (°F)</th>
+<td style="background: #E1E1FF; color:#000000;">−1<br />
+(30)</td>
+<td style="background: #E2E2FF; color:#000000;">−0.7<br />
+(30.7)</td>
+<td style="background: #EEEEFF; color:#000000;">1.5<br />
+(34.7)</td>
+<td style="background: #FDFDFF; color:#000000;">4.3<br />
+(39.7)</td>
+<td style="background: #FFE3C7; color:#000000;">8.5<br />
+(47.3)</td>
+<td style="background: #FFCC99; color:#000000;">11.9<br />
+(53.4)</td>
+<td style="background: #FFBF80; color:#000000;">13.7<br />
+(56.7)</td>
+<td style="background: #FFC082; color:#000000;">13.5<br />
+(56.3)</td>
+<td style="background: #FFD1A4; color:#000000;">11.1<br />
+(52)</td>
+<td style="background: #FFE8D2; color:#000000;">7.7<br />
+(45.9)</td>
+<td style="background: #F9F9FF; color:#000000;">3.5<br />
+(38.3)</td>
+<td style="background: #E8E8FF; color:#000000;">0.4<br />
+(32.7)</td>
+<td style="background: #FFF3E7; color:#000000; border-left-width:medium">6.2<br />
+(43.2)</td>
+</tr>
+<tr style="text-align: center;">
+<th scope="row" style="height: 16px;">Record low °C (°F)</th>
+<td style="background: #8989FF; color:#000000;">−17.2<br />
+(1)</td>
+<td style="background: #8282FF; color:#000000;">−18.6<br />
+(−1.5)</td>
+<td style="background: #9797FF; color:#000000;">−14.6<br />
+(5.7)</td>
+<td style="background: #CCCCFF; color:#000000;">−4.9<br />
+(23.2)</td>
+<td style="background: #E0E0FF; color:#000000;">−1.1<br />
+(30)</td>
+<td style="background: #F6F6FF; color:#000000;">3.0<br />
+(37.4)</td>
+<td style="background: #FFEDDB; color:#000000;">7.1<br />
+(44.8)</td>
+<td style="background: #FFEAD5; color:#000000;">7.5<br />
+(45.5)</td>
+<td style="background: #FAFAFF; color:#000000;">3.6<br />
+(38.5)</td>
+<td style="background: #DBDBFF; color:#000000;">−2.1<br />
+(28.2)</td>
+<td style="background: #AFAFFF; color:#000000;">−10.2<br />
+(13.6)</td>
+<td style="background: #9292FF; color:#000000;">−15.6<br />
+(3.9)</td>
+<td style="background: #8282FF; color:#000000; border-left-width:medium">−18.6<br />
+(−1.5)</td>
+</tr>
+<tr style="text-align: center;">
+<th scope="row" style="height: 16px;">Average <a href="/wiki/Precipitation" title="Precipitation">precipitation</a> mm (inches)</th>
+<td style="background: #ABABFF; color:#000000;">56.0<br />
+(2.205)</td>
+<td style="background: #C3C3FF; color:#000000;">36.1<br />
+(1.421)</td>
+<td style="background: #B4B4FF; color:#000000;">50.3<br />
+(1.98)</td>
+<td style="background: #B5B5FF; color:#000000;">47.8<br />
+(1.882)</td>
+<td style="background: #ABABFF; color:#000000;">56.3<br />
+(2.217)</td>
+<td style="background: #8E8EFF; color:#000000;">73.1<br />
+(2.878)</td>
+<td style="background: #8989FF; color:#000000;">78.7<br />
+(3.098)</td>
+<td style="background: #9494FF; color:#000000;">71.7<br />
+(2.823)</td>
+<td style="background: #9696FF; color:#000000;">67.9<br />
+(2.673)</td>
+<td style="background: #9D9DFF; color:#000000;">65.3<br />
+(2.571)</td>
+<td style="background: #9191FF; color:#000000;">71.4<br />
+(2.811)</td>
+<td style="background: #9B9BFF; color:#000000;">66.9<br />
+(2.634)</td>
+<td style="background: #A1A1FF; color:#000000; border-left-width:medium">741.5<br />
+(29.193)</td>
+</tr>
+<tr style="text-align: center;">
+<th scope="row" style="height: 16px;">Mean monthly <a href="/wiki/Sunshine_duration" title="Sunshine duration">sunshine hours</a></th>
+<td style="background: #494949; color:#FFFFFF;">40.0</td>
+<td style="background: #838383; color:#FFFFFF;">65.1</td>
+<td style="background: #ADAD92; color:#000000;">101.4</td>
+<td style="background: #CBCB00; color:#000000;">160.3</td>
+<td style="background: #D9D900; color:#000000;">208.9</td>
+<td style="background: #DADA00; color:#000000;">207.2</td>
+<td style="background: #D6D600; color:#000000;">194.6</td>
+<td style="background: #D5D500; color:#000000;">192.4</td>
+<td style="background: #BEBE2C; color:#000000;">134.3</td>
+<td style="background: #AAAAA4; color:#000000;">94.9</td>
+<td style="background: #5B5B5B; color:#FFFFFF;">48.2</td>
+<td style="background: #3C3C3C; color:#FFFFFF;">32.9</td>
+<td style="background: #B8B850; color:#000000; border-left-width:medium">1,480.2</td>
+</tr>
+<tr>
+<td colspan="14" style="text-align:center;font-size:95%;">Source #1: <a href="/wiki/Deutscher_Wetterdienst" title="Deutscher Wetterdienst">Deutscher Wetterdienst</a><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></td>
+</tr>
+<tr>
+<td colspan="14" style="text-align:center; font-size:95%;">Source #2: <a href="/w/index.php?title=European_Climate_Assessment_Dataset&amp;action=edit&amp;redlink=1" class="new" title="European Climate Assessment Dataset (page does not exist)">European Climate Assessment Dataset</a><sup id="cite_ref-ecad.eu_8-1" class="reference"><a href="#cite_note-ecad.eu-8">[8]</a></sup></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Transportation">Transportation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bremerhaven&amp;action=edit&amp;section=4" title="Edit section: Transportation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Roads">Roads</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bremerhaven&amp;action=edit&amp;section=5" title="Edit section: Roads">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Due to its unique geographic situation, Bremerhaven suffers from a few transportational difficulties. The city has been connected to the <a href="/wiki/Autobahn" title="Autobahn">autobahn</a> network since the late 1970s. The <a href="/wiki/Bundesautobahn_27" title="Bundesautobahn 27">A 27</a> runs north-south, east of the city, connecting Bremerhaven to Bremen and <a href="/wiki/Cuxhaven" title="Cuxhaven">Cuxhaven</a>. Road connections to <a href="/wiki/Hamburg" title="Hamburg">Hamburg</a>, however, are poor. The <a href="/wiki/Bundesstra%C3%9Fe_71" title="Bundesstraße 71">Bundesstraße 71</a> and secondary roads therefore carry most of the heavy <a href="/wiki/Lorry" class="mw-redirect" title="Lorry">lorry</a> traffic. A proposed solution is the construction of the <a href="/wiki/Bundesautobahn_22" title="Bundesautobahn 22">A 22</a>, the so-called <i>Küstenautobahn</i> (or "coastal motorway"), which would link Bremerhaven to Hamburg and <a href="/wiki/Wilhelmshaven" title="Wilhelmshaven">Wilhelmshaven</a>/<a href="/wiki/Oldenburg" title="Oldenburg">Oldenburg</a> (using the <a href="/wiki/Weser_tunnel" class="mw-redirect" title="Weser tunnel">Weser tunnel</a>). Roads leading to the overseas port are regularly overloaded with freight traffic, and solutions are presently being discussed, including a deep-cut road favoured by the city government and various interest groups.</p>
+<h3><span class="mw-headline" id="Railway">Railway</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bremerhaven&amp;action=edit&amp;section=6" title="Edit section: Railway">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Bremerhaven has three active passenger rail stations, <a href="/wiki/Bremerhaven_Hauptbahnhof" title="Bremerhaven Hauptbahnhof">Bremerhaven Hauptbahnhof</a> in the city centre, <a href="/wiki/Bremerhaven-Lehe_railway_station" title="Bremerhaven-Lehe railway station">Bremerhaven-Lehe</a> north of the centre and <a href="/wiki/Bremerhaven-Wulsdorf_railway_station" class="mw-redirect" title="Bremerhaven-Wulsdorf railway station">Bremerhaven-Wulsdorf</a> in the southern part of the city. A fourth station, <a href="/wiki/Bremerhaven-Speckenb%C3%BCttel_railway_station" class="mw-redirect" title="Bremerhaven-Speckenbüttel railway station">Bremerhaven-Speckenbüttel</a> near the border to <a href="/wiki/Langen,_Lower_Saxony" class="mw-redirect" title="Langen, Lower Saxony">Langen</a> has been out of service since 1988, though it might reopen when the <a href="/wiki/Bremen_S-Bahn" title="Bremen S-Bahn">Bremen S-Bahn</a> scheme becomes operational. Bremerhaven's central station lost its last long-distance train in 2001. Now only regional connections to <a href="/wiki/Bremen_(city)" class="mw-redirect" title="Bremen (city)">Bremen</a>, <a href="/wiki/Cuxhaven" title="Cuxhaven">Cuxhaven</a>, <a href="/wiki/Osnabr%C3%BCck" title="Osnabrück">Osnabrück</a> and <a href="/wiki/Hannover" class="mw-redirect" title="Hannover">Hannover</a> are available. The railways in Bremerhaven, however, still carry a heavy load of freight traffic, mostly new <a href="/wiki/Automobile" class="mw-redirect" title="Automobile">cars</a>, <a href="/wiki/Container_(cargo)" class="mw-redirect" title="Container (cargo)">containers</a> and <a href="/wiki/Food" title="Food">food</a>.</p>
+<h2><span class="mw-headline" id="Tourist_attractions">Tourist attractions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bremerhaven&amp;action=edit&amp;section=7" title="Edit section: Tourist attractions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tnone" style="margin-left: auto; margin-right:auto; overflow:hidden; width:auto; max-width:1258px;">
+<div class="thumbinner" style="">
+<div class="overflowbugx" style="overflow:auto;"><a href="/wiki/File:Panorama_Radarturm_Bremerhaven_25.jpg" class="image" title="Panoramic view to Bremerhaven from Bremerhaven Radar Tower. On the left side the city including „Columbus-Center&quot;, some tourist attractions and the de:Havenwelten just under construction"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Panorama_Radarturm_Bremerhaven_25.jpg/1250px-Panorama_Radarturm_Bremerhaven_25.jpg" width="1250" height="219" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Panorama_Radarturm_Bremerhaven_25.jpg/1875px-Panorama_Radarturm_Bremerhaven_25.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Panorama_Radarturm_Bremerhaven_25.jpg/2500px-Panorama_Radarturm_Bremerhaven_25.jpg 2x" data-file-width="7500" data-file-height="1316" /></a></div>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Panorama_Radarturm_Bremerhaven_25.jpg" title="File:Panorama Radarturm Bremerhaven 25.jpg"></a></div>
+Panoramic view to Bremerhaven from <a href="/wiki/Bremerhaven_Radar_Tower" title="Bremerhaven Radar Tower">Bremerhaven Radar Tower</a>. On the left side the city including „Columbus-Center", some tourist attractions and the <a href="https://de.wikipedia.org/wiki/Havenwelten" class="extiw" title="de:Havenwelten">de:Havenwelten</a> just under construction</div>
+</div>
+</div>
+<div class="mw-stack mobile-float-reset" style="box-sizing: border-box; float:right;">
+<div style="overflow: hidden; margin: 1px;">
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Bremerhaven.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/2/23/Bremerhaven.JPG/220px-Bremerhaven.JPG" width="220" height="141" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/2/23/Bremerhaven.JPG/330px-Bremerhaven.JPG 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/2/23/Bremerhaven.JPG/440px-Bremerhaven.JPG 2x" data-file-width="967" data-file-height="620" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Bremerhaven.JPG" class="internal" title="Enlarge"></a></div>
+Columbus Center and the "Seute Deern"</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:U_boat_wilhelm_bauer.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/U_boat_wilhelm_bauer.JPG/220px-U_boat_wilhelm_bauer.JPG" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/U_boat_wilhelm_bauer.JPG/330px-U_boat_wilhelm_bauer.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/34/U_boat_wilhelm_bauer.JPG/440px-U_boat_wilhelm_bauer.JPG 2x" data-file-width="1103" data-file-height="739" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:U_boat_wilhelm_bauer.JPG" class="internal" title="Enlarge"></a></div>
+The <i><a href="/wiki/Wilhelm_Bauer_(U-boat)" class="mw-redirect" title="Wilhelm Bauer (U-boat)">Wilhelm Bauer</a></i> at the <a href="/wiki/German_Maritime_Museum" title="German Maritime Museum">German Maritime Museum</a></div>
+</div>
+</div>
+</div>
+</div>
+<p>Bremerhaven has only a few historical buildings, and the <a href="/wiki/High_street" class="mw-redirect" title="High street">high street</a> and city centre are almost entirely post-war. The main attractions for tourists are found at the <i>Havenwelten</i> and include a attraction about climate change, the <a href="/w/index.php?title=Klimahaus_Bremerhaven_8%C2%B0_Ost&amp;action=edit&amp;redlink=1" class="new" title="Klimahaus Bremerhaven 8° Ost (page does not exist)">Klimahaus Bremerhaven 8° Ost</a>, the <a href="/wiki/German_Emigration_Center" title="German Emigration Center">German Emigration Center</a> (since August 8, 2005) and the <a href="/wiki/Deutsches_Schiffahrtsmuseum" class="mw-redirect" title="Deutsches Schiffahrtsmuseum">German Maritime Museum</a> (<i>Deutsches Schiffahrtsmuseum</i>) from 1975, featuring the <a href="/wiki/Bremen_cog" title="Bremen cog">Hansekogge</a>, a vintage <a href="/wiki/Cog_(ship)" title="Cog (ship)">cog</a> dating from 1380, excavated in Bremen in 1962, and the historical harbour (<i>Museumshafen</i>) with a number of <a href="/wiki/Museum_ship" title="Museum ship">museum ships</a>, such as the <a href="/wiki/Type_XXI_U-boat" class="mw-redirect" title="Type XXI U-boat">Type XXI U-boat</a> <i><a href="/wiki/Wilhelm_Bauer_(U-boat)" class="mw-redirect" title="Wilhelm Bauer (U-boat)">Wilhelm Bauer</a></i> (a museum of its own), the <i><a href="/w/index.php?title=Seute_Deern&amp;action=edit&amp;redlink=1" class="new" title="Seute Deern (page does not exist)">Seute Deern</a></i> (a wooden three-masted sailing vessel), and the salvage tug <i>Seefalke</i> from 1924. The <i><a href="/wiki/Bremerhaven_Zoo" title="Bremerhaven Zoo">Bremerhaven Zoo</a></i> reopened on 27 March 2004, after a lengthy renovation. It features <a href="/wiki/Arctic" title="Arctic">Arctic</a> wildlife, both terrestrial and marine. The latest addition is the <i>Klimahaus</i> from 2009, simulating travel adventure along the 8th line of <a href="/wiki/Longitude" title="Longitude">longitude</a> and dealing with climate issues. Two gazebos can be found on top of the <i>Atlantic Hotel Sail City</i> and the <a href="/wiki/Bremerhaven_Radar_Tower" title="Bremerhaven Radar Tower">Radar Tower</a>. Another tourist spot is the <i>Fischereihafen</i> (fishing port) in Geestemünde which also houses an aquarium (the Atlanticum). The <a href="/w/index.php?title=Lloyd-Werft&amp;action=edit&amp;redlink=1" class="new" title="Lloyd-Werft (page does not exist)">Lloyd-Werft</a> <a href="/wiki/Shipyard" title="Shipyard">shipyard</a> is renowned for building and renovating large cruise liners, for example <a href="/wiki/SS_France_(1961)" title="SS France (1961)"><i>Norway</i></a>.</p>
+<p>Every five years <a href="/w/index.php?title=Sail_Bremerhaven&amp;action=edit&amp;redlink=1" class="new" title="Sail Bremerhaven (page does not exist)">Sail Bremerhaven</a> is held, a large sailing convention that attracts <a href="/wiki/Tall_ship" title="Tall ship">tall ships</a> from all over the world. The last time it was held was in 2015 with over 270 vessels and 3,500 crew members.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> In 2011 Bremerhaven set the record for the largest ever parade of boats, with 327 vessels in the parade. This record was broken in 2012 by the <a href="/wiki/Thames_Diamond_Jubilee_Pageant" title="Thames Diamond Jubilee Pageant">Thames Diamond Jubilee Pageant</a>, with 1,000 boats.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></p>
+<p>The passenger terminal <i>Columbuskaje</i>, built at the Weser bank in 1927 to avoid time-absorbing locking, has been transferred into a cruise terminal (Columbus Cruise Center Bremerhaven/CCCB). Also three <a href="/wiki/Marina" title="Marina">marinas</a> are available, the latest accessible through a new lock at <i>Neuer Hafen</i>.</p>
+<h2><span class="mw-headline" id="Politics">Politics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bremerhaven&amp;action=edit&amp;section=8" title="Edit section: Politics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Bremerhaven has a city council with 49 members.</p>
+<h2><span class="mw-headline" id="Sport">Sport</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bremerhaven&amp;action=edit&amp;section=9" title="Edit section: Sport">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <a href="/wiki/Fischtown_Pinguins" title="Fischtown Pinguins">Fischtown Pinguins</a>, also known as REV Bremerhaven, are a professional ice hockey team in the <a href="/wiki/Deutsche_Eishockey_Liga" title="Deutsche Eishockey Liga">DEL</a>, Germany's top ice hockey league.</p>
+<p><a href="/wiki/Eisb%C3%A4ren_Bremerhaven" title="Eisbären Bremerhaven">Eisbären Bremerhaven</a> (Polar Bears), founded 2001, is a basketball team playing in the 1st division of the <a href="/wiki/Basketball_Bundesliga" title="Basketball Bundesliga">Basketball Bundesliga</a>.</p>
+<h2><span class="mw-headline" id="Research_and_Education">Research and Education</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bremerhaven&amp;action=edit&amp;section=10" title="Edit section: Research and Education">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Bremerhaven is home to the <a href="/wiki/Alfred_Wegener_Institute_for_Polar_and_Marine_Research" title="Alfred Wegener Institute for Polar and Marine Research">Alfred Wegener Institute</a>, a national research institute which is concerned with maritime sciences and climate and keeps a number of <a href="/wiki/Research_vessel" title="Research vessel">research vessels</a>, amongst them the heavy research <a href="/wiki/Icebreaker" title="Icebreaker">icebreaker</a> <a href="/wiki/RV_Polarstern" title="RV Polarstern">RV Polarstern</a>. It also runs the <a href="/wiki/Neumayer-Station_III" title="Neumayer-Station III">Neumayer-Station III</a> in the Antarctic.</p>
+<p>The <a href="/wiki/Fraunhofer_Society" title="Fraunhofer Society">Fraunhofer Society</a> <a href="https://de.wikipedia.org/wiki/Fraunhofer-Institut_f%C3%BCr_Windenergie_und_Energiesystemtechnik" class="extiw" title="de:Fraunhofer-Institut für Windenergie und Energiesystemtechnik">Institute for Wind Energy and Energy System Technology (German Wikipedia)</a> maintains research laboratories in Bremerhaven for development and testing of Wind Power components.<sup id="cite_ref-IWES_12-0" class="reference"><a href="#cite_note-IWES-12">[12]</a></sup></p>
+<p>The <a href="/wiki/German_Maritime_Museum" title="German Maritime Museum">German Maritime Museum</a> is part of the German <a href="/wiki/Leibniz_Association" title="Leibniz Association">Leibniz Association</a>.</p>
+<p>The <i>Bremerhaven University of Applied Sciences</i>/<i>Hochschule Bremerhaven</i> (The word <i>Hochschule</i> literally means a high school) was founded in 1975 and is expanding since with more than 3.000 students in 2009. The university is attended by a large number of overseas students from all over the world. Among the courses offered are Process Engineering and Information Technology.</p>
+<h2><span class="mw-headline" id="International_relations">International relations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bremerhaven&amp;action=edit&amp;section=11" title="Edit section: International relations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:152px;"><a href="/wiki/File:BremerhavenGermanEmigrants.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/BremerhavenGermanEmigrants.jpg/150px-BremerhavenGermanEmigrants.jpg" width="150" height="207" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/BremerhavenGermanEmigrants.jpg/225px-BremerhavenGermanEmigrants.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d0/BremerhavenGermanEmigrants.jpg/300px-BremerhavenGermanEmigrants.jpg 2x" data-file-width="556" data-file-height="768" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:BremerhavenGermanEmigrants.jpg" class="internal" title="Enlarge"></a></div>
+Memorial to emigrants from Germany in Bremerhaven harbour</div>
+</div>
+</div>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/List_of_twin_towns_and_sister_cities_in_Germany" title="List of twin towns and sister cities in Germany">List of twin towns and sister cities in Germany</a></div>
+<h3><span id="Twin_towns_–_Sister_cities"></span><span class="mw-headline" id="Twin_towns_.E2.80.93_Sister_cities">Twin towns – Sister cities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bremerhaven&amp;action=edit&amp;section=12" title="Edit section: Twin towns – Sister cities">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Bremerhaven is <a href="/wiki/Twin_towns_and_sister_cities" class="mw-redirect" title="Twin towns and sister cities">twinned</a> with:</p>
+<table class="wikitable">
+<tr valign="top">
+<td>
+<ul>
+<li><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Cherbourg-Octeville" title="Cherbourg-Octeville">Cherbourg-Octeville</a>, <a href="/wiki/France" title="France">France</a>, since June 1960<sup id="cite_ref-Cherbourg_twinnings_13-0" class="reference"><a href="#cite_note-Cherbourg_twinnings-13">[13]</a></sup></li>
+<li><span class="flagicon"><a href="/wiki/England" title="England"><img alt="England" src="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/35px-Flag_of_England.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/46px-Flag_of_England.svg.png 2x" data-file-width="800" data-file-height="480" /></a></span> <a href="/wiki/Grimsby" title="Grimsby">Grimsby</a>, <a href="/wiki/England" title="England">England</a>, <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>, since February 1963</li>
+<li><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <a href="/wiki/Pori" title="Pori">Pori</a>, <a href="/wiki/Finland" title="Finland">Finland</a>, since May 1969</li>
+</ul>
+</td>
+<td>
+<ul>
+<li><span class="flagicon"><a href="/wiki/Denmark" title="Denmark"><img alt="Denmark" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/20px-Flag_of_Denmark.svg.png" width="20" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/31px-Flag_of_Denmark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/40px-Flag_of_Denmark.svg.png 2x" data-file-width="740" data-file-height="560" /></a></span> <a href="/wiki/Frederikshavn" title="Frederikshavn">Frederikshavn</a>, <a href="/wiki/Denmark" title="Denmark">Denmark</a>, since June 1979</li>
+<li><span class="flagicon"><a href="/wiki/Poland" title="Poland"><img alt="Poland" src="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/35px-Flag_of_Poland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/46px-Flag_of_Poland.svg.png 2x" data-file-width="1280" data-file-height="800" /></a></span> <a href="/wiki/Szczecin" title="Szczecin">Szczecin</a>, <a href="/wiki/Poland" title="Poland">Poland</a>, since October 1990<sup id="cite_ref-Szczecin_twinnings_14-0" class="reference"><a href="#cite_note-Szczecin_twinnings-14">[14]</a></sup></li>
+<li><span class="flagicon"><a href="/wiki/Russia" title="Russia"><img alt="Russia" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/35px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/45px-Flag_of_Russia.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Kaliningrad" title="Kaliningrad">Kaliningrad</a>, <a href="/wiki/Russia" title="Russia">Russia</a>, since April 1992</li>
+</ul>
+</td>
+</tr>
+</table>
+<p>The three roads connecting the city of Bremerhaven to the <a href="/wiki/Bundesautobahn_27" title="Bundesautobahn 27">Autobahn 27</a> consequently are named after the original three twin cities:</p>
+<ul>
+<li>Cherbourger Straße (AS Bremerhaven-Überseehafen)</li>
+<li><a href="/w/index.php?title=Bundesstra%C3%9Fe_212&amp;action=edit&amp;redlink=1" class="new" title="Bundesstraße 212 (page does not exist)">Grimsbystraße</a> (AS Bremerhaven-Mitte)</li>
+<li>Poristraße (AS Bremerhaven-Geestemünde)</li>
+</ul>
+<p>In addition to that there are also streets which earlier had been named after Szczecin (Stettiner Straße) and Kaliningrad (Königsberger Straße).</p>
+<div style="clear:both;"></div>
+<h2><span class="mw-headline" id="People_born_in_Bremerhaven">People born in Bremerhaven</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bremerhaven&amp;action=edit&amp;section=13" title="Edit section: People born in Bremerhaven">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:148px;"><a href="/wiki/File:Erich_Koch-Weser,_Bundesarchiv_Bild_146-1986-014-10,_Kabinett_M%C3%BCller_(cropped).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/c/c3/Erich_Koch-Weser%2C_Bundesarchiv_Bild_146-1986-014-10%2C_Kabinett_M%C3%BCller_%28cropped%29.jpg" width="146" height="167" class="thumbimage" data-file-width="146" data-file-height="167" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Erich_Koch-Weser,_Bundesarchiv_Bild_146-1986-014-10,_Kabinett_M%C3%BCller_(cropped).jpg" class="internal" title="Enlarge"></a></div>
+Erich Koch-Weser</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:152px;"><a href="/wiki/File:Lale.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Lale.jpg/150px-Lale.jpg" width="150" height="194" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Lale.jpg/225px-Lale.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Lale.jpg/300px-Lale.jpg 2x" data-file-width="428" data-file-height="553" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Lale.jpg" class="internal" title="Enlarge"></a></div>
+Lale Andersen</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:152px;"><a href="/wiki/File:Corinna_Harney_2011.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Corinna_Harney_2011.jpg/150px-Corinna_Harney_2011.jpg" width="150" height="225" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Corinna_Harney_2011.jpg/225px-Corinna_Harney_2011.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Corinna_Harney_2011.jpg/300px-Corinna_Harney_2011.jpg 2x" data-file-width="1152" data-file-height="1728" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Corinna_Harney_2011.jpg" class="internal" title="Enlarge"></a></div>
+Corinna Harney 2011</div>
+</div>
+</div>
+<ul>
+<li><a href="/wiki/Erich_Koch-Weser" title="Erich Koch-Weser">Erich Koch-Weser</a> (1875–1944), lawyer and politician</li>
+<li><a href="/wiki/Lou_Jacobs" title="Lou Jacobs">Lou Jacobs</a> (1903–1992), American clown and entertainer</li>
+<li><a href="/wiki/Adolf_Butenandt" title="Adolf Butenandt">Adolf Butenandt</a> (1903–1995), German biochemist</li>
+<li><a href="/wiki/Lale_Andersen" title="Lale Andersen">Lale Andersen</a> (1905–1972), German singer and actress, sang WW2 song <a href="/wiki/Lili_Marleen" title="Lili Marleen">Lili Marleen</a></li>
+<li><a href="/wiki/Eberhard_J%C3%A4ckel" title="Eberhard Jäckel">Eberhard Jäckel</a> (born 1929), German historian, studied role of <a href="/wiki/Adolf_Hitler" title="Adolf Hitler">Adolf Hitler</a> in German history</li>
+<li><a href="/wiki/Roger_Asmussen" title="Roger Asmussen">Roger Asmussen</a> (born 1936), politician (CDU), German Minister of Economy and Transport in 1987</li>
+<li><a href="/wiki/Norman_Paech" title="Norman Paech">Norman Paech</a> (born 1938), university professor and politician (The Left)</li>
+<li><a href="/wiki/Sigrid_Lorenzen_Rupp" title="Sigrid Lorenzen Rupp">Sigrid Lorenzen Rupp</a> (1943–2004) German-American architect</li>
+<li><a href="/wiki/Hans_Joachim_Alpers" title="Hans Joachim Alpers">Hans Joachim Alpers</a> (1943–2011), German writer and editor of science fiction and fantasy.</li>
+<li><a href="/wiki/Egon_Coordes" title="Egon Coordes">Egon Coordes</a> (born 1944), German football player and trainer</li>
+<li>Wolfgang Wippermann (born 1945), German historian</li>
+<li><a href="/wiki/Jeanne_C%C3%B3rdova" title="Jeanne Córdova">Jeanne Córdova</a> (1948–2016) American pioneer <a href="/wiki/Lesbian_and_gay_rights" class="mw-redirect" title="Lesbian and gay rights">lesbian and gay rights</a> activist</li>
+<li><a href="/wiki/Uwe_Beckmeyer" title="Uwe Beckmeyer">Uwe Beckmeyer</a> (born 1949), politician (SPD)</li>
+<li><a href="/wiki/Bernd_Brexendorf" title="Bernd Brexendorf">Bernd Brexendorf</a> (born 1954), soccer player and doctor</li>
+<li>Frank Schildt (born 1962), politician</li>
+<li><a href="/wiki/Heino_Ferch" title="Heino Ferch">Heino Ferch</a> (born 1963), film, theatre and television actor</li>
+<li><a href="/wiki/Volker_Engel" title="Volker Engel">Volker Engel</a> (born 1965), visual effects supervisor and producer</li>
+<li><a href="/wiki/Corinna_Harney" title="Corinna Harney">Corinna Harney</a> (born 1972) German-American model and actress, has featured in <a href="/wiki/Playboy" title="Playboy">Playboy</a></li>
+<li><a href="/wiki/Anders_Levermann" title="Anders Levermann">Anders Levermann</a> (born 1973), environmental scientist and <a href="/wiki/Climatologist" class="mw-redirect" title="Climatologist">climatologist</a></li>
+<li><a href="/wiki/Tomas_Seyler" title="Tomas Seyler">Tomas Seyler</a> (born 1974), darts player</li>
+<li><a href="/wiki/Jenny_Dolfen" title="Jenny Dolfen">Jenny Dolfen</a> (born 1975) German illustrator and teacher.</li>
+<li><a href="/wiki/Lars_Toborg" title="Lars Toborg">Lars Toborg</a> (born 1975), football player</li>
+<li><a href="/wiki/Hendrik_Feldwehr" title="Hendrik Feldwehr">Hendrik Feldwehr</a> (born 1986), swimmer</li>
+<li><a href="/wiki/Clemens_Schoppenhauer" title="Clemens Schoppenhauer">Clemens Schoppenhauer</a> (born 1992), football player</li>
+</ul>
+<h2><span class="mw-headline" id="People_who_have_worked_in_the_city">People who have worked in the city</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bremerhaven&amp;action=edit&amp;section=14" title="Edit section: People who have worked in the city">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:177px;"><a href="/wiki/File:Gottfried-semper.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Gottfried-semper.jpg/175px-Gottfried-semper.jpg" width="175" height="248" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Gottfried-semper.jpg/263px-Gottfried-semper.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Gottfried-semper.jpg/350px-Gottfried-semper.jpg 2x" data-file-width="423" data-file-height="600" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Gottfried-semper.jpg" class="internal" title="Enlarge"></a></div>
+Gottfried Semper</div>
+</div>
+</div>
+<ul>
+<li><a href="/wiki/Gottfried_Semper" title="Gottfried Semper">Gottfried Semper</a> (1803–1879), a volunteer at the port construction in Bremerhaven, German architect</li>
+<li><a href="/wiki/Helmut_Ystr%C3%B6m" title="Helmut Yström">Helmut Yström</a> (1881–1963), politician (CDU) and Senator in Bremen, 1945–1948 chief of police in Bremerhaven</li>
+<li><a href="/wiki/Hans_Scharoun" title="Hans Scharoun">Hans Scharoun</a> (1893–1972), grew up in Bremerhaven, German architect and a leading exponent of organic architecture</li>
+<li><a href="/wiki/Karl-Georg_Saebisch" title="Karl-Georg Saebisch">Karl-Georg Saebisch</a> (1903–1984), German-language theater, film and television actor, from 1945 to 1951 director of the Municipal Theatre Bremerhaven, honorary member of the Municipal Theatre Bremerhaven</li>
+<li><a href="/wiki/Stephan_Remmler" title="Stephan Remmler">Stephan Remmler</a> (born 1946), grew up in Bremerhaven, German <a href="/wiki/Singing" title="Singing">Singer</a>, <a href="/wiki/Composer" title="Composer">composer</a> and <a href="/wiki/Music_producer" class="mw-redirect" title="Music producer">music producer</a></li>
+<li><a href="/wiki/Willi_Reimann" title="Willi Reimann">Willi Reimann</a> (born 1949), former football player of <a href="/w/index.php?title=93_Bremerhaven&amp;action=edit&amp;redlink=1" class="new" title="93 Bremerhaven (page does not exist)">TuS Bremerhaven 93</a>, German football coach</li>
+<li><a href="/wiki/Felix_Magath" title="Felix Magath">Felix Magath</a> (born 1953), German football player and coach</li>
+<li><a href="/wiki/Herta_M%C3%BCller" title="Herta Müller">Herta Müller</a> (born 1953), German writer and Nobel Prize for Literature 2009 1989 Scholarship in Bremerhaven</li>
+<li><a href="/wiki/Christoph_Maria_Herbst" title="Christoph Maria Herbst">Christoph Maria Herbst</a> (born 1966), actor and comedian, from 1992 to 1996 at the Stadttheater Bremerhaven</li>
+</ul>
+<h2><span class="mw-headline" id="References_and_notes">References and notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bremerhaven&amp;action=edit&amp;section=15" title="Edit section: References and notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.statistik.bremen.de/sixcms/media.php/13/12_Dezember_pdfa.11203.pdf">"Bevölkerungsstand und Bevölkerungsbewegung am 31.12.2015"</a> <span style="font-size:85%;">(PDF)</span>. <i><a href="/wiki/Statistisches_Landesamt_Bremen" class="mw-redirect" title="Statistisches Landesamt Bremen">Statistisches Landesamt Bremen</a></i> (in German). July 2016.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABremerhaven&amp;rft.atitle=Bev%C3%B6lkerungsstand+und+Bev%C3%B6lkerungsbewegung+am+31.12.2015&amp;rft.date=2016-07&amp;rft.genre=unknown&amp;rft.jtitle=Statistisches+Landesamt+Bremen&amp;rft_id=http%3A%2F%2Fwww.statistik.bremen.de%2Fsixcms%2Fmedia.php%2F13%2F12_Dezember_pdfa.11203.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite id="CITEREFDierksvon_Garvens1954" class="citation">Dierks, August, Dr.; von Garvens, Eugenie (1954), <i>Bremerhaven: Busy – Breezy – Booming – Town</i>, Bremerhaven: The Chamber of Commerce and Industry</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABremerhaven&amp;rft.au=von+Garvens%2C+Eugenie&amp;rft.aufirst=August%2C+Dr.&amp;rft.aulast=Dierks&amp;rft.btitle=Bremerhaven%3A+Busy+%E2%80%93+Breezy+%E2%80%93+Booming+%E2%80%93+Town&amp;rft.date=1954&amp;rft.genre=book&amp;rft.place=Bremerhaven&amp;rft.pub=The+Chamber+of+Commerce+and+Industry&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> p. 8. Fourth revised edition. Translated into English from the original German edition titled <i>Bremerhaven- tätige Stadt im Noordseewind</i></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Evans, Nicholas J., "<a rel="nofollow" class="external text" href="http://www.tandfonline.com/doi/abs/10.1080/21533369.2001.9668313">Indirect passage from Europe: Transmigration via the UK, 1836–1914</a>", in <i>Journal for Maritime Research</i>, Volume 3, Issue 1 (2001), pp. 70-84</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Verfassung für die Stadt Bremerhaven (<a rel="nofollow" class="external text" href="http://www.bremerhaven.de/sixcms/detail.php?id=344">VerfBrhv</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20060518111829/http://www.bremerhaven.de/sixcms/detail.php?id=344">Archived</a> May 18, 2006, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.); §&#160;8(1) Zum Stadtgebiet gehören alle Grundstücke, Fluß- und Hafenanlagen der ehemaligen Stadt Wesermünde. Gemeindeverwaltungsmäßig wird die Stadt Bremerhaven im Gebiet des stadtbremischen Überseehafens aufgrund eines Vertrages zwischen den Städten Bremen und Bremerhaven zuständig.</span></li>
+<li id="cite_note-dcn-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-dcn_5-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Van Marle, Gavin (2008-01-31). "Europe Terminals stretched to limit". <i>Lloyds List Daily Commercial News</i>. pp.&#160;8–9.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABremerhaven&amp;rft.atitle=Europe+Terminals+stretched+to+limit&amp;rft.aufirst=Gavin&amp;rft.aulast=Van+Marle&amp;rft.date=2008-01-31&amp;rft.genre=article&amp;rft.jtitle=Lloyds+List+Daily+Commercial+News&amp;rft.pages=8-9&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.weser.de/index.php?id=29">"weser.de – Seehäfen &amp; Seeschifffahrt: Bremische Häfen"</a>. <i>www.weser.de</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABremerhaven&amp;rft.atitle=weser.de+%E2%80%93+Seeh%C3%A4fen+%26+Seeschifffahrt%3A+Bremische+H%C3%A4fen&amp;rft.genre=unknown&amp;rft.jtitle=www.weser.de&amp;rft_id=http%3A%2F%2Fwww.weser.de%2Findex.php%3Fid%3D29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.dwd.de/bvbw/appmanager/bvbw/dwdwwwDesktop?_nfpb=true&amp;_pageLabel=_dwdwww_klima_umwelt_klimadaten_deutschland&amp;T82002gsbDocumentPath=Navigation/Oeffentlichkeit/Klima__Umwelt/Klimadaten/kldaten__kostenfrei/ausgabe__mittelwerte__node.html?__nnn=true">"Wetter und Klima – Deutscher Wetterdienst – Startseite"</a>. <i>www.dwd.de</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABremerhaven&amp;rft.atitle=Wetter+und+Klima+%E2%80%93+Deutscher+Wetterdienst+%E2%80%93+Startseite&amp;rft.genre=unknown&amp;rft.jtitle=www.dwd.de&amp;rft_id=http%3A%2F%2Fwww.dwd.de%2Fbvbw%2Fappmanager%2Fbvbw%2FdwdwwwDesktop%3F_nfpb%3Dtrue%26_pageLabel%3D_dwdwww_klima_umwelt_klimadaten_deutschland%26T82002gsbDocumentPath%3DNavigation%2FOeffentlichkeit%2FKlima__Umwelt%2FKlimadaten%2Fkldaten__kostenfrei%2Fausgabe__mittelwerte__node.html%3F__nnn%3Dtrue&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-ecad.eu-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-ecad.eu_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ecad.eu_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.ecad.eu/download/millennium/millennium.php">[1]</a></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">: <a rel="nofollow" class="external text" href="http://www.dwd.de/bvbw/generator/DWDWWW/Content/Oeffentlichkeit/KU/KU2/KU21/klimadaten/german/download__mw__sonne__akt,templateId=raw,property=publicationFile.zip/download_mw_sonne_akt.zip">Mittlere Sonnenscheindauer 1961–1990</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link since November 2016">permanent dead link</span></a></i>]</span></sup></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.sail-bremerhaven.de/">"SAIL – Bremerhaven"</a>. <i>www.sail-bremerhaven.de</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-07-28</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABremerhaven&amp;rft.atitle=SAIL+%E2%80%93+Bremerhaven&amp;rft.genre=unknown&amp;rft.jtitle=www.sail-bremerhaven.de&amp;rft_id=http%3A%2F%2Fwww.sail-bremerhaven.de%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.bbc.co.uk/news/uk-18312403">"Diamond Jubilee Thames Pageant cheered by crowds"</a>. <a href="/wiki/BBC_News" title="BBC News">BBC News</a>. 3 June 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">4 June</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABremerhaven&amp;rft.btitle=Diamond+Jubilee+Thames+Pageant+cheered+by+crowds&amp;rft.date=2012-06-03&amp;rft.genre=unknown&amp;rft.pub=BBC+News&amp;rft_id=http%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fuk-18312403&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-IWES-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-IWES_12-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.iwes.fraunhofer.de/en/labore.html">Fraunhofer IWES Laboratories</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20120419161248/http://www.iwes.fraunhofer.de/en/labore.html">Archived</a> April 19, 2012, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-Cherbourg_twinnings-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-Cherbourg_twinnings_13-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://archive.is/20131127063207/http://www.cncd.fr/frontoffice/bdd-region.asp?action=getRegion&amp;id=4">"National Commission for Decentralised cooperation"</a>. <i>Délégation pour l’Action Extérieure des Collectivités Territoriales (Ministère des Affaires étrangères)</i> (in French). Archived from <a rel="nofollow" class="external text" href="http://www.cncd.fr/frontoffice/bdd-region.asp?action=getRegion&amp;id=4#tabs3">the original</a> on 2013-11-27<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-12-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABremerhaven&amp;rft.atitle=National+Commission+for+Decentralised+cooperation&amp;rft.genre=unknown&amp;rft.jtitle=D%C3%A9l%C3%A9gation+pour+l%E2%80%99Action+Ext%C3%A9rieure+des+Collectivit%C3%A9s+Territoriales+%28Minist%C3%A8re+des+Affaires+%C3%A9trang%C3%A8res%29&amp;rft_id=http%3A%2F%2Fwww.cncd.fr%2Ffrontoffice%2Fbdd-region.asp%3Faction%3DgetRegion%26id%3D4%23tabs3&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Szczecin_twinnings-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-Szczecin_twinnings_14-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120818001351/http://bip.um.szczecin.pl/umszczecinbip/chapter_11296.asp">"Kontakty partnerskie Miasta Szczecin"</a>. <i>Urząd Miasta Szczecin</i> (in Polish). Archived from <a rel="nofollow" class="external text" href="http://bip.um.szczecin.pl/UMSzczecinBIP/chapter_11296.asp">the original</a> on 2012-08-18<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-07-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABremerhaven&amp;rft.atitle=Kontakty+partnerskie+Miasta+Szczecin&amp;rft.genre=unknown&amp;rft.jtitle=Urz%C4%85d+Miasta+Szczecin&amp;rft_id=http%3A%2F%2Fbip.um.szczecin.pl%2FUMSzczecinBIP%2Fchapter_11296.asp&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bremerhaven&amp;action=edit&amp;section=16" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Bremerhaven" class="extiw" title="commons:Category:Bremerhaven">Bremerhaven</a></b></i>.</td>
+</tr>
+</table>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/40px-Wikivoyage-Logo-v3-icon.svg.png" width="40" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/60px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/80px-Wikivoyage-Logo-v3-icon.svg.png 2x" data-file-width="193" data-file-height="193" /></td>
+<td class="mbox-text plainlist">Wikivoyage has a travel guide for <i><b><a href="https://en.wikivoyage.org/wiki/Bremerhaven#Q2706" class="extiw" title="wikivoyage:Bremerhaven">Bremerhaven</a></b></i>.</td>
+</tr>
+</table>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/38px-Wikisource-logo.svg.png" width="38" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/57px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/76px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></td>
+<td class="mbox-text plainlist"><a href="/wiki/Wikisource" title="Wikisource">Wikisource</a> has the text of the <a href="/wiki/Encyclop%C3%A6dia_Britannica_Eleventh_Edition" title="Encyclopædia Britannica Eleventh Edition">1911 <i>Encyclopædia Britannica</i></a> article <i><b><a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Bremerhaven" class="extiw" title="wikisource:1911 Encyclopædia Britannica/Bremerhaven">Bremerhaven</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120726025128/http://www.auswandererhaus.de/english/hauptseite_e.html">Auswandererhaus</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.dsm.museum/">Deutsches Schiffahrtsmuseum (in german)</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.hs-bremerhaven.de/en/">Hochschule Bremerhaven (english)</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.awi.de/en/">Alfred Wegener Institut (english)</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.bremerhaven-360.de/">360 QTVR Panos</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.cimx.de/">Fullscreen panos</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.battlefieldsww2.com/remnants-from-world-war-ii-in-bremerhaven.html">German Naval Base Bremerhaven 1939–45</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="23x15px.7Cborder_.7Calt.3DBremen_.28state.29.7Clink.3DBremen_.28state.29_Urban_districts_in_the_state_of_Bremen_in_Germany_23x15px.7Cborder_.7Calt.3DGermany.7Clink.3DGermany" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Germany_districts_Bremen" title="Template:Germany districts Bremen"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Germany_districts_Bremen" title="Template talk:Germany districts Bremen"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Germany_districts_Bremen&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="23x15px.7Cborder_.7Calt.3DBremen_.28state.29.7Clink.3DBremen_.28state.29_Urban_districts_in_the_state_of_Bremen_in_Germany_23x15px.7Cborder_.7Calt.3DGermany.7Clink.3DGermany" style="font-size:114%;margin:0 4em"><span class="flagicon"><a href="/wiki/Bremen_(state)" title="Bremen (state)"><img alt="Bremen (state)" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Flag_of_Bremen.svg/23px-Flag_of_Bremen.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Flag_of_Bremen.svg/35px-Flag_of_Bremen.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Flag_of_Bremen.svg/45px-Flag_of_Bremen.svg.png 2x" data-file-width="600" data-file-height="400" /></a></span> Urban districts in the state of <a href="/wiki/Bremen_(state)" title="Bremen (state)">Bremen</a> in Germany <span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span></div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bremen" title="Bremen">Bremen</a></li>
+<li><a class="mw-selflink selflink">Bremerhaven</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Cities_in_Germany_by_population" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Cities_in_Germany" title="Template:Cities in Germany"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Cities_in_Germany" title="Template talk:Cities in Germany"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cities_in_Germany&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Cities_in_Germany_by_population" style="font-size:114%;margin:0 4em">Cities in Germany by population</div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">1,000,000+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Berlin" title="Berlin">Berlin</a></li>
+<li><a href="/wiki/Cologne" title="Cologne">Cologne</a></li>
+<li><a href="/wiki/Hamburg" title="Hamburg">Hamburg</a></li>
+<li><a href="/wiki/Munich" title="Munich">Munich</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">500,000+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bremen" title="Bremen">Bremen</a></li>
+<li><a href="/wiki/Dortmund" title="Dortmund">Dortmund</a></li>
+<li><a href="/wiki/Dresden" title="Dresden">Dresden</a></li>
+<li><a href="/wiki/D%C3%BCsseldorf" title="Düsseldorf">Düsseldorf</a></li>
+<li><a href="/wiki/Essen" title="Essen">Essen</a></li>
+<li><a href="/wiki/Frankfurt" title="Frankfurt">Frankfurt</a></li>
+<li><a href="/wiki/Hanover" title="Hanover">Hanover</a></li>
+<li><a href="/wiki/Leipzig" title="Leipzig">Leipzig</a></li>
+<li><a href="/wiki/Nuremberg" title="Nuremberg">Nuremberg</a></li>
+<li><a href="/wiki/Stuttgart" title="Stuttgart">Stuttgart</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">200,000+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aachen" title="Aachen">Aachen</a></li>
+<li><a href="/wiki/Augsburg" title="Augsburg">Augsburg</a></li>
+<li><a href="/wiki/Bielefeld" title="Bielefeld">Bielefeld</a></li>
+<li><a href="/wiki/Bochum" title="Bochum">Bochum</a></li>
+<li><a href="/wiki/Bonn" title="Bonn">Bonn</a></li>
+<li><a href="/wiki/Braunschweig" title="Braunschweig">Braunschweig</a></li>
+<li><a href="/wiki/Chemnitz" title="Chemnitz">Chemnitz</a></li>
+<li><a href="/wiki/Duisburg" title="Duisburg">Duisburg</a></li>
+<li><a href="/wiki/Erfurt" title="Erfurt">Erfurt</a></li>
+<li><a href="/wiki/Freiburg_im_Breisgau" title="Freiburg im Breisgau">Freiburg im Breisgau</a></li>
+<li><a href="/wiki/Gelsenkirchen" title="Gelsenkirchen">Gelsenkirchen</a></li>
+<li><a href="/wiki/Halle_(Saale)" title="Halle (Saale)">Halle (Saale)</a></li>
+<li><a href="/wiki/Karlsruhe" title="Karlsruhe">Karlsruhe</a></li>
+<li><a href="/wiki/Kiel" title="Kiel">Kiel</a></li>
+<li><a href="/wiki/Krefeld" title="Krefeld">Krefeld</a></li>
+<li><a href="/wiki/L%C3%BCbeck" title="Lübeck">Lübeck</a></li>
+<li><a href="/wiki/Magdeburg" title="Magdeburg">Magdeburg</a></li>
+<li><a href="/wiki/Mainz" title="Mainz">Mainz</a></li>
+<li><a href="/wiki/Mannheim" title="Mannheim">Mannheim</a></li>
+<li><a href="/wiki/M%C3%BCnster" title="Münster">Münster</a></li>
+<li><a href="/wiki/M%C3%B6nchengladbach" title="Mönchengladbach">Mönchengladbach</a></li>
+<li><a href="/wiki/Oberhausen" title="Oberhausen">Oberhausen</a></li>
+<li><a href="/wiki/Rostock" title="Rostock">Rostock</a></li>
+<li><a href="/wiki/Wiesbaden" title="Wiesbaden">Wiesbaden</a></li>
+<li><a href="/wiki/Wuppertal" title="Wuppertal">Wuppertal</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">100,000+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bergisch_Gladbach" title="Bergisch Gladbach">Bergisch Gladbach</a></li>
+<li><a href="/wiki/Bottrop" title="Bottrop">Bottrop</a></li>
+<li><a class="mw-selflink selflink">Bremerhaven</a></li>
+<li><a href="/wiki/Cottbus" title="Cottbus">Cottbus</a></li>
+<li><a href="/wiki/Darmstadt" title="Darmstadt">Darmstadt</a></li>
+<li><a href="/wiki/Erlangen" title="Erlangen">Erlangen</a></li>
+<li><a href="/wiki/F%C3%BCrth" title="Fürth">Fürth</a></li>
+<li><a href="/wiki/G%C3%B6ttingen" title="Göttingen">Göttingen</a></li>
+<li><a href="/wiki/Hagen" title="Hagen">Hagen</a></li>
+<li><a href="/wiki/Hamm" title="Hamm">Hamm</a></li>
+<li><a href="/wiki/Heidelberg" title="Heidelberg">Heidelberg</a></li>
+<li><a href="/wiki/Heilbronn" title="Heilbronn">Heilbronn</a></li>
+<li><a href="/wiki/Herne,_North_Rhine-Westphalia" title="Herne, North Rhine-Westphalia">Herne</a></li>
+<li><a href="/wiki/Hildesheim" title="Hildesheim">Hildesheim</a></li>
+<li><a href="/wiki/Ingolstadt" title="Ingolstadt">Ingolstadt</a></li>
+<li><a href="/wiki/Jena" title="Jena">Jena</a></li>
+<li><a href="/wiki/Kassel" title="Kassel">Kassel</a></li>
+<li><a href="/wiki/Koblenz" title="Koblenz">Koblenz</a></li>
+<li><a href="/wiki/Leverkusen" title="Leverkusen">Leverkusen</a></li>
+<li><a href="/wiki/Ludwigshafen" title="Ludwigshafen">Ludwigshafen</a></li>
+<li><a href="/wiki/Moers" title="Moers">Moers</a></li>
+<li><a href="/wiki/M%C3%BClheim" title="Mülheim">Mülheim an der Ruhr</a></li>
+<li><a href="/wiki/Neuss" title="Neuss">Neuss</a></li>
+<li><a href="/wiki/Offenbach_am_Main" title="Offenbach am Main">Offenbach am Main</a></li>
+<li><a href="/wiki/Oldenburg_(Oldenburg)" class="mw-redirect" title="Oldenburg (Oldenburg)">Oldenburg</a></li>
+<li><a href="/wiki/Osnabr%C3%BCck" title="Osnabrück">Osnabrück</a></li>
+<li><a href="/wiki/Paderborn" title="Paderborn">Paderborn</a></li>
+<li><a href="/wiki/Pforzheim" title="Pforzheim">Pforzheim</a></li>
+<li><a href="/wiki/Potsdam" title="Potsdam">Potsdam</a></li>
+<li><a href="/wiki/Recklinghausen" title="Recklinghausen">Recklinghausen</a></li>
+<li><a href="/wiki/Regensburg" title="Regensburg">Regensburg</a></li>
+<li><a href="/wiki/Remscheid" title="Remscheid">Remscheid</a></li>
+<li><a href="/wiki/Reutlingen" title="Reutlingen">Reutlingen</a></li>
+<li><a href="/wiki/Saarbr%C3%BCcken" title="Saarbrücken">Saarbrücken</a></li>
+<li><a href="/wiki/Salzgitter" title="Salzgitter">Salzgitter</a></li>
+<li><a href="/wiki/Siegen" title="Siegen">Siegen</a></li>
+<li><a href="/wiki/Solingen" title="Solingen">Solingen</a></li>
+<li><a href="/wiki/Trier" title="Trier">Trier</a></li>
+<li><a href="/wiki/Ulm" title="Ulm">Ulm</a></li>
+<li><a href="/wiki/Wolfsburg" title="Wolfsburg">Wolfsburg</a></li>
+<li><a href="/wiki/W%C3%BCrzburg" title="Würzburg">Würzburg</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/List_of_cities_and_towns_in_Germany" title="List of cities and towns in Germany">complete list</a></li>
+<li><a href="/wiki/List_of_municipalities_in_Germany" title="List of municipalities in Germany">municipalities</a></li>
+<li><a href="/wiki/Metropolitan_regions_in_Germany" title="Metropolitan regions in Germany">metropolitan regions</a></li>
+<li><a href="/wiki/List_of_cities_in_Germany_by_population" title="List of cities in Germany by population">cities with more than 100,000 inhabitants</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/159415676">WorldCat Identities</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/159415676">159415676</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/4008144-8">4008144-8</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb12532707r">cb12532707r</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb12532707r">(data)</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1290
+Cached time: 20171017121332
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.660 seconds
+Real time usage: 0.853 seconds
+Preprocessor visited node count: 9641/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 142564/2097152 bytes
+Template argument size: 22522/2097152 bytes
+Highest expansion depth: 26/40
+Expensive parser function count: 7/500
+Lua time usage: 0.227/10.000 seconds
+Lua memory usage: 9.28 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  681.550      1 -total
+ 41.33%  281.678      1 Template:Infobox_German_location
+ 38.99%  265.731      1 Template:Infobox_settlement
+ 32.51%  221.573      1 Template:Infobox
+ 12.33%   84.042      2 Template:Weather_box
+  9.17%   62.498      7 Template:Population_Germany
+  8.76%   59.718      1 Template:Reflist
+  7.84%   53.404      7 Template:Cite_web
+  6.69%   45.602      5 Template:Convert
+  5.74%   39.126      8 Template:Both
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:18933240-0!canonical and timestamp 20171017121341 and revision id 805752342
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Bremerhaven&amp;oldid=805752342">https://en.wikipedia.org/w/index.php?title=Bremerhaven&amp;oldid=805752342</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Cities_in_Bremen_(state)" title="Category:Cities in Bremen (state)">Cities in Bremen (state)</a></li><li><a href="/wiki/Category:Bremerhaven" title="Category:Bremerhaven">Bremerhaven</a></li><li><a href="/wiki/Category:Enclaves_and_exclaves" title="Category:Enclaves and exclaves">Enclaves and exclaves</a></li><li><a href="/wiki/Category:Populated_coastal_places_in_Germany_(North_Sea)" title="Category:Populated coastal places in Germany (North Sea)">Populated coastal places in Germany (North Sea)</a></li><li><a href="/wiki/Category:Port_cities_and_towns_in_Germany" title="Category:Port cities and towns in Germany">Port cities and towns in Germany</a></li><li><a href="/wiki/Category:Port_cities_and_towns_of_the_North_Sea" title="Category:Port cities and towns of the North Sea">Port cities and towns of the North Sea</a></li><li><a href="/wiki/Category:1827_establishments_in_Bremen" title="Category:1827 establishments in Bremen">1827 establishments in Bremen</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_German-language_sources_(de)" title="Category:CS1 German-language sources (de)">CS1 German-language sources (de)</a></li><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_November_2016" title="Category:Articles with dead external links from November 2016">Articles with dead external links from November 2016</a></li><li><a href="/wiki/Category:Articles_with_permanently_dead_external_links" title="Category:Articles with permanently dead external links">Articles with permanently dead external links</a></li><li><a href="/wiki/Category:CS1_French-language_sources_(fr)" title="Category:CS1 French-language sources (fr)">CS1 French-language sources (fr)</a></li><li><a href="/wiki/Category:CS1_Polish-language_sources_(pl)" title="Category:CS1 Polish-language sources (pl)">CS1 Polish-language sources (pl)</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li><li><a href="/wiki/Category:Interlanguage_link_template_link_number" title="Category:Interlanguage link template link number">Interlanguage link template link number</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_December_2007" title="Category:Articles with unsourced statements from December 2007">Articles with unsourced statements from December 2007</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Bremerhaven" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Bremerhaven" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Bremerhaven" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Bremerhaven" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Bremerhaven">Read</a></span></li>
+							<li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Bremerhaven&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Bremerhaven&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Bremerhaven" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Bremerhaven" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Bremerhaven&amp;oldid=805752342" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Bremerhaven&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2706" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Bremerhaven&amp;id=805752342" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Bremerhaven">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Bremerhaven&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Bremerhaven&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Bremerhaven" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikivoyage badge-Q17559452 badge-recommendedarticle" title="recommended article"><a href="https://en.wikivoyage.org/wiki/Bremerhaven" hreflang="en">Wikivoyage</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Bremerhaven" title="Bremerhaven – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A8%D8%B1%D9%8A%D9%85%D8%B1%D9%87%D8%A7%D9%81%D9%86" title="بريمرهافن – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D8%A8%D8%B1%D9%85%D8%B1%D9%87%D8%A7%D9%81%D9%86" title="برمرهافن – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Bremerhaven" title="Bremerhaven – Chinese (Min Nan)" lang="zh-min-nan" hreflang="zh-min-nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%91%D1%80%D0%B5%D0%BC%D0%B5%D1%80%D1%85%D0%B0%D1%84%D0%B5%D0%BD" title="Бремерхафен – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bar"><a href="https://bar.wikipedia.org/wiki/Bremahavn" title="Bremahavn – Bavarian" lang="bar" hreflang="bar" class="interlanguage-link-target">Boarisch</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Bremerhaven" title="Bremerhaven – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Bremerhaven" title="Bremerhaven – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Bremerhaven_(kapital_sa_distrito)" title="Bremerhaven (kapital sa distrito) – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Bremerhaven" title="Bremerhaven – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Bremerhaven" title="Bremerhaven – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Bremerhaven" title="Bremerhaven – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Bremerhaven" title="Bremerhaven – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%9C%CF%80%CF%81%CE%B5%CE%BC%CE%B5%CF%81%CF%87%CE%AC%CF%86%CE%B5%CE%BD" title="Μπρεμερχάφεν – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Bremerhaven" title="Bremerhaven – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Bremerhaven" title="Bremerhaven – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Bremerhaven" title="Bremerhaven – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D9%85%D8%B1%D9%87%D8%A7%D9%81%D9%86" title="برمرهافن – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Bremerhaven" title="Bremerhaven – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/Bremerhaven" title="Bremerhaven – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li><li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/Bremerhaven" title="Bremerhaven – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li><li class="interlanguage-link interwiki-gd"><a href="https://gd.wikipedia.org/wiki/Bremerhaven" title="Bremerhaven – Scottish Gaelic" lang="gd" hreflang="gd" class="interlanguage-link-target">Gàidhlig</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%B8%8C%EB%A0%88%EB%A8%B8%ED%95%98%ED%8E%9C" title="브레머하펜 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Bremerhaven" title="Bremerhaven – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Bremerhaven" title="Bremerhaven – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ie"><a href="https://ie.wikipedia.org/wiki/Bremerhaven" title="Bremerhaven – Interlingue" lang="ie" hreflang="ie" class="interlanguage-link-target">Interlingue</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Bremerhaven" title="Bremerhaven – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%91%D7%A8%D7%9E%D7%A8%D7%94%D7%90%D7%A4%D7%9F" title="ברמרהאפן – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%91%E1%83%A0%E1%83%94%E1%83%9B%E1%83%94%E1%83%A0%E1%83%B0%E1%83%90%E1%83%95%E1%83%94%E1%83%9C%E1%83%98" title="ბრემერჰავენი – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Bremae_Portus" title="Bremae Portus – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Br%C4%93merh%C4%81fene" title="Brēmerhāfene – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Br%C4%97merhafenas" title="Brėmerhafenas – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Bremerhaven" title="Bremerhaven – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE%E0%A4%B0%E0%A4%B9%E0%A4%BE%E0%A4%AB%E0%A5%87%E0%A4%A8" title="ब्रेमरहाफेन – Marathi" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Bremerhaven" title="Bremerhaven – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Bremerhaven" title="Bremerhaven – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AC%E3%83%BC%E3%83%9E%E3%83%BC%E3%83%8F%E3%83%BC%E3%83%95%E3%82%A7%E3%83%B3" title="ブレーマーハーフェン – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-frr"><a href="https://frr.wikipedia.org/wiki/Bremerhuuwen" title="Bremerhuuwen – Northern Frisian" lang="frr" hreflang="frr" class="interlanguage-link-target">Nordfriisk</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Bremerhaven" title="Bremerhaven – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Bremerhaven" title="Bremerhaven – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%D8%A8%D8%B1%DB%8C%D9%85%D8%B1%DB%81%DB%8C%D9%88%D9%86" title="بریمرہیون – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li><li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/Bremerhoben" title="Bremerhoben – Low German" lang="nds" hreflang="nds" class="interlanguage-link-target">Plattdüütsch</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Bremerhaven" title="Bremerhaven – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Bremerhaven" title="Bremerhaven – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Bremerhaven" title="Bremerhaven – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%91%D1%80%D0%B5%D0%BC%D0%B5%D1%80%D1%85%D0%B0%D1%84%D0%B5%D0%BD" title="Бремерхафен – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sah"><a href="https://sah.wikipedia.org/wiki/%D0%91%D1%80%D1%8D%D0%BC%D1%8D%D1%80%D2%BB%D0%B0%D1%84%D1%84%D0%B5%D0%BD" title="Брэмэрһаффен – Sakha" lang="sah" hreflang="sah" class="interlanguage-link-target">Саха тыла</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Bremerhaven" title="Bremerhaven – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-stq"><a href="https://stq.wikipedia.org/wiki/Bremerhoawen" title="Bremerhoawen – Saterland Frisian" lang="stq" hreflang="stq" class="interlanguage-link-target">Seeltersk</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Bremerhaven" title="Bremerhaven – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Bremerhaven" title="Bremerhaven – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Bremerhaven" title="Bremerhaven – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-szl"><a href="https://szl.wikipedia.org/wiki/Bremerhaven" title="Bremerhaven – Silesian" lang="szl" hreflang="szl" class="interlanguage-link-target">Ślůnski</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%91%D1%80%D0%B5%D0%BC%D0%B5%D1%80%D1%85%D0%B0%D1%84%D0%B5%D0%BD" title="Бремерхафен – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Bremerhaven" title="Bremerhaven – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Bremerhaven" title="Bremerhaven – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Bremerhaven" title="Bremerhaven – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%91%D1%80%D0%B5%D0%BC%D0%B5%D1%80%D2%BB%D0%B0%D1%84%D0%B5%D0%BD" title="Бремерһафен – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%9A%E0%B8%A3%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AE%E0%B8%B2%E0%B9%80%E0%B8%9F%E0%B8%B4%E0%B8%99" title="เบรเมอร์ฮาเฟิน – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Bremerhaven" title="Bremerhaven – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%91%D1%80%D0%B5%D0%BC%D0%B5%D1%80%D0%B3%D0%B0%D1%84%D0%B5%D0%BD" title="Бремергафен – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Bremerhaven" title="Bremerhaven – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/Bremerhaven" title="Bremerhaven – Volapük" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Bremerhaven" title="Bremerhaven – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-bat-smg"><a href="https://bat-smg.wikipedia.org/wiki/Br%C4%97merhafens" title="Brėmerhafens – Samogitian" lang="bat-smg" hreflang="bat-smg" class="interlanguage-link-target">Žemaitėška</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E4%B8%8D%E6%9D%A5%E6%A2%85%E5%93%88%E8%8A%AC" title="不来梅哈芬 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2706#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 17 October 2017, at 12:13.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Bremerhaven&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.660","walltime":"0.853","ppvisitednodes":{"value":9641,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":142564,"limit":2097152},"templateargumentsize":{"value":22522,"limit":2097152},"expansiondepth":{"value":26,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  681.550      1 -total"," 41.33%  281.678      1 Template:Infobox_German_location"," 38.99%  265.731      1 Template:Infobox_settlement"," 32.51%  221.573      1 Template:Infobox"," 12.33%   84.042      2 Template:Weather_box","  9.17%   62.498      7 Template:Population_Germany","  8.76%   59.718      1 Template:Reflist","  7.84%   53.404      7 Template:Cite_web","  6.69%   45.602      5 Template:Convert","  5.74%   39.126      8 Template:Both"]},"scribunto":{"limitreport-timeusage":{"value":"0.227","limit":"10.000"},"limitreport-memusage":{"value":9733378,"limit":52428800}},"cachereport":{"origin":"mw1290","timestamp":"20171017121332","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":108,"wgHostname":"mw1269"});});</script>
+	</body>
+</html>

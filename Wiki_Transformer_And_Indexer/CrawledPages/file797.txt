@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Louis Menand - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Louis_Menand","wgTitle":"Louis Menand","wgCurRevisionId":798323962,"wgRevisionId":798323962,"wgArticleId":444881,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles lacking in-text citations from September 2013","All articles lacking in-text citations","Incomplete lists from December 2014","CS1 maint: Date format","Webarchive template wayback links","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","Wikipedia articles with BIBSYS identifiers","Wikipedia articles with SNAC-ID identifiers","1952 births","Living people","American academics","Pulitzer Prize for History winners","Harvard University faculty","Columbia University alumni","Harvard Law School alumni","Princeton University faculty","Historians of the United States","The New Yorker staff writers","Pomona College alumni","City University of New York faculty","Guggenheim Fellows"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Louis_Menand","wgRelevantArticleId":444881,"wgRequestId":"WeUwMgpAEK8AAAtOZdsAAABM","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q3262682","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.math.scripts","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.3"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Louis_Menand"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Louis_Menand&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Louis_Menand&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Louis_Menand"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Louis_Menand rootpage-Louis_Menand vector-experimental-print-styles vector-nav-directionality skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Louis Menand</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-style ambox-More_footnotes" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/60px-Text_document_with_red_question_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/80px-Text_document_with_red_question_mark.svg.png 2x" data-file-width="48" data-file-height="48" /></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This article includes a <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">list of references</a>, but <b>its sources remain unclear</b> because it has <b>insufficient <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a></b>. <span class="hide-when-compact">Please help to <a href="/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check" title="Wikipedia:WikiProject Fact and Reference Check">improve</a> this article by <a href="/wiki/Wikipedia:When_to_cite" title="Wikipedia:When to cite">introducing</a> more precise citations.</span> <small><i>(September 2013)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<p><b>Louis Menand</b> (<span class="nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="/ˈ/: primary stress follows">ˈ</span><span title="'l' in 'lie'">l</span><span title="/uː/: 'oo' in 'goose'">uː</span><span title="/iː/ or /ɪ/: 'y' in 'happy'">i</span></span> <span style="border-bottom:1px dotted"><span title="'m' in 'my'">m</span><span title="/ə/: 'a' in 'about'">ə</span><span title="/ˈ/: primary stress follows">ˈ</span><span title="'n' in 'nigh'">n</span><span title="/ɑː/: 'a' in 'father'">ɑː</span><span title="'n' in 'nigh'">n</span><span title="'d' in 'dye'">d</span></span>/</a></span></span>;<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> born January 21, 1952) is an American critic and essayist, best known for his book <i><a href="/wiki/The_Metaphysical_Club:_A_Story_of_Ideas_in_America" title="The Metaphysical Club: A Story of Ideas in America">The Metaphysical Club</a></i> (2001), an intellectual and cultural history of late 19th and early 20th century America.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Life_and_career"><span class="tocnumber">1</span> <span class="toctext">Life and career</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Bibliography"><span class="tocnumber">2</span> <span class="toctext">Bibliography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Books"><span class="tocnumber">2.1</span> <span class="toctext">Books</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Essays_and_reporting"><span class="tocnumber">2.2</span> <span class="toctext">Essays and reporting</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Interviews"><span class="tocnumber">4.1</span> <span class="toctext">Interviews</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Life_and_career">Life and career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Louis_Menand&amp;action=edit&amp;section=1" title="Edit section: Life and career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Menand was born in <a href="/wiki/Syracuse,_New_York" title="Syracuse, New York">Syracuse</a>, New York, and raised around <a href="/wiki/Boston" title="Boston">Boston</a>, Massachusetts. His mother, Catherine (Shults) Menand, was a historian, who wrote a biography of <a href="/wiki/Samuel_Adams" title="Samuel Adams">Samuel Adams</a>. His father, Louis Menand III, taught political science at the <a href="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology">Massachusetts Institute of Technology</a>. His grandfather and great-grandfather owned the <a href="/wiki/Louis_Menand_House" title="Louis Menand House">Louis Menand House</a>, located in <a href="/wiki/Menands,_New_York" title="Menands, New York">Menands</a>, New York, and listed on the <a href="/wiki/National_Register_of_Historic_Places" title="National Register of Historic Places">National Register of Historic Places</a> in 1985.<sup id="cite_ref-nris_2-0" class="reference"><a href="#cite_note-nris-2">[2]</a></sup> The village of Menands is named after his great-grandfather, a 19th-century horticulturalist.</p>
+<p>A graduate of <a href="/wiki/Pomona_College" title="Pomona College">Pomona College</a>, Menand attended <a href="/wiki/Harvard_Law_School" title="Harvard Law School">Harvard Law School</a> for one year (1973–1974) before he left to earn <a href="/wiki/M.A." class="mw-redirect" title="M.A.">M.A.</a> (1975) and <a href="/wiki/Ph.D." class="mw-redirect" title="Ph.D.">Ph.D.</a> (1980) degrees in English from <a href="/wiki/Columbia_University" title="Columbia University">Columbia University</a>.</p>
+<p>He thereafter taught at <a href="/wiki/Princeton_University" title="Princeton University">Princeton University</a> and held staff positions at <i><a href="/wiki/The_New_Republic" title="The New Republic">The New Republic</a></i> and <i><a href="/wiki/The_New_Yorker" title="The New Yorker">The New Yorker</a></i>. He served as Distinguished Professor of English at the Graduate Center of the <a href="/wiki/City_University_of_New_York" title="City University of New York">City University of New York</a> before accepting a post at Harvard in 2003.</p>
+<p>He published his first book <i>Discovering Modernism: T. S. Eliot and His Context</i>, in 1987. His long-anticipated second book, <i><a href="/wiki/The_Metaphysical_Club:_A_Story_of_Ideas_in_America" title="The Metaphysical Club: A Story of Ideas in America">The Metaphysical Club: A Story of Ideas in America</a></i> (2001), includes detailed biographical material on <a href="/wiki/Oliver_Wendell_Holmes,_Jr." class="mw-redirect" title="Oliver Wendell Holmes, Jr.">Oliver Wendell Holmes, Jr.</a>, <a href="/wiki/William_James" title="William James">William James</a>, <a href="/wiki/Charles_Sanders_Peirce" title="Charles Sanders Peirce">Charles Sanders Peirce</a>, and <a href="/wiki/John_Dewey" title="John Dewey">John Dewey</a>, and documents their roles in the development of the philosophy of <a href="/wiki/Pragmatism" title="Pragmatism">pragmatism</a>. It received the 2002 <a href="/wiki/Pulitzer_Prize_for_History" title="Pulitzer Prize for History">Pulitzer Prize for History</a>, the 2002 <a href="/wiki/Francis_Parkman_Prize" title="Francis Parkman Prize">Francis Parkman Prize</a>, and The Heartland Prize for Non-Fiction. In 2002 Menand published <i>American Studies</i>, a collection of essays on prominent figures in American culture.</p>
+<p>He is the Robert M. and Anne T. Bass Professor of English and American Literature and Language at <a href="/wiki/Harvard_University" title="Harvard University">Harvard University</a>. His principal field of academic interest is 19th and 20th century American cultural history. He contributes to <i>The New Yorker</i>, for which he remains a staff writer, and <i><a href="/wiki/The_New_York_Review_of_Books" title="The New York Review of Books">The New York Review of Books</a></i>, among other publications.</p>
+<h2><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Louis_Menand&amp;action=edit&amp;section=2" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable plainlinks">This list is <a href="/wiki/Wikipedia:WikiProject_Lists#Incomplete_lists" title="Wikipedia:WikiProject Lists">incomplete</a>; you can help by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Louis_Menand&amp;action=edit">expanding it</a>.</div>
+<h3><span class="mw-headline" id="Books">Books</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Louis_Menand&amp;action=edit&amp;section=3" title="Edit section: Books">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><cite class="citation book">Menand, Louis (1987). <i>Discovering Modernism&#160;: T. S. Eliot and his context</i>. Oxford University Press.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALouis+Menand&amp;rft.au=Menand%2C+Louis&amp;rft.btitle=Discovering+Modernism+%3A+T.+S.+Eliot+and+his+context&amp;rft.date=1987&amp;rft.genre=book&amp;rft.pub=Oxford+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">—, ed. (1996). <i>The future of academic freedom</i>. Chicago: U Chicago Press.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALouis+Menand&amp;rft.btitle=The+future+of+academic+freedom&amp;rft.date=1996&amp;rft.genre=book&amp;rft.place=Chicago&amp;rft.pub=U+Chicago+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">—, ed. (1997). <i>Pragmatism&#160;: a reader</i>. New York: Vintage.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALouis+Menand&amp;rft.btitle=Pragmatism+%3A+a+reader&amp;rft.date=1997&amp;rft.genre=book&amp;rft.place=New+York&amp;rft.pub=Vintage&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">— (2001). <i>The Metaphysical Club&#160;: a story of ideas in America</i>. New York: Farrar, Straus, and Giroux,.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALouis+Menand&amp;rft.au=Menand%2C+Louis&amp;rft.btitle=The+Metaphysical+Club+%3A+a+story+of+ideas+in+America&amp;rft.date=2001&amp;rft.genre=book&amp;rft.place=New+York&amp;rft.pub=Farrar%2C+Straus%2C+and+Giroux%2C&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">— (2002). <i>American studies</i>. New York: Farrar, Straus, and Giroux,.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALouis+Menand&amp;rft.au=Menand%2C+Louis&amp;rft.btitle=American+studies&amp;rft.date=2002&amp;rft.genre=book&amp;rft.place=New+York&amp;rft.pub=Farrar%2C+Straus%2C+and+Giroux%2C&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">— (2010). <i>The marketplace of ideas</i>. New York: W. W. Norton.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALouis+Menand&amp;rft.au=Menand%2C+Louis&amp;rft.btitle=The+marketplace+of+ideas&amp;rft.date=2010&amp;rft.genre=book&amp;rft.place=New+York&amp;rft.pub=W.+W.+Norton&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h3><span class="mw-headline" id="Essays_and_reporting">Essays and reporting</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Louis_Menand&amp;action=edit&amp;section=4" title="Edit section: Essays and reporting">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><cite class="citation journal">Menand, Louis (November 14, 2011). <a rel="nofollow" class="external text" href="http://www.newyorker.com/arts/critics/atlarge/2011/11/14/111114crat_atlarge_menand">"Getting real"</a>. The Critics. A Critic at Large. <i><a href="/wiki/The_New_Yorker" title="The New Yorker">The New Yorker</a></i>. <b>87</b> (36): 76–83<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-04-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALouis+Menand&amp;rft.atitle=Getting+real&amp;rft.au=Menand%2C+Louis&amp;rft.date=2011-11-14&amp;rft.genre=article&amp;rft.issue=36&amp;rft.jtitle=The+New+Yorker&amp;rft.pages=76-83&amp;rft.volume=87&amp;rft_id=http%3A%2F%2Fwww.newyorker.com%2Farts%2Fcritics%2Fatlarge%2F2011%2F11%2F14%2F111114crat_atlarge_menand&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span> Reviews <cite class="citation book">Gaddis, John Lewis. <i>George F. Kennan&#160;: an American life</i>. Penguin.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALouis+Menand&amp;rft.aufirst=John+Lewis&amp;rft.aulast=Gaddis&amp;rft.btitle=George+F.+Kennan+%3A+an+American+life&amp;rft.genre=book&amp;rft.pub=Penguin&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li>— (July 2, 2012). <a rel="nofollow" class="external text" href="http://www.newyorker.com/arts/critics/atlarge/2012/07/02/120702crat_atlarge_menand">"Silence, Exile, Punning: James Joyce's chance encounters"</a>, pp. 71–75.</li>
+<li><cite class="citation journal">— (March 4, 2013). <a rel="nofollow" class="external text" href="http://www.newyorker.com/magazine/2013/03/04/how-the-deal-went-down">"How the Deal went down&#160;: saving democracy in the Depression"</a>. The Critics. Books. <i><a href="/wiki/The_New_Yorker" title="The New Yorker">The New Yorker</a></i>. <b>89</b> (3): 69–74<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-05-11</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALouis+Menand&amp;rft.atitle=How+the+Deal+went+down+%3A+saving+democracy+in+the+Depression&amp;rft.au=Menand%2C+Louis&amp;rft.date=2013-03-04&amp;rft.genre=article&amp;rft.issue=3&amp;rft.jtitle=The+New+Yorker&amp;rft.pages=69-74&amp;rft.volume=89&amp;rft_id=http%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2013%2F03%2F04%2Fhow-the-deal-went-down&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span> Reviews <cite class="citation book">Katznelson, Ira. <i>Fear itself&#160;: the New Deal and the origins of our time</i>. Liveright.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALouis+Menand&amp;rft.aufirst=Ira&amp;rft.aulast=Katznelson&amp;rft.btitle=Fear+itself+%3A+the+New+Deal+and+the+origins+of+our+time&amp;rft.genre=book&amp;rft.pub=Liveright&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation journal">— (July 8–15, 2013). <a rel="nofollow" class="external text" href="http://www.newyorker.com/magazine/2013/07/08/the-color-of-law">"The color of law&#160;: voting rights and the Southern way of life"</a>. The Critics. A Critic at Large. <i>The New Yorker</i>. <b>89</b> (20): 80–89.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALouis+Menand&amp;rft.atitle=The+color+of+law+%3A+voting+rights+and+the+Southern+way+of+life&amp;rft.au=Menand%2C+Louis&amp;rft.date=2013-07-08%2F2013-07-15&amp;rft.genre=article&amp;rft.issue=20&amp;rft.jtitle=The+New+Yorker&amp;rft.pages=80-89&amp;rft.volume=89&amp;rft_id=http%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2013%2F07%2F08%2Fthe-color-of-law&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Date format (<a href="/wiki/Category:CS1_maint:_Date_format" title="Category:CS1 maint: Date format">link</a>)</span></li>
+<li><cite class="citation journal">— (September 30, 2013). <a rel="nofollow" class="external text" href="http://www.newyorker.com/magazine/2013/09/30/nukes-of-hazard">"Nukes of hazard"</a>. The Critics. Books. <i><a href="/wiki/The_New_Yorker" title="The New Yorker">The New Yorker</a></i>. <b>89</b> (30): 76–80<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-03-03</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALouis+Menand&amp;rft.atitle=Nukes+of+hazard&amp;rft.au=Menand%2C+Louis&amp;rft.date=2013-09-30&amp;rft.genre=article&amp;rft.issue=30&amp;rft.jtitle=The+New+Yorker&amp;rft.pages=76-80&amp;rft.volume=89&amp;rft_id=http%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2013%2F09%2F30%2Fnukes-of-hazard&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span> Reviews <cite class="citation book">Schlosser, Eric. <i>Command and Control</i>. Penguin.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALouis+Menand&amp;rft.aufirst=Eric&amp;rft.aulast=Schlosser&amp;rft.btitle=Command+and+Control&amp;rft.genre=book&amp;rft.pub=Penguin&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation journal">— (October 21, 2013). <a rel="nofollow" class="external text" href="http://www.newyorker.com/magazine/2013/10/21/the-norman-invasion">"The Norman invasion&#160;: the crazy career of Norman Mailer"</a>. The Critics. A Critic at Large. <i>The New Yorker</i>. <b>89</b> (33): 86–95.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALouis+Menand&amp;rft.atitle=The+Norman+invasion+%3A+the+crazy+career+of+Norman+Mailer&amp;rft.au=Menand%2C+Louis&amp;rft.date=2013-10-21&amp;rft.genre=article&amp;rft.issue=33&amp;rft.jtitle=The+New+Yorker&amp;rft.pages=86-95&amp;rft.volume=89&amp;rft_id=http%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2013%2F10%2F21%2Fthe-norman-invasion&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation journal">— (March 24, 2014). <a rel="nofollow" class="external text" href="http://www.newyorker.com/magazine/2014/03/24/the-de-man-case">"The de Man case&#160;: does a critic's past explain his criticism?"</a>. The Critics. A Critic at Large. <i><a href="/wiki/The_New_Yorker" title="The New Yorker">The New Yorker</a></i>. <b>90</b> (5): 87–93<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-02-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALouis+Menand&amp;rft.atitle=The+de+Man+case+%3A+does+a+critic%27s+past+explain+his+criticism%3F&amp;rft.au=Menand%2C+Louis&amp;rft.date=2014-03-24&amp;rft.genre=article&amp;rft.issue=5&amp;rft.jtitle=The+New+Yorker&amp;rft.pages=87-93&amp;rft.volume=90&amp;rft_id=http%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2014%2F03%2F24%2Fthe-de-man-case&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation journal">— (October 20, 2014). <a rel="nofollow" class="external text" href="http://www.newyorker.com/magazine/2014/10/20/crooner-rights-spat">"Crooner in rights spat&#160;: are copyright laws too strict?"</a>. The Critics. A Critic at Large. <i><a href="/wiki/The_New_Yorker" title="The New Yorker">The New Yorker</a></i>. <b>90</b> (32): 84–89<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-12-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALouis+Menand&amp;rft.atitle=Crooner+in+rights+spat+%3A+are+copyright+laws+too+strict%3F&amp;rft.au=Menand%2C+Louis&amp;rft.date=2014-10-20&amp;rft.genre=article&amp;rft.issue=32&amp;rft.jtitle=The+New+Yorker&amp;rft.pages=84-89&amp;rft.volume=90&amp;rft_id=http%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2014%2F10%2F20%2Fcrooner-rights-spat&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation journal">— (June 20, 2016). <a rel="nofollow" class="external text" href="http://www.newyorker.com/magazine/2016/06/20/art-and-taste-in-the-internet-age">"What it is like to like&#160;: art and taste in the age of the Internet"</a>. The Critics. Books. <i>The New Yorker</i>. <b>92</b> (18): 73–76.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALouis+Menand&amp;rft.atitle=What+it+is+like+to+like+%3A+art+and+taste+in+the+age+of+the+Internet&amp;rft.au=Menand%2C+Louis&amp;rft.date=2016-06-20&amp;rft.genre=article&amp;rft.issue=18&amp;rft.jtitle=The+New+Yorker&amp;rft.pages=73-76&amp;rft.volume=92&amp;rft_id=http%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2016%2F06%2F20%2Fart-and-taste-in-the-internet-age&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation journal">— (May 1, 2017). <a rel="nofollow" class="external text" href="http://www.newyorker.com/magazine/2017/05/01/the-book-that-scandalized-the-new-york-intellectuals">"Op de stez&#160;: Norman Podhoretz's classic success story"</a>. The Critics. Books. <i>The New Yorker</i>. <b>93</b> (11): 63–69.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALouis+Menand&amp;rft.atitle=Op+de+stez+%3A+Norman+Podhoretz%27s+classic+success+story&amp;rft.au=Menand%2C+Louis&amp;rft.date=2017-05-01&amp;rft.genre=article&amp;rft.issue=11&amp;rft.jtitle=The+New+Yorker&amp;rft.pages=63-69&amp;rft.volume=93&amp;rft_id=http%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2017%2F05%2F01%2Fthe-book-that-scandalized-the-new-york-intellectuals&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Louis_Menand&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://bigthink.com/videos/big-think-interview-with-louis-menand">Big Think Interview With Louis Menand</a></span></li>
+<li id="cite_note-nris-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-nris_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a href="/wiki/National_Park_Service" title="National Park Service">National Park Service</a> (2009-03-13). <a rel="nofollow" class="external text" href="http://nrhp.focus.nps.gov/natreg/docs/All_Data.html">"National Register Information System"</a>. <i>National Register of Historic Places</i>. National Park Service.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALouis+Menand&amp;rft.atitle=National+Register+Information+System&amp;rft.au=National+Park+Service&amp;rft.date=2009-03-13&amp;rft.genre=unknown&amp;rft.jtitle=National+Register+of+Historic+Places&amp;rft_id=http%3A%2F%2Fnrhp.focus.nps.gov%2Fnatreg%2Fdocs%2FAll_Data.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Online version is titled "The book that scandalized the New York intellectuals".</span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Louis_Menand&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20050309001537/http://www.theminnesotareview.org/ns52/menand.htm">The Essential Menand</a>&#160;: books, articles, and everything Louis Menand</li>
+<li><a href="/wiki/Harvard_University" title="Harvard University">Harvard University</a> Department of English <a rel="nofollow" class="external text" href="http://english.fas.harvard.edu/people/faculty">faculty listing</a> for Menand</li>
+<li><a href="/wiki/CUNY" class="mw-redirect" title="CUNY">CUNY</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20050309001537/http://www.theminnesotareview.org/ns52/menand.htm">profile</a> of Menand (former faculty post)</li>
+<li><a rel="nofollow" class="external text" href="https://www.c-span.org/person/?louismenand">Appearances</a> on <a href="/wiki/C-SPAN" title="C-SPAN">C-SPAN</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.npr.org/features/feature.php?wfId=880228">Menand's humorous exegesis</a> of <i><a href="/wiki/The_Cat_in_the_Hat" title="The Cat in the Hat">The Cat in the Hat</a></i> on <a href="/wiki/NPR" title="NPR">NPR</a>'s <i><a href="/wiki/All_Things_Considered" title="All Things Considered">All Things Considered</a></i> (link to <a href="/wiki/Windows_Media" title="Windows Media">Windows Media</a> and <a href="/wiki/RealMedia" title="RealMedia">RealMedia</a> audio)</li>
+<li><a rel="nofollow" class="external text" href="http://www.newyorker.com/critics/books/?040628crbo_books1">Louis Menand on writing</a> – (in the <i><a href="/wiki/The_New_Yorker" title="The New Yorker">New Yorker</a></i>)</li>
+<li><a rel="nofollow" class="external text" href="http://www.newyorker.com/archive/2002/12/23/021223crat_atlarge">"Cat People: What Dr. Seuss really taught us"</a> -(in the <i><a href="/wiki/The_New_Yorker" title="The New Yorker">New Yorker</a></i>)</li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20050309001537/http://www.theminnesotareview.org/ns52/menand.htm">This Week in Media Rogues</a> Article from The New York Observer about Louis Menand's review of "Wild Bill Donovan" in The New Yorker</li>
+<li><a rel="nofollow" class="external text" href="http://www.narrativemagazine.com/issues/fall-2010/letters-young-writer">Letters to a Young Writer</a>, Louis Menand to a letter, <i><a href="/wiki/Narrative_Magazine" title="Narrative Magazine">Narrative Magazine</a>,</i> (Fall 2010).</li>
+</ul>
+<h3><span class="mw-headline" id="Interviews">Interviews</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Louis_Menand&amp;action=edit&amp;section=7" title="Edit section: Interviews">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.npr.org/templates/story/story.php?storyId=122702647&amp;ft=1&amp;f=1032">Louis Menand on Reforming U.S. Universities</a> from NPR's All Things Considered (Air Date: 1/18/10)</li>
+<li><a rel="nofollow" class="external text" href="http://www.npr.org/features/feature.php?wfId=1123425">Menand interview</a> on <i>The Metaphysical Club</i> on <i>All Things Considered</i> (link to WM and RM audio)</li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20050309001537/http://www.theminnesotareview.org/ns52/menand.htm">"New New York Intellectual: An Interview with Louis Menand"</a> at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> (archived March 9, 2005) in the <i>Minnesota Review</i>, (June 1, 2001).</li>
+<li><cite class="citation web"><a href="/wiki/Russ_Roberts" title="Russ Roberts">Roberts, Russ</a> (May 31, 2010). <a rel="nofollow" class="external text" href="http://www.econtalk.org/archives/_featuring/louis_menand/">"Menand on Psychiatry"</a>. <i><a href="/wiki/EconTalk" title="EconTalk">EconTalk</a></i>. <a href="/wiki/Library_of_Economics_and_Liberty" class="mw-redirect" title="Library of Economics and Liberty">Library of Economics and Liberty</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALouis+Menand&amp;rft.atitle=Menand+on+Psychiatry&amp;rft.aufirst=Russ&amp;rft.aulast=Roberts&amp;rft.date=2010-05-31&amp;rft.genre=unknown&amp;rft.jtitle=EconTalk&amp;rft_id=http%3A%2F%2Fwww.econtalk.org%2Farchives%2F_featuring%2Flouis_menand%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Pulitzer_Prize_for_History_.282001.E2.80.932025.29" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:PulitzerPrize_HistoryAuthors_2001%E2%80%932025" title="Template:PulitzerPrize HistoryAuthors 2001–2025"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:PulitzerPrize_HistoryAuthors_2001%E2%80%932025" title="Template talk:PulitzerPrize HistoryAuthors 2001–2025"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:PulitzerPrize_HistoryAuthors_2001%E2%80%932025&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Pulitzer_Prize_for_History_.282001.E2.80.932025.29" style="font-size:114%;margin:0 4em"><a href="/wiki/Pulitzer_Prize" title="Pulitzer Prize">Pulitzer Prize</a> for <a href="/wiki/Pulitzer_Prize_for_History" title="Pulitzer Prize for History">History</a> (2001–2025)</div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Joseph_Ellis" title="Joseph Ellis">Joseph J. Ellis</a> (2001)</li>
+<li><a class="mw-selflink selflink">Louis Menand</a> (2002)</li>
+<li><a href="/wiki/Rick_Atkinson" title="Rick Atkinson">Rick Atkinson</a> (2003)</li>
+<li><a href="/wiki/Steven_Hahn" title="Steven Hahn">Steven Hahn</a> (2004)</li>
+<li><a href="/wiki/David_Hackett_Fischer" title="David Hackett Fischer">David Hackett Fischer</a> (2005)</li>
+<li><a href="/wiki/David_Oshinsky" title="David Oshinsky">David Oshinsky</a> (2006)</li>
+<li><a href="/wiki/Gene_Roberts_(journalist)" title="Gene Roberts (journalist)">Gene Roberts</a> and <a href="/wiki/Hank_Klibanoff" title="Hank Klibanoff">Hank Klibanoff</a> (2007)</li>
+<li><a href="/wiki/Daniel_Walker_Howe" title="Daniel Walker Howe">Daniel Walker Howe</a> (2008)</li>
+<li><a href="/wiki/Annette_Gordon-Reed" title="Annette Gordon-Reed">Annette Gordon-Reed</a> (2009)</li>
+<li><a href="/wiki/Liaquat_Ahamed" title="Liaquat Ahamed">Liaquat Ahamed</a> (2010)</li>
+<li><a href="/wiki/Eric_Foner" title="Eric Foner">Eric Foner</a> (2011)</li>
+<li><a href="/wiki/Manning_Marable" title="Manning Marable">Manning Marable</a> (2012)</li>
+<li><a href="/wiki/Fredrik_Logevall" title="Fredrik Logevall">Fredrik Logevall</a> (2013)</li>
+<li><a href="/wiki/Alan_Taylor_(historian)" title="Alan Taylor (historian)">Alan Taylor</a> (2014)</li>
+<li><a href="/wiki/Elizabeth_A._Fenn" title="Elizabeth A. Fenn">Elizabeth A. Fenn</a> (2015)</li>
+<li><a href="/wiki/T._J._Stiles" title="T. J. Stiles">T. J. Stiles</a> (2016)</li>
+<li><a href="/wiki/Heather_Ann_Thompson" title="Heather Ann Thompson">Heather Ann Thompson</a> (2017)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/Template:PulitzerPrize_HistoryAuthors" title="Template:PulitzerPrize HistoryAuthors">Complete list</a></li>
+<li>(<a href="/wiki/Template:PulitzerPrize_HistoryAuthors_1917%E2%80%931925" title="Template:PulitzerPrize HistoryAuthors 1917–1925">1917–1925</a>)</li>
+<li>(<a href="/wiki/Template:PulitzerPrize_HistoryAuthors_1926%E2%80%931950" title="Template:PulitzerPrize HistoryAuthors 1926–1950">1926–1950</a>)</li>
+<li>(<a href="/wiki/Template:PulitzerPrize_HistoryAuthors_1951%E2%80%931975" title="Template:PulitzerPrize HistoryAuthors 1951–1975">1951–1975</a>)</li>
+<li>(<a href="/wiki/Template:PulitzerPrize_HistoryAuthors_1976%E2%80%932000" title="Template:PulitzerPrize HistoryAuthors 1976–2000">1976–2000</a>)</li>
+<li>(<a href="/wiki/Template:PulitzerPrize_HistoryAuthors_2001%E2%80%932025" title="Template:PulitzerPrize HistoryAuthors 2001–2025">2001–2025</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/64178887">WorldCat Identities</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/64178887">64178887</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n85295591">n85295591</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/000000011767216X">0000 0001 1767 216X</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/172255112">172255112</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.idref.fr/055298087">055298087</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb13604926r">cb13604926r</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb13604926r">(data)</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/BIBSYS" class="mw-redirect" title="BIBSYS">BIBSYS</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://authority.bibsys.no/authority/rest/authorities/html/90220549">90220549</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.ndl.go.jp/auth/ndlna/01236858">01236858</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/National_Library_of_the_Czech_Republic" title="National Library of the Czech Republic">NKC</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=mzk2005279444&amp;CON_LNG=ENG">mzk2005279444</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Institute_for_Advanced_Technology_in_the_Humanities" title="Institute for Advanced Technology in the Humanities">IATH</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://socialarchive.iath.virginia.edu/ark:/99166/w6qs916s">w6qs916s</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1220
+Cached time: 20171016221827
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.292 seconds
+Real time usage: 0.384 seconds
+Preprocessor visited node count: 1195/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 48015/2097152 bytes
+Template argument size: 360/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 2/500
+Lua time usage: 0.172/10.000 seconds
+Lua memory usage: 4.48 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  329.562      1 -total
+ 22.92%   75.520      9 Template:Cite_book
+ 20.79%   68.502      1 Template:More_footnotes
+ 15.51%   51.131      1 Template:Authority_control
+ 14.28%   47.064      9 Template:Cite_journal
+ 13.32%   43.912      1 Template:Ambox
+  6.34%   20.883      1 Template:Expand_list
+  5.55%   18.278      1 Template:Hatnote
+  5.33%   17.555      1 Template:Reflist
+  4.35%   14.347      1 Template:IPAc-en
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:444881-0!canonical and timestamp 20171016221826 and revision id 798323962
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Louis_Menand&amp;oldid=798323962">https://en.wikipedia.org/w/index.php?title=Louis_Menand&amp;oldid=798323962</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1952_births" title="Category:1952 births">1952 births</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:American_academics" title="Category:American academics">American academics</a></li><li><a href="/wiki/Category:Pulitzer_Prize_for_History_winners" title="Category:Pulitzer Prize for History winners">Pulitzer Prize for History winners</a></li><li><a href="/wiki/Category:Harvard_University_faculty" title="Category:Harvard University faculty">Harvard University faculty</a></li><li><a href="/wiki/Category:Columbia_University_alumni" title="Category:Columbia University alumni">Columbia University alumni</a></li><li><a href="/wiki/Category:Harvard_Law_School_alumni" title="Category:Harvard Law School alumni">Harvard Law School alumni</a></li><li><a href="/wiki/Category:Princeton_University_faculty" title="Category:Princeton University faculty">Princeton University faculty</a></li><li><a href="/wiki/Category:Historians_of_the_United_States" title="Category:Historians of the United States">Historians of the United States</a></li><li><a href="/wiki/Category:The_New_Yorker_staff_writers" title="Category:The New Yorker staff writers">The New Yorker staff writers</a></li><li><a href="/wiki/Category:Pomona_College_alumni" title="Category:Pomona College alumni">Pomona College alumni</a></li><li><a href="/wiki/Category:City_University_of_New_York_faculty" title="Category:City University of New York faculty">City University of New York faculty</a></li><li><a href="/wiki/Category:Guggenheim_Fellows" title="Category:Guggenheim Fellows">Guggenheim Fellows</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_lacking_in-text_citations_from_September_2013" title="Category:Articles lacking in-text citations from September 2013">Articles lacking in-text citations from September 2013</a></li><li><a href="/wiki/Category:All_articles_lacking_in-text_citations" title="Category:All articles lacking in-text citations">All articles lacking in-text citations</a></li><li><a href="/wiki/Category:Incomplete_lists_from_December_2014" title="Category:Incomplete lists from December 2014">Incomplete lists from December 2014</a></li><li><a href="/wiki/Category:CS1_maint:_Date_format" title="Category:CS1 maint: Date format">CS1 maint: Date format</a></li><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BIBSYS_identifiers" title="Category:Wikipedia articles with BIBSYS identifiers">Wikipedia articles with BIBSYS identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_SNAC-ID_identifiers" title="Category:Wikipedia articles with SNAC-ID identifiers">Wikipedia articles with SNAC-ID identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Louis+Menand" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Louis+Menand" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Louis_Menand" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Louis_Menand" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Louis_Menand">Read</a></span></li>
+							<li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Louis_Menand&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Louis_Menand&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Louis_Menand" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Louis_Menand" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Louis_Menand&amp;oldid=798323962" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Louis_Menand&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3262682" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Louis_Menand&amp;id=798323962" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Louis+Menand">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Louis+Menand&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Louis_Menand&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Louis_Menand" title="Louis Menand – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3262682#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 1 September 2017, at 07:01.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Louis_Menand&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.292","walltime":"0.384","ppvisitednodes":{"value":1195,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":48015,"limit":2097152},"templateargumentsize":{"value":360,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  329.562      1 -total"," 22.92%   75.520      9 Template:Cite_book"," 20.79%   68.502      1 Template:More_footnotes"," 15.51%   51.131      1 Template:Authority_control"," 14.28%   47.064      9 Template:Cite_journal"," 13.32%   43.912      1 Template:Ambox","  6.34%   20.883      1 Template:Expand_list","  5.55%   18.278      1 Template:Hatnote","  5.33%   17.555      1 Template:Reflist","  4.35%   14.347      1 Template:IPAc-en"]},"scribunto":{"limitreport-timeusage":{"value":"0.172","limit":"10.000"},"limitreport-memusage":{"value":4699022,"limit":52428800}},"cachereport":{"origin":"mw1220","timestamp":"20171016221827","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":496,"wgHostname":"mw1220"});});</script>
+	</body>
+</html>

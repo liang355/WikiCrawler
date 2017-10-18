@@ -1,0 +1,897 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>List of Turing Award laureates by university affiliation - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"List_of_Turing_Award_laureates_by_university_affiliation","wgTitle":"List of Turing Award laureates by university affiliation","wgCurRevisionId":805546159,"wgRevisionId":805546159,"wgArticleId":30791291,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Turing Award laureates","Lists of people by university or college"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"List_of_Turing_Award_laureates_by_university_affiliation","wgRelevantArticleId":30791291,"wgRequestId":"WeQadApAMFYAALTpHogAAAAR","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q6600724","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.3"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/List_of_Turing_Award_laureates_by_university_affiliation"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=List_of_Turing_Award_laureates_by_university_affiliation&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=List_of_Turing_Award_laureates_by_university_affiliation&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/List_of_Turing_Award_laureates_by_university_affiliation"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-List_of_Turing_Award_laureates_by_university_affiliation rootpage-List_of_Turing_Award_laureates_by_university_affiliation vector-experimental-print-styles vector-nav-directionality skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">List of Turing Award laureates by university affiliation</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>The following is a <b>list of <a href="/wiki/Turing_Award" title="Turing Award">Turing Award</a> laureates</b> since 1966 (total 65 winners), grouped by their current and past affiliation to academic institutions. Universities are listed in descending order according to the number of affiliates,&#160;while&#160;<b>only those with at least 5 affiliations of awardees are shown explicitly with ranking.</b></p>
+<p>The university affiliations&#160;in this list are all formal/official academic affiliations (i.e., official employment or degree program), which fall into three categories in this list: 1)&#160;<i>Graduate and Attendee</i>, 2)&#160;<i>Long-term Academic Staff</i>, and 3)&#160;<i>Temporary Academic Staff</i>. Graduates are defined as those who hold Bachelor's, Master's, PhD, or equivalent degrees from a university, while attendees are those who formally enrolled in a degree-program at a university for at least one day but did not complete the program or obtain a degree (thus, honorary degrees, summer attendees, exchange students, and auditors are generally excluded). The category of "Long-term Academic Staff" mostly consists of tenure/tenure-track and equivalent academic positions, while that of "Temporary Academic Staff" mostly consists of lecturers (without tenure), postdoctoral researchers, visiting professors/scholars, and equivalent academic positions.</p>
+<p>Further explanations on "Temporary Academic Staff" are presented as follows.&#160;Some visiting professorships are in fact awards/honors/recognition instead of an actual affiliation with the university,&#160;and thus will not be counted in this list. In particular, giving lectures/doing researches at a university is not an indication of affiliation with that university – the lecturer has to be officially employed (even with a "visiting" title) by the university to be counted. Finally, summer employees and visitors are generally excluded from the list, and non-academic positions (e.g., advisory committee, administrative staff, etc) are also excluded.</p>
+<p>The number following a person's name is the year he/she received the Turing Award; in particular, a number with asterisk (*) means the person received the award while he/she was working at the institution containing that asterisk. A laureate with his/her name underlined implies that this person has already been counted for a same institution in previous category. If a person had multiple positions under one category, only the position with highest rank is considered.</p>
+<p>This list, together with <b><a href="/wiki/List_of_Nobel_laureates_by_university_affiliation" title="List of Nobel laureates by university affiliation">List of Nobel laureates by university affiliation</a></b> and <b><a href="/wiki/List_of_Fields_Medal_winners_by_university_affiliation" title="List of Fields Medal winners by university affiliation">List of Fields Medal winners by university affiliation</a></b>, presents the university affiliation (with similar criteria) of people who have won highest honors in fundamental academic disciplines.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#University_of_California.2C_Berkeley_.281st.29"><span class="tocnumber">1</span> <span class="toctext">University of California, Berkeley (1st)</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Massachusetts_Institute_of_Technology_.282nd.29"><span class="tocnumber">2</span> <span class="toctext">Massachusetts Institute of Technology (2nd)</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Stanford_University_.283rd.29"><span class="tocnumber">3</span> <span class="toctext">Stanford University (3rd)</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Harvard_University_.284th.29"><span class="tocnumber">4</span> <span class="toctext">Harvard University (4th)</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Carnegie_Mellon_University_.285th.29"><span class="tocnumber">5</span> <span class="toctext">Carnegie Mellon University (5th)</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Princeton_University_.286th.29"><span class="tocnumber">6</span> <span class="toctext">Princeton University (6th)</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#California_Institute_of_Technology_.287th.29"><span class="tocnumber">7</span> <span class="toctext">California Institute of Technology (7th)</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#University_of_Oxford_.288th.29"><span class="tocnumber">8</span> <span class="toctext">University of Oxford (8th)</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Other_Universities_.289th_.E2.80.93_16th.29"><span class="tocnumber">9</span> <span class="toctext">Other Universities (9th – 16th)</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Other_Universities_.2817th.E2.80.93_.29"><span class="tocnumber">10</span> <span class="toctext">Other Universities (17th– )</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#See_also"><span class="tocnumber">11</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">12</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span id="University_of_California,_Berkeley_(1st)"></span><span class="mw-headline" id="University_of_California.2C_Berkeley_.281st.29">University of California, Berkeley (1st)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Turing_Award_laureates_by_university_affiliation&amp;action=edit&amp;section=1" title="Edit section: University of California, Berkeley (1st)">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tr>
+<th>Affiliations</th>
+<th>Graduate and Attendee</th>
+<th>Long-term Academic Staff</th>
+<th>Temporary Academic Staff</th>
+</tr>
+<tr>
+<td colspan="4"><a href="/wiki/University_of_California,_Berkeley" title="University of California, Berkeley">University of California, Berkeley</a>, <a href="/wiki/United_States" title="United States">United States</a> <span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span></td>
+</tr>
+<tr>
+<td>23</td>
+<td>
+<p>1. <a href="/wiki/Barbara_Liskov" title="Barbara Liskov">Barbara Liskov</a><sup id="cite_ref-:6_1-0" class="reference"><a href="#cite_note-:6-1">[1]</a></sup> (B.S)&#160;–  2008</p>
+<p>2. <a href="/wiki/Butler_Lampson" title="Butler Lampson">Butler Lampson</a><sup id="cite_ref-:20_2-0" class="reference"><a href="#cite_note-:20-2">[2]</a></sup> (PhD)&#160;–  1992</p>
+<p>3. <a href="/wiki/Charles_P._Thacker" title="Charles P. Thacker">Charles P. Thacker</a><sup id="cite_ref-:9_3-0" class="reference"><a href="#cite_note-:9-3">[3]</a></sup> (B.S)&#160;–  2009</p>
+<p>4. <a href="/wiki/Dana_Scott" title="Dana Scott">Dana Scott</a><sup id="cite_ref-:4_4-0" class="reference"><a href="#cite_note-:4-4">[4]</a></sup> (B.A)&#160;–  1976</p>
+<p>5. <a href="/wiki/Douglas_Engelbart" title="Douglas Engelbart">Douglas Engelbart</a><sup id="cite_ref-:7_5-0" class="reference"><a href="#cite_note-:7-5">[5]</a></sup> (PhD)&#160;–  1997</p>
+<p>6. <a href="/wiki/Jim_Gray_(computer_scientist)" title="Jim Gray (computer scientist)">Jim Gray</a><sup id="cite_ref-:5_6-0" class="reference"><a href="#cite_note-:5-6">[6]</a></sup> (PhD)&#160;–  1998</p>
+<p>7. <a href="/wiki/Ken_Thompson" title="Ken Thompson">Ken Thompson</a><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> (B.S, MS)&#160;–  1983</p>
+<p>8. <a href="/wiki/Leonard_Adleman" title="Leonard Adleman">Leonard Adleman</a><sup id="cite_ref-:11_8-0" class="reference"><a href="#cite_note-:11-8">[8]</a></sup> (B.A, PhD)&#160;–  2002</p>
+<p>9. <a href="/wiki/Niklaus_Wirth" title="Niklaus Wirth">Niklaus Wirth</a><sup id="cite_ref-:8_9-0" class="reference"><a href="#cite_note-:8-9">[9]</a></sup> (PhD)&#160;–  1984</p>
+<p>10. <a href="/wiki/Shafi_Goldwasser" title="Shafi Goldwasser">Shafi Goldwasser</a><sup id="cite_ref-:12_10-0" class="reference"><a href="#cite_note-:12-10">[10]</a></sup> (PhD)&#160;–  2012</p>
+<p>11. <a href="/wiki/Silvio_Micali" title="Silvio Micali">Silvio Micali</a><sup id="cite_ref-:13_11-0" class="reference"><a href="#cite_note-:13-11">[11]</a></sup> (PhD)&#160;–  2012</p>
+</td>
+<td>
+<p>1. <a href="/wiki/Andrew_Yao" title="Andrew Yao">Andrew Chi-Chih Yao</a><sup id="cite_ref-:3_12-0" class="reference"><a href="#cite_note-:3-12">[12]</a></sup> (Professor)&#160;–  2000</p>
+<p>2. <a href="/wiki/Dana_Scott" title="Dana Scott"><u>Dana Scott</u></a><sup id="cite_ref-:4_4-1" class="reference"><a href="#cite_note-:4-4">[4]</a></sup> (Associate Professor)&#160;–  1976</p>
+<p>3. <a href="/wiki/Douglas_Engelbart" title="Douglas Engelbart"><u>Douglas Engelbart</u></a><sup id="cite_ref-:7_5-1" class="reference"><a href="#cite_note-:7-5">[5]</a></sup> (Assistant Professor)&#160;–  1997</p>
+<p>4. <a href="/wiki/Edward_Feigenbaum" title="Edward Feigenbaum">Edward Feigenbaum</a><sup id="cite_ref-:26_13-0" class="reference"><a href="#cite_note-:26-13">[13]</a></sup> (Associate Professor)&#160;–  1994</p>
+<p>5. <a href="/wiki/Manuel_Blum" title="Manuel Blum">Manuel Blum</a><sup id="cite_ref-:14_14-0" class="reference"><a href="#cite_note-:14-14">[14]</a></sup> (Professor)&#160;–  1995*</p>
+<p>6. <a href="/wiki/Michael_Stonebraker" title="Michael Stonebraker">Michael Stonebraker</a><sup id="cite_ref-:15_15-0" class="reference"><a href="#cite_note-:15-15">[15]</a></sup> (Professor)&#160;–  2014</p>
+<p>7. <a href="/wiki/Richard_Karp" class="mw-redirect" title="Richard Karp">Richard Karp</a><sup id="cite_ref-:21_16-0" class="reference"><a href="#cite_note-:21-16">[16]</a></sup> (Professor)&#160;–  1985*</p>
+<p>8. <a href="/wiki/Stephen_Cook" title="Stephen Cook">Stephen Cook</a><sup id="cite_ref-:22_17-0" class="reference"><a href="#cite_note-:22-17">[17]</a></sup> (Assistant Professor)&#160;–  1982</p>
+<p>9. <a href="/wiki/William_Kahan" title="William Kahan">William Kahan</a><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> (Professor)&#160;–  1989*</p>
+</td>
+<td>1. <a href="/wiki/Charles_P._Thacker" title="Charles P. Thacker"><u>Charles P. Thacker</u></a><sup id="cite_ref-:9_3-1" class="reference"><a href="#cite_note-:9-3">[3]</a></sup> (Researcher)&#160;–  2009
+<p>2. <a href="/wiki/Edward_Feigenbaum" title="Edward Feigenbaum"><u>Edward Feigenbaum</u></a><sup id="cite_ref-:26_13-1" class="reference"><a href="#cite_note-:26-13">[13]</a></sup> (Researcher)&#160;–  1994</p>
+<p>3. <a href="/wiki/Herbert_A._Simon" title="Herbert A. Simon">Herbert A. Simon</a><sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> (Research Director)&#160;–  1975</p>
+<p>4. <a href="/wiki/Ivan_Sutherland" title="Ivan Sutherland">Ivan Sutherland</a><sup id="cite_ref-:28_20-0" class="reference"><a href="#cite_note-:28-20">[20]</a></sup> (Visiting Scholar)&#160;–  1988</p>
+<p>5. <a href="/wiki/Jim_Gray_(computer_scientist)" title="Jim Gray (computer scientist)"><u>Jim Gray</u></a><sup id="cite_ref-:5_6-1" class="reference"><a href="#cite_note-:5-6">[6]</a></sup> (Research Fellow)&#160;–  1998</p>
+<p>6. <a href="/wiki/John_Backus" title="John Backus">John Backus</a><sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup> (Visiting Professor)&#160;–  1977</p>
+<p>7. <a href="/wiki/Michael_O._Rabin" title="Michael O. Rabin">Michael O. Rabin</a><sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup> (Visiting Associate Professor)&#160;–  1976</p>
+<p>8. <a href="/wiki/Robert_Tarjan" title="Robert Tarjan">Robert Tarjan</a><sup id="cite_ref-:1_23-0" class="reference"><a href="#cite_note-:1-23">[23]</a></sup> (Miller Research Fellow)&#160;–  1986</p>
+</td>
+</tr>
+</table>
+<h2><span id="Massachusetts_Institute_of_Technology_(2nd)"></span><span class="mw-headline" id="Massachusetts_Institute_of_Technology_.282nd.29">Massachusetts Institute of Technology (2nd)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Turing_Award_laureates_by_university_affiliation&amp;action=edit&amp;section=2" title="Edit section: Massachusetts Institute of Technology (2nd)">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tr>
+<th>Affiliations</th>
+<th>Graduate and Attendee</th>
+<th>Long-term Academic Staff</th>
+<th>Temporary Academic Staff</th>
+</tr>
+<tr>
+<td colspan="4"><a href="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology">Massachusetts Institute of Technology</a>, <a href="/wiki/United_States" title="United States">United States</a> <span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span></td>
+</tr>
+<tr>
+<td>21</td>
+<td>1. <a href="/wiki/Alan_Perlis" title="Alan Perlis">Alan Perlis</a><sup id="cite_ref-:16_24-0" class="reference"><a href="#cite_note-:16-24">[24]</a></sup> (PhD)&#160;–  1966
+<p>2. <a href="/wiki/Fernando_Corbato" class="mw-redirect" title="Fernando Corbato">Fernando Corbato</a><sup id="cite_ref-:17_25-0" class="reference"><a href="#cite_note-:17-25">[25]</a></sup> (PhD)&#160;–  1990</p>
+<p>3. <a href="/wiki/Leslie_Lamport" title="Leslie Lamport">Leslie Lamport</a><sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup> (B.S)&#160;–  2013</p>
+<p>4. <a href="/wiki/Manuel_Blum" title="Manuel Blum">Manuel Blum</a><sup id="cite_ref-:14_14-1" class="reference"><a href="#cite_note-:14-14">[14]</a></sup> (PhD)&#160;–  1995</p>
+<p>5. <a href="/wiki/Ivan_Sutherland" title="Ivan Sutherland">Ivan Sutherland</a><sup id="cite_ref-:18_27-0" class="reference"><a href="#cite_note-:18-27">[27]</a></sup> (PhD)&#160;–  1988</p>
+<p>6. <a href="/wiki/Whitfield_Diffie" title="Whitfield Diffie">Whitfield Diffie</a><sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup> (B.S)&#160;–  2015</p>
+</td>
+<td>1. <a href="/wiki/Adi_Shamir" title="Adi Shamir">Adi Shamir</a><sup id="cite_ref-:19_29-0" class="reference"><a href="#cite_note-:19-29">[29]</a></sup> (Assistant Professor)&#160;–  2002
+<p>2. <a href="/wiki/Andrew_Yao" title="Andrew Yao">Andrew Chi-Chih Yao</a><sup id="cite_ref-:3_12-1" class="reference"><a href="#cite_note-:3-12">[12]</a></sup> (Assistant Professor)&#160;–  2000</p>
+<p>3. <a href="/wiki/Barbara_Liskov" title="Barbara Liskov">Barbara Liskov</a><sup id="cite_ref-:6_1-1" class="reference"><a href="#cite_note-:6-1">[1]</a></sup> (Professor)&#160;–  2008*</p>
+<p>4. <a href="/wiki/Butler_Lampson" title="Butler Lampson">Butler Lampson</a><sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup> (Adjunct Professor)&#160;–  1992*</p>
+<p>5. <a href="/wiki/Fernando_Corbato" class="mw-redirect" title="Fernando Corbato"><u>Fernando Corbato</u></a><sup id="cite_ref-:17_25-1" class="reference"><a href="#cite_note-:17-25">[25]</a></sup> (Professor)&#160;–  1990*</p>
+<p>6. <a href="/wiki/John_McCarthy_(computer_scientist)" title="John McCarthy (computer scientist)">John McCarthy</a><sup id="cite_ref-:10_31-0" class="reference"><a href="#cite_note-:10-31">[31]</a></sup> (Assistant Professor)&#160;–  1971</p>
+<p>7. <a href="/wiki/Leonard_Adleman" title="Leonard Adleman">Leonard Adleman</a><sup id="cite_ref-:11_8-1" class="reference"><a href="#cite_note-:11-8">[8]</a></sup> (Associate Professor)&#160;–  2002</p>
+<p>8. <a href="/wiki/Manuel_Blum" title="Manuel Blum"><u>Manuel Blum</u></a><sup id="cite_ref-:14_14-2" class="reference"><a href="#cite_note-:14-14">[14]</a></sup> (Assistant Professor)&#160;–  1995*</p>
+<p>9. <a href="/wiki/Marvin_Minsky" title="Marvin Minsky">Marvin Minsky</a><sup id="cite_ref-:23_32-0" class="reference"><a href="#cite_note-:23-32">[32]</a></sup> (Professor)&#160;–  1969*</p>
+<p>10. <a href="/wiki/Martin_Hellman" title="Martin Hellman">Martin Hellman</a><sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup> (Assistant Professor)&#160;–  2015</p>
+<p>11. <a href="/wiki/Michael_Stonebraker" title="Michael Stonebraker">Michael Stonebraker</a><sup id="cite_ref-:15_15-1" class="reference"><a href="#cite_note-:15-15">[15]</a></sup> (Professor)&#160;–  2014*</p>
+<p>12. <a href="/wiki/Ronald_Rivest" class="mw-redirect" title="Ronald Rivest">Ronald Rivest</a><sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup> (Professor)&#160;–  2002*</p>
+<p>13. <a href="/wiki/Bob_Kahn" title="Bob Kahn">Robert Kahn</a><sup id="cite_ref-:31_35-0" class="reference"><a href="#cite_note-:31-35">[35]</a></sup> (Assistant Professor)&#160;–  2004</p>
+<p>14. <a href="/wiki/Shafi_Goldwasser" title="Shafi Goldwasser">Shafi Goldwasser</a><sup id="cite_ref-:12_10-1" class="reference"><a href="#cite_note-:12-10">[10]</a></sup> (Professor)&#160;–  2012*</p>
+<p>15. <a href="/wiki/Silvio_Micali" title="Silvio Micali">Silvio Micali</a><sup id="cite_ref-:13_11-1" class="reference"><a href="#cite_note-:13-11">[11]</a></sup> (Professor)&#160;–  2012*</p>
+<p>16. <a href="/wiki/Tim_Berners-Lee" title="Tim Berners-Lee">Tim Berners-Lee</a><sup id="cite_ref-36" class="reference"><a href="#cite_note-36">[36]</a></sup> (Professor) - 2016*</p>
+</td>
+<td>1. <a href="/wiki/Adi_Shamir" title="Adi Shamir"><u>Adi Shamir</u></a><sup id="cite_ref-:19_29-1" class="reference"><a href="#cite_note-:19-29">[29]</a></sup> (Instructor)&#160;–  2002
+<p>2. <a href="/wiki/Alan_Perlis" title="Alan Perlis"><u>Alan Perlis</u></a><sup id="cite_ref-:16_24-1" class="reference"><a href="#cite_note-:16-24">[24]</a></sup> (Researcher)&#160;–  1966</p>
+<p>3. <a href="/wiki/Ivan_Sutherland" title="Ivan Sutherland"><u>Ivan Sutherland</u></a><sup id="cite_ref-:18_27-1" class="reference"><a href="#cite_note-:18-27">[27]</a></sup> (Researcher)&#160;–  1988</p>
+<p>4. <a href="/wiki/Michael_O._Rabin" title="Michael O. Rabin">Michael O. Rabin</a><sup id="cite_ref-:24_37-0" class="reference"><a href="#cite_note-:24-37">[37]</a></sup> (Visiting Professor)&#160;–  1976</p>
+<p>5. <a href="/wiki/Shafi_Goldwasser" title="Shafi Goldwasser"><u>Shafi Goldwasser</u></a><sup id="cite_ref-:12_10-2" class="reference"><a href="#cite_note-:12-10">[10]</a></sup> (Postdoctoral Researcher)&#160;–  2012</p>
+</td>
+</tr>
+</table>
+<h2><span id="Stanford_University_(3rd)"></span><span class="mw-headline" id="Stanford_University_.283rd.29">Stanford University (3rd)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Turing_Award_laureates_by_university_affiliation&amp;action=edit&amp;section=3" title="Edit section: Stanford University (3rd)">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tr>
+<th>Affiliations</th>
+<th>Graduate and Attendee</th>
+<th>Long-term Academic Staff</th>
+<th>Temporary Academic Staff</th>
+</tr>
+<tr>
+<td colspan="4"><a href="/wiki/Stanford_University" title="Stanford University">Stanford University</a>, <a href="/wiki/United_States" title="United States">United States</a> <span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span></td>
+</tr>
+<tr>
+<td>20</td>
+<td>1. <a href="/wiki/Allen_Newell" title="Allen Newell">Allen Newell</a><sup id="cite_ref-:29_38-0" class="reference"><a href="#cite_note-:29-38">[38]</a></sup> (B.S)&#160;–  1975
+<p>2. <a href="/wiki/Barbara_Liskov" title="Barbara Liskov">Barbara Liskov</a><sup id="cite_ref-:6_1-2" class="reference"><a href="#cite_note-:6-1">[1]</a></sup> (PhD)&#160;–  2008</p>
+<p>3. <a href="/wiki/John_Hopcroft" title="John Hopcroft">John Hopcroft</a><sup id="cite_ref-39" class="reference"><a href="#cite_note-39">[39]</a></sup> (PhD)&#160;–  1986</p>
+<p>4. <a href="/wiki/Raj_Reddy" title="Raj Reddy">Raj Reddy</a><sup id="cite_ref-:0_40-0" class="reference"><a href="#cite_note-:0-40">[40]</a></sup> (PhD)&#160;–  1994</p>
+<p>5. <a href="/wiki/Ronald_Rivest" class="mw-redirect" title="Ronald Rivest">Ronald Rivest</a><sup id="cite_ref-41" class="reference"><a href="#cite_note-41">[41]</a></sup> (PhD)&#160;–  2002</p>
+<p>6. <a href="/wiki/Robert_Tarjan" title="Robert Tarjan">Robert Tarjan</a><sup id="cite_ref-:1_23-1" class="reference"><a href="#cite_note-:1-23">[23]</a></sup> (PhD)&#160;–  1986</p>
+<p>7. <a href="/wiki/Vinton_Cerf" class="mw-redirect" title="Vinton Cerf">Vinton Cerf</a><sup id="cite_ref-:2_42-0" class="reference"><a href="#cite_note-:2-42">[42]</a></sup> (B.S)&#160;–  2004</p>
+</td>
+<td>1. <a href="/wiki/Andrew_Chi-Chih_Yao" class="mw-redirect" title="Andrew Chi-Chih Yao">Andrew Chi-Chih Yao</a><sup id="cite_ref-:3_12-2" class="reference"><a href="#cite_note-:3-12">[12]</a></sup> (Professor)&#160;–  2000
+<p>2. <a href="/wiki/Dana_Scott" title="Dana Scott">Dana Scott</a><sup id="cite_ref-:4_4-2" class="reference"><a href="#cite_note-:4-4">[4]</a></sup> (Professor)&#160;–  1976</p>
+<p>2. <a href="/wiki/Donald_Knuth" title="Donald Knuth">Donald Knuth</a><sup id="cite_ref-:32_43-0" class="reference"><a href="#cite_note-:32-43">[43]</a></sup> (Professor)&#160;–  1974*</p>
+<p>3. <a href="/wiki/Douglas_Engelbart" title="Douglas Engelbart">Douglas Engelbart</a><sup id="cite_ref-:7_5-2" class="reference"><a href="#cite_note-:7-5">[5]</a></sup> (Research Director)&#160;–  1997</p>
+<p>4. <a href="/wiki/Edward_Feigenbaum" title="Edward Feigenbaum">Edward Feigenbaum</a><sup id="cite_ref-:26_13-2" class="reference"><a href="#cite_note-:26-13">[13]</a></sup> (Professor)&#160;–  1994*</p>
+<p>5. <a href="/wiki/John_McCarthy_(computer_scientist)" title="John McCarthy (computer scientist)">John McCarthy</a><sup id="cite_ref-:10_31-1" class="reference"><a href="#cite_note-:10-31">[31]</a></sup> (Professor)&#160;–  1971*</p>
+<p>6. <a href="/wiki/Martin_Hellman" title="Martin Hellman">Martin Hellman</a><sup id="cite_ref-44" class="reference"><a href="#cite_note-44">[44]</a></sup> (Professor)&#160;–  2015*</p>
+<p>7. <a href="/wiki/Niklaus_Wirth" title="Niklaus Wirth">Niklaus Wirth</a><sup id="cite_ref-:8_9-1" class="reference"><a href="#cite_note-:8-9">[9]</a></sup> (Assistant Professor)&#160;–  1984</p>
+<p>8. <a href="/wiki/Raj_Reddy" title="Raj Reddy"><u>Raj Reddy</u></a><sup id="cite_ref-:0_40-1" class="reference"><a href="#cite_note-:0-40">[40]</a></sup> (Assistant Professor)&#160;–  1994</p>
+<p>9. <a href="/wiki/Robert_W._Floyd" title="Robert W. Floyd">Robert W. Floyd</a><sup id="cite_ref-:30_45-0" class="reference"><a href="#cite_note-:30-45">[45]</a></sup> (Professor)&#160;–  1978*</p>
+<p>10. <a href="/wiki/Robert_Tarjan" title="Robert Tarjan">Robert Tarjan</a><sup id="cite_ref-:1_23-2" class="reference"><a href="#cite_note-:1-23">[23]</a></sup> (Associate Professor)&#160;–  1986</p>
+<p>11. <a href="/wiki/Vinton_Cerf" class="mw-redirect" title="Vinton Cerf"><u>Vinton Cerf</u></a><sup id="cite_ref-:2_42-1" class="reference"><a href="#cite_note-:2-42">[42]</a></sup> (Assistant Professor)&#160;–  2004</p>
+<p>12. <a href="/wiki/Whitfield_Diffie" title="Whitfield Diffie">Whitfield Diffie</a><sup id="cite_ref-46" class="reference"><a href="#cite_note-46">[46]</a></sup> (Professor)&#160;–  2015*</p>
+</td>
+<td>1. <a href="/wiki/Alan_Kay" title="Alan Kay">Alan Kay</a><sup id="cite_ref-47" class="reference"><a href="#cite_note-47">[47]</a></sup> (Researcher)&#160;–  2003
+<p>2. <a href="/wiki/Amir_Pnueli" title="Amir Pnueli">Amir Pnueli</a><sup id="cite_ref-48" class="reference"><a href="#cite_note-48">[48]</a></sup> (Postdoctoral Researcher, Visitor)&#160;–  1996</p>
+<p>3. <a href="/wiki/Robin_Milner" title="Robin Milner">Robin Milner</a><sup id="cite_ref-49" class="reference"><a href="#cite_note-49">[49]</a></sup> (Researcher)&#160;–  1991</p>
+</td>
+</tr>
+</table>
+<h2><span id="Harvard_University_(4th)"></span><span class="mw-headline" id="Harvard_University_.284th.29">Harvard University (4th)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Turing_Award_laureates_by_university_affiliation&amp;action=edit&amp;section=4" title="Edit section: Harvard University (4th)">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tr>
+<th>Affiliations</th>
+<th>Graduate and Attendee</th>
+<th>Long-term Academic Staff</th>
+<th>Temporary Academic Staff</th>
+</tr>
+<tr>
+<td colspan="4"><a href="/wiki/Harvard_University" title="Harvard University">Harvard University</a>, <a href="/wiki/United_States" title="United States">United States</a> <span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span></td>
+</tr>
+<tr>
+<td>13</td>
+<td>1. <a href="/wiki/Andrew_Chi-Chih_Yao" class="mw-redirect" title="Andrew Chi-Chih Yao">Andrew Chi-Chih Yao</a><sup id="cite_ref-:3_12-3" class="reference"><a href="#cite_note-:3-12">[12]</a></sup> (PhD)&#160;–  2000
+<p>2. <a href="/wiki/Butler_Lampson" title="Butler Lampson">Butler Lampson</a><sup id="cite_ref-:20_2-1" class="reference"><a href="#cite_note-:20-2">[2]</a></sup> (B.A)&#160;–  1992</p>
+<p>3. <a href="/wiki/Dennis_M._Ritchie" class="mw-redirect" title="Dennis M. Ritchie">Dennis M. Ritchie</a><sup id="cite_ref-50" class="reference"><a href="#cite_note-50">[50]</a></sup> (B.S. 1963, PhD 1967)&#160;–  1983</p>
+<p>4. <a href="/wiki/E._Allen_Emerson" title="E. Allen Emerson">E. Allen Emerson</a><sup id="cite_ref-51" class="reference"><a href="#cite_note-51">[51]</a></sup> (PhD)&#160;–  2007</p>
+<p>5. <a href="/wiki/Frederick_P._Brooks,_Jr." class="mw-redirect" title="Frederick P. Brooks, Jr.">Frederick P. Brooks, Jr.</a><sup id="cite_ref-52" class="reference"><a href="#cite_note-52">[52]</a></sup> (PhD)&#160;–  1999</p>
+<p>6. <a href="/wiki/Kenneth_E._Iverson" title="Kenneth E. Iverson">Kenneth E. Iverson</a><sup id="cite_ref-:25_53-0" class="reference"><a href="#cite_note-:25-53">[53]</a></sup> (PhD)&#160;–  1979</p>
+<p>7. <a href="/wiki/Marvin_Minsky" title="Marvin Minsky">Marvin Minsky</a><sup id="cite_ref-:23_32-1" class="reference"><a href="#cite_note-:23-32">[32]</a></sup> (B.A)&#160;–  1969</p>
+<p>8. <a href="/wiki/Richard_Karp" class="mw-redirect" title="Richard Karp">Richard Karp</a><sup id="cite_ref-:21_16-1" class="reference"><a href="#cite_note-:21-16">[16]</a></sup> (B.A, PhD)&#160;–  1985</p>
+<p>9. <a href="/wiki/Stephen_A._Cook" class="mw-redirect" title="Stephen A. Cook">Stephen A. Cook</a><sup id="cite_ref-:22_17-1" class="reference"><a href="#cite_note-:22-17">[17]</a></sup> (PhD)&#160;–  1982</p>
+</td>
+<td>1. <a href="/wiki/Ivan_Sutherland" title="Ivan Sutherland">Ivan Sutherland</a><sup id="cite_ref-:28_20-1" class="reference"><a href="#cite_note-:28-20">[20]</a></sup> (Associate Professor)&#160;–  1988
+<p>2. <a href="/wiki/Leslie_G._Valiant" class="mw-redirect" title="Leslie G. Valiant">Leslie G. Valiant</a> (Professor)&#160;–  2010*</p>
+<p>3. <a href="/wiki/Michael_O._Rabin" title="Michael O. Rabin">Michael O. Rabin</a><sup id="cite_ref-:24_37-1" class="reference"><a href="#cite_note-:24-37">[37]</a></sup> (Professor)&#160;–  1976</p>
+<p>4. <a href="/wiki/Kenneth_E._Iverson" title="Kenneth E. Iverson"><u>Kenneth E. Iverson</u></a><sup id="cite_ref-:25_53-1" class="reference"><a href="#cite_note-:25-53">[53]</a></sup> (Assistant Professor)&#160;–  1979</p>
+</td>
+<td>1. <a href="/wiki/Edmund_M._Clarke" title="Edmund M. Clarke">Edmund M. Clarke</a><sup id="cite_ref-:27_54-0" class="reference"><a href="#cite_note-:27-54">[54]</a></sup> (Instructor)&#160;–  2007
+<p>2. <a href="/wiki/Kenneth_E._Iverson" title="Kenneth E. Iverson"><u>Kenneth E. Iverson</u></a><sup id="cite_ref-:25_53-2" class="reference"><a href="#cite_note-:25-53">[53]</a></sup> (Instructor)&#160;–  1979</p>
+</td>
+</tr>
+</table>
+<h2><span id="Carnegie_Mellon_University_(5th)"></span><span class="mw-headline" id="Carnegie_Mellon_University_.285th.29">Carnegie Mellon University (5th)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Turing_Award_laureates_by_university_affiliation&amp;action=edit&amp;section=5" title="Edit section: Carnegie Mellon University (5th)">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tr>
+<th>Affiliations</th>
+<th>Graduate and Attendee</th>
+<th>Long-term Academic Staff</th>
+<th>Temporary Academic Staff</th>
+</tr>
+<tr>
+<td colspan="4"><a href="/wiki/Carnegie_Mellon_University" title="Carnegie Mellon University">Carnegie Mellon University</a>, <a href="/wiki/United_States" title="United States">United States</a><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span></td>
+</tr>
+<tr>
+<td>12</td>
+<td>1. <a href="/wiki/Alan_J._Perlis" class="mw-redirect" title="Alan J. Perlis">Alan J. Perlis</a><sup id="cite_ref-:16_24-2" class="reference"><a href="#cite_note-:16-24">[24]</a></sup> (B.S)&#160;–  1966
+<p>2. <a href="/wiki/Allen_Newell" title="Allen Newell">Allen Newell</a><sup id="cite_ref-:29_38-1" class="reference"><a href="#cite_note-:29-38">[38]</a></sup> (PhD)&#160;–  1975</p>
+<p>3. <a href="/wiki/Edward_Feigenbaum" title="Edward Feigenbaum">Edward Feigenbaum</a><sup id="cite_ref-:26_13-3" class="reference"><a href="#cite_note-:26-13">[13]</a></sup> (PhD)&#160;–  1994</p>
+<p>4. <a href="/wiki/Ivan_E._Sutherland" class="mw-redirect" title="Ivan E. Sutherland">Ivan E. Sutherland</a><sup id="cite_ref-:28_20-2" class="reference"><a href="#cite_note-:28-20">[20]</a></sup> (B.S)&#160;–  1988</p>
+<p>5. <a href="/wiki/Shafi_Goldwasser" title="Shafi Goldwasser">Shafi Goldwasser</a><sup id="cite_ref-:12_10-3" class="reference"><a href="#cite_note-:12-10">[10]</a></sup> (B.S)&#160;–  2012</p>
+</td>
+<td>1. <a href="/wiki/Alan_J._Perlis" class="mw-redirect" title="Alan J. Perlis"><u>Alan J. Perlis</u></a><sup id="cite_ref-:16_24-3" class="reference"><a href="#cite_note-:16-24">[24]</a></sup> (Professor)&#160;–  1966*
+<p>2. <a href="/wiki/Allen_Newell" title="Allen Newell"><u>Allen Newell</u></a><sup id="cite_ref-:29_38-2" class="reference"><a href="#cite_note-:29-38">[38]</a></sup> (Professor)&#160;–  1975</p>
+<p>3. <a href="/wiki/Dana_Scott" title="Dana Scott">Dana Scott</a><sup id="cite_ref-:4_4-3" class="reference"><a href="#cite_note-:4-4">[4]</a></sup> (Professor)&#160;–  1976</p>
+<p>4. <a href="/wiki/Edmund_M._Clarke" title="Edmund M. Clarke">Edmund M. Clarke</a><sup id="cite_ref-:27_54-1" class="reference"><a href="#cite_note-:27-54">[54]</a></sup> (Professor)&#160;–  2007*</p>
+<p>5. <a href="/wiki/Herbert_A._Simon" title="Herbert A. Simon">Herbert A. Simon</a><sup id="cite_ref-55" class="reference"><a href="#cite_note-55">[55]</a></sup> (Professor)&#160;–  1975*</p>
+<p>6. <a href="/wiki/Manuel_Blum" title="Manuel Blum">Manuel Blum</a><sup id="cite_ref-:14_14-3" class="reference"><a href="#cite_note-:14-14">[14]</a></sup> (Professor)&#160;–  1995</p>
+<p>7. <a href="/wiki/Raj_Reddy" title="Raj Reddy">Raj Reddy</a><sup id="cite_ref-:0_40-2" class="reference"><a href="#cite_note-:0-40">[40]</a></sup> (Professor)&#160;–  1994*</p>
+<p>8. <a href="/wiki/Robert_W._Floyd" title="Robert W. Floyd">Robert W. Floyd</a><sup id="cite_ref-:30_45-1" class="reference"><a href="#cite_note-:30-45">[45]</a></sup> (Assistant Professor)&#160;–  1978</p>
+</td>
+<td>1. <a href="/wiki/Leslie_Valiant" title="Leslie Valiant">Leslie Valiant</a><sup id="cite_ref-56" class="reference"><a href="#cite_note-56">[56]</a></sup> (Visiting Assistant Professor)</td>
+</tr>
+</table>
+<h2><span id="Princeton_University_(6th)"></span><span class="mw-headline" id="Princeton_University_.286th.29">Princeton University (6th)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Turing_Award_laureates_by_university_affiliation&amp;action=edit&amp;section=6" title="Edit section: Princeton University (6th)">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tr>
+<th>Affiliations</th>
+<th>Graduate and Attendee</th>
+<th>Long-term Academic Staff</th>
+<th>Temporary Academic Staff</th>
+</tr>
+<tr>
+<td colspan="4"><a href="/wiki/Princeton_University" title="Princeton University">Princeton University</a>, <a href="/wiki/United_States" title="United States">United States</a> <span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span></td>
+</tr>
+<tr>
+<td>10</td>
+<td>1. <a href="/wiki/Dana_Scott" title="Dana Scott">Dana Scott</a><sup id="cite_ref-:4_4-4" class="reference"><a href="#cite_note-:4-4">[4]</a></sup> (PhD)&#160;–  1976
+<p>2. <a href="/wiki/John_McCarthy_(computer_scientist)" title="John McCarthy (computer scientist)">John McCarthy</a><sup id="cite_ref-:10_31-2" class="reference"><a href="#cite_note-:10-31">[31]</a></sup> (PhD)&#160;–  1971</p>
+<p>3. <a href="/wiki/Marvin_Minsky" title="Marvin Minsky">Marvin Minsky</a><sup id="cite_ref-:23_32-2" class="reference"><a href="#cite_note-:23-32">[32]</a></sup> (PhD)&#160;–  1969</p>
+<p>4. <a href="/wiki/Michael_O._Rabin" title="Michael O. Rabin">Michael O. Rabin</a><sup id="cite_ref-:24_37-2" class="reference"><a href="#cite_note-:24-37">[37]</a></sup> (PhD)&#160;–  1976</p>
+<p>5. <a href="/wiki/Michael_Stonebraker" title="Michael Stonebraker">Michael Stonebraker</a> (B.S)&#160;–  2014</p>
+<p>6. <a href="/wiki/Richard_E._Stearns" title="Richard E. Stearns">Richard E. Stearns</a><sup id="cite_ref-57" class="reference"><a href="#cite_note-57">[57]</a></sup> (PhD)&#160;–  1993</p>
+<p>7. <a href="/wiki/Bob_Kahn" title="Bob Kahn">Robert Kahn</a><sup id="cite_ref-:31_35-1" class="reference"><a href="#cite_note-:31-35">[35]</a></sup> (PhD)&#160;–  2004</p>
+</td>
+<td>1. <a href="/wiki/Andrew_Chi-Chih_Yao" class="mw-redirect" title="Andrew Chi-Chih Yao">Andrew Chi-Chih Yao</a><sup id="cite_ref-:3_12-4" class="reference"><a href="#cite_note-:3-12">[12]</a></sup> (Professor)&#160;–  2000*
+<p>2. <a href="/wiki/Dana_Scott" title="Dana Scott"><u>Dana Scott</u></a><sup id="cite_ref-:4_4-5" class="reference"><a href="#cite_note-:4-4">[4]</a></sup> (Professor)&#160;–  1976</p>
+<p>3. <a href="/wiki/John_Hopcroft" title="John Hopcroft">John Hopcroft</a><sup id="cite_ref-58" class="reference"><a href="#cite_note-58">[58]</a></sup> (Assistant Professor)&#160;–  1986</p>
+<p>4. <a href="/wiki/Robert_Tarjan" title="Robert Tarjan">Robert Tarjan</a><sup id="cite_ref-:1_23-3" class="reference"><a href="#cite_note-:1-23">[23]</a></sup> (Professor)&#160;–  1986*</p>
+</td>
+<td>1. <a href="/wiki/John_McCarthy_(computer_scientist)" title="John McCarthy (computer scientist)"><u>John McCarthy</u></a><sup id="cite_ref-:10_31-3" class="reference"><a href="#cite_note-:10-31">[31]</a></sup> (Instructor)&#160;–  1971</td>
+</tr>
+</table>
+<h2><span id="California_Institute_of_Technology_(7th)"></span><span class="mw-headline" id="California_Institute_of_Technology_.287th.29">California Institute of Technology (7th)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Turing_Award_laureates_by_university_affiliation&amp;action=edit&amp;section=7" title="Edit section: California Institute of Technology (7th)">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tr>
+<th>Affiliations</th>
+<th>Graduate and Attendee</th>
+<th>Long-term Academic Staff</th>
+<th>Temporary Academic Staff</th>
+</tr>
+<tr>
+<td colspan="4"><a href="/wiki/California_Institute_of_Technology" title="California Institute of Technology">California Institute of Technology</a>, <a href="/wiki/United_States" title="United States">United States</a> <span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span></td>
+</tr>
+<tr>
+<td>6</td>
+<td>1. <a href="/wiki/Donald_Knuth" title="Donald Knuth">Donald Knuth</a><sup id="cite_ref-:32_43-1" class="reference"><a href="#cite_note-:32-43">[43]</a></sup> (PhD)&#160;–  1974
+<p>2. <a href="/wiki/Fernando_Corbato" class="mw-redirect" title="Fernando Corbato">Fernando Corbato</a><sup id="cite_ref-:17_25-2" class="reference"><a href="#cite_note-:17-25">[25]</a></sup> (B.S)&#160;–  1990</p>
+<p>3. <a href="/wiki/Ivan_Sutherland" title="Ivan Sutherland">Ivan Sutherland</a><sup id="cite_ref-:28_20-3" class="reference"><a href="#cite_note-:28-20">[20]</a></sup> (M.S)&#160;–  1988</p>
+<p>4. <a href="/wiki/John_McCarthy_(computer_scientist)" title="John McCarthy (computer scientist)">John McCarthy</a><sup id="cite_ref-:10_31-4" class="reference"><a href="#cite_note-:10-31">[31]</a></sup> (B.S)&#160;–  1971</p>
+<p>5. <a href="/wiki/Juris_Hartmanis" title="Juris Hartmanis">Juris Hartmanis</a><sup id="cite_ref-59" class="reference"><a href="#cite_note-59">[59]</a></sup> (PhD)&#160;–  1993</p>
+<p>6. <a href="/wiki/Robert_Tarjan" title="Robert Tarjan">Robert Tarjan</a><sup id="cite_ref-:1_23-4" class="reference"><a href="#cite_note-:1-23">[23]</a></sup> (B.S)&#160;–  1986</p>
+</td>
+<td>1. <a href="/wiki/Donald_Knuth" title="Donald Knuth"><u>Donald Knuth</u></a><sup id="cite_ref-:32_43-2" class="reference"><a href="#cite_note-:32-43">[43]</a></sup> (Associate Professor)&#160;–  1974
+<p>2. <a href="/wiki/Ivan_Sutherland" title="Ivan Sutherland"><u>Ivan Sutherland</u></a><sup id="cite_ref-:28_20-4" class="reference"><a href="#cite_note-:28-20">[20]</a></sup> (Professor)&#160;–  1988</p>
+</td>
+<td></td>
+</tr>
+</table>
+<h2><span id="University_of_Oxford_(8th)"></span><span class="mw-headline" id="University_of_Oxford_.288th.29">University of Oxford (8th)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Turing_Award_laureates_by_university_affiliation&amp;action=edit&amp;section=8" title="Edit section: University of Oxford (8th)">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tr>
+<th>Affiliations</th>
+<th>Graduate and Attendee</th>
+<th>Long-term Academic Staff</th>
+<th>Temporary Academic Staff</th>
+</tr>
+<tr>
+<td colspan="4"><a href="/wiki/University_of_Oxford" title="University of Oxford">University of Oxford</a>, <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a> <span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span></td>
+</tr>
+<tr>
+<td>5</td>
+<td>1. <a href="/wiki/Tony_Hoare" title="Tony Hoare">Tony Hoare</a> (B.A.)&#160;–  1980
+<p>2. <a href="/wiki/Edgar_F._Codd" title="Edgar F. Codd">Edgar F. Codd</a> (B.A)&#160;–  1981</p>
+<p>3. <a href="/wiki/Tim_Berners-Lee" title="Tim Berners-Lee">Tim Berners-Lee</a> (B.A)&#160;–  2016</p>
+</td>
+<td>1. <a href="/wiki/Dana_Scott" title="Dana Scott">Dana Scott</a> (Professor of Mathematical Logic)&#160;–  1976
+<p>2. <a href="/wiki/Tim_Berners-Lee" title="Tim Berners-Lee"><u>Tim Berners-Lee</u></a> (Christ Church College)&#160;–  2016<sup id="cite_ref-60" class="reference"><a href="#cite_note-60">[60]</a></sup></p>
+</td>
+<td>1. <a href="/wiki/Donald_Knuth" title="Donald Knuth"><u>Donald Knuth</u></a><sup id="cite_ref-:32_43-3" class="reference"><a href="#cite_note-:32-43">[43]</a></sup> (Visiting Professor)&#160;–  1974</td>
+</tr>
+</table>
+<h2><span id="Other_Universities_(9th_–_16th)"></span><span class="mw-headline" id="Other_Universities_.289th_.E2.80.93_16th.29">Other Universities (9th – 16th)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Turing_Award_laureates_by_university_affiliation&amp;action=edit&amp;section=9" title="Edit section: Other Universities (9th – 16th)">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tr>
+<th>University</th>
+<th>Number</th>
+<th>Names</th>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/Cornell_University" title="Cornell University">Cornell University</a></td>
+<td>4</td>
+<td><a href="/wiki/Edmund_M._Clarke" title="Edmund M. Clarke">Edmund M. Clarke</a>, <a href="/wiki/John_Hopcroft" title="John Hopcroft">John Hopcroft</a>, <a href="/wiki/Juris_Hartmanis" title="Juris Hartmanis">Juris Hartmanis</a>, <a href="/wiki/Robert_Tarjan" title="Robert Tarjan">Robert Tarjan</a><sup id="cite_ref-61" class="reference"><a href="#cite_note-61">[61]</a></sup></td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/New_York_University" title="New York University">New York University</a></td>
+<td>4</td>
+<td><a href="/wiki/Judea_Pearl" title="Judea Pearl">Judea Pearl</a>, <a href="/wiki/Amir_Pnueli" title="Amir Pnueli">Amir Pnueli</a>, <a href="/wiki/Frances_E._Allen" title="Frances E. Allen">Frances E. Allen</a>, <a href="/wiki/Martin_Hellman" title="Martin Hellman">Martin Hellman</a></td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/University_of_Cambridge" title="University of Cambridge">University of Cambridge</a></td>
+<td>4</td>
+<td><a href="/wiki/Robin_Milner" title="Robin Milner">Robin Milner</a>, <a href="/wiki/Leslie_Valiant" title="Leslie Valiant">Leslie Valiant</a>, <a href="/wiki/Maurice_Wilkes" title="Maurice Wilkes">Maurice Wilkes</a>, <a href="/wiki/James_H._Wilkinson" title="James H. Wilkinson">James H. Wilkinson</a></td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/University_of_Chicago" title="University of Chicago">University of Chicago</a></td>
+<td>4</td>
+<td><a href="/wiki/Robert_W._Floyd" title="Robert W. Floyd">Robert W. Floyd</a>, <a href="/wiki/Richard_Hamming" title="Richard Hamming">Richard Hamming</a>, <a href="/wiki/Dana_Scott" title="Dana Scott">Dana Scott</a>, <a href="/wiki/Herbert_A._Simon" title="Herbert A. Simon">Herbert A. Simon</a></td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/University_of_Michigan" title="University of Michigan">University of Michigan</a></td>
+<td>4</td>
+<td><a href="/wiki/Frances_E._Allen" title="Frances E. Allen">Frances E. Allen</a>, <a href="/wiki/Edgar_Codd" class="mw-redirect" title="Edgar Codd">Edgar F. Codd</a>, <a href="/wiki/Stephen_A._Cook" class="mw-redirect" title="Stephen A. Cook">Stephen A. Cook</a>, <a href="/wiki/Michael_Stonebraker" title="Michael Stonebraker">Michael Stonebraker</a></td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/University_of_California,_Los_Angeles" title="University of California, Los Angeles">University of California, Los Angeles</a></td>
+<td>3</td>
+<td><a href="/wiki/Vinton_Cerf" class="mw-redirect" title="Vinton Cerf">Vinton Cerf</a>, <a href="/wiki/Judea_Pearl" title="Judea Pearl">Judea Pearl</a>, <a href="/wiki/Alan_Kay" title="Alan Kay">Alan Kay</a></td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/Israel" title="Israel"><img alt="Israel" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/21px-Flag_of_Israel.svg.png" width="21" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/32px-Flag_of_Israel.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/41px-Flag_of_Israel.svg.png 2x" data-file-width="660" data-file-height="480" /></a></span> <a href="/wiki/Weizmann_Institute_of_Science" title="Weizmann Institute of Science">Weizmann Institute of Science</a></td>
+<td>3</td>
+<td><a href="/wiki/Adi_Shamir" title="Adi Shamir">Adi Shamir</a>, <a href="/wiki/Amir_Pnueli" title="Amir Pnueli">Amir Pnueli</a>, <a href="/wiki/Shafi_Goldwasser" title="Shafi Goldwasser">Shafi Goldwasser</a></td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/Duke_University" title="Duke University">Duke University</a></td>
+<td>3</td>
+<td><a href="/wiki/Frederick_Brooks" class="mw-redirect" title="Frederick Brooks">Frederick Brooks</a>, <a href="/wiki/Edmund_M._Clarke" title="Edmund M. Clarke">Edmund M. Clarke</a>, <a href="/wiki/John_Cocke" title="John Cocke">John Cocke</a><sup id="cite_ref-duke_62-0" class="reference"><a href="#cite_note-duke-62">[62]</a></sup><sup id="cite_ref-63" class="reference"><a href="#cite_note-63">[63]</a></sup></td>
+</tr>
+</table>
+<h2><span id="Other_Universities_(17th–_)"></span><span class="mw-headline" id="Other_Universities_.2817th.E2.80.93_.29">Other Universities (17th– )</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Turing_Award_laureates_by_university_affiliation&amp;action=edit&amp;section=10" title="Edit section: Other Universities (17th– )">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tr>
+<th>University</th>
+<th>Number</th>
+<th>Names</th>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/University_of_Edinburgh" title="University of Edinburgh">University of Edinburgh</a></td>
+<td>2</td>
+<td><a href="/wiki/Robin_Milner" title="Robin Milner">Robin Milner</a>, <a href="/wiki/Leslie_Valiant" title="Leslie Valiant">Leslie Valiant</a></td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/Israel" title="Israel"><img alt="Israel" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/21px-Flag_of_Israel.svg.png" width="21" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/32px-Flag_of_Israel.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/41px-Flag_of_Israel.svg.png 2x" data-file-width="660" data-file-height="480" /></a></span> <a href="/wiki/Technion_%E2%80%93_Israel_Institute_of_Technology" title="Technion – Israel Institute of Technology">Technion – Israel Institute of Technology</a></td>
+<td>2</td>
+<td><a href="/wiki/Amir_Pnueli" title="Amir Pnueli">Amir Pnueli</a>, <a href="/wiki/Judea_Pearl" title="Judea Pearl">Judea Pearl</a></td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/University_of_Illinois_at_Urbana-Champaign" class="mw-redirect" title="University of Illinois at Urbana-Champaign">University of Illinois at Urbana-Champaign</a></td>
+<td>2</td>
+<td><a href="/wiki/Richard_Hamming" title="Richard Hamming">Richard Hamming</a>, <a href="/wiki/Andrew_Chi-Chih_Yao" class="mw-redirect" title="Andrew Chi-Chih Yao">Andrew Chi-Chih Yao</a></td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/University_of_Texas_at_Austin" title="University of Texas at Austin">University of Texas at Austin</a></td>
+<td>2</td>
+<td><a href="/wiki/Edsger_W._Dijkstra" title="Edsger W. Dijkstra">Edsger W. Dijkstra</a>, <a href="/wiki/E._Allen_Emerson" title="E. Allen Emerson">E. Allen Emerson</a></td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/Canada" title="Canada"><img alt="Canada" src="//upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/23px-Flag_of_Canada.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/35px-Flag_of_Canada.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/46px-Flag_of_Canada.svg.png 2x" data-file-width="1000" data-file-height="500" /></a></span> <a href="/wiki/University_of_Toronto" title="University of Toronto">University of Toronto</a></td>
+<td>2</td>
+<td><a href="/wiki/Stephen_A._Cook" class="mw-redirect" title="Stephen A. Cook">Stephen A. Cook</a>, <a href="/wiki/William_Kahan" title="William Kahan">William Kahan</a></td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/University_of_Utah" title="University of Utah">University of Utah</a></td>
+<td>2</td>
+<td><a href="/wiki/Alan_Kay" title="Alan Kay">Alan Kay</a>, <a href="/wiki/Ivan_Sutherland" title="Ivan Sutherland">Ivan Sutherland</a></td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/Norway" title="Norway"><img alt="Norway" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/21px-Flag_of_Norway.svg.png" width="21" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/32px-Flag_of_Norway.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/41px-Flag_of_Norway.svg.png 2x" data-file-width="1100" data-file-height="800" /></a></span> <a href="/wiki/University_of_Oslo" title="University of Oslo">University of Oslo</a></td>
+<td>2</td>
+<td><a href="/wiki/Ole-Johan_Dahl" title="Ole-Johan Dahl">Ole-Johan Dahl</a>, <a href="/wiki/Kristen_Nygaard" title="Kristen Nygaard">Kristen Nygaard</a></td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/Yale_University" title="Yale University">Yale University</a></td>
+<td>2</td>
+<td><a href="/wiki/Alan_Perlis" title="Alan Perlis">Alan Perlis</a>, <a href="/wiki/Ron_Rivest" title="Ron Rivest">Ron Rivest</a></td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/University_at_Albany,_SUNY" title="University at Albany, SUNY">University at Albany, SUNY</a></td>
+<td>2</td>
+<td><a href="/wiki/Richard_E._Stearns" title="Richard E. Stearns">Richard E. Stearns</a>, <a href="/wiki/Frances_E._Allen" title="Frances E. Allen">Frances E. Allen</a></td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/Columbia_University" title="Columbia University">Columbia University</a></td>
+<td>1</td>
+<td><a href="/wiki/John_Backus" title="John Backus">John Backus</a></td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Imperial_College_London" title="Imperial College London">Imperial College London</a></td>
+<td>1</td>
+<td><a href="/wiki/Leslie_Valiant" title="Leslie Valiant">Leslie Valiant</a></td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/University_of_Leeds" title="University of Leeds">University of Leeds</a></td>
+<td>1</td>
+<td><a href="/wiki/Leslie_Valiant" title="Leslie Valiant">Leslie Valiant</a></td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/Brandeis_University" title="Brandeis University">Brandeis University</a></td>
+<td>1</td>
+<td><a href="/wiki/Leslie_Lamport" title="Leslie Lamport">Leslie Lamport</a></td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/Taiwan" title="Taiwan"><img alt="Taiwan" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/23px-Flag_of_the_Republic_of_China.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/35px-Flag_of_the_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/45px-Flag_of_the_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/National_Taiwan_University" title="National Taiwan University">National Taiwan University</a></td>
+<td>1</td>
+<td><a href="/wiki/Andrew_Chi-Chih_Yao" class="mw-redirect" title="Andrew Chi-Chih Yao">Andrew Chi-Chih Yao</a></td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/China" title="China"><img alt="China" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Tsinghua_University" title="Tsinghua University">Tsinghua University</a></td>
+<td>1</td>
+<td><a href="/wiki/Andrew_Chi-Chih_Yao" class="mw-redirect" title="Andrew Chi-Chih Yao">Andrew Chi-Chih Yao</a></td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Queen%27s_University_of_Belfast" class="mw-redirect" title="Queen's University of Belfast">Queen's University of Belfast</a></td>
+<td>1</td>
+<td><a href="/wiki/Tony_Hoare" title="Tony Hoare">Tony Hoare</a></td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/University_of_North_Carolina_at_Chapel_Hill" title="University of North Carolina at Chapel Hill">University of North Carolina at Chapel Hill</a></td>
+<td>1</td>
+<td><a href="/wiki/Fred_Brooks" title="Fred Brooks">Fred Brooks</a></td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/University_of_Pennsylvania" title="University of Pennsylvania">University of Pennsylvania</a></td>
+<td>1</td>
+<td><a href="/wiki/Charles_Bachman" title="Charles Bachman">Charles Bachman</a></td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/Purdue_University" title="Purdue University">Purdue University</a></td>
+<td>1</td>
+<td><a href="/wiki/Alan_J._Perlis" class="mw-redirect" title="Alan J. Perlis">Alan J. Perlis</a></td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/Israel" title="Israel"><img alt="Israel" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/21px-Flag_of_Israel.svg.png" width="21" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/32px-Flag_of_Israel.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/41px-Flag_of_Israel.svg.png 2x" data-file-width="660" data-file-height="480" /></a></span> <a href="/wiki/Hebrew_University_of_Jerusalem" title="Hebrew University of Jerusalem">Hebrew University of Jerusalem</a></td>
+<td>1</td>
+<td><a href="/wiki/Michael_O._Rabin" title="Michael O. Rabin">Michael O. Rabin</a></td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/Russia" title="Russia"><img alt="Russia" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/35px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/45px-Flag_of_Russia.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Moscow_State_University" title="Moscow State University">Moscow State University</a></td>
+<td>1</td>
+<td><a href="/wiki/Tony_Hoare" title="Tony Hoare">Tony Hoare</a></td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/Denmark" title="Denmark"><img alt="Denmark" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/20px-Flag_of_Denmark.svg.png" width="20" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/31px-Flag_of_Denmark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/40px-Flag_of_Denmark.svg.png 2x" data-file-width="740" data-file-height="560" /></a></span> <a href="/wiki/University_of_Copenhagen" title="University of Copenhagen">University of Copenhagen</a></td>
+<td>1</td>
+<td><a href="/wiki/Peter_Naur" title="Peter Naur">Peter Naur</a></td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/University_of_Southern_California" title="University of Southern California">University of Southern California</a></td>
+<td>1</td>
+<td><a href="/wiki/Leonard_Adleman" title="Leonard Adleman">Leonard Adleman</a><sup id="cite_ref-64" class="reference"><a href="#cite_note-64">[64]</a></sup></td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Centre_national_de_la_recherche_scientifique" title="Centre national de la recherche scientifique">National Center for Scientific Research</a></td>
+<td>1</td>
+<td><a href="/wiki/Joseph_Sifakis" title="Joseph Sifakis">Joseph Sifakis</a></td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/Greece" title="Greece"><img alt="Greece" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/23px-Flag_of_Greece.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/35px-Flag_of_Greece.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/45px-Flag_of_Greece.svg.png 2x" data-file-width="600" data-file-height="400" /></a></span> <a href="/wiki/National_Technical_University_of_Athens" title="National Technical University of Athens">National Technical University of Athens</a></td>
+<td>1</td>
+<td><a href="/wiki/Joseph_Sifakis" title="Joseph Sifakis">Joseph Sifakis</a></td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/India" title="India"><img alt="India" src="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/35px-Flag_of_India.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/45px-Flag_of_India.svg.png 2x" data-file-width="1350" data-file-height="900" /></a></span> <a href="/wiki/College_of_Engineering,_Guindy" title="College of Engineering, Guindy">College of Engineering, Guindy</a></td>
+<td>1</td>
+<td><a href="/wiki/Raj_Reddy" title="Raj Reddy">Raj Reddy</a></td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/Australia" title="Australia"><img alt="Australia" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/23px-Flag_of_Australia.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/35px-Flag_of_Australia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/46px-Flag_of_Australia.svg.png 2x" data-file-width="1280" data-file-height="640" /></a></span> <a href="/wiki/University_of_New_South_Wales" title="University of New South Wales">University of New South Wales</a></td>
+<td>1</td>
+<td><a href="/wiki/Raj_Reddy" title="Raj Reddy">Raj Reddy</a></td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/University_of_Warwick" title="University of Warwick">University of Warwick</a></td>
+<td>1</td>
+<td><a href="/wiki/Leslie_Valiant" title="Leslie Valiant">Leslie Valiant</a></td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/University_of_Southampton" title="University of Southampton">University of Southampton</a></td>
+<td>1</td>
+<td><a href="/wiki/Sir_Tim_Berners-Lee" class="mw-redirect" title="Sir Tim Berners-Lee">Sir Tim Berners-Lee</a></td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/Switzerland" title="Switzerland"><img alt="Switzerland" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/16px-Flag_of_Switzerland.svg.png" width="16" height="16" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/24px-Flag_of_Switzerland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/32px-Flag_of_Switzerland.svg.png 2x" data-file-width="1000" data-file-height="1000" /></a></span> <a href="/wiki/%C3%89cole_Polytechnique_F%C3%A9d%C3%A9rale_de_Lausanne" title="École Polytechnique Fédérale de Lausanne">Swiss Federal Institute of Technology in Lausanne</a></td>
+<td>1</td>
+<td><a href="/wiki/Joseph_Sifakis" title="Joseph Sifakis">Joseph Sifakis</a></td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/Switzerland" title="Switzerland"><img alt="Switzerland" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/16px-Flag_of_Switzerland.svg.png" width="16" height="16" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/24px-Flag_of_Switzerland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/32px-Flag_of_Switzerland.svg.png 2x" data-file-width="1000" data-file-height="1000" /></a></span> <a href="/wiki/ETH_Zurich" title="ETH Zurich">Swiss Federal Institute of Technology in Zürich</a></td>
+<td>1</td>
+<td><a href="/wiki/Niklaus_Wirth" title="Niklaus Wirth">Niklaus Wirth</a></td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/Switzerland" title="Switzerland"><img alt="Switzerland" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/16px-Flag_of_Switzerland.svg.png" width="16" height="16" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/24px-Flag_of_Switzerland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/32px-Flag_of_Switzerland.svg.png 2x" data-file-width="1000" data-file-height="1000" /></a></span> <a href="/wiki/University_of_Zurich" title="University of Zurich">University of Zurich</a></td>
+<td>1</td>
+<td><a href="/wiki/Niklaus_Wirth" title="Niklaus Wirth">Niklaus Wirth</a><sup id="cite_ref-65" class="reference"><a href="#cite_note-65">[65]</a></sup></td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/Canada" title="Canada"><img alt="Canada" src="//upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/23px-Flag_of_Canada.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/35px-Flag_of_Canada.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/46px-Flag_of_Canada.svg.png 2x" data-file-width="1000" data-file-height="500" /></a></span> <a href="/wiki/Universit%C3%A9_Laval" title="Université Laval">Université Laval</a></td>
+<td>1</td>
+<td><a href="/wiki/Niklaus_Wirth" title="Niklaus Wirth">Niklaus Wirth</a><sup id="cite_ref-66" class="reference"><a href="#cite_note-66">[66]</a></sup></td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/New_Jersey_Institute_of_Technology" title="New Jersey Institute of Technology">New Jersey Institute of Technology</a></td>
+<td>1</td>
+<td><a href="/wiki/Judea_Pearl" title="Judea Pearl">Judea Pearl</a><sup id="cite_ref-67" class="reference"><a href="#cite_note-67">[67]</a></sup></td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/Rutgers_University" title="Rutgers University">Rutgers University</a></td>
+<td>1</td>
+<td><a href="/wiki/Judea_Pearl" title="Judea Pearl">Judea Pearl</a></td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/City_College_of_New_York" title="City College of New York">City College of New York</a></td>
+<td>1</td>
+<td><a href="/wiki/Bob_Kahn" title="Bob Kahn">Robert Kahn</a></td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/University_of_Colorado_Boulder" title="University of Colorado Boulder">University of Colorado at Boulder</a></td>
+<td>1</td>
+<td><a href="/wiki/Alan_Kay" title="Alan Kay">Alan Kay</a></td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/Oregon_State_University" title="Oregon State University">Oregon State University</a></td>
+<td>1</td>
+<td><a href="/wiki/Douglas_Engelbart" title="Douglas Engelbart">Douglas Engelbart</a></td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/University_of_Missouri-Kansas_City" class="mw-redirect" title="University of Missouri-Kansas City">University of Missouri-Kansas City</a></td>
+<td>1</td>
+<td><a href="/wiki/Juris_Hartmanis" title="Juris Hartmanis">Juris Hartmanis</a></td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/Carleton_College" title="Carleton College">Carleton College</a></td>
+<td>1</td>
+<td><a href="/wiki/Richard_E._Stearns" title="Richard E. Stearns">Richard E. Stearns</a><sup id="cite_ref-68" class="reference"><a href="#cite_note-68">[68]</a></sup></td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/Seattle_University" title="Seattle University">Seattle University</a></td>
+<td>1</td>
+<td><a href="/wiki/John_Hopcroft" title="John Hopcroft">John Hopcroft</a><sup id="cite_ref-69" class="reference"><a href="#cite_note-69">[69]</a></sup></td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/Canada" title="Canada"><img alt="Canada" src="//upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/23px-Flag_of_Canada.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/35px-Flag_of_Canada.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/46px-Flag_of_Canada.svg.png 2x" data-file-width="1000" data-file-height="500" /></a></span> <a href="/wiki/Queen%27s_University" title="Queen's University">Queen's University</a></td>
+<td>1</td>
+<td><a href="/wiki/Kenneth_E._Iverson" title="Kenneth E. Iverson">Kenneth E. Iverson</a></td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/Illinois_Institute_of_Technology" title="Illinois Institute of Technology">Illinois Institute of Technology</a></td>
+<td>1</td>
+<td><a href="/wiki/Herbert_A._Simon" title="Herbert A. Simon">Herbert A. Simon</a></td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/Case_Western_Reserve_University" title="Case Western Reserve University">Case Institute of Technology</a></td>
+<td>1</td>
+<td><a href="/wiki/Donald_Knuth" title="Donald Knuth">Donald Knuth</a></td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/Michigan_State_University" title="Michigan State University">Michigan State University</a></td>
+<td>1</td>
+<td><a href="/wiki/Charles_Bachman" title="Charles Bachman">Charles Bachman</a></td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/University_of_Amsterdam" title="University of Amsterdam">University of Amsterdam</a></td>
+<td>1</td>
+<td><a href="/wiki/Edsger_W._Dijkstra" title="Edsger W. Dijkstra">Edsger W. Dijkstra</a></td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Leiden_University" title="Leiden University">Leiden University</a></td>
+<td>1</td>
+<td><a href="/wiki/Edsger_W._Dijkstra" title="Edsger W. Dijkstra">Edsger W. Dijkstra</a></td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/University_of_Nebraska%E2%80%93Lincoln" title="University of Nebraska–Lincoln">University of Nebraska–Lincoln</a></td>
+<td>1</td>
+<td><a href="/wiki/Richard_Hamming" title="Richard Hamming">Richard Hamming</a></td>
+</tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/University_of_Louisville" title="University of Louisville">University of Louisville</a></td>
+<td>1</td>
+<td><a href="/wiki/Richard_Hamming" title="Richard Hamming">Richard Hamming</a></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Turing_Award_laureates_by_university_affiliation&amp;action=edit&amp;section=11" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/List_of_Nobel_laureates_by_university_affiliation" title="List of Nobel laureates by university affiliation">List of Nobel laureates by university affiliation</a></li>
+<li><a href="/wiki/List_of_Fields_Medal_winners_by_university_affiliation" title="List of Fields Medal winners by university affiliation">List of Fields Medal winners by university affiliation</a></li>
+<li><a href="/wiki/List_of_American_universities_with_Olympic_medals" title="List of American universities with Olympic medals">List of American universities with Olympic medals</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Turing_Award_laureates_by_university_affiliation&amp;action=edit&amp;section=12" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns">
+<ol class="references">
+<li id="cite_note-:6-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-:6_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:6_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:6_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://amturing.acm.org/award_winners/liskov_1108679.cfm">"Barbara Liskov - A.M. Turing Award Winner"</a>. <i>amturing.acm.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-04-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Turing+Award+laureates+by+university+affiliation&amp;rft.atitle=Barbara+Liskov+-+A.M.+Turing+Award+Winner&amp;rft.genre=unknown&amp;rft.jtitle=amturing.acm.org&amp;rft_id=http%3A%2F%2Famturing.acm.org%2Faward_winners%2Fliskov_1108679.cfm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-:20-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-:20_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:20_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://amturing.acm.org/award_winners/lampson_1142421.cfm">"Butler W Lampson - A.M. Turing Award Winner"</a>. <i>amturing.acm.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-04-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Turing+Award+laureates+by+university+affiliation&amp;rft.atitle=Butler+W+Lampson++-+A.M.+Turing+Award+Winner&amp;rft.genre=unknown&amp;rft.jtitle=amturing.acm.org&amp;rft_id=http%3A%2F%2Famturing.acm.org%2Faward_winners%2Flampson_1142421.cfm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-:9-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-:9_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:9_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://amturing.acm.org/award_winners/thacker_1336106.cfm">"Charles P. Thacker - A.M. Turing Award Winner"</a>. <i>amturing.acm.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-04-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Turing+Award+laureates+by+university+affiliation&amp;rft.atitle=Charles+P.+Thacker+-+A.M.+Turing+Award+Winner&amp;rft.genre=unknown&amp;rft.jtitle=amturing.acm.org&amp;rft_id=http%3A%2F%2Famturing.acm.org%2Faward_winners%2Fthacker_1336106.cfm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-:4-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-:4_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:4_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:4_4-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-:4_4-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-:4_4-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-:4_4-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://amturing.acm.org/award_winners/scott_1193622.cfm">"Dana S Scott - A.M. Turing Award Winner"</a>. <i>amturing.acm.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-04-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Turing+Award+laureates+by+university+affiliation&amp;rft.atitle=Dana+S+Scott+-+A.M.+Turing+Award+Winner&amp;rft.genre=unknown&amp;rft.jtitle=amturing.acm.org&amp;rft_id=http%3A%2F%2Famturing.acm.org%2Faward_winners%2Fscott_1193622.cfm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-:7-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-:7_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:7_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:7_5-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://amturing.acm.org/award_winners/engelbart_5078811.cfm">"Douglas Engelbart - A.M. Turing Award Winner"</a>. <i>amturing.acm.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-04-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Turing+Award+laureates+by+university+affiliation&amp;rft.atitle=Douglas+Engelbart+-+A.M.+Turing+Award+Winner&amp;rft.genre=unknown&amp;rft.jtitle=amturing.acm.org&amp;rft_id=http%3A%2F%2Famturing.acm.org%2Faward_winners%2Fengelbart_5078811.cfm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-:5-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-:5_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:5_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://amturing.acm.org/award_winners/gray_3649936.cfm">"Jim Gray - A.M. Turing Award Winner"</a>. <i>amturing.acm.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-04-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Turing+Award+laureates+by+university+affiliation&amp;rft.atitle=Jim+Gray++-+A.M.+Turing+Award+Winner&amp;rft.genre=unknown&amp;rft.jtitle=amturing.acm.org&amp;rft_id=http%3A%2F%2Famturing.acm.org%2Faward_winners%2Fgray_3649936.cfm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://amturing.acm.org/award_winners/thompson_4588371.cfm">"Kenneth Lane Thompson - A.M. Turing Award Winner"</a>. <i>amturing.acm.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-04-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Turing+Award+laureates+by+university+affiliation&amp;rft.atitle=Kenneth+Lane+Thompson+-+A.M.+Turing+Award+Winner&amp;rft.genre=unknown&amp;rft.jtitle=amturing.acm.org&amp;rft_id=http%3A%2F%2Famturing.acm.org%2Faward_winners%2Fthompson_4588371.cfm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-:11-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-:11_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:11_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://amturing.acm.org/award_winners/adleman_7308544.cfm">"Leonard M. Adleman - A.M. Turing Award Winner"</a>. <i>amturing.acm.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-04-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Turing+Award+laureates+by+university+affiliation&amp;rft.atitle=Leonard+M.+Adleman++-+A.M.+Turing+Award+Winner&amp;rft.genre=unknown&amp;rft.jtitle=amturing.acm.org&amp;rft_id=http%3A%2F%2Famturing.acm.org%2Faward_winners%2Fadleman_7308544.cfm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-:8-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-:8_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:8_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://amturing.acm.org/award_winners/wirth_1025774.cfm">"Niklaus E. Wirth - A.M. Turing Award Winner"</a>. <i>amturing.acm.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-04-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Turing+Award+laureates+by+university+affiliation&amp;rft.atitle=Niklaus+E.+Wirth+-+A.M.+Turing+Award+Winner&amp;rft.genre=unknown&amp;rft.jtitle=amturing.acm.org&amp;rft_id=http%3A%2F%2Famturing.acm.org%2Faward_winners%2Fwirth_1025774.cfm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-:12-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-:12_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:12_10-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:12_10-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-:12_10-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://amturing.acm.org/award_winners/goldwasser_8627889.cfm">"Shafi Goldwasser - A.M. Turing Award Winner"</a>. <i>amturing.acm.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-04-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Turing+Award+laureates+by+university+affiliation&amp;rft.atitle=Shafi+Goldwasser++-+A.M.+Turing+Award+Winner&amp;rft.genre=unknown&amp;rft.jtitle=amturing.acm.org&amp;rft_id=http%3A%2F%2Famturing.acm.org%2Faward_winners%2Fgoldwasser_8627889.cfm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-:13-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-:13_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:13_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://amturing.acm.org/award_winners/micali_9954407.cfm">"Silvio Micali - A.M. Turing Award Winner"</a>. <i>amturing.acm.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-04-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Turing+Award+laureates+by+university+affiliation&amp;rft.atitle=Silvio+Micali+-+A.M.+Turing+Award+Winner&amp;rft.genre=unknown&amp;rft.jtitle=amturing.acm.org&amp;rft_id=http%3A%2F%2Famturing.acm.org%2Faward_winners%2Fmicali_9954407.cfm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-:3-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-:3_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:3_12-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:3_12-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-:3_12-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-:3_12-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://amturing.acm.org/award_winners/yao_1611524.cfm">"Andrew C Yao - A.M. Turing Award Winner"</a>. <i>amturing.acm.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-04-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Turing+Award+laureates+by+university+affiliation&amp;rft.atitle=Andrew+C+Yao+-+A.M.+Turing+Award+Winner&amp;rft.genre=unknown&amp;rft.jtitle=amturing.acm.org&amp;rft_id=http%3A%2F%2Famturing.acm.org%2Faward_winners%2Fyao_1611524.cfm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-:26-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-:26_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:26_13-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:26_13-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-:26_13-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://amturing.acm.org/award_winners/feigenbaum_4167235.cfm">"Edward A Feigenbaum - A.M. Turing Award Winner"</a>. <i>amturing.acm.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-04-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Turing+Award+laureates+by+university+affiliation&amp;rft.atitle=Edward+A+Feigenbaum+-+A.M.+Turing+Award+Winner&amp;rft.genre=unknown&amp;rft.jtitle=amturing.acm.org&amp;rft_id=http%3A%2F%2Famturing.acm.org%2Faward_winners%2Ffeigenbaum_4167235.cfm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-:14-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-:14_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:14_14-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:14_14-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-:14_14-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://amturing.acm.org/award_winners/blum_4659082.cfm">"Manuel Blum - A.M. Turing Award Winner"</a>. <i>amturing.acm.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-04-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Turing+Award+laureates+by+university+affiliation&amp;rft.atitle=Manuel+Blum+-+A.M.+Turing+Award+Winner&amp;rft.genre=unknown&amp;rft.jtitle=amturing.acm.org&amp;rft_id=http%3A%2F%2Famturing.acm.org%2Faward_winners%2Fblum_4659082.cfm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-:15-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-:15_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:15_15-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://amturing.acm.org/award_winners/stonebraker_1172121.cfm">"Michael Stonebraker - A.M. Turing Award Winner"</a>. <i>amturing.acm.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-04-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Turing+Award+laureates+by+university+affiliation&amp;rft.atitle=Michael+Stonebraker+-+A.M.+Turing+Award+Winner&amp;rft.genre=unknown&amp;rft.jtitle=amturing.acm.org&amp;rft_id=http%3A%2F%2Famturing.acm.org%2Faward_winners%2Fstonebraker_1172121.cfm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-:21-16"><span class="mw-cite-backlink">^ <a href="#cite_ref-:21_16-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:21_16-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://amturing.acm.org/award_winners/karp_3256708.cfm">"Richard Karp - A.M. Turing Award Winner"</a>. <i>amturing.acm.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-04-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Turing+Award+laureates+by+university+affiliation&amp;rft.atitle=Richard+Karp+-+A.M.+Turing+Award+Winner&amp;rft.genre=unknown&amp;rft.jtitle=amturing.acm.org&amp;rft_id=http%3A%2F%2Famturing.acm.org%2Faward_winners%2Fkarp_3256708.cfm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-:22-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-:22_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:22_17-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://amturing.acm.org/award_winners/cook_n991950.cfm">"Stephen A Cook - A.M. Turing Award Winner"</a>. <i>amturing.acm.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-04-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Turing+Award+laureates+by+university+affiliation&amp;rft.atitle=Stephen+A+Cook+-+A.M.+Turing+Award+Winner&amp;rft.genre=unknown&amp;rft.jtitle=amturing.acm.org&amp;rft_id=http%3A%2F%2Famturing.acm.org%2Faward_winners%2Fcook_n991950.cfm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://amturing.acm.org/award_winners/kahan_1023746.cfm">"William Kahan - A.M. Turing Award Winner"</a>. <i>amturing.acm.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-04-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Turing+Award+laureates+by+university+affiliation&amp;rft.atitle=William+Kahan+-+A.M.+Turing+Award+Winner&amp;rft.genre=unknown&amp;rft.jtitle=amturing.acm.org&amp;rft_id=http%3A%2F%2Famturing.acm.org%2Faward_winners%2Fkahan_1023746.cfm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://digitalcollections.library.cmu.edu/awweb/awarchive?type=file&amp;item=34460">"CMU Library: Herbert Simon"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Turing+Award+laureates+by+university+affiliation&amp;rft.btitle=CMU+Library%3A+Herbert+Simon&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fdigitalcollections.library.cmu.edu%2Fawweb%2Fawarchive%3Ftype%3Dfile%26item%3D34460&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-:28-20"><span class="mw-cite-backlink">^ <a href="#cite_ref-:28_20-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:28_20-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:28_20-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-:28_20-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-:28_20-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://amturing.acm.org/award_winners/sutherland_3467412.cfm">"Ivan Sutherland - A.M. Turing Award Winner"</a>. <i>amturing.acm.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-04-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Turing+Award+laureates+by+university+affiliation&amp;rft.atitle=Ivan+Sutherland+-+A.M.+Turing+Award+Winner&amp;rft.genre=unknown&amp;rft.jtitle=amturing.acm.org&amp;rft_id=http%3A%2F%2Famturing.acm.org%2Faward_winners%2Fsutherland_3467412.cfm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://amturing.acm.org/award_winners/backus_0703524.cfm">"John Backus - A.M. Turing Award Winner"</a>. <i>amturing.acm.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-04-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Turing+Award+laureates+by+university+affiliation&amp;rft.atitle=John+Backus++-+A.M.+Turing+Award+Winner&amp;rft.genre=unknown&amp;rft.jtitle=amturing.acm.org&amp;rft_id=http%3A%2F%2Famturing.acm.org%2Faward_winners%2Fbackus_0703524.cfm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.seas.harvard.edu/sites/default/files/MOR-CV-UPDATED-12-1-2015%20.pdf">"Michael O. Rabin - Curriculum Vitae"</a> <span style="font-size:85%;">(PDF)</span>. Harvard University<span class="reference-accessdate">. Retrieved <span class="nowrap">31 March</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Turing+Award+laureates+by+university+affiliation&amp;rft.btitle=Michael+O.+Rabin+-+Curriculum+Vitae&amp;rft.genre=unknown&amp;rft.pub=Harvard+University&amp;rft_id=https%3A%2F%2Fwww.seas.harvard.edu%2Fsites%2Fdefault%2Ffiles%2FMOR-CV-UPDATED-12-1-2015%2520.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-:1-23"><span class="mw-cite-backlink">^ <a href="#cite_ref-:1_23-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:1_23-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:1_23-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-:1_23-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-:1_23-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://amturing.acm.org/award_winners/tarjan_1092048.cfm">"Robert E Tarjan - A.M. Turing Award Winner"</a>. <i>amturing.acm.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-04-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Turing+Award+laureates+by+university+affiliation&amp;rft.atitle=Robert+E+Tarjan+-+A.M.+Turing+Award+Winner&amp;rft.genre=unknown&amp;rft.jtitle=amturing.acm.org&amp;rft_id=http%3A%2F%2Famturing.acm.org%2Faward_winners%2Ftarjan_1092048.cfm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-:16-24"><span class="mw-cite-backlink">^ <a href="#cite_ref-:16_24-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:16_24-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:16_24-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-:16_24-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://amturing.acm.org/award_winners/perlis_0132439.cfm">"A. J. Perlis - A.M. Turing Award Winner"</a>. <i>amturing.acm.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-04-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Turing+Award+laureates+by+university+affiliation&amp;rft.atitle=A.+J.+Perlis++-+A.M.+Turing+Award+Winner&amp;rft.genre=unknown&amp;rft.jtitle=amturing.acm.org&amp;rft_id=http%3A%2F%2Famturing.acm.org%2Faward_winners%2Fperlis_0132439.cfm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-:17-25"><span class="mw-cite-backlink">^ <a href="#cite_ref-:17_25-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:17_25-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:17_25-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://amturing.acm.org/award_winners/corbato_1009471.cfm">"Fernando J Corbato - A.M. Turing Award Winner"</a>. <i>amturing.acm.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-04-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Turing+Award+laureates+by+university+affiliation&amp;rft.atitle=Fernando+J+Corbato+-+A.M.+Turing+Award+Winner&amp;rft.genre=unknown&amp;rft.jtitle=amturing.acm.org&amp;rft_id=http%3A%2F%2Famturing.acm.org%2Faward_winners%2Fcorbato_1009471.cfm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://amturing.acm.org/award_winners/lamport_1205376.cfm">"Leslie Lamport - A.M. Turing Award Winner"</a>. <i>amturing.acm.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-04-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Turing+Award+laureates+by+university+affiliation&amp;rft.atitle=Leslie+Lamport+-+A.M.+Turing+Award+Winner&amp;rft.genre=unknown&amp;rft.jtitle=amturing.acm.org&amp;rft_id=http%3A%2F%2Famturing.acm.org%2Faward_winners%2Flamport_1205376.cfm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-:18-27"><span class="mw-cite-backlink">^ <a href="#cite_ref-:18_27-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:18_27-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://amturing.acm.org/award_winners/sutherland_3467412.cfm">"Ivan Sutherland - A.M. Turing Award Winner"</a>. <i>amturing.acm.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-04-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Turing+Award+laureates+by+university+affiliation&amp;rft.atitle=Ivan+Sutherland+-+A.M.+Turing+Award+Winner&amp;rft.genre=unknown&amp;rft.jtitle=amturing.acm.org&amp;rft_id=http%3A%2F%2Famturing.acm.org%2Faward_winners%2Fsutherland_3467412.cfm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.computerhistory.org/fellowawards/hall/bios/Whitfield,Diffie/">"Whitfield Diffie | Computer History Museum"</a>. <i>www.computerhistory.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-04-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Turing+Award+laureates+by+university+affiliation&amp;rft.atitle=Whitfield+Diffie+%7C+Computer+History+Museum&amp;rft.genre=unknown&amp;rft.jtitle=www.computerhistory.org&amp;rft_id=http%3A%2F%2Fwww.computerhistory.org%2Ffellowawards%2Fhall%2Fbios%2FWhitfield%2CDiffie%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-:19-29"><span class="mw-cite-backlink">^ <a href="#cite_ref-:19_29-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:19_29-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://amturing.acm.org/award_winners/shamir_2327856.cfm">"Adi Shamir - A.M. Turing Award Winner"</a>. <i>amturing.acm.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-04-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Turing+Award+laureates+by+university+affiliation&amp;rft.atitle=Adi+Shamir+-+A.M.+Turing+Award+Winner&amp;rft.genre=unknown&amp;rft.jtitle=amturing.acm.org&amp;rft_id=http%3A%2F%2Famturing.acm.org%2Faward_winners%2Fshamir_2327856.cfm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://news.mit.edu/2014/mit-professor-made-much-of-our-world-possible-0218">"MIT professor ‘made much of our world possible’"</a>. <i>MIT News</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-04-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Turing+Award+laureates+by+university+affiliation&amp;rft.atitle=MIT+professor+%E2%80%98made+much+of+our+world+possible%E2%80%99&amp;rft.genre=unknown&amp;rft.jtitle=MIT+News&amp;rft_id=http%3A%2F%2Fnews.mit.edu%2F2014%2Fmit-professor-made-much-of-our-world-possible-0218&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-:10-31"><span class="mw-cite-backlink">^ <a href="#cite_ref-:10_31-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:10_31-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:10_31-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-:10_31-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-:10_31-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://amturing.acm.org/award_winners/mccarthy_0239596.cfm">"John McCarthy - A.M. Turing Award Winner"</a>. <i>amturing.acm.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-04-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Turing+Award+laureates+by+university+affiliation&amp;rft.atitle=John+McCarthy++-+A.M.+Turing+Award+Winner&amp;rft.genre=unknown&amp;rft.jtitle=amturing.acm.org&amp;rft_id=http%3A%2F%2Famturing.acm.org%2Faward_winners%2Fmccarthy_0239596.cfm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-:23-32"><span class="mw-cite-backlink">^ <a href="#cite_ref-:23_32-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:23_32-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:23_32-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://amturing.acm.org/award_winners/minsky_7440781.cfm">"Marvin Minsky - A.M. Turing Award Winner"</a>. <i>amturing.acm.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-04-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Turing+Award+laureates+by+university+affiliation&amp;rft.atitle=Marvin+Minsky++-+A.M.+Turing+Award+Winner&amp;rft.genre=unknown&amp;rft.jtitle=amturing.acm.org&amp;rft_id=http%3A%2F%2Famturing.acm.org%2Faward_winners%2Fminsky_7440781.cfm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www-ee.stanford.edu/~hellman/">"Martin E. Hellman Home Page"</a>. <i>www-ee.stanford.edu</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-04-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Turing+Award+laureates+by+university+affiliation&amp;rft.atitle=Martin+E.+Hellman+Home+Page&amp;rft.genre=unknown&amp;rft.jtitle=www-ee.stanford.edu&amp;rft_id=https%3A%2F%2Fwww-ee.stanford.edu%2F~hellman%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://amturing.acm.org/award_winners/rivest_1403005.cfm">"Ronald L Rivest - A.M. Turing Award Winner"</a>. <i>amturing.acm.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-04-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Turing+Award+laureates+by+university+affiliation&amp;rft.atitle=Ronald+L+Rivest+-+A.M.+Turing+Award+Winner&amp;rft.genre=unknown&amp;rft.jtitle=amturing.acm.org&amp;rft_id=http%3A%2F%2Famturing.acm.org%2Faward_winners%2Frivest_1403005.cfm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-:31-35"><span class="mw-cite-backlink">^ <a href="#cite_ref-:31_35-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:31_35-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://amturing.acm.org/award_winners/kahn_4598637.cfm">"Robert E Kahn - A.M. Turing Award Winner"</a>. <i>amturing.acm.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-04-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Turing+Award+laureates+by+university+affiliation&amp;rft.atitle=Robert+E+Kahn+-+A.M.+Turing+Award+Winner&amp;rft.genre=unknown&amp;rft.jtitle=amturing.acm.org&amp;rft_id=http%3A%2F%2Famturing.acm.org%2Faward_winners%2Fkahn_4598637.cfm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://news.mit.edu/2017/tim-berners-lee-wins-turing-award-0404">"Tim Berners-Lee wins $1 million Turing Award"</a>. <i>MIT News</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-04-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Turing+Award+laureates+by+university+affiliation&amp;rft.atitle=Tim+Berners-Lee+wins+%241+million+Turing+Award&amp;rft.genre=article&amp;rft.jtitle=MIT+News&amp;rft_id=http%3A%2F%2Fnews.mit.edu%2F2017%2Ftim-berners-lee-wins-turing-award-0404&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-:24-37"><span class="mw-cite-backlink">^ <a href="#cite_ref-:24_37-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:24_37-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:24_37-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://amturing.acm.org/award_winners/rabin_9681074.cfm">"Michael O. Rabin - A.M. Turing Award Winner"</a>. <i>amturing.acm.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-04-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Turing+Award+laureates+by+university+affiliation&amp;rft.atitle=Michael+O.+Rabin++-+A.M.+Turing+Award+Winner&amp;rft.genre=unknown&amp;rft.jtitle=amturing.acm.org&amp;rft_id=http%3A%2F%2Famturing.acm.org%2Faward_winners%2Frabin_9681074.cfm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-:29-38"><span class="mw-cite-backlink">^ <a href="#cite_ref-:29_38-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:29_38-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:29_38-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://amturing.acm.org/award_winners/newell_3167755.cfm">"Allen Newell - A.M. Turing Award Winner"</a>. <i>amturing.acm.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-04-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Turing+Award+laureates+by+university+affiliation&amp;rft.atitle=Allen+Newell++-+A.M.+Turing+Award+Winner&amp;rft.genre=unknown&amp;rft.jtitle=amturing.acm.org&amp;rft_id=http%3A%2F%2Famturing.acm.org%2Faward_winners%2Fnewell_3167755.cfm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://amturing.acm.org/award_winners/hopcroft_1053917.cfm">"John E Hopcroft - A.M. Turing Award Winner"</a>. <i>amturing.acm.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-04-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Turing+Award+laureates+by+university+affiliation&amp;rft.atitle=John+E+Hopcroft+-+A.M.+Turing+Award+Winner&amp;rft.genre=unknown&amp;rft.jtitle=amturing.acm.org&amp;rft_id=http%3A%2F%2Famturing.acm.org%2Faward_winners%2Fhopcroft_1053917.cfm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-:0-40"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_40-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_40-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:0_40-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://amturing.acm.org/award_winners/reddy_9634208.cfm">"Raj Reddy - A.M. Turing Award Winner"</a>. <i>amturing.acm.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-04-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Turing+Award+laureates+by+university+affiliation&amp;rft.atitle=Raj+Reddy++-+A.M.+Turing+Award+Winner&amp;rft.genre=unknown&amp;rft.jtitle=amturing.acm.org&amp;rft_id=http%3A%2F%2Famturing.acm.org%2Faward_winners%2Freddy_9634208.cfm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://amturing.acm.org/award_winners/rivest_1403005.cfm">"Ronald L Rivest - A.M. Turing Award Winner"</a>. <i>amturing.acm.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-04-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Turing+Award+laureates+by+university+affiliation&amp;rft.atitle=Ronald+L+Rivest+-+A.M.+Turing+Award+Winner&amp;rft.genre=unknown&amp;rft.jtitle=amturing.acm.org&amp;rft_id=http%3A%2F%2Famturing.acm.org%2Faward_winners%2Frivest_1403005.cfm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-:2-42"><span class="mw-cite-backlink">^ <a href="#cite_ref-:2_42-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:2_42-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://amturing.acm.org/award_winners/cerf_1083211.cfm">"Vinton Cerf - A.M. Turing Award Winner"</a>. <i>amturing.acm.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-04-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Turing+Award+laureates+by+university+affiliation&amp;rft.atitle=Vinton+Cerf+-+A.M.+Turing+Award+Winner&amp;rft.genre=unknown&amp;rft.jtitle=amturing.acm.org&amp;rft_id=http%3A%2F%2Famturing.acm.org%2Faward_winners%2Fcerf_1083211.cfm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-:32-43"><span class="mw-cite-backlink">^ <a href="#cite_ref-:32_43-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:32_43-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:32_43-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-:32_43-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://amturing.acm.org/award_winners/knuth_1013846.cfm">"Donald E. Knuth - A.M. Turing Award Winner"</a>. <i>amturing.acm.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-04-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Turing+Award+laureates+by+university+affiliation&amp;rft.atitle=Donald+E.+Knuth+-+A.M.+Turing+Award+Winner&amp;rft.genre=unknown&amp;rft.jtitle=amturing.acm.org&amp;rft_id=http%3A%2F%2Famturing.acm.org%2Faward_winners%2Fknuth_1013846.cfm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-44">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://amturing.acm.org/award_winners/hellman_4055781.cfm">"Martin Hellman - A.M. Turing Award Winner"</a>. <i>amturing.acm.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-04-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Turing+Award+laureates+by+university+affiliation&amp;rft.atitle=Martin+Hellman++-+A.M.+Turing+Award+Winner&amp;rft.genre=unknown&amp;rft.jtitle=amturing.acm.org&amp;rft_id=http%3A%2F%2Famturing.acm.org%2Faward_winners%2Fhellman_4055781.cfm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-:30-45"><span class="mw-cite-backlink">^ <a href="#cite_ref-:30_45-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:30_45-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://amturing.acm.org/award_winners/floyd_3720707.cfm">"Robert W. Floyd - A.M. Turing Award Winner"</a>. <i>amturing.acm.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-04-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Turing+Award+laureates+by+university+affiliation&amp;rft.atitle=Robert+W.+Floyd+-+A.M.+Turing+Award+Winner&amp;rft.genre=unknown&amp;rft.jtitle=amturing.acm.org&amp;rft_id=http%3A%2F%2Famturing.acm.org%2Faward_winners%2Ffloyd_3720707.cfm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-46">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://amturing.acm.org/award_winners/diffie_8371646.cfm">"Whitfield Diffie - A.M. Turing Award Winner"</a>. <i>amturing.acm.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-04-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Turing+Award+laureates+by+university+affiliation&amp;rft.atitle=Whitfield+Diffie++-+A.M.+Turing+Award+Winner&amp;rft.genre=unknown&amp;rft.jtitle=amturing.acm.org&amp;rft_id=http%3A%2F%2Famturing.acm.org%2Faward_winners%2Fdiffie_8371646.cfm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-47"><span class="mw-cite-backlink"><b><a href="#cite_ref-47">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://amturing.acm.org/award_winners/kay_3972189.cfm">"Alan Kay - A.M. Turing Award Winner"</a>. <i>amturing.acm.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-04-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Turing+Award+laureates+by+university+affiliation&amp;rft.atitle=Alan+Kay+-+A.M.+Turing+Award+Winner&amp;rft.genre=unknown&amp;rft.jtitle=amturing.acm.org&amp;rft_id=http%3A%2F%2Famturing.acm.org%2Faward_winners%2Fkay_3972189.cfm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-48"><span class="mw-cite-backlink"><b><a href="#cite_ref-48">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://amturing.acm.org/award_winners/pnueli_4725172.cfm">"Amir Pnueli - A.M. Turing Award Winner"</a>. <i>amturing.acm.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-04-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Turing+Award+laureates+by+university+affiliation&amp;rft.atitle=Amir+Pnueli+-+A.M.+Turing+Award+Winner&amp;rft.genre=unknown&amp;rft.jtitle=amturing.acm.org&amp;rft_id=http%3A%2F%2Famturing.acm.org%2Faward_winners%2Fpnueli_4725172.cfm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-49"><span class="mw-cite-backlink"><b><a href="#cite_ref-49">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://amturing.acm.org/award_winners/milner_1569367.cfm">"A J Milner - A.M. Turing Award Winner"</a>. <i>amturing.acm.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-04-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Turing+Award+laureates+by+university+affiliation&amp;rft.atitle=A+J+Milner++-+A.M.+Turing+Award+Winner&amp;rft.genre=unknown&amp;rft.jtitle=amturing.acm.org&amp;rft_id=http%3A%2F%2Famturing.acm.org%2Faward_winners%2Fmilner_1569367.cfm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-50"><span class="mw-cite-backlink"><b><a href="#cite_ref-50">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://amturing.acm.org/award_winners/ritchie_1506389.cfm">"Dennis M. Ritchie - A.M. Turing Award Winner"</a>. <i>amturing.acm.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-04-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Turing+Award+laureates+by+university+affiliation&amp;rft.atitle=Dennis+M.+Ritchie++-+A.M.+Turing+Award+Winner&amp;rft.genre=unknown&amp;rft.jtitle=amturing.acm.org&amp;rft_id=http%3A%2F%2Famturing.acm.org%2Faward_winners%2Fritchie_1506389.cfm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-51"><span class="mw-cite-backlink"><b><a href="#cite_ref-51">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://amturing.acm.org/award_winners/emerson_1671460.cfm">"E. Allen Emerson - A.M. Turing Award Winner"</a>. <i>amturing.acm.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-04-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Turing+Award+laureates+by+university+affiliation&amp;rft.atitle=E.+Allen+Emerson+-+A.M.+Turing+Award+Winner&amp;rft.genre=unknown&amp;rft.jtitle=amturing.acm.org&amp;rft_id=http%3A%2F%2Famturing.acm.org%2Faward_winners%2Femerson_1671460.cfm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-52"><span class="mw-cite-backlink"><b><a href="#cite_ref-52">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://amturing.acm.org/award_winners/brooks_1002187.cfm">"Frederick Brooks - A.M. Turing Award Winner"</a>. <i>amturing.acm.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-04-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Turing+Award+laureates+by+university+affiliation&amp;rft.atitle=Frederick+Brooks+-+A.M.+Turing+Award+Winner&amp;rft.genre=unknown&amp;rft.jtitle=amturing.acm.org&amp;rft_id=http%3A%2F%2Famturing.acm.org%2Faward_winners%2Fbrooks_1002187.cfm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-:25-53"><span class="mw-cite-backlink">^ <a href="#cite_ref-:25_53-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:25_53-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:25_53-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://amturing.acm.org/award_winners/iverson_9147499.cfm">"Kenneth E. Iverson - A.M. Turing Award Winner"</a>. <i>amturing.acm.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-04-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Turing+Award+laureates+by+university+affiliation&amp;rft.atitle=Kenneth+E.+Iverson++-+A.M.+Turing+Award+Winner&amp;rft.genre=unknown&amp;rft.jtitle=amturing.acm.org&amp;rft_id=http%3A%2F%2Famturing.acm.org%2Faward_winners%2Fiverson_9147499.cfm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-:27-54"><span class="mw-cite-backlink">^ <a href="#cite_ref-:27_54-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:27_54-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://amturing.acm.org/award_winners/clarke_1167964.cfm">"Edmund Clarke - A.M. Turing Award Winner"</a>. <i>amturing.acm.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-04-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Turing+Award+laureates+by+university+affiliation&amp;rft.atitle=Edmund+Clarke+-+A.M.+Turing+Award+Winner&amp;rft.genre=unknown&amp;rft.jtitle=amturing.acm.org&amp;rft_id=http%3A%2F%2Famturing.acm.org%2Faward_winners%2Fclarke_1167964.cfm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-55"><span class="mw-cite-backlink"><b><a href="#cite_ref-55">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://amturing.acm.org/award_winners/simon_1031467.cfm">"Herbert A. Simon - A.M. Turing Award Winner"</a>. <i>amturing.acm.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-04-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Turing+Award+laureates+by+university+affiliation&amp;rft.atitle=Herbert+A.+Simon+-+A.M.+Turing+Award+Winner&amp;rft.genre=unknown&amp;rft.jtitle=amturing.acm.org&amp;rft_id=http%3A%2F%2Famturing.acm.org%2Faward_winners%2Fsimon_1031467.cfm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-56"><span class="mw-cite-backlink"><b><a href="#cite_ref-56">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://amturing.acm.org/award_winners/valiant_2612174.cfm">"Leslie G Valiant - A.M. Turing Award Winner"</a>. <i>amturing.acm.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-04-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Turing+Award+laureates+by+university+affiliation&amp;rft.atitle=Leslie+G+Valiant+-+A.M.+Turing+Award+Winner&amp;rft.genre=unknown&amp;rft.jtitle=amturing.acm.org&amp;rft_id=http%3A%2F%2Famturing.acm.org%2Faward_winners%2Fvaliant_2612174.cfm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-57"><span class="mw-cite-backlink"><b><a href="#cite_ref-57">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://amturing.acm.org/award_winners/stearns_1081900.cfm">"Richard E Stearns - A.M. Turing Award Winner"</a>. <i>amturing.acm.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-04-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Turing+Award+laureates+by+university+affiliation&amp;rft.atitle=Richard+E+Stearns+-+A.M.+Turing+Award+Winner&amp;rft.genre=unknown&amp;rft.jtitle=amturing.acm.org&amp;rft_id=http%3A%2F%2Famturing.acm.org%2Faward_winners%2Fstearns_1081900.cfm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-58"><span class="mw-cite-backlink"><b><a href="#cite_ref-58">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://amturing.acm.org/award_winners/hopcroft_1053917.cfm">"John E Hopcroft - A.M. Turing Award Winner"</a>. <i>amturing.acm.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-04-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Turing+Award+laureates+by+university+affiliation&amp;rft.atitle=John+E+Hopcroft+-+A.M.+Turing+Award+Winner&amp;rft.genre=unknown&amp;rft.jtitle=amturing.acm.org&amp;rft_id=http%3A%2F%2Famturing.acm.org%2Faward_winners%2Fhopcroft_1053917.cfm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-59"><span class="mw-cite-backlink"><b><a href="#cite_ref-59">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://amturing.acm.org/award_winners/hartmanis_1059260.cfm">"Juris Hartmanis - A.M. Turing Award Winner"</a>. <i>amturing.acm.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-04-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Turing+Award+laureates+by+university+affiliation&amp;rft.atitle=Juris+Hartmanis+-+A.M.+Turing+Award+Winner&amp;rft.genre=unknown&amp;rft.jtitle=amturing.acm.org&amp;rft_id=http%3A%2F%2Famturing.acm.org%2Faward_winners%2Fhartmanis_1059260.cfm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-60"><span class="mw-cite-backlink"><b><a href="#cite_ref-60">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.cs.ox.ac.uk/news/1206-full.html">http://www.cs.ox.ac.uk/news/1206-full.html</a></span></li>
+<li id="cite_note-61"><span class="mw-cite-backlink"><b><a href="#cite_ref-61">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://amturing.acm.org/award_winners/tarjan_1092048.cfm">http://amturing.acm.org/award_winners/tarjan_1092048.cfm</a></span></li>
+<li id="cite_note-duke-62"><span class="mw-cite-backlink"><b><a href="#cite_ref-duke_62-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://amturing.acm.org/award_winners/clarke_1167964.cfm">"Edmund Clarke - A.M. Turing Award Winner"</a>. Amturing.acm.org. 1945-07-27<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-11-11</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Turing+Award+laureates+by+university+affiliation&amp;rft.btitle=Edmund+Clarke+-+A.M.+Turing+Award+Winner&amp;rft.date=1945-07-27&amp;rft.genre=unknown&amp;rft.pub=Amturing.acm.org&amp;rft_id=http%3A%2F%2Famturing.acm.org%2Faward_winners%2Fclarke_1167964.cfm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-63"><span class="mw-cite-backlink"><b><a href="#cite_ref-63">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://amturing.acm.org/award_winners/cocke_2083115.cfm">"John Cocke - A.M. Turing Award Winner"</a>. Amturing.acm.org<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-11-11</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Turing+Award+laureates+by+university+affiliation&amp;rft.btitle=John+Cocke+-+A.M.+Turing+Award+Winner&amp;rft.genre=unknown&amp;rft.pub=Amturing.acm.org&amp;rft_id=http%3A%2F%2Famturing.acm.org%2Faward_winners%2Fcocke_2083115.cfm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-64"><span class="mw-cite-backlink"><b><a href="#cite_ref-64">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.usc.edu/dept/molecular-science/fm-adleman.htm">"Adleman"</a>. Usc.edu<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-09-21</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Turing+Award+laureates+by+university+affiliation&amp;rft.btitle=Adleman&amp;rft.genre=unknown&amp;rft.pub=Usc.edu&amp;rft_id=http%3A%2F%2Fwww.usc.edu%2Fdept%2Fmolecular-science%2Ffm-adleman.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-65"><span class="mw-cite-backlink"><b><a href="#cite_ref-65">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://amturing.acm.org/award_winners/wirth_1025774.cfm">http://amturing.acm.org/award_winners/wirth_1025774.cfm</a></span></li>
+<li id="cite_note-66"><span class="mw-cite-backlink"><b><a href="#cite_ref-66">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://amturing.acm.org/award_winners/wirth_1025774.cfm">http://amturing.acm.org/award_winners/wirth_1025774.cfm</a></span></li>
+<li id="cite_note-67"><span class="mw-cite-backlink"><b><a href="#cite_ref-67">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://amturing.acm.org/award_winners/pearl_2658896.cfm">http://amturing.acm.org/award_winners/pearl_2658896.cfm</a></span></li>
+<li id="cite_note-68"><span class="mw-cite-backlink"><b><a href="#cite_ref-68">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://amturing.acm.org/award_winners/stearns_1081900.cfm">http://amturing.acm.org/award_winners/stearns_1081900.cfm</a></span></li>
+<li id="cite_note-69"><span class="mw-cite-backlink"><b><a href="#cite_ref-69">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://amturing.acm.org/award_winners/hopcroft_1053917.cfm">http://amturing.acm.org/award_winners/hopcroft_1053917.cfm</a></span></li>
+</ol>
+</div>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1232
+Cached time: 20171016023301
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.584 seconds
+Real time usage: 0.670 seconds
+Preprocessor visited node count: 7693/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 110355/2097152 bytes
+Template argument size: 6262/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 0/500
+Lua time usage: 0.212/10.000 seconds
+Lua memory usage: 3.01 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  532.799      1 -total
+ 65.20%  347.404      1 Template:Reflist
+ 46.72%  248.931     61 Template:Cite_web
+ 16.31%   86.888     65 Template:Flagicon
+  4.85%   25.847     65 Template:Flagicon/core
+  3.56%   18.951     30 Template:Country_data_USA
+  1.31%    6.988      7 Template:Country_data_United_States
+  1.08%    5.741      7 Template:Country_data_GBR
+  1.01%    5.394      3 Template:Country_data_CAN
+  0.90%    4.790    131 Template:Snd
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:30791291-0!canonical and timestamp 20171016023301 and revision id 805546159
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=List_of_Turing_Award_laureates_by_university_affiliation&amp;oldid=805546159">https://en.wikipedia.org/w/index.php?title=List_of_Turing_Award_laureates_by_university_affiliation&amp;oldid=805546159</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Turing_Award_laureates" title="Category:Turing Award laureates">Turing Award laureates</a></li><li><a href="/wiki/Category:Lists_of_people_by_university_or_college" title="Category:Lists of people by university or college">Lists of people by university or college</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=List+of+Turing+Award+laureates+by+university+affiliation" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=List+of+Turing+Award+laureates+by+university+affiliation" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/List_of_Turing_Award_laureates_by_university_affiliation" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:List_of_Turing_Award_laureates_by_university_affiliation" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="collapsible selected"><span><a href="/wiki/List_of_Turing_Award_laureates_by_university_affiliation">Read</a></span></li>
+							<li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=List_of_Turing_Award_laureates_by_university_affiliation&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=List_of_Turing_Award_laureates_by_university_affiliation&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/List_of_Turing_Award_laureates_by_university_affiliation" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/List_of_Turing_Award_laureates_by_university_affiliation" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=List_of_Turing_Award_laureates_by_university_affiliation&amp;oldid=805546159" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=List_of_Turing_Award_laureates_by_university_affiliation&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q6600724" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=List_of_Turing_Award_laureates_by_university_affiliation&amp;id=805546159" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=List+of+Turing+Award+laureates+by+university+affiliation">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=List+of+Turing+Award+laureates+by+university+affiliation&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=List_of_Turing_Award_laureates_by_university_affiliation&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+											</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q6600724#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 16 October 2017, at 02:33.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=List_of_Turing_Award_laureates_by_university_affiliation&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.584","walltime":"0.670","ppvisitednodes":{"value":7693,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":110355,"limit":2097152},"templateargumentsize":{"value":6262,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  532.799      1 -total"," 65.20%  347.404      1 Template:Reflist"," 46.72%  248.931     61 Template:Cite_web"," 16.31%   86.888     65 Template:Flagicon","  4.85%   25.847     65 Template:Flagicon/core","  3.56%   18.951     30 Template:Country_data_USA","  1.31%    6.988      7 Template:Country_data_United_States","  1.08%    5.741      7 Template:Country_data_GBR","  1.01%    5.394      3 Template:Country_data_CAN","  0.90%    4.790    131 Template:Snd"]},"scribunto":{"limitreport-timeusage":{"value":"0.212","limit":"10.000"},"limitreport-memusage":{"value":3151499,"limit":52428800}},"cachereport":{"origin":"mw1232","timestamp":"20171016023301","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":62,"wgHostname":"mw1251"});});</script>
+	</body>
+</html>

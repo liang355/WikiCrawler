@@ -1,0 +1,1052 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Rosenheim - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Rosenheim","wgTitle":"Rosenheim","wgCurRevisionId":801770847,"wgRevisionId":801770847,"wgArticleId":252733,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 German-language sources (de)","Coordinates on Wikidata","Articles with German-language external links","Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference","Wikipedia articles with VIAF identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","Towns in Bavaria","Rosenheim","Populated places on the Inn (river)","Holocaust locations in Germany"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Rosenheim","wgRelevantArticleId":252733,"wgRequestId":"WeYhcQpAAD8AAD5lIysAAABJ","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCoordinates":{"lat":47.85,"lon":12.133333333333},"wgWikibaseItemId":"Q4007","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.3"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Rosenheim%2C_X%2C_aufgehellt.jpeg/1200px-Rosenheim%2C_X%2C_aufgehellt.jpeg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Rosenheim"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Rosenheim&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Rosenheim&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Rosenheim"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Rosenheim rootpage-Rosenheim vector-experimental-print-styles vector-nav-directionality skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Rosenheim</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For municipality in the district of Altenkirchen, see <a href="/wiki/Rosenheim,_Rhineland-Palatinate" title="Rosenheim, Rhineland-Palatinate">Rosenheim, Rhineland-Palatinate</a>. For the Bavarian district, see <a href="/wiki/Rosenheim_(district)" title="Rosenheim (district)">Rosenheim (district)</a>.</div>
+<table class="infobox geography vcard" style="width:22em;width:23em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap"><span class="fn org"><span class="wrap">Rosenheim</span></span></th>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Rosenheim,_X,_aufgehellt.jpeg" class="image" title="2010 aerial photo of Rosenheim and Simssee."><img alt="2010 aerial photo of Rosenheim and Simssee." src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Rosenheim%2C_X%2C_aufgehellt.jpeg/250px-Rosenheim%2C_X%2C_aufgehellt.jpeg" width="250" height="167" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Rosenheim%2C_X%2C_aufgehellt.jpeg/375px-Rosenheim%2C_X%2C_aufgehellt.jpeg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Rosenheim%2C_X%2C_aufgehellt.jpeg/500px-Rosenheim%2C_X%2C_aufgehellt.jpeg 2x" data-file-width="3000" data-file-height="2000" /></a>
+<div>2010 aerial photo of Rosenheim and <a href="/wiki/Simssee" title="Simssee">Simssee</a>.</div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" class="maptable" style="text-align:center">
+<table style="width:100%; background:none;">
+<tr>
+<td style="vertical-align:middle; text-align:center;"><a href="/wiki/File:Wappen_Rosenheim_Neu.svg" class="image" title="Coat of arms of Rosenheim "><img alt="Coat of arms of Rosenheim " src="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Wappen_Rosenheim_Neu.svg/75px-Wappen_Rosenheim_Neu.svg.png" width="75" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Wappen_Rosenheim_Neu.svg/112px-Wappen_Rosenheim_Neu.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/32/Wappen_Rosenheim_Neu.svg/149px-Wappen_Rosenheim_Neu.svg.png 2x" data-file-width="571" data-file-height="612" /></a><br />
+<small>Coat of arms</small></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center">
+<div class="center">
+<div style="width:170px;float:none;clear:both;margin-left:auto;margin-right:auto">
+<div style="width:170px;padding:0">
+<div style="position:relative;width:170px"><a href="/wiki/File:Germany_adm_location_map.svg" class="image" title="Rosenheim  is located in Germany"><img alt="Rosenheim  is located in Germany" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/170px-Germany_adm_location_map.svg.png" width="170" height="202" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/255px-Germany_adm_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/340px-Germany_adm_location_map.svg.png 2x" data-file-width="1073" data-file-height="1272" /></a>
+<div style="position:absolute;top:91.772%;left:66.333%">
+<div style="position:absolute;left:-3px;top:-3px;line-height:0"><img alt="Rosenheim " src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png" title="Rosenheim " width="6" height="6" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/9px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div>
+<div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:4px;text-align:left"><span style="padding:1px;float:left"><span class="wrap">Rosenheim</span></span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr class="mergedbottomrow">
+<td colspan="2" style="text-align:center">Coordinates: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Rosenheim&amp;params=47_51_0_N_12_8_0_E_type:city(61844)_region:DE-BY"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">47°51′0″N</span> <span class="longitude">12°8′0″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">47.85000°N 12.13333°E</span><span style="display:none">﻿ / <span class="geo">47.85000; 12.13333</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Rosenheim&amp;params=47_51_0_N_12_8_0_E_type:city(61844)_region:DE-BY"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">47°51′0″N</span> <span class="longitude">12°8′0″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">47.85000°N 12.13333°E</span><span style="display:none">﻿ / <span class="geo">47.85000; 12.13333</span></span></span></a></span></span></span></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Country</th>
+<td><a href="/wiki/Germany" title="Germany">Germany</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/States_of_Germany" title="States of Germany">State</a></th>
+<td><a href="/wiki/Bavaria" title="Bavaria">Bavaria</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Regierungsbezirk" title="Regierungsbezirk">Admin. region</a></th>
+<td><a href="/wiki/Oberbayern_(region)" class="mw-redirect" title="Oberbayern (region)">Oberbayern</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Districts_of_Germany" title="Districts of Germany">District</a></th>
+<td><a href="/wiki/List_of_German_urban_districts" class="mw-redirect" title="List of German urban districts">urban district</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Government</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;<a href="/wiki/Burgomaster" title="Burgomaster">Mayor</a></th>
+<td>Gabriele Bauer<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> (<a href="/wiki/Christian_Social_Union_of_Bavaria" class="mw-redirect" title="Christian Social Union of Bavaria">CSU</a>)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Area</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Total</th>
+<td>37.22&#160;km<sup>2</sup> (14.37&#160;sq&#160;mi)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Elevation</th>
+<td>440&#160;m (1,440&#160;ft)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Population <span style="font-weight:normal">(2015-12-31)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></span></th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Total</th>
+<td>61,844</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Density</th>
+<td>1,700/km<sup>2</sup> (4,300/sq&#160;mi)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/Time_zone" title="Time zone">Time zone</a></th>
+<td><a href="/wiki/Central_European_Time" title="Central European Time">CET</a>/<a href="/wiki/Central_European_Summer_Time" title="Central European Summer Time">CEST</a> (UTC+1/+2)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/List_of_postal_codes_in_Germany" title="List of postal codes in Germany">Postal codes</a></th>
+<td class="adr"><span class="postal-code">83001-83028</span></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/List_of_dialling_codes_in_Germany" title="List of dialling codes in Germany">Dialling codes</a></th>
+<td>08031</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Vehicle_registration_plate" title="Vehicle registration plate">Vehicle registration</a></th>
+<td>RO</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Website</th>
+<td><a rel="nofollow" class="external text" href="http://www.rosenheim.de/">rosenheim.de</a></td>
+</tr>
+</table>
+<p>The <a href="/wiki/Independent_city" title="Independent city">independent city</a> of <b>Rosenheim</b> (<a href="/wiki/Central_Bavarian" title="Central Bavarian">Central Bavarian</a>: <i>Rousnam</i>) is located in the centre of the <a href="/wiki/Rosenheim_(district)" title="Rosenheim (district)">district of Rosenheim</a> (<a href="/wiki/Upper_Bavaria" title="Upper Bavaria">Upper Bavaria</a>), and is also the <i><a href="https://de.wikipedia.org/wiki/Kreisstadt" class="extiw" title="de:Kreisstadt">seat of administration</a></i> of this region. It is located on the west bank of the <a href="/wiki/Inn_River" class="mw-redirect" title="Inn River">Inn</a> at the confluence of the rivers <a href="/wiki/Inn_River" class="mw-redirect" title="Inn River">Inn</a> and <a href="/wiki/Mangfall" title="Mangfall">Mangfall</a>, in the <a href="/wiki/Bavarian_Alpine_Foreland" class="mw-redirect" title="Bavarian Alpine Foreland">Bavarian Alpine Foreland</a>. It is the third largest city in Upper Bavaria with over 61,000 inhabitants and one of 23 <i><a href="https://de.wikipedia.org/wiki/Oberzentrum" class="extiw" title="de:Oberzentrum">administrative centres</a></i> in Bavaria. Rosenheim is therefore the economic centre and the busiest place in the region.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Geography"><span class="tocnumber">1</span> <span class="toctext">Geography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Pons_Aeni"><span class="tocnumber">2.1</span> <span class="toctext">Pons Aeni</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Origin_of_the_city_name"><span class="tocnumber">2.2</span> <span class="toctext">Origin of the city name</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Development_of_Rosenheim"><span class="tocnumber">2.3</span> <span class="toctext">Development of Rosenheim</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Market_Rosenheim"><span class="tocnumber">2.4</span> <span class="toctext">Market Rosenheim</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Rosenheim_in_the_Nazi_era"><span class="tocnumber">2.5</span> <span class="toctext">Rosenheim in the Nazi era</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Bombing_during_the_Second_World_War"><span class="tocnumber">2.6</span> <span class="toctext">Bombing during the Second World War</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Historical_timeline"><span class="tocnumber">2.7</span> <span class="toctext">Historical timeline</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Population_growth"><span class="tocnumber">2.8</span> <span class="toctext">Population growth</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Coat_of_arms"><span class="tocnumber">2.9</span> <span class="toctext">Coat of arms</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Landmarks_and_culture"><span class="tocnumber">3</span> <span class="toctext">Landmarks and culture</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#Theater"><span class="tocnumber">3.1</span> <span class="toctext">Theater</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Museums"><span class="tocnumber">3.2</span> <span class="toctext">Museums</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Architecture"><span class="tocnumber">3.3</span> <span class="toctext">Architecture</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Parks"><span class="tocnumber">3.4</span> <span class="toctext">Parks</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-17"><a href="#Notable_residents"><span class="tocnumber">4</span> <span class="toctext">Notable residents</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#Twin_towns_.E2.80.93_Sister_cities"><span class="tocnumber">5</span> <span class="toctext">Twin towns – Sister cities</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Geography">Geography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rosenheim&amp;action=edit&amp;section=1" title="Edit section: Geography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The population of the town proper is approximately 60,000 inhabitants with up to 125,000 in the surrounding area. Rosenheim is situated in the Upper-Bavarian <a href="/wiki/Salzkammergut" title="Salzkammergut">Alpine Foothills</a>, 450 metres (1,476 feet) <a href="/wiki/Above_mean_sea_level" class="mw-redirect" title="Above mean sea level">above sea level</a> and covers an area of 37.52 square kilometres (14.49&#160;sq&#160;mi). The capital of <a href="/wiki/Bavaria" title="Bavaria">Bavaria</a>, <a href="/wiki/Munich" title="Munich">Munich</a>, is 52 kilometres (32 miles) away in North-West direction from Rosenheim. <a href="/wiki/Rosenheim_station" title="Rosenheim station">Rosenheim station</a> is at the junction of the <a href="/wiki/Munich%E2%80%93Rosenheim_railway" title="Munich–Rosenheim railway">Munich–Rosenheim</a>, the <a href="/wiki/Rosenheim%E2%80%93Salzburg_railway" title="Rosenheim–Salzburg railway">Rosenheim–Salzburg</a> and the <a href="/wiki/Rosenheim%E2%80%93Kufstein_railway" title="Rosenheim–Kufstein railway">Munich–Innsbruck</a> lines.</p>
+<p>The landscape around Rosenheim was formed during the last ice age from the advancement of the <a href="/wiki/Inn_Valley_Glacier" class="mw-redirect" title="Inn Valley Glacier">Inn Valley Glacier</a> and later from the Rosenheim lake. The lake existed about 10,000 years ago, covering the whole <a href="/wiki/Inn_valley" class="mw-redirect" title="Inn valley">Inn valley</a> as far as <a href="/wiki/Wasserburg_am_Inn" title="Wasserburg am Inn">Wasserburg am Inn</a>, about 25&#160;km north of Rosenheim.</p>
+<p>Even today in many places around the city the former shoreline can be recognised where the former flat lake bed changes suddenly into relatively steep embankment.</p>
+<p><br /></p>
+<div class="thumb tnone" style="margin-left: auto; margin-right:auto; overflow:hidden; width:auto; max-width:658px;">
+<div class="thumbinner" style="">
+<div class="overflowbugx" style="overflow:auto;"><a href="/wiki/File:Marct_Rosenhaimb.jpg" class="image" title="View of Rosenheim in 1701"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Marct_Rosenhaimb.jpg/650px-Marct_Rosenhaimb.jpg" width="650" height="232" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Marct_Rosenhaimb.jpg/975px-Marct_Rosenhaimb.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Marct_Rosenhaimb.jpg/1300px-Marct_Rosenhaimb.jpg 2x" data-file-width="1400" data-file-height="500" /></a></div>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Marct_Rosenhaimb.jpg" title="File:Marct Rosenhaimb.jpg"></a></div>
+View of Rosenheim in 1701</div>
+</div>
+</div>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rosenheim&amp;action=edit&amp;section=2" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Rosenheim_heilig_geist.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Rosenheim_heilig_geist.jpg/220px-Rosenheim_heilig_geist.jpg" width="220" height="220" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Rosenheim_heilig_geist.jpg/330px-Rosenheim_heilig_geist.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Rosenheim_heilig_geist.jpg/440px-Rosenheim_heilig_geist.jpg 2x" data-file-width="608" data-file-height="608" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Rosenheim_heilig_geist.jpg" class="internal" title="Enlarge"></a></div>
+Rosenheim, churches of St Nikolaus and Holy Spirit</div>
+</div>
+</div>
+<p>Rosenheim's development can be traced from its location on intersecting major trade routes. Even in early times, the city's intersecting traffic stimulated its development as a market town. It subsequently evolved from a market to a salt trade and then railway town to today's wood and college town.</p>
+<h3><span class="mw-headline" id="Pons_Aeni">Pons Aeni</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rosenheim&amp;action=edit&amp;section=3" title="Edit section: Pons Aeni">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Crucial to the establishment of <b>Rosenheim</b> were the Inn and the corresponding <a href="https://de.wikipedia.org/wiki/Inntal" class="extiw" title="de:Inntal">Inntal</a>. The Romans arrived in the year 15 BC under the leadership of <a href="/wiki/Nero_Claudius_Drusus" title="Nero Claudius Drusus">Drusus</a> and <a href="/wiki/Tiberius" title="Tiberius">Tiberius</a>. They founded to the East right of the Inn the province <a href="/wiki/Noricum" title="Noricum">Noricum</a> and to the west of the Inn <a href="/wiki/Raetia" title="Raetia">Rhaetia</a>. The <a href="/wiki/Colonization" title="Colonization">colonizers</a> built a road through the <a href="/wiki/Brenner_Pass" title="Brenner Pass">Brenner</a> to <a href="/wiki/Castra_Regina" class="mw-redirect" title="Castra Regina">Castra Regina</a>, and one running east-west road from <a href="/wiki/Iuvavum" class="mw-redirect" title="Iuvavum">Iuvavum</a> to <a href="/wiki/Augusta_Vindelicorum" class="mw-redirect" title="Augusta Vindelicorum">Augusta Vindelicum</a>. The intersection of these two enormously important trade routes were protected by a military station whose name was "Pons Aeni". Less frequently used terms were "Ponte Aoni", "Ad enum" or "stations Enensis". The Romano Celtic settlement existed for some 500 years with that name. Pons was between Aeni Isinisca (<a href="/wiki/Aying" title="Aying">Aying</a>) and <a href="https://de.wikipedia.org/wiki/Bedaium" class="extiw" title="de:Bedaium">Bedaium</a>, as shown on the Roman road map <a href="/wiki/Tabula_Peutingeriana" title="Tabula Peutingeriana">Tabula Peutingeriana</a> from the 4th century. The name "Pons Aeni" can still be recognised in local place names, "Pfunzen" in the name of the district "Langenpfunzen" and "Leonhardspfunzen".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Schloss_Rosenheim.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Schloss_Rosenheim.jpg/220px-Schloss_Rosenheim.jpg" width="220" height="164" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Schloss_Rosenheim.jpg/330px-Schloss_Rosenheim.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Schloss_Rosenheim.jpg/440px-Schloss_Rosenheim.jpg 2x" data-file-width="686" data-file-height="510" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Schloss_Rosenheim.jpg" class="internal" title="Enlarge"></a></div>
+Schloss Rosenheim in 1900, watercolour by Michael Kotz</div>
+</div>
+</div>
+<h3><span class="mw-headline" id="Origin_of_the_city_name">Origin of the city name</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rosenheim&amp;action=edit&amp;section=4" title="Edit section: Origin of the city name">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The origin of the city's name is not completely clear. First mentioned in 1234, Rosenheim castle is on the eastern bank of the Inn, on today's castle hill, overlooking a new bridge over the Inn. Perhaps the name comes from the Rosenheim Rose emblem of the <a href="/wiki/Wasserburg_am_Inn" title="Wasserburg am Inn">Wasserburger</a> Earl Hall, who built the castle. Another theory is that originally the name Ross was derived from the <i>Rössern</i> steeds that were used in medieval times to pull the river transport vessels, and for which there were large stables in Rosenheim. Still in use today the street names <i>Am Esbaum</i> (the tree on which the horses were grazing) or <i>Am Roßacker</i> are possible indications.</p>
+<p>Another theory suggests that there could be a kindred word <i>Roas</i>, <i>Roze</i> oder <i>Ried</i>, that used to mean swamp and peat bogs, which are still to be found around Rosenheim - evident also by the name of the neighboring town of Rosenheim <a href="/wiki/Kolbermoor" title="Kolbermoor">Kolbermoor</a>. An example of the old names, the nearby village of <a href="/wiki/Riedering" title="Riedering">Riedering</a>. Maybe the name is also derived from Rosenheim personal names <i>Roso</i>/<i>Hrodo</i>. The most beautiful word for word theory is that formerly 'Rose' used to mean a beautiful girl. It was well known among the Inn boatmen that there were many beauties to admire in this city! The sailors of the town liked to control what was called "home of the Rose" - in other words Rosenheim.</p>
+<h3><span class="mw-headline" id="Development_of_Rosenheim">Development of Rosenheim</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rosenheim&amp;action=edit&amp;section=5" title="Edit section: Development of Rosenheim">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>At about the time the first mention of Rosenheim castle in 1234, a settlement of boatmen developed on the western shore. The area around the Inn Bridge was not developed for a long time due to marshy soil at the proximity of the mouth of the river <a href="/wiki/Mangfall" title="Mangfall">Mangfall</a>, so the settlement was located several hundred meters away. The centre of Rosenheim is therefore not directly on the riverside.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Rosenheim_-_Neue_Innbr%C3%BCcke.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Rosenheim_-_Neue_Innbr%C3%BCcke.jpg/220px-Rosenheim_-_Neue_Innbr%C3%BCcke.jpg" width="220" height="140" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Rosenheim_-_Neue_Innbr%C3%BCcke.jpg/330px-Rosenheim_-_Neue_Innbr%C3%BCcke.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/71/Rosenheim_-_Neue_Innbr%C3%BCcke.jpg/440px-Rosenheim_-_Neue_Innbr%C3%BCcke.jpg 2x" data-file-width="1075" data-file-height="685" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Rosenheim_-_Neue_Innbr%C3%BCcke.jpg" class="internal" title="Enlarge"></a></div>
+Rosenheim and new Inn bridge on the postcard.</div>
+</div>
+</div>
+<h3><span class="mw-headline" id="Market_Rosenheim">Market Rosenheim</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rosenheim&amp;action=edit&amp;section=6" title="Edit section: Market Rosenheim">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The town quickly grew in importance as a hub for all types of goods that were transported to the Inn (livestock, grain, silk, arms, salt), and received the 1328 <a href="/wiki/Market_town" title="Market town">Markets</a> status. The Rosenheim ship masters made Rosenheim very wealthy during this era through the transport of goods, due to the location between <a href="/wiki/Hall_in_Tirol" title="Hall in Tirol">Hall in Tirol</a> the Inn and onwards to the Danube down to <a href="/wiki/Vienna" title="Vienna">Vienna</a> and <a href="/wiki/Budapest" title="Budapest">Budapest</a>. Until about 1600 the settlement had grown into one of the largest and most important markets in Bavaria, even though <a href="/wiki/Town_privileges" title="Town privileges">City status</a> was only attained in 1864 from the Bavarian King Ludwig II.</p>
+<p>Rosenheim experienced economic decline during the 17th century in the wake of the decline of Inn Shipping Company and the consequences of the <a href="/wiki/Thirty_Years%27_War" title="Thirty Years' War">Thirty Years' War</a>. There were also a plague epidemic (1634) and a market fire (1641).</p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Rosenheim_19th_century.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Rosenheim_19th_century.jpg/220px-Rosenheim_19th_century.jpg" width="220" height="98" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Rosenheim_19th_century.jpg/330px-Rosenheim_19th_century.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/29/Rosenheim_19th_century.jpg/440px-Rosenheim_19th_century.jpg 2x" data-file-width="663" data-file-height="294" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Rosenheim_19th_century.jpg" class="internal" title="Enlarge"></a></div>
+Rosenheim in the 19th century</div>
+</div>
+</div>
+<p>In the 19th century Rosenheim developed as an economic centre in the Southeast of Bavaria due to <a href="/wiki/Brine" title="Brine">brine</a>. In 1810 an early type of wooden pipeline brought brine from the salt mines in the area <a href="/wiki/Bad_Reichenhall" title="Bad Reichenhall">Reichenhall</a> and <a href="/wiki/Traunstein" title="Traunstein">Traunstein</a> to Rosenheim. Boiling the salt made Rosenheim the centre of Bavarian salt production until 1958.</p>
+<p>Expansion of the railways brought early connection to the railway. In 1858 Rosenheim station was inaugurated, which however would soon be too small and prove a hindrance for further urban development, in 1876 the station moved to its present site. The old railway line was the straight through road (now the Town Hall and Prince Regent Street, main Rosenheimer transport axis, from the northwest to the southeast of the city), the <a href="/wiki/Roundhouse" title="Roundhouse">roundhouse</a> of the first station now serves as an exhibition center, the old station is directly opposite the 1878 City Hall - and is used in the ZDF-evening series "<a href="/wiki/Die_Rosenheim-Cops" title="Die Rosenheim-Cops">Die Rosenheim-Cops</a>" as the backdrop of the police headquarters.</p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Rosenheim_1860_A.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Rosenheim_1860_A.jpg/220px-Rosenheim_1860_A.jpg" width="220" height="96" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Rosenheim_1860_A.jpg/330px-Rosenheim_1860_A.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Rosenheim_1860_A.jpg/440px-Rosenheim_1860_A.jpg 2x" data-file-width="627" data-file-height="273" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Rosenheim_1860_A.jpg" class="internal" title="Enlarge"></a></div>
+Rosenheim about 1860</div>
+</div>
+</div>
+<p>The economic boom of the late 19th and early 20th century made the <a href="/wiki/Gr%C3%BCnderzeit" title="Gründerzeit">Gründerzeit</a> - and <a href="/wiki/Art_Nouveau" title="Art Nouveau">Art Nouveau</a> (and its regional characteristics, the <a href="/wiki/Swiss_chalet_style" title="Swiss chalet style">Swiss chalet style</a>) the most important architectural style, which now determines the townscape. It was built in the emerging civic centre to the present Town Hall and the Lutheran Church of the Redeemer in Rosenheim for rare Gothic Revival-style brick for the widening Evangelical Lutheran Church.</p>
+<p>At the beginning of the 20th century, Rosenheim had nine breweries which are still preserved in the names of some restaurants (Duschl-, Hof-, Mail-, Pernloher-, Stern-, Weißbräu). The only survivors being "<a href="https://de.wikipedia.org/wiki/Auerbr%C3%A4u" class="extiw" title="de:Auerbräu">Auerbräu</a>" and "<a href="https://de.wikipedia.org/wiki/Fl%C3%B6tzinger_Br%C3%A4u" class="extiw" title="de:Flötzinger Bräu">Flötzinger Bräu</a>" and supply, among others, the "<a href="https://de.wikipedia.org/wiki/M%C3%A4rzenbier" class="extiw" title="de:Märzenbier">Märzenbier</a>" for the "<a href="https://de.wikipedia.org/wiki/Rosenheimer_Herbstfest" class="extiw" title="de:Rosenheimer Herbstfest">Rosenheimer Herbstfest</a>", as well as the Bierbichler Weißbräu.</p>
+<h3><span class="mw-headline" id="Rosenheim_in_the_Nazi_era">Rosenheim in the Nazi era</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rosenheim&amp;action=edit&amp;section=7" title="Edit section: Rosenheim in the Nazi era">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Nepomukbrunnen_Rosenheim.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Nepomukbrunnen_Rosenheim.jpg/220px-Nepomukbrunnen_Rosenheim.jpg" width="220" height="146" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Nepomukbrunnen_Rosenheim.jpg/330px-Nepomukbrunnen_Rosenheim.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/43/Nepomukbrunnen_Rosenheim.jpg/440px-Nepomukbrunnen_Rosenheim.jpg 2x" data-file-width="4592" data-file-height="3056" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Nepomukbrunnen_Rosenheim.jpg" class="internal" title="Enlarge"></a></div>
+Nepomuk statue</div>
+</div>
+</div>
+<p>The number of Jews living in Rosenheim was high compared to other Bavarian cities. However, at the start of the 20th century, the Jewish community consisted of about 50 people. The request to the city council for establishment of a separate Jewish religious association, with reference to the Bavarian-Jewish legislation, was refused, so the Rosenheim Jews remained attached to the state capital, where their dead also had to be buried. Even the funeral of the First World War fallen son of a Jewish merchant based in Rosenheim at the city cemetery was refused and was "the biggest disappointment and the bitterest pain" for the father.</p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Mittertor_Rosenheim_4.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Mittertor_Rosenheim_4.jpg/220px-Mittertor_Rosenheim_4.jpg" width="220" height="331" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Mittertor_Rosenheim_4.jpg/330px-Mittertor_Rosenheim_4.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Mittertor_Rosenheim_4.jpg/440px-Mittertor_Rosenheim_4.jpg 2x" data-file-width="3056" data-file-height="4592" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Mittertor_Rosenheim_4.jpg" class="internal" title="Enlarge"></a></div>
+Mittertor, old city entrance.</div>
+</div>
+</div>
+<p>With the creation of the first local Nazi group outside of Munich in 1920, the Rosenheim Jews saw increasing hostility. Centre of hate campaigns was the Rosenheim School. A scandal occurred in June 1920, after a reader accused the writer of a letter titled "Rosenheimer Jews" in the local press, who wanted to repeal the provisions of the Versailles Treaty and held military exercises at the Rosenheim School. Seven members of the high school and a member of the "Chiemgau" then raided a villa inhabited by Jews in the <i>Herbststrasse</i>. The college of the city of Rosenheim, on 29 July 1920 came to the conclusion that</p>
+<blockquote class="templatequote">
+<p>… es sei bedauerlich, dass die Bewegung zur Bekämpfung eines volksausbeuterischen Judentums […], die in ihrem Wesen gewiß berechtigt sei, durch solche Auswüchse in Mißkredit komme.</p>
+</blockquote>
+<p>"... it was regrettable that the people's movement to fight exploitative Jews[...], which certainly was justified in its nature, has been discredited." Protests of the Bavarian Jewish Central Association were unsuccessful, only an unmistakable message of the Bavarian Interior Ministry September 1920 was able to maintain peace.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Lokschuppen_in_Rosenheim02_klein.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Lokschuppen_in_Rosenheim02_klein.jpg/220px-Lokschuppen_in_Rosenheim02_klein.jpg" width="220" height="123" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Lokschuppen_in_Rosenheim02_klein.jpg/330px-Lokschuppen_in_Rosenheim02_klein.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Lokschuppen_in_Rosenheim02_klein.jpg/440px-Lokschuppen_in_Rosenheim02_klein.jpg 2x" data-file-width="1181" data-file-height="660" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Lokschuppen_in_Rosenheim02_klein.jpg" class="internal" title="Enlarge"></a></div>
+Lokschuppen exhibition center.</div>
+</div>
+</div>
+<p>On 1 April 1933, shortly after the Nazi seizure of power, guards were set up in front of Jewish shops, warning against buying in these stores, but to desist assault and criminal damage. A large proportion of the population ignored these calls. The shops were therefore still frequented, much to the annoyance of Nazi activists who acted with the backing of then-Mayor Gmelch. Despite the support of the population, six of the eleven Jewish business owners gave up their businesses by 1937.</p>
+<p>The assassination of German diplomat vom Rath by the Jew Herschel Grynszpan on 7 November 1938 in Paris, was taken as a final opportunity to strike against the Jews. The SA came on 10 November at 3–4 o'clock in the morning with 8 to 10 men to the last two Jewish shops and destroyed their inventory and merchandise.</p>
+<p>The fate of many Rosenheim Jews is documented. Those who could, emigrated, mostly in the United States. However, many failed entry and exit applications, and many died in concentration camps.<sup id="cite_ref-RiDR_4-0" class="reference"><a href="#cite_note-RiDR-4">[4]</a></sup></p>
+<h3><span class="mw-headline" id="Bombing_during_the_Second_World_War">Bombing during the Second World War</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rosenheim&amp;action=edit&amp;section=8" title="Edit section: Bombing during the Second World War">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Westerndorf.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Westerndorf.jpg/220px-Westerndorf.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Westerndorf.jpg/330px-Westerndorf.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Westerndorf.jpg/440px-Westerndorf.jpg 2x" data-file-width="803" data-file-height="602" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Westerndorf.jpg" class="internal" title="Enlarge"></a></div>
+St. John the Baptist church and <a href="/wiki/Bavarian_Alps" title="Bavarian Alps">Bavarian Alps</a>.</div>
+</div>
+</div>
+<p>From the beginning of bombing raids on German cities in the spring of 1942, Rosenheim was not spared. In November 1943 there were shelters for only 650 people for a city population of approximately 22,000. However, by February 1944 shelters had been built for about 6400 people and in conjunction with other shelters a total of 10,525 people could be protected.</p>
+<p>During 14 bomb attacks, 201 people were killed and 179 injured. The focus of the air attacks was the railway station and the railway tracks, as Rosenheim was an important transportation hub between Munich, Salzburg and Innsbruck. The neighbouring communities of Ziegelberg, Stephanskirchen, Westerndorf St. Peter and Oberpfaffenhofen were also hit. The first air attack was on 20 October 1944 at lunch time from 12:47 to 13:17 o'clock with over a hundred aircraft dropping 1,000 bombs, leaving 27 dead and 59 wounded. The heaviest air raid took place on 18 April 1945. From 14:40 to 14:55 around 200 to 1300 aircraft dropped bombs in the area around the station, resulting in 53 dead and 36 injured, in addition, this attack also made 800 people homeless. The station building was almost completely destroyed and railway tracks were destroyed over a length of 20 kilometers. The last air attacks were made on 19 and 21 April 1945. During the war the majority of at least 173 unexploded bombs were recovered. In 1964, the <i>Oberbayerische Volksblatt</i> reported that the approximate location of 38 undiscovered unexploded ordnance was known.<sup id="cite_ref-RiDR_4-1" class="reference"><a href="#cite_note-RiDR-4">[4]</a></sup></p>
+<h3><span class="mw-headline" id="Historical_timeline">Historical timeline</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rosenheim&amp;action=edit&amp;section=9" title="Edit section: Historical timeline">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Inn_Rosenheim.jpeg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Inn_Rosenheim.jpeg/220px-Inn_Rosenheim.jpeg" width="220" height="146" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Inn_Rosenheim.jpeg/330px-Inn_Rosenheim.jpeg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Inn_Rosenheim.jpeg/440px-Inn_Rosenheim.jpeg 2x" data-file-width="4928" data-file-height="3264" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Inn_Rosenheim.jpeg" class="internal" title="Enlarge"></a></div>
+Bridge on the river <a href="/wiki/Inn_(river)" title="Inn (river)">Inn</a>.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Rosenheim,_RO_-_M%C3%BCnchener_Str_Nrn_8_bis_4_Gillitzerblock_v_S.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Rosenheim%2C_RO_-_M%C3%BCnchener_Str_Nrn_8_bis_4_Gillitzerblock_v_S.JPG/220px-Rosenheim%2C_RO_-_M%C3%BCnchener_Str_Nrn_8_bis_4_Gillitzerblock_v_S.JPG" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Rosenheim%2C_RO_-_M%C3%BCnchener_Str_Nrn_8_bis_4_Gillitzerblock_v_S.JPG/330px-Rosenheim%2C_RO_-_M%C3%BCnchener_Str_Nrn_8_bis_4_Gillitzerblock_v_S.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Rosenheim%2C_RO_-_M%C3%BCnchener_Str_Nrn_8_bis_4_Gillitzerblock_v_S.JPG/440px-Rosenheim%2C_RO_-_M%C3%BCnchener_Str_Nrn_8_bis_4_Gillitzerblock_v_S.JPG 2x" data-file-width="4000" data-file-height="3000" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Rosenheim,_RO_-_M%C3%BCnchener_Str_Nrn_8_bis_4_Gillitzerblock_v_S.JPG" class="internal" title="Enlarge"></a></div>
+Pedestrian zone Münchener Str. with Gillitzerblock</div>
+</div>
+</div>
+<table>
+<tr>
+<td valign="top">
+<table class="wikitable">
+<tr align="right">
+<td style="background:#CCDDEE;">15AD</td>
+<td align="left">Forerunner of Rosenheim: Roman Military station Pons Aeni (Bridge, cemetery, pottery)</td>
+</tr>
+<tr>
+<td style="background:#CCDDEE;">1234</td>
+<td>First record of „Schloss Rosenheim“</td>
+</tr>
+<tr>
+<td style="background:#CCDDEE;">1276</td>
+<td>First record of the Bridge over the Inn and salt transport</td>
+</tr>
+<tr>
+<td style="background:#CCDDEE;">1328</td>
+<td>Rosenheim gets market status</td>
+</tr>
+<tr>
+<td style="background:#CCDDEE;">1602</td>
+<td>First <a href="https://de.wikipedia.org/wiki/Agrarmarktordnung" class="extiw" title="de:Agrarmarktordnung">Marktordnung</a></td>
+</tr>
+<tr>
+<td style="background:#CCDDEE;">1641</td>
+<td>The great fire of 1641</td>
+</tr>
+<tr>
+<td style="background:#CCDDEE;">1700</td>
+<td>Founding of the baths</td>
+</tr>
+<tr>
+<td style="background:#CCDDEE;">1810</td>
+<td>Roxal <a href="/wiki/Brine" title="Brine">brine</a> salt works founded</td>
+</tr>
+<tr>
+<td style="background:#CCDDEE;">1811</td>
+<td>First suspension bridge over the Inn</td>
+</tr>
+<tr>
+<td style="background:#CCDDEE;">1864</td>
+<td>Market Rosenheim becomes a city</td>
+</tr>
+<tr>
+<td style="background:#CCDDEE;">1870</td>
+<td>Rosenheim obtains city status</td>
+</tr>
+<tr>
+<td style="background:#CCDDEE;">1925</td>
+<td>Gründung Holztechnikum Rosenheim</td>
+</tr>
+<tr>
+<td style="background:#CCDDEE;">1971</td>
+<td>Founding of the <i>Fachhochschule</i></td>
+</tr>
+<tr>
+<td style="background:#CCDDEE;">1982</td>
+<td>Opening of the city hall (today the culture congress centre <i>KU’KO</i>)</td>
+</tr>
+<tr>
+<td style="background:#CCDDEE;">1984</td>
+<td>Opening of the pedestrian zone</td>
+</tr>
+<tr>
+<td style="background:#CCDDEE;">1988</td>
+<td>Opening of the exhibition centre <a href="https://de.wikipedia.org/wiki/Lokschuppen_Rosenheim" class="extiw" title="de:Lokschuppen Rosenheim">Lokschuppen</a></td>
+</tr>
+<tr>
+<td style="background:#CCDDEE;">2006</td>
+<td>Renovation of Nikolauskirche</td>
+</tr>
+<tr>
+<td style="background:#CCDDEE;">2007</td>
+<td>Rebuilding of Ludwigplatz</td>
+</tr>
+<tr>
+<td style="background:#CCDDEE;">2010</td>
+<td><a href="https://de.wikipedia.org/wiki/Landesgartenschau_Rosenheim_2010" class="extiw" title="de:Landesgartenschau Rosenheim 2010">Regional garden festival in Rosenheim</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Population_growth">Population growth</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rosenheim&amp;action=edit&amp;section=10" title="Edit section: Population growth">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Einwohnerentwicklung_in_rosenheim.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Einwohnerentwicklung_in_rosenheim.svg/220px-Einwohnerentwicklung_in_rosenheim.svg.png" width="220" height="110" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Einwohnerentwicklung_in_rosenheim.svg/330px-Einwohnerentwicklung_in_rosenheim.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Einwohnerentwicklung_in_rosenheim.svg/440px-Einwohnerentwicklung_in_rosenheim.svg.png 2x" data-file-width="800" data-file-height="400" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Einwohnerentwicklung_in_rosenheim.svg" class="internal" title="Enlarge"></a></div>
+Population growth in Rosenheim since 1840</div>
+</div>
+</div>
+<p>The population growth rate in the last 10 years was about 3&#160;Percent.</p>
+<table>
+<tr>
+<td valign="top" width="25%">
+<table class="wikitable" style="text-align:right;">
+<tr>
+<th style="background:#efefef; text-align:center; width:60%;">Date</th>
+<th style="background:#efefef; text-align:center; width:35%;">Population</th>
+<th style="background:#efefef; text-align:center; width:5%;"></th>
+</tr>
+<tr>
+<td>1815</td>
+<td>2.240 <sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>1861</td>
+<td>4.140 <sup id="cite_ref-chronik_rosenheim_6-0" class="reference"><a href="#cite_note-chronik_rosenheim-6">[6]</a></sup></td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>1880</td>
+<td>8.355 <sup id="cite_ref-chronik_rosenheim_6-1" class="reference"><a href="#cite_note-chronik_rosenheim-6">[6]</a></sup></td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>1900</td>
+<td>14.247 <sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>1905</td>
+<td>15.403 <sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>1925</td>
+<td>17.998 <sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>1. September 1939</td>
+<td>21.210 <sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>June 1946</td>
+<td>27.979 <sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>1949</td>
+<td>30.510</td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>1950</td>
+<td>36.193</td>
+<td>¹</td>
+</tr>
+</table>
+</td>
+<td valign="top" width="33%">
+<table class="wikitable" style="text-align:right;">
+<tr>
+<th style="background:#efefef; text-align:center; width:60%;">Date</th>
+<th style="background:#efefef; text-align:center; width:35%;">Population</th>
+<th style="background:#efefef; text-align:center; width:5%;"></th>
+</tr>
+<tr>
+<td>1961</td>
+<td>39.760</td>
+<td>¹</td>
+</tr>
+<tr>
+<td>1970</td>
+<td>46.018</td>
+<td>¹</td>
+</tr>
+<tr>
+<td>31. December 1980</td>
+<td>51.604</td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>31. December 1990</td>
+<td>56.340</td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>31. December 2000</td>
+<td>58.908</td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>30. June 2003</td>
+<td>59.820</td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>30. September 2005</td>
+<td>60.137</td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>30. September 2006</td>
+<td>60.295</td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>30. September 2007</td>
+<td>60.640</td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td>31. December 2010</td>
+<td>61.299</td>
+<td>&#160;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p>¹ Census results</p>
+<h3><span class="mw-headline" id="Coat_of_arms">Coat of arms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rosenheim&amp;action=edit&amp;section=11" title="Edit section: Coat of arms">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:RO_Riedergarten_2013-04.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/RO_Riedergarten_2013-04.jpg/220px-RO_Riedergarten_2013-04.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/RO_Riedergarten_2013-04.jpg/330px-RO_Riedergarten_2013-04.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/RO_Riedergarten_2013-04.jpg/440px-RO_Riedergarten_2013-04.jpg 2x" data-file-width="1566" data-file-height="1175" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:RO_Riedergarten_2013-04.jpg" class="internal" title="Enlarge"></a></div>
+Riedergarten.</div>
+</div>
+</div>
+<p>The emblem of the city of Rosenheim shows a white rose on a red background. This may indicate the former arms of <a href="/wiki/Wasserburg_am_Inn" title="Wasserburg am Inn">Wasserburg am Inn</a> have returned, because Wasserburg ruled Rosenheim until 1247. The oldest known seal of the city of Rosenheim was built in 1374 and already shows the rose, which has not changed since. The only exception is a picture by <a href="/wiki/Philipp_Apian" title="Philipp Apian">Philipp Apian</a>, which was painted around the year 1568 and shows a border around the rose.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></p>
+<p>There is also a Logo for the city of Rosenheim, containing the same rose which is present on the coat of arms.</p>
+<h2><span class="mw-headline" id="Landmarks_and_culture">Landmarks and culture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rosenheim&amp;action=edit&amp;section=12" title="Edit section: Landmarks and culture">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Kultur_und_Kongresszentrum_Rosenheim-1.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Kultur_und_Kongresszentrum_Rosenheim-1.jpg/220px-Kultur_und_Kongresszentrum_Rosenheim-1.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Kultur_und_Kongresszentrum_Rosenheim-1.jpg/330px-Kultur_und_Kongresszentrum_Rosenheim-1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Kultur_und_Kongresszentrum_Rosenheim-1.jpg/440px-Kultur_und_Kongresszentrum_Rosenheim-1.jpg 2x" data-file-width="1200" data-file-height="901" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Kultur_und_Kongresszentrum_Rosenheim-1.jpg" class="internal" title="Enlarge"></a></div>
+Kultur- und Kongress-Zentrum</div>
+</div>
+</div>
+<h3><span class="mw-headline" id="Theater">Theater</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rosenheim&amp;action=edit&amp;section=13" title="Edit section: Theater">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <i><a href="https://de.wikipedia.org/wiki/Kultur-_und_Kongresszentrum_Rosenheim" class="extiw" title="de:Kultur- und Kongresszentrum Rosenheim">Culture and Congress Centre Rosenheim (KU'KO)</a></i> was built on the site of the <a href="/wiki/Brine" title="Brine">brine</a> works, demolished in 1967. Inaugurated on October 2, 1982 as the town hall, now the Culture and Congress Centre Rosenheim has evolved over the years into a national event centre. Today in the 3000-square-foot multipurpose building approximately 400 events are held annually.</p>
+<h3><span class="mw-headline" id="Museums">Museums</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rosenheim&amp;action=edit&amp;section=14" title="Edit section: Museums">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Ludwigsplatz_Rosenheim_3.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Ludwigsplatz_Rosenheim_3.jpg/220px-Ludwigsplatz_Rosenheim_3.jpg" width="220" height="131" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Ludwigsplatz_Rosenheim_3.jpg/330px-Ludwigsplatz_Rosenheim_3.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/56/Ludwigsplatz_Rosenheim_3.jpg/440px-Ludwigsplatz_Rosenheim_3.jpg 2x" data-file-width="1618" data-file-height="962" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Ludwigsplatz_Rosenheim_3.jpg" class="internal" title="Enlarge"></a></div>
+Ludwigsplatz.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Mangfalleinm%C3%BCndung_in_den_Inn.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Mangfalleinm%C3%BCndung_in_den_Inn.jpg/220px-Mangfalleinm%C3%BCndung_in_den_Inn.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Mangfalleinm%C3%BCndung_in_den_Inn.jpg/330px-Mangfalleinm%C3%BCndung_in_den_Inn.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/38/Mangfalleinm%C3%BCndung_in_den_Inn.jpg/440px-Mangfalleinm%C3%BCndung_in_den_Inn.jpg 2x" data-file-width="2592" data-file-height="1944" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Mangfalleinm%C3%BCndung_in_den_Inn.jpg" class="internal" title="Enlarge"></a></div>
+Confluence of the river <a href="/wiki/Mangfall" title="Mangfall">Mangfall</a> in the river <a href="/wiki/Inn_(river)" title="Inn (river)">Inn</a>.</div>
+</div>
+</div>
+<p>Since 1885, the <a href="https://de.wikipedia.org/wiki/Mittertor" class="extiw" title="de:Mittertor">Mittertor</a> has housed the Municipal Museum with a large collection (about 5000 exhibits) of the cultural history of the town and <a href="/wiki/Rosenheim_(district)" title="Rosenheim (district)">district of Rosenheim</a>, from the prehistory and early history and Roman times to the recent city history in the 20th century. It is one of the most important regional history collections in South East Upper Bavaria.</p>
+<p>The Inn Museum houses the hydraulic engineering and marine technology collection of the Rosenheim Water Management Office and is located in the historic river master's <i>Bruckbaustadel</i> at the Inn Bridge. With many original objects, the museum displays the Inn Shipping Company, the source of Rosenheim's prosperity in the Middle Ages, in the past centuries. In addition, the museum provides facts about the river landscape and river engineering, geology, settlement history, marine engineering, bridge design and the development of waterways.</p>
+<p>The <i>Wood technology Museum</i> was established in 1990 in the listed Ellmaierhaus. It is housed on the first floor, which is accessed via the so-called Jacob's ladder. At more than 400 square meters of exhibition space displays this unique museum, which is closely related to the <i>timber town of Rosenheim</i> and its training centres for wood occupations, wood as a raw material, its importance and processing past and present. The exhibition shows not only the end products, but also their production and the necessary tools. Regular special exhibitions complete the offer of the <i>Wood technology Museum</i>.</p>
+<p>The Municipal Gallery of 1935-1937 was built by <a href="/wiki/German_Bestelmeyer" title="German Bestelmeyer">German Bestelmeyer</a>. Every year, six art exhibitions are held here. In addition to contemporary art, also exhibitions of works from the 19th and 20th century are held. A thematic focus is the art from the region and the <a href="/wiki/Munich_School" title="Munich School">Munich School</a>.</p>
+<p>The <i><a href="https://de.wikipedia.org/wiki/Lokschuppen_Rosenheim" class="extiw" title="de:Lokschuppen Rosenheim">Lokschuppen</a></i> is an internationally renowned exhibition centre with annually changing exhibitions in the former railways round house.</p>
+<p>The brine pump house is one of the few monuments in the city which recall time from 1810 to 1958 of Rosenheim's <a href="/wiki/Brine" title="Brine">brine</a> industry.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> As part of the National Exposition <i>salt makes history</i>, the city renovated the historic, listed building and set up an exhibition room about Rosenheim's <a href="/wiki/Brine" title="Brine">brine</a> history. Admission is only possible with city guides or by agreement with the Metropolitan Museum.</p>
+<p>The <i><a href="https://de.wikipedia.org/wiki/Klepper_Faltbootwerft" class="extiw" title="de:Klepper Faltbootwerft">Klepper</a></i> museum houses various exhibits, on the one hand the history of the <a href="https://de.wikipedia.org/wiki/Faltboot" class="extiw" title="de:Faltboot">Klepper-Boote</a> show coats and tents. On the other hand, it is also dedicated to the development of the company Klepper, who was once the biggest employer in the city.</p>
+<h3><span class="mw-headline" id="Architecture">Architecture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rosenheim&amp;action=edit&amp;section=15" title="Edit section: Architecture">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><i>See also <a href="https://de.wikipedia.org/wiki/Liste_der_Baudenkm%C3%A4ler_in_Rosenheim" class="extiw" title="de:Liste der Baudenkmäler in Rosenheim">list of monuments in Rosenheim</a>, only in German</i></p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Lokschuppen_in_Rosenheim05_klein_Trux.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Lokschuppen_in_Rosenheim05_klein_Trux.jpg/220px-Lokschuppen_in_Rosenheim05_klein_Trux.jpg" width="220" height="151" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Lokschuppen_in_Rosenheim05_klein_Trux.jpg/330px-Lokschuppen_in_Rosenheim05_klein_Trux.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Lokschuppen_in_Rosenheim05_klein_Trux.jpg/440px-Lokschuppen_in_Rosenheim05_klein_Trux.jpg 2x" data-file-width="873" data-file-height="600" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Lokschuppen_in_Rosenheim05_klein_Trux.jpg" class="internal" title="Enlarge"></a></div>
+Town Hall Rosenheim</div>
+</div>
+</div>
+<p>The <a href="https://de.wikipedia.org/wiki/Mittertor" class="extiw" title="de:Mittertor">Mittertor</a> (the sole survivor of five market gates) was the eastern gate of the market before 1350, which was then protected with a double ditch. Since the 15th century, it separated the interior from the exterior of the market served as a customs office. Until the 19th century it also contained several municipal facilities such as the <a href="/wiki/Clerk_(municipal_official)" class="mw-redirect" title="Clerk (municipal official)">town clerk's</a> office. After the great fire in 1641 the city of Rosenheim onion dome was built and later extended into a long building. At its core is the Mittertor the oldest building in town. On the façade to the side of the square is the emblem of Louis Rosenheim, with the white rose against a red background. The <a href="https://de.wikipedia.org/wiki/Bayerisches_Staatswappen" class="extiw" title="de:Bayerisches Staatswappen">Bavarian crest</a> can also be seen here.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Ludwigsplatz_Fischbrunnen_Rosenheim-1.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Ludwigsplatz_Fischbrunnen_Rosenheim-1.jpg/220px-Ludwigsplatz_Fischbrunnen_Rosenheim-1.jpg" width="220" height="285" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Ludwigsplatz_Fischbrunnen_Rosenheim-1.jpg/330px-Ludwigsplatz_Fischbrunnen_Rosenheim-1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Ludwigsplatz_Fischbrunnen_Rosenheim-1.jpg/440px-Ludwigsplatz_Fischbrunnen_Rosenheim-1.jpg 2x" data-file-width="1857" data-file-height="2403" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Ludwigsplatz_Fischbrunnen_Rosenheim-1.jpg" class="internal" title="Enlarge"></a></div>
+Ludwigsplatz.</div>
+</div>
+</div>
+<p>Munich streets <i>Münchener Strasse</i> follows the <i>Gillitzerblocks</i>, also called "small pedestrian zone." Immediately apparent are the magnificently restored "<a href="https://de.wikipedia.org/wiki/Gr%C3%BCnderzeit" class="extiw" title="de:Gründerzeit">Gründerzeitfassaden</a>". The name <i>Gillitzerblocks</i> come from their builder Thomas Gillitzer. At the end of the 19th century he obtained a relatively large area of land, for its day, and built 15 houses, including the Hotel <i>Deutscher Kaiser</i>. Since the 1960s, the once self-contained Gründerzeit ensemble has altered with new construction and renovations. Only the façades in <i>Münchener Strasse</i> have been preserved and restored to the original.</p>
+<p>The <i>Quest-Kunstmühle</i> (art mill) was built from 1855 to 1916 in several phases as industrial complexes. It was renovated in the 1990s and now serves as a restaurant and office space. The <i>Quest-Kunstmühle</i> Power station is located on the Mangfallkanal.</p>
+<p>The Art Mill houses the exhibition halls of the Rosenheim arts club. The approximately 200 square metres (2,153&#160;sq&#160;ft) upper floor of the former <a href="https://de.wikipedia.org/wiki/Kunstm%C3%BChle" class="extiw" title="de:Kunstmühle">art mill</a> holds exhibitions of contemporary artists, exchange exhibitions with other art associations and activities accompanying the exhibition.</p>
+<p>The Rosenheim ballroom was built in the former Rosenheim Hofbräus buildings. The hall with ballroom and vaulted cellar was built in 1878. It was renovated in 1994 and since 2001 has been used as an event space, with its many possible uses of the centre of the eastern town of Rosenheim.</p>
+<p>The town's landmark is the gothic spire (65&#160;m (213&#160;ft)) of the parish church St. Nikolaus (1,450&#160;m (4,757&#160;ft)) with its baroque <a href="/wiki/Onion_dome" title="Onion dome">onion dome</a> (1,641&#160;m (5,384&#160;ft)).</p>
+<table class="wikitable" style="float: right; width:30%">
+<caption>Sculptures in the <i>Salingarten</i></caption>
+<tr>
+<th style="background:#CCDDEE;">Name</th>
+<th style="background:#CCDDEE;">Sculptor</th>
+</tr>
+<tr>
+<td>Wasserrad</td>
+<td>Josef Hamberger</td>
+</tr>
+<tr>
+<td>Stehende</td>
+<td>Rolf Märkl</td>
+</tr>
+<tr>
+<td>Liegende</td>
+<td><a href="https://de.wikipedia.org/wiki/Marianne_L%C3%BCdicke" class="extiw" title="de:Marianne Lüdicke">Marianne Lüdicke</a></td>
+</tr>
+<tr>
+<td>Mensch und Pferd</td>
+<td>Prof. Heinrich Kirchner</td>
+</tr>
+<tr>
+<td>Norne</td>
+<td>Louise Stomps</td>
+</tr>
+<tr>
+<td>Passantengruppe</td>
+<td>Erika Maria Lankes</td>
+</tr>
+<tr>
+<td>Stele</td>
+<td>Alfred Regnat</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Parks">Parks</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rosenheim&amp;action=edit&amp;section=16" title="Edit section: Parks">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <i>Kunstwiese</i> shows three-dimensional contemporary art works by artists from Rosenheim all year round.</p>
+<p>The <i>Riedergarten</i> was created in 1729 as a private herb garden by Rosenheim pharmacist Johann Rieder. It was sold to the city in 1925 by physician Dr. Herman Rieder for use as a summer garden. In 2002 the garden was redesigned by the opening up of a previously culverted stream, adding a modern character.</p>
+<p>Since 1987 the <i>Salingarten</i>, in front of the Culture and Congress Centre Ku'Ko, has been used as a sculpture garden. Large sculptures by important sculptors from Rosenheim and environment can be seen here.</p>
+<h2><span class="mw-headline" id="Notable_residents">Notable residents</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rosenheim&amp;action=edit&amp;section=17" title="Edit section: Notable residents">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:152px;"><a href="/wiki/File:Franz_Ferdinand_(band)_2008.11.24_009.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Franz_Ferdinand_%28band%29_2008.11.24_009.jpg/150px-Franz_Ferdinand_%28band%29_2008.11.24_009.jpg" width="150" height="100" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Franz_Ferdinand_%28band%29_2008.11.24_009.jpg/225px-Franz_Ferdinand_%28band%29_2008.11.24_009.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/38/Franz_Ferdinand_%28band%29_2008.11.24_009.jpg/300px-Franz_Ferdinand_%28band%29_2008.11.24_009.jpg 2x" data-file-width="4288" data-file-height="2848" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Franz_Ferdinand_(band)_2008.11.24_009.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Nick_McCarthy" title="Nick McCarthy">Nick McCarthy</a>.</div>
+</div>
+</div>
+<ul>
+<li><a href="/wiki/Nick_McCarthy" title="Nick McCarthy">Nicholas McCarthy</a> (born 1974), English musician</li>
+<li><a href="/wiki/Siegfried_Fischbacher" class="mw-redirect" title="Siegfried Fischbacher">Siegfried Fischbacher</a></li>
+<li><a href="/wiki/Hermann_G%C3%B6ring" title="Hermann Göring">Hermann Göring</a> (1893-1946), leading German politician of the NSDAP, war criminal</li>
+<li><a href="/wiki/George_Dzundza" title="George Dzundza">George Dzundza</a> (born 1945), actor</li>
+<li><a href="/wiki/Nadine_Samonte" title="Nadine Samonte">Nadine Samonte</a> (born 1988), actress</li>
+<li><a href="/wiki/Hans-Ulrich_Rudel" title="Hans-Ulrich Rudel">Hans-Ulrich Rudel</a> (1916-1982), <a href="/wiki/Junkers_Ju_87" title="Junkers Ju 87">Stuka</a> ace pilot, was not from Rosenheim, but he spent the last years of his life in the city.
+<div class="thumb tright">
+<div class="thumbinner" style="width:102px;"><a href="/wiki/File:Bundesarchiv_Bild_102-13805,_Hermann_G%C3%B6ring.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bundesarchiv_Bild_102-13805%2C_Hermann_G%C3%B6ring.jpg/100px-Bundesarchiv_Bild_102-13805%2C_Hermann_G%C3%B6ring.jpg" width="100" height="163" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bundesarchiv_Bild_102-13805%2C_Hermann_G%C3%B6ring.jpg/150px-Bundesarchiv_Bild_102-13805%2C_Hermann_G%C3%B6ring.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bundesarchiv_Bild_102-13805%2C_Hermann_G%C3%B6ring.jpg/200px-Bundesarchiv_Bild_102-13805%2C_Hermann_G%C3%B6ring.jpg 2x" data-file-width="491" data-file-height="800" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Bundesarchiv_Bild_102-13805,_Hermann_G%C3%B6ring.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Hermann_G%C3%B6ring" title="Hermann Göring">Hermann Göring</a>.</div>
+</div>
+</div>
+</li>
+<li><a href="/wiki/Tobias_Schweinsteiger" title="Tobias Schweinsteiger">Tobias Schweinsteiger</a> (born 1982), brother of <a href="/wiki/Bastian_Schweinsteiger" title="Bastian Schweinsteiger">Bastian Schweinsteiger</a>, former football player</li>
+<li><a href="/wiki/Edmund_Stoiber" title="Edmund Stoiber">Edmund Stoiber</a>, (born 1941), politician and jurist, former Minister President of Bavaria (CSU)</li>
+<li><a href="/wiki/Mark_Benecke" title="Mark Benecke">Mark Benecke</a> (born 1970), biologist</li>
+<li><a href="/wiki/Jupp_Kapellmann" title="Jupp Kapellmann">Jupp Kapellmann</a> (born 1949), former German footballer</li>
+<li><a href="/wiki/Lars_Bender" title="Lars Bender">Lars Bender</a> (born 1989), footballer</li>
+<li><a href="/wiki/Sven_Bender" title="Sven Bender">Sven Bender</a> (born 1989), footballer</li>
+<li><a href="/wiki/Martin_Tomczyk" title="Martin Tomczyk">Martin Tomczyk</a> (born 1981), auto racing driver</li>
+<li><a href="/wiki/Rosenheim_Poltergeist" title="Rosenheim Poltergeist">Annemarie Schneider</a></li>
+<li><a href="/wiki/Ray_Manzarek" title="Ray Manzarek">Ray Manzarek</a> (1939-2013), American musician, member of <a href="/wiki/The_Doors" title="The Doors">The Doors</a></li>
+</ul>
+<h2><span id="Twin_towns_–_Sister_cities"></span><span class="mw-headline" id="Twin_towns_.E2.80.93_Sister_cities">Twin towns – Sister cities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rosenheim&amp;action=edit&amp;section=18" title="Edit section: Twin towns – Sister cities">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tr valign="top">
+<td></td>
+<td colspan="2"><b>Rosenheim is <a href="/wiki/Twin_towns_and_sister_cities" class="mw-redirect" title="Twin towns and sister cities">twinned</a> with:</b></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Flag_of_Italy.svg" class="image"><img alt="Flag of Italy.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/20px-Flag_of_Italy.svg.png" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/30px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/40px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></td>
+<td><a href="/wiki/Lazise" title="Lazise">Lazise</a> in <a href="/wiki/Italy" title="Italy">Italian</a> <a href="/wiki/Lake_Garda" title="Lake Garda">Lake Garda</a>, since 1974</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Flag_of_France.svg" class="image"><img alt="Flag of France.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/20px-Flag_of_France.svg.png" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/30px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/40px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></td>
+<td><a href="/wiki/Brian%C3%A7on" title="Briançon">Briançon</a> (<a href="/wiki/France" title="France">France</a>), since 1979</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Flag_of_Germany.svg" class="image"><img alt="Flag of Germany.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/20px-Flag_of_Germany.svg.png" width="20" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/30px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/40px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></td>
+<td><a href="/wiki/Greiz" title="Greiz">Greiz</a> (<a href="/wiki/Th%C3%BCringen" class="mw-redirect" title="Thüringen">Thüringen</a>), since 1991</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Flag_of_Japan.svg" class="image"><img alt="Flag of Japan.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/20px-Flag_of_Japan.svg.png" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/30px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/40px-Flag_of_Japan.svg.png 2x" data-file-width="900" data-file-height="600" /></a></td>
+<td><a href="/wiki/Ichikawa,_Chiba" title="Ichikawa, Chiba">Ichikawa</a> (<a href="/wiki/Japan" title="Japan">Japan</a>), since 2004</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Flag_of_Israel.svg" class="image"><img alt="Flag of Israel.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/20px-Flag_of_Israel.svg.png" width="20" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/30px-Flag_of_Israel.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/40px-Flag_of_Israel.svg.png 2x" data-file-width="660" data-file-height="480" /></a></td>
+<td><a href="/wiki/Beersheba" title="Beersheba">Beersheba</a> (<a href="/wiki/Israel" title="Israel">Israel</a>), since 1983</td>
+</tr>
+<tr>
+<td colspan="2"><b>Rosenheim is friendly with:</b></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Flag_of_Austria.svg" class="image"><img alt="Flag of Austria.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/20px-Flag_of_Austria.svg.png" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/30px-Flag_of_Austria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/40px-Flag_of_Austria.svg.png 2x" data-file-width="900" data-file-height="600" /></a></td>
+<td><a href="/wiki/Kufstein" title="Kufstein">Kufstein</a> (<a href="/wiki/Austria" title="Austria">Austria</a>)</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rosenheim&amp;action=edit&amp;section=19" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Out_of_Rosenheim" class="mw-redirect" title="Out of Rosenheim">Out of Rosenheim</a></li>
+<li><a href="/wiki/Rosenheim_Poltergeist" title="Rosenheim Poltergeist">Rosenheim Poltergeist</a></li>
+<li><a href="/wiki/Starbulls_Rosenheim" title="Starbulls Rosenheim">Starbulls Rosenheim</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rosenheim&amp;action=edit&amp;section=20" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.rosenheim.de/stadt-und-buerger/politik-und-rathaus/oberbuergermeisterin.html">Oberbürgermeisterin Gabriele Bauer</a> Stadt Rosenheim (2014)</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.statistikdaten.bayern.de/genesis/online?sequenz=tabelleErgebnis&amp;selectionname=12411-001">"Fortschreibung des Bevölkerungsstandes"</a>. <i><a href="/wiki/Bayerisches_Landesamt_f%C3%BCr_Statistik_und_Datenverarbeitung" class="mw-redirect" title="Bayerisches Landesamt für Statistik und Datenverarbeitung">Bayerisches Landesamt für Statistik und Datenverarbeitung</a></i> (in German). June 2016.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARosenheim&amp;rft.atitle=Fortschreibung+des+Bev%C3%B6lkerungsstandes&amp;rft.date=2016-06&amp;rft.genre=unknown&amp;rft.jtitle=Bayerisches+Landesamt+f%C3%BCr+Statistik+und+Datenverarbeitung&amp;rft_id=https%3A%2F%2Fwww.statistikdaten.bayern.de%2Fgenesis%2Fonline%3Fsequenz%3DtabelleErgebnis%26selectionname%3D12411-001&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Stefan Trux, Franz Hilger: <i>Rosenheim – Tor zum Inntal.</i> S. 12.</span></li>
+<li id="cite_note-RiDR-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-RiDR_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-RiDR_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Rosenheim im Dritten Reich; Beiträge zur Stadtgeschichte, herausgegeben vom Kulturamt der Stadt Rosenheim 1989</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Joseph von Klöckel: Rosenheim mit seiner Heilquelle und Umgegend im Jahre 1815 beschrieben, 1. Bd.: Rosenheim mit seiner Heilquelle, München 1815, hier: S. 19</span></li>
+<li id="cite_note-chronik_rosenheim-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-chronik_rosenheim_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-chronik_rosenheim_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Stempfle: Chronik der Stadt Rosenheim 1860–1890, in: Das bayerische Inn-Oberland 43 (1981), S. 73–148</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Das bayerische Oberland am Inn 6 (1907), S. 69</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Brockhaus <i>Kleines Konversations-Lexikon.</i> Band 2. 5. Auflage. Leipzig 1911, S. 557.</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Sachkartei im Stadtarchiv Rosenheim</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Wendelstein Nr. 64 (1950)</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Oberbayerisches Volksblatt 26. Juli 1946</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">Wappenverzeichnis: <a rel="nofollow" class="external free" href="http://www.ngw.nl/int/dld/r/rosenhei.htm">http://www.ngw.nl/int/dld/r/rosenhei.htm</a></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">Ludwig Gassner: <i>Rosenheim und dessen Umgebung. Für Fremde und Einheimische unter besonderer Berücksichtigung des Heilbades Rosenheim</i>. Rosenheim 1865 (<a rel="nofollow" class="external text" href="https://books.google.de/books?id=A8lAAAAAcAAJ&amp;pg=PP5">online</a>).</span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rosenheim&amp;action=edit&amp;section=21" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.rosenheim.de">Official Site</a> <span class="languageicon">(in German)</span></li>
+<li><a rel="nofollow" class="external text" href="http://www.hs-rosenheim.de">Fachhochschule Rosenheim</a> <span class="languageicon">(in German)</span></li>
+<li><img alt="Wikisource-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png" width="12" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/18px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/24px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" />&#160;<cite class="citation encyclopaedia">Chisholm, Hugh, ed. (1911). "<a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Rosenheim" class="extiw" title="wikisource:1911 Encyclopædia Britannica/Rosenheim">Rosenheim</a>". <i><a href="/wiki/Encyclop%C3%A6dia_Britannica_Eleventh_Edition" title="Encyclopædia Britannica Eleventh Edition">Encyclopædia Britannica</a></i> (11th ed.). Cambridge University Press.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARosenheim&amp;rft.atitle=Rosenheim&amp;rft.btitle=Encyclop%C3%A6dia+Britannica&amp;rft.date=1911&amp;rft.edition=11th&amp;rft.genre=bookitem&amp;rft.pub=Cambridge+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="border.7C30px.7CFlag_of_Bavaria_Urban_and_rural_districts_in_the_Free_State_of_Bavaria_in_Germany_border.7C30px.7CFlag_of_Germany" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Germany_districts_Bavaria" title="Template:Germany districts Bavaria"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Germany_districts_Bavaria" title="Template talk:Germany districts Bavaria"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Germany_districts_Bavaria&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="border.7C30px.7CFlag_of_Bavaria_Urban_and_rural_districts_in_the_Free_State_of_Bavaria_in_Germany_border.7C30px.7CFlag_of_Germany" style="font-size:114%;margin:0 4em"><a href="/wiki/File:Flag_of_Bavaria_(lozengy).svg" class="image" title="Flag of Bavaria"><img alt="Flag of Bavaria" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Bavaria_%28lozengy%29.svg/30px-Flag_of_Bavaria_%28lozengy%29.svg.png" width="30" height="18" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Bavaria_%28lozengy%29.svg/45px-Flag_of_Bavaria_%28lozengy%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Bavaria_%28lozengy%29.svg/60px-Flag_of_Bavaria_%28lozengy%29.svg.png 2x" data-file-width="1000" data-file-height="600" /></a> Urban and rural districts in the <a href="/wiki/Bavaria" title="Bavaria">Free State of Bavaria</a> in Germany <a href="/wiki/File:Flag_of_Germany.svg" class="image" title="Flag of Germany"><img alt="Flag of Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/30px-Flag_of_Germany.svg.png" width="30" height="18" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/45px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/60px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Urban<br />
+districts</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Amberg" title="Amberg">Amberg</a></li>
+<li><a href="/wiki/Ansbach" title="Ansbach">Ansbach</a></li>
+<li><a href="/wiki/Aschaffenburg" title="Aschaffenburg">Aschaffenburg</a></li>
+<li><a href="/wiki/Augsburg" title="Augsburg">Augsburg</a></li>
+<li><a href="/wiki/Bamberg" title="Bamberg">Bamberg</a></li>
+<li><a href="/wiki/Bayreuth" title="Bayreuth">Bayreuth</a></li>
+<li><a href="/wiki/Coburg" title="Coburg">Coburg</a></li>
+<li><a href="/wiki/Erlangen" title="Erlangen">Erlangen</a></li>
+<li><a href="/wiki/F%C3%BCrth" title="Fürth">Fürth</a></li>
+<li><a href="/wiki/Hof,_Bavaria" title="Hof, Bavaria">Hof</a></li>
+<li><a href="/wiki/Ingolstadt" title="Ingolstadt">Ingolstadt</a></li>
+<li><a href="/wiki/Kaufbeuren" title="Kaufbeuren">Kaufbeuren</a></li>
+<li><a href="/wiki/Kempten" title="Kempten">Kempten</a></li>
+<li><a href="/wiki/Landshut" title="Landshut">Landshut</a></li>
+<li><a href="/wiki/Memmingen" title="Memmingen">Memmingen</a></li>
+<li><a href="/wiki/Munich" title="Munich">München (<i>Munich</i>)</a></li>
+<li><a href="/wiki/Nuremberg" title="Nuremberg">Nürnberg (<i>Nuremberg</i>)</a></li>
+<li><a href="/wiki/Passau" title="Passau">Passau</a></li>
+<li><a href="/wiki/Regensburg" title="Regensburg">Regensburg</a></li>
+<li><a class="mw-selflink selflink">Rosenheim</a></li>
+<li><a href="/wiki/Schwabach" title="Schwabach">Schwabach</a></li>
+<li><a href="/wiki/Schweinfurt" title="Schweinfurt">Schweinfurt</a></li>
+<li><a href="/wiki/Straubing" title="Straubing">Straubing</a></li>
+<li><a href="/wiki/Weiden_in_der_Oberpfalz" title="Weiden in der Oberpfalz">Weiden</a></li>
+<li><a href="/wiki/W%C3%BCrzburg" title="Würzburg">Würzburg</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Rural<br />
+districts</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aichach-Friedberg" title="Aichach-Friedberg">Aichach-Friedberg</a></li>
+<li><a href="/wiki/Alt%C3%B6tting_(district)" title="Altötting (district)">Altötting</a></li>
+<li><a href="/wiki/Amberg-Sulzbach" title="Amberg-Sulzbach">Amberg-Sulzbach</a></li>
+<li><a href="/wiki/Ansbach_(district)" title="Ansbach (district)">Ansbach</a></li>
+<li><a href="/wiki/Aschaffenburg_(district)" title="Aschaffenburg (district)">Aschaffenburg</a></li>
+<li><a href="/wiki/Augsburg_(district)" title="Augsburg (district)">Augsburg</a></li>
+<li><a href="/wiki/Bad_Kissingen_(district)" title="Bad Kissingen (district)">Bad Kissingen</a></li>
+<li><a href="/wiki/Bad_T%C3%B6lz-Wolfratshausen" title="Bad Tölz-Wolfratshausen">Bad Tölz-Wolfratshausen</a></li>
+<li><a href="/wiki/Bamberg_(district)" title="Bamberg (district)">Bamberg</a></li>
+<li><a href="/wiki/Bayreuth_(district)" title="Bayreuth (district)">Bayreuth</a></li>
+<li><a href="/wiki/Berchtesgadener_Land" title="Berchtesgadener Land">Berchtesgadener Land</a></li>
+<li><a href="/wiki/Cham_(district)" title="Cham (district)">Cham</a></li>
+<li><a href="/wiki/Coburg_(district)" title="Coburg (district)">Coburg</a></li>
+<li><a href="/wiki/Dachau_(district)" title="Dachau (district)">Dachau</a></li>
+<li><a href="/wiki/Deggendorf_(district)" title="Deggendorf (district)">Deggendorf</a></li>
+<li><a href="/wiki/Dillingen_(district)" title="Dillingen (district)">Dillingen</a></li>
+<li><a href="/wiki/Dingolfing-Landau" title="Dingolfing-Landau">Dingolfing-Landau</a></li>
+<li><a href="/wiki/Donau-Ries" title="Donau-Ries">Donau-Ries</a></li>
+<li><a href="/wiki/Ebersberg_(district)" title="Ebersberg (district)">Ebersberg</a></li>
+<li><a href="/wiki/Eichst%C3%A4tt_(district)" title="Eichstätt (district)">Eichstätt</a></li>
+<li><a href="/wiki/Erding_(district)" title="Erding (district)">Erding</a></li>
+<li><a href="/wiki/Erlangen-H%C3%B6chstadt" title="Erlangen-Höchstadt">Erlangen-Höchstadt</a></li>
+<li><a href="/wiki/Forchheim_(district)" title="Forchheim (district)">Forchheim</a></li>
+<li><a href="/wiki/Freising_(district)" title="Freising (district)">Freising</a></li>
+<li><a href="/wiki/Freyung-Grafenau" title="Freyung-Grafenau">Freyung-Grafenau</a></li>
+<li><a href="/wiki/F%C3%BCrstenfeldbruck_(district)" title="Fürstenfeldbruck (district)">Fürstenfeldbruck</a></li>
+<li><a href="/wiki/F%C3%BCrth_(district)" title="Fürth (district)">Fürth</a></li>
+<li><a href="/wiki/Garmisch-Partenkirchen_(district)" title="Garmisch-Partenkirchen (district)">Garmisch-Partenkirchen</a></li>
+<li><a href="/wiki/G%C3%BCnzburg_(district)" title="Günzburg (district)">Günzburg</a></li>
+<li><a href="/wiki/Ha%C3%9Fberge_(district)" title="Haßberge (district)">Haßberge</a></li>
+<li><a href="/wiki/Hof_(district)" title="Hof (district)">Hof</a></li>
+<li><a href="/wiki/Kelheim_(district)" title="Kelheim (district)">Kelheim</a></li>
+<li><a href="/wiki/Kitzingen_(district)" title="Kitzingen (district)">Kitzingen</a></li>
+<li><a href="/wiki/Kronach_(district)" title="Kronach (district)">Kronach</a></li>
+<li><a href="/wiki/Kulmbach_(district)" title="Kulmbach (district)">Kulmbach</a></li>
+<li><a href="/wiki/Landsberg_(district)" title="Landsberg (district)">Landsberg</a></li>
+<li><a href="/wiki/Landshut_(district)" title="Landshut (district)">Landshut</a></li>
+<li><a href="/wiki/Lichtenfels_(district)" title="Lichtenfels (district)">Lichtenfels</a></li>
+<li><a href="/wiki/Lindau_(district)" title="Lindau (district)">Lindau</a></li>
+<li><a href="/wiki/Main-Spessart" title="Main-Spessart">Main-Spessart</a></li>
+<li><a href="/wiki/Miesbach_(district)" title="Miesbach (district)">Miesbach</a></li>
+<li><a href="/wiki/Miltenberg_(district)" title="Miltenberg (district)">Miltenberg</a></li>
+<li><a href="/wiki/M%C3%BChldorf_(district)" title="Mühldorf (district)">Mühldorf</a></li>
+<li><a href="/wiki/Munich_(district)" title="Munich (district)">München (<i>Munich</i>)</a></li>
+<li><a href="/wiki/Neuburg-Schrobenhausen" title="Neuburg-Schrobenhausen">Neuburg-Schrobenhausen</a></li>
+<li><a href="/wiki/Neumarkt_(district)" title="Neumarkt (district)">Neumarkt</a></li>
+<li><a href="/wiki/Neustadt_(Aisch)-Bad_Windsheim" title="Neustadt (Aisch)-Bad Windsheim">Neustadt (Aisch)-Bad Windsheim</a></li>
+<li><a href="/wiki/Neustadt_an_der_Waldnaab_(district)" title="Neustadt an der Waldnaab (district)">Neustadt an der Waldnaab</a></li>
+<li><a href="/wiki/Neu-Ulm_(district)" title="Neu-Ulm (district)">Neu-Ulm</a></li>
+<li><a href="/wiki/N%C3%BCrnberger_Land" title="Nürnberger Land">Nürnberger Land</a></li>
+<li><a href="/wiki/Oberallg%C3%A4u" title="Oberallgäu">Oberallgäu</a></li>
+<li><a href="/wiki/Ostallg%C3%A4u" title="Ostallgäu">Ostallgäu</a></li>
+<li><a href="/wiki/Passau_(district)" title="Passau (district)">Passau</a></li>
+<li><a href="/wiki/Pfaffenhofen_(district)" title="Pfaffenhofen (district)">Pfaffenhofen</a></li>
+<li><a href="/wiki/Regen_(district)" title="Regen (district)">Regen</a></li>
+<li><a href="/wiki/Regensburg_(district)" title="Regensburg (district)">Regensburg</a></li>
+<li><a href="/wiki/Rh%C3%B6n-Grabfeld" title="Rhön-Grabfeld">Rhön-Grabfeld</a></li>
+<li><a href="/wiki/Rosenheim_(district)" title="Rosenheim (district)">Rosenheim</a></li>
+<li><a href="/wiki/Roth_(district)" title="Roth (district)">Roth</a></li>
+<li><a href="/wiki/Rottal-Inn" title="Rottal-Inn">Rottal-Inn</a></li>
+<li><a href="/wiki/Schwandorf_(district)" title="Schwandorf (district)">Schwandorf</a></li>
+<li><a href="/wiki/Schweinfurt_(district)" title="Schweinfurt (district)">Schweinfurt</a></li>
+<li><a href="/wiki/Starnberg_(district)" title="Starnberg (district)">Starnberg</a></li>
+<li><a href="/wiki/Straubing-Bogen" title="Straubing-Bogen">Straubing-Bogen</a></li>
+<li><a href="/wiki/Tirschenreuth_(district)" title="Tirschenreuth (district)">Tirschenreuth</a></li>
+<li><a href="/wiki/Traunstein_(district)" title="Traunstein (district)">Traunstein</a></li>
+<li><a href="/wiki/Unterallg%C3%A4u" title="Unterallgäu">Unterallgäu</a></li>
+<li><a href="/wiki/Weilheim-Schongau" title="Weilheim-Schongau">Weilheim-Schongau</a></li>
+<li><a href="/wiki/Wei%C3%9Fenburg-Gunzenhausen" title="Weißenburg-Gunzenhausen">Weißenburg-Gunzenhausen</a></li>
+<li><a href="/wiki/Wunsiedel_(district)" title="Wunsiedel (district)">Wunsiedel</a></li>
+<li><a href="/wiki/W%C3%BCrzburg_(district)" title="Würzburg (district)">Würzburg</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/151291540">WorldCat Identities</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/151291540">151291540</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000405817749">0000 0004 0581 7749</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/4050554-6">4050554-6</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.idref.fr/031321828">031321828</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb122559324">cb122559324</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb122559324">(data)</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1321
+Cached time: 20171002065053
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.480 seconds
+Real time usage: 0.613 seconds
+Preprocessor visited node count: 5367/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 66494/2097152 bytes
+Template argument size: 17203/2097152 bytes
+Highest expansion depth: 26/40
+Expensive parser function count: 5/500
+Lua time usage: 0.149/10.000 seconds
+Lua memory usage: 5.24 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  478.925      1 -total
+ 68.75%  329.254      1 Template:Infobox_German_location
+ 65.23%  312.389      1 Template:Infobox_settlement
+ 54.15%  259.344      1 Template:Infobox
+ 21.50%  102.983      7 Template:Population_Germany
+ 18.77%   89.886      7 Template:Metadata_Population_DE-BY
+  8.61%   41.243      1 Template:Cite_web
+  7.08%   33.912      8 Template:Both
+  7.00%   33.513      7 Template:Convert
+  6.60%   31.602      1 Template:Coord
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:252733-0!canonical and timestamp 20171002065052 and revision id 801770847
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Rosenheim&amp;oldid=801770847">https://en.wikipedia.org/w/index.php?title=Rosenheim&amp;oldid=801770847</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Towns_in_Bavaria" title="Category:Towns in Bavaria">Towns in Bavaria</a></li><li><a href="/wiki/Category:Rosenheim" title="Category:Rosenheim">Rosenheim</a></li><li><a href="/wiki/Category:Populated_places_on_the_Inn_(river)" title="Category:Populated places on the Inn (river)">Populated places on the Inn (river)</a></li><li><a href="/wiki/Category:Holocaust_locations_in_Germany" title="Category:Holocaust locations in Germany">Holocaust locations in Germany</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_German-language_sources_(de)" title="Category:CS1 German-language sources (de)">CS1 German-language sources (de)</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Articles_with_German-language_external_links" title="Category:Articles with German-language external links">Articles with German-language external links</a></li><li><a href="/wiki/Category:Wikipedia_articles_incorporating_a_citation_from_the_1911_Encyclopaedia_Britannica_with_Wikisource_reference" title="Category:Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference">Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Rosenheim" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Rosenheim" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Rosenheim" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Rosenheim" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Rosenheim">Read</a></span></li>
+							<li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Rosenheim&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Rosenheim&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Rosenheim" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Rosenheim" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Rosenheim&amp;oldid=801770847" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Rosenheim&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4007" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Rosenheim&amp;id=801770847" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Rosenheim">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Rosenheim&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Rosenheim&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Rosenheim" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikivoyage"><a href="https://en.wikivoyage.org/wiki/Rosenheim" hreflang="en">Wikivoyage</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%B1%D9%88%D8%B2%D9%86%D9%87%D8%A7%D9%8A%D9%85" title="روزنهايم – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-an"><a href="https://an.wikipedia.org/wiki/Rosenheim" title="Rosenheim – Aragonese" lang="an" hreflang="an" class="interlanguage-link-target">Aragonés</a></li><li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D8%B1%D8%B2%D9%86%D9%87%D8%A7%DB%8C%D9%85" title="رزنهایم – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B7%D0%B5%D0%BD%D0%B3%D0%B0%D0%B9%D0%BC" title="Розенгайм – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B7%D0%B5%D0%BD%D1%85%D0%B0%D0%B9%D0%BC" title="Розенхайм – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bar"><a href="https://bar.wikipedia.org/wiki/Rousnam" title="Rousnam – Bavarian" lang="bar" hreflang="bar" class="interlanguage-link-target">Boarisch</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Rosenheim" title="Rosenheim – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Rosenheim_(kapital_sa_distrito)" title="Rosenheim (kapital sa distrito) – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Rosenheim" title="Rosenheim – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Rosenheim" title="Rosenheim – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Rosenheim" title="Rosenheim – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Rosenheim" title="Rosenheim – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Rosenheim" title="Rosenheim – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Rosenheim" title="Rosenheim – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Rosenheim" title="Rosenheim – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%B1%D8%B2%D9%86%D9%87%D8%A7%DB%8C%D9%85" title="رزنهایم – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Rosenheim" title="Rosenheim – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/Rosenheim_(st%C3%AAd)" title="Rosenheim (stêd) – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Rosenheim" title="Rosenheim – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-hak"><a href="https://hak.wikipedia.org/wiki/Rosenheim" title="Rosenheim – Hakka Chinese" lang="hak" hreflang="hak" class="interlanguage-link-target">客家語/Hak-kâ-ngî</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%A1%9C%EC%A0%A0%ED%95%98%EC%9E%84" title="로젠하임 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%8C%D5%B8%D5%A6%D5%A5%D5%B6%D5%B0%D5%A1%D5%B5%D5%B4" title="Ռոզենհայմ – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Rosenheim" title="Rosenheim – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ie"><a href="https://ie.wikipedia.org/wiki/Rosenheim" title="Rosenheim – Interlingue" lang="ie" hreflang="ie" class="interlanguage-link-target">Interlingue</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Rosenheim" title="Rosenheim – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%A0%E1%83%9D%E1%83%96%E1%83%94%E1%83%9C%E1%83%B0%E1%83%90%E1%83%98%E1%83%9B%E1%83%98" title="როზენჰაიმი – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B7%D0%B5%D0%BD%D1%85%D0%B0%D0%B9%D0%BC" title="Розенхайм – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B7%D0%B5%D0%BD%D1%85%D0%B0%D0%B9%D0%BC" title="Розенхайм – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Rosenheimium" title="Rosenheimium – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lmo"><a href="https://lmo.wikipedia.org/wiki/Rosenheim" title="Rosenheim – Lombard" lang="lmo" hreflang="lmo" class="interlanguage-link-target">Lumbaart</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Rosenheim" title="Rosenheim – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Rosenheim" title="Rosenheim – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Rosenheim_(stad)" title="Rosenheim (stad) – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%82%BC%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%A0" title="ローゼンハイム – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Rosenheim" title="Rosenheim – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Rosenheim" title="Rosenheim – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Rosenheim" title="Rosenheim – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Rosenheim_(Bawaria)" title="Rosenheim (Bawaria) – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Rosenheim" title="Rosenheim – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Rosenheim" title="Rosenheim – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B7%D0%B5%D0%BD%D1%85%D0%B0%D0%B9%D0%BC" title="Розенхайм – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Rosenheim" title="Rosenheim – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Rosenheim" title="Rosenheim – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B7%D0%B5%D0%BD%D1%85%D0%B0%D1%98%D0%BC" title="Розенхајм – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Rosenheim" title="Rosenheim – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Rosenheim" title="Rosenheim – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Rosenheim" title="Rosenheim – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B7%D0%B5%D0%BD%D2%BB%D0%B0%D0%B9%D0%BC" title="Розенһайм – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Rosenheim" title="Rosenheim – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B7%D0%B5%D0%BD%D0%B3%D0%B0%D0%B9%D0%BC" title="Розенгайм – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vec"><a href="https://vec.wikipedia.org/wiki/Rosenheim" title="Rosenheim – Venetian" lang="vec" hreflang="vec" class="interlanguage-link-target">Vèneto</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Rosenheim" title="Rosenheim – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/Rosenheim_(Bayern)" title="Rosenheim (Bayern) – Volapük" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Rosenheim" title="Rosenheim – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E7%BD%97%E6%A3%AE%E6%B5%B7%E5%A7%86" title="罗森海姆 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4007#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 21 September 2017, at 19:03.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Rosenheim&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.480","walltime":"0.613","ppvisitednodes":{"value":5367,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":66494,"limit":2097152},"templateargumentsize":{"value":17203,"limit":2097152},"expansiondepth":{"value":26,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  478.925      1 -total"," 68.75%  329.254      1 Template:Infobox_German_location"," 65.23%  312.389      1 Template:Infobox_settlement"," 54.15%  259.344      1 Template:Infobox"," 21.50%  102.983      7 Template:Population_Germany"," 18.77%   89.886      7 Template:Metadata_Population_DE-BY","  8.61%   41.243      1 Template:Cite_web","  7.08%   33.912      8 Template:Both","  7.00%   33.513      7 Template:Convert","  6.60%   31.602      1 Template:Coord"]},"scribunto":{"limitreport-timeusage":{"value":"0.149","limit":"10.000"},"limitreport-memusage":{"value":5493303,"limit":52428800}},"cachereport":{"origin":"mw1321","timestamp":"20171002065053","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":73,"wgHostname":"mw1268"});});</script>
+	</body>
+</html>
