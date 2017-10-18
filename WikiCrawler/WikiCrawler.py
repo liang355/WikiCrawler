@@ -1,5 +1,6 @@
 import urllib2
 import sys
+import os
 
 # Constants:
 MAX_LEVEL = 5
@@ -81,6 +82,9 @@ def crawl_web(seed, numpages):
             link = tocrawl.pop(0)
             page, size = get_page(link)
             if page != '' and link not in crawled:  # ignore invalid links and crawled pages
+                # write current page to file
+                crawledFile = open("crawledFiles/file" + str(len(crawled) + 1) + ".txt", "w")
+                crawledFile.write(page)
                 if size > max_size:
                     max_size = size
                 if size < min_size:
@@ -98,6 +102,6 @@ def crawl_web(seed, numpages):
     file_stats.write('Maximum size: ' + str(max_size) + ' bytes\n')
     file_stats.write('Minimum size: ' + str(min_size) + ' bytes\n')
     file_stats.write('Average size: ' + str(size_sum / len(crawled)) + ' bytes\n')
-    file_stats.write('Maximum depth reach: ' + str(level - 1) + '\n')
+    file_stats.write('Maximum depth reach: ' + str(level) + '\n')
     file_stats.close()
     return crawled
