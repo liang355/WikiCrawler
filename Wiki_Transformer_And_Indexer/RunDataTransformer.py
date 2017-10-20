@@ -1,7 +1,14 @@
-import WikiTransformer
+from WikiTransformer import transform
 
-# input params
+
 FolderName = "CrawledPages"
-NumFilesToProcess = 10
+NumFilesToProcess = 11
 
-WikiTransformer.run_transformer(FolderName, NumFilesToProcess)
+
+# API
+def run_transformer(folder_name, num_files_to_process):
+    transform(folder_name, num_files_to_process)
+
+
+# run transform function for testing
+transform(FolderName, NumFilesToProcess)
