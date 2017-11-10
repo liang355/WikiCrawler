@@ -14,9 +14,9 @@ def create_index(filename):
         parts = re.split(r'file.*\.txt\n', text)
         parts = parts[1:len(parts)]
         # open output file as write mode
-        term_file = open('Out/TermIDFile.txt', 'w')
-        doc_file = open('Out/DocumentIDFile.txt', 'w')
-        inverted_file = open('Out/InvertedIndex.txt', 'w')
+        term_file = open('IndexFiles/TermIDFile.txt', 'w')
+        doc_file = open('IndexFiles/DocumentIDFile.txt', 'w')
+        inverted_file = open('IndexFiles/InvertedIndex.txt', 'w')
 
         # create <term, frequency>, <termid, term>, <doc, length>, <docid, doc> map and inverted_index map
         term_freq_map = {}
@@ -78,17 +78,17 @@ def create_index(filename):
         inverted_file.close()
 
         # write to stats.txt
-        with open('Out/TermIDFile.txt', 'r') as read_term_file:
+        with open('IndexFiles/TermIDFile.txt', 'r') as read_term_file:
             data = read_term_file.read()
             term_file_size = sys.getsizeof(data)
             indices = data.split('\n')
             term_index_size = len(indices) - 2
-        with open('Out/DocumentIDFile.txt', 'r') as read_doc_file:
+        with open('IndexFiles/DocumentIDFile.txt', 'r') as read_doc_file:
             data = read_doc_file.read()
             doc_file_size = sys.getsizeof(data)
             indices = data.split('\n')
             doc_index_size = len(indices) - 2
-        with open('Out/InvertedIndex.txt', 'r') as read_inverted_file:
+        with open('IndexFiles/InvertedIndex.txt', 'r') as read_inverted_file:
             data = read_inverted_file.read()
             inverted_file_size = sys.getsizeof(data)
             indices = data.split('\n')
@@ -96,7 +96,7 @@ def create_index(filename):
         total_index_file_size = term_file_size + doc_file_size + inverted_file_size
         total_index_size = term_index_size + doc_index_size + inverted_index_size
         print(total_index_file_size)
-        with open('Out/stats.txt', 'a') as append_stats_file:
+        with open('IndexFiles/stats.txt', 'a') as append_stats_file:
             append_stats_file.write('Total size of the three index files (in bytes): ' + str(total_index_file_size) + '\n')
             append_stats_file.write('Ratio of the index size to the total file size: ' + str(total_index_size / (total_index_file_size * 1.0)))
 

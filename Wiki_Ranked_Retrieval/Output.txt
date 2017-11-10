@@ -1,0 +1,550 @@
+what is the weather in Chicago
+['what', 'is', 'the', 'weather', 'in', 'Chicago']
+55	file149.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Leni Riefenstahl - Wikipedia</title>
+<script>document.documentElement.className = document.document
+cosine score: 0.575755237071
+what: 0.0; Chicago: 0.177778543644; is: 0.0; weather: 0.153130102552; in: 0.0; the: 0.0
+
+32	file128.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Seven Years' War - Wikipedia</title>
+<script>document.documentElement.className = document.document
+cosine score: 0.541852803773
+what: 0.0; Chicago: 0.112165772731; is: 0.0; weather: 0.242705470276; in: 0.0; the: 0.0
+
+31	file127.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>War of the Austrian Succession - Wikipedia</title>
+<script>document.documentElement.className = doc
+cosine score: 0.408248290464
+what: 0.0; Chicago: 0.0; is: 0.0; weather: 0.242705470276; in: 0.0; the: 0.0
+
+42	file137.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Napoleon - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.
+cosine score: 0.408248290464
+what: 0.0; Chicago: 0.112165772731; is: 0.0; weather: 0.0; in: 0.0; the: 0.0
+
+20	file117.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Lutheranism - Wikipedia</title>
+<script>document.documentElement.className = document.documentEleme
+cosine score: 0.408248290464
+what: 0.0; Chicago: 0.177778543644; is: 0.0; weather: 0.0; in: 0.0; the: 0.0
+
+
+
+
+Who is Gerald Salton
+['Who', 'is', 'Gerald', 'Salton']
+54	file148.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Propaganda in Nazi Germany - Wikipedia</title>
+<script>document.documentElement.className = documen
+cosine score: 0.5
+Gerald: 0.234675308608; is: 0.0; Who: 0.0; Salton: 0.0
+
+48	file142.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Zollverein - Wikipedia</title>
+<script>document.documentElement.className = document.documentElemen
+cosine score: 0.5
+Gerald: 0.0; is: 0.0; Who: 0.153130102552; Salton: 0.0
+
+23	file12.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>SMART Information Retrieval System - Wikipedia</title>
+<script>document.documentElement.className =
+cosine score: 0.5
+Gerald: 0.0; is: 0.0; Who: 0.0; Salton: 0.20520535201
+
+1	file10.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Amit Singhal - Wikipedia</title>
+<script>document.documentElement.className = document.documentElem
+cosine score: 0.5
+Gerald: 0.0; is: 0.0; Who: 0.0; Salton: 0.476472072052
+
+0	file1.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Gerard Salton - Wikipedia</title>
+<script>document.documentElement.className = document.documentEle
+cosine score: 0.5
+Gerald: 0.0; is: 0.0; Who: 0.0; Salton: 0.915099235065
+
+
+
+
+computer science
+['computer', 'science']
+6	file104.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Vienna - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.cl
+cosine score: 0.999897859593
+science: 0.121352735138; computer: 0.124872220209
+
+34	file13.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Nuremberg - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement
+cosine score: 0.999897859593
+science: 0.121352735138; computer: 0.124872220209
+
+56	file15.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Applied mathematics - Wikipedia</title>
+<script>document.documentElement.className = document.docum
+cosine score: 0.998566335134
+science: 0.355557087287; computer: 0.395835572827
+
+23	file12.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>SMART Information Retrieval System - Wikipedia</title>
+<script>document.documentElement.className =
+cosine score: 0.99487371343
+science: 0.153130102552; computer: 0.124872220209
+
+12	file11.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Computer science - Wikipedia</title>
+<script>document.documentElement.className = document.document
+cosine score: 0.973631158573
+science: 0.548195916028; computer: 0.883697675616
+
+
+
+
+Cornell University
+['Cornell', 'University']
+23	file12.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>SMART Information Retrieval System - Wikipedia</title>
+<script>document.documentElement.className =
+cosine score: 0.707106781187
+Cornell: 0.264871559266; University: 0.0
+
+1	file10.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Amit Singhal - Wikipedia</title>
+<script>document.documentElement.className = document.documentElem
+cosine score: 0.707106781187
+Cornell: 0.529743118532; University: 0.0
+
+0	file1.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Gerard Salton - Wikipedia</title>
+<script>document.documentElement.className = document.documentEle
+cosine score: 0.707106781187
+Cornell: 0.388029820716; University: 0.0
+
+32	file128.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Seven Years' War - Wikipedia</title>
+<script>document.documentElement.className = document.document
+cosine score: 0.707106781187
+Cornell: 0.167115347616; University: 0.0
+
+50	file144.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Nazi Germany - Wikipedia</title>
+<script>document.documentElement.className = document.documentElem
+cosine score: 0.707106781187
+Cornell: 0.167115347616; University: 0.0
+
+
+
+
+Harvard University
+['Harvard', 'University']
+42	file137.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Napoleon - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.
+cosine score: 0.707106781187
+University: 0.0; Harvard: 0.224331545463
+
+45	file14.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Brooklyn College - Wikipedia</title>
+<script>document.documentElement.className = document.document
+cosine score: 0.707106781187
+University: 0.0; Harvard: 0.0966143378672
+
+0	file1.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Gerard Salton - Wikipedia</title>
+<script>document.documentElement.className = document.documentEle
+cosine score: 0.707106781187
+University: 0.0; Harvard: 0.193228675734
+
+7	file105.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Guild - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.cla
+cosine score: 0.707106781187
+University: 0.0; Harvard: 0.0966143378672
+
+51	file145.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Nazi Party - Wikipedia</title>
+<script>document.documentElement.className = document.documentElemen
+cosine score: 0.707106781187
+University: 0.0; Harvard: 0.0966143378672
+
+
+
+
+military defense
+['military', 'defense']
+54	file148.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Propaganda in Nazi Germany - Wikipedia</title>
+<script>document.documentElement.className = documen
+cosine score: 0.707106781187
+military: 0.0; defense: 0.124872220209
+
+42	file137.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Napoleon - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.
+cosine score: 0.707106781187
+military: 0.0; defense: 0.197917786414
+
+43	file138.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Teutonic Order - Wikipedia</title>
+<script>document.documentElement.className = document.documentEl
+cosine score: 0.707106781187
+military: 0.0; defense: 0.124872220209
+
+25	file121.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Catholic League (German) - Wikipedia</title>
+<script>document.documentElement.className = document.
+cosine score: 0.707106781187
+military: 0.0; defense: 0.124872220209
+
+26	file122.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Gustavus Adolphus of Sweden - Wikipedia</title>
+<script>document.documentElement.className = docume
+cosine score: 0.707106781187
+military: 0.0; defense: 0.124872220209
+
+
+
+
+valuable units at war
+['valuable', 'units', 'at', 'war']
+26	file122.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Gustavus Adolphus of Sweden - Wikipedia</title>
+<script>document.documentElement.className = docume
+cosine score: 0.70663230394
+units: 0.197917786414; at: 0.0; valuable: 0.18392253741; war: 0.0
+
+54	file148.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Propaganda in Nazi Germany - Wikipedia</title>
+<script>document.documentElement.className = documen
+cosine score: 0.5
+units: 0.0; at: 0.0; valuable: 0.18392253741; war: 0.0
+
+42	file137.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Napoleon - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.
+cosine score: 0.5
+units: 0.350560642033; at: 0.0; valuable: 0.0; war: 0.0
+
+48	file142.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Zollverein - Wikipedia</title>
+<script>document.documentElement.className = document.documentElemen
+cosine score: 0.5
+units: 0.124872220209; at: 0.0; valuable: 0.0; war: 0.0
+
+21	file118.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Charles V, Holy Roman Emperor - Wikipedia</title>
+<script>document.documentElement.className = docu
+cosine score: 0.5
+units: 0.124872220209; at: 0.0; valuable: 0.0; war: 0.0
+
+
+
+
+administrative responsibilities Beer
+['administrative', 'responsibilities', 'Beer']
+50	file144.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Nazi Germany - Wikipedia</title>
+<script>document.documentElement.className = document.documentElem
+cosine score: 0.988835022106
+responsibilities: 0.325242787883; administrative: 0.224331545463; Beer: 0.271230736953
+
+51	file145.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Nazi Party - Wikipedia</title>
+<script>document.documentElement.className = document.documentElemen
+cosine score: 0.815803059566
+responsibilities: 0.0; administrative: 0.249744440419; Beer: 0.271230736953
+
+53	file147.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Adolf Hitler's rise to power - Wikipedia</title>
+<script>document.documentElement.className = docum
+cosine score: 0.760330624512
+responsibilities: 0.20520535201; administrative: 0.0; Beer: 0.46915209368
+
+48	file142.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Zollverein - Wikipedia</title>
+<script>document.documentElement.className = document.documentElemen
+cosine score: 0.57735026919
+responsibilities: 0.0; administrative: 0.0966143378672; Beer: 0.0
+
+43	file138.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Teutonic Order - Wikipedia</title>
+<script>document.documentElement.className = document.documentEl
+cosine score: 0.57735026919
+responsibilities: 0.0; administrative: 0.193228675734; Beer: 0.0
+
+
+
+
+Austria invasion
+['Austria', 'invasion']
+54	file148.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Propaganda in Nazi Germany - Wikipedia</title>
+<script>document.documentElement.className = documen
+cosine score: 0.707106781187
+invasion: 0.193228675734; Austria: 0.0
+
+42	file137.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Napoleon - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.
+cosine score: 0.707106781187
+invasion: 0.410410704019; Austria: 0.0
+
+20	file117.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Lutheranism - Wikipedia</title>
+<script>document.documentElement.className = document.documentEleme
+cosine score: 0.707106781187
+invasion: 0.0966143378672; Austria: 0.0
+
+40	file135.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Kingdom of Bavaria - Wikipedia</title>
+<script>document.documentElement.className = document.docume
+cosine score: 0.707106781187
+invasion: 0.224331545463; Austria: 0.0
+
+51	file145.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Nazi Party - Wikipedia</title>
+<script>document.documentElement.className = document.documentElemen
+cosine score: 0.707106781187
+invasion: 0.0966143378672; Austria: 0.0
+
+
+
+
+Nazi in Poland and Czech
+['Nazi', 'in', 'Poland', 'and', 'Czech']
+43	file138.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Teutonic Order - Wikipedia</title>
+<script>document.documentElement.className = document.documentEl
+cosine score: 0.772652778763
+and: 0.0; Czech: 0.197917786414; Poland: 0.232229706344; Nazi: 0.229695153827; in: 0.0
+
+6	file104.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Vienna - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.cl
+cosine score: 0.756343369513
+and: 0.0; Czech: 0.254343594919; Poland: 0.144921506801; Nazi: 0.214945273557; in: 0.0
+
+29	file125.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Baroque architecture - Wikipedia</title>
+<script>document.documentElement.className = document.docu
+cosine score: 0.748008133354
+and: 0.0; Czech: 0.153130102552; Poland: 0.135615368476; Nazi: 0.0765650512758; in: 0.0
+
+19	file116.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Reformation - Wikipedia</title>
+<script>document.documentElement.className = document.documentEleme
+cosine score: 0.737254603955
+and: 0.0; Czech: 0.306260205103; Poland: 0.173179389143; Nazi: 0.153130102552; in: 0.0
+
+37	file132.txt
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>France - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.cl
+cosine score: 0.717137165601
+and: 0.0; Czech: 0.229695153827; Poland: 0.153130102552; Nazi: 0.0765650512758; in: 0.0
+
+
+
+

@@ -1,0 +1,2 @@
+1. The hardest part is calculating normalized cosine scores and format the output; The easiest part is none
+2. The program might take a little while to run, about 1 min, during which there should be no console output

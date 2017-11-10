@@ -1,11 +1,15 @@
+import os
 from WikiIndexer import create_index
-from RunDataTransformer import run_transformer
+from WikiTransformer import transform_data
+
+# move up current working directory by one level
+os.chdir('..')
 
 
 # input params
 FolderName = "CrawledPages"
 NumFilesToProcess = 60
-Filename = 'Out/Tokens.txt'
+Filename = 'IndexFiles/Tokens.txt'
 
-run_transformer(FolderName, NumFilesToProcess)
+transform_data(FolderName, NumFilesToProcess)
 create_index(Filename)
