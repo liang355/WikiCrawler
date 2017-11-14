@@ -7,9 +7,9 @@ os.chdir('..')
 
 
 # input params
-FolderName = "CrawledPages"
+CrawledDocsFolder = "CrawledPages"
 NumFilesToProcess = 60
 Filename = 'IndexFiles/Tokens.txt'
 
-transform_data(FolderName, NumFilesToProcess)
+transform_data(CrawledDocsFolder, NumFilesToProcess)
 create_index(Filename)
