@@ -1,0 +1,891 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Hagen - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Hagen","wgTitle":"Hagen","wgCurRevisionId":797999478,"wgRevisionId":797999478,"wgArticleId":179115,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 German-language sources (de)","Articles needing additional references from December 2016","All articles needing additional references","Coordinates on Wikidata","Articles with hAudio microformats","All articles with unsourced statements","Articles with unsourced statements from December 2016","Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference","Wikipedia articles with VIAF identifiers","Wikipedia articles with GND identifiers","Cities in North Rhine-Westphalia","Hagen","Members of the Hanseatic League"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Hagen","wgRelevantArticleId":179115,"wgRequestId":"WebYSwpAMEsAADBSlK0AAAAN","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCoordinates":{"lat":51.366666666667,"lon":7.4833333333333},"wgWikibaseItemId":"Q2871","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.math.scripts","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.3"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Hagen_Rathausplatz.jpg/1200px-Hagen_Rathausplatz.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Hagen"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Hagen&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Hagen&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Hagen"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Hagen rootpage-Hagen vector-experimental-print-styles vector-nav-directionality skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Hagen</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Hagen&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(December 2016)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<div role="note" class="hatnote navigation-not-searchable">For other uses, see <a href="/wiki/Hagen_(disambiguation)" class="mw-disambig" title="Hagen (disambiguation)">Hagen (disambiguation)</a>.</div>
+<table class="infobox geography vcard" style="width:22em;width:23em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap"><span class="fn org"><span class="wrap">Hagen</span></span></th>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Hagen_Rathausplatz.jpg" class="image" title="Old Town Hall (right) and Square. In the center the Volme Galerie (City Mall)."><img alt="Old Town Hall (right) and Square. In the center the Volme Galerie (City Mall)." src="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Hagen_Rathausplatz.jpg/250px-Hagen_Rathausplatz.jpg" width="250" height="175" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Hagen_Rathausplatz.jpg/375px-Hagen_Rathausplatz.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/27/Hagen_Rathausplatz.jpg/500px-Hagen_Rathausplatz.jpg 2x" data-file-width="1500" data-file-height="1050" /></a>
+<div>Old Town Hall (right) and Square. In the center the Volme Galerie (City Mall).</div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" class="maptable" style="text-align:center">
+<table style="width:100%; background:none;">
+<tr>
+<td style="vertical-align:middle; text-align:center;"><a href="/wiki/File:Flagge_der_Stadt_Hagen.svg" class="image" title="Flag of Hagen "><img alt="Flag of Hagen " src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Flagge_der_Stadt_Hagen.svg/100px-Flagge_der_Stadt_Hagen.svg.png" width="100" height="60" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Flagge_der_Stadt_Hagen.svg/150px-Flagge_der_Stadt_Hagen.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Flagge_der_Stadt_Hagen.svg/200px-Flagge_der_Stadt_Hagen.svg.png 2x" data-file-width="900" data-file-height="540" /></a><br />
+<small>Flag</small></td>
+<td style="vertical-align:middle; text-align:center;"><a href="/wiki/File:Stadtwappen_der_Stadt_Hagen.svg" class="image" title="Coat of arms of Hagen "><img alt="Coat of arms of Hagen " src="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Stadtwappen_der_Stadt_Hagen.svg/63px-Stadtwappen_der_Stadt_Hagen.svg.png" width="63" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Stadtwappen_der_Stadt_Hagen.svg/95px-Stadtwappen_der_Stadt_Hagen.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/47/Stadtwappen_der_Stadt_Hagen.svg/127px-Stadtwappen_der_Stadt_Hagen.svg.png 2x" data-file-width="476" data-file-height="600" /></a><br />
+<small>Coat of arms</small></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center">
+<div class="center">
+<div style="width:170px;float:none;clear:both;margin-left:auto;margin-right:auto">
+<div style="width:170px;padding:0">
+<div style="position:relative;width:170px"><a href="/wiki/File:Germany_adm_location_map.svg" class="image" title="Hagen  is located in Germany"><img alt="Hagen  is located in Germany" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/170px-Germany_adm_location_map.svg.png" width="170" height="202" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/255px-Germany_adm_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/340px-Germany_adm_location_map.svg.png 2x" data-file-width="1073" data-file-height="1272" /></a>
+<div style="position:absolute;top:47.253%;left:19.83%">
+<div style="position:absolute;left:-3px;top:-3px;line-height:0"><img alt="Hagen " src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png" title="Hagen " width="6" height="6" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/9px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div>
+<div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:4px;text-align:left"><span style="padding:1px;float:left"><span class="wrap">Hagen</span></span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr class="mergedbottomrow">
+<td colspan="2" style="text-align:center">Coordinates: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Hagen&amp;params=51_22_N_7_29_E_type:city(189044)_region:DE-NW"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">51°22′N</span> <span class="longitude">7°29′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">51.367°N 7.483°E</span><span style="display:none">﻿ / <span class="geo">51.367; 7.483</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Hagen&amp;params=51_22_N_7_29_E_type:city(189044)_region:DE-NW"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">51°22′N</span> <span class="longitude">7°29′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">51.367°N 7.483°E</span><span style="display:none">﻿ / <span class="geo">51.367; 7.483</span></span></span></a></span></span></span></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Country</th>
+<td><a href="/wiki/Germany" title="Germany">Germany</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/States_of_Germany" title="States of Germany">State</a></th>
+<td><a href="/wiki/North_Rhine-Westphalia" title="North Rhine-Westphalia">North Rhine-Westphalia</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Regierungsbezirk" title="Regierungsbezirk">Admin. region</a></th>
+<td><a href="/wiki/Arnsberg_(region)" title="Arnsberg (region)">Arnsberg</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Districts_of_Germany" title="Districts of Germany">District</a></th>
+<td><a href="/wiki/Urban_districts_of_Germany" class="mw-redirect" title="Urban districts of Germany">Urban districts of Germany</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Government</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;<a href="/wiki/Lord_Mayor" class="mw-redirect" title="Lord Mayor">Lord Mayor</a></th>
+<td>Erik O. Schulz (<a href="/wiki/Independent_politician" title="Independent politician">independent</a>)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Area</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Total</th>
+<td>160.4&#160;km<sup>2</sup> (61.9&#160;sq&#160;mi)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Elevation</th>
+<td>106&#160;m (348&#160;ft)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Population <span style="font-weight:normal">(2015-12-31)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></span></th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Total</th>
+<td>189,044</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Density</th>
+<td>1,200/km<sup>2</sup> (3,100/sq&#160;mi)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/Time_zone" title="Time zone">Time zone</a></th>
+<td><a href="/wiki/Central_European_Time" title="Central European Time">CET</a>/<a href="/wiki/Central_European_Summer_Time" title="Central European Summer Time">CEST</a> (UTC+1/+2)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/List_of_postal_codes_in_Germany" title="List of postal codes in Germany">Postal codes</a></th>
+<td class="adr"><span class="postal-code">58000-58139</span></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/List_of_dialling_codes_in_Germany" title="List of dialling codes in Germany">Dialling codes</a></th>
+<td>02331, 02334, 02337</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Vehicle_registration_plate" title="Vehicle registration plate">Vehicle registration</a></th>
+<td>HA</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Website</th>
+<td><a rel="nofollow" class="external text" href="http://www.hagen.de/">www.hagen.de</a></td>
+</tr>
+</table>
+<p><b>Hagen</b> (<small>German pronunciation:</small> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA/Standard_German" title="Help:IPA/Standard German">[ˈhaːɡn̩]</a></span><small class="nowrap metadata">&#160;(<span class="unicode haudio"><span class="fn"><span style="white-space:nowrap"><a href="/wiki/File:De-Hagen.ogg" title="About this sound"><img alt="About this sound" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" data-file-width="20" data-file-height="20" /></a>&#160;</span><a href="//upload.wikimedia.org/wikipedia/commons/c/ca/De-Hagen.ogg" class="internal" title="De-Hagen.ogg">listen</a></span></span>)</small>) is the <a href="/wiki/Largest_cities_in_Germany" class="mw-redirect" title="Largest cities in Germany">41st-largest</a> <a href="/wiki/City" title="City">city</a> in <a href="/wiki/Germany" title="Germany">Germany</a>. The municipality is located in the <a href="/wiki/States_of_Germany" title="States of Germany">state</a> of <a href="/wiki/North_Rhine-Westphalia" title="North Rhine-Westphalia">North Rhine-Westphalia</a>. It is located on the south eastern edge of the <a href="/wiki/Ruhr_area" class="mw-redirect" title="Ruhr area">Ruhr area</a>, 15&#160;km south of <a href="/wiki/Dortmund" title="Dortmund">Dortmund</a>, where the rivers <a href="/wiki/Lenne" title="Lenne">Lenne</a> and <a href="/wiki/Volme" title="Volme">Volme</a> (met by the river <a href="/wiki/Ennepe" title="Ennepe">Ennepe</a>) meet the river <a href="/wiki/Ruhr_(river)" title="Ruhr (river)">Ruhr</a>. As of 31 December 2010, the population was 188,529. The city is home to the <a href="/wiki/FernUniversit%C3%A4t_Hagen" class="mw-redirect" title="FernUniversität Hagen">FernUniversität Hagen</a>, which is the only state funded <a href="/wiki/Distance_education" title="Distance education">distance education</a> university in Germany. Counting more than 67,000 students (March 2010), it is the largest university in Germany.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Economy"><span class="tocnumber">2</span> <span class="toctext">Economy</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Education"><span class="tocnumber">3</span> <span class="toctext">Education</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Attractions"><span class="tocnumber">4</span> <span class="toctext">Attractions</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Boroughs"><span class="tocnumber">5</span> <span class="toctext">Boroughs</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Demographics"><span class="tocnumber">6</span> <span class="toctext">Demographics</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Lord_mayors"><span class="tocnumber">7</span> <span class="toctext">Lord mayors</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Traffic"><span class="tocnumber">8</span> <span class="toctext">Traffic</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Sport"><span class="tocnumber">9</span> <span class="toctext">Sport</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#International_relations"><span class="tocnumber">10</span> <span class="toctext">International relations</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Personalities"><span class="tocnumber">11</span> <span class="toctext">Personalities</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#See_also"><span class="tocnumber">12</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#References"><span class="tocnumber">13</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#External_links"><span class="tocnumber">14</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hagen&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Hengsteysee_Panorama.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Hengsteysee_Panorama.jpg/220px-Hengsteysee_Panorama.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Hengsteysee_Panorama.jpg/330px-Hengsteysee_Panorama.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Hengsteysee_Panorama.jpg/440px-Hengsteysee_Panorama.jpg 2x" data-file-width="800" data-file-height="600" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Hengsteysee_Panorama.jpg" class="internal" title="Enlarge"></a></div>
+<i><a href="/wiki/Hengsteysee" title="Hengsteysee">Hengsteysee</a></i></div>
+</div>
+</div>
+<p>Hagen was first mentioned c.1200, presumably the name of a farm at the junction of the Volme and the Ennepe. After the conquest of <a href="/w/index.php?title=Burg_Volmarstein&amp;action=edit&amp;redlink=1" class="new" title="Burg Volmarstein (page does not exist)">Burg Volmarstein</a> in 1324, Hagen passed to the <a href="/wiki/County_of_Mark" title="County of Mark">County of Mark</a>. In 1614 it was awarded to the <a href="/wiki/Margraviate_of_Brandenburg" title="Margraviate of Brandenburg">Margraviate of Brandenburg</a> according to the <a href="/wiki/Treaty_of_Xanten" title="Treaty of Xanten">Treaty of Xanten</a>. In 1701 it became part of the <a href="/wiki/Kingdom_of_Prussia" title="Kingdom of Prussia">Kingdom of Prussia</a>.</p>
+<p>After the defeat of Prussia in the <a href="/wiki/Fourth_Coalition" class="mw-redirect" title="Fourth Coalition">Fourth Coalition</a>, Hagen was incorporated into the <a href="/wiki/Grand_Duchy_of_Berg" title="Grand Duchy of Berg">Grand Duchy of Berg</a> from 1807–13. In 1815 it became part of the new Prussian <a href="/wiki/Province_of_Westphalia" title="Province of Westphalia">Province of Westphalia</a>.</p>
+<p>The growth of the city began in the 19th century with the mining of <a href="/wiki/Coal" title="Coal">coal</a> and the production of <a href="/wiki/Steel" title="Steel">steel</a> in the <a href="/wiki/Ruhr_Area" class="mw-redirect" title="Ruhr Area">Ruhr Area</a>. Hagen was the scene of fighting during the <a href="/wiki/Ruhr_Uprising" class="mw-redirect" title="Ruhr Uprising">Ruhr Uprising</a>, 13 March - 2 April 1920 and has a monument to the <a href="/wiki/Ruhr_Red_Army" title="Ruhr Red Army">Ruhr Red Army</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2016)">citation needed</span></a></i>]</sup></p>
+<p>In 1928, Hagen developed into a city of more than 100,000 inhabitants.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2016)">citation needed</span></a></i>]</sup></p>
+<p>During <a href="/wiki/World_War_II" title="World War II">World War II</a>, Hagen was bombed repeatedly, by both the <a href="/wiki/Royal_Air_Force" title="Royal Air Force">Royal Air Force</a> and the <a href="/wiki/Eighth_Air_Force#World_War_II_.281944.E2.80.931945.29" title="Eighth Air Force">Eighth Air Force</a>. On the night of 1 October 1943, 243 <a href="/wiki/Avro_Lancaster" title="Avro Lancaster">Lancasters</a> and 8 <a href="/wiki/De_Havilland_Mosquito" title="De Havilland Mosquito">Mosquitoes</a> from the <a href="/wiki/Royal_Air_Force" title="Royal Air Force">Royal Air Force</a>'s <a href="/wiki/Bomber_Command" title="Bomber Command">Bomber Command</a> attacked the city. According to the Bomber Command Campaign Diary, "This raid was a complete success achieved on a completely cloud-covered target of small size, with only a moderate bomber effort and at trifling cost."<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2016)">citation needed</span></a></i>]</sup> Hagen sustained severe damage from that raid, and hundreds of <a href="/wiki/German_casualties_in_World_War_II#Air_raid_deaths" title="German casualties in World War II">civilians were killed</a>.</p>
+<p>After World War II, the town became part of the new state of <a href="/wiki/North_Rhine-Westphalia" title="North Rhine-Westphalia">North Rhine-Westphalia</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2016)">citation needed</span></a></i>]</sup></p>
+<h2><span class="mw-headline" id="Economy">Economy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hagen&amp;action=edit&amp;section=2" title="Edit section: Economy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Owing to the extensive use of water power along the rivers Ruhr, Lenne, Volme and Ennepe, metal processing played an important role in the region of Hagen in and even before the 15th century.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2016)">citation needed</span></a></i>]</sup> In the 17th and 18th century, <a href="/wiki/Textile" title="Textile">textile</a> and steel industries as well as <a href="/wiki/Paper" title="Paper">paper</a> production followed.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2016)">citation needed</span></a></i>]</sup></p>
+<p>Hagen is the home of the Suedwestfaelische Industrie- und Handelskammer, as well as <a href="/wiki/Sparkasse_Hagen" title="Sparkasse Hagen">Sparkasse Hagen</a>, the local <a href="/wiki/German_public_bank" title="German public bank">municipal savings bank</a>. The bank's former headquarters, the <a href="/wiki/Sparkasse_Hagen_tower" title="Sparkasse Hagen tower">Sparkasse Hagen tower</a>, was a regional landmark until its demolition in 2004.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2016)">citation needed</span></a></i>]</sup></p>
+<p>The city is heavily indebted and in the process of cutting city services in order to balance its budget.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2016)">citation needed</span></a></i>]</sup></p>
+<h2><span class="mw-headline" id="Education">Education</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hagen&amp;action=edit&amp;section=3" title="Edit section: Education">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>One of the five branches of <a href="/wiki/South_Westphalia_University_of_Applied_Sciences" title="South Westphalia University of Applied Sciences">South Westphalia University of Applied Sciences</a> is located in the city (also: Fachhochschule Südwestfalen (FH SWF)) which offers various engineering programmes.The inception of this institution in the city dates back to 1824.</p>
+<h2><span class="mw-headline" id="Attractions">Attractions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hagen&amp;action=edit&amp;section=4" title="Edit section: Attractions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Hagen is home to the <i>LWL-Freilichtmuseum Hagen</i>, or <a href="/wiki/Hagen_Westphalian_Open-Air_Museum" class="mw-redirect" title="Hagen Westphalian Open-Air Museum">Hagen Westphalian Open-Air Museum</a>, a collection of historic industrial facilities where trades such as printing, brewing, smithing, milling, and many others are represented not simply as static displays, but as living, working operations that visitors may in some cases even be invited to participate in. It is located near the Hagen community of <a href="/w/index.php?title=Eilpe&amp;action=edit&amp;redlink=1" class="new" title="Eilpe (page does not exist)">Eilpe</a>. The <a href="/wiki/Historisches_Centrum_Hagen" title="Historisches Centrum Hagen">Historisches Centrum Hagen</a> includes the <a href="/wiki/City_museum" class="mw-redirect" title="City museum">city museum</a> and <a href="/w/index.php?title=Werdringen&amp;action=edit&amp;redlink=1" class="new" title="Werdringen (page does not exist)">Werdringen</a> castle. In the <a href="/w/index.php?title=Bl%C3%A4tterh%C3%B6hle&amp;action=edit&amp;redlink=1" class="new" title="Blätterhöhle (page does not exist)">Blätterhöhle</a> cave in Hagen the oldest fossils of modern people in <a href="/wiki/Westphalia" title="Westphalia">Westphalia</a> and the <a href="/wiki/Ruhr" title="Ruhr">Ruhr</a> were found. Some date back to the early <a href="/wiki/Mesolithic" title="Mesolithic">Mesolithic</a>, 10,700 years B.C. It seems that the descendants of Mesolithic people in this area maintained a foraging lifestyle for more than 2000 years after the arrival of farming societies.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p>
+<div class="center">
+<div class="thumb tnone">
+<div class="thumbinner" style="width:702px;"><a href="/wiki/File:Stadt.Hagen.Panorama.Sommer.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Stadt.Hagen.Panorama.Sommer.jpg/700px-Stadt.Hagen.Panorama.Sommer.jpg" width="700" height="180" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Stadt.Hagen.Panorama.Sommer.jpg/1050px-Stadt.Hagen.Panorama.Sommer.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Stadt.Hagen.Panorama.Sommer.jpg/1400px-Stadt.Hagen.Panorama.Sommer.jpg 2x" data-file-width="3657" data-file-height="941" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Stadt.Hagen.Panorama.Sommer.jpg" class="internal" title="Enlarge"></a></div>
+Panoramic view of Hagen (taken from urban forest of Hagen)</div>
+</div>
+</div>
+</div>
+<h2><span class="mw-headline" id="Boroughs">Boroughs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hagen&amp;action=edit&amp;section=5" title="Edit section: Boroughs">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Lange_Riege.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Lange_Riege.jpg/220px-Lange_Riege.jpg" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Lange_Riege.jpg/330px-Lange_Riege.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/71/Lange_Riege.jpg/440px-Lange_Riege.jpg 2x" data-file-width="1506" data-file-height="1004" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Lange_Riege.jpg" class="internal" title="Enlarge"></a></div>
+Half-timbered houses "Lange Riege" (17th century)</div>
+</div>
+</div>
+<table class="wikitable" style="text-align:right; font-size:90%">
+<tr style="text-align:center;">
+<th><b>Borough</b></th>
+<th>Population<br />
+<small>Oct 2007</small></th>
+<th>Area<br />
+in km²</th>
+</tr>
+<tr>
+<td align="left"><a href="/w/index.php?title=Hagen-Mitte&amp;action=edit&amp;redlink=1" class="new" title="Hagen-Mitte (page does not exist)">Hagen-Mitte</a></td>
+<td>78.952</td>
+<td>20,5</td>
+</tr>
+<tr>
+<td align="left"><a href="/w/index.php?title=Hagen-Nord&amp;action=edit&amp;redlink=1" class="new" title="Hagen-Nord (page does not exist)">Hagen-Nord</a></td>
+<td>38.451</td>
+<td>29,6</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Hagen-Haspe" title="Hagen-Haspe">Hagen-Haspe</a></td>
+<td>30.360</td>
+<td>22,2</td>
+</tr>
+<tr>
+<td align="left"><a href="/w/index.php?title=Hagen-Eilpe&amp;action=edit&amp;redlink=1" class="new" title="Hagen-Eilpe (page does not exist)">Hagen-Eilpe</a>/<a href="/wiki/Hagen-Dahl" title="Hagen-Dahl">Hagen-Dahl</a></td>
+<td>17.148</td>
+<td>51,1</td>
+</tr>
+<tr>
+<td align="left"><a href="/wiki/Hagen-Hohenlimburg" title="Hagen-Hohenlimburg">Hagen-Hohenlimburg</a></td>
+<td>31.306</td>
+<td>37,0</td>
+</tr>
+</table>
+<p>some localities of Hagen:</p>
+<ul>
+<li><a href="/wiki/Hagen-Dahl" title="Hagen-Dahl">Hagen-Dahl</a></li>
+<li><a href="/w/index.php?title=Hagen-Emst&amp;action=edit&amp;redlink=1" class="new" title="Hagen-Emst (page does not exist)">Hagen-Emst</a></li>
+<li><a href="/wiki/Hagen-Priorei" title="Hagen-Priorei">Hagen-Priorei</a></li>
+<li><a href="/wiki/Hagen-Rummenohl" title="Hagen-Rummenohl">Hagen-Rummenohl</a></li>
+<li><a href="/w/index.php?title=Hagen-Halden&amp;action=edit&amp;redlink=1" class="new" title="Hagen-Halden (page does not exist)">Hagen-Halden</a></li>
+</ul>
+<h2><span class="mw-headline" id="Demographics">Demographics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hagen&amp;action=edit&amp;section=6" title="Edit section: Demographics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The following table shows the largest foreign resident groups in the city of Hagen.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<table class="wikitable">
+<tr>
+<th style="background:#efefef;">Rank</th>
+<th style="background:#efefef;">Nationality</th>
+<th style="background:#efefef;">Population (2017)</th>
+</tr>
+<tr>
+<td>1</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/23px-Flag_of_Turkey.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/35px-Flag_of_Turkey.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/45px-Flag_of_Turkey.svg.png 2x" data-file-width="1200" data-file-height="800" />&#160;</span><a href="/wiki/Turkey" title="Turkey">Turkey</a></td>
+<td>8,956</td>
+</tr>
+<tr>
+<td>2</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/wiki/Italy" title="Italy">Italy</a></td>
+<td>4,703</td>
+</tr>
+<tr>
+<td>3</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/23px-Flag_of_Greece.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/35px-Flag_of_Greece.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/45px-Flag_of_Greece.svg.png 2x" data-file-width="600" data-file-height="400" />&#160;</span><a href="/wiki/Greece" title="Greece">Greece</a></td>
+<td>3,834</td>
+</tr>
+<tr>
+<td>4</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_SFR_Yugoslavia.svg/23px-Flag_of_SFR_Yugoslavia.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_SFR_Yugoslavia.svg/35px-Flag_of_SFR_Yugoslavia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_SFR_Yugoslavia.svg/46px-Flag_of_SFR_Yugoslavia.svg.png 2x" data-file-width="600" data-file-height="300" />&#160;</span><a href="/wiki/Socialist_Federal_Republic_of_Yugoslavia" title="Socialist Federal Republic of Yugoslavia">Yugoslavia</a></td>
+<td>3,129</td>
+</tr>
+<tr>
+<td>5</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/35px-Flag_of_Poland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/46px-Flag_of_Poland.svg.png 2x" data-file-width="1280" data-file-height="800" />&#160;</span><a href="/wiki/Poland" title="Poland">Poland</a></td>
+<td>2,999</td>
+</tr>
+<tr>
+<td>6</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/23px-Flag_of_Portugal.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/35px-Flag_of_Portugal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/45px-Flag_of_Portugal.svg.png 2x" data-file-width="600" data-file-height="400" />&#160;</span><a href="/wiki/Portugal" title="Portugal">Portugal</a></td>
+<td>1,512</td>
+</tr>
+<tr>
+<td>7</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/23px-Flag_of_Romania.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/35px-Flag_of_Romania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/45px-Flag_of_Romania.svg.png 2x" data-file-width="600" data-file-height="400" />&#160;</span><a href="/wiki/Romania" title="Romania">Romania</a></td>
+<td>1,283</td>
+</tr>
+<tr>
+<td>8</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/23px-Flag_of_Morocco.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/35px-Flag_of_Morocco.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/45px-Flag_of_Morocco.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Morocco" title="Morocco">Morocco</a></td>
+<td>764</td>
+</tr>
+<tr>
+<td>9</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/23px-Flag_of_Syria.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/35px-Flag_of_Syria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/45px-Flag_of_Syria.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Syria" title="Syria">Syria</a></td>
+<td>592</td>
+</tr>
+<tr>
+<td>10</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/23px-Flag_of_the_Soviet_Union.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/35px-Flag_of_the_Soviet_Union.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/46px-Flag_of_the_Soviet_Union.svg.png 2x" data-file-width="512" data-file-height="256" />&#160;</span><a href="/wiki/Soviet_Union" title="Soviet Union">Soviet Union</a></td>
+<td>592</td>
+</tr>
+<tr>
+<td>11</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/23px-Flag_of_Bulgaria.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/35px-Flag_of_Bulgaria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/46px-Flag_of_Bulgaria.svg.png 2x" data-file-width="1000" data-file-height="600" />&#160;</span><a href="/wiki/Bulgaria" title="Bulgaria">Bulgaria</a></td>
+<td>398</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Lord_mayors">Lord mayors</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hagen&amp;action=edit&amp;section=7" title="Edit section: Lord mayors">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>1946–1956: <a href="/wiki/Fritz_Steinhoff" title="Fritz Steinhoff">Fritz Steinhoff</a> (SPD)</li>
+<li>1956–1963: Helmut Turck (SPD)</li>
+<li>1963–1964: Fritz Steinhoff (SPD)</li>
+<li>1964–1971: Lothar Wrede (SPD)</li>
+<li>1971–1989: Rudolf Loskand (SPD)</li>
+<li>1989: Renate Löchter (SPD)</li>
+<li>1989–1999: Dietmar Thieser (SPD)</li>
+<li>1999–2004: Wilfried Horn (CDU)</li>
+<li>2004–2009: Peter Demnitz (SPD)</li>
+<li>2009–2014: Jörg Dehm (CDU)</li>
+<li>since 2014: Erik O. Schulz (independent)</li>
+</ul>
+<h2><span class="mw-headline" id="Traffic">Traffic</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hagen&amp;action=edit&amp;section=8" title="Edit section: Traffic">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Hagen-Vorhalle_20080830.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Hagen-Vorhalle_20080830.jpg/220px-Hagen-Vorhalle_20080830.jpg" width="220" height="146" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Hagen-Vorhalle_20080830.jpg/330px-Hagen-Vorhalle_20080830.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Hagen-Vorhalle_20080830.jpg/440px-Hagen-Vorhalle_20080830.jpg 2x" data-file-width="4672" data-file-height="3104" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Hagen-Vorhalle_20080830.jpg" class="internal" title="Enlarge"></a></div>
+Shunting yard Hagen-Vorhalle</div>
+</div>
+</div>
+<p>The <a href="/wiki/Autobahn" title="Autobahn">Autobahnen</a> <a href="/wiki/Bundesautobahn_1" title="Bundesautobahn 1">A1</a>, <a href="/wiki/Bundesautobahn_45" title="Bundesautobahn 45">A45</a> and <a href="/wiki/Bundesautobahn_46" title="Bundesautobahn 46">A46</a> touch Hagen.</p>
+<p>Hagen has been an important rail junction for the southeastern Ruhr valley since the first rail line opened in 1848. The <a href="/wiki/Shunt_(rail)" class="mw-redirect" title="Shunt (rail)">shunting</a> yard of Hagen-Vorhalle is among Germany's largest, and the <a href="/wiki/Hagen_Hauptbahnhof" title="Hagen Hauptbahnhof">central station</a> offers connections to the <a href="/wiki/InterCityExpress" class="mw-redirect" title="InterCityExpress">ICE</a> network of <a href="/wiki/Deutsche_Bahn" title="Deutsche Bahn">Deutsche Bahn</a> as well as to local and <a href="/wiki/S-Bahn" class="mw-redirect" title="S-Bahn">S-Bahn</a> services. Since December 2005, Hagen has also been the starting point for a new service into <a href="/wiki/Essen" title="Essen">Essen</a>, operated by <a href="/wiki/Abellio_Deutschland" title="Abellio Deutschland">Abellio Deutschland</a>.</p>
+<p>Local traffic is handled by <a href="/w/index.php?title=Hagener_Stra%C3%9Fenbahn&amp;action=edit&amp;redlink=1" class="new" title="Hagener Straßenbahn (page does not exist)">Hagener Straßenbahn</a> (Hagen Tramways), which, despite its name, offers only bus services, as the last <a href="/wiki/Tram" title="Tram">tramway</a> route in Hagen was abandoned in May 1976. All local rail and bus services operate under the transport association <a href="/wiki/Verkehrsverbund_Rhein-Ruhr" title="Verkehrsverbund Rhein-Ruhr">VRR</a>.</p>
+<h2><span class="mw-headline" id="Sport">Sport</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hagen&amp;action=edit&amp;section=9" title="Edit section: Sport">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The German Basketball Federation (DBB) is based in Hagen</p>
+<p>Sport clubs in Hagen:</p>
+<ul>
+<li><a href="/w/index.php?title=TSV_Hagen_1860&amp;action=edit&amp;redlink=1" class="new" title="TSV Hagen 1860 (page does not exist)">TSV Hagen 1860</a> - largest club (multiple <a href="/wiki/Fistball" title="Fistball">fistball</a> champions)</li>
+<li><a href="/wiki/SSV_Hagen" class="mw-redirect" title="SSV Hagen">SSV Hagen</a> (1974 basketball champions), later known as <a href="/wiki/Brandt_Hagen" class="mw-redirect" title="Brandt Hagen">Brandt Hagen</a></li>
+<li><a href="/wiki/Phoenix_Hagen" title="Phoenix Hagen">Phoenix Hagen</a>, <i><a href="/wiki/Basketball_Bundesliga" title="Basketball Bundesliga">Basketball Bundesliga</a> - ENERVIE Arena im Sportpark Ischeland</i></li>
+<li><a href="/w/index.php?title=Hasper_SV&amp;action=edit&amp;redlink=1" class="new" title="Hasper SV (page does not exist)">Hasper SV</a></li>
+<li><a href="/w/index.php?title=Hohenlimburger_SV&amp;action=edit&amp;redlink=1" class="new" title="Hohenlimburger SV (page does not exist)">Hohenlimburger SV</a> (multiple women <a href="/wiki/Water_polo" title="Water polo">water polo</a> champions)</li>
+</ul>
+<h2><span class="mw-headline" id="International_relations">International relations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hagen&amp;action=edit&amp;section=10" title="Edit section: International relations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/List_of_twin_towns_and_sister_cities_in_Germany" title="List of twin towns and sister cities in Germany">List of twin towns and sister cities in Germany</a></div>
+<p>Hagen is <a href="/wiki/Town_twinning" class="mw-redirect" title="Town twinning">twinned</a> with the following towns:</p>
+<table>
+<tr>
+<td valign="top">
+<ul>
+<li><span class="flagicon"><a href="/wiki/Poland" title="Poland"><img alt="Poland" src="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/35px-Flag_of_Poland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/46px-Flag_of_Poland.svg.png 2x" data-file-width="1280" data-file-height="800" /></a></span> - <a href="/wiki/E%C5%82k" title="Ełk">Ełk</a> (<a href="/wiki/Poland" title="Poland">Poland</a>), since 1955</li>
+<li><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> - <a href="/wiki/Li%C3%A9vin" title="Liévin">Liévin</a> (<a href="/wiki/France" title="France">France</a>), since 1960</li>
+<li><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> - <a href="/wiki/Kouvola" title="Kouvola">Kouvola</a> (<a href="/wiki/Finland" title="Finland">Finland</a>), since 1963</li>
+<li><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> - <a href="/wiki/Montlu%C3%A7on" title="Montluçon">Montluçon</a> (<a href="/wiki/France" title="France">France</a>), since 1965</li>
+</ul>
+</td>
+<td valign="top">
+<ul>
+<li><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> - <a href="/wiki/Steglitz-Zehlendorf" title="Steglitz-Zehlendorf">Steglitz-Zehlendorf</a>, <a href="/wiki/Berlin" title="Berlin">Berlin</a> (<a href="/wiki/Germany" title="Germany">Germany</a>), since 1967</li>
+<li><span class="flagicon"><a href="/wiki/Austria" title="Austria"><img alt="Austria" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/23px-Flag_of_Austria.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/35px-Flag_of_Austria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/45px-Flag_of_Austria.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> - <a href="/wiki/Bruck_an_der_Mur" title="Bruck an der Mur">Bruck an der Mur</a> (<a href="/wiki/Austria" title="Austria">Austria</a>), since 1975</li>
+<li><span class="flagicon"><a href="/wiki/Russia" title="Russia"><img alt="Russia" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/35px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/45px-Flag_of_Russia.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> - <a href="/wiki/Smolensk" title="Smolensk">Smolensk</a> (<a href="/wiki/Russia" title="Russia">Russia</a>), since 1985</li>
+<li><span class="flagicon"><a href="/wiki/Israel" title="Israel"><img alt="Israel" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/21px-Flag_of_Israel.svg.png" width="21" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/32px-Flag_of_Israel.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/41px-Flag_of_Israel.svg.png 2x" data-file-width="660" data-file-height="480" /></a></span> - <a href="/wiki/Modi%27in-Maccabim-Re%27ut" title="Modi'in-Maccabim-Re'ut">Modi'in-Maccabim-Re'ut</a> (<a href="/wiki/Israel" title="Israel">Israel</a>), since 1997</li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Personalities">Personalities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hagen&amp;action=edit&amp;section=11" title="Edit section: Personalities">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:152px;"><a href="/wiki/File:Osthaus_by_Gerhardi.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Osthaus_by_Gerhardi.jpg/150px-Osthaus_by_Gerhardi.jpg" width="150" height="227" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Osthaus_by_Gerhardi.jpg/225px-Osthaus_by_Gerhardi.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Osthaus_by_Gerhardi.jpg/300px-Osthaus_by_Gerhardi.jpg 2x" data-file-width="440" data-file-height="666" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Osthaus_by_Gerhardi.jpg" class="internal" title="Enlarge"></a></div>
+Karl Ernst Osthaus 1902</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:152px;"><a href="/wiki/File:Friedrich_Harkort_1793-1880.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Friedrich_Harkort_1793-1880.png/150px-Friedrich_Harkort_1793-1880.png" width="150" height="226" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Friedrich_Harkort_1793-1880.png/225px-Friedrich_Harkort_1793-1880.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Friedrich_Harkort_1793-1880.png/300px-Friedrich_Harkort_1793-1880.png 2x" data-file-width="2183" data-file-height="3295" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Friedrich_Harkort_1793-1880.png" class="internal" title="Enlarge"></a></div>
+Friedrich Harkort around 1820</div>
+</div>
+</div>
+<ul>
+<li><a href="/wiki/Friedrich_Harkort" title="Friedrich Harkort">Friedrich Harkort</a> (1793-1880), railway and industrial pioneer and politician (German Progressive Party)</li>
+<li><a href="/wiki/Georg_von_Vincke" title="Georg von Vincke">Georg von Vincke</a> (1811-1875), politician</li>
+<li>Sir <a href="/wiki/Charles_Hall%C3%A9" title="Charles Hallé">Karl Halle</a>, also known as Sir Charles Hallé (1819-1895), pianist, composer and orchestra conductor</li>
+<li><a href="/wiki/Eugen_Richter" title="Eugen Richter">Eugen Richter</a> (1838-1906), politician (German Progressive Party)</li>
+<li>Wilhelm Böing (born 1846 in <a href="/wiki/Hagen-Hohenlimburg" title="Hagen-Hohenlimburg">Hagen-Hohenlimburg</a>), father of <a href="/wiki/William_Boeing" title="William Boeing">William Boeing</a>, founder of the <a href="/wiki/Boeing" title="Boeing">Boeing</a> aviation company.</li>
+<li><a href="/wiki/Karl_Ernst_Osthaus" title="Karl Ernst Osthaus">Karl Ernst Osthaus</a> (1874–1921), banker and patron of avant-garde art and architecture</li>
+<li><a href="/wiki/Will_Lammert" title="Will Lammert">Will Lammert</a> (1892-1957), sculptor</li>
+<li><a href="/wiki/Hansheinrich_Dransmann" title="Hansheinrich Dransmann">Hansheinrich Dransmann</a> (1894-1964), conductor, composer</li>
+<li><a href="/wiki/Franz_Bronstert" title="Franz Bronstert">Franz Bronstert</a> (1895–1967), painter</li>
+<li><a href="/wiki/Fritz_Steinhoff" title="Fritz Steinhoff">Fritz Steinhoff</a> (1897-1969), politician (SPD)</li>
+<li><a href="/wiki/Heinrich_Brocksieper" title="Heinrich Brocksieper">Heinrich Brocksieper</a> (1898-1968), painter and photographer, experimental filmmaker and former <a href="/wiki/Bauhaus" title="Bauhaus">Bauhaus</a> student</li>
+<li><a href="/wiki/Hans_Nieland" title="Hans Nieland">Hans Nieland</a> (1900-1976), politician (NSDAP)</li>
+<li><a href="/wiki/Hugo_Paul" class="mw-redirect" title="Hugo Paul">Hugo Paul</a> (1905-1962), politician (KPD)</li>
+<li><a href="/wiki/Ernst_Meister" title="Ernst Meister">Ernst Meister</a> (1911-1979), lyricist, radio playwright, narrator and theater author</li>
+<li><a href="/wiki/Emil_Schumacher" title="Emil Schumacher">Emil Schumacher</a> (1912-1999), painter (abstract art)</li>
+<li><a href="/wiki/Artur_Axmann" title="Artur Axmann">Artur Axmann</a> (1913-1996), politician (NSDAP) and Reichsjugendführer</li>
+<li><a href="/wiki/Herbert_Reinecker" title="Herbert Reinecker">Herbert Reinecker</a> (1914-2007), writer and screenwriter</li>
+<li><a href="/wiki/Nicholas_Rescher" title="Nicholas Rescher">Nicholas Rescher</a> (1928- ), American philosopher</li>
+<li><a href="/wiki/Freddy_Breck" title="Freddy Breck">Freddy Breck</a> (1942-2008), percussionist</li>
+<li><a href="/wiki/Hans_Reichel" title="Hans Reichel">Hans Reichel</a> (1949-2011), guitarist, violinist, instrument maker and typographer</li>
+<li><a href="/wiki/Annette_Humpe" title="Annette Humpe">Annette Humpe</a> (1950-) music producer, singer of the bands <a href="/wiki/Ideal_(German_band)" title="Ideal (German band)">Ideal</a> and <a href="/wiki/Ich_%2B_Ich" title="Ich + Ich">Ich + Ich</a></li>
+<li><a href="/wiki/Nena" title="Nena">Nena</a> (Gabriele Susanne Kerner) (1960-), pop singer</li>
+<li><a href="/wiki/Antje_Vowinckel" title="Antje Vowinckel">Antje Vowinckel</a> (1964- ), sound artist, radio artist and musician.</li>
+<li><a href="/wiki/Mousse_T." title="Mousse T.">Mousse T.</a> (Mustafa Gündogdu) (1966-), DJ, musician, remixer and producer</li>
+<li><a href="/wiki/Mambo_Kurt" title="Mambo Kurt">Mambo Kurt</a> (Rainer Limpinsel) (1967-), musician and solo entertainer</li>
+<li><a href="/wiki/Barbara_Morgenstern" title="Barbara Morgenstern">Barbara Morgenstern</a> (1971-), musician</li>
+<li><a href="/wiki/Claus_Jacobi" title="Claus Jacobi">Claus Jacobi</a> (1971-), politician (SPD), mayor of Gevelsberg</li>
+<li><a href="/wiki/Henning_Wehn" title="Henning Wehn">Henning Wehn</a> (1974-), comedian</li>
+<li><a href="/wiki/Jan-Ole_Gerster" title="Jan-Ole Gerster">Jan-Ole Gerster</a> (1978-), film director and screenwriter</li>
+<li><a href="/wiki/Bettina_Hauert" title="Bettina Hauert">Bettina Hauert</a> (1982-), professional golfer</li>
+<li><a href="/wiki/Ren%C3%A9_Eidams" title="René Eidams">René Eidams</a> (1989-), darts player</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hagen&amp;action=edit&amp;section=12" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Accumulatoren-Fabrik_AFA" title="Accumulatoren-Fabrik AFA">Accumulatoren-Fabrik AFA</a></li>
+<li><a href="/wiki/Wippermann" title="Wippermann">Wippermann jr GmbH</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hagen&amp;action=edit&amp;section=13" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.it.nrw.de/statistik/a/daten/bevoelkerungszahlen_zensus/index.html">"Amtliche Bevölkerungszahlen"</a>. <i><a href="/wiki/Landesbetrieb_Information_und_Technik_NRW" class="mw-redirect" title="Landesbetrieb Information und Technik NRW">Landesbetrieb Information und Technik NRW</a></i> (in German). 18 July 2016.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHagen&amp;rft.atitle=Amtliche+Bev%C3%B6lkerungszahlen&amp;rft.date=2016-07-18&amp;rft.genre=unknown&amp;rft.jtitle=Landesbetrieb+Information+und+Technik+NRW&amp;rft_id=http%3A%2F%2Fwww.it.nrw.de%2Fstatistik%2Fa%2Fdaten%2Fbevoelkerungszahlen_zensus%2Findex.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.fernuni-hagen.de/universitaet/aktuelles/2010/03/30-am-gdf-nach.shtml">http://www.fernuni-hagen.de/universitaet/aktuelles/2010/03/30-am-gdf-nach.shtml</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">2000 Years of Parallel Societies in Stone Age Central Europe. Ruth Bollongino, Olaf Nehlich, Michael P. Richards, Jörg Orschiedt, Mark G. Thomas, Christian Sell, Zuzana Fajkošová, Adam Powell, Joachim Burger. Science. Published Online October 10, 2013. DOI: 10.1126/science.1245049 <a rel="nofollow" class="external free" href="http://www.sciencemag.org/content/early/2013/10/09/science.1245049">http://www.sciencemag.org/content/early/2013/10/09/science.1245049</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.derwesten.de/wp/staedte/hagen/zahl-der-auslaender-steigt-erneut-an-id9238027.html">"Statistisches Jahrbuch 2013"</a>. Westfalenpost<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-04-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHagen&amp;rft.btitle=Statistisches+Jahrbuch+2013&amp;rft.genre=unknown&amp;rft.pub=Westfalenpost&amp;rft_id=https%3A%2F%2Fwww.derwesten.de%2Fwp%2Fstaedte%2Fhagen%2Fzahl-der-auslaender-steigt-erneut-an-id9238027.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hagen&amp;action=edit&amp;section=14" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Hagen" class="extiw" title="commons:Hagen">Hagen</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a href="/wiki/File:Wikivoyage-Logo-v3-icon.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/16px-Wikivoyage-Logo-v3-icon.svg.png" width="16" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/24px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/32px-Wikivoyage-Logo-v3-icon.svg.png 2x" data-file-width="193" data-file-height="193" /></a> <a href="https://en.wikivoyage.org/wiki/Hagen#Q2871" class="extiw" title="voy:Hagen">Hagen</a> travel guide from Wikivoyage</li>
+<li><a rel="nofollow" class="external text" href="http://www.hagen.de/">Official city website</a></li>
+<li><img alt="Wikisource-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png" width="12" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/18px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/24px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" />&#160;<cite class="citation encyclopaedia">"<a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Hagen" class="extiw" title="wikisource:1911 Encyclopædia Britannica/Hagen">Hagen</a>". <i><a href="/wiki/Encyclop%C3%A6dia_Britannica_Eleventh_Edition" title="Encyclopædia Britannica Eleventh Edition">Encyclopædia Britannica</a></i> (11th ed.). 1911.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHagen&amp;rft.atitle=Hagen&amp;rft.btitle=Encyclop%C3%A6dia+Britannica&amp;rft.date=1911&amp;rft.edition=11th&amp;rft.genre=bookitem&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Cities_in_Germany_by_population" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Cities_in_Germany" title="Template:Cities in Germany"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Cities_in_Germany" title="Template talk:Cities in Germany"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cities_in_Germany&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Cities_in_Germany_by_population" style="font-size:114%;margin:0 4em">Cities in Germany by population</div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">1,000,000+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Berlin" title="Berlin">Berlin</a></li>
+<li><a href="/wiki/Cologne" title="Cologne">Cologne</a></li>
+<li><a href="/wiki/Hamburg" title="Hamburg">Hamburg</a></li>
+<li><a href="/wiki/Munich" title="Munich">Munich</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">500,000+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bremen" title="Bremen">Bremen</a></li>
+<li><a href="/wiki/Dortmund" title="Dortmund">Dortmund</a></li>
+<li><a href="/wiki/Dresden" title="Dresden">Dresden</a></li>
+<li><a href="/wiki/D%C3%BCsseldorf" title="Düsseldorf">Düsseldorf</a></li>
+<li><a href="/wiki/Essen" title="Essen">Essen</a></li>
+<li><a href="/wiki/Frankfurt" title="Frankfurt">Frankfurt</a></li>
+<li><a href="/wiki/Hanover" title="Hanover">Hanover</a></li>
+<li><a href="/wiki/Leipzig" title="Leipzig">Leipzig</a></li>
+<li><a href="/wiki/Nuremberg" title="Nuremberg">Nuremberg</a></li>
+<li><a href="/wiki/Stuttgart" title="Stuttgart">Stuttgart</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">200,000+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aachen" title="Aachen">Aachen</a></li>
+<li><a href="/wiki/Augsburg" title="Augsburg">Augsburg</a></li>
+<li><a href="/wiki/Bielefeld" title="Bielefeld">Bielefeld</a></li>
+<li><a href="/wiki/Bochum" title="Bochum">Bochum</a></li>
+<li><a href="/wiki/Bonn" title="Bonn">Bonn</a></li>
+<li><a href="/wiki/Braunschweig" title="Braunschweig">Braunschweig</a></li>
+<li><a href="/wiki/Chemnitz" title="Chemnitz">Chemnitz</a></li>
+<li><a href="/wiki/Duisburg" title="Duisburg">Duisburg</a></li>
+<li><a href="/wiki/Erfurt" title="Erfurt">Erfurt</a></li>
+<li><a href="/wiki/Freiburg_im_Breisgau" title="Freiburg im Breisgau">Freiburg im Breisgau</a></li>
+<li><a href="/wiki/Gelsenkirchen" title="Gelsenkirchen">Gelsenkirchen</a></li>
+<li><a href="/wiki/Halle_(Saale)" title="Halle (Saale)">Halle (Saale)</a></li>
+<li><a href="/wiki/Karlsruhe" title="Karlsruhe">Karlsruhe</a></li>
+<li><a href="/wiki/Kiel" title="Kiel">Kiel</a></li>
+<li><a href="/wiki/Krefeld" title="Krefeld">Krefeld</a></li>
+<li><a href="/wiki/L%C3%BCbeck" title="Lübeck">Lübeck</a></li>
+<li><a href="/wiki/Magdeburg" title="Magdeburg">Magdeburg</a></li>
+<li><a href="/wiki/Mainz" title="Mainz">Mainz</a></li>
+<li><a href="/wiki/Mannheim" title="Mannheim">Mannheim</a></li>
+<li><a href="/wiki/M%C3%BCnster" title="Münster">Münster</a></li>
+<li><a href="/wiki/M%C3%B6nchengladbach" title="Mönchengladbach">Mönchengladbach</a></li>
+<li><a href="/wiki/Oberhausen" title="Oberhausen">Oberhausen</a></li>
+<li><a href="/wiki/Rostock" title="Rostock">Rostock</a></li>
+<li><a href="/wiki/Wiesbaden" title="Wiesbaden">Wiesbaden</a></li>
+<li><a href="/wiki/Wuppertal" title="Wuppertal">Wuppertal</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">100,000+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bergisch_Gladbach" title="Bergisch Gladbach">Bergisch Gladbach</a></li>
+<li><a href="/wiki/Bottrop" title="Bottrop">Bottrop</a></li>
+<li><a href="/wiki/Bremerhaven" title="Bremerhaven">Bremerhaven</a></li>
+<li><a href="/wiki/Cottbus" title="Cottbus">Cottbus</a></li>
+<li><a href="/wiki/Darmstadt" title="Darmstadt">Darmstadt</a></li>
+<li><a href="/wiki/Erlangen" title="Erlangen">Erlangen</a></li>
+<li><a href="/wiki/F%C3%BCrth" title="Fürth">Fürth</a></li>
+<li><a href="/wiki/G%C3%B6ttingen" title="Göttingen">Göttingen</a></li>
+<li><a class="mw-selflink selflink">Hagen</a></li>
+<li><a href="/wiki/Hamm" title="Hamm">Hamm</a></li>
+<li><a href="/wiki/Heidelberg" title="Heidelberg">Heidelberg</a></li>
+<li><a href="/wiki/Heilbronn" title="Heilbronn">Heilbronn</a></li>
+<li><a href="/wiki/Herne,_North_Rhine-Westphalia" title="Herne, North Rhine-Westphalia">Herne</a></li>
+<li><a href="/wiki/Hildesheim" title="Hildesheim">Hildesheim</a></li>
+<li><a href="/wiki/Ingolstadt" title="Ingolstadt">Ingolstadt</a></li>
+<li><a href="/wiki/Jena" title="Jena">Jena</a></li>
+<li><a href="/wiki/Kassel" title="Kassel">Kassel</a></li>
+<li><a href="/wiki/Koblenz" title="Koblenz">Koblenz</a></li>
+<li><a href="/wiki/Leverkusen" title="Leverkusen">Leverkusen</a></li>
+<li><a href="/wiki/Ludwigshafen" title="Ludwigshafen">Ludwigshafen</a></li>
+<li><a href="/wiki/Moers" title="Moers">Moers</a></li>
+<li><a href="/wiki/M%C3%BClheim" title="Mülheim">Mülheim an der Ruhr</a></li>
+<li><a href="/wiki/Neuss" title="Neuss">Neuss</a></li>
+<li><a href="/wiki/Offenbach_am_Main" title="Offenbach am Main">Offenbach am Main</a></li>
+<li><a href="/wiki/Oldenburg_(Oldenburg)" class="mw-redirect" title="Oldenburg (Oldenburg)">Oldenburg</a></li>
+<li><a href="/wiki/Osnabr%C3%BCck" title="Osnabrück">Osnabrück</a></li>
+<li><a href="/wiki/Paderborn" title="Paderborn">Paderborn</a></li>
+<li><a href="/wiki/Pforzheim" title="Pforzheim">Pforzheim</a></li>
+<li><a href="/wiki/Potsdam" title="Potsdam">Potsdam</a></li>
+<li><a href="/wiki/Recklinghausen" title="Recklinghausen">Recklinghausen</a></li>
+<li><a href="/wiki/Regensburg" title="Regensburg">Regensburg</a></li>
+<li><a href="/wiki/Remscheid" title="Remscheid">Remscheid</a></li>
+<li><a href="/wiki/Reutlingen" title="Reutlingen">Reutlingen</a></li>
+<li><a href="/wiki/Saarbr%C3%BCcken" title="Saarbrücken">Saarbrücken</a></li>
+<li><a href="/wiki/Salzgitter" title="Salzgitter">Salzgitter</a></li>
+<li><a href="/wiki/Siegen" title="Siegen">Siegen</a></li>
+<li><a href="/wiki/Solingen" title="Solingen">Solingen</a></li>
+<li><a href="/wiki/Trier" title="Trier">Trier</a></li>
+<li><a href="/wiki/Ulm" title="Ulm">Ulm</a></li>
+<li><a href="/wiki/Wolfsburg" title="Wolfsburg">Wolfsburg</a></li>
+<li><a href="/wiki/W%C3%BCrzburg" title="Würzburg">Würzburg</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/List_of_cities_and_towns_in_Germany" title="List of cities and towns in Germany">complete list</a></li>
+<li><a href="/wiki/List_of_municipalities_in_Germany" title="List of municipalities in Germany">municipalities</a></li>
+<li><a href="/wiki/Metropolitan_regions_in_Germany" title="Metropolitan regions in Germany">metropolitan regions</a></li>
+<li><a href="/wiki/List_of_cities_in_Germany_by_population" title="List of cities in Germany by population">cities with more than 100,000 inhabitants</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="border.7C30px.7CFlag_of_North_Rhine-Westphalia_Urban_and_rural_districts_in_the_state_of_North_Rhine-Westphalia_in_Germany_border.7C30px.7CFlag_of_Germany" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Germany_districts_North_Rhine-Westphalia" title="Template:Germany districts North Rhine-Westphalia"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Germany_districts_North_Rhine-Westphalia" title="Template talk:Germany districts North Rhine-Westphalia"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Germany_districts_North_Rhine-Westphalia&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="border.7C30px.7CFlag_of_North_Rhine-Westphalia_Urban_and_rural_districts_in_the_state_of_North_Rhine-Westphalia_in_Germany_border.7C30px.7CFlag_of_Germany" style="font-size:114%;margin:0 4em"><a href="/wiki/File:Flag_of_North_Rhine-Westphalia.svg" class="image" title="Flag of North Rhine-Westphalia"><img alt="Flag of North Rhine-Westphalia" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_North_Rhine-Westphalia.svg/30px-Flag_of_North_Rhine-Westphalia.svg.png" width="30" height="18" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_North_Rhine-Westphalia.svg/45px-Flag_of_North_Rhine-Westphalia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_North_Rhine-Westphalia.svg/60px-Flag_of_North_Rhine-Westphalia.svg.png 2x" data-file-width="800" data-file-height="480" /></a> Urban and rural districts in the state of <a href="/wiki/North_Rhine-Westphalia" title="North Rhine-Westphalia">North Rhine-Westphalia</a> in Germany <a href="/wiki/File:Flag_of_Germany.svg" class="image" title="Flag of Germany"><img alt="Flag of Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/30px-Flag_of_Germany.svg.png" width="30" height="18" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/45px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/60px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Urban_districts_of_Germany" class="mw-redirect" title="Urban districts of Germany">Urban districts</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bielefeld" title="Bielefeld">Bielefeld</a></li>
+<li><a href="/wiki/Bochum" title="Bochum">Bochum</a></li>
+<li><a href="/wiki/Bonn" title="Bonn">Bonn</a></li>
+<li><a href="/wiki/Bottrop" title="Bottrop">Bottrop</a></li>
+<li><a href="/wiki/Dortmund" title="Dortmund">Dortmund</a></li>
+<li><a href="/wiki/Duisburg" title="Duisburg">Duisburg</a></li>
+<li><a href="/wiki/D%C3%BCsseldorf" title="Düsseldorf">Düsseldorf</a></li>
+<li><a href="/wiki/Essen" title="Essen">Essen</a></li>
+<li><a href="/wiki/Gelsenkirchen" title="Gelsenkirchen">Gelsenkirchen</a></li>
+<li><a class="mw-selflink selflink">Hagen</a></li>
+<li><a href="/wiki/Hamm" title="Hamm">Hamm</a></li>
+<li><a href="/wiki/Herne,_Germany" class="mw-redirect" title="Herne, Germany">Herne</a></li>
+<li><a href="/wiki/Cologne" title="Cologne">Köln (<i>Cologne</i>)</a></li>
+<li><a href="/wiki/Krefeld" title="Krefeld">Krefeld</a></li>
+<li><a href="/wiki/Leverkusen" title="Leverkusen">Leverkusen</a></li>
+<li><a href="/wiki/M%C3%B6nchengladbach" title="Mönchengladbach">Mönchengladbach</a></li>
+<li><a href="/wiki/M%C3%BClheim" title="Mülheim">Mülheim</a></li>
+<li><a href="/wiki/M%C3%BCnster" title="Münster">Münster</a></li>
+<li><a href="/wiki/Oberhausen" title="Oberhausen">Oberhausen</a></li>
+<li><a href="/wiki/Remscheid" title="Remscheid">Remscheid</a></li>
+<li><a href="/wiki/Solingen" title="Solingen">Solingen</a></li>
+<li><a href="/wiki/Wuppertal" title="Wuppertal">Wuppertal</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="2" style="width:1px;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Deutschland_Lage_von_Nordrhein-Westfalen.svg" class="image"><img alt="Deutschland Lage von Nordrhein-Westfalen.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Deutschland_Lage_von_Nordrhein-Westfalen.svg/90px-Deutschland_Lage_von_Nordrhein-Westfalen.svg.png" width="90" height="122" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Deutschland_Lage_von_Nordrhein-Westfalen.svg/135px-Deutschland_Lage_von_Nordrhein-Westfalen.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Deutschland_Lage_von_Nordrhein-Westfalen.svg/180px-Deutschland_Lage_von_Nordrhein-Westfalen.svg.png 2x" data-file-width="592" data-file-height="801" /></a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_rural_districts_of_Germany" class="mw-redirect" title="List of rural districts of Germany">Rural districts</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aachen_(district)" title="Aachen (district)">Aachen</a></li>
+<li><a href="/wiki/Borken_(district)" title="Borken (district)">Borken</a></li>
+<li><a href="/wiki/Coesfeld_(district)" title="Coesfeld (district)">Coesfeld</a></li>
+<li><a href="/wiki/D%C3%BCren_(district)" title="Düren (district)">Düren</a></li>
+<li><a href="/wiki/Ennepe-Ruhr-Kreis" title="Ennepe-Ruhr-Kreis">Ennepe-Ruhr-Kreis</a></li>
+<li><a href="/wiki/Euskirchen_(district)" title="Euskirchen (district)">Euskirchen</a></li>
+<li><a href="/wiki/G%C3%BCtersloh_(district)" title="Gütersloh (district)">Gütersloh</a></li>
+<li><a href="/wiki/Heinsberg_(district)" title="Heinsberg (district)">Heinsberg</a></li>
+<li><a href="/wiki/Herford_(district)" title="Herford (district)">Herford</a></li>
+<li><a href="/wiki/Hochsauerlandkreis" title="Hochsauerlandkreis">Hochsauerlandkreis</a></li>
+<li><a href="/wiki/H%C3%B6xter_(district)" title="Höxter (district)">Höxter</a></li>
+<li><a href="/wiki/Kleve_(district)" title="Kleve (district)">Kleve (<i>Cleves</i>)</a></li>
+<li><a href="/wiki/Lippe_(district)" title="Lippe (district)">Lippe</a></li>
+<li><a href="/wiki/M%C3%A4rkischer_Kreis" title="Märkischer Kreis">Märkischer Kreis</a></li>
+<li><a href="/wiki/Mettmann_(district)" title="Mettmann (district)">Mettmann</a></li>
+<li><a href="/wiki/Minden-L%C3%BCbbecke" title="Minden-Lübbecke">Minden-Lübbecke</a></li>
+<li><a href="/wiki/Oberbergischer_Kreis" title="Oberbergischer Kreis">Oberbergischer Kreis</a></li>
+<li><a href="/wiki/Olpe_(district)" title="Olpe (district)">Olpe</a></li>
+<li><a href="/wiki/Paderborn_(district)" title="Paderborn (district)">Paderborn</a></li>
+<li><a href="/wiki/Recklinghausen_(district)" title="Recklinghausen (district)">Recklinghausen</a></li>
+<li><a href="/wiki/Rheinisch-Bergischer_Kreis" title="Rheinisch-Bergischer Kreis">Rheinisch-Bergischer Kreis</a></li>
+<li><a href="/wiki/Rhein-Erft-Kreis" title="Rhein-Erft-Kreis">Rhein-Erft-Kreis</a></li>
+<li><a href="/wiki/Rhein-Kreis_Neuss" title="Rhein-Kreis Neuss">Rhein-Kreis Neuss</a></li>
+<li><a href="/wiki/Rhein-Sieg-Kreis" title="Rhein-Sieg-Kreis">Rhein-Sieg-Kreis</a></li>
+<li><a href="/wiki/Siegen-Wittgenstein" title="Siegen-Wittgenstein">Siegen-Wittgenstein</a></li>
+<li><a href="/wiki/Soest_(district)" title="Soest (district)">Soest</a></li>
+<li><a href="/wiki/Steinfurt_(district)" title="Steinfurt (district)">Steinfurt</a></li>
+<li><a href="/wiki/Unna_(district)" title="Unna (district)">Unna</a></li>
+<li><a href="/wiki/Viersen_(district)" title="Viersen (district)">Viersen</a></li>
+<li><a href="/wiki/Warendorf_(district)" title="Warendorf (district)">Warendorf</a></li>
+<li><a href="/wiki/Wesel_(district)" title="Wesel (district)">Wesel</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/143053076">WorldCat Identities</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/143053076">143053076</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/4022917-8">4022917-8</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1240
+Cached time: 20171018042756
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.624 seconds
+Real time usage: 0.803 seconds
+Preprocessor visited node count: 9143/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 104048/2097152 bytes
+Template argument size: 23191/2097152 bytes
+Highest expansion depth: 26/40
+Expensive parser function count: 9/500
+Lua time usage: 0.257/10.000 seconds
+Lua memory usage: 6.24 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  681.032      1 -total
+ 52.46%  357.268      1 Template:Infobox_German_location
+ 50.13%  341.420      1 Template:Infobox_settlement
+ 43.38%  295.417      1 Template:Infobox
+ 16.59%  112.977      8 Template:Fact
+ 15.03%  102.370      8 Template:Fix
+ 13.48%   91.835      7 Template:Population_Germany
+ 10.40%   70.810      7 Template:Metadata_Population_DE-NW
+ 10.16%   69.201      8 Template:Delink
+  8.88%   60.484      1 Template:More_refs
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:179115-0!canonical and timestamp 20171018042755 and revision id 797999478
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Hagen&amp;oldid=797999478">https://en.wikipedia.org/w/index.php?title=Hagen&amp;oldid=797999478</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Cities_in_North_Rhine-Westphalia" title="Category:Cities in North Rhine-Westphalia">Cities in North Rhine-Westphalia</a></li><li><a href="/wiki/Category:Hagen" title="Category:Hagen">Hagen</a></li><li><a href="/wiki/Category:Members_of_the_Hanseatic_League" title="Category:Members of the Hanseatic League">Members of the Hanseatic League</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_German-language_sources_(de)" title="Category:CS1 German-language sources (de)">CS1 German-language sources (de)</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_December_2016" title="Category:Articles needing additional references from December 2016">Articles needing additional references from December 2016</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_December_2016" title="Category:Articles with unsourced statements from December 2016">Articles with unsourced statements from December 2016</a></li><li><a href="/wiki/Category:Wikipedia_articles_incorporating_a_citation_from_the_1911_Encyclopaedia_Britannica_with_Wikisource_reference" title="Category:Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference">Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Hagen" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Hagen" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Hagen" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Hagen" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Hagen">Read</a></span></li>
+							<li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Hagen&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Hagen&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Hagen" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Hagen" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Hagen&amp;oldid=797999478" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Hagen&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2871" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Hagen&amp;id=797999478" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Hagen">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Hagen&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Hagen&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Hagen_(Westfalen)" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikivoyage"><a href="https://en.wikivoyage.org/wiki/Hagen" hreflang="en">Wikivoyage</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Hagen" title="Hagen – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%87%D8%A7%D8%BA%D9%86" title="هاغن – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Hagen" title="Hagen – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D9%87%D8%A7%D9%82%D9%86" title="هاقن – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Hagen" title="Hagen – Chinese (Min Nan)" lang="zh-min-nan" hreflang="zh-min-nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%93%D0%B0%D0%B3%D0%B5%D0%BD" title="Гаген – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A5%D0%B0%D0%B3%D0%B5%D0%BD" title="Хаген – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Hagen" title="Hagen – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Hagen" title="Hagen – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Hagen_(kapital_sa_distrito)" title="Hagen (kapital sa distrito) – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Hagen" title="Hagen – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Hagen" title="Hagen – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Hagen" title="Hagen – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Hagen" title="Hagen – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Hagen" title="Hagen – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Hagen" title="Hagen – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Hagen" title="Hagen – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%87%D8%A7%DA%AF%D9%86" title="هاگن – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Hagen_(Rh%C3%A9nanie-du-Nord-Westphalie)" title="Hagen (Rhénanie-du-Nord-Westphalie) – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/Hagen" title="Hagen – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%ED%95%98%EA%B2%90" title="하겐 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Hagen" title="Hagen – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Hagen" title="Hagen – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Hagen" title="Hagen – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%94%D7%90%D7%92%D7%9F_(%D7%A2%D7%99%D7%A8)" title="האגן (עיר) – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%B0%E1%83%90%E1%83%92%E1%83%94%E1%83%9C%E1%83%98" title="ჰაგენი – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%A5%D0%B0%D0%B3%D0%B5%D0%BD" title="Хаген – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Hagen" title="Hagen – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li><li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/%D0%A5%D0%B0%D0%B3%D0%B5%D0%BD" title="Хаген – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Hagen" title="Hagen – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/H%C4%81gene" title="Hāgene – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Hagenas" title="Hagenas – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-li"><a href="https://li.wikipedia.org/wiki/Hagen" title="Hagen – Limburgish" lang="li" hreflang="li" class="interlanguage-link-target">Limburgs</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Hagen" title="Hagen – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Hagen" title="Hagen – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%BC%E3%82%B2%E3%83%B3" title="ハーゲン – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-frr"><a href="https://frr.wikipedia.org/wiki/Hagen" title="Hagen – Northern Frisian" lang="frr" hreflang="frr" class="interlanguage-link-target">Nordfriisk</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Hagen" title="Hagen – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Hagen_i_Tyskland" title="Hagen i Tyskland – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%DB%81%D8%A7%DA%AF%D9%86" title="ہاگن – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li><li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/Hagen" title="Hagen – Low German" lang="nds" hreflang="nds" class="interlanguage-link-target">Plattdüütsch</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Hagen" title="Hagen – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Hagen" title="Hagen – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Hagen" title="Hagen – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D0%B3%D0%B5%D0%BD" title="Хаген – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Hagen" title="Hagen – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-stq"><a href="https://stq.wikipedia.org/wiki/Hagen" title="Hagen – Saterland Frisian" lang="stq" hreflang="stq" class="interlanguage-link-target">Seeltersk</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Hagen" title="Hagen – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Hagen" title="Hagen – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-szl"><a href="https://szl.wikipedia.org/wiki/Hagen" title="Hagen – Silesian" lang="szl" hreflang="szl" class="interlanguage-link-target">Ślůnski</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%A5%D0%B0%D0%B3%D0%B5%D0%BD" title="Хаген – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Hagen" title="Hagen – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Hagen" title="Hagen – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Hagen" title="Hagen – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D2%BA%D0%B0%D0%B3%D0%B5%D0%BD" title="Һаген – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%AE%E0%B8%B2%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%99" title="ฮาเกิน – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Hagen" title="Hagen – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%93%D0%B0%D2%91%D0%B5%D0%BD_(%D0%BC%D1%96%D1%81%D1%82%D0%BE)" title="Гаґен (місто) – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Hagen" title="Hagen – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/Hagen_(Nordrhein-Westfalen)" title="Hagen (Nordrhein-Westfalen) – Volapük" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Hagen" title="Hagen – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%93%88%E6%A0%B9" title="哈根 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2871#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 30 August 2017, at 11:27.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Hagen&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.624","walltime":"0.803","ppvisitednodes":{"value":9143,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":104048,"limit":2097152},"templateargumentsize":{"value":23191,"limit":2097152},"expansiondepth":{"value":26,"limit":40},"expensivefunctioncount":{"value":9,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  681.032      1 -total"," 52.46%  357.268      1 Template:Infobox_German_location"," 50.13%  341.420      1 Template:Infobox_settlement"," 43.38%  295.417      1 Template:Infobox"," 16.59%  112.977      8 Template:Fact"," 15.03%  102.370      8 Template:Fix"," 13.48%   91.835      7 Template:Population_Germany"," 10.40%   70.810      7 Template:Metadata_Population_DE-NW"," 10.16%   69.201      8 Template:Delink","  8.88%   60.484      1 Template:More_refs"]},"scribunto":{"limitreport-timeusage":{"value":"0.257","limit":"10.000"},"limitreport-memusage":{"value":6541658,"limit":52428800}},"cachereport":{"origin":"mw1240","timestamp":"20171018042756","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":922,"wgHostname":"mw1240"});});</script>
+	</body>
+</html>

@@ -1,0 +1,629 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Phi Beta Kappa Society - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Phi_Beta_Kappa_Society","wgTitle":"Phi Beta Kappa Society","wgCurRevisionId":802771905,"wgRevisionId":802771905,"wgArticleId":166504,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Articles containing Greek-language text","Pages using deprecated image syntax","All articles with unsourced statements","Articles with unsourced statements from September 2014","Articles needing additional references from November 2009","All articles needing additional references","Wikipedia articles incorporating citation to the NSRW","Wikipedia articles incorporating citation to the NSRW with an wstitle parameter","Coordinates not on Wikidata","1776 establishments in Virginia","College of William \u0026 Mary student life","Phi Beta Kappa","Organizations established in 1776","Student organizations established in the 18th century"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Phi_Beta_Kappa_Society","wgRelevantArticleId":166504,"wgRequestId":"WeUlRQpAMFkAABInPrIAAABF","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Phi_Beta_Kappa","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Phi_Beta_Kappa_Society","wgCoordinates":{"lat":38.911454,"lon":-77.042083},"wgWikibaseItemId":"Q1938003","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.3"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/5/5f/Phi_Beta_Kappa_Key.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Phi_Beta_Kappa_Society"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Phi_Beta_Kappa_Society&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Phi_Beta_Kappa_Society&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Phi_Beta_Kappa_Society"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Phi_Beta_Kappa_Society rootpage-Phi_Beta_Kappa_Society vector-experimental-print-styles vector-nav-directionality skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Phi Beta Kappa Society</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a href="/w/index.php?title=Phi_Beta_Kappa&amp;redirect=no" class="mw-redirect" title="Phi Beta Kappa">Phi Beta Kappa</a>)</span></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox vcard" style="width:22em">
+<tr>
+<th colspan="2" class="fn org" style="text-align:center;font-size:125%;font-weight:bold">The Phi Beta Kappa Society</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;font-size:125%; font-weight:bold;"><span lang="el" xml:lang="el">ΦΒΚ</span></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Phi_Beta_Kappa_Key.png" class="image"><img alt="Phi Beta Kappa Key.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Phi_Beta_Kappa_Key.png/120px-Phi_Beta_Kappa_Key.png" width="120" height="266" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Phi_Beta_Kappa_Key.png/180px-Phi_Beta_Kappa_Key.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Phi_Beta_Kappa_Key.png/240px-Phi_Beta_Kappa_Key.png 2x" data-file-width="1047" data-file-height="2325" /></a></td>
+</tr>
+<tr>
+<th scope="row">Founded</th>
+<td>December&#160;5, 1776<span class="noprint">; 240 years ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">1776-12-05</span>)</span><br />
+<a href="/wiki/The_College_of_William_and_Mary" class="mw-redirect" title="The College of William and Mary">The College of William and Mary</a></td>
+</tr>
+<tr>
+<th scope="row">Type</th>
+<td><a href="/wiki/Honor_Society" class="mw-redirect" title="Honor Society">Honor Society</a></td>
+</tr>
+<tr>
+<th scope="row">Emphasis</th>
+<td>Liberal arts and sciences</td>
+</tr>
+<tr>
+<th scope="row">Mission statement</th>
+<td>
+<div style="font-size:88%">To celebrate and advocate excellence in the liberal arts and sciences.</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Motto</th>
+<td><span lang="el" xml:lang="el">Φιλοσοφία Βίου Κυβερνήτης</span><br />
+Love of learning is the guide of life</td>
+</tr>
+<tr>
+<th scope="row">Colors</th>
+<td><span style="background-color:#FFC0CB; color:; border:1px solid #000000; text-align:center;">&#160;&#160;&#160;&#160;</span> <a href="/wiki/Pink" title="Pink">Pink</a> and <span style="background-color:#87CEEB; color:; border:1px solid #000000; text-align:center;">&#160;&#160;&#160;&#160;</span> <a href="/wiki/Sky_blue" title="Sky blue">Sky blue</a></td>
+</tr>
+<tr>
+<th scope="row">Publication</th>
+<td><i><a href="/wiki/The_American_Scholar_(magazine)" title="The American Scholar (magazine)">The American Scholar</a></i></td>
+</tr>
+<tr>
+<th scope="row">Chapters</th>
+<td>286</td>
+</tr>
+<tr>
+<th scope="row">Members</th>
+<td>500,000+ collegiate</td>
+</tr>
+<tr>
+<th scope="row">Factoid</th>
+<td>The first collegiate Greek-letter fraternity and the oldest honor society for the liberal arts and sciences.</td>
+</tr>
+<tr>
+<th scope="row">Headquarters</th>
+<td><span class="street-address">1606 New Hampshire Ave. NW</span><br />
+<span class="locality"><a href="/wiki/Washington,_D.C." title="Washington, D.C.">Washington, D.C.</a></span><br />
+<span class="country-name"><a href="/wiki/United_States" title="United States">U.S.</a></span></td>
+</tr>
+<tr>
+<th scope="row">Website</th>
+<td><a rel="nofollow" class="external text" href="http://www.pbk.org">pbk.org</a></td>
+</tr>
+</table>
+<p>The <b>Phi Beta Kappa Society</b> (<b>ΦΒΚ</b>) is the oldest <a href="/wiki/Honor_society" title="Honor society">honor society</a> for the liberal arts and sciences in the <a href="/wiki/United_States" title="United States">United States</a>. It is widely recognized, and is considered as the nation's most prestigious honor society.<sup id="cite_ref-collegeapps.about.com_1-0" class="reference"><a href="#cite_note-collegeapps.about.com-1">[1]</a></sup> Phi Beta Kappa aims to promote and advocate excellence in the <a href="/wiki/Liberal_arts" class="mw-redirect" title="Liberal arts">liberal arts</a> and <a href="/wiki/Sciences" class="mw-redirect" title="Sciences">sciences</a> and to induct the most outstanding students of arts and sciences at American colleges and universities.<sup id="cite_ref-collegeapps.about.com_1-1" class="reference"><a href="#cite_note-collegeapps.about.com-1">[1]</a></sup> It was founded at <a href="/wiki/The_College_of_William_and_Mary" class="mw-redirect" title="The College of William and Mary">The College of William and Mary</a> on December 5, <a href="/wiki/1776" title="1776">1776</a> as the first collegiate Greek-letter <a href="/wiki/Fraternity" title="Fraternity">fraternity</a> and was among the earliest collegiate fraternal societies.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<p>Phi Beta Kappa (<span lang="el" xml:lang="el">ΦΒΚ</span>) stands for <span lang="el" xml:lang="el">Φιλοσοφία Βίου Κυβερνήτης</span> (<i><span lang="el-Latn" xml:lang="el-Latn">Philosophia Biou Kybernētēs</span></i>), which means "Love of wisdom is the guide of life" or "Philosophy is the governor of one's life."</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Membership"><span class="tocnumber">1</span> <span class="toctext">Membership</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Key"><span class="tocnumber">3</span> <span class="toctext">Key</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Activities_and_publications"><span class="tocnumber">4</span> <span class="toctext">Activities and publications</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Chapters"><span class="tocnumber">5</span> <span class="toctext">Chapters</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Notable_members"><span class="tocnumber">6</span> <span class="toctext">Notable members</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Awards"><span class="tocnumber">7</span> <span class="toctext">Awards</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#See_also"><span class="tocnumber">8</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Membership">Membership</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Phi_Beta_Kappa_Society&amp;action=edit&amp;section=1" title="Edit section: Membership">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>According to Phi Beta Kappa, they have chapters in about 10% of American higher learning institutions, and about 10% of these schools' Arts and Sciences graduates are invited to join the society.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Although most students are elected their senior year, many colleges elect a very limited number of extremely select students in their junior year, generally less than 2% of the class.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> Each chapter sets its own academic standards, but all inductees must have studied the liberal arts and sciences, demonstrated "good moral character", and, usually, earned grades placing them in top tenth of their class.<sup id="cite_ref-PBK_Eligibility_11-0" class="reference"><a href="#cite_note-PBK_Eligibility-11">[11]</a></sup><sup id="cite_ref-WSJ_12-0" class="reference"><a href="#cite_note-WSJ-12">[12]</a></sup> There is a mandatory initiation fee (between US$50 and US$90, as of 2005), which is sometimes covered by the inductee's university.<sup id="cite_ref-WSJ_12-1" class="reference"><a href="#cite_note-WSJ-12">[12]</a></sup></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Phi_Beta_Kappa_Society&amp;action=edit&amp;section=2" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:PBKclose.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/58/PBKclose.jpg/220px-PBKclose.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/58/PBKclose.jpg/330px-PBKclose.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/58/PBKclose.jpg/440px-PBKclose.jpg 2x" data-file-width="1600" data-file-height="1200" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:PBKclose.jpg" class="internal" title="Enlarge"></a></div>
+<center>Present day <a href="/wiki/Phi_Beta_Kappa_Memorial_Hall" title="Phi Beta Kappa Memorial Hall">Phi Beta Kappa Memorial Hall</a> entrance at <a href="/wiki/The_College_of_William_%26_Mary" class="mw-redirect" title="The College of William &amp; Mary">The College of William &amp; Mary</a>.</center>
+</div>
+</div>
+</div>
+<p>The Phi Beta Kappa Society was founded on December 5, 1776 at the <a href="/wiki/College_of_William_and_Mary" class="mw-redirect" title="College of William and Mary">College of William and Mary</a> in <a href="/wiki/Williamsburg,_Virginia" title="Williamsburg, Virginia">Williamsburg, Virginia</a> by five students, with John Heath as its first President. The society established the precedent for naming American college societies after the initial letters of a secret Greek motto.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></p>
+<p>The group consisted of students who frequented the <a href="/wiki/Raleigh_Tavern" title="Raleigh Tavern">Raleigh Tavern</a> as a common meeting area off the college campus (a persistent story maintains that a Masonic lodge also met at this tavern, but the <a href="/wiki/Freemasons" class="mw-redirect" title="Freemasons">Freemasons</a> actually gathered at a different building in Williamsburg;<sup id="cite_ref-Brinkley.2C_M._Kent_Brinkley_15-0" class="reference"><a href="#cite_note-Brinkley.2C_M._Kent_Brinkley-15">[15]</a></sup> ten of the original members later did become Freemasons).<sup id="cite_ref-Hastings_16-0" class="reference"><a href="#cite_note-Hastings-16">[16]</a></sup><sup class="reference" style="white-space:nowrap;">:5</sup> Whether the students organized to meet more freely and discuss non-academic topics, or to discuss politics in a Revolutionary society is unknown; the earliest records indicate only that the students met to debate and engage in oratory, and on topics that would have been not far removed from the curriculum.<sup id="cite_ref-Hastings_16-1" class="reference"><a href="#cite_note-Hastings-16">[16]</a></sup><sup class="reference" style="white-space:nowrap;">:83–85</sup><sup id="cite_ref-Fleming.2C_Bill_17-0" class="reference"><a href="#cite_note-Fleming.2C_Bill-17">[17]</a></sup> In the Phi Beta Kappa Initiation of 1779, the new member was informed, "here then you may for a while disengage yourself from scholastic cares and communicate without reserve whatever reflections you have made upon various objects; remembering that every thing transacted within this room is transacted <i><a href="/wiki/Sub_rosa" title="Sub rosa">sub rosa</a></i>, ...here, too, you are to indulge in matters of speculation that freedom of enquiry which ever dispels the clouds of falsehood by the radiant sunshine of truth...".<sup id="cite_ref-Hastings_16-2" class="reference"><a href="#cite_note-Hastings-16">[16]</a></sup><sup class="reference" style="white-space:nowrap;">:5</sup></p>
+<p>There had been earlier fraternal societies at the <a href="/wiki/College_of_William_and_Mary" class="mw-redirect" title="College of William and Mary">William &amp; Mary</a>, but these, including the well-known F.H.C. Society (nicknamed "the <a href="/wiki/Flat_Hat_Club" title="Flat Hat Club">Flat Hat Club</a>"), founded in 1750, were Latin-letter societies: their names were taken from initial letters of a secret Latin motto. <a href="/wiki/College_of_William_and_Mary" class="mw-redirect" title="College of William and Mary">William &amp; Mary</a> alumnus and third U.S. President <a href="/wiki/Thomas_Jefferson" title="Thomas Jefferson">Thomas Jefferson</a> was perhaps the most famous member of the F.H.C.;<sup id="cite_ref-DoG_Becca2004_18-0" class="reference"><a href="#cite_note-DoG_Becca2004-18">[18]</a></sup> other notable members of the original Society included Col. James Innes, <a href="/wiki/St._George_Tucker" title="St. George Tucker">St. George Tucker</a>, and <a href="/wiki/George_Wythe" title="George Wythe">George Wythe</a>.<sup id="cite_ref-scrc.swem.wm.edu_19-0" class="reference"><a href="#cite_note-scrc.swem.wm.edu-19">[19]</a></sup> Jefferson noted that "When I was a student of Wm. &amp; Mary college of this state, there existed a society called the F.H.C. society, confined to the number of six students only, of which I was a member, but it had no useful object, nor do I know whether it now exists."<sup id="cite_ref-Hastings_16-3" class="reference"><a href="#cite_note-Hastings-16">[16]</a></sup><sup class="reference" style="white-space:nowrap;">:5</sup> The best opinion is that the society did not survive the invasion by British forces during the Revolution.<sup id="cite_ref-DoG_Becca2004_18-1" class="reference"><a href="#cite_note-DoG_Becca2004-18">[18]</a></sup></p>
+<p>A second Latin-letter fraternity at <a href="/wiki/College_of_William_and_Mary" class="mw-redirect" title="College of William and Mary">William &amp; Mary</a> was the P.D.A. Society (publicly known as "Please Don't Ask").<sup id="cite_ref-ReferenceA_20-0" class="reference"><a href="#cite_note-ReferenceA-20">[20]</a></sup> <a href="/wiki/John_Heath_(politician)" title="John Heath (politician)">John Heath</a>, chief organizer of Phi Beta Kappa, according to tradition earlier sought but was refused admission to the P.D.A., though he may instead have disdained to join it (Heath's friend and fellow student William Short later wrote that the P.D.A. "had lost all reputation for letters, and was noted only for the dissipation &amp; conviviality of its members"<sup id="cite_ref-Hastings_16-4" class="reference"><a href="#cite_note-Hastings-16">[16]</a></sup><sup class="reference" style="white-space:nowrap;">:84</sup>).</p>
+<p>The new society was intended to be "purely of domestic manufacture, without any connexion whatever with anything European, either English or German."<sup id="cite_ref-Hastings_16-5" class="reference"><a href="#cite_note-Hastings-16">[16]</a></sup><sup class="reference" style="white-space:nowrap;">:84</sup> The founders of Phi Beta Kappa declared that the society was formed for congeniality and to promote good fellowship, with "friendship as its basis and benevolence and literature as its pillars."<sup id="cite_ref-Hastings_16-6" class="reference"><a href="#cite_note-Hastings-16">[16]</a></sup></p>
+<p>Like the older, Latin-letter fraternities, the Phi Beta Kappa was a secret society. To protect its members and to instill a sense of solidarity, each had the essential attributes of most modern fraternities: an oath of secrecy, a badge (or token) and a diploma (or certificate) of membership, mottoes (in the case of the Phi Beta Kappa, in Greek rather than in Latin), a ritual of initiation, a handclasp of recognition; to these, the Phi Beta Kappa would soon add another attribute, branches or "chapters" at other colleges. The new society was given the motto, <span lang="el" xml:lang="el">Φιλοσοφία Βίου Κυβερνήτης</span> or in Latin letters <i><span lang="el-Latn" xml:lang="el-Latn">Philosophia Biou Kybernētēs</span></i>, which means in English <i>The Love for <a href="/wiki/Knowledge" title="Knowledge">Knowledge</a> be the <a href="/wiki/Guideline" title="Guideline">Guide</a> of Life</i>. <a href="/wiki/Greek_language" title="Greek language">Greek</a> was chosen, because Greek was in <a href="/wiki/Roman_times" class="mw-redirect" title="Roman times">Roman times</a> the language of science like <a href="/wiki/Latin_language" class="mw-redirect" title="Latin language">Latin</a> in <a href="/wiki/Middle_Ages" title="Middle Ages">medieval times</a>.</p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Phi_Beta_Kappa_DC.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Phi_Beta_Kappa_DC.JPG/220px-Phi_Beta_Kappa_DC.JPG" width="220" height="293" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Phi_Beta_Kappa_DC.JPG/330px-Phi_Beta_Kappa_DC.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/68/Phi_Beta_Kappa_DC.JPG/440px-Phi_Beta_Kappa_DC.JPG 2x" data-file-width="2448" data-file-height="3264" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Phi_Beta_Kappa_DC.JPG" class="internal" title="Enlarge"></a></div>
+<center>The Phi Beta Kappa Society National Headquarters located in the historic <a href="/wiki/Dupont_Circle" title="Dupont Circle">Dupont Circle</a> neighborhood of <a href="/wiki/Washington,_D.C." title="Washington, D.C.">Washington, D.C.</a></center>
+</div>
+</div>
+</div>
+<p>One official historian of the society, William T. Hastings, and some others believe that the "S" and "P" on the badge, which stood for <i>Societas Philosophiae</i>, "Philosophical Society", was the original name of the Society and that "Phi Beta Kappa" came only over time to be taken as the name of the society. The heading on the original list of members states, "A List of the members, who have been initiated into the S.P. alias Phi Beta Kappa Society."<sup id="cite_ref-Hastings_16-7" class="reference"><a href="#cite_note-Hastings-16">[16]</a></sup><sup class="reference" style="white-space:nowrap;">:5</sup></p>
+<p>Later, in May 1777, a new sign of recognition was devised: "a salutation of the clasp of the hands, together with an immediate stroke across the mouth with the back of the same hand, and a return with the hand used by the saluted". This new complex of gestures was created to allow the mutual recognition of members "in any foreign country or place."<sup id="cite_ref-Hastings_16-8" class="reference"><a href="#cite_note-Hastings-16">[16]</a></sup><sup class="reference" style="white-space:nowrap;">:10</sup></p>
+<p>Before the British invasion of Virginia forced the temporary closure of the <a href="/wiki/College_of_William_and_Mary" class="mw-redirect" title="College of William and Mary">College of William and Mary</a> and disbandment of the Phi Beta Kappa there early in 1781, Elisha Parmelee, an alumnus of <a href="/wiki/Yale_University" title="Yale University">Yale College</a> and <a href="/wiki/Harvard_University" title="Harvard University">Harvard College</a>, passed through Williamsburg and took charters from the Phi Beta Kappa to establish branches of the society at these schools. A second chapter was founded at Yale College in late 1780; a third, at Harvard College in 1781; and a fourth, at <a href="/wiki/Dartmouth_College" title="Dartmouth College">Dartmouth College</a> in 1787. From these new chapters, the Phi Beta Kappa evolved from a fraternity with principally academic and some social purposes to an entirely honorary organization recognizing scholastic achievement. While the Phi Beta Kappa developed some of the characteristics which still distinguish Greek-letter fraternities, it was left to other students to fill the natural human need for fellowship with kindred students by extension of fraternity to a purely social context.</p>
+<p>Further chapters appeared at <a href="/wiki/Union_College" title="Union College">Union College</a> in 1817, <a href="/wiki/Bowdoin_College" title="Bowdoin College">Bowdoin College</a> in 1825, and <a href="/wiki/Brown_University" title="Brown University">Brown University</a> in 1830. The original chapter at <a href="/wiki/College_of_William_and_Mary" class="mw-redirect" title="College of William and Mary">William &amp; Mary</a> was re-established. In 1831, the Harvard chapter publicly disclosed the fraternity's secrets during a period of strong anti-<a href="/wiki/Masonic" class="mw-redirect" title="Masonic">Masonic</a> sentiment. The first chapter established after the Phi Beta Kappa became an "open" society was that at <a href="/wiki/Trinity_College_(Connecticut)" title="Trinity College (Connecticut)">Trinity College (Connecticut)</a>, in 1845.</p>
+<p>In the pre-Civil War period Society chapters frequently sponsored addresses by distinguished speakers. Ralph Waldo Emerson's 1837 address at Harvard, "The American Scholar" is the best-known of those addresses, but there were dozens of others at schools such as Bowdoin, Brown, Harvard, Union, and Yale.<sup id="cite_ref-blurblawg.typepad.com_21-0" class="reference"><a href="#cite_note-blurblawg.typepad.com-21">[21]</a></sup></p>
+<p>As the first collegiate organization of its type to adopt a <a href="/wiki/Greek_alphabet" title="Greek alphabet">Greek</a>-letter name, the Phi Beta Kappa is generally considered a forerunner of modern college <a href="/wiki/Fraternities_and_sororities" title="Fraternities and sororities">fraternities</a> as well as the model for later collegiate honorary societies. Ironically, it was partly the rise of true "social" fraternities modelled after Phi Beta Kappa later in the nineteenth century which obviated the social aspects of membership in the organization, transforming it into the honorary society it is today.</p>
+<p>By 1883, when the United Chapters of Phi Beta Kappa was established, there were 25 chapters. The first women were elected to the society at the <a href="/wiki/University_of_Vermont" title="University of Vermont">University of Vermont</a> in 1875, and the first African-American member was elected at the same institution two years later. In 1885, however, Phi Beta Kappa eliminated those majoring in engineering from eligibility. This practice continues today.</p>
+<p>Each chapter is designated by its state and a Greek letter indicating its position in the order in which that state's chapters were founded. For example, Alpha of Pennsylvania refers to the chapter at <a href="/wiki/Dickinson_College" title="Dickinson College">Dickinson College</a>, founded in 1887; Beta of Pennsylvania, the chapter at <a href="/wiki/Lehigh_University" title="Lehigh University">Lehigh University</a> (founded later that same year); Gamma of Pennsylvania, the chapter at <a href="/wiki/Lafayette_College" title="Lafayette College">Lafayette College</a> (1890); and Delta of Pennsylvania, the chapter at the <a href="/wiki/University_of_Pennsylvania" title="University of Pennsylvania">University of Pennsylvania</a> (1892).</p>
+<p>By 1920, a total of 89 chapters existed at a variety of schools. New chapters are continually added; as of 2007 there were 276.<sup id="cite_ref-Chapters2007_22-0" class="reference"><a href="#cite_note-Chapters2007-22">[22]</a></sup> In 1988, the United Chapters of Phi Beta Kappa officially changed its name to <i>The Phi Beta Kappa Society</i>, recalling the name under which the organization had been established in 1776.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (September 2014)">citation needed</span></a></i>]</sup></p>
+<h2><span class="mw-headline" id="Key">Key</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Phi_Beta_Kappa_Society&amp;action=edit&amp;section=3" title="Edit section: Key">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This section <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Phi_Beta_Kappa_Society&amp;action=edit">improve this section</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span> <small><i>(November 2009)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<p>The symbol of the Phi Beta Kappa Society is a golden key engraved on the obverse with the image of a pointing finger, three stars, and the Greek letters from which the society takes its name. The stars are said today to show the ambition of young pupils and the three distinguishing principles of the Society: friendship, morality, and learning. On the reverse are found the initials "SP" in script, which stand for the Latin words <i>Societas Philosophiae</i>, or "Philosophical Society".</p>
+<p>The "key" of Phi Beta Kappa did not begin as a copy of a watchkey. The first insignia was in fact a larger, cut-and-engraved silver medallion, essentially a square of metal with a loop cut integrally with the body of the square from the same sheet of silver, in order to allow for suspension from one or two ribbons worn around the member's neck in the manner in which the older fraternities (and the Freemasonic bodies on which the collegiate societies were in part patterned) wore their own insignia.<sup id="cite_ref-ReferenceA_20-1" class="reference"><a href="#cite_note-ReferenceA-20">[20]</a></sup> Later, the size of the medallion was reduced and men took to wearing the insignia on their watch chains as fobs. The post or stem, designed for the winding of pocket-watches, did not appear on fobs until the beginning of the 19th century. The fobs were not even gold at first; the earliest extant 18th-century models were made of silver or pewter, and again it was not until the first quarter of the 19th century that gold largely supplanted the use of silver or pewter. Some notable exceptions did occur, as at Harvard, which until the first decade of the twentieth century continued the use of silver or pewter for some of its keys.</p>
+<p>Though several stylistic details have survived since the earliest days—the use of the stars, pointing hand, and Greek letters on the obverse, for example—notable differences exist between older keys and current examples. The name of the recipient was not engraved on the earliest fobs or keys, and was not until the first decade of the nineteenth century. The name of the school from which the fob or key came was also not routinely included on the earliest models, and sometimes the only way to trace a key to a particular school's chapter is by researching the name of the recipient against surviving class records. The number of stars on the obverse has also changed over the years, with never fewer than three, but on some known examples with as many as a dozen (the explanation as to the meaning of the stars in these early cases varies from chapter to chapter). Also, the date of the awarding of the honor is only seen on keys from the second quarter of the nineteenth century onward (some people mistake the date that appears on the fob or key—December 5, 1776—as the date that a particular fob or key was awarded, when in fact it is merely the date of the founding of the society). Only in 1912 was the key made to a uniform standard of size, golden appearance (some are plated), and engraving with the school's name, recipient's name, and date of the award.</p>
+<h2><span class="mw-headline" id="Activities_and_publications">Activities and publications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Phi_Beta_Kappa_Society&amp;action=edit&amp;section=4" title="Edit section: Activities and publications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Phi Beta Kappa Society publishes <i>The Key Reporter</i>,<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup> a newsletter distributed quarterly to all contributing members and biannually to all other members, and <i><a href="/wiki/The_American_Scholar_(magazine)" title="The American Scholar (magazine)">The American Scholar</a></i>, a quarterly subscription-based journal that accepts essays on literature, history, science, public affairs, and culture.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup></p>
+<p>Phi Beta Kappa also funds a number of awards, fellowships, and programs.</p>
+<p><span id="Phi_Beta_Kappa_Book_Awards"></span>The <b>Phi Beta Kappa Book Awards</b> are the <a href="/wiki/Ralph_Waldo_Emerson_Award" title="Ralph Waldo Emerson Award">Ralph Waldo Emerson Award</a>, the <a href="/w/index.php?title=Christian_Gauss_Award&amp;action=edit&amp;redlink=1" class="new" title="Christian Gauss Award (page does not exist)">Christian Gauss Award</a>, and the <a href="/wiki/Phi_Beta_Kappa_Award_in_Science" title="Phi Beta Kappa Award in Science">Phi Beta Kappa Award in Science</a>.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup> The Book Awards are given annually to outstanding scholarly books published in the United States. Winning works, which are drawn from the fields of the humanities, the social sciences, the natural sciences and mathematics, must be of broad interest and accessible to the general reader. Each award carries a $10,000 prize. The winners were selected from five short listed titles in each category.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup></p>
+<p>The <b>Mary Isabel Sibley Fellowship</b> is awarded annually, alternating in the fields of Greek and French. The award may be used for the study of Greek language, literature, history, or archaeology, or the study of French language or literature. Established in 1934 by Isabelle Stone (ΦΒΚ, Wellesley College) in honor of her mother, Mary Isabel Sibley, the fellowship was designed to reward the women in these two fields of study with the experience of studying and living abroad, which Miss Stone did in Greece during her studies. The fellowship carries a stipend of $20,000.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup></p>
+<p>The <b>Walter J. Jensen Fellowship</b> for French Language, Literature, and Culture aims to help educators and researchers improve education in standard French language, literature and culture and in the study of standard French in the United States. Established in 2001 by Professor Walter J. Jensen (ΦΒΚ, UCLA), the fellowship is awarded for at least six continuous months of study in France and carries a stipend originally set in 1995 at $10,000, to be adjusted for inflation. The stipend for 2016 was $15,500.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup></p>
+<p>The <b>Dr. Martin R. Lebowitz and Eve Lewellis Lebowitz Prize for Philosophical Achievement and Contribution</b> is awarded by the Phi Beta Kappa Society in conjunction with the <a href="/wiki/American_Philosophical_Association" title="American Philosophical Association">American Philosophical Association</a>. The associated Lebowitz Symposium is presented annually at a divisional meeting of the American Philosophical Association. The prize was established in 2013 by Eve Lewellis Lebowitz in honor of her late husband, Martin R. Lebowitz, to provide a significant, tangible recognition for excellence in philosophical thought. The Symposium program consists of a pair of lectures to be delivered at an annual APA division meeting and a Phi Beta Kappa event. The topic of the lectures should be an important philosophical issue of current interest, and the lectures should offer contrasting (not necessarily opposing) views on that topic. Honoraria for the symposiasts are funded at an adjusted rate based on the current size of the endowment. Previous winners have won as much as $25,000 each.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup></p>
+<p>The <b>Romanell-Phi Beta Kappa Professorship</b> is awarded annually to scholars in the field of philosophy, without restriction to any one school of philosophical thought. The professorship recognizes not only distinguished achievement but also the recipient’s contribution or potential contribution to public understanding of philosophy.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup></p>
+<p>Since 1956, the <b>Phi Beta Kappa Visiting Scholar Program</b> has offered undergraduates the opportunity to spend time with some of America's most distinguished scholars. The purpose of the program is to contribute to the intellectual life of the campus by making possible an exchange of ideas between the Visiting Scholars and the resident faculty and students.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup></p>
+<p>Phi Beta Kappa also sponsors a <b>National Arts &amp; Sciences Initiative</b>, which taps into its cross-country network of members, chapters, and associations to connect with leaders, shares the value of the arts and sciences through all of life, and advocates for policies that strengthen an arts and sciences education.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup></p>
+<h2><span class="mw-headline" id="Chapters">Chapters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Phi_Beta_Kappa_Society&amp;action=edit&amp;section=5" title="Edit section: Chapters">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Phi Beta Kappa has 284 chapters. Chapters are approved at the Triennial Conventions.</p>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/List_of_Phi_Beta_Kappa_chapters" title="List of Phi Beta Kappa chapters">List of Phi Beta Kappa chapters</a></div>
+<h2><span class="mw-headline" id="Notable_members">Notable members</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Phi_Beta_Kappa_Society&amp;action=edit&amp;section=6" title="Edit section: Notable members">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Since inception, 17 <a href="/wiki/President_of_the_United_States" title="President of the United States">U.S. Presidents</a>, 40 <a href="/wiki/Supreme_Court_of_the_United_States" title="Supreme Court of the United States">U.S. Supreme Court</a> Justices,<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup> and 136 <a href="/wiki/Nobel_Prize" title="Nobel Prize">Nobel Laureates</a> have been inducted members.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup></p>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/List_of_Phi_Beta_Kappa_members_by_year_of_admission" title="List of Phi Beta Kappa members by year of admission">List of Phi Beta Kappa members by year of admission</a></div>
+<h2><span class="mw-headline" id="Awards">Awards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Phi_Beta_Kappa_Society&amp;action=edit&amp;section=7" title="Edit section: Awards">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In 2008, the Phi Beta Kappa Society was awarded the Arts and Sciences Advocacy Award from the Council of Colleges of Arts and Sciences (<a href="/wiki/Council_of_Colleges_of_Arts_and_Sciences" title="Council of Colleges of Arts and Sciences">CCAS</a>). CCAS bestows this award upon an individual or organization demonstrating exemplary advocacy for the arts and sciences, flowing from a deep commitment to the intrinsic worth of liberal arts education.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[35]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Phi_Beta_Kappa_Society&amp;action=edit&amp;section=8" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Phi_Beta_Kappa_Award_in_Science" title="Phi Beta Kappa Award in Science">Phi Beta Kappa Award in Science</a></li>
+<li><a href="/wiki/Phi_Kappa_Phi" title="Phi Kappa Phi">Phi Kappa Phi</a></li>
+<li><a href="/wiki/Phi_Theta_Kappa" title="Phi Theta Kappa">Phi Theta Kappa</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Phi_Beta_Kappa_Society&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-collegeapps.about.com-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-collegeapps.about.com_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-collegeapps.about.com_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://collegeapps.about.com/od/choosingacollege/a/phi-beta-kappa.htm">"Archived copy"</a>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20161106203003/http://collegeapps.about.com/od/choosingacollege/a/phi-beta-kappa.htm">Archived</a> from the original on 2016-11-06<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-03-17</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhi+Beta+Kappa+Society&amp;rft.btitle=Archived+copy&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fcollegeapps.about.com%2Fod%2Fchoosingacollege%2Fa%2Fphi-beta-kappa.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web">Warren, John (2000). <a rel="nofollow" class="external text" href="http://www.achsnatl.org/warren2.asp">"Historical Information"</a>. Association of College Honor Societies<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-03-10</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhi+Beta+Kappa+Society&amp;rft.aufirst=John&amp;rft.aulast=Warren&amp;rft.btitle=Historical+Information&amp;rft.date=2000&amp;rft.genre=unknown&amp;rft.pub=Association+of+College+Honor+Societies&amp;rft_id=http%3A%2F%2Fwww.achsnatl.org%2Fwarren2.asp&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.pbk.org/iMIS15/PBK_Member/About_PBK/PBK_Member/About____.aspx?hkey=7b14c826-1a07-4148-a627-2c1a6b1ed3a6">"About Us"</a>. Phi Beta Kappa<span class="reference-accessdate">. Retrieved <span class="nowrap">22 January</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhi+Beta+Kappa+Society&amp;rft.btitle=About+Us&amp;rft.genre=unknown&amp;rft.pub=Phi+Beta+Kappa&amp;rft_id=http%3A%2F%2Fwww.pbk.org%2FiMIS15%2FPBK_Member%2FAbout_PBK%2FPBK_Member%2FAbout____.aspx%3Fhkey%3D7b14c826-1a07-4148-a627-2c1a6b1ed3a6&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.college.columbia.edu/news/twenty-four-seniors-be-initiated-phi-beta-kappa">"Columbia University"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhi+Beta+Kappa+Society&amp;rft.btitle=Columbia+University&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.college.columbia.edu%2Fnews%2Ftwenty-four-seniors-be-initiated-phi-beta-kappa&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.wellesley.edu/pbk/requirements">"Wellesley"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhi+Beta+Kappa+Society&amp;rft.btitle=Wellesley&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.wellesley.edu%2Fpbk%2Frequirements&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://undergrad.stanford.edu/opportunities-research/awards-and-graduation-honors/phi-beta-kappa">"Stanford"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhi+Beta+Kappa+Society&amp;rft.btitle=Stanford&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fundergrad.stanford.edu%2Fopportunities-research%2Fawards-and-graduation-honors%2Fphi-beta-kappa&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.college.upenn.edu/pbk">"University of Pennsylvania"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhi+Beta+Kappa+Society&amp;rft.btitle=University+of+Pennsylvania&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.college.upenn.edu%2Fpbk&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://isites.harvard.edu/icb/icb.do?keyword=k19082&amp;pageid=icb.page189953">"Harvard"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhi+Beta+Kappa+Society&amp;rft.btitle=Harvard&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fisites.harvard.edu%2Ficb%2Ficb.do%3Fkeyword%3Dk19082%26pageid%3Dicb.page189953&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.scu.edu/cas/academics/phibetakappa/pbkhistory.cfm">"Santa Clara"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhi+Beta+Kappa+Society&amp;rft.btitle=Santa+Clara&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.scu.edu%2Fcas%2Facademics%2Fphibetakappa%2Fpbkhistory.cfm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://honors.ucr.edu/opportunities/pbk/">"U.C. Riverside"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhi+Beta+Kappa+Society&amp;rft.btitle=U.C.+Riverside&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fhonors.ucr.edu%2Fopportunities%2Fpbk%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-PBK_Eligibility-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-PBK_Eligibility_11-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150129205109/http://www.pbk.org/iMIS15/PBK_Member/MEMBERSHIP/Membership_Requirements/PBK_Member/Membership/Stipulations.aspx?hkey=6198b2e3-26db-4bd3-aa45-721b2c6b275c">"Stipulations Concerning Eligibility for Membership in Course"</a>. Phi Beta Kappa Society. Archived from <a rel="nofollow" class="external text" href="http://www.pbk.org/iMIS15/PBK_Member/MEMBERSHIP/Membership_Requirements/PBK_Member/Membership/Stipulations.aspx?hkey=6198b2e3-26db-4bd3-aa45-721b2c6b275c">the original</a> on 2015-01-29.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhi+Beta+Kappa+Society&amp;rft.btitle=Stipulations+Concerning+Eligibility+for+Membership+in+Course&amp;rft.genre=unknown&amp;rft.pub=Phi+Beta+Kappa+Society&amp;rft_id=http%3A%2F%2Fwww.pbk.org%2FiMIS15%2FPBK_Member%2FMEMBERSHIP%2FMembership_Requirements%2FPBK_Member%2FMembership%2FStipulations.aspx%3Fhkey%3D6198b2e3-26db-4bd3-aa45-721b2c6b275c&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-WSJ-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-WSJ_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-WSJ_12-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Nancy Keates (4 Nov 2005). <a rel="nofollow" class="external text" href="https://online.wsj.com/articles/SB113107309946088181">"Phi Beta What?"</a>. <i><a href="/wiki/The_Wall_Street_Journal" title="The Wall Street Journal">The Wall Street Journal</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">7 September</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhi+Beta+Kappa+Society&amp;rft.atitle=Phi+Beta+What%3F&amp;rft.au=Nancy+Keates&amp;rft.date=2005-11-04&amp;rft.genre=article&amp;rft.jtitle=The+Wall+Street+Journal&amp;rft_id=https%3A%2F%2Fonline.wsj.com%2Farticles%2FSB113107309946088181&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation news">Bernstein, Emily M. (1996-05-26). <a rel="nofollow" class="external text" href="https://www.nytimes.com/1996/05/26/nyregion/phi-beta-kappa-key-being-turned-down-by-many-honorees.html">"Phi Beta Kappa Key Being Turned Down By Many Honorees"</a>. <i>The New York Times</i>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0362-4331">0362-4331</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-06-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhi+Beta+Kappa+Society&amp;rft.atitle=Phi+Beta+Kappa+Key+Being+Turned+Down+By+Many+Honorees&amp;rft.aufirst=Emily+M.&amp;rft.aulast=Bernstein&amp;rft.date=1996-05-26&amp;rft.genre=article&amp;rft.issn=0362-4331&amp;rft.jtitle=The+New+York+Times&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F1996%2F05%2F26%2Fnyregion%2Fphi-beta-kappa-key-being-turned-down-by-many-honorees.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web">Society, Phi Beta Kappa. <a rel="nofollow" class="external text" href="https://www.pbk.org/WEB/PBK_Member/About_PBK/PBK_History/PBK_Member/PBK_History.aspx?hkey=44391228-bb7c-4705-bd2e-c785f3c1d876">"PBK_History"</a>. <i>www.pbk.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-06-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhi+Beta+Kappa+Society&amp;rft.atitle=PBK_History&amp;rft.aufirst=Phi+Beta+Kappa&amp;rft.aulast=Society&amp;rft.genre=unknown&amp;rft.jtitle=www.pbk.org&amp;rft_id=https%3A%2F%2Fwww.pbk.org%2FWEB%2FPBK_Member%2FAbout_PBK%2FPBK_History%2FPBK_Member%2FPBK_History.aspx%3Fhkey%3D44391228-bb7c-4705-bd2e-c785f3c1d876&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Brinkley.2C_M._Kent_Brinkley-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-Brinkley.2C_M._Kent_Brinkley_15-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Brinkley, M. Kent Brinkley (March 1, 1999). <a rel="nofollow" class="external text" href="http://www.acacia16.org/GL/History">"Freemasonry in Williamsburge: An Overview History of Williamsburg Lodge #6, A.F.&amp; A.M. of Virginia"</a>. Williamsburg, Virginia: Acacia Lodge No. 16 A.F.&amp;A.M.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhi+Beta+Kappa+Society&amp;rft.au=Brinkley%2C+M.+Kent+Brinkley&amp;rft.btitle=Freemasonry+in+Williamsburge%3A+An+Overview+History+of+Williamsburg+Lodge+%236%2C+A.F.%26+A.M.+of+Virginia&amp;rft.date=1999-03-01&amp;rft.genre=unknown&amp;rft.place=Williamsburg%2C+Virginia&amp;rft.pub=Acacia+Lodge+No.+16+A.F.%26A.M.&amp;rft_id=http%3A%2F%2Fwww.acacia16.org%2FGL%2FHistory&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Hastings-16"><span class="mw-cite-backlink">^ <a href="#cite_ref-Hastings_16-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Hastings_16-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Hastings_16-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Hastings_16-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Hastings_16-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Hastings_16-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-Hastings_16-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-Hastings_16-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-Hastings_16-8"><sup><i><b>i</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Hastings, William T. (1965). <i>Phi Beta Kappa as a Secret Society with its Relations to Freemasonry and Antimasonry Some Supplementary Documents</i>. <a href="/wiki/Richmond,_Virginia" title="Richmond, Virginia">Richmond, Virginia</a>: United Chapters of Phi Beta Kappa.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhi+Beta+Kappa+Society&amp;rft.au=Hastings%2C+William+T.&amp;rft.btitle=Phi+Beta+Kappa+as+a+Secret+Society+with+its+Relations+to+Freemasonry+and+Antimasonry+Some+Supplementary+Documents&amp;rft.date=1965&amp;rft.genre=book&amp;rft.place=Richmond%2C+Virginia&amp;rft.pub=United+Chapters+of+Phi+Beta+Kappa&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Fleming.2C_Bill-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-Fleming.2C_Bill_17-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Fleming, Bill (May 6, 1996). <a rel="nofollow" class="external text" href="http://www.shsu.edu/~eng_wpf/frat_hist.html">"Phi Beta Kappa"</a>. <i>Brief History of Fraternities</i>. Sam Houston State University<span class="reference-accessdate">. Retrieved <span class="nowrap">October 26,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhi+Beta+Kappa+Society&amp;rft.atitle=Phi+Beta+Kappa&amp;rft.au=Fleming%2C+Bill&amp;rft.date=1996-05-06&amp;rft.genre=unknown&amp;rft.jtitle=Brief+History+of+Fraternities&amp;rft_id=http%3A%2F%2Fwww.shsu.edu%2F~eng_wpf%2Ffrat_hist.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-DoG_Becca2004-18"><span class="mw-cite-backlink">^ <a href="#cite_ref-DoG_Becca2004_18-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-DoG_Becca2004_18-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Millfield, Becca (November 2, 2004). <a rel="nofollow" class="external text" href="http://www.dogstreetjournal.com/story/2049">"Shhh! The Secret Side to the College’s Lesser Known Societies"</a>. <i>The DoG Street Journal</i>. The College of William &amp; Mary's daily online.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhi+Beta+Kappa+Society&amp;rft.atitle=Shhh%21+The+Secret+Side+to+the+College%E2%80%99s+Lesser+Known+Societies&amp;rft.au=Millfield%2C+Becca&amp;rft.date=2004-11-02&amp;rft.genre=unknown&amp;rft.jtitle=The+DoG+Street+Journal&amp;rft_id=http%3A%2F%2Fwww.dogstreetjournal.com%2Fstory%2F2049&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-scrc.swem.wm.edu-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-scrc.swem.wm.edu_19-0">^</a></b></span> <span class="reference-text">"F.H.C. Society," <a rel="nofollow" class="external text" href="http://scrc.swem.wm.edu/controlcard.php?id=6514">University Archives Subject File Collection</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20090115040659/http://scrc.swem.wm.edu/controlcard.php?id=6514">Archived</a> January 15, 2009, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>., Special Collections Research Center, Earl Gregg Swem Library, College of William and Mary.</span></li>
+<li id="cite_note-ReferenceA-20"><span class="mw-cite-backlink">^ <a href="#cite_ref-ReferenceA_20-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ReferenceA_20-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Robert W. Storm, "In Token of Friendship: Early Fraternity Medals at the College of William and Mary"; 1973; typescript in university archives, Earl Gregg Swem Library, College of William and Mary, Williamsburg, Virginia.</span></li>
+<li id="cite_note-blurblawg.typepad.com-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-blurblawg.typepad.com_21-0">^</a></b></span> <span class="reference-text">Alfred L. Brophy, <a rel="nofollow" class="external text" href="http://blurblawg.typepad.com/files/greene.pdf">The Rule of Law in College Literary Addresses: The Case of William Greene, Cumberland Law Review</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160329200920/http://blurblawg.typepad.com/files/greene.pdf">Archived</a> March 29, 2016, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. (2001) 32: 231–85.</span></li>
+<li id="cite_note-Chapters2007-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-Chapters2007_22-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://staging.pbk.org/AM/Template.cfm?Section=Chapters1">"About Chapters"</a>. The Phi Beta Kappa Society<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-11-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhi+Beta+Kappa+Society&amp;rft.btitle=About+Chapters&amp;rft.genre=unknown&amp;rft.pub=The+Phi+Beta+Kappa+Society&amp;rft_id=http%3A%2F%2Fstaging.pbk.org%2FAM%2FTemplate.cfm%3FSection%3DChapters1&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.keyreporter.org">http://www.keyreporter.org</a></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://undergrad.stanford.edu/opportunities-research/awards-and-graduation-honors/phi-beta-kappa">"Phi Beta Kappa"</a>. <i>Stanford University</i>. Stanford<span class="reference-accessdate">. Retrieved <span class="nowrap">15 May</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhi+Beta+Kappa+Society&amp;rft.atitle=Phi+Beta+Kappa&amp;rft.genre=unknown&amp;rft.jtitle=Stanford+University&amp;rft_id=https%3A%2F%2Fundergrad.stanford.edu%2Fopportunities-research%2Fawards-and-graduation-honors%2Fphi-beta-kappa&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.pbk.org/WEB/PBK_Member/PROGRAMS/AWARDS___FELLOWSHIPS/PBK_Book_Awards/PBK_Member/Programs/Awards___Fellowships/Book_Awards.aspx?hkey=2e9f4fb1-8783-4a57-be70-477f88a62c69">"Book Awards"</a>. <i>The Phi Beta Kappa Society</i>. The PBK Society<span class="reference-accessdate">. Retrieved <span class="nowrap">15 May</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhi+Beta+Kappa+Society&amp;rft.atitle=Book+Awards&amp;rft.genre=unknown&amp;rft.jtitle=The+Phi+Beta+Kappa+Society&amp;rft_id=https%3A%2F%2Fwww.pbk.org%2FWEB%2FPBK_Member%2FPROGRAMS%2FAWARDS___FELLOWSHIPS%2FPBK_Book_Awards%2FPBK_Member%2FPrograms%2FAwards___Fellowships%2FBook_Awards.aspx%3Fhkey%3D2e9f4fb1-8783-4a57-be70-477f88a62c69&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.pbk.org/web/2016BookAwards">https://www.pbk.org/web/2016BookAwards</a></span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.pbk.org/WEB/PBK_Member/PROGRAMS/AWARDS___FELLOWSHIPS/Sibley_Fellowship/PBK_Member/Programs/Awards___Fellowships/Sibley_Fellowship.aspx?hkey=fe51c0cb-0859-40c6-965f-665744f69cab">https://www.pbk.org/WEB/PBK_Member/PROGRAMS/AWARDS___FELLOWSHIPS/Sibley_Fellowship/PBK_Member/Programs/Awards___Fellowships/Sibley_Fellowship.aspx?hkey=fe51c0cb-0859-40c6-965f-665744f69cab</a></span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.pbk.org/WEB/PBK_Member/PROGRAMS/AWARDS___FELLOWSHIPS/Jensen_Fellowship/PBK_Member/Programs/Awards___Fellowships/Jensen_Fellowship.aspx?hkey=c74e1292-5356-43b0-babc-c781a0cc356a">https://www.pbk.org/WEB/PBK_Member/PROGRAMS/AWARDS___FELLOWSHIPS/Jensen_Fellowship/PBK_Member/Programs/Awards___Fellowships/Jensen_Fellowship.aspx?hkey=c74e1292-5356-43b0-babc-c781a0cc356a</a></span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.pbk.org/WEB/PBK_Member/PROGRAMS/AWARDS___FELLOWSHIPS/The_Lebowitz_Prize/PBK_Member/Programs/Awards___Fellowships/The_Lebowitz_Prizes.aspx?hkey=9d095cb3-20c0-4a57-84f9-66f1020ec722">https://www.pbk.org/WEB/PBK_Member/PROGRAMS/AWARDS___FELLOWSHIPS/The_Lebowitz_Prize/PBK_Member/Programs/Awards___Fellowships/The_Lebowitz_Prizes.aspx?hkey=9d095cb3-20c0-4a57-84f9-66f1020ec722</a></span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.pbk.org/WEB/PBK_Member/PROGRAMS/AWARDS___FELLOWSHIPS/Romanell_Professorship/PBK_Member/Programs/Awards___Fellowships/Romanell_Professorship.aspx?hkey=2a4f48c1-d7e9-4dc6-99f0-0818fd1d2473">https://www.pbk.org/WEB/PBK_Member/PROGRAMS/AWARDS___FELLOWSHIPS/Romanell_Professorship/PBK_Member/Programs/Awards___Fellowships/Romanell_Professorship.aspx?hkey=2a4f48c1-d7e9-4dc6-99f0-0818fd1d2473</a></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.pbk.org/WEB/PBK_Member/PROGRAMS/Visiting_Scholars/PBK_Member/Programs/Visiting_Scholars/Visiting_Scholars.aspx?hkey=ffc468af-95a4-48af-86c7-e03e68b2f18e">https://www.pbk.org/WEB/PBK_Member/PROGRAMS/Visiting_Scholars/PBK_Member/Programs/Visiting_Scholars/Visiting_Scholars.aspx?hkey=ffc468af-95a4-48af-86c7-e03e68b2f18e</a></span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.pbk.org/WEB/PBK_Member/PROGRAMS/Arts_Sciences/PBK_Member/Programs/Arts___Sciences/National_Arts_and_Sciences_Initiative.aspx?hkey=783e28d2-51de-4b92-bfab-c60eb602c14e">https://www.pbk.org/WEB/PBK_Member/PROGRAMS/Arts_Sciences/PBK_Member/Programs/Arts___Sciences/National_Arts_and_Sciences_Initiative.aspx?hkey=783e28d2-51de-4b92-bfab-c60eb602c14e</a></span></li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.pbk.org/WEB/PBK_Member/About_PBK/PBK_Member/About____.aspx?hkey=7b14c826-1a07-4148-a627-2c1a6b1ed3a6">https://www.pbk.org/WEB/PBK_Member/About_PBK/PBK_Member/About____.aspx?hkey=7b14c826-1a07-4148-a627-2c1a6b1ed3a6</a></span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.pbk.org/infoview/PBK_InfoView.aspx?t=&amp;id=59">Phi Beta Kappa Society&#160;:: Phi Beta Kappa Society</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20150113034514/http://www.pbk.org/infoview/PBK_InfoView.aspx?t=&amp;id=59">Archived</a> January 13, 2015, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.. Pbk.org (2012-10-05). Retrieved on 2013-08-27.</span></li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ccas.net/i4a/pages/index.cfm?pageid=3636">"Arts &amp; Sciences Advocacy Award – Council of Colleges of Arts and Sciences"</a>. <i>www.ccas.net</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-05-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhi+Beta+Kappa+Society&amp;rft.atitle=Arts+%26+Sciences+Advocacy+Award+%E2%80%93+Council+of+Colleges+of+Arts+and+Sciences&amp;rft.genre=unknown&amp;rft.jtitle=www.ccas.net&amp;rft_id=http%3A%2F%2Fwww.ccas.net%2Fi4a%2Fpages%2Findex.cfm%3Fpageid%3D3636&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Phi_Beta_Kappa_Society&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.pbk.org">Official website</a></span></span></li>
+<li><a rel="nofollow" class="external text" href="https://www.facebook.com/phibetakappa">Phi Beta Kappa on Facebook</a></li>
+<li><a rel="nofollow" class="external text" href="https://twitter.com/PhiBetaKappa">Phi Beta Kappa on Twitter</a></li>
+<li><a href="/wiki/File:Wikisource-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/15px-Wikisource-logo.svg.png" width="15" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/23px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/30px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></a> Texts on Wikisource:
+<ul>
+<li><a href="/wiki/Ralph_Waldo_Emerson" title="Ralph Waldo Emerson">Ralph Waldo Emerson</a>, <a href="https://en.wikisource.org/wiki/The_American_Scholar" class="extiw" title="s:The American Scholar"><i>The American Scholar</i></a>, Phi Beta Kappa oration, delivered 1837</li>
+<li><a href="/wiki/William_Raimond_Baird" title="William Raimond Baird">William Raimond Baird</a>, “<a href="https://en.wikisource.org/wiki/Baird%27s_Manual_of_American_College_Fraternities_(1879)/Phi_Beta_Kappa" class="extiw" title="s:Baird's Manual of American College Fraternities (1879)/Phi Beta Kappa">Phi Beta Kappa</a>,” <i><a href="/wiki/Baird%27s_Manual_of_American_College_Fraternities" title="Baird's Manual of American College Fraternities">Baird's Manual of American College Fraternities</a></i>, 1879</li>
+<li><a href="/wiki/Carl_Schurz" title="Carl Schurz">Carl Schurz</a>, <a href="https://en.wikisource.org/wiki/Phi_Beta_Kappa_Oration_at_Harvard" class="extiw" title="s:Phi Beta Kappa Oration at Harvard">Phi Beta Kappa Oration at Harvard</a>, 1882</li>
+<li><cite class="citation encyclopaedia">"<a href="https://en.wikisource.org/wiki/The_New_Student%27s_Reference_Work/Phi_Beta_Kappa" class="extiw" title="s:The New Student's Reference Work/Phi Beta Kappa">Phi Beta Kappa</a>". <i><a href="https://en.wikisource.org/wiki/The_New_Student%27s_Reference_Work" class="extiw" title="s:The New Student's Reference Work">The New Student's Reference Work</a></i>. 1914.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhi+Beta+Kappa+Society&amp;rft.atitle=Phi+Beta+Kappa&amp;rft.btitle=The+New+Student%27s+Reference+Work&amp;rft.date=1914&amp;rft.genre=bookitem&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+</li>
+</ul>
+<p><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Phi_Beta_Kappa_Society&amp;params=38.911454_N_-77.042083_E_"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">38°54′41″N</span> <span class="longitude">77°02′31″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">38.911454°N 77.042083°W</span><span style="display:none">﻿ / <span class="geo">38.911454; -77.042083</span></span></span></a></span></span></span></p>
+<div role="navigation" class="navbox" aria-labelledby="College_of_William_.26_Mary" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background: #115740; color: white; -moz-box-shadow: inset 2px 2px 0 #B9975B, inset -2px -2px 0 #B9975B; -webkit-box-shadow: inset 2px 2px 0 #B9975B, inset -2px -2px 0 #B9975B; box-shadow: inset 2px 2px 0 #B9975B, inset -2px -2px 0 #B9975B;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:College_of_William_%26_Mary" title="Template:College of William &amp; Mary"><abbr title="View this template" style="background: #115740; color: white; -moz-box-shadow: inset 2px 2px 0 #B9975B, inset -2px -2px 0 #B9975B; -webkit-box-shadow: inset 2px 2px 0 #B9975B, inset -2px -2px 0 #B9975B; box-shadow: inset 2px 2px 0 #B9975B, inset -2px -2px 0 #B9975B;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:College_of_William_%26_Mary" title="Template talk:College of William &amp; Mary"><abbr title="Discuss this template" style="background: #115740; color: white; -moz-box-shadow: inset 2px 2px 0 #B9975B, inset -2px -2px 0 #B9975B; -webkit-box-shadow: inset 2px 2px 0 #B9975B, inset -2px -2px 0 #B9975B; box-shadow: inset 2px 2px 0 #B9975B, inset -2px -2px 0 #B9975B;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:College_of_William_%26_Mary&amp;action=edit"><abbr title="Edit this template" style="background: #115740; color: white; -moz-box-shadow: inset 2px 2px 0 #B9975B, inset -2px -2px 0 #B9975B; -webkit-box-shadow: inset 2px 2px 0 #B9975B, inset -2px -2px 0 #B9975B; box-shadow: inset 2px 2px 0 #B9975B, inset -2px -2px 0 #B9975B;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="College_of_William_.26_Mary" style="font-size:114%;margin:0 4em"><a href="/wiki/College_of_William_%26_Mary" title="College of William &amp; Mary"><span style="color:white">College of William &amp; Mary</span></a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #115740; color: white; -moz-box-shadow: inset 2px 2px 0 #B9975B, inset -2px -2px 0 #B9975B; -webkit-box-shadow: inset 2px 2px 0 #B9975B, inset -2px -2px 0 #B9975B; box-shadow: inset 2px 2px 0 #B9975B, inset -2px -2px 0 #B9975B;;width:1%"><a href="/wiki/College_of_William_%26_Mary#Academics" title="College of William &amp; Mary"><span style="color:white">Academics</span></a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<dl>
+<dt>Affiliate institutions</dt>
+<dd><a href="/wiki/Richard_Bland_College" title="Richard Bland College">Richard Bland College</a></dd>
+</dl>
+<dl>
+<dt>Schools</dt>
+<dd><a href="/wiki/Mason_School_of_Business" title="Mason School of Business">Mason School of Business</a></dd>
+<dd><a href="/wiki/College_of_William_%26_Mary_Graduate_School_of_Arts_and_Sciences" title="College of William &amp; Mary Graduate School of Arts and Sciences">School of Arts and Sciences</a></dd>
+<dd><a href="/wiki/College_of_William_%26_Mary_School_of_Education" title="College of William &amp; Mary School of Education">School of Education</a></dd>
+<dd><a href="/wiki/William_%26_Mary_Law_School" title="William &amp; Mary Law School">Law School</a></dd>
+<dd><a href="/wiki/Virginia_Institute_of_Marine_Science" title="Virginia Institute of Marine Science">Virginia Institute of Marine Science</a></dd>
+</dl>
+<dl>
+<dt>Programs</dt>
+<dd><a href="/wiki/Center_for_Gifted_Education" title="Center for Gifted Education">Center for Gifted Education</a></dd>
+<dd><a href="/wiki/Omohundro_Institute_of_Early_American_History_and_Culture" title="Omohundro Institute of Early American History and Culture">Omohundro Institute of Early American History and Culture</a></dd>
+<dd><a href="/wiki/The_Thomas_Jefferson_Program_in_Public_Policy" title="The Thomas Jefferson Program in Public Policy">Thomas Jefferson Program in Public Policy</a></dd>
+</dl>
+<dl>
+<dt>Other</dt>
+<dd><a href="/wiki/Brigham%E2%80%93Kanner_Property_Rights_Conference" title="Brigham–Kanner Property Rights Conference">Brigham–Kanner Property Rights Conference</a> / <a href="/wiki/Brigham%E2%80%93Kanner_Property_Rights_Prize" title="Brigham–Kanner Property Rights Prize">Prize</a></dd>
+<dd><a href="/wiki/Honor_code" class="mw-redirect" title="Honor code">Honor code</a></dd>
+<dd><a href="/wiki/Institute_of_Bill_of_Rights_Law" title="Institute of Bill of Rights Law">Institute of Bill of Rights Law</a></dd>
+<dd><a class="mw-selflink selflink">Phi Beta Kappa Society</a></dd>
+<dd><a href="/wiki/Public_Ivy" title="Public Ivy">Public Ivy</a></dd>
+<dd><a href="/wiki/William_%26_Mary_scandal_of_1951" title="William &amp; Mary scandal of 1951">Scandal of 1951</a></dd>
+</dl>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #115740; color: white; -moz-box-shadow: inset 2px 2px 0 #B9975B, inset -2px -2px 0 #B9975B; -webkit-box-shadow: inset 2px 2px 0 #B9975B, inset -2px -2px 0 #B9975B; box-shadow: inset 2px 2px 0 #B9975B, inset -2px -2px 0 #B9975B;;width:1%"><a href="/wiki/William_%26_Mary_Tribe" title="William &amp; Mary Tribe"><span style="color:white">Athletics</span></a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<dl>
+<dt>Sports</dt>
+<dd><a href="/wiki/William_%26_Mary_Tribe_football" title="William &amp; Mary Tribe football">Football</a> (<a href="/wiki/Capital_Cup" title="Capital Cup">Capital Cup</a>)</dd>
+<dd><a href="/wiki/William_%26_Mary_Tribe_men%27s_basketball" title="William &amp; Mary Tribe men's basketball">Men's basketball</a></dd>
+<dd><a href="/wiki/William_%26_Mary_Tribe_women%27s_basketball" title="William &amp; Mary Tribe women's basketball">Women's basketball</a></dd>
+<dd><a href="/wiki/William_%26_Mary_Tribe_men%27s_soccer" title="William &amp; Mary Tribe men's soccer">Men's soccer</a></dd>
+<dd><a href="/wiki/William_%26_Mary_Tribe_women%27s_soccer" title="William &amp; Mary Tribe women's soccer">Women's soccer</a></dd>
+<dd><a href="/wiki/William_%26_Mary_Tribe_baseball" title="William &amp; Mary Tribe baseball">Baseball</a></dd>
+</dl>
+<dl>
+<dt>Facilities</dt>
+<dd><a href="/wiki/Albert%E2%80%93Daly_Field" title="Albert–Daly Field">Albert–Daly Field</a></dd>
+<dd><a href="/wiki/Blow_Gymnasium" title="Blow Gymnasium">Blow Gymnasium</a></dd>
+<dd><a href="/wiki/Busch_Field" title="Busch Field">Busch Field</a></dd>
+<dd><a href="/wiki/Jimmye_Laycock_Football_Center" title="Jimmye Laycock Football Center">Jimmye Laycock Football Center</a></dd>
+<dd><a href="/wiki/Millie_West_Tennis_Facility" title="Millie West Tennis Facility">Millie West Tennis Facility</a></dd>
+<dd><a href="/wiki/Kaplan_Arena" title="Kaplan Arena">Kaplan Arena</a></dd>
+<dd><a href="/wiki/McCormack%E2%80%93Nagelsen_Tennis_Center" title="McCormack–Nagelsen Tennis Center">McCormack–Nagelsen Tennis Center</a></dd>
+<dd><a href="/wiki/Plumeri_Park" title="Plumeri Park">Plumeri Park</a></dd>
+<dd><a href="/wiki/Zable_Stadium" title="Zable Stadium">Walter J. Zable Stadium at Cary Field</a></dd>
+</dl>
+<dl>
+<dt>Related</dt>
+<dd><a href="/wiki/Colonial_Athletic_Association" title="Colonial Athletic Association">Colonial Athletic Association</a></dd>
+<dd><a href="/wiki/Griffin_(mascot)" title="Griffin (mascot)">Griffin</a></dd>
+<dd><a href="/wiki/William_%26_Mary_Pep_Band" title="William &amp; Mary Pep Band">Pep Band</a></dd>
+<dd><i><a href="/wiki/Tribe_Fight_Song" title="Tribe Fight Song">Tribe Fight Song</a></i></dd>
+</dl>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #115740; color: white; -moz-box-shadow: inset 2px 2px 0 #B9975B, inset -2px -2px 0 #B9975B; -webkit-box-shadow: inset 2px 2px 0 #B9975B, inset -2px -2px 0 #B9975B; box-shadow: inset 2px 2px 0 #B9975B, inset -2px -2px 0 #B9975B;;width:1%">Campus</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alan_B._Miller_Hall" title="Alan B. Miller Hall">Alan B. Miller Hall</a></li>
+<li><a href="/wiki/Alumni_House_(College_of_William_%26_Mary)" title="Alumni House (College of William &amp; Mary)">Alumni House</a></li>
+<li><a href="/wiki/Brafferton_(building)" title="Brafferton (building)">Brafferton</a></li>
+<li><a href="/wiki/Crim_Dell_bridge" title="Crim Dell bridge">Crim Dell bridge</a></li>
+<li><a href="/wiki/Earl_Gregg_Swem_Library" title="Earl Gregg Swem Library">Earl Gregg Swem Library</a></li>
+<li><a href="/wiki/Henry_C._Wolf_Law_Library" title="Henry C. Wolf Law Library">Henry C. Wolf Law Library</a></li>
+<li><a href="/wiki/Mason_School_of_Business_Library" class="mw-redirect" title="Mason School of Business Library">Mason School of Business Library</a></li>
+<li><a href="/wiki/Muscarelle_Museum_of_Art" title="Muscarelle Museum of Art">Muscarelle Museum of Art</a></li>
+<li><a href="/wiki/Phi_Beta_Kappa_Memorial_Hall" title="Phi Beta Kappa Memorial Hall">Phi Beta Kappa Memorial Hall</a></li>
+<li><a href="/wiki/Sunken_Garden_(Virginia)" title="Sunken Garden (Virginia)">Sunken Garden</a></li>
+<li><a href="/wiki/William_J._Hargis_Jr._Library" title="William J. Hargis Jr. Library">William J. Hargis Jr. Library</a></li>
+<li><a href="/wiki/Wren_Building" title="Wren Building">Wren Building</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #115740; color: white; -moz-box-shadow: inset 2px 2px 0 #B9975B, inset -2px -2px 0 #B9975B; -webkit-box-shadow: inset 2px 2px 0 #B9975B, inset -2px -2px 0 #B9975B; box-shadow: inset 2px 2px 0 #B9975B, inset -2px -2px 0 #B9975B;;width:1%"><a href="/wiki/History_of_The_College_of_William_%26_Mary" class="mw-redirect" title="History of The College of William &amp; Mary"><span style="color:white">History</span></a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/History_of_The_College_of_William_%26_Mary" class="mw-redirect" title="History of The College of William &amp; Mary">History</a></li>
+<li><a href="/wiki/History_of_The_College_of_William_%26_Mary#Firsts" class="mw-redirect" title="History of The College of William &amp; Mary">Firsts</a></li>
+<li><a href="/wiki/Colonial_Colleges" class="mw-redirect" title="Colonial Colleges">Colonial Colleges</a></li>
+<li><a href="/wiki/Matthew_Whaley_School" title="Matthew Whaley School">Matthew Whaley School</a></li>
+<li><a href="/wiki/Christopher_Newport_University#History" title="Christopher Newport University">Christopher Newport University</a></li>
+<li><a href="/wiki/Old_Dominion_University#History" title="Old Dominion University">Old Dominion University</a></li>
+<li><a href="/wiki/The_Colleges_of_William_%26_Mary" title="The Colleges of William &amp; Mary">The Colleges of William &amp; Mary</a></li>
+<li><a href="/wiki/Wren_Building#Priorities_of_the_College" title="Wren Building">Priorities of the College</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #115740; color: white; -moz-box-shadow: inset 2px 2px 0 #B9975B, inset -2px -2px 0 #B9975B; -webkit-box-shadow: inset 2px 2px 0 #B9975B, inset -2px -2px 0 #B9975B; box-shadow: inset 2px 2px 0 #B9975B, inset -2px -2px 0 #B9975B;;width:1%">People</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_College_of_William_%26_Mary_alumni" title="List of College of William &amp; Mary alumni">Notable alumni</a></li>
+<li><a href="/wiki/List_of_presidents_of_the_College_of_William_%26_Mary" title="List of presidents of the College of William &amp; Mary">Presidents</a></li>
+<li><a href="/wiki/Chancellor_of_the_College_of_William_%26_Mary" title="Chancellor of the College of William &amp; Mary">Chancellors</a></li>
+<li><a href="/wiki/William_III_of_England" title="William III of England">King William III</a> &amp; <a href="/wiki/Mary_II_of_England" title="Mary II of England">Queen Mary II</a></li>
+<li><a href="/wiki/The_College_of_William_%26_Mary#Speakers" class="mw-redirect" title="The College of William &amp; Mary">Commencement speakers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #115740; color: white; -moz-box-shadow: inset 2px 2px 0 #B9975B, inset -2px -2px 0 #B9975B; -webkit-box-shadow: inset 2px 2px 0 #B9975B, inset -2px -2px 0 #B9975B; box-shadow: inset 2px 2px 0 #B9975B, inset -2px -2px 0 #B9975B;;width:1%"><a href="/wiki/College_of_William_%26_Mary#Student_life" title="College of William &amp; Mary"><span style="color:white">Student life</span></a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/American_Parliamentary_Debate_Association" title="American Parliamentary Debate Association">American Parliamentary Debate Association</a></li>
+<li><a href="/wiki/Williamsburg_Area_Transit_Authority" title="Williamsburg Area Transit Authority">Bus transportation</a></li>
+<li><a href="/wiki/The_Gentlemen_of_the_College" title="The Gentlemen of the College">The Gentlemen of the College</a></li>
+<li><a href="/wiki/The_College_of_William_%26_Mary_fraternity_and_sorority_system" class="mw-redirect" title="The College of William &amp; Mary fraternity and sorority system">Greek life</a></li>
+<li><i><a href="/wiki/Our_Alma_Mater" title="Our Alma Mater">Our Alma Mater</a></i></li>
+<li><a href="/wiki/List_of_publications_at_the_College_of_William_%26_Mary" title="List of publications at the College of William &amp; Mary">Publications</a>
+<ul>
+<li><i><a href="/wiki/The_DoG_Street_Journal" title="The DoG Street Journal">DoG Street Journal</a></i></li>
+<li><i><a href="/wiki/The_Flat_Hat" title="The Flat Hat">Flat Hat</a></i></li>
+<li><i><a href="/wiki/The_Virginia_Informer" title="The Virginia Informer">Virginia Informer</a></i></li>
+<li><i><a href="/wiki/William_and_Mary_Quarterly" title="William and Mary Quarterly">William and Mary Quarterly</a></i></li>
+</ul>
+</li>
+<li><a href="/wiki/Secret_societies_at_the_College_of_William_%26_Mary" title="Secret societies at the College of William &amp; Mary">Secret societies</a>
+<ul>
+<li><a href="/wiki/Seven_Society_(College_of_William_%26_Mary)" title="Seven Society (College of William &amp; Mary)">7 Society</a></li>
+<li><a href="/wiki/Bishop_James_Madison_Society" title="Bishop James Madison Society">Bishop James Madison Society</a></li>
+<li><a href="/wiki/Flat_Hat_Club" title="Flat Hat Club">Flat Hat Club</a></li>
+<li><a href="/wiki/Wren_Society" title="Wren Society">Wren Society</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Student_governments_in_the_United_States#College_of_William_and_Mary" title="Student governments in the United States">Student Assembly</a></li>
+<li><a href="/wiki/WCWM" title="WCWM">WCWM 90.9 FM</a></li>
+<li><a href="/wiki/WMTV_(The_College_of_William_%26_Mary)" class="mw-redirect" title="WMTV (The College of William &amp; Mary)">WMTV</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #115740; color: white; -moz-box-shadow: inset 2px 2px 0 #B9975B, inset -2px -2px 0 #B9975B; -webkit-box-shadow: inset 2px 2px 0 #B9975B, inset -2px -2px 0 #B9975B; box-shadow: inset 2px 2px 0 #B9975B, inset -2px -2px 0 #B9975B;;width:1%">Misc.</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ash_Lawn%E2%80%93Highland" title="Ash Lawn–Highland">Ash Lawn–Highland</a></li>
+<li><a href="/wiki/Williamsburg,_Virginia" title="Williamsburg, Virginia">City of Williamsburg</a></li>
+<li><a href="/wiki/Colonial_Williamsburg" title="Colonial Williamsburg">Colonial Williamsburg</a></li>
+<li><i><a href="/wiki/I_Am_the_College_of_William_and_Mary" title="I Am the College of William and Mary">I Am the College</a></i></li>
+<li><a href="/wiki/Royal_Hospital_School" title="Royal Hospital School">Royal Hospital School</a></li>
+<li><a href="/wiki/SS_William_and_Mary_Victory" title="SS William and Mary Victory">SS <i>William and Mary Victory</i></a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: #115740; color: white; -moz-box-shadow: inset 2px 2px 0 #B9975B, inset -2px -2px 0 #B9975B; -webkit-box-shadow: inset 2px 2px 0 #B9975B, inset -2px -2px 0 #B9975B; box-shadow: inset 2px 2px 0 #B9975B, inset -2px -2px 0 #B9975B;">
+<div>
+<ul>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <a href="https://commons.wikimedia.org/wiki/Category:College_of_William_and_Mary" class="extiw" title="commons:Category:College of William and Mary"><span style="color: white; text-decoration: inherit; -moz-text-decoration-color: white; text-decoration-color: white;"><b>Commons</b></span></a></li>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:College_of_William_%26_Mary" title="Category:College of William &amp; Mary"><span style="color: white; text-decoration: inherit; -moz-text-decoration-color: white; text-decoration-color: white;"><b>Category</b></span></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1231
+Cached time: 20171016022726
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.600 seconds
+Real time usage: 0.736 seconds
+Preprocessor visited node count: 2976/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 96420/2097152 bytes
+Template argument size: 6427/2097152 bytes
+Highest expansion depth: 19/40
+Expensive parser function count: 5/500
+Lua time usage: 0.293/10.000 seconds
+Lua memory usage: 5.96 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  613.438      1 -total
+ 46.18%  283.302      1 Template:Reflist
+ 29.55%  181.250     19 Template:Cite_web
+ 16.80%  103.034      1 Template:Infobox_Fraternity
+ 15.06%   92.370      1 Template:Infobox
+  8.13%   49.903      1 Template:The_College_of_William_&amp;_Mary
+  6.76%   41.485      1 Template:Navbox
+  6.55%   40.192      9 Template:Category_handler
+  6.41%   39.327      1 Template:Official_website
+  6.41%   39.316      7 Template:Lang
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:166504-0!canonical and timestamp 20171016022726 and revision id 802771905
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Phi_Beta_Kappa_Society&amp;oldid=802771905">https://en.wikipedia.org/w/index.php?title=Phi_Beta_Kappa_Society&amp;oldid=802771905</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1776_establishments_in_Virginia" title="Category:1776 establishments in Virginia">1776 establishments in Virginia</a></li><li><a href="/wiki/Category:College_of_William_%26_Mary_student_life" title="Category:College of William &amp; Mary student life">College of William &amp; Mary student life</a></li><li><a href="/wiki/Category:Phi_Beta_Kappa" title="Category:Phi Beta Kappa">Phi Beta Kappa</a></li><li><a href="/wiki/Category:Organizations_established_in_1776" title="Category:Organizations established in 1776">Organizations established in 1776</a></li><li><a href="/wiki/Category:Student_organizations_established_in_the_18th_century" title="Category:Student organizations established in the 18th century">Student organizations established in the 18th century</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Articles_containing_Greek-language_text" title="Category:Articles containing Greek-language text">Articles containing Greek-language text</a></li><li><a href="/wiki/Category:Pages_using_deprecated_image_syntax" title="Category:Pages using deprecated image syntax">Pages using deprecated image syntax</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_September_2014" title="Category:Articles with unsourced statements from September 2014">Articles with unsourced statements from September 2014</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_November_2009" title="Category:Articles needing additional references from November 2009">Articles needing additional references from November 2009</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Wikipedia_articles_incorporating_citation_to_the_NSRW" title="Category:Wikipedia articles incorporating citation to the NSRW">Wikipedia articles incorporating citation to the NSRW</a></li><li><a href="/wiki/Category:Wikipedia_articles_incorporating_citation_to_the_NSRW_with_an_wstitle_parameter" title="Category:Wikipedia articles incorporating citation to the NSRW with an wstitle parameter">Wikipedia articles incorporating citation to the NSRW with an wstitle parameter</a></li><li><a href="/wiki/Category:Coordinates_not_on_Wikidata" title="Category:Coordinates not on Wikidata">Coordinates not on Wikidata</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Phi+Beta+Kappa+Society" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Phi+Beta+Kappa+Society" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Phi_Beta_Kappa_Society" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Phi_Beta_Kappa_Society" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Phi_Beta_Kappa_Society">Read</a></span></li>
+							<li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Phi_Beta_Kappa_Society&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Phi_Beta_Kappa_Society&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Phi_Beta_Kappa_Society" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Phi_Beta_Kappa_Society" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Phi_Beta_Kappa_Society&amp;oldid=802771905" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Phi_Beta_Kappa_Society&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1938003" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Phi_Beta_Kappa_Society&amp;id=802771905" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Phi+Beta+Kappa+Society">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Phi+Beta+Kappa+Society&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Phi_Beta_Kappa_Society&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Phi_Beta_Kappa" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%81%D8%A7%D9%8A_%D8%A8%D9%8A%D8%AA%D8%A7_%D9%83%D8%A7%D8%A8%D8%A7" title="فاي بيتا كابا – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Phi_Beta_Kappa" title="Phi Beta Kappa – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Phi_Beta_Kappa" title="Phi Beta Kappa – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A7%D9%86%D8%AC%D9%85%D9%86_%D9%81%DB%8C_%D8%A8%D8%AA%D8%A7_%DA%A9%D8%A7%D9%BE%D8%A7" title="انجمن فی بتا کاپا – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Phi_Beta_Kappa" title="Phi Beta Kappa – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Phi_Beta_Kappa_Society" title="Phi Beta Kappa Society – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A4%D7%99_%D7%91%D7%98%D7%90_%D7%A7%D7%A4%D7%90" title="פי בטא קפא – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-lb"><a href="https://lb.wikipedia.org/wiki/Phi_Beta_Kappa" title="Phi Beta Kappa – Luxembourgish" lang="lb" hreflang="lb" class="interlanguage-link-target">Lëtzebuergesch</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Phi_Beta_Kappa" title="Phi Beta Kappa – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Phi_Beta_Kappa_Society" title="Phi Beta Kappa Society – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Phi_Beta_Kappa" title="Phi Beta Kappa – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Phi_Beta_Kappa_Society" title="Phi Beta Kappa Society – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Phi_Beta_Kappa" title="Phi Beta Kappa – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1938003#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 28 September 2017, at 11:02.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Phi_Beta_Kappa_Society&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.600","walltime":"0.736","ppvisitednodes":{"value":2976,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":96420,"limit":2097152},"templateargumentsize":{"value":6427,"limit":2097152},"expansiondepth":{"value":19,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  613.438      1 -total"," 46.18%  283.302      1 Template:Reflist"," 29.55%  181.250     19 Template:Cite_web"," 16.80%  103.034      1 Template:Infobox_Fraternity"," 15.06%   92.370      1 Template:Infobox","  8.13%   49.903      1 Template:The_College_of_William_\u0026amp;_Mary","  6.76%   41.485      1 Template:Navbox","  6.55%   40.192      9 Template:Category_handler","  6.41%   39.327      1 Template:Official_website","  6.41%   39.316      7 Template:Lang"]},"scribunto":{"limitreport-timeusage":{"value":"0.293","limit":"10.000"},"limitreport-memusage":{"value":6254424,"limit":52428800}},"cachereport":{"origin":"mw1231","timestamp":"20171016022726","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":85,"wgHostname":"mw1254"});});</script>
+	</body>
+</html>

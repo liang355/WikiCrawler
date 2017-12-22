@@ -1,0 +1,1103 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Harvard Library - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Harvard_Library","wgTitle":"Harvard Library","wgCurRevisionId":801373513,"wgRevisionId":801373513,"wgArticleId":1828266,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia introduction cleanup from December 2016","All pages needing cleanup","Articles covered by WikiProject Wikify from December 2016","All articles covered by WikiProject Wikify","Wikipedia external links cleanup from December 2012","Wikipedia spam cleanup from December 2012","Articles containing potentially dated statements from August 2013","All articles containing potentially dated statements","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","Coordinates on Wikidata","University and college academic libraries in the United States","Harvard University buildings","Libraries in Massachusetts","1638 establishments in Massachusetts","Libraries in Middlesex County, Massachusetts","Harvard Library"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Harvard_Library","wgRelevantArticleId":1828266,"wgRequestId":"WeUIFQpAIDkAAGWEz8sAAACA","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCoordinates":{"lat":42.373572222222,"lon":-71.11845},"wgWikibaseItemId":"Q3232931","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.math.scripts","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.3"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Reading_Room%2C_Langdell_Hall%2C_Harvard_University%2C_Cambridge_MA.jpg/1200px-Reading_Room%2C_Langdell_Hall%2C_Harvard_University%2C_Cambridge_MA.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Harvard_Library"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Harvard_Library&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Harvard_Library&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Harvard_Library"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Harvard_Library rootpage-Harvard_Library vector-experimental-print-styles vector-nav-directionality skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Harvard Library</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">"HUL" redirects here. For other uses, see <a href="/wiki/Hul_(disambiguation)" class="mw-disambig" title="Hul (disambiguation)">Hul (disambiguation)</a>.</div>
+<table class="plainlinks metadata ambox ambox-style" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48" /></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This article's <b><a href="/wiki/Wikipedia:Manual_of_Style/Lead_section" title="Wikipedia:Manual of Style/Lead section">lead section</a> may not adequately <a href="/wiki/Wikipedia:Summary_style" title="Wikipedia:Summary style">summarize</a> its contents</b>. <span class="hide-when-compact">To comply with Wikipedia's <a href="/wiki/Wikipedia:Manual_of_Style/Lead_section#Introductory_text" title="Wikipedia:Manual of Style/Lead section">lead section guidelines</a>, please consider modifying the lead to <a href="/wiki/Wikipedia:Manual_of_Style/Lead_section#Provide_an_accessible_overview" title="Wikipedia:Manual of Style/Lead section">provide an accessible overview</a> of the article's key points in such a way that it can stand on its own as a concise version of the article. <small>(<a href="/wiki/Talk:Harvard_Library" title="Talk:Harvard Library">discuss</a>)</small>.</span> <small><i>(December 2016)</i></small></div>
+</td>
+</tr>
+</table>
+<table class="plainlinks metadata ambox ambox-style ambox-external_links" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48" /></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This article's <b>use of <a href="/wiki/Wikipedia:External_links" title="Wikipedia:External links">external links</a> may not follow Wikipedia's policies or guidelines</b>. <span class="hide-when-compact">Please <a class="external text" href="//en.wikipedia.org/w/index.php?title=Harvard_Library&amp;action=edit">improve this article</a> by removing <a href="/wiki/Wikipedia:What_Wikipedia_is_not#Wikipedia_is_not_a_mirror_or_a_repository_of_links.2C_images.2C_or_media_files" title="Wikipedia:What Wikipedia is not">excessive</a> or <a href="/wiki/Wikipedia:External_links" title="Wikipedia:External links">inappropriate</a> external links, and converting useful links where appropriate into <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">footnote references</a>.</span> <small><i>(December 2012)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<table class="infobox vcard" style="width:22em">
+<caption class="fn org">The Harvard Library</caption>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Reading_Room,_Langdell_Hall,_Harvard_University,_Cambridge_MA.jpg" class="image"><img alt="Reading Room, Langdell Hall, Harvard University, Cambridge MA.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Reading_Room%2C_Langdell_Hall%2C_Harvard_University%2C_Cambridge_MA.jpg/240px-Reading_Room%2C_Langdell_Hall%2C_Harvard_University%2C_Cambridge_MA.jpg" width="240" height="180" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Reading_Room%2C_Langdell_Hall%2C_Harvard_University%2C_Cambridge_MA.jpg/360px-Reading_Room%2C_Langdell_Hall%2C_Harvard_University%2C_Cambridge_MA.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/42/Reading_Room%2C_Langdell_Hall%2C_Harvard_University%2C_Cambridge_MA.jpg/480px-Reading_Room%2C_Langdell_Hall%2C_Harvard_University%2C_Cambridge_MA.jpg 2x" data-file-width="3072" data-file-height="2304" /></a>
+<div>Reading Room in Langdell Hall</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Country</th>
+<td>United States</td>
+</tr>
+<tr>
+<th scope="row">Established</th>
+<td>1638<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></td>
+</tr>
+<tr>
+<th scope="row">Location</th>
+<td class="label">Cambridge, Massachusetts</td>
+</tr>
+<tr>
+<th scope="row">Branches</th>
+<td>73</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center">Collection</th>
+</tr>
+<tr>
+<th scope="row">Size</th>
+<td>18.9M<sup id="cite_ref-AR2013_2-0" class="reference"><a href="#cite_note-AR2013-2">[2]</a></sup> <small>(2013)</small></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center">Access and use</th>
+</tr>
+<tr>
+<th scope="row">Circulation</th>
+<td>733,890<sup id="cite_ref-AR2013_2-1" class="reference"><a href="#cite_note-AR2013-2">[2]</a></sup> <small>(2013)</small></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center">Other information</th>
+</tr>
+<tr>
+<th scope="row">Budget</th>
+<td><span style="white-space: nowrap"><a href="/wiki/United_States_dollar" title="United States dollar">US$</a>160M</span> <small>(2014)</small></td>
+</tr>
+<tr>
+<th scope="row">Director</th>
+<td><a href="/wiki/Sarah_Thomas_(librarian)" title="Sarah Thomas (librarian)">Sarah Thomas</a></td>
+</tr>
+<tr>
+<th scope="row">Staff</th>
+<td>922 <a href="/wiki/Full-time_equivalent" title="Full-time equivalent">FTEs</a><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></td>
+</tr>
+<tr>
+<th scope="row">Website</th>
+<td><a rel="nofollow" class="external text" href="http://library.harvard.edu/">Harvard Library Portal</a></td>
+</tr>
+</table>
+<p>The <b>Harvard Library</b> system comprises about 73 libraries,<sup id="cite_ref-ireland_4-0" class="reference"><a href="#cite_note-ireland-4">[4]</a></sup> with more than 18 million volumes. It is the oldest library system in the <a href="/wiki/United_States" title="United States">United States</a> and the largest university library and largest private library system in the world.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Based on number of items held (including musical scores, maps, prints, recordings, etc.), it is the <a href="/wiki/List_of_largest_libraries" title="List of largest libraries">fifth largest library</a> in the United States; based only on volumes (generally books), it is the third largest, after the <a href="/wiki/Library_of_Congress" title="Library of Congress">Library of Congress</a> and <a href="/wiki/Boston_Public_Library" title="Boston Public Library">Boston Public Library</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Organizational_structure"><span class="tocnumber">2</span> <span class="toctext">Organizational structure</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Governance"><span class="tocnumber">3</span> <span class="toctext">Governance</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Library_Visiting_Committee"><span class="tocnumber">3.1</span> <span class="toctext">Library Visiting Committee</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Library_Board"><span class="tocnumber">3.2</span> <span class="toctext">Library Board</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Faculty_Advisory_Committee"><span class="tocnumber">3.3</span> <span class="toctext">Faculty Advisory Committee</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Library_Council_on_Student_Experience"><span class="tocnumber">3.4</span> <span class="toctext">Library Council on Student Experience</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Library_Leadership_Team"><span class="tocnumber">3.5</span> <span class="toctext">Library Leadership Team</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#List_of_Harvard_University_libraries"><span class="tocnumber">4</span> <span class="toctext">List of Harvard University libraries</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Librarians"><span class="tocnumber">5</span> <span class="toctext">Librarians</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Further_reading"><span class="tocnumber">8</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harvard_Library&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Harvard_University" title="Harvard University">Harvard</a>'s library system grew from a bequest in 1638 by <a href="/wiki/John_Harvard_(clergyman)" title="John Harvard (clergyman)">John Harvard</a> of 400 books.</p>
+<p>The location of the library changed over time. Originally it was in the Old College building. In 1676, the library was moved to Harvard Hall, which was where it remained until the building burnt down during the fire in 1764. A new Harvard Hall was built. As time went on space became limited in Harvard Hall, and the library was moved to Gore Hall in 1841. Eventually, Gore Hall was no longer suitable and the books were moved elsewhere in 1912. Around this time, the library spread into more than one building. Some of the libraries were devoted to specialized topics.<sup id="cite_ref-Burke_8-0" class="reference"><a href="#cite_note-Burke-8">[8]</a></sup></p>
+<p>Over the next century the library grew to become the largest in America, but on January 24, 1764, a major fire destroyed almost all of Harvard's books and scientific instruments. All of the books in the library at the time of the fire were completely burned. The books that had been loaned out when the fire occurred were the only portion of the collection that remained.<sup id="cite_ref-Burke_8-1" class="reference"><a href="#cite_note-Burke-8">[8]</a></sup> Books and donations were offered by friends of the college to replace its collections. An eccentric Englishman, <a href="/wiki/Thomas_Hollis_(1720%E2%80%931774)" title="Thomas Hollis (1720–1774)">Thomas Hollis V</a> of <a href="/wiki/Lincoln%27s_Inn" title="Lincoln's Inn">Lincoln's Inn</a>, <a href="/wiki/London" title="London">London</a>, (great-nephew of one of the University's early benefactors), began shipping thousands of specially chosen volumes to the University Library. Hollis continued to send books regularly until his death in 1774 and he also bequeathed £500 for a fund to continue buying books. This became Harvard's first <a href="/wiki/Financial_endowment" title="Financial endowment">endowed</a> book fund, and is still actively increasing the collections every year. Harvard Library's <a href="/wiki/OPAC" class="mw-redirect" title="OPAC">online catalog</a>, HOLLIS<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> (a <a href="/wiki/Bacronym" class="mw-redirect" title="Bacronym">bacronym</a> for "<b>H</b>arvard <b>O</b>n-<b>L</b>ine <b>L</b>ibrary <b>I</b>nformation <b>S</b>ystem"), is named after him.</p>
+<p>Some of the books have been digitized within the <a href="/wiki/Google_Books_Library_Project#Harvard_University" class="mw-redirect" title="Google Books Library Project">Google Books Library Project</a>,<sup id="cite_ref-Google_10-0" class="reference"><a href="#cite_note-Google-10">[10]</a></sup> which was begun as a project developed with leadership and oversight by former Director <a href="/wiki/Sidney_Verba" title="Sidney Verba">Sidney Verba</a>.</p>
+<p>On August 1, 2012, a new Harvard Library organization began operations, designed to improve a fragmented system of 73 libraries across Harvard's Schools with one that promotes University-wide collaboration. Functions that occur within all libraries—Access Services, Technical Services and Preservation Services—were unified to enable greater focus on the needs of the user community. The new structure was developed from recommendations of the Task Force on University Libraries and the Library Implementation Working Group.<sup id="cite_ref-Library_Task_Force_Working_Group_Recommendations_11-0" class="reference"><a href="#cite_note-Library_Task_Force_Working_Group_Recommendations-11">[11]</a></sup></p>
+<h2><span class="mw-headline" id="Organizational_structure">Organizational structure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harvard_Library&amp;action=edit&amp;section=2" title="Edit section: Organizational structure">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Harvard Library is the formal name for an administrative entity within the central administration of the University that has responsibility for central library services and policy.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> As of August 2013<sup class="plainlinks noprint asof-tag update" style="display:none;"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Harvard_Library&amp;action=edit">[update]</a></sup>, <a href="/wiki/Sarah_Thomas_(librarian)" title="Sarah Thomas (librarian)">Sarah Thomas</a> is the current vice president for the Harvard Library and the Roy E. Larsen Librarian of the Faculty of Arts and Sciences. The Harvard Library consists of:</p>
+<ul>
+<li>Access Services connects the academic community to the vast array of library resources.</li>
+<li>Information and Technical Services is responsible for acquiring, licensing and providing access to tangible and online collections in all formats.</li>
+<li>Preservation, Conservation and Digital Imaging Services is committed to ensuring that library materials remain secure and usable for contemporary and future scholars by conserving materials, digitizing collections, preserving library content in digital formats and providing robust education and outreach programs.</li>
+<li>The Harvard University Archives is the institutional archives of the University. It oversees the University's permanent records, collects Harvard-related manuscripts, papers, and historical materials, and supervises records management across the University.</li>
+<li>Finance supports the Library by providing accurate information that assists decision-making, maintaining the integrity of finance systems and completing financial transactions.</li>
+<li>Program Management ensures that potential projects and approved projects are managed in a considered, predictable and transparent way.</li>
+<li>The Office for Scholarly Communication provides for open access to works of scholarship produced by the Harvard community.</li>
+</ul>
+<h2><span class="mw-headline" id="Governance">Governance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harvard_Library&amp;action=edit&amp;section=3" title="Edit section: Governance">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Library_Visiting_Committee">Library Visiting Committee</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harvard_Library&amp;action=edit&amp;section=4" title="Edit section: Library Visiting Committee">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:262px;"><a href="/wiki/File:HarvardCollegeLibrary_OverdueNotice1884.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/HarvardCollegeLibrary_OverdueNotice1884.jpg/260px-HarvardCollegeLibrary_OverdueNotice1884.jpg" width="260" height="152" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/5/5e/HarvardCollegeLibrary_OverdueNotice1884.jpg 1.5x" data-file-width="367" data-file-height="214" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:HarvardCollegeLibrary_OverdueNotice1884.jpg" class="internal" title="Enlarge"></a></div>
+Overdue notice, 1884. "The Librarian begs to say<span class="nowrap">&#160;</span>..."</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:262px;"><a href="/wiki/File:HarvardCollegeLibrary_CatalogCardC.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/HarvardCollegeLibrary_CatalogCardC.jpg/260px-HarvardCollegeLibrary_CatalogCardC.jpg" width="260" height="102" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/b/bb/HarvardCollegeLibrary_CatalogCardC.jpg 1.5x" data-file-width="360" data-file-height="141" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:HarvardCollegeLibrary_CatalogCardC.jpg" class="internal" title="Enlarge"></a></div>
+Catalog card. <i>C</i> denotes Church History and Theology.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:262px;"><a href="/wiki/File:HarvardCollegeLibrary_CatalogCardSwi.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/HarvardCollegeLibrary_CatalogCardSwi.jpg/260px-HarvardCollegeLibrary_CatalogCardSwi.jpg" width="260" height="156" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/b/b0/HarvardCollegeLibrary_CatalogCardSwi.jpg 1.5x" data-file-width="359" data-file-height="215" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:HarvardCollegeLibrary_CatalogCardSwi.jpg" class="internal" title="Enlarge"></a></div>
+Catalog card. <i>Swi</i> denotes Swiss History<span class="nowrap">&#160;</span>&amp; Literature.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:262px;"><a href="/wiki/File:HarvardCollegeLibrary_CatalogCardScan.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/HarvardCollegeLibrary_CatalogCardScan.jpg/260px-HarvardCollegeLibrary_CatalogCardScan.jpg" width="260" height="103" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/0/00/HarvardCollegeLibrary_CatalogCardScan.jpg 1.5x" data-file-width="360" data-file-height="143" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:HarvardCollegeLibrary_CatalogCardScan.jpg" class="internal" title="Enlarge"></a></div>
+Catalog card. <i>Scan</i> denotes Scandinavian History<span class="nowrap">&#160;</span>&amp; Literature.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:262px;"><a href="/wiki/File:HarvardCollegeLibrary_CatalogCardHeb.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/HarvardCollegeLibrary_CatalogCardHeb.jpg/260px-HarvardCollegeLibrary_CatalogCardHeb.jpg" width="260" height="154" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/5/56/HarvardCollegeLibrary_CatalogCardHeb.jpg 1.5x" data-file-width="359" data-file-height="212" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:HarvardCollegeLibrary_CatalogCardHeb.jpg" class="internal" title="Enlarge"></a></div>
+Catalog card. <i>Heb</i> denotes Hebraica.</div>
+</div>
+</div>
+<p>Visiting Committee members are experts and Harvard alumni who are appointed by the Corporation. The Committee oversees the strategy and administration of the Harvard Library on behalf of the Overseers. Bi-annual visits and regular updates by the Office of the Provost provide an opportunity for Visiting Committee members to understand and advise on the Harvard Library’s progress.</p>
+<h3><span class="mw-headline" id="Library_Board">Library Board</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harvard_Library&amp;action=edit&amp;section=5" title="Edit section: Library Board">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Library Board is charged with reviewing the strategic plans of the Harvard Library and assessing its progress in meeting those plans, reviewing system-wide policies and standards and overseeing the progress of the central services. The provost chairs the Library Board (established in December 2010) and the Office of the Provost is responsible for overseeing the Harvard Library. The Harvard Library Board is composed of six permanent members and five rotating members who serve three years each, with their initial terms staggered. The permanent members are the provost, the Carl H. Pforzheimer University Professor and the deans or designees from the following Schools: the Faculty of Arts and Sciences, Harvard Business School, Harvard Law School and Harvard Medical School.</p>
+<p>The rotating members consist of three at-large, tenured faculty members, as well as deans or designees from the Harvard Kennedy School, Harvard Graduate School of Design, Harvard Divinity School, Harvard Graduate School of Education, Harvard School of Public Health, Harvard School of Engineering and Applied Sciences and Radcliffe Institute.</p>
+<h3><span class="mw-headline" id="Faculty_Advisory_Committee">Faculty Advisory Committee</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harvard_Library&amp;action=edit&amp;section=6" title="Edit section: Faculty Advisory Committee">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The establishment of the Harvard Library Faculty Advisory Council in 2011 brought together faculty from across the University. The Council advises the Library Board and the two groups meet together twice a year. Robert Darnton, Pforzheimer Professor, is the chair and James Engell, Gurney Professor of English Literature, is the vice-chair.</p>
+<h3><span class="mw-headline" id="Library_Council_on_Student_Experience">Library Council on Student Experience</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harvard_Library&amp;action=edit&amp;section=7" title="Edit section: Library Council on Student Experience">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Established in 2012, the Library Council on Student Experience is a joint council consisting of librarians and students from across the University who identify and work together on University-wide priorities identified by the Council for improving the student library experience. The Council is co-chaired by a librarian appointed by the vice president for the Harvard Library and by a student elected from the student council members. Students and librarians are nominated by the School library directors and selected by the Office of the Provost. Other members include representatives from the Tell Us project, the Berkman Institute and Harvard Library Shared Services. Terms are for two academic years. The Council makes recommendations to and is supported by the vice president for the Harvard Library.</p>
+<h3><span class="mw-headline" id="Library_Leadership_Team">Library Leadership Team</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harvard_Library&amp;action=edit&amp;section=8" title="Edit section: Library Leadership Team">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Harvard Library Leadership Team is responsible for planning, prioritizing and implementing joint Library initiatives. The team works with the vice president for the Harvard Library to develop and implement Library-wide strategy and policy approved by the Board. In collaboration with the Library IT Steering Committee it prioritizes new technology initiatives. In collaboration with the Innovation Working Group it prioritizes innovations to be scaled. Chaired by the vice president for the Harvard Library, the Team includes library directors from the ten schools and the Radcliffe Institute, the Affinity Group heads, the managing director of Library Technology Services (HUIT), the Office of Scholarly Communications, the Harvard Library shared services heads, the HL chief financial officer, the Harvard Library director of communications and the Harvard Library senior program manager.</p>
+<h2><span class="mw-headline" id="List_of_Harvard_University_libraries">List of Harvard University libraries</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harvard_Library&amp;action=edit&amp;section=9" title="Edit section: List of Harvard University libraries">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>This list covers the Harvard College libraries, the Faculty of Arts and Science libraries, and the libraries of other Harvard faculties. In addition, Harvard University has a large number of special libraries, house libraries and affiliated libraries.</p>
+<table>
+<tr>
+<td valign="top">
+<dl>
+<dt>Buildings of the Harvard College Library</dt>
+</dl>
+<ul>
+<li><a href="/wiki/Cabot_Science_Library" title="Cabot Science Library">Cabot Science Library</a></li>
+<li>Fine Arts Library<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></li>
+<li>H. C. Fung Library<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></li>
+<li><a href="/wiki/Houghton_Library" title="Houghton Library">Houghton Library</a></li>
+<li><a href="/wiki/Lamont_Library" title="Lamont Library">Lamont Library</a></li>
+<li>Loeb Music Library<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></li>
+<li>Tozzer Library<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup></li>
+<li><a href="/wiki/Widener_Library" title="Widener Library">Widener Library</a></li>
+</ul>
+<dl>
+<dt>Special and Departmental libraries in the Harvard College Library</dt>
+</dl>
+<ul>
+<li>Biochemical Sciences Tutorial Library</li>
+<li>Biological Laboratories Library</li>
+<li>Birkhoff Mathematical Library<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup></li>
+<li>Blue Hill Meteorological Observatory Library<sup id="cite_ref-harvard.edu_18-0" class="reference"><a href="#cite_note-harvard.edu-18">[18]</a></sup></li>
+</ul>
+</td>
+<td valign="top">
+<ul>
+<li>Chemistry and Chemical Biology Library<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup></li>
+<li>Child Memorial Library<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup></li>
+<li>Ernst Mayr Library<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup></li>
+<li>Grossman Library for University Extension<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup></li>
+<li>History Departmental Library<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup></li>
+<li>History of Science Library<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup></li>
+<li>John G. Wolbach Library<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup></li>
+<li>Linguistics Library<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup></li>
+<li>McKay Library of Engineering and Applied Sciences<sup id="cite_ref-harvard.edu_18-1" class="reference"><a href="#cite_note-harvard.edu-18">[18]</a></sup></li>
+<li>Near Eastern Languages and Civilizations Library<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup></li>
+<li>Paleography Library</li>
+<li>Peabody Museum Archives<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup></li>
+<li>Physics Research Library<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup></li>
+<li>African American Studies Reading Room<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup></li>
+<li>Robbins Library of Philosophy<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup></li>
+</ul>
+</td>
+<td valign="top">
+<ul>
+<li>Robinson Celtic Seminar Library</li>
+<li>Sanskrit Library<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup></li>
+<li>Smyth Classical Library<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup></li>
+<li>Statistics Library<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup></li>
+</ul>
+<dl>
+<dt>Libraries of other Harvard faculties<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[35]</a></sup></dt>
+</dl>
+<ul>
+<li>Andover-Harvard Theological Library<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">[36]</a></sup></li>
+<li>Baker Library<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">[37]</a></sup></li>
+<li>The Francis A. Countway Library of Medicine<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">[38]</a></sup></li>
+<li>Gutman Library<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">[39]</a></sup></li>
+<li>Harvard Law School Library<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">[40]</a></sup></li>
+<li>John F. Kennedy School of Government Library<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">[41]</a></sup></li>
+<li>Frances Loeb Library<sup id="cite_ref-42" class="reference"><a href="#cite_note-42">[42]</a></sup></li>
+<li>Schlesinger Library on the History of Women in America<sup id="cite_ref-43" class="reference"><a href="#cite_note-43">[43]</a></sup></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Librarians">Librarians</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harvard_Library&amp;action=edit&amp;section=10" title="Edit section: Librarians">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+<tr>
+<td style="width: 33.33%;text-align:left;vertical-align:top;">
+<dl>
+<dt>17th century</dt>
+</dl>
+<ul>
+<li><a href="/wiki/Solomon_Stoddard" title="Solomon Stoddard">Solomon Stoddard</a>, 1667-1672<sup id="cite_ref-potter_44-0" class="reference"><a href="#cite_note-potter-44">[44]</a></sup></li>
+<li><a href="/wiki/Samuel_Sewall" title="Samuel Sewall">Samuel Sewall</a>, 1674<sup id="cite_ref-potter_44-1" class="reference"><a href="#cite_note-potter-44">[44]</a></sup></li>
+<li>Daniel Gookin, 1674–1676, 1679-1681<sup id="cite_ref-potter_44-2" class="reference"><a href="#cite_note-potter-44">[44]</a></sup></li>
+<li>Daniel Allin, 1676-1679<sup id="cite_ref-potter_44-3" class="reference"><a href="#cite_note-potter-44">[44]</a></sup></li>
+<li>John Cotton, 1681-1690<sup id="cite_ref-potter_44-4" class="reference"><a href="#cite_note-potter-44">[44]</a></sup></li>
+<li>Henry Newman, 1690-1693<sup id="cite_ref-potter_44-5" class="reference"><a href="#cite_note-potter-44">[44]</a></sup></li>
+<li>Ebenezer Pemberton, 1693-1697<sup id="cite_ref-potter_44-6" class="reference"><a href="#cite_note-potter-44">[44]</a></sup></li>
+<li>Nathaniel Saltonstall, 1697-1701<sup id="cite_ref-potter_44-7" class="reference"><a href="#cite_note-potter-44">[44]</a></sup></li>
+</ul>
+<dl>
+<dt>18th century</dt>
+</dl>
+<ul>
+<li>Anthony Stoddard, 1701-1702<sup id="cite_ref-potter_44-8" class="reference"><a href="#cite_note-potter-44">[44]</a></sup></li>
+<li>Josiah Willard, 1702-1703<sup id="cite_ref-potter_44-9" class="reference"><a href="#cite_note-potter-44">[44]</a></sup></li>
+<li>John Whiting, 1703-1706<sup id="cite_ref-potter_44-10" class="reference"><a href="#cite_note-potter-44">[44]</a></sup></li>
+<li>John Gore, 1706-1707<sup id="cite_ref-potter_44-11" class="reference"><a href="#cite_note-potter-44">[44]</a></sup></li>
+<li>Nathaniel Gookin, 1707-1709<sup id="cite_ref-potter_44-12" class="reference"><a href="#cite_note-potter-44">[44]</a></sup></li>
+<li><a href="/wiki/Edward_Holyoke" title="Edward Holyoke">Edward Holyoke</a>, 1709-1712<sup id="cite_ref-potter_44-13" class="reference"><a href="#cite_note-potter-44">[44]</a></sup></li>
+<li>Thomas Robie, 1712-1713<sup id="cite_ref-potter_44-14" class="reference"><a href="#cite_note-potter-44">[44]</a></sup></li>
+<li>John Denison, 1713-1714<sup id="cite_ref-potter_44-15" class="reference"><a href="#cite_note-potter-44">[44]</a></sup></li>
+<li>John Rogers, 1714-1718<sup id="cite_ref-potter_44-16" class="reference"><a href="#cite_note-potter-44">[44]</a></sup></li>
+<li>William Welsteed, 1718-1720<sup id="cite_ref-potter_44-17" class="reference"><a href="#cite_note-potter-44">[44]</a></sup></li>
+<li>William Cooke, 1720-1721<sup id="cite_ref-potter_44-18" class="reference"><a href="#cite_note-potter-44">[44]</a></sup></li>
+<li>Joshua Gee, 1721-1722<sup id="cite_ref-potter_44-19" class="reference"><a href="#cite_note-potter-44">[44]</a></sup></li>
+<li>Mitchell Sewall, 1722-1723<sup id="cite_ref-potter_44-20" class="reference"><a href="#cite_note-potter-44">[44]</a></sup></li>
+<li><a href="/wiki/John_Hancock,_Jr." class="mw-redirect" title="John Hancock, Jr.">John Hancock</a>, 1723-1726<sup id="cite_ref-potter_44-21" class="reference"><a href="#cite_note-potter-44">[44]</a></sup></li>
+<li>Stephen Sewall, 1726-1728<sup id="cite_ref-potter_44-22" class="reference"><a href="#cite_note-potter-44">[44]</a></sup></li>
+<li>Joseph Champney, 1728-1729<sup id="cite_ref-potter_44-23" class="reference"><a href="#cite_note-potter-44">[44]</a></sup></li>
+<li>Joseph Pynchon, 1729-1730<sup id="cite_ref-potter_44-24" class="reference"><a href="#cite_note-potter-44">[44]</a></sup></li>
+<li>Henry Gibbs, 1730-1734<sup id="cite_ref-potter_44-25" class="reference"><a href="#cite_note-potter-44">[44]</a></sup></li>
+</ul>
+</td>
+<td style="width: 33.33%;text-align:left;vertical-align:top;">
+<ul>
+<li>Samuel Coolidge, 1734-1735<sup id="cite_ref-potter_44-26" class="reference"><a href="#cite_note-potter-44">[44]</a></sup></li>
+<li>James Diman, 1735-1737<sup id="cite_ref-potter_44-27" class="reference"><a href="#cite_note-potter-44">[44]</a></sup></li>
+<li>Samuel Cooke, 1737<sup id="cite_ref-potter_44-28" class="reference"><a href="#cite_note-potter-44">[44]</a></sup></li>
+<li>Thomas Marsh, 1737-1741<sup id="cite_ref-potter_44-29" class="reference"><a href="#cite_note-potter-44">[44]</a></sup></li>
+<li>Belcher Hancock, 1741-1742<sup id="cite_ref-potter_44-30" class="reference"><a href="#cite_note-potter-44">[44]</a></sup></li>
+<li>Benjamin Prat, 1742-1743<sup id="cite_ref-potter_44-31" class="reference"><a href="#cite_note-potter-44">[44]</a></sup></li>
+<li>Matthew Cushing, 1743-1748<sup id="cite_ref-potter_44-32" class="reference"><a href="#cite_note-potter-44">[44]</a></sup></li>
+<li>Oliver Peabody, 1748-1750<sup id="cite_ref-potter_44-33" class="reference"><a href="#cite_note-potter-44">[44]</a></sup></li>
+<li>Stephen Badger, 1751-1753<sup id="cite_ref-potter_44-34" class="reference"><a href="#cite_note-potter-44">[44]</a></sup></li>
+<li>John Rand, 1753-1755<sup id="cite_ref-potter_44-35" class="reference"><a href="#cite_note-potter-44">[44]</a></sup></li>
+<li><a href="/wiki/Mather_Byles_(loyalist)" title="Mather Byles (loyalist)">Mather Byles</a>, 1755-1757<sup id="cite_ref-potter_44-36" class="reference"><a href="#cite_note-potter-44">[44]</a></sup></li>
+<li>Elizur Holyoke, 1757-1758<sup id="cite_ref-potter_44-37" class="reference"><a href="#cite_note-potter-44">[44]</a></sup></li>
+<li>Edward Brooks, 1758-1760<sup id="cite_ref-potter_44-38" class="reference"><a href="#cite_note-potter-44">[44]</a></sup></li>
+<li>Samuel Deane, 1760-1762<sup id="cite_ref-potter_44-39" class="reference"><a href="#cite_note-potter-44">[44]</a></sup></li>
+<li>Stephen Sewall, 1762-1763<sup id="cite_ref-potter_44-40" class="reference"><a href="#cite_note-potter-44">[44]</a></sup></li>
+<li>Andrew Eliot, 1763-1767<sup id="cite_ref-potter_44-41" class="reference"><a href="#cite_note-potter-44">[44]</a></sup></li>
+<li>Jonathan Moore, 1767-1768<sup id="cite_ref-potter_44-42" class="reference"><a href="#cite_note-potter-44">[44]</a></sup></li>
+<li>Nathaniel Ward, 1768<sup id="cite_ref-potter_44-43" class="reference"><a href="#cite_note-potter-44">[44]</a></sup></li>
+<li>Caleb Prentice, 1768-1769<sup id="cite_ref-potter_44-44" class="reference"><a href="#cite_note-potter-44">[44]</a></sup></li>
+<li>William Mayhew, 1769-1772<sup id="cite_ref-potter_44-45" class="reference"><a href="#cite_note-potter-44">[44]</a></sup></li>
+<li>James Winthrop, 1772-1787<sup id="cite_ref-potter_44-46" class="reference"><a href="#cite_note-potter-44">[44]</a></sup></li>
+<li>Isaac Smith, 1787-1791<sup id="cite_ref-potter_44-47" class="reference"><a href="#cite_note-potter-44">[44]</a></sup></li>
+<li><a href="/wiki/Thaddeus_Mason_Harris" title="Thaddeus Mason Harris">Thaddeus Mason Harris</a>, 1787, 1791-1793<sup id="cite_ref-potter_44-48" class="reference"><a href="#cite_note-potter-44">[44]</a></sup></li>
+<li>Samuel Shapleigh, 1793-1800<sup id="cite_ref-potter_44-49" class="reference"><a href="#cite_note-potter-44">[44]</a></sup></li>
+</ul>
+<dl>
+<dt>19th century</dt>
+</dl>
+<ul>
+<li><a href="/wiki/Sidney_Willard" title="Sidney Willard">Sidney Willard</a>, 1800-1805<sup id="cite_ref-potter_44-50" class="reference"><a href="#cite_note-potter-44">[44]</a></sup></li>
+<li>Peter Nourse, 1805-1808<sup id="cite_ref-potter_44-51" class="reference"><a href="#cite_note-potter-44">[44]</a></sup></li>
+<li>Samuel Cooper Thacher, 1808-1811<sup id="cite_ref-potter_44-52" class="reference"><a href="#cite_note-potter-44">[44]</a></sup></li>
+</ul>
+</td>
+<td style="width: 33.33%;text-align:left;vertical-align:top;">
+<ul>
+<li>John Lovejoy Abbot, 1811-1813<sup id="cite_ref-potter_44-53" class="reference"><a href="#cite_note-potter-44">[44]</a></sup></li>
+<li><a href="/wiki/Andrews_Norton" title="Andrews Norton">Andrews Norton</a>, 1813-1821<sup id="cite_ref-potter_44-54" class="reference"><a href="#cite_note-potter-44">[44]</a></sup></li>
+<li><a href="/wiki/Joseph_Green_Cogswell" class="mw-redirect" title="Joseph Green Cogswell">Joseph Green Cogswell</a>, 1821-1823<sup id="cite_ref-potter_44-55" class="reference"><a href="#cite_note-potter-44">[44]</a></sup></li>
+<li>Charles Folsom, 1823-1826<sup id="cite_ref-potter_44-56" class="reference"><a href="#cite_note-potter-44">[44]</a></sup></li>
+<li>Benjamin Peirce, 1826-1831<sup id="cite_ref-potter_44-57" class="reference"><a href="#cite_note-potter-44">[44]</a></sup></li>
+<li><a href="/wiki/Thaddeus_William_Harris" title="Thaddeus William Harris">Thaddeus William Harris</a>, 1831-1856<sup id="cite_ref-potter_44-58" class="reference"><a href="#cite_note-potter-44">[44]</a></sup></li>
+<li><a href="/wiki/John_Langdon_Sibley" title="John Langdon Sibley">John Langdon Sibley</a>, 1856-1877<sup id="cite_ref-potter_44-59" class="reference"><a href="#cite_note-potter-44">[44]</a></sup></li>
+<li><a href="/wiki/Justin_Winsor" title="Justin Winsor">Justin Winsor</a>, 1877-1897</li>
+<li><a href="/wiki/William_Coolidge_Lane" title="William Coolidge Lane">William Coolidge Lane</a>, 1898-1910</li>
+</ul>
+<dl>
+<dt>20th century</dt>
+</dl>
+<ul>
+<li><a href="/wiki/Archibald_Cary_Coolidge" title="Archibald Cary Coolidge">Archibald Cary Coolidge</a>, 1910-1928</li>
+<li><a href="/wiki/Robert_Pierpont_Blake" title="Robert Pierpont Blake">Robert Pierpont Blake</a>, 1928-1937</li>
+<li><a href="/wiki/Keyes_Metcalf" title="Keyes Metcalf">Keyes Metcalf</a>, 1937-1955</li>
+<li><a href="/wiki/Paul_Herman_Buck" title="Paul Herman Buck">Paul Herman Buck</a>, 1955-1964</li>
+<li><a href="/wiki/Merle_Fainsod" title="Merle Fainsod">Merle Fainsod</a>, 1964-1972</li>
+<li>Douglas W. Bryant, 1964-1979 (University Librarian, 1964-1979; Director of the University Library, 1972-1979)</li>
+<li>Louis E. Martin, 1972-1979 (Librarian of Harvard College)</li>
+<li><a href="/wiki/Oscar_Handlin" title="Oscar Handlin">Oscar Handlin</a>, 1972-1984, (Carl Pforzheimer University Professor, 1972-; Director of the University Library, 1979-1984)</li>
+<li><a href="/wiki/Sidney_Verba" title="Sidney Verba">Sidney Verba</a>, 1984-2006</li>
+</ul>
+<dl>
+<dt>21st century</dt>
+</dl>
+<ul>
+<li><a href="/wiki/Robert_Darnton" title="Robert Darnton">Robert Darnton</a>, 2007-2015 (Carl H. Pforzheimer University Professor and University Librarian)</li>
+<li><a href="/wiki/Sarah_Thomas_(librarian)" title="Sarah Thomas (librarian)">Sarah Thomas</a>, 2013-present (Vice President for the Harvard Library and University Librarian, Roy E. Larsen Librarian for the Faculty of Arts and Sciences)</li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harvard_Library&amp;action=edit&amp;section=11" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Google_Books_Library_Project" class="mw-redirect" title="Google Books Library Project">Google Books Library Project</a></li>
+<li><a href="/wiki/Dataverse" title="Dataverse">Dataverse</a></li>
+<li><a href="/wiki/Boston_Medical_Library" title="Boston Medical Library">Boston Medical Library</a></li>
+<li><a href="/wiki/List_of_online_image_archives" title="List of online image archives">List of online image archives</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harvard_Library&amp;action=edit&amp;section=12" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web">Harvard Library (Feb 14, 2011). <a rel="nofollow" class="external text" href="http://library.harvard.edu/about-us">"About the Harvard Library"</a>. <i>Harvard Library</i>. Harvard University<span class="reference-accessdate">. Retrieved <span class="nowrap">January 16,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+Library&amp;rft.atitle=About+the+Harvard+Library&amp;rft.au=Harvard+Library&amp;rft.date=2011-02-14&amp;rft.genre=unknown&amp;rft.jtitle=Harvard+Library&amp;rft_id=http%3A%2F%2Flibrary.harvard.edu%2Fabout-us&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-AR2013-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-AR2013_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-AR2013_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Harvard University (2013). <a rel="nofollow" class="external text" href="http://library.harvard.edu/annual-report-fy-2013">"Harvard Library Annual Report FY 2013"</a>. <i>Harvard Library</i><span class="reference-accessdate">. Retrieved <span class="nowrap">17 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+Library&amp;rft.atitle=Harvard+Library+Annual+Report+FY+2013&amp;rft.au=Harvard+University&amp;rft.date=2013&amp;rft.genre=unknown&amp;rft.jtitle=Harvard+Library&amp;rft_id=http%3A%2F%2Flibrary.harvard.edu%2Fannual-report-fy-2013&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web">Office of Institutional Research (2010). <a rel="nofollow" class="external text" href="http://www.provost.harvard.edu/institutional_research/Provost_-_Harvard_Fact_Book_2009-10_FINAL_new.pdf">"Harvard University Fact Book"</a> <span style="font-size:85%;">(pdf)</span>. Harvard University. p.&#160;21<span class="reference-accessdate">. Retrieved <span class="nowrap">July 29,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+Library&amp;rft.au=Office+of+Institutional+Research&amp;rft.btitle=Harvard+University+Fact+Book&amp;rft.date=2010&amp;rft.genre=unknown&amp;rft.pages=21&amp;rft.pub=Harvard+University&amp;rft_id=http%3A%2F%2Fwww.provost.harvard.edu%2Finstitutional_research%2FProvost_-_Harvard_Fact_Book_2009-10_FINAL_new.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-ireland-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-ireland_4-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Ireland, Corydon (November 12, 2013). <a rel="nofollow" class="external text" href="http://news.harvard.edu/gazette/story/2013/11/a-colonial-goldmine/">"A Colonial goldmine"</a>. The Harvard Gazette<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-11-13</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+Library&amp;rft.atitle=A+Colonial+goldmine&amp;rft.aufirst=Corydon&amp;rft.aulast=Ireland&amp;rft.date=2013-11-12&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fnews.harvard.edu%2Fgazette%2Fstory%2F2013%2F11%2Fa-colonial-goldmine%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation book">Pezzi, Bryan (2000). <i>Massachusetts</i>. Weigl Publishers. p.&#160;15. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-930954-35-2" title="Special:BookSources/1-930954-35-2">1-930954-35-2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+Library&amp;rft.aufirst=Bryan&amp;rft.aulast=Pezzi&amp;rft.btitle=Massachusetts&amp;rft.date=2000&amp;rft.genre=book&amp;rft.isbn=1-930954-35-2&amp;rft.pages=15&amp;rft.pub=Weigl+Publishers&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Thomas_R._Karl" title="Thomas R. Karl">Karl, Thomas</a> (1998). <i>Toward an Earth Science Enterprise Federation: Results from a Workshop</i>. <a href="/wiki/National_Academies_Press" title="National Academies Press">National Academies Press</a>. p.&#160;27. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-309-06134-2" title="Special:BookSources/0-309-06134-2">0-309-06134-2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+Library&amp;rft.aufirst=Thomas&amp;rft.aulast=Karl&amp;rft.btitle=Toward+an+Earth+Science+Enterprise+Federation%3A+Results+from+a+Workshop&amp;rft.date=1998&amp;rft.genre=book&amp;rft.isbn=0-309-06134-2&amp;rft.pages=27&amp;rft.pub=National+Academies+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">American Library Association, "<a rel="nofollow" class="external text" href="http://www.ala.org/ala/professionalresources/libfactsheets/alalibraryfactsheet22.cfm">ALA Library Fact Sheet 22 – The Nation's Largest Libraries: A Listing by Volumes Held</a>". October 2012.</span></li>
+<li id="cite_note-Burke-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-Burke_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Burke_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Burke, Sarah K. <a rel="nofollow" class="external text" href="http://library.harvard.edu/sites/default/files/HLPS_fire_history.pdf">"Bookish fires: the legacy of fire in the Harvard libraries"</a> <span style="font-size:85%;">(PDF)</span>. <i>Harvard Library</i><span class="reference-accessdate">. Retrieved <span class="nowrap">26 October</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+Library&amp;rft.atitle=Bookish+fires%3A+the+legacy+of+fire+in+the+Harvard+libraries&amp;rft.aufirst=Sarah+K.&amp;rft.aulast=Burke&amp;rft.genre=unknown&amp;rft.jtitle=Harvard+Library&amp;rft_id=http%3A%2F%2Flibrary.harvard.edu%2Fsites%2Fdefault%2Ffiles%2FHLPS_fire_history.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://images.hollis.harvard.edu/primo-explore/search?vid=HVD_IMAGES&amp;lang=en_US&amp;sortby=rank">https://images.hollis.harvard.edu/primo-explore/search?vid=HVD_IMAGES&amp;lang=en_US&amp;sortby=rank</a></span></li>
+<li id="cite_note-Google-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-Google_10-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://hul.harvard.edu/hgproject/index.html">"Harvard University Library&#160;: Harvard-Google Project"</a>. <i>hul.harvard.edu</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+Library&amp;rft.atitle=Harvard+University+Library+%3A+Harvard-Google+Project&amp;rft.genre=unknown&amp;rft.jtitle=hul.harvard.edu&amp;rft_id=http%3A%2F%2Fhul.harvard.edu%2Fhgproject%2Findex.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Library_Task_Force_Working_Group_Recommendations-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-Library_Task_Force_Working_Group_Recommendations_11-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://isites.harvard.edu/fs/docs/icb.topic1341444.files/Library_TaskForce_WorkingGroup_Recommendations.pdf">http://isites.harvard.edu/fs/docs/icb.topic1341444.files/Library_TaskForce_WorkingGroup_Recommendations.pdf</a></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://hul.harvard.edu/">"Harvard Library"</a>. <i>hul.harvard.edu</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+Library&amp;rft.atitle=Harvard+Library&amp;rft.genre=unknown&amp;rft.jtitle=hul.harvard.edu&amp;rft_id=http%3A%2F%2Fhul.harvard.edu%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://library.harvard.edu/fal">"Fine Arts Library - Harvard Library"</a>. <i>library.harvard.edu</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+Library&amp;rft.atitle=Fine+Arts+Library+-+Harvard+Library&amp;rft.genre=unknown&amp;rft.jtitle=library.harvard.edu&amp;rft_id=http%3A%2F%2Flibrary.harvard.edu%2Ffal&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://library.harvard.edu/fun">"Fung Library - Harvard Library"</a>. <i>library.harvard.edu</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+Library&amp;rft.atitle=Fung+Library+-+Harvard+Library&amp;rft.genre=unknown&amp;rft.jtitle=library.harvard.edu&amp;rft_id=http%3A%2F%2Flibrary.harvard.edu%2Ffun&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://library.harvard.edu/mus">"Eda Kuhn Loeb Music Library - Harvard Library"</a>. <i>library.harvard.edu</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+Library&amp;rft.atitle=Eda+Kuhn+Loeb+Music+Library+-+Harvard+Library&amp;rft.genre=unknown&amp;rft.jtitle=library.harvard.edu&amp;rft_id=http%3A%2F%2Flibrary.harvard.edu%2Fmus&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://library.harvard.edu/toz">"Tozzer Library - Harvard Library"</a>. <i>library.harvard.edu</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+Library&amp;rft.atitle=Tozzer+Library+-+Harvard+Library&amp;rft.genre=unknown&amp;rft.jtitle=library.harvard.edu&amp;rft_id=http%3A%2F%2Flibrary.harvard.edu%2Ftoz&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://library.harvard.edu/bir">"Birkhoff Mathematical Library - Harvard Library"</a>. <i>library.harvard.edu</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+Library&amp;rft.atitle=Birkhoff+Mathematical+Library+-+Harvard+Library&amp;rft.genre=unknown&amp;rft.jtitle=library.harvard.edu&amp;rft_id=http%3A%2F%2Flibrary.harvard.edu%2Fbir&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-harvard.edu-18"><span class="mw-cite-backlink">^ <a href="#cite_ref-harvard.edu_18-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-harvard.edu_18-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://library.harvard.edu/mck">"Gordon McKay Library and Blue Hill Meteorological Observatory Library - Harvard Library"</a>. <i>library.harvard.edu</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+Library&amp;rft.atitle=Gordon+McKay+Library+and+Blue+Hill+Meteorological+Observatory+Library+-+Harvard+Library&amp;rft.genre=unknown&amp;rft.jtitle=library.harvard.edu&amp;rft_id=http%3A%2F%2Flibrary.harvard.edu%2Fmck&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://library.harvard.edu/che">"Chemistry and Chemical Biology Library - Harvard Library"</a>. <i>library.harvard.edu</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+Library&amp;rft.atitle=Chemistry+and+Chemical+Biology+Library+-+Harvard+Library&amp;rft.genre=unknown&amp;rft.jtitle=library.harvard.edu&amp;rft_id=http%3A%2F%2Flibrary.harvard.edu%2Fche&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://library.harvard.edu/chi">"Child Memorial Library - Harvard Library"</a>. <i>library.harvard.edu</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+Library&amp;rft.atitle=Child+Memorial+Library+-+Harvard+Library&amp;rft.genre=unknown&amp;rft.jtitle=library.harvard.edu&amp;rft_id=http%3A%2F%2Flibrary.harvard.edu%2Fchi&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://library.harvard.edu/mcz">"Ernst Mayr Library - Harvard Library"</a>. <i>library.harvard.edu</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+Library&amp;rft.atitle=Ernst+Mayr+Library+-+Harvard+Library&amp;rft.genre=unknown&amp;rft.jtitle=library.harvard.edu&amp;rft_id=http%3A%2F%2Flibrary.harvard.edu%2Fmcz&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://library.harvard.edu/gro">"Grossman Library - Harvard Library"</a>. <i>library.harvard.edu</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+Library&amp;rft.atitle=Grossman+Library+-+Harvard+Library&amp;rft.genre=unknown&amp;rft.jtitle=library.harvard.edu&amp;rft_id=http%3A%2F%2Flibrary.harvard.edu%2Fgro&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://library.harvard.edu/his">"History Departmental Library - Harvard Library"</a>. <i>library.harvard.edu</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+Library&amp;rft.atitle=History+Departmental+Library+-+Harvard+Library&amp;rft.genre=unknown&amp;rft.jtitle=library.harvard.edu&amp;rft_id=http%3A%2F%2Flibrary.harvard.edu%2Fhis&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://library.harvard.edu/hsl">"History of Science Library - Harvard Library"</a>. <i>library.harvard.edu</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+Library&amp;rft.atitle=History+of+Science+Library+-+Harvard+Library&amp;rft.genre=unknown&amp;rft.jtitle=library.harvard.edu&amp;rft_id=http%3A%2F%2Flibrary.harvard.edu%2Fhsl&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://library.harvard.edu/wol">"Wolbach Library - Harvard Library"</a>. <i>library.harvard.edu</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+Library&amp;rft.atitle=Wolbach+Library+-+Harvard+Library&amp;rft.genre=unknown&amp;rft.jtitle=library.harvard.edu&amp;rft_id=http%3A%2F%2Flibrary.harvard.edu%2Fwol&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://library.harvard.edu/lin">"Linguistics Library - Harvard Library"</a>. <i>library.harvard.edu</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+Library&amp;rft.atitle=Linguistics+Library+-+Harvard+Library&amp;rft.genre=unknown&amp;rft.jtitle=library.harvard.edu&amp;rft_id=http%3A%2F%2Flibrary.harvard.edu%2Flin&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://library.harvard.edu/nel">"Near Eastern Languages and Literatures Library - Harvard Library"</a>. <i>library.harvard.edu</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+Library&amp;rft.atitle=Near+Eastern+Languages+and+Literatures+Library+-+Harvard+Library&amp;rft.genre=unknown&amp;rft.jtitle=library.harvard.edu&amp;rft_id=http%3A%2F%2Flibrary.harvard.edu%2Fnel&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://library.harvard.edu/pea">"Peabody Museum Archives - Harvard Library"</a>. <i>library.harvard.edu</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+Library&amp;rft.atitle=Peabody+Museum+Archives+-+Harvard+Library&amp;rft.genre=unknown&amp;rft.jtitle=library.harvard.edu&amp;rft_id=http%3A%2F%2Flibrary.harvard.edu%2Fpea&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://library.harvard.edu/phy">"Physics Research Library - Harvard Library"</a>. <i>library.harvard.edu</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+Library&amp;rft.atitle=Physics+Research+Library+-+Harvard+Library&amp;rft.genre=unknown&amp;rft.jtitle=library.harvard.edu&amp;rft_id=http%3A%2F%2Flibrary.harvard.edu%2Fphy&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://library.harvard.edu/afr">"African and African American Studies Reading Room - Harvard Library"</a>. <i>library.harvard.edu</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+Library&amp;rft.atitle=African+and+African+American+Studies+Reading+Room+-+Harvard+Library&amp;rft.genre=unknown&amp;rft.jtitle=library.harvard.edu&amp;rft_id=http%3A%2F%2Flibrary.harvard.edu%2Fafr&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://library.harvard.edu/phi">"Robbins Library of Philosophy - Harvard Library"</a>. <i>library.harvard.edu</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+Library&amp;rft.atitle=Robbins+Library+of+Philosophy+-+Harvard+Library&amp;rft.genre=unknown&amp;rft.jtitle=library.harvard.edu&amp;rft_id=http%3A%2F%2Flibrary.harvard.edu%2Fphi&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://library.harvard.edu/san">"Sanskrit Library - Harvard Library"</a>. <i>library.harvard.edu</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+Library&amp;rft.atitle=Sanskrit+Library+-+Harvard+Library&amp;rft.genre=unknown&amp;rft.jtitle=library.harvard.edu&amp;rft_id=http%3A%2F%2Flibrary.harvard.edu%2Fsan&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://library.harvard.edu/smy">"Smyth Classical Library - Harvard Library"</a>. <i>library.harvard.edu</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+Library&amp;rft.atitle=Smyth+Classical+Library+-+Harvard+Library&amp;rft.genre=unknown&amp;rft.jtitle=library.harvard.edu&amp;rft_id=http%3A%2F%2Flibrary.harvard.edu%2Fsmy&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://library.harvard.edu/sta">"Statistics Library - Harvard Library"</a>. <i>library.harvard.edu</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+Library&amp;rft.atitle=Statistics+Library+-+Harvard+Library&amp;rft.genre=unknown&amp;rft.jtitle=library.harvard.edu&amp;rft_id=http%3A%2F%2Flibrary.harvard.edu%2Fsta&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://library.harvard.edu/find-library#">"Find A Library - Harvard Library"</a>. <i>library.harvard.edu</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+Library&amp;rft.atitle=Find+A+Library+-+Harvard+Library&amp;rft.genre=unknown&amp;rft.jtitle=library.harvard.edu&amp;rft_id=http%3A%2F%2Flibrary.harvard.edu%2Ffind-library%23&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://library.harvard.edu/div">"Andover-Harvard Theological Library - Harvard Library"</a>. <i>library.harvard.edu</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+Library&amp;rft.atitle=Andover-Harvard+Theological+Library+-+Harvard+Library&amp;rft.genre=unknown&amp;rft.jtitle=library.harvard.edu&amp;rft_id=http%3A%2F%2Flibrary.harvard.edu%2Fdiv&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://library.harvard.edu/bak">"Baker Library - Harvard Library"</a>. <i>library.harvard.edu</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+Library&amp;rft.atitle=Baker+Library+-+Harvard+Library&amp;rft.genre=unknown&amp;rft.jtitle=library.harvard.edu&amp;rft_id=http%3A%2F%2Flibrary.harvard.edu%2Fbak&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://library.harvard.edu/med">"Countway Library of Medicine - Harvard Library"</a>. <i>library.harvard.edu</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+Library&amp;rft.atitle=Countway+Library+of+Medicine+-+Harvard+Library&amp;rft.genre=unknown&amp;rft.jtitle=library.harvard.edu&amp;rft_id=http%3A%2F%2Flibrary.harvard.edu%2Fmed&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://library.harvard.edu/gut">"Monroe C. Gutman Library - Harvard Library"</a>. <i>library.harvard.edu</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+Library&amp;rft.atitle=Monroe+C.+Gutman+Library+-+Harvard+Library&amp;rft.genre=unknown&amp;rft.jtitle=library.harvard.edu&amp;rft_id=http%3A%2F%2Flibrary.harvard.edu%2Fgut&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://library.harvard.edu/law">"Harvard Law School Library - Harvard Library"</a>. <i>library.harvard.edu</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+Library&amp;rft.atitle=Harvard+Law+School+Library+-+Harvard+Library&amp;rft.genre=unknown&amp;rft.jtitle=library.harvard.edu&amp;rft_id=http%3A%2F%2Flibrary.harvard.edu%2Flaw&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://library.harvard.edu/ksg">"Harvard Kennedy School Library &amp; Knowledge Services - Harvard Library"</a>. <i>library.harvard.edu</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+Library&amp;rft.atitle=Harvard+Kennedy+School+Library+%26+Knowledge+Services+-+Harvard+Library&amp;rft.genre=unknown&amp;rft.jtitle=library.harvard.edu&amp;rft_id=http%3A%2F%2Flibrary.harvard.edu%2Fksg&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://library.harvard.edu/des">"Loeb Design Library - Harvard Library"</a>. <i>library.harvard.edu</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+Library&amp;rft.atitle=Loeb+Design+Library+-+Harvard+Library&amp;rft.genre=unknown&amp;rft.jtitle=library.harvard.edu&amp;rft_id=http%3A%2F%2Flibrary.harvard.edu%2Fdes&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-43">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://library.harvard.edu/sch">"Arthur and Elizabeth Schlesinger Library on the History of Women in America - Harvard Library"</a>. <i>library.harvard.edu</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+Library&amp;rft.atitle=Arthur+and+Elizabeth+Schlesinger+Library+on+the+History+of+Women+in+America+-+Harvard+Library&amp;rft.genre=unknown&amp;rft.jtitle=library.harvard.edu&amp;rft_id=http%3A%2F%2Flibrary.harvard.edu%2Fsch&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-potter-44"><span class="mw-cite-backlink">^ <a href="#cite_ref-potter_44-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-potter_44-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-potter_44-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-potter_44-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-potter_44-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-potter_44-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-potter_44-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-potter_44-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-potter_44-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-potter_44-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-potter_44-10"><sup><i><b>k</b></i></sup></a> <a href="#cite_ref-potter_44-11"><sup><i><b>l</b></i></sup></a> <a href="#cite_ref-potter_44-12"><sup><i><b>m</b></i></sup></a> <a href="#cite_ref-potter_44-13"><sup><i><b>n</b></i></sup></a> <a href="#cite_ref-potter_44-14"><sup><i><b>o</b></i></sup></a> <a href="#cite_ref-potter_44-15"><sup><i><b>p</b></i></sup></a> <a href="#cite_ref-potter_44-16"><sup><i><b>q</b></i></sup></a> <a href="#cite_ref-potter_44-17"><sup><i><b>r</b></i></sup></a> <a href="#cite_ref-potter_44-18"><sup><i><b>s</b></i></sup></a> <a href="#cite_ref-potter_44-19"><sup><i><b>t</b></i></sup></a> <a href="#cite_ref-potter_44-20"><sup><i><b>u</b></i></sup></a> <a href="#cite_ref-potter_44-21"><sup><i><b>v</b></i></sup></a> <a href="#cite_ref-potter_44-22"><sup><i><b>w</b></i></sup></a> <a href="#cite_ref-potter_44-23"><sup><i><b>x</b></i></sup></a> <a href="#cite_ref-potter_44-24"><sup><i><b>y</b></i></sup></a> <a href="#cite_ref-potter_44-25"><sup><i><b>z</b></i></sup></a> <a href="#cite_ref-potter_44-26"><sup><i><b>aa</b></i></sup></a> <a href="#cite_ref-potter_44-27"><sup><i><b>ab</b></i></sup></a> <a href="#cite_ref-potter_44-28"><sup><i><b>ac</b></i></sup></a> <a href="#cite_ref-potter_44-29"><sup><i><b>ad</b></i></sup></a> <a href="#cite_ref-potter_44-30"><sup><i><b>ae</b></i></sup></a> <a href="#cite_ref-potter_44-31"><sup><i><b>af</b></i></sup></a> <a href="#cite_ref-potter_44-32"><sup><i><b>ag</b></i></sup></a> <a href="#cite_ref-potter_44-33"><sup><i><b>ah</b></i></sup></a> <a href="#cite_ref-potter_44-34"><sup><i><b>ai</b></i></sup></a> <a href="#cite_ref-potter_44-35"><sup><i><b>aj</b></i></sup></a> <a href="#cite_ref-potter_44-36"><sup><i><b>ak</b></i></sup></a> <a href="#cite_ref-potter_44-37"><sup><i><b>al</b></i></sup></a> <a href="#cite_ref-potter_44-38"><sup><i><b>am</b></i></sup></a> <a href="#cite_ref-potter_44-39"><sup><i><b>an</b></i></sup></a> <a href="#cite_ref-potter_44-40"><sup><i><b>ao</b></i></sup></a> <a href="#cite_ref-potter_44-41"><sup><i><b>ap</b></i></sup></a> <a href="#cite_ref-potter_44-42"><sup><i><b>aq</b></i></sup></a> <a href="#cite_ref-potter_44-43"><sup><i><b>ar</b></i></sup></a> <a href="#cite_ref-potter_44-44"><sup><i><b>as</b></i></sup></a> <a href="#cite_ref-potter_44-45"><sup><i><b>at</b></i></sup></a> <a href="#cite_ref-potter_44-46"><sup><i><b>au</b></i></sup></a> <a href="#cite_ref-potter_44-47"><sup><i><b>av</b></i></sup></a> <a href="#cite_ref-potter_44-48"><sup><i><b>aw</b></i></sup></a> <a href="#cite_ref-potter_44-49"><sup><i><b>ax</b></i></sup></a> <a href="#cite_ref-potter_44-50"><sup><i><b>ay</b></i></sup></a> <a href="#cite_ref-potter_44-51"><sup><i><b>az</b></i></sup></a> <a href="#cite_ref-potter_44-52"><sup><i><b>ba</b></i></sup></a> <a href="#cite_ref-potter_44-53"><sup><i><b>bb</b></i></sup></a> <a href="#cite_ref-potter_44-54"><sup><i><b>bc</b></i></sup></a> <a href="#cite_ref-potter_44-55"><sup><i><b>bd</b></i></sup></a> <a href="#cite_ref-potter_44-56"><sup><i><b>be</b></i></sup></a> <a href="#cite_ref-potter_44-57"><sup><i><b>bf</b></i></sup></a> <a href="#cite_ref-potter_44-58"><sup><i><b>bg</b></i></sup></a> <a href="#cite_ref-potter_44-59"><sup><i><b>bh</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFAlfred_Claghorn_Potter.2C_Charles_Knowles_Bolton1897" class="citation">Alfred Claghorn Potter, Charles Knowles Bolton (1897), <a rel="nofollow" class="external text" href="https://openlibrary.org/books/OL7223959M/The_librarians_of_Harvard_College_1667-1877"><i>The Librarians of Harvard College 1667-1877</i></a>, Cambridge, Mass: Library of Harvard University</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+Library&amp;rft.au=Alfred+Claghorn+Potter%2C+Charles+Knowles+Bolton&amp;rft.btitle=The+Librarians+of+Harvard+College+1667-1877&amp;rft.date=1897&amp;rft.genre=book&amp;rft.place=Cambridge%2C+Mass&amp;rft.pub=Library+of+Harvard+University&amp;rft_id=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL7223959M%2FThe_librarians_of_Harvard_College_1667-1877&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harvard_Library&amp;action=edit&amp;section=13" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>"History of the Library." In The Library of Harvard University: Descriptive and Historical Notes, 4th ed., 12-35. Cambridge: Harvard University Press, 1934.</li>
+<li>Carpenter, Kenneth E. The First 350 Years of the Harvard University Library: Description of an Exhibition. Cambridge: Harvard University Press, 1986.</li>
+<li>Bond, W. H. and Hugh Amory, eds. The Printed Catalogues of the Harvard College Library, 1723-1790. Boston: The Colonial Society of Massachusetts, 1996.</li>
+<li>Kraus, J. W. (1961). The Harvard Undergraduate Library of 1773. College &amp; Research Libraries, 22(4), 247-252.</li>
+<li>Olsen, M., &amp; Harvey, L. G. (1993). Reading in revolutionary times: book borrowing from the Harvard College Library, 1773-1782. Harvard Library Bulletin, 4, 57-72.</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harvard_Library&amp;action=edit&amp;section=14" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Harvard_University_Library" class="extiw" title="commons:Category:Harvard University Library">Harvard University Library</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://library.harvard.edu">Official website</a></span></span></li>
+<li><a rel="nofollow" class="external text" href="http://hollis.harvard.edu">HOLLIS catalog</a></li>
+<li><a rel="nofollow" class="external text" href="http://sentra.ischool.utexas.edu/~lcr/archive/bookplates/22_3_HollisHarvard.htm"><i>Journal of Library History</i>, vol. 22, no. 3 (Summer 1987): 338-341.</a></li>
+<li><a rel="nofollow" class="external text" href="http://nrs.harvard.edu/urn-3:HUL.ARCH:hua12009">Harvard College Library: Library charging records, 1762-1897</a></li>
+<li><a rel="nofollow" class="external text" href="http://nrs.harvard.edu/urn-3:HUL.ARCH:hua35010">Early Catalogs and Shelflists of the Harvard College Library, 1723-1822: an inventory</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Harvard_University" style="padding:3px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Harvard" title="Template:Harvard"><abbr title="View this template" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Harvard" title="Template talk:Harvard"><abbr title="Discuss this template" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Harvard&amp;action=edit"><abbr title="Edit this template" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Harvard_University" style="font-size:114%;margin:0 4em"><a href="/wiki/Harvard_University" title="Harvard University"><span style="color:white">Harvard University</span></a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%"></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/History_of_Harvard_University" title="History of Harvard University">History</a></li>
+<li><a href="/wiki/John_Harvard_(clergyman)" title="John Harvard (clergyman)">John Harvard</a>
+<ul>
+<li><a href="/wiki/John_Harvard_(statue)" title="John Harvard (statue)">statue</a></li>
+</ul>
+</li>
+<li><a href="/wiki/President_of_Harvard_University" title="President of Harvard University">President</a> <a href="/wiki/Drew_Gilpin_Faust" title="Drew Gilpin Faust">Drew Gilpin Faust</a></li>
+<li><a href="/wiki/Harvard_Board_of_Overseers" title="Harvard Board of Overseers">Board of Overseers</a></li>
+<li><a href="/wiki/President_and_Fellows_of_Harvard_College" title="President and Fellows of Harvard College">President and Fellows of Harvard College</a></li>
+<li>Provost <a href="/wiki/Alan_M._Garber" class="mw-redirect" title="Alan M. Garber">Alan M. Garber</a></li>
+<li><a class="mw-selflink selflink">The Harvard Library</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="14" style="width:1px;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:John_Harvard_statue.jpg" class="image"><img alt="John Harvard statue.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/John_Harvard_statue.jpg/110px-John_Harvard_statue.jpg" width="110" height="123" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/John_Harvard_statue.jpg/165px-John_Harvard_statue.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/John_Harvard_statue.jpg/220px-John_Harvard_statue.jpg 2x" data-file-width="1622" data-file-height="1809" /></a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Arts and<br />
+Sciences</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%"></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_Faculty_of_Arts_and_Sciences" title="Harvard Faculty of Arts and Sciences">Harvard Faculty of Arts and Sciences</a></li>
+<li>Dean <a href="/wiki/Michael_D._Smith_(computer_scientist)" title="Michael D. Smith (computer scientist)">Michael D. Smith</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">College</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_College" title="Harvard College">Harvard College</a></li>
+<li>Dean <a href="/wiki/Rakesh_Khurana" title="Rakesh Khurana">Rakesh Khurana</a></li>
+<li><a href="/wiki/Radcliffe_College" title="Radcliffe College">Radcliffe College</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/List_of_Harvard_College_freshman_dormitories" title="List of Harvard College freshman dormitories">Freshman dormitories</a></li>
+<li>Upperclass houses
+<ul>
+<li><a href="/wiki/Adams_House_(Harvard_University)" class="mw-redirect" title="Adams House (Harvard University)">Adams</a></li>
+<li><a href="/wiki/Cabot_House" title="Cabot House">Cabot</a></li>
+<li><a href="/wiki/Currier_House_(Harvard_College)" title="Currier House (Harvard College)">Currier</a></li>
+<li><a href="/wiki/Dudley_House_(Harvard_College)" class="mw-redirect" title="Dudley House (Harvard College)">Dudley</a></li>
+<li><a href="/wiki/Dunster_House" title="Dunster House">Dunster</a></li>
+<li><a href="/wiki/Eliot_House" class="mw-redirect" title="Eliot House">Eliot</a></li>
+<li><a href="/wiki/Kirkland_House,_Harvard_University" class="mw-redirect" title="Kirkland House, Harvard University">Kirkland</a></li>
+<li><a href="/wiki/Leverett_House" title="Leverett House">Leverett</a></li>
+<li><a href="/wiki/Lowell_House" title="Lowell House">Lowell</a></li>
+<li><a href="/wiki/Mather_House_(Harvard_University)" class="mw-redirect" title="Mather House (Harvard University)">Mather</a></li>
+<li><a href="/wiki/Pforzheimer_House" title="Pforzheimer House">Pforzheimer</a></li>
+<li><a href="/wiki/Quincy_House_(Harvard)" class="mw-redirect" title="Quincy House (Harvard)">Quincy</a></li>
+<li><a href="/wiki/Winthrop_House" title="Winthrop House">Winthrop</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><a href="/wiki/List_of_Harvard_College_undergraduate_organizations" title="List of Harvard College undergraduate organizations">Undergraduate organizations</a></li>
+<li><i><a href="/wiki/The_Harvard_Crimson" title="The Harvard Crimson">The Harvard Crimson</a></i></li>
+<li><i><a href="/wiki/The_Harvard_Lampoon" title="The Harvard Lampoon">The Harvard Lampoon</a></i></li>
+<li><i><a href="/wiki/The_Harvard_Advocate" title="The Harvard Advocate">The Harvard Advocate</a></i></li>
+<li><i><a href="/wiki/The_Harvard_Independent" title="The Harvard Independent">The Harvard Independent</a></i></li>
+</ul>
+<ul>
+<li><b>Athletics</b>: <a href="/wiki/Harvard_Crimson" title="Harvard Crimson">Harvard Crimson</a></li>
+<li><a href="/wiki/Ivy_League" title="Ivy League">Ivy League</a></li>
+<li><a href="/wiki/Harvard_Stadium" title="Harvard Stadium">Harvard Stadium</a></li>
+<li><a href="/wiki/Harvard%E2%80%93Yale_football_rivalry" title="Harvard–Yale football rivalry">Yale football rivalry</a></li>
+<li><a href="/wiki/Lavietes_Pavilion" title="Lavietes Pavilion">Lavietes Pavilion</a></li>
+<li><a href="/wiki/Bright_Hockey_Center" class="mw-redirect" title="Bright Hockey Center">Bright Hockey Center</a></li>
+<li><a href="/wiki/Cornell%E2%80%93Harvard_hockey_rivalry" title="Cornell–Harvard hockey rivalry">Cornell hockey rivalry</a></li>
+<li><a href="/wiki/Beanpot_(ice_hockey)" title="Beanpot (ice hockey)">Beanpot</a></li>
+<li><a href="/wiki/Weld_Boathouse" title="Weld Boathouse">Weld Boathouse</a></li>
+<li><a href="/wiki/Newell_Boathouse_(Harvard_University)" class="mw-redirect" title="Newell Boathouse (Harvard University)">Newall Boathouse</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Continuing<br />
+Education</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_Division_of_Continuing_Education" title="Harvard Division of Continuing Education">Division of Continuing Education</a></li>
+<li>Dean <a href="/wiki/Huntington_D._Lambert" title="Huntington D. Lambert">Huntington D. Lambert</a></li>
+<li><a href="/wiki/Harvard_Extension_School" title="Harvard Extension School">Extension School</a></li>
+<li><a href="/wiki/Harvard_Summer_School" title="Harvard Summer School">Summer School</a></li>
+<li><a href="/wiki/History_of_Harvard_Extension_School" title="History of Harvard Extension School">History of Harvard Extension School</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Eng.<span style="white-space:nowrap"> </span>&amp;<span style="white-space:nowrap"> </span>Appl.<br />
+Sciences</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_John_A._Paulson_School_of_Engineering_and_Applied_Sciences" title="Harvard John A. Paulson School of Engineering and Applied Sciences">Harvard John A. Paulson School of Engineering and Applied Sciences</a></li>
+<li>Dean <a href="/wiki/Francis_J._Doyle_III" title="Francis J. Doyle III">Francis J. Doyle III</a></li>
+<li><a href="/wiki/Lyman_Laboratory_of_Physics" title="Lyman Laboratory of Physics">Lyman Laboratory of Physics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Graduate<br />
+School</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_Graduate_School_of_Arts_and_Sciences" title="Harvard Graduate School of Arts and Sciences">Graduate School of Arts and Sciences</a></li>
+<li>Dean <a href="/wiki/Xiao-Li_Meng" title="Xiao-Li Meng">Xiao-Li Meng</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Libraries</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cabot_Science_Library" title="Cabot Science Library">Cabot</a></li>
+<li><a href="/wiki/Harvard%E2%80%93Yenching_Library" title="Harvard–Yenching Library">Harvard-Yenching</a></li>
+<li><a href="/wiki/Houghton_Library" title="Houghton Library">Houghton</a>
+<ul>
+<li><i><a href="/wiki/Harvard_Review" title="Harvard Review">Harvard Review</a></i></li>
+</ul>
+</li>
+<li><a href="/wiki/Lamont_Library" title="Lamont Library">Lamont</a></li>
+<li><a href="/w/index.php?title=Pusey_Library&amp;action=edit&amp;redlink=1" class="new" title="Pusey Library (page does not exist)">Pusey</a></li>
+<li><a href="/wiki/Widener_Library" title="Widener Library">Widener</a>
+<ul>
+<li><a href="/wiki/Harry_Widener" class="mw-redirect" title="Harry Widener">Harry Widener</a></li>
+<li><a href="/wiki/Eleanor_Elkins_Widener" title="Eleanor Elkins Widener">Eleanor Elkins Widener</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Grossman_Library" title="Grossman Library">Grossman</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%"></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carpenter_Center_for_the_Visual_Arts" title="Carpenter Center for the Visual Arts">Carpenter Center for the Visual Arts</a></li>
+<li><a href="/wiki/Center_for_Hellenic_Studies" title="Center for Hellenic Studies">Center for Hellenic Studies</a></li>
+<li><a href="/w/index.php?title=Charles_Warren_Center_for_Studies_in_American_History&amp;action=edit&amp;redlink=1" class="new" title="Charles Warren Center for Studies in American History (page does not exist)">Charles Warren Center for Studies in American History</a></li>
+<li><a href="/wiki/Collection_of_Historical_Scientific_Instruments" class="mw-redirect" title="Collection of Historical Scientific Instruments">Collection of Historical Scientific Instruments</a></li>
+<li><a href="/wiki/Harvard%E2%80%93Smithsonian_Center_for_Astrophysics" title="Harvard–Smithsonian Center for Astrophysics">Harvard–Smithsonian Center for Astrophysics</a></li>
+<li><a href="/w/index.php?title=Institute_for_Quantitative_Social_Science&amp;action=edit&amp;redlink=1" class="new" title="Institute for Quantitative Social Science (page does not exist)">Institute for Quantitative Social Science</a></li>
+<li><a href="/wiki/Nieman_Foundation_for_Journalism" title="Nieman Foundation for Journalism">Nieman Foundation for Journalism</a></li>
+<li><a href="/wiki/Harvard_Ukrainian_Research_Institute" title="Harvard Ukrainian Research Institute">Ukrainian Research Institute</a></li>
+<li><a href="/wiki/Villa_I_Tatti" title="Villa I Tatti">Villa I Tatti</a></li>
+<li><a href="/wiki/W._E._B._Du_Bois_Institute" title="W. E. B. Du Bois Institute">W. E. B. Du Bois Institute</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Business</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_Business_School" title="Harvard Business School">Harvard Business School</a></li>
+<li>Dean <a href="/wiki/Nitin_Nohria" title="Nitin Nohria">Nitin Nohria</a></li>
+<li><a href="/wiki/Harvard_Business_Publishing" title="Harvard Business Publishing">Harvard Business Publishing</a>
+<ul>
+<li><a href="/wiki/Harvard_Business_Press" class="mw-redirect" title="Harvard Business Press">Harvard Business Press</a></li>
+<li><i><a href="/wiki/Harvard_Business_Review" title="Harvard Business Review">Harvard Business Review</a></i></li>
+</ul>
+</li>
+<li><a href="/wiki/Baker_Library/Bloomberg_Center" title="Baker Library/Bloomberg Center">Baker Library/Bloomberg Center</a></li>
+<li><a href="/wiki/Spangler_Center" title="Spangler Center">Spangler Center</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Design</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_Graduate_School_of_Design" title="Harvard Graduate School of Design">Harvard Graduate School of Design</a></li>
+<li>Dean <a href="/wiki/Mohsen_Mostafavi" title="Mohsen Mostafavi">Mohsen Mostafavi</a></li>
+<li><i><a href="/wiki/Harvard_Design_Magazine" title="Harvard Design Magazine">Harvard Design Magazine</a></i></li>
+<li><a href="/wiki/Joint_Center_for_Housing_Studies" title="Joint Center for Housing Studies">Joint Center for Housing Studies</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Divinity</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_Divinity_School" title="Harvard Divinity School">Harvard Divinity School</a></li>
+<li>Dean <a href="/wiki/David_N._Hempton" title="David N. Hempton">David N. Hempton</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Education</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_Graduate_School_of_Education" title="Harvard Graduate School of Education">Harvard Graduate School of Education</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Government</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/John_F._Kennedy_School_of_Government" title="John F. Kennedy School of Government">John F. Kennedy School of Government</a></li>
+<li>Dean <a href="/wiki/Douglas_Elmendorf" title="Douglas Elmendorf">Douglas Elmendorf</a></li>
+<li><a href="/wiki/Harvard_Institute_of_Politics" title="Harvard Institute of Politics">Institute of Politics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Law</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_Law_School" title="Harvard Law School">Harvard Law School</a></li>
+<li>Dean <a href="/wiki/Martha_Minow" title="Martha Minow">Martha Minow</a></li>
+<li><i><a href="/wiki/Harvard_Law_Review" title="Harvard Law Review">Harvard Law Review</a></i></li>
+<li><i><a href="/wiki/Harvard_Journal_of_Law_%26_Technology" title="Harvard Journal of Law &amp; Technology">Harvard Journal of Law &amp; Technology</a></i></li>
+<li><i><a href="/wiki/Harvard_Law_Record" title="Harvard Law Record">Harvard Law Record</a></i></li>
+<li><i><a href="/wiki/Harvard_International_Law_Journal" title="Harvard International Law Journal">Harvard International Law Journal</a></i></li>
+<li><i><a href="/wiki/Harvard_Civil_Rights-Civil_Liberties_Law_Review" title="Harvard Civil Rights-Civil Liberties Law Review">Harvard Civil Rights-Civil Liberties Law Review</a></i></li>
+<li><i><a href="/wiki/Harvard_Journal_on_Legislation" title="Harvard Journal on Legislation">Harvard Journal on Legislation</a></i></li>
+<li><a href="/wiki/Berkman_Center_for_Internet_%26_Society" class="mw-redirect" title="Berkman Center for Internet &amp; Society">Berkman Center</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Medicine</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%"></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_Medical_School" title="Harvard Medical School">Harvard Medical School</a></li>
+<li>Dean <a href="/wiki/Jeffrey_Scott_Flier" title="Jeffrey Scott Flier">Jeffrey Scott Flier</a></li>
+<li><a href="/wiki/Broad_Institute" title="Broad Institute">Broad Institute</a></li>
+<li><a href="/wiki/Countway_Library_of_Medicine" class="mw-redirect" title="Countway Library of Medicine">Countway Library</a></li>
+<li><a href="/wiki/Center_for_the_History_of_Medicine" class="mw-redirect" title="Center for the History of Medicine">Center for the History of Medicine</a>
+<ul>
+<li><a href="/wiki/Warren_Anatomical_Museum" title="Warren Anatomical Museum">Warren Anatomical Museum</a></li>
+</ul>
+</li>
+<li><a href="/w/index.php?title=Schepens_Eye_Research_Institute&amp;action=edit&amp;redlink=1" class="new" title="Schepens Eye Research Institute (page does not exist)">Schepens Eye Research Institute</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Dentistry</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_School_of_Dental_Medicine" title="Harvard School of Dental Medicine">Harvard School of Dental Medicine</a></li>
+<li>Dean <a href="/w/index.php?title=Bruce_Donoff&amp;action=edit&amp;redlink=1" class="new" title="Bruce Donoff (page does not exist)">Bruce Donoff</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Public health</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_T.H._Chan_School_of_Public_Health" title="Harvard T.H. Chan School of Public Health">Harvard T.H. Chan School of Public Health</a></li>
+<li>Dean <a href="/wiki/Michelle_Ann_Williams" title="Michelle Ann Williams">Michelle Ann Williams</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Museums</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_Art_Museums" title="Harvard Art Museums">Harvard Art Museums</a>
+<ul>
+<li><a href="/wiki/Arthur_M._Sackler_Museum" class="mw-redirect" title="Arthur M. Sackler Museum">Arthur M. Sackler</a></li>
+<li><a href="/wiki/Fogg_Museum" class="mw-redirect" title="Fogg Museum">Fogg Museum</a></li>
+<li><a href="/wiki/Busch%E2%80%93Reisinger_Museum" class="mw-redirect" title="Busch–Reisinger Museum">Busch-Reisinger</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Harvard_Collection_of_Historical_Scientific_Instruments" title="Harvard Collection of Historical Scientific Instruments">Harvard Collection of Historical Scientific Instruments</a></li>
+<li><a href="/wiki/Harvard_Museum_of_Natural_History" title="Harvard Museum of Natural History">Museum of Natural History</a>
+<ul>
+<li><a href="/wiki/Glass_Flowers" title="Glass Flowers">Glass Flowers</a></li>
+<li><a href="/wiki/Harvard_Mineralogical_Museum" title="Harvard Mineralogical Museum">Mineralogical Museum</a></li>
+<li><a href="/wiki/Harvard_University_Herbaria" title="Harvard University Herbaria">Herbaria</a></li>
+<li><a href="/wiki/Museum_of_Comparative_Zoology" title="Museum of Comparative Zoology">Comparative Zoology</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Peabody_Museum_of_Archaeology_and_Ethnology" title="Peabody Museum of Archaeology and Ethnology">Peabody Museum of Archaeology and Ethnology</a></li>
+<li><a href="/wiki/Semitic_Museum" title="Semitic Museum">Semitic Museum</a></li>
+<li><a href="/wiki/General_Artemas_Ward_House" title="General Artemas Ward House">General Artemas Ward House</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Cambridge<br />
+campus</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Memorial_Hall_(Harvard_University)" title="Memorial Hall (Harvard University)">Memorial Hall</a></li>
+<li><a href="/wiki/Harvard_Science_Center" title="Harvard Science Center">Science Center</a></li>
+<li><a href="/wiki/Smith_Campus_Center" title="Smith Campus Center">Smith Campus Center</a></li>
+<li><a href="/wiki/Peabody_Terrace" title="Peabody Terrace">Peabody Terrace</a></li>
+<li><a href="/wiki/Harvard_Graduate_Center" title="Harvard Graduate Center">Harvard Graduate Center</a></li>
+<li><a href="/wiki/Harvard_Hall" title="Harvard Hall">Harvard Hall</a></li>
+<li><a href="/wiki/University_Hall_(Harvard_University)" title="University Hall (Harvard University)">University Hall</a></li>
+<li><a href="/wiki/Memorial_Church_of_Harvard_University" title="Memorial Church of Harvard University">Memorial Church</a>
+<ul>
+<li><a href="/wiki/Harvard_University_Choir" title="Harvard University Choir">Choir</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Harvard_Yard" title="Harvard Yard">Harvard Yard</a></li>
+<li><a href="/wiki/Johnston_Gate" title="Johnston Gate">Johnston Gate</a></li>
+<li><a href="/wiki/Boylston_Hall" title="Boylston Hall">Boylston Hall</a></li>
+<li><a href="/wiki/Massachusetts_Hall_(Harvard_University)" title="Massachusetts Hall (Harvard University)">Massachusetts Hall</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Centers and<br />
+Institutes</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dumbarton_Oaks" title="Dumbarton Oaks">Dumbarton Oaks</a></li>
+<li><a href="/wiki/Harvard_Forest" title="Harvard Forest">Harvard Forest</a></li>
+<li><a href="/wiki/Harvard%E2%80%93MIT_Division_of_Health_Sciences_and_Technology" class="mw-redirect" title="Harvard–MIT Division of Health Sciences and Technology">Health Science and Technology</a></li>
+<li><a href="/wiki/Institute_for_Advanced_Theater_Training" title="Institute for Advanced Theater Training">Institute for Advanced Theater Training</a></li>
+<li><a href="/wiki/Radcliffe_Institute_for_Advanced_Study" title="Radcliffe Institute for Advanced Study">Radcliffe Institute for Advanced Study</a>
+<ul>
+<li><a href="/wiki/Schlesinger_Library" title="Schlesinger Library">Schlesinger Library</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Real_Colegio_Complutense" title="Real Colegio Complutense">Real Colegio Complutense</a></li>
+<li><a href="/wiki/Rowland_Institute_for_Science" title="Rowland Institute for Science">Rowland Institute for Science</a></li>
+<li><a href="/wiki/Wyss_Institute_for_Biologically_Inspired_Engineering" title="Wyss Institute for Biologically Inspired Engineering">Wyss Institute for Biologically Inspired Engineering</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Misc.</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/History_and_traditions_of_Harvard_commencements" title="History and traditions of Harvard commencements">Commencement traditions</a>
+<ul>
+<li><a href="/wiki/Academic_regalia_of_Harvard_University" title="Academic regalia of Harvard University">Academic regalia</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Heraldry_of_Harvard_University" title="Heraldry of Harvard University">Heraldry</a></li>
+<li><a href="/wiki/Harvard_Tercentenary_celebration" title="Harvard Tercentenary celebration">Tercentenary celebration</a></li>
+<li><a href="/wiki/Harvard_University_Professor" title="Harvard University Professor">Harvard University Professor</a></li>
+<li><i><a href="/wiki/Harvard_Magazine" title="Harvard Magazine">Harvard Magazine</a></i></li>
+<li><i><a href="/wiki/Harvard_Gazette" title="Harvard Gazette">Harvard Gazette</a></i></li>
+<li><a href="/wiki/Harvard_University_Press" title="Harvard University Press">Harvard University Press</a></li>
+<li><a href="/wiki/Harvard_Society_of_Fellows" title="Harvard Society of Fellows">Society of Fellows</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/129558359">WorldCat Identities</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/129558359">129558359</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n82107829">n82107829</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000114819074">0000 0001 1481 9074</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/39162-1">39162-1</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.idref.fr/026585502">026585502</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb11880491k">cb11880491k</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb11880491k">(data)</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="noprint metadata navbox" role="navigation" aria-label="Portals" style="font-weight:bold;padding:0.4em 2em">
+<ul style="margin:0.1em 0 0">
+<li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:Platopainting.jpg" class="image"><img alt="Platopainting.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Platopainting.jpg/17px-Platopainting.jpg" width="17" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Platopainting.jpg/26px-Platopainting.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Platopainting.jpg/34px-Platopainting.jpg 2x" data-file-width="328" data-file-height="400" /></a></span><a href="/wiki/Portal:University" title="Portal:University">University portal</a></span></li>
+<li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:Nuvola_apps_bookcase.svg" class="image"><img alt="Nuvola apps bookcase.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Nuvola_apps_bookcase.svg/21px-Nuvola_apps_bookcase.svg.png" width="21" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Nuvola_apps_bookcase.svg/32px-Nuvola_apps_bookcase.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Nuvola_apps_bookcase.svg/42px-Nuvola_apps_bookcase.svg.png 2x" data-file-width="128" data-file-height="128" /></a></span><a href="/wiki/Portal:Books" title="Portal:Books">Books portal</a></span></li>
+</ul>
+</div>
+<p><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Harvard_Library&amp;params=42_22_24.86_N_71_07_06.42_W_"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">42°22′24.86″N</span> <span class="longitude">71°07′06.42″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">42.3735722°N 71.1184500°W</span><span style="display:none">﻿ / <span class="geo">42.3735722; -71.1184500</span></span></span></a></span></span></span></p>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1187
+Cached time: 20171016192718
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.600 seconds
+Real time usage: 0.729 seconds
+Preprocessor visited node count: 2811/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 148192/2097152 bytes
+Template argument size: 1846/2097152 bytes
+Highest expansion depth: 20/40
+Expensive parser function count: 6/500
+Lua time usage: 0.284/10.000 seconds
+Lua memory usage: 4.97 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  629.566      1 -total
+ 47.47%  298.846      1 Template:Reflist
+ 31.41%  197.756     37 Template:Cite_web
+ 11.66%   73.389      3 Template:Navbox
+  7.75%   48.793      1 Template:Harvard
+  6.37%   40.118      1 Template:Inadequate_lead
+  6.33%   39.857      2 Template:Ambox
+  5.26%   33.104      1 Template:Infobox_library
+  4.91%   30.907      1 Template:Commons_category
+  4.72%   29.688      1 Template:Infobox
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1828266-0!canonical and timestamp 20171016192717 and revision id 801373513
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Harvard_Library&amp;oldid=801373513">https://en.wikipedia.org/w/index.php?title=Harvard_Library&amp;oldid=801373513</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:University_and_college_academic_libraries_in_the_United_States" title="Category:University and college academic libraries in the United States">University and college academic libraries in the United States</a></li><li><a href="/wiki/Category:Harvard_University_buildings" title="Category:Harvard University buildings">Harvard University buildings</a></li><li><a href="/wiki/Category:Libraries_in_Massachusetts" title="Category:Libraries in Massachusetts">Libraries in Massachusetts</a></li><li><a href="/wiki/Category:1638_establishments_in_Massachusetts" title="Category:1638 establishments in Massachusetts">1638 establishments in Massachusetts</a></li><li><a href="/wiki/Category:Libraries_in_Middlesex_County,_Massachusetts" title="Category:Libraries in Middlesex County, Massachusetts">Libraries in Middlesex County, Massachusetts</a></li><li><a href="/wiki/Category:Harvard_Library" title="Category:Harvard Library">Harvard Library</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_introduction_cleanup_from_December_2016" title="Category:Wikipedia introduction cleanup from December 2016">Wikipedia introduction cleanup from December 2016</a></li><li><a href="/wiki/Category:All_pages_needing_cleanup" title="Category:All pages needing cleanup">All pages needing cleanup</a></li><li><a href="/wiki/Category:Articles_covered_by_WikiProject_Wikify_from_December_2016" title="Category:Articles covered by WikiProject Wikify from December 2016">Articles covered by WikiProject Wikify from December 2016</a></li><li><a href="/wiki/Category:All_articles_covered_by_WikiProject_Wikify" title="Category:All articles covered by WikiProject Wikify">All articles covered by WikiProject Wikify</a></li><li><a href="/wiki/Category:Wikipedia_external_links_cleanup_from_December_2012" title="Category:Wikipedia external links cleanup from December 2012">Wikipedia external links cleanup from December 2012</a></li><li><a href="/wiki/Category:Wikipedia_spam_cleanup_from_December_2012" title="Category:Wikipedia spam cleanup from December 2012">Wikipedia spam cleanup from December 2012</a></li><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_August_2013" title="Category:Articles containing potentially dated statements from August 2013">Articles containing potentially dated statements from August 2013</a></li><li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">All articles containing potentially dated statements</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Harvard+Library" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Harvard+Library" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Harvard_Library" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Harvard_Library" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Harvard_Library">Read</a></span></li>
+							<li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Harvard_Library&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Harvard_Library&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Harvard_Library" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Harvard_Library" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Harvard_Library&amp;oldid=801373513" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Harvard_Library&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3232931" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Harvard_Library&amp;id=801373513" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Harvard+Library">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Harvard+Library&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Harvard_Library&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Harvard_University_Library" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Harvard_Universitetinin_Kitabxanas%C4%B1" title="Harvard Universitetinin Kitabxanası – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%BD%D0%B0_%D0%A5%D0%B0%D1%80%D0%B2%D0%B0%D1%80%D0%B4%D1%81%D0%BA%D0%B8%D1%8F_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82" title="Библиотека на Харвардския университет – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Harvard_University_Library" title="Harvard University Library – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%DA%A9%D8%AA%D8%A7%D8%A8%D8%AE%D8%A7%D9%86%D9%87_%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87_%D9%87%D8%A7%D8%B1%D9%88%D8%A7%D8%B1%D8%AF" title="کتابخانه دانشگاه هاروارد – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Biblioth%C3%A8que_de_l%27universit%C3%A9_Harvard" title="Bibliothèque de l'université Harvard – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Harvard_%C3%9Cniversitesi_K%C3%BCt%C3%BCphanesi" title="Harvard Üniversitesi Kütüphanesi – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%91%D1%96%D0%B1%D0%BB%D1%96%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%93%D0%B0%D1%80%D0%B2%D0%B0%D1%80%D0%B4%D1%81%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE_%D1%83%D0%BD%D1%96%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82%D1%83" title="Бібліотека Гарвардського університету – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%93%88%E4%BD%9B%E5%A4%A7%E5%AD%A6%E5%9B%BE%E4%B9%A6%E9%A6%86" title="哈佛大学图书馆 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3232931#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 19 September 2017, at 08:30.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Harvard_Library&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.600","walltime":"0.729","ppvisitednodes":{"value":2811,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":148192,"limit":2097152},"templateargumentsize":{"value":1846,"limit":2097152},"expansiondepth":{"value":20,"limit":40},"expensivefunctioncount":{"value":6,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  629.566      1 -total"," 47.47%  298.846      1 Template:Reflist"," 31.41%  197.756     37 Template:Cite_web"," 11.66%   73.389      3 Template:Navbox","  7.75%   48.793      1 Template:Harvard","  6.37%   40.118      1 Template:Inadequate_lead","  6.33%   39.857      2 Template:Ambox","  5.26%   33.104      1 Template:Infobox_library","  4.91%   30.907      1 Template:Commons_category","  4.72%   29.688      1 Template:Infobox"]},"scribunto":{"limitreport-timeusage":{"value":"0.284","limit":"10.000"},"limitreport-memusage":{"value":5211825,"limit":52428800}},"cachereport":{"origin":"mw1187","timestamp":"20171016192718","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":829,"wgHostname":"mw1187"});});</script>
+	</body>
+</html>

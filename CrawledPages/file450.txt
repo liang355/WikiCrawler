@@ -1,0 +1,1092 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Aschaffenburg - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Aschaffenburg","wgTitle":"Aschaffenburg","wgCurRevisionId":803315506,"wgRevisionId":803315506,"wgArticleId":165098,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 German-language sources (de)","Webarchive template wayback links","Articles needing additional references from January 2017","All articles needing additional references","Coordinates on Wikidata","Articles with hAudio microformats","Interlanguage link template link number","All articles lacking reliable references","Articles lacking reliable references from November 2013","All articles with unsourced statements","Articles with unsourced statements from July 2014","Wikipedia articles with VIAF identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","Towns in Bavaria","Aschaffenburg"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Aschaffenburg","wgRelevantArticleId":165098,"wgRequestId":"Wea88wpAMCYAACtgsvAAAABD","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCoordinates":{"lat":49.966666666667,"lon":9.15},"wgWikibaseItemId":"Q3942","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.math.scripts","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.3"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Aschaffenburger_Schloss%2C_edit.jpg/1200px-Aschaffenburger_Schloss%2C_edit.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Aschaffenburg"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Aschaffenburg&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Aschaffenburg&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Aschaffenburg"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Aschaffenburg rootpage-Aschaffenburg vector-experimental-print-styles vector-nav-directionality skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Aschaffenburg</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For the district, see <a href="/wiki/Aschaffenburg_(district)" title="Aschaffenburg (district)">Aschaffenburg (district)</a>.</div>
+<table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Aschaffenburg&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(January 2017)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<table class="infobox geography vcard" style="width:22em;width:23em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap"><span class="fn org"><span class="wrap">Aschaffenburg</span></span></th>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Aschaffenburger_Schloss,_edit.jpg" class="image" title="Schloss Johannisburg on the river Main"><img alt="Schloss Johannisburg on the river Main" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Aschaffenburger_Schloss%2C_edit.jpg/250px-Aschaffenburger_Schloss%2C_edit.jpg" width="250" height="159" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Aschaffenburger_Schloss%2C_edit.jpg/375px-Aschaffenburger_Schloss%2C_edit.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Aschaffenburger_Schloss%2C_edit.jpg/500px-Aschaffenburger_Schloss%2C_edit.jpg 2x" data-file-width="4351" data-file-height="2764" /></a>
+<div><a href="/wiki/Schloss_Johannisburg" title="Schloss Johannisburg">Schloss Johannisburg</a> on the river <a href="/wiki/Main_(river)" title="Main (river)">Main</a></div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" class="maptable" style="text-align:center">
+<table style="width:100%; background:none;">
+<tr>
+<td style="vertical-align:middle; text-align:center;"><a href="/wiki/File:Wappen_Aschaffenburg.svg" class="image" title="Coat of arms of Aschaffenburg  "><img alt="Coat of arms of Aschaffenburg  " src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Wappen_Aschaffenburg.svg/72px-Wappen_Aschaffenburg.svg.png" width="72" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Wappen_Aschaffenburg.svg/107px-Wappen_Aschaffenburg.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Wappen_Aschaffenburg.svg/143px-Wappen_Aschaffenburg.svg.png 2x" data-file-width="500" data-file-height="558" /></a><br />
+<small>Coat of arms</small></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center">
+<div class="center">
+<div style="width:170px;float:none;clear:both;margin-left:auto;margin-right:auto">
+<div style="width:170px;padding:0">
+<div style="position:relative;width:170px"><a href="/wiki/File:Germany_adm_location_map.svg" class="image" title="Aschaffenburg   is located in Germany"><img alt="Aschaffenburg   is located in Germany" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/170px-Germany_adm_location_map.svg.png" width="170" height="202" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/255px-Germany_adm_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/340px-Germany_adm_location_map.svg.png 2x" data-file-width="1073" data-file-height="1272" /></a>
+<div style="position:absolute;top:64.979%;left:36.5%">
+<div style="position:absolute;left:-3px;top:-3px;line-height:0"><img alt="Aschaffenburg  " src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png" title="Aschaffenburg  " width="6" height="6" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/9px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div>
+<div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:4px;text-align:left"><span style="padding:1px;float:left"><span class="wrap">Aschaffenburg</span></span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr class="mergedbottomrow">
+<td colspan="2" style="text-align:center">Coordinates: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Aschaffenburg&amp;params=49_58_0_N_9_09_0_E_type:city(68986)_region:DE-BY"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">49°58′0″N</span> <span class="longitude">9°09′0″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">49.96667°N 9.15000°E</span><span style="display:none">﻿ / <span class="geo">49.96667; 9.15000</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Aschaffenburg&amp;params=49_58_0_N_9_09_0_E_type:city(68986)_region:DE-BY"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">49°58′0″N</span> <span class="longitude">9°09′0″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">49.96667°N 9.15000°E</span><span style="display:none">﻿ / <span class="geo">49.96667; 9.15000</span></span></span></a></span></span></span></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Country</th>
+<td><a href="/wiki/Germany" title="Germany">Germany</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/States_of_Germany" title="States of Germany">State</a></th>
+<td><a href="/wiki/Bavaria" title="Bavaria">Bavaria</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Regierungsbezirk" title="Regierungsbezirk">Admin. region</a></th>
+<td><a href="/wiki/Lower_Franconia" title="Lower Franconia">Lower Franconia</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Districts_of_Germany" title="Districts of Germany">District</a></th>
+<td><a href="/wiki/Urban_districts_of_Germany" class="mw-redirect" title="Urban districts of Germany">Urban district</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Government</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;<a href="/wiki/Lord_Mayor" class="mw-redirect" title="Lord Mayor">Lord Mayor</a></th>
+<td>Klaus Herzog (<a href="/wiki/SPD" class="mw-redirect" title="SPD">SPD</a>)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Area</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Total</th>
+<td>62.45&#160;km<sup>2</sup> (24.11&#160;sq&#160;mi)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Elevation</th>
+<td>138&#160;m (453&#160;ft)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Population <span style="font-weight:normal">(2015-12-31)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></span></th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Total</th>
+<td>68,986</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Density</th>
+<td>1,100/km<sup>2</sup> (2,900/sq&#160;mi)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/Time_zone" title="Time zone">Time zone</a></th>
+<td><a href="/wiki/Central_European_Time" title="Central European Time">CET</a>/<a href="/wiki/Central_European_Summer_Time" title="Central European Summer Time">CEST</a> (UTC+1/+2)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/List_of_postal_codes_in_Germany" title="List of postal codes in Germany">Postal codes</a></th>
+<td class="adr"><span class="postal-code">63739–63743 (old: 8750)</span></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/List_of_dialling_codes_in_Germany" title="List of dialling codes in Germany">Dialling codes</a></th>
+<td>06021, 06028 (Obernau)</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Vehicle_registration_plate" title="Vehicle registration plate">Vehicle registration</a></th>
+<td>AB</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Website</th>
+<td><a rel="nofollow" class="external text" href="http://www.aschaffenburg.de/">www.aschaffenburg.de</a></td>
+</tr>
+</table>
+<p><b>Aschaffenburg</b> (<small>German pronunciation:</small> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA/Standard_German" title="Help:IPA/Standard German">[aˈʃafn̩bʊɐ̯k]</a></span><small class="nowrap metadata">&#160;(<span class="unicode haudio"><span class="fn"><span style="white-space:nowrap"><a href="/wiki/File:Aschaffenburg.ogg" title="About this sound"><img alt="About this sound" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" data-file-width="20" data-file-height="20" /></a>&#160;</span><a href="//upload.wikimedia.org/wikipedia/commons/1/18/Aschaffenburg.ogg" class="internal" title="Aschaffenburg.ogg">listen</a></span></span>)</small>) is a town in northwest <a href="/wiki/Bavaria" title="Bavaria">Bavaria</a>, <a href="/wiki/Germany" title="Germany">Germany</a>. The town of Aschaffenburg is not considered part of the <a href="/wiki/Aschaffenburg_(district)" title="Aschaffenburg (district)">district of Aschaffenburg</a>, but is the administrative seat.</p>
+<p>Aschaffenburg belonged to the <a href="/wiki/Archbishopric_of_Mainz" class="mw-redirect" title="Archbishopric of Mainz">Archbishopric of Mainz</a> for more than 800 years. The town is located at the westernmost border of <a href="/wiki/Lower_Franconia" title="Lower Franconia">Lower Franconia</a> and separated from the central and eastern part of the <i><a href="/wiki/Regierungsbezirk" title="Regierungsbezirk">Regierungsbezirk</a></i> (administrative region) by the <a href="/wiki/Spessart" title="Spessart">Spessart</a> hills, whereas it opens towards the <a href="/wiki/Frankfurt/Rhine-Main" class="mw-redirect" title="Frankfurt/Rhine-Main">Rhine-Main plain</a> in the west and north-west. Therefore, the inhabitants speak neither Bavarian nor East Franconian but rather a local version of <a href="/wiki/Rhine_Franconian" class="mw-redirect" title="Rhine Franconian">Rhine Franconian</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Geography"><span class="tocnumber">1</span> <span class="toctext">Geography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Location"><span class="tocnumber">1.1</span> <span class="toctext">Location</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Climate"><span class="tocnumber">1.2</span> <span class="toctext">Climate</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Subdivision"><span class="tocnumber">1.3</span> <span class="toctext">Subdivision</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Neighbouring_communities"><span class="tocnumber">1.4</span> <span class="toctext">Neighbouring communities</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Etymology"><span class="tocnumber">2.1</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Pre-history_to_Middle_Ages"><span class="tocnumber">2.2</span> <span class="toctext">Pre-history to Middle Ages</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Modern_times_through_19th_century"><span class="tocnumber">2.3</span> <span class="toctext">Modern times through 19th century</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#World_War_II"><span class="tocnumber">2.4</span> <span class="toctext">World War II</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Aschaffenburg_displaced_persons_camps"><span class="tocnumber">2.5</span> <span class="toctext">Aschaffenburg displaced persons camps</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Post-war_development"><span class="tocnumber">2.6</span> <span class="toctext">Post-war development</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#U.S._military_presence_.281945.E2.80.932007.29"><span class="tocnumber">2.7</span> <span class="toctext">U.S. military presence (1945–2007)</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#Demographics"><span class="tocnumber">3</span> <span class="toctext">Demographics</span></a>
+<ul>
+<li class="toclevel-2 tocsection-15"><a href="#Population"><span class="tocnumber">3.1</span> <span class="toctext">Population</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Age_distribution_of_current_population"><span class="tocnumber">3.2</span> <span class="toctext">Age distribution of current population</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-17"><a href="#Governance"><span class="tocnumber">4</span> <span class="toctext">Governance</span></a>
+<ul>
+<li class="toclevel-2 tocsection-18"><a href="#Lord_Mayors"><span class="tocnumber">4.1</span> <span class="toctext">Lord Mayors</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-19"><a href="#Economy"><span class="tocnumber">5</span> <span class="toctext">Economy</span></a>
+<ul>
+<li class="toclevel-2 tocsection-20"><a href="#Shopping"><span class="tocnumber">5.1</span> <span class="toctext">Shopping</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-21"><a href="#Arts_and_culture"><span class="tocnumber">6</span> <span class="toctext">Arts and culture</span></a>
+<ul>
+<li class="toclevel-2 tocsection-22"><a href="#Cultural_events"><span class="tocnumber">6.1</span> <span class="toctext">Cultural events</span></a></li>
+<li class="toclevel-2 tocsection-23"><a href="#Theaters_and_entertainment_venues"><span class="tocnumber">6.2</span> <span class="toctext">Theaters and entertainment venues</span></a></li>
+<li class="toclevel-2 tocsection-24"><a href="#Museums_and_galleries"><span class="tocnumber">6.3</span> <span class="toctext">Museums and galleries</span></a></li>
+<li class="toclevel-2 tocsection-25"><a href="#Library"><span class="tocnumber">6.4</span> <span class="toctext">Library</span></a></li>
+<li class="toclevel-2 tocsection-26"><a href="#Cinemas"><span class="tocnumber">6.5</span> <span class="toctext">Cinemas</span></a></li>
+<li class="toclevel-2 tocsection-27"><a href="#Recreation"><span class="tocnumber">6.6</span> <span class="toctext">Recreation</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-28"><a href="#Attractions"><span class="tocnumber">7</span> <span class="toctext">Attractions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-29"><a href="#Sights"><span class="tocnumber">7.1</span> <span class="toctext">Sights</span></a></li>
+<li class="toclevel-2 tocsection-30"><a href="#Parks"><span class="tocnumber">7.2</span> <span class="toctext">Parks</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-31"><a href="#Sports"><span class="tocnumber">8</span> <span class="toctext">Sports</span></a>
+<ul>
+<li class="toclevel-2 tocsection-32"><a href="#Football"><span class="tocnumber">8.1</span> <span class="toctext">Football</span></a></li>
+<li class="toclevel-2 tocsection-33"><a href="#American_football"><span class="tocnumber">8.2</span> <span class="toctext">American football</span></a></li>
+<li class="toclevel-2 tocsection-34"><a href="#Baseball_and_softball"><span class="tocnumber">8.3</span> <span class="toctext">Baseball and softball</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-35"><a href="#Infrastructure"><span class="tocnumber">9</span> <span class="toctext">Infrastructure</span></a>
+<ul>
+<li class="toclevel-2 tocsection-36"><a href="#Transportation"><span class="tocnumber">9.1</span> <span class="toctext">Transportation</span></a>
+<ul>
+<li class="toclevel-3 tocsection-37"><a href="#Roads"><span class="tocnumber">9.1.1</span> <span class="toctext">Roads</span></a></li>
+<li class="toclevel-3 tocsection-38"><a href="#Parking"><span class="tocnumber">9.1.2</span> <span class="toctext">Parking</span></a>
+<ul>
+<li class="toclevel-4 tocsection-39"><a href="#Public_transport"><span class="tocnumber">9.1.2.1</span> <span class="toctext">Public transport</span></a></li>
+</ul>
+</li>
+<li class="toclevel-3 tocsection-40"><a href="#Railway_stations_and_stops"><span class="tocnumber">9.1.3</span> <span class="toctext">Railway stations and stops</span></a></li>
+<li class="toclevel-3 tocsection-41"><a href="#Harbor"><span class="tocnumber">9.1.4</span> <span class="toctext">Harbor</span></a></li>
+<li class="toclevel-3 tocsection-42"><a href="#Airports"><span class="tocnumber">9.1.5</span> <span class="toctext">Airports</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-43"><a href="#Medical"><span class="tocnumber">9.2</span> <span class="toctext">Medical</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-44"><a href="#Education"><span class="tocnumber">10</span> <span class="toctext">Education</span></a>
+<ul>
+<li class="toclevel-2 tocsection-45"><a href="#University"><span class="tocnumber">10.1</span> <span class="toctext">University</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-46"><a href="#Media"><span class="tocnumber">11</span> <span class="toctext">Media</span></a>
+<ul>
+<li class="toclevel-2 tocsection-47"><a href="#Printed_media"><span class="tocnumber">11.1</span> <span class="toctext">Printed media</span></a></li>
+<li class="toclevel-2 tocsection-48"><a href="#Radio_and_television"><span class="tocnumber">11.2</span> <span class="toctext">Radio and television</span></a></li>
+<li class="toclevel-2 tocsection-49"><a href="#Internet"><span class="tocnumber">11.3</span> <span class="toctext">Internet</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-50"><a href="#Notable_people"><span class="tocnumber">12</span> <span class="toctext">Notable people</span></a>
+<ul>
+<li class="toclevel-2 tocsection-51"><a href="#Born_in_Aschaffenburg"><span class="tocnumber">12.1</span> <span class="toctext">Born in Aschaffenburg</span></a>
+<ul>
+<li class="toclevel-3 tocsection-52"><a href="#Before_1900"><span class="tocnumber">12.1.1</span> <span class="toctext">Before 1900</span></a></li>
+<li class="toclevel-3 tocsection-53"><a href="#1900_to_1959"><span class="tocnumber">12.1.2</span> <span class="toctext">1900 to 1959</span></a></li>
+<li class="toclevel-3 tocsection-54"><a href="#from_1960"><span class="tocnumber">12.1.3</span> <span class="toctext">from 1960</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-55"><a href="#Notable_residents"><span class="tocnumber">12.2</span> <span class="toctext">Notable residents</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-56"><a href="#Town_twinning"><span class="tocnumber">13</span> <span class="toctext">Town twinning</span></a></li>
+<li class="toclevel-1 tocsection-57"><a href="#References"><span class="tocnumber">14</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-58"><a href="#External_links"><span class="tocnumber">15</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Geography">Geography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aschaffenburg&amp;action=edit&amp;section=1" title="Edit section: Geography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Location">Location</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aschaffenburg&amp;action=edit&amp;section=2" title="Edit section: Location">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The town is located on both sides of the <a href="/wiki/Main_(river)" title="Main (river)">Main</a> in the southwest part of <a href="/wiki/Germany" title="Germany">Germany</a>, 41 kilometers (25&#160;mi) southeast of <a href="/wiki/Frankfurt_am_Main" class="mw-redirect" title="Frankfurt am Main">Frankfurt am Main</a>. In the western part of the municipal territory, the smaller <a href="/wiki/Aschaff" title="Aschaff">Aschaff</a> flows into the Main. The region is also known as <i>Bayerischer Untermain</i> ("Bavarian Lower Main"). Aschaffenburg lies in the far northwest of the state of Bavaria, close to the border to the state of <a href="/wiki/Hesse" title="Hesse">Hesse</a>.</p>
+<h3><span class="mw-headline" id="Climate">Climate</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aschaffenburg&amp;action=edit&amp;section=3" title="Edit section: Climate">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The climate is continental, typically with warm, dry summers and cold, damp winters. Aschaffenburg usually receives less snowfall during the winter than the nearby <a href="/wiki/Spessart" title="Spessart">Spessart</a>.</p>
+<h3><span class="mw-headline" id="Subdivision">Subdivision</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aschaffenburg&amp;action=edit&amp;section=4" title="Edit section: Subdivision">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:172px;"><a href="/wiki/File:%C3%96Denkmal2.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/%C3%96Denkmal2.jpg/170px-%C3%96Denkmal2.jpg" width="170" height="306" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/%C3%96Denkmal2.jpg/255px-%C3%96Denkmal2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/ba/%C3%96Denkmal2.jpg/340px-%C3%96Denkmal2.jpg 2x" data-file-width="350" data-file-height="629" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:%C3%96Denkmal2.jpg" class="internal" title="Enlarge"></a></div>
+Austrian memorial in the <i>Österreicher Kolonie</i></div>
+</div>
+</div>
+<p>Aschaffenburg comprises 10 <i><a href="/wiki/Ortsteil" class="mw-redirect" title="Ortsteil">Stadtteile</a></i>:</p>
+<ul>
+<li>Damm</li>
+<li>Gailbach</li>
+<li>Leider</li>
+<li>Nilkheim</li>
+<li>Obernau</li>
+<li><i>Obernauer Kolonie</i> (Obernauer Colony)</li>
+<li><i>Österreicher Kolonie</i> (Austrian Colony)</li>
+<li>Schweinheim</li>
+<li><i>Stadtmitte</i> (town center)</li>
+<li>Strietwald</li>
+</ul>
+<p>Nilkheim and Leider are the only <i>Stadtteile</i> which are located on the left bank of the river Main.</p>
+<h3><span class="mw-headline" id="Neighbouring_communities">Neighbouring communities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aschaffenburg&amp;action=edit&amp;section=5" title="Edit section: Neighbouring communities">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The following municipalities border Aschaffenburg (clockwise, from the north): <a href="/wiki/Johannesberg,_Bavaria" title="Johannesberg, Bavaria">Johannesberg</a>, <a href="/wiki/Glattbach" title="Glattbach">Glattbach</a>, <a href="/wiki/Goldbach,_Bavaria" title="Goldbach, Bavaria">Goldbach</a>, <a href="/wiki/Haibach,_Lower_Franconia" title="Haibach, Lower Franconia">Haibach</a>, <a href="/wiki/Bessenbach" title="Bessenbach">Bessenbach</a>, <a href="/wiki/Sulzbach_am_Main" title="Sulzbach am Main">Sulzbach am Main</a>, <a href="/wiki/Niedernberg" title="Niedernberg">Niedernberg</a>, <a href="/wiki/Gro%C3%9Fostheim" title="Großostheim">Großostheim</a>, <a href="/wiki/Stockstadt_am_Main" title="Stockstadt am Main">Stockstadt am Main</a> and <a href="/wiki/Mainaschaff" title="Mainaschaff">Mainaschaff</a>.</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aschaffenburg&amp;action=edit&amp;section=6" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aschaffenburg&amp;action=edit&amp;section=7" title="Edit section: Etymology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The name <i>Aschaffenburg</i> (<i>Ascaffaburc, Ascapha</i> or <i>Ascaphaburg</i> in the Middle Ages) originally meant "castle at the ash tree river" deriving from the river <i>Aschaff</i> that runs through parts of the town.</p>
+<h3><span class="mw-headline" id="Pre-history_to_Middle_Ages">Pre-history to Middle Ages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aschaffenburg&amp;action=edit&amp;section=8" title="Edit section: Pre-history to Middle Ages">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Aschaffenburg,_die_Sankt_Peter_und_Alexander_Kirche_DmD-6-61-000-293_poging2_foto10_2016-08-08_20.18.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Aschaffenburg%2C_die_Sankt_Peter_und_Alexander_Kirche_DmD-6-61-000-293_poging2_foto10_2016-08-08_20.18.jpg/220px-Aschaffenburg%2C_die_Sankt_Peter_und_Alexander_Kirche_DmD-6-61-000-293_poging2_foto10_2016-08-08_20.18.jpg" width="220" height="306" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Aschaffenburg%2C_die_Sankt_Peter_und_Alexander_Kirche_DmD-6-61-000-293_poging2_foto10_2016-08-08_20.18.jpg/330px-Aschaffenburg%2C_die_Sankt_Peter_und_Alexander_Kirche_DmD-6-61-000-293_poging2_foto10_2016-08-08_20.18.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Aschaffenburg%2C_die_Sankt_Peter_und_Alexander_Kirche_DmD-6-61-000-293_poging2_foto10_2016-08-08_20.18.jpg/440px-Aschaffenburg%2C_die_Sankt_Peter_und_Alexander_Kirche_DmD-6-61-000-293_poging2_foto10_2016-08-08_20.18.jpg 2x" data-file-width="2762" data-file-height="3840" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Aschaffenburg,_die_Sankt_Peter_und_Alexander_Kirche_DmD-6-61-000-293_poging2_foto10_2016-08-08_20.18.jpg" class="internal" title="Enlarge"></a></div>
+<i><a href="/wiki/St._Peter_und_Alexander_(Aschaffenburg)" title="St. Peter und Alexander (Aschaffenburg)">Kollegiatstift St. Peter und Alexander</a></i></div>
+</div>
+</div>
+<p>The earliest remains of settlements in the area of Aschaffenburg date from the <a href="/wiki/Stone_Age" title="Stone Age">Stone Age</a>.</p>
+<p>Aschaffenburg was originally a settlement of the <a href="/wiki/Alamanni" class="mw-redirect" title="Alamanni">Alamanni</a>. <a href="/wiki/Roman_legion" title="Roman legion">Roman legions</a> were stationed here. In c. 700 AD, the <i><a href="/wiki/Ravenna_Cosmography" title="Ravenna Cosmography">Ravenna Cosmography</a></i> names two settlements in region: <i>Uburzis</i> (<a href="/wiki/W%C3%BCrzburg" title="Würzburg">Würzburg</a>) and <i>Ascapha</i> (Aschaffenburg).<sup id="cite_ref-Dumont_2-0" class="reference"><a href="#cite_note-Dumont-2">[2]</a></sup><sup class="reference" style="white-space:nowrap;">:69</sup></p>
+<p>Around 550, the area had been conquered by the <a href="/wiki/Franks" title="Franks">Franks</a>, and their <a href="/wiki/Mayor_of_the_palace" class="mw-redirect" title="Mayor of the palace"><i>Hausmeier</i></a> built a castle here. In the 8th century, a <a href="/wiki/Benedictine" class="mw-redirect" title="Benedictine">Benedictine</a> monastery was founded, dedicated to St. Michael, reportedly by <a href="/wiki/Saint_Boniface" title="Saint Boniface">Saint Boniface</a>. This became the <i><a href="/wiki/St._Peter_und_Alexander_(Aschaffenburg)" title="St. Peter und Alexander (Aschaffenburg)">Kollegiatstift St. Peter und Alexander</a></i> in the second half of the 10th century (957). In 869, King <a href="/wiki/Louis_the_Younger" title="Louis the Younger">Louis the Younger</a> married <a href="/wiki/Liutgard_of_Saxony_(died_885)" title="Liutgard of Saxony (died 885)">Liutgard of Saxony</a> at Aschaffenburg. She also died here in 885 and was later laid to rest with her daughter Hildegard in the <i>Stiftskirche</i>. <i>Ascaffinburg</i> is mentioned first in 974 in a gift document by <a href="/wiki/Otto_II,_Holy_Roman_Emperor" title="Otto II, Holy Roman Emperor">Otto II</a>, in which he gave several villages including <a href="/wiki/Wertheim_am_Main" title="Wertheim am Main">Wertheim am Main</a> and a stretch of forest in the Spessart to the collegiate church.<sup id="cite_ref-Dumont_2-1" class="reference"><a href="#cite_note-Dumont-2">[2]</a></sup><sup class="reference" style="white-space:nowrap;">:69</sup><sup id="cite_ref-Zeitreise_3-0" class="reference"><a href="#cite_note-Zeitreise-3">[3]</a></sup><sup class="reference" style="white-space:nowrap;">:56</sup></p>
+<p>In the <a href="/wiki/Middle_Ages" title="Middle Ages">Middle Ages</a> the town was known as <i>Ascaffaburc</i>, <i>Ascapha</i> or <i>Ascaphaburg</i>. A stone bridge over the Main was reportedly built by Archbishop <a href="/wiki/Willigis" title="Willigis">Willigis</a> in 989, who also made the town his second residence. The town (referred to in 975 as a <i>civitas</i>) was part of the <a href="/wiki/Archbishopric_of_Mainz" class="mw-redirect" title="Archbishopric of Mainz">Archbishopric of Mainz</a> from 982, when <a href="/wiki/Otto_I,_Duke_of_Swabia_and_Bavaria" title="Otto I, Duke of Swabia and Bavaria">Duke Otto</a> died. A <i>Vizedom</i> is mentioned for the first time in 1122 as the top local representative of the Archbishop. In 1292 a synod was held here, and in 1447 an <a href="/wiki/Reichstag_(Holy_Roman_Empire)" class="mw-redirect" title="Reichstag (Holy Roman Empire)">imperial diet</a>, preliminary to that of <a href="/wiki/Vienna" title="Vienna">Vienna</a>, approved a concordat (sometimes called the <i>Aschaffenburg Concordat</i>). In the <a href="/wiki/German_Peasants%27_War" title="German Peasants' War">German Peasants' War</a> (1525), the town backed the losing side.<sup id="cite_ref-Brit_4-0" class="reference"><a href="#cite_note-Brit-4">[4]</a></sup><sup id="cite_ref-Zeitreise_3-1" class="reference"><a href="#cite_note-Zeitreise-3">[3]</a></sup><sup class="reference" style="white-space:nowrap;">:56–7</sup></p>
+<h3><span class="mw-headline" id="Modern_times_through_19th_century">Modern times through 19th century</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aschaffenburg&amp;action=edit&amp;section=9" title="Edit section: Modern times through 19th century">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 1552, the late-<a href="/wiki/Gothic_architecture" title="Gothic architecture">Gothic</a> castle of Johannisburg was destroyed. It was replaced in 1605-14 by the <a href="/wiki/Renaissance_architecture" title="Renaissance architecture">Renaissance</a> <i>Schloss Johannisburg</i>.<sup id="cite_ref-Zeitreise_3-2" class="reference"><a href="#cite_note-Zeitreise-3">[3]</a></sup><sup class="reference" style="white-space:nowrap;">:57</sup> The town suffered greatly during the <a href="/wiki/Thirty_Years%27_War" title="Thirty Years' War">Thirty Years' War</a>, being held in turn by the various belligerents. During the <a href="/wiki/Battle_of_Dettingen" title="Battle of Dettingen">Battle of Dettingen</a> (1743), which took place to the north, the town was occupied by French troops. It formed part of the electorate of the <a href="/wiki/Archbishop_of_Mainz" class="mw-redirect" title="Archbishop of Mainz">Archbishop of Mainz</a>, and in 1803 was made over to Archbishop <a href="/wiki/Karl_Theodor_Anton_Maria_von_Dalberg" title="Karl Theodor Anton Maria von Dalberg">Karl Theodor von Dalberg</a> as the <a href="/wiki/Principality_of_Aschaffenburg" title="Principality of Aschaffenburg">Principality of Aschaffenburg</a>.</p>
+<p>Aschaffenburg was the site of the "<a href="/w/index.php?title=Forstliche_Hochschule_Aschaffenburg&amp;action=edit&amp;redlink=1" class="new" title="Forstliche Hochschule Aschaffenburg (page does not exist)">Forstliche Hochschule Aschaffenburg</a><span class="noprint" style="font-size:85%; font-style: normal;">&#160;(<a href="https://de.wikipedia.org/wiki/Royal_Bavarian_Central_Forest_Academy" class="extiw" title="de:Royal Bavarian Central Forest Academy">de</a>)</span>" ( <i>Königlich Bayerische Centralforstlehranstalt</i> ), established in 1807, "made famous by the researches of Professor Dr <a href="/w/index.php?title=Ernst_Ebermayer&amp;action=edit&amp;redlink=1" class="new" title="Ernst Ebermayer (page does not exist)">Ernst Ebermayer</a>." The Academy was "dissolved in 1832, but re-organized under the Ministry of Finance in 1874"; and, as "of 30th March, 1874, united to the <a href="/wiki/University_of_Munich" class="mw-redirect" title="University of Munich">University of Munich</a>."<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></p>
+<p>In 1810, the Principality of Aschaffenburg was merged into the new <a href="/wiki/Grand_Duchy_of_Frankfurt" title="Grand Duchy of Frankfurt">Grand Duchy of Frankfurt</a>, although Dalberg retained Aschaffenburg as his residence. In 1814 the town was transferred to the <a href="/wiki/Kingdom_of_Bavaria" title="Kingdom of Bavaria">Kingdom of Bavaria</a> by an Austrian-Bavarian treaty. In 1817 it was included within Bavarian <a href="/wiki/Lower_Franconia" title="Lower Franconia">Lower Franconia</a>. From 1840–1848, King <a href="/wiki/Ludwig_I_of_Bavaria" title="Ludwig I of Bavaria">Ludwig I of Bavaria</a> had a Roman villa built to the west of town. It was named <i><a href="/wiki/Pompejanum" title="Pompejanum">Pompejanum</a></i> after its model, the house of <a href="/wiki/Castor_and_Polydeuces" class="mw-redirect" title="Castor and Polydeuces">Castor and Pollux</a> at <a href="/wiki/Pompeii" title="Pompeii">Pompeii</a>.<sup id="cite_ref-Flyer_6-0" class="reference"><a href="#cite_note-Flyer-6">[6]</a></sup><sup id="cite_ref-WS_7-0" class="reference"><a href="#cite_note-WS-7">[7]</a></sup></p>
+<p>In 1866, the <a href="/wiki/Prussian_Army" title="Prussian Army">Prussian Army</a> inflicted a severe defeat on the <a href="/wiki/Austrian_Empire" title="Austrian Empire">Austrians</a> in the vicinity during the <a href="/wiki/Austro-Prussian_War" title="Austro-Prussian War">Austro-Prussian War</a>.</p>
+<h3><span class="mw-headline" id="World_War_II">World War II</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aschaffenburg&amp;action=edit&amp;section=10" title="Edit section: World War II">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In <a href="/wiki/World_War_II" title="World War II">World War II</a>, Aschaffenburg was heavily damaged by Allied <a href="/wiki/Strategic_bombing_during_World_War_II" title="Strategic bombing during World War II">area bombing</a>, including <a href="/wiki/Schloss_Johannisburg" title="Schloss Johannisburg">Schloss Johannisburg</a> which was completely restored several years later. The Germans chose to defend Aschaffenburg with particular steadfastness, which resulted in the "Battle of Aschaffenburg" fought 28 March - 3 April 1945. The U.S. <a href="/wiki/45th_Infantry_Division_(United_States)" title="45th Infantry Division (United States)">45th Infantry Division</a> was forced to take the fortified town against stiff German resistance in a series of frontal assaults that involved house-to-house fighting and vicious close combat. The resulting widespread urban destruction was quite severe, as cannon fire was used point-blank to blast through structures.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p>
+<h3><span class="mw-headline" id="Aschaffenburg_displaced_persons_camps">Aschaffenburg displaced persons camps</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aschaffenburg&amp;action=edit&amp;section=11" title="Edit section: Aschaffenburg displaced persons camps">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>At the end of World War II the <a href="/wiki/United_States_Army" title="United States Army">United States Army</a> occupied military facilities formerly used and controlled by the <a href="/wiki/Wehrmacht" title="Wehrmacht">Wehrmacht</a>. These were converted for use by U.S. military personnel as processing centres for <a href="/wiki/Displaced_person" class="mw-redirect" title="Displaced person">displaced persons</a> at the end of the war.<sup id="cite_ref-usarmygermany_9-0" class="reference"><a href="#cite_note-usarmygermany-9">[9]</a></sup> From 1945 7,000 <a href="/wiki/Ukrainians" title="Ukrainians">Ukrainians</a> were accommodated in four <a href="/wiki/Displaced_persons_camp" title="Displaced persons camp">displaced persons camps</a>:<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></p>
+<ul>
+<li><i>Artillerie Kaserne</i>&#160;— approx. 2,000 people (1945–1949)<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></li>
+<li><i>Bois Brulé Kaserne</i>&#160;— 1,500 people (1946–1949)<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></li>
+<li><i>LaGarde Kaserne</i>&#160;— 1,700 people (1945–1949)<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></li>
+<li><i>Pionier Kaserne</i>&#160;— 2,000 people (1946–1949)<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></li>
+</ul>
+<p>Two other camps, <i>Alte (old) Kaserne</i> and <i>Jäger Kaserne</i> housed mainly <a href="/wiki/Poles" title="Poles">Poles</a> and <a href="/wiki/Lithuanians" title="Lithuanians">Lithuanians</a>.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup><sup class="noprint Inline-Template noprint Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:NOTRS" class="mw-redirect" title="Wikipedia:NOTRS"><span title="This claim needs references to better sources. (November 2013)">better&#160;source&#160;needed</span></a></i>]</sup></p>
+<h3><span class="mw-headline" id="Post-war_development">Post-war development</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aschaffenburg&amp;action=edit&amp;section=12" title="Edit section: Post-war development">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the decades following the war, Aschaffenburg and the surrounding region experienced robust economic prosperity, partially due to its close proximity to <a href="/wiki/Frankfurt_am_Main" class="mw-redirect" title="Frankfurt am Main">Frankfurt am Main</a>.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Civilians_clearing_the_streets_of_Aschaffenburg.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/6/6a/Civilians_clearing_the_streets_of_Aschaffenburg.jpg/220px-Civilians_clearing_the_streets_of_Aschaffenburg.jpg" width="220" height="181" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/6a/Civilians_clearing_the_streets_of_Aschaffenburg.jpg/330px-Civilians_clearing_the_streets_of_Aschaffenburg.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/6/6a/Civilians_clearing_the_streets_of_Aschaffenburg.jpg/440px-Civilians_clearing_the_streets_of_Aschaffenburg.jpg 2x" data-file-width="5848" data-file-height="4800" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Civilians_clearing_the_streets_of_Aschaffenburg.jpg" class="internal" title="Enlarge"></a></div>
+Civilians clearing away the rubble, 3 April 1945</div>
+</div>
+</div>
+<p>According to an online 2002 survey in <i><a href="/wiki/Stern_(magazine)" title="Stern (magazine)">Stern</a></i> magazine, [Stern 14/2002], 82 percent of residents living in the <i>Bayerischer Untermain</i> region where Aschaffenburg is located were satisfied with the place where they lived. This was the highest level recorded in the survey, making the region the #1 place to live in Germany, based on several factors including employment opportunities in the region, educational facilities, public services, transportation, recreational options, shopping, cultural facilities/events, climate, etc.</p>
+<p>Another survey taken in 2006 by McKinsey, <i>Stern</i> magazine, <a href="/wiki/ZDF" title="ZDF">ZDF</a>, and web.de again showed that Aschaffenburg has one of the highest ratings for quality of life in Germany.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2014)">citation needed</span></a></i>]</sup></p>
+<h3><span id="U.S._military_presence_(1945–2007)"></span><span class="mw-headline" id="U.S._military_presence_.281945.E2.80.932007.29">U.S. military presence (1945–2007)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aschaffenburg&amp;action=edit&amp;section=13" title="Edit section: U.S. military presence (1945–2007)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Aschaffenburg was the location of several United States Army installations throughout the <a href="/wiki/Cold_War" title="Cold War">Cold War</a>. After initially taking over the administration of the ex-Wehrmacht installations, which were then used as displaced persons camps, the American presence in the Aschaffenburg military community began after general renovations in 1948.<sup id="cite_ref-usarmygermany_9-1" class="reference"><a href="#cite_note-usarmygermany-9">[9]</a></sup> The installation sites were known as <i>Ready Kaserne</i> (previously <i>Artillerie Kaserne</i>), <i>Smith Kaserne</i> (previously <i>LaGarde Kaserne</i>), <i>Graves Kaserne</i> (previously <i>Bois Brulé Kaserne</i>), <i>Fiori Kaserne</i> (previously <i>Pionier Kaserne</i>), and <i>Jaeger Kaserne</i> (previously <i>Jäger Kaserne</i>). These housed armour, infantry, engineer, maintenance and artillery elements of the U.S. Army 3rd Brigade, 3rd Infantry Division and various VII Corps elements including the 9th Engineer Battalion, the 3rd Bn 21st Field Artillery (Honest John), and the 1st Bn 80th Field Artillery (LANCE). Much of the U.S. Army presence in Aschaffenburg ended in 1992 with the ending of the Cold War. The last buildings, which were primarily used for housing, were handed back to the local government in 2007.</p>
+<h2><span class="mw-headline" id="Demographics">Demographics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aschaffenburg&amp;action=edit&amp;section=14" title="Edit section: Demographics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Aschaffenburg_Schloss_2005-12-10a.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/23/Aschaffenburg_Schloss_2005-12-10a.jpg/220px-Aschaffenburg_Schloss_2005-12-10a.jpg" width="220" height="146" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/23/Aschaffenburg_Schloss_2005-12-10a.jpg/330px-Aschaffenburg_Schloss_2005-12-10a.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/23/Aschaffenburg_Schloss_2005-12-10a.jpg/440px-Aschaffenburg_Schloss_2005-12-10a.jpg 2x" data-file-width="3008" data-file-height="2000" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Aschaffenburg_Schloss_2005-12-10a.jpg" class="internal" title="Enlarge"></a></div>
+Schloss Johannisburg reflected in the river <a href="/wiki/Main_(river)" title="Main (river)">Main</a> at night</div>
+</div>
+</div>
+<h3><span class="mw-headline" id="Population">Population</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aschaffenburg&amp;action=edit&amp;section=15" title="Edit section: Population">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table border="0">
+<tr>
+<td valign="top">
+<table class="wikitable">
+<tr>
+<th>Year</th>
+<th>Population</th>
+</tr>
+<tr>
+<td>1900</td>
+<td align="right">18,093</td>
+</tr>
+<tr>
+<td>1910</td>
+<td align="right">29,892</td>
+</tr>
+<tr>
+<td>1925</td>
+<td align="right">34,056</td>
+</tr>
+<tr>
+<td>1939</td>
+<td align="right">45,379</td>
+</tr>
+<tr>
+<td>1945</td>
+<td align="right">30,861</td>
+</tr>
+<tr>
+<td>1946</td>
+<td align="right">36,383</td>
+</tr>
+<tr>
+<td>1950</td>
+<td align="right">45,499</td>
+</tr>
+</table>
+</td>
+<td valign="top">
+<table class="wikitable">
+<tr>
+<th>Year</th>
+<th>Population</th>
+</tr>
+<tr>
+<td>1961</td>
+<td align="right">54,131</td>
+</tr>
+<tr>
+<td>1970</td>
+<td align="right">55,193</td>
+</tr>
+<tr>
+<td>1980</td>
+<td align="right">59,257</td>
+</tr>
+<tr>
+<td>1987</td>
+<td align="right">60,964</td>
+</tr>
+<tr>
+<td>1990</td>
+<td align="right">64,098<sup id="cite_ref-ABDemographics_16-0" class="reference"><a href="#cite_note-ABDemographics-16">[16]</a></sup></td>
+</tr>
+<tr>
+<td>1995</td>
+<td align="right">66,360<sup id="cite_ref-ABDemographics_16-1" class="reference"><a href="#cite_note-ABDemographics-16">[16]</a></sup></td>
+</tr>
+<tr>
+<td>2000</td>
+<td align="right">67,592<sup id="cite_ref-ABDemographics_16-2" class="reference"><a href="#cite_note-ABDemographics-16">[16]</a></sup></td>
+</tr>
+</table>
+</td>
+<td valign="top">
+<table class="wikitable">
+<tr>
+<th>Year</th>
+<th>Population</th>
+</tr>
+<tr>
+<td>2003</td>
+<td align="right">68,607<sup id="cite_ref-ABDemographics_16-3" class="reference"><a href="#cite_note-ABDemographics-16">[16]</a></sup></td>
+</tr>
+<tr>
+<td>2007</td>
+<td align="right">68,646<sup id="cite_ref-ABDemographics_16-4" class="reference"><a href="#cite_note-ABDemographics-16">[16]</a></sup></td>
+</tr>
+<tr>
+<td>2010</td>
+<td align="right">68,648<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup></td>
+</tr>
+<tr>
+<td>2015</td>
+<td align="right">68,986<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Age_distribution_of_current_population">Age distribution of current population</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aschaffenburg&amp;action=edit&amp;section=16" title="Edit section: Age distribution of current population">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<tr>
+<th>Age</th>
+<th>Population</th>
+</tr>
+<tr>
+<td>0-19</td>
+<td align="right">13,888<sup id="cite_ref-ABDemographics_16-5" class="reference"><a href="#cite_note-ABDemographics-16">[16]</a></sup></td>
+</tr>
+<tr>
+<td>20-39</td>
+<td align="right">19,505<sup id="cite_ref-ABDemographics_16-6" class="reference"><a href="#cite_note-ABDemographics-16">[16]</a></sup></td>
+</tr>
+<tr>
+<td>40-59</td>
+<td align="right">18,951<sup id="cite_ref-ABDemographics_16-7" class="reference"><a href="#cite_note-ABDemographics-16">[16]</a></sup></td>
+</tr>
+<tr>
+<td>60+</td>
+<td align="right">16,556<sup id="cite_ref-ABDemographics_16-8" class="reference"><a href="#cite_note-ABDemographics-16">[16]</a></sup></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Governance">Governance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aschaffenburg&amp;action=edit&amp;section=17" title="Edit section: Governance">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Lord_Mayors">Lord Mayors</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aschaffenburg&amp;action=edit&amp;section=18" title="Edit section: Lord Mayors">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>Wilhelm Matt (1872-1936) (BVP) (1904–1933)</li>
+<li>Wilhelm Wohlgemuth (1900-1978) (NSDAP) (1933–1945)</li>
+<li>Jean Stock (1893-1965) (SPD) (1945)</li>
+<li>Vinzenz Schwind (1910-1974) (1945–1970)</li>
+<li>Willi Reiland (1933-2015) (SPD) (1970–2000)</li>
+<li>Klaus Herzog (born 1951) (SPD) (since 2000)</li>
+</ul>
+<h2><span class="mw-headline" id="Economy">Economy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aschaffenburg&amp;action=edit&amp;section=19" title="Edit section: Economy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In 2013 (latest data available) the <a href="/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a> per inhabitant was €68,460. This places the <i>kreisfreie Stadt</i> 7th out of 96 districts (rural and urban) in Bavaria (overall average: €36,691).<sup id="cite_ref-Stat_19-0" class="reference"><a href="#cite_note-Stat-19">[19]</a></sup></p>
+<p>Well-known companies in Aschaffenburg are (e.g.): Linde Material Handling, <a href="/wiki/Linde_Hydraulics" title="Linde Hydraulics">Linde Hydraulics</a>, Takata, DPD and redcoon.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup></p>
+<h3><span class="mw-headline" id="Shopping">Shopping</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aschaffenburg&amp;action=edit&amp;section=20" title="Edit section: Shopping">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <i>City Galerie</i>, opened in 1974 and located in the town center (Stadtmitte), is the largest shopping mall in northern Bavaria. It was one of the first indoor shopping malls to open in Germany. Aschaffenburg also has a pedestrian shopping zone (<i>Fußgängerzone</i> in German) closed to motor vehicles, except for deliveries. It is located in the town center.</p>
+<h2><span class="mw-headline" id="Arts_and_culture">Arts and culture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aschaffenburg&amp;action=edit&amp;section=21" title="Edit section: Arts and culture">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Cultural_events">Cultural events</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aschaffenburg&amp;action=edit&amp;section=22" title="Edit section: Cultural events">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Aschaffenburg hosts numerous festivals, fairs, exhibitions, markets and concerts throughout the year including the annual <i>Stadtfest</i>, held on the last weekend in August.</p>
+<h3><span class="mw-headline" id="Theaters_and_entertainment_venues">Theaters and entertainment venues</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aschaffenburg&amp;action=edit&amp;section=23" title="Edit section: Theaters and entertainment venues">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><i>Colos-Saal</i>, a live-music club</li>
+<li><i>Erthaltheater</i></li>
+<li><i>f.a.n. Frankenstolz Arena</i> (formerly <i>Unterfrankenhalle</i>)</li>
+<li><i>Kabarett im Hofgarten</i></li>
+<li><i>Ludwigstheater</i></li>
+<li>Stadthalle am Schloss</li>
+<li><i>Stadttheater</i> (town theater)</li>
+<li><i>Zimmertheater</i>.</li>
+</ul>
+<h3><span class="mw-headline" id="Museums_and_galleries">Museums and galleries</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aschaffenburg&amp;action=edit&amp;section=24" title="Edit section: Museums and galleries">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><i>Stiftsmuseum</i></li>
+<li><i><a href="/wiki/Naturwissenschaftlichen_Museum_Aschaffenburg" title="Naturwissenschaftlichen Museum Aschaffenburg">Naturwissenschaftliches Museum Aschaffenburg</a></i></li>
+<li><i>Gentilhaus</i></li>
+<li><i>Städtische Galerie "Kunsthalle Jesuitenkirche"</i></li>
+<li><i>Neuer Kunstverein Aschaffenburg</i></li>
+<li><i>Künstlerhaus Walter Helm</i></li>
+<li><i>Christian Schad Museum (opening in May 2018)<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup></i></li>
+</ul>
+<h3><span class="mw-headline" id="Library">Library</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aschaffenburg&amp;action=edit&amp;section=25" title="Edit section: Library">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><i>Stadtbibliothek Aschaffenburg</i> (Aschaffenburg town library)</li>
+</ul>
+<h3><span class="mw-headline" id="Cinemas">Cinemas</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aschaffenburg&amp;action=edit&amp;section=26" title="Edit section: Cinemas">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><i>Kinopolis</i>, a modern multiplex cinema</li>
+<li><i>Casino</i></li>
+</ul>
+<h3><span class="mw-headline" id="Recreation">Recreation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aschaffenburg&amp;action=edit&amp;section=27" title="Edit section: Recreation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A large recreational complex is located in the <i>Stadtteil</i> of Leider. It includes an indoor and outdoor swimming pool complex as well as an indoor ice rink and tennis courts, which are open to the general public. There's also a marina on the <a href="/wiki/Main_(river)" title="Main (river)">Main</a> between the Willigis and Adenauer bridges.</p>
+<h2><span class="mw-headline" id="Attractions">Attractions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aschaffenburg&amp;action=edit&amp;section=28" title="Edit section: Attractions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:322px;"><a href="/wiki/File:Sch%C3%B6nbusch6.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Sch%C3%B6nbusch6.jpg/320px-Sch%C3%B6nbusch6.jpg" width="320" height="240" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Sch%C3%B6nbusch6.jpg/480px-Sch%C3%B6nbusch6.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/9/98/Sch%C3%B6nbusch6.jpg 2x" data-file-width="640" data-file-height="480" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Sch%C3%B6nbusch6.jpg" class="internal" title="Enlarge"></a></div>
+Schloss Schönbusch in Schönbusch Park</div>
+</div>
+</div>
+<h3><span class="mw-headline" id="Sights">Sights</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aschaffenburg&amp;action=edit&amp;section=29" title="Edit section: Sights">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The main sights of Aschaffenburg are the <a href="/wiki/Schloss_Johannisburg" title="Schloss Johannisburg">Schloss Johannisburg</a>, built 1605–1614 by Archbishop <a href="/wiki/Johann_Schweikhard_von_Kronberg" title="Johann Schweikhard von Kronberg">Johann Schweikhard von Kronberg</a>, which contains a library with a number of <a href="/wiki/Incunabulum" class="mw-redirect" title="Incunabulum">incunabula</a>, a collection of engravings and paintings; the <a href="/wiki/Pompejanum" title="Pompejanum">Pompejanum</a>, a replica of a Roman town house discovered in <a href="/wiki/Pompeii" title="Pompeii">Pompeii</a> commissioned by King Ludwig I. and opened in 1850; the <a href="/wiki/St._Peter_und_Alexander_(Aschaffenburg)" title="St. Peter und Alexander (Aschaffenburg)">St. Peter und Alexander</a> <a href="/wiki/Collegiate_church" title="Collegiate church">collegiate church</a>, founded in the second half of the 10th century, but dating in the main from the early 12th century on, in which are preserved various monuments by the <a href="/wiki/Vischer_Family_of_Nuremberg" class="mw-redirect" title="Vischer Family of Nuremberg">Vischers</a>, a sarcophagus with the relics of <a href="/wiki/Margaret_the_Virgin" title="Margaret the Virgin">Saint Margaret</a>, and a painting by <a href="/wiki/Matthias_Gr%C3%BCnewald" title="Matthias Grünewald">Matthias Grünewald</a>; the <a href="/wiki/Order_of_Friars_Minor_Capuchin" title="Order of Friars Minor Capuchin">Capuchin</a> hospital; a theatre, which was formerly a house of the <a href="/wiki/Teutonic_Knights" class="mw-redirect" title="Teutonic Knights">Teutonic Order</a>; several mansions of the nobility; and the historical old town. Across the river are the Park and Schloss <a href="/wiki/Sch%C3%B6nbusch_(Aschaffenburg)" title="Schönbusch (Aschaffenburg)">Schönbusch</a>.</p>
+<p>The graves of <a href="/wiki/Clemens_Brentano" title="Clemens Brentano">Clemens Brentano</a> and his brother <a href="/wiki/Christian_Brentano" title="Christian Brentano">Christian Brentano</a> (died 1851) and that of <a href="/wiki/Wilhelm_Heinse" class="mw-redirect" title="Wilhelm Heinse">Wilhelm Heinse</a> can be found in the <i>Altstadtfriedhof</i> (Old Town Cemetery).<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup></p>
+<h3><span class="mw-headline" id="Parks">Parks</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aschaffenburg&amp;action=edit&amp;section=30" title="Edit section: Parks">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Aschaffenburg has numerous parks including the following:</p>
+<ul>
+<li><i>Schönbusch Park</i>, located in Nilkheim</li>
+<li><i>Schöntal Park</i>, located in the town center</li>
+<li><i>Aschaffenburger Schlossgarten</i>, around <i>Schloss Johannisburg</i></li>
+<li><i>Kleine Schönbuschallee</i></li>
+</ul>
+<h2><span class="mw-headline" id="Sports">Sports</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aschaffenburg&amp;action=edit&amp;section=31" title="Edit section: Sports">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Football">Football</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aschaffenburg&amp;action=edit&amp;section=32" title="Edit section: Football">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Viktoria_Aschaffenburg" title="Viktoria Aschaffenburg">Viktoria Aschaffenburg</a> is the primary football club. The club was formed on 24 June 1904 out of the merger of FC Aschaffenburg (6 August 1901) and FC Viktoria Aschaffenburg (12 April 1902). It was renamed Sportverein Viktoria 01 Aschaffenburg on 3 June 1906. Their homefield is Stadion am Schönbusch (Schönbusch stadium), a modern stadium located in Nilkheim .</p>
+<h3><span class="mw-headline" id="American_football">American football</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aschaffenburg&amp;action=edit&amp;section=33" title="Edit section: American football">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 1991, the Aschaffenburg Stallions began playing <a href="/wiki/American_football" title="American football">American football</a> at Schönbusch stadium. A <a href="/wiki/Cheerleader" class="mw-redirect" title="Cheerleader">cheerleader</a> squad also exists.</p>
+<h3><span class="mw-headline" id="Baseball_and_softball">Baseball and softball</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aschaffenburg&amp;action=edit&amp;section=34" title="Edit section: Baseball and softball">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Aschaffenburg is also home to the Aschaffenburg Mohawks Baseball and Softball team. The softball team won the 2010 German Championship. The adult baseball team won the 2011 Landesliga South Championship and will play in the highest league of the state Hessen in 2012.</p>
+<h2><span class="mw-headline" id="Infrastructure">Infrastructure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aschaffenburg&amp;action=edit&amp;section=35" title="Edit section: Infrastructure">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Transportation">Transportation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aschaffenburg&amp;action=edit&amp;section=36" title="Edit section: Transportation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Roads">Roads</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aschaffenburg&amp;action=edit&amp;section=37" title="Edit section: Roads">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Aschaffenburg is located on <a href="/wiki/Bundesautobahn_3" title="Bundesautobahn 3">Bundesautobahn 3</a> between <a href="/wiki/Frankfurt_am_Main" class="mw-redirect" title="Frankfurt am Main">Frankfurt am Main</a> and <a href="/wiki/W%C3%BCrzburg" title="Würzburg">Würzburg</a>. The southern terminus of <a href="/wiki/Bundesautobahn_45" title="Bundesautobahn 45">Bundesautobahn 45</a> is located just west of the town. Bundesstrasse B 26 passes through the town. Bundestrasse B 8 used to pass through Aschaffenburg, but has now been rerouted along the <a href="/wiki/Bundesautobahn_3" title="Bundesautobahn 3">Bundesautobahn 3</a>. Three road bridges cross the river <a href="/wiki/Main_(river)" title="Main (river)">Main</a> at Aschaffenburg: <a href="/wiki/Friedrich_Ebert" title="Friedrich Ebert">Friedrich Ebert</a> Bridge (a new span opened in 2008), Willigis Bridge and <a href="/wiki/Konrad_Adenauer" title="Konrad Adenauer">Konrad Adenauer</a> Bridge. In the 1980s, a road tunnel was constructed under the Schlossplatz to improve traffic flow through the <i>Stadtmitte</i> (town center).</p>
+<p>After 43 years of planning and construction, the limited-access <i>Innenstadtring</i> or "inner-town-ring" road was completed in July 2013. It allows motorists to bypass the <i>Stadtmitte</i> (town center) and reduces traffic congestion in Aschaffenburg, which has been a problem in recent years. Another road project called <i>Bahnparallele</i> is currently under construction, with a small section already opened. It is located in the <i>Stadtteil</i> of Damm and runs parallel to the railway tracks.</p>
+<h4><span class="mw-headline" id="Parking">Parking</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aschaffenburg&amp;action=edit&amp;section=38" title="Edit section: Parking">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>There are approximately 7,500 parking spaces in the ten <i>Stadtteile</i> of Aschaffenburg and eight public parking garages.</p>
+<h5><span class="mw-headline" id="Public_transport">Public transport</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aschaffenburg&amp;action=edit&amp;section=39" title="Edit section: Public transport">edit</a><span class="mw-editsection-bracket">]</span></span></h5>
+<p>Aschaffenburg has a comprehensive bus network serving the town and surrounding region. The 15 main bus lines which serve the <i>Stadtteile</i> of Aschaffenburg are run by <i><a href="/w/index.php?title=Stadtwerke_Aschaffenburg&amp;action=edit&amp;redlink=1" class="new" title="Stadtwerke Aschaffenburg (page does not exist)">Stadtwerke Aschaffenburg</a></i>. There are several other bus lines which link Aschaffenburg with the surrounding region. Those lines are run by other companies, including the <a href="/wiki/Deutsche_Bahn" title="Deutsche Bahn">Deutsche Bahn</a>. A new regional bus terminal opened in 2008, adjacent to the <a href="/wiki/Aschaffenburg_Hauptbahnhof" title="Aschaffenburg Hauptbahnhof">Aschaffenburg Hauptbahnhof</a> (main railway station). The <i>Regionale Omnibusbahnhof Aschaffenburg (ROB)</i> was built to consolidate all of the scattered bus stops in the area around the main railway station into one central location and reduce traffic congestion in the area.</p>
+<h4><span class="mw-headline" id="Railway_stations_and_stops">Railway stations and stops</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aschaffenburg&amp;action=edit&amp;section=40" title="Edit section: Railway stations and stops">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul>
+<li><i><a href="/wiki/Aschaffenburg_Hauptbahnhof" title="Aschaffenburg Hauptbahnhof">Aschaffenburg Hauptbahnhof</a>/Aschaffenburg Central Station</i> - The station has long-distance <a href="/wiki/InterCityExpress" class="mw-redirect" title="InterCityExpress">InterCityExpress</a> and <a href="/wiki/InterCity" title="InterCity">InterCity</a> services as well as regional connections to neighboring towns and cities. A new, larger station building opened in 2011, replacing a smaller structure built in the 1950s.</li>
+<li><i>Aschaffenburg-Hochschule/University of Applied Sciences</i> - The stop, located near Würzburger Straße, opened in 2007 to accommodate students attending nearby schools. It is positioned between Aschaffenburg Hauptbahnhof and Aschaffenburg-Süd/South. There is only a single track platform.</li>
+<li><i>Aschaffenburg-Süd/South</i></li>
+<li><i>Obernau</i></li>
+<li><i>Schönbusch-Nilkheim</i> - The station closed when passenger service on the "Bachgaubahn" railway line ended in 1974.</li>
+<li><i>Leider</i> - Freight railway terminal close to Aschaffenburg's port on the <a href="/wiki/Main_(river)" title="Main (river)">Main</a>. There is no passenger service.</li>
+</ul>
+<p>All passenger train service is provided by the <a href="/wiki/Deutsche_Bahn" title="Deutsche Bahn">Deutsche Bahn</a>.</p>
+<h4><span class="mw-headline" id="Harbor">Harbor</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aschaffenburg&amp;action=edit&amp;section=41" title="Edit section: Harbor">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Aschaffenburg has an active port along the Main in the <i>Stadtteil</i> of Leider. There is railway access to the port. In 2005, 2.8 million tons of cargo passed through the port.</p>
+<h4><span class="mw-headline" id="Airports">Airports</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aschaffenburg&amp;action=edit&amp;section=42" title="Edit section: Airports">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>A small <a href="/wiki/General_aviation" title="General aviation">general aviation</a> airport (<i>Flugplatz Aschaffenburg</i>, ICAO-Code: EDFC) is located in nearby <a href="/wiki/Gro%C3%9Fostheim" title="Großostheim">Großostheim</a>. <a href="/wiki/Frankfurt_Airport" title="Frankfurt Airport">Frankfurt Airport</a> is located 46 kilometers (29&#160;mi) from Aschaffenburg and offers flights to destinations all over the world. The trip to and from the airport takes about 30 minutes by car or approximately 45 minutes by <a href="/wiki/InterCityExpress" class="mw-redirect" title="InterCityExpress">InterCityExpress</a> train.</p>
+<h3><span class="mw-headline" id="Medical">Medical</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aschaffenburg&amp;action=edit&amp;section=43" title="Edit section: Medical">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The three primary medical centers in Aschaffenburg are:</p>
+<ul>
+<li><i>Klinikum Aschaffenburg</i>, the main hospital</li>
+<li><i>Hofgartenklinik</i></li>
+<li><i>Frauenklinik am Ziegelberg</i></li>
+</ul>
+<p>There are approximately 789 hospital beds, 159 doctors, 68 dentists and 38 pharmacies in the <i>Stadtteile</i> of Aschaffenburg.</p>
+<h2><span class="mw-headline" id="Education">Education</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aschaffenburg&amp;action=edit&amp;section=44" title="Edit section: Education">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There are various types of schools in Aschaffenburg serving approximately 18,000 students from the town and surrounding region.</p>
+<h3><span class="mw-headline" id="University">University</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aschaffenburg&amp;action=edit&amp;section=45" title="Edit section: University">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/w/index.php?title=Hochschule_Aschaffenburg&amp;action=edit&amp;redlink=1" class="new" title="Hochschule Aschaffenburg (page does not exist)">Hochschule Aschaffenburg</a><span class="noprint" style="font-size:85%; font-style: normal;">&#160;(<a href="https://de.wikipedia.org/wiki/Hochschule_Aschaffenburg" class="extiw" title="de:Hochschule Aschaffenburg">de</a>)</span> is a university of applied sciences (or <i>Fachhochschule</i> ).</p>
+<h2><span class="mw-headline" id="Media">Media</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aschaffenburg&amp;action=edit&amp;section=46" title="Edit section: Media">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Printed_media">Printed media</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aschaffenburg&amp;action=edit&amp;section=47" title="Edit section: Printed media">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><i>Main-Echo</i>, Aschaffenburg-based newspaper published daily except Sunday. This is the main newspaper for Aschaffenburg and the surrounding region. It was first published on 24 November 1945, replacing "Aschaffenburger Zeitung". It has a daily circulation of approximately 200,000 readers. Main-netz.de is the online distribution site for the newspaper.</li>
+<li><i>Prima Sonntag</i>, newspaper published only on Sunday</li>
+<li><i>FRIZZ Das Magazin</i>, culture/scene magazine</li>
+<li><i>Brot &amp; Spiele</i>, culture magazine</li>
+<li><i>Szene Magazin</i></li>
+</ul>
+<h3><span class="mw-headline" id="Radio_and_television">Radio and television</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aschaffenburg&amp;action=edit&amp;section=48" title="Edit section: Radio and television">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>Radio Primavera</li>
+<li>Radio Galaxy</li>
+<li>Main.tv - Das Primavera Fernsehen, Aschaffenburg programming</li>
+</ul>
+<h3><span class="mw-headline" id="Internet">Internet</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aschaffenburg&amp;action=edit&amp;section=49" title="Edit section: Internet">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>www.main.tv - video-Website for Aschaffenburg (city and regional)</li>
+<li>Kommweichei.com e.V., the community and party scene in Aschaffenburg</li>
+<li>MainReporter.de - portal for Aschaffenburg (city and regional)</li>
+<li>abscene.de | Newgae magazine</li>
+<li>ABhörn, online Magazine</li>
+<li>Main-netz.de, news and community information for the region</li>
+</ul>
+<h2><span class="mw-headline" id="Notable_people">Notable people</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aschaffenburg&amp;action=edit&amp;section=50" title="Edit section: Notable people">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Born_in_Aschaffenburg">Born in Aschaffenburg</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aschaffenburg&amp;action=edit&amp;section=51" title="Edit section: Born in Aschaffenburg">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Before_1900">Before 1900</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aschaffenburg&amp;action=edit&amp;section=52" title="Edit section: Before 1900">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="thumb tright">
+<div class="thumbinner" style="width:152px;"><a href="/wiki/File:1904_Hefner-Alteneck.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/1904_Hefner-Alteneck.jpg/150px-1904_Hefner-Alteneck.jpg" width="150" height="172" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/1904_Hefner-Alteneck.jpg/225px-1904_Hefner-Alteneck.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2b/1904_Hefner-Alteneck.jpg/300px-1904_Hefner-Alteneck.jpg 2x" data-file-width="1625" data-file-height="1859" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:1904_Hefner-Alteneck.jpg" class="internal" title="Enlarge"></a></div>
+Hefner-Alteneck</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:152px;"><a href="/wiki/File:Joseph_von_Lindwurm.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Joseph_von_Lindwurm.jpg/150px-Joseph_von_Lindwurm.jpg" width="150" height="200" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Joseph_von_Lindwurm.jpg/225px-Joseph_von_Lindwurm.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/78/Joseph_von_Lindwurm.jpg/300px-Joseph_von_Lindwurm.jpg 2x" data-file-width="2592" data-file-height="3456" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Joseph_von_Lindwurm.jpg" class="internal" title="Enlarge"></a></div>
+Joseph von Lindwurm</div>
+</div>
+</div>
+<ul>
+<li><a href="/wiki/Daniel_Brendel_von_Homburg" title="Daniel Brendel von Homburg">Daniel Brendel von Homburg</a>, 1523–1582, Archbishop of Mainz from 1555 to 1582</li>
+<li><a href="/wiki/Johann_Joseph_Scherer" title="Johann Joseph Scherer">Johann Joseph Scherer</a>, 1814-1869, German chemist</li>
+<li><a href="/wiki/Joseph_von_Lindwurm" title="Joseph von Lindwurm">Joseph von Lindwurm</a>, 1824–1874, German physician and dermatologist</li>
+<li><a href="/wiki/Lujo_Brentano" title="Lujo Brentano">Lujo Brentano</a>, 1844–1931, German economist and social reformer</li>
+<li><a href="/wiki/Friedrich_von_Hefner-Alteneck" title="Friedrich von Hefner-Alteneck">Friedrich von Hefner-Alteneck</a>, 1845–1904, German electrical engineer and one of the closest aides of Werner von Siemens</li>
+<li><a href="/wiki/Joseph_Anton_Schneiderfranken" title="Joseph Anton Schneiderfranken">Joseph Anton Schneiderfranken</a>, 1876–1943, German painter and author</li>
+<li><a href="/wiki/Ernst_Ludwig_Kirchner" title="Ernst Ludwig Kirchner">Ernst Ludwig Kirchner</a>, 1880–1938, German expressionist painter and printmaker</li>
+<li><a href="/wiki/Friedrich_Dessauer" title="Friedrich Dessauer">Friedrich Dessauer</a>, 1881–1963, German physicist, philosopher, socially engaged entrepreneur and journalist</li>
+<li><a href="/wiki/Hans_Schmidt_(priest)" title="Hans Schmidt (priest)">Hans Schmidt</a>, 1881–1916, German priest executed for murder in the United States</li>
+<li><a href="/wiki/Alfons_Maria_Jakob" title="Alfons Maria Jakob">Alfons Maria Jakob</a>, 1884–1931, German neurologist with important contributions on neuropathology</li>
+</ul>
+<h4><span class="mw-headline" id="1900_to_1959">1900 to 1959</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aschaffenburg&amp;action=edit&amp;section=53" title="Edit section: 1900 to 1959">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="thumb tright">
+<div class="thumbinner" style="width:152px;"><a href="/wiki/File:Konrad_Adenauer_-_7._CDU-Bundesparteitag-kasf0033.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Konrad_Adenauer_-_7._CDU-Bundesparteitag-kasf0033.JPG/150px-Konrad_Adenauer_-_7._CDU-Bundesparteitag-kasf0033.JPG" width="150" height="207" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Konrad_Adenauer_-_7._CDU-Bundesparteitag-kasf0033.JPG/225px-Konrad_Adenauer_-_7._CDU-Bundesparteitag-kasf0033.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Konrad_Adenauer_-_7._CDU-Bundesparteitag-kasf0033.JPG/300px-Konrad_Adenauer_-_7._CDU-Bundesparteitag-kasf0033.JPG 2x" data-file-width="2545" data-file-height="3508" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Konrad_Adenauer_-_7._CDU-Bundesparteitag-kasf0033.JPG" class="internal" title="Enlarge"></a></div>
+Hanns Seidel (left) in 1957 with Konrad Adenauer (right) CDU party convention</div>
+</div>
+</div>
+<ul>
+<li><a href="/wiki/Hanns_Seidel" title="Hanns Seidel">Hanns Seidel</a>, 1901–1961, German politician and Bavarian prime minister from 1957 to 1960</li>
+<li><a href="/wiki/Inge_Viermetz" title="Inge Viermetz">Inge Viermetz</a>, 1908–??, German official and defendant at the Nuremberg Trials</li>
+<li><a href="/wiki/Guido_Dessauer" title="Guido Dessauer">Guido Dessauer</a>, 1915–2012, German physicist, business executive of the Aschaffenburger Buntpapierfabrik, art collector, patron of arts, and academic</li>
+<li><a href="/wiki/Peter_Gingold" title="Peter Gingold">Peter Gingold</a>, 1916–2006, figure in the German Resistance and the National Committee for a Free Germany</li>
+<li><a href="/wiki/Wilfried_Hofmann" class="mw-redirect" title="Wilfried Hofmann">Wilfried Hofmann</a>, born in 1931, German diplomat and author</li>
+<li><a href="/wiki/Adalbert_Kraus" title="Adalbert Kraus">Adalbert Kraus</a>, born in 1937, German tenor</li>
+<li><a href="/wiki/Felix_Magath" title="Felix Magath">Felix Magath</a>, born in 1953, German footballer and football manager</li>
+<li><a href="/wiki/Rudi_Bommer" class="mw-redirect" title="Rudi Bommer">Rudi Bommer</a>, born 1957, German footballer and football manager</li>
+</ul>
+<h4><span class="mw-headline" id="from_1960">from 1960</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aschaffenburg&amp;action=edit&amp;section=54" title="Edit section: from 1960">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul>
+<li><a href="/wiki/Urban_Priol" title="Urban Priol">Urban Priol</a>, born in 1961, German cabaret artist and comedian</li>
+<li><a href="/wiki/Winfried_Bausback" title="Winfried Bausback">Winfried Bausback</a>, born in 1965, German politician</li>
+<li><a href="/wiki/Burkard_Schliessmann" title="Burkard Schliessmann">Burkard Schliessmann</a>, international classical pianist and concert artist</li>
+<li><a href="/wiki/Christian_Hock" title="Christian Hock">Christian Hock</a>, born in 1970, German football player and a football manager</li>
+<li><a href="/wiki/Carlos_Boozer" title="Carlos Boozer">Carlos Boozer</a>, born in 1981, American basketball player</li>
+<li><a href="/wiki/Sabine_Englert" title="Sabine Englert">Sabine Englert</a>, born in 1981, German team handball goalkeeper</li>
+<li><a href="/wiki/Marcel_Sch%C3%A4fer" title="Marcel Schäfer">Marcel Schäfer</a>, born in 1984, German footballer</li>
+<li><a href="/wiki/Jos%C3%A9_Holebas" title="José Holebas">José Holebas</a>, born in 1984, German-born Greek footballer</li>
+<li><a href="/wiki/Markus_Neumayr" title="Markus Neumayr">Markus Neumayr</a>, born in 1986,German footballer</li>
+<li><a href="/wiki/Ivo_Ili%C4%8Devi%C4%87" title="Ivo Iličević">Ivo Iličević</a>, born in 1986, German-born Croatian football player</li>
+<li><a href="/wiki/Daria_Kinzer" title="Daria Kinzer">Daria Kinzer</a>, born in 1988, Austrian-Croatian singer who represented <a href="/wiki/Croatia_in_the_Eurovision_Song_Contest_2011" title="Croatia in the Eurovision Song Contest 2011">Croatia</a> in the <a href="/wiki/Eurovision_Song_Contest_2011" title="Eurovision Song Contest 2011">Eurovision Song Contest 2011</a></li>
+<li><a href="/wiki/Patrick_Amrhein" title="Patrick Amrhein">Patrick Amrhein</a>, born in 1989, German footballer</li>
+<li><a href="/wiki/Paul_Hill_(rugby_union)" title="Paul Hill (rugby union)">Paul Hill (rugby union)</a>, born in 1995, English Rugby union player</li>
+</ul>
+<h3><span class="mw-headline" id="Notable_residents">Notable residents</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aschaffenburg&amp;action=edit&amp;section=55" title="Edit section: Notable residents">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:152px;"><a href="/wiki/File:Alois_Alzheimer_003.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Alois_Alzheimer_003.jpg/150px-Alois_Alzheimer_003.jpg" width="150" height="223" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Alois_Alzheimer_003.jpg/225px-Alois_Alzheimer_003.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/a/ad/Alois_Alzheimer_003.jpg 2x" data-file-width="300" data-file-height="445" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Alois_Alzheimer_003.jpg" class="internal" title="Enlarge"></a></div>
+Alois Alzheimer</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:152px;"><a href="/wiki/File:E._Erlenmeyer_ca_1863.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/E._Erlenmeyer_ca_1863.jpg/150px-E._Erlenmeyer_ca_1863.jpg" width="150" height="177" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/E._Erlenmeyer_ca_1863.jpg/225px-E._Erlenmeyer_ca_1863.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2d/E._Erlenmeyer_ca_1863.jpg/300px-E._Erlenmeyer_ca_1863.jpg 2x" data-file-width="952" data-file-height="1126" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:E._Erlenmeyer_ca_1863.jpg" class="internal" title="Enlarge"></a></div>
+Emil Erlenmeyer around 1863</div>
+</div>
+</div>
+<ul>
+<li><a href="/wiki/Willigis" title="Willigis">Willigis</a>, 940-1011, Archbishop of Mainz</li>
+<li><a href="/wiki/Diether_von_Isenburg" title="Diether von Isenburg">Diether von Isenburg</a>, 1412–1482, Elector and Archbishop of Mainz</li>
+<li><a href="/wiki/Dietrich_Schenk_von_Erbach" title="Dietrich Schenk von Erbach">Dietrich Schenk von Erbach</a>,&#160;????-1459, Archbishop of Mainz</li>
+<li><a href="/wiki/Mathis_Gothart-Nithart" class="mw-redirect" title="Mathis Gothart-Nithart">Mathis Gothart-Nithart</a>, c. 1475-1528, German Renaissance painter of religious works</li>
+<li><a href="/wiki/Wolfgang_von_Dalberg" title="Wolfgang von Dalberg">Wolfgang von Dalberg</a>, 1538–1601, Archbishop of Mainz</li>
+<li><a href="/wiki/Johann_Adam_von_Bicken" title="Johann Adam von Bicken">Johann Adam von Bicken</a>, 1564–1604, Archbishop of Mainz</li>
+<li><a href="/wiki/Johann_Schweikhard_von_Kronberg" title="Johann Schweikhard von Kronberg">Johann Schweikard von Kronberg</a> (1553-1626), Archbishop of Mainz, commissioned the <a href="/wiki/Schloss_Johannisburg" title="Schloss Johannisburg">Schloss Johannisburg</a></li>
+<li><a href="/wiki/Friedrich_Karl_Joseph_von_Erthal" title="Friedrich Karl Joseph von Erthal">Friedrich Karl Joseph von Erthal</a>, 1719–1802, prince-elector and archbishop of Mainz</li>
+<li><a href="/wiki/Karl_Theodor_von_Dalberg" class="mw-redirect" title="Karl Theodor von Dalberg">Carl Theodor Anton Maria Reichsfreiherr von Dalberg</a>, 1744–1817, Archbishop-Elector of Mainz, Arch-Chancellor of the Holy Roman Empire, Prince of <a href="/wiki/Principality_of_Regensburg" title="Principality of Regensburg">Regensburg</a></li>
+<li><a href="/wiki/Johann_Jakob_Wilhelm_Heinse" title="Johann Jakob Wilhelm Heinse">Johann Jakob Wilhelm Heinse</a>, 1746–1803, German author</li>
+<li><a href="/wiki/Clemens_Brentano" title="Clemens Brentano">Clemens Brentano</a>, 1778–1842, German poet and novelist</li>
+<li><a href="/wiki/Franz_Bopp" title="Franz Bopp">Franz Bopp</a>, 1791–1867, German linguist</li>
+<li><a href="/wiki/Emil_Erlenmeyer" title="Emil Erlenmeyer">Emil Erlenmeyer</a>, 1825-1909, German chemist</li>
+<li><a href="/wiki/Alois_Alzheimer" title="Alois Alzheimer">Alois Alzheimer</a>, 1864–1915, German psychiatrist and neuropathologist</li>
+<li><a href="/wiki/Ludwig_Thoma" title="Ludwig Thoma">Ludwig Thoma</a>, 1867–1921, German author, publisher and editor, studied forestry in Aschaffenburg</li>
+<li><a href="/wiki/Christian_Schad" title="Christian Schad">Christian Schad</a>, 1894–1982, German painter</li>
+<li>Hugo Karpf, 1895 - 1994, German politician of the CSU party, unionist, member of <a href="/wiki/Reichstag_(Nazi_Germany)" title="Reichstag (Nazi Germany)">Reichstag</a> and <a href="/wiki/Bundestag" title="Bundestag">Bundestag</a>.</li>
+<li><a href="/wiki/Alfons_Goppel" title="Alfons Goppel">Alfons Goppel</a>, 1905–1991, German politician of the CSU party and Prime Minister of Bavaria</li>
+<li><a href="/wiki/Ernst_Lehner" title="Ernst Lehner">Ernst Lehner</a>, 1912–1986, German footballer</li>
+<li><a href="/wiki/Guido_Knopp" title="Guido Knopp">Guido Knopp</a>, born in 1948, German journalist and author</li>
+<li><a href="/wiki/Otto_Becker_(equestrian)" title="Otto Becker (equestrian)">Otto Becker</a>, born in 1958, German show jumping champion</li>
+</ul>
+<h2><span class="mw-headline" id="Town_twinning">Town twinning</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aschaffenburg&amp;action=edit&amp;section=56" title="Edit section: Town twinning">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Aschaffenburg is twinned with:</p>
+<ul>
+<li><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Perth,_Scotland" title="Perth, Scotland">Perth</a>, <a href="/wiki/Scotland" title="Scotland">Scotland</a>, <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a> (1956)</li>
+<li><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Saint-Germain-en-Laye" title="Saint-Germain-en-Laye">St. Germain-en-Laye</a>, <a href="/wiki/France" title="France">France</a> (1975)</li>
+<li><span class="flagicon"><a href="/wiki/Hungary" title="Hungary"><img alt="Hungary" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/23px-Flag_of_Hungary.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/35px-Flag_of_Hungary.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/46px-Flag_of_Hungary.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Miskolc" title="Miskolc">Miskolc</a>, <a href="/wiki/Hungary" title="Hungary">Hungary</a> (1996)</li>
+</ul>
+<p>In 2006, Aschaffenburg and Perth celebrated the 50th anniversary of their partnership.</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aschaffenburg&amp;action=edit&amp;section=57" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.statistikdaten.bayern.de/genesis/online?sequenz=tabelleErgebnis&amp;selectionname=12411-001">"Fortschreibung des Bevölkerungsstandes"</a>. <i><a href="/wiki/Bayerisches_Landesamt_f%C3%BCr_Statistik_und_Datenverarbeitung" class="mw-redirect" title="Bayerisches Landesamt für Statistik und Datenverarbeitung">Bayerisches Landesamt für Statistik und Datenverarbeitung</a></i> (in German). June 2016.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAschaffenburg&amp;rft.atitle=Fortschreibung+des+Bev%C3%B6lkerungsstandes&amp;rft.date=2016-06&amp;rft.genre=unknown&amp;rft.jtitle=Bayerisches+Landesamt+f%C3%BCr+Statistik+und+Datenverarbeitung&amp;rft_id=https%3A%2F%2Fwww.statistikdaten.bayern.de%2Fgenesis%2Fonline%3Fsequenz%3DtabelleErgebnis%26selectionname%3D12411-001&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Dumont-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Dumont_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Dumont_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Dettelbacher, Werner (1974). <i>Franken - Kunst, Geschichte und Landschaft (German)</i>. Dumont Verlag. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/3-7701-0746-2" title="Special:BookSources/3-7701-0746-2">3-7701-0746-2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAschaffenburg&amp;rft.aufirst=Werner&amp;rft.aulast=Dettelbacher&amp;rft.btitle=Franken+-+Kunst%2C+Geschichte+und+Landschaft+%28German%29&amp;rft.date=1974&amp;rft.genre=book&amp;rft.isbn=3-7701-0746-2&amp;rft.pub=Dumont+Verlag&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Zeitreise-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Zeitreise_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Zeitreise_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Zeitreise_3-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Schumacher, Karin; Schumacher, Hans-Jürgen (2003). <i>Zeitreise durch den Spessart (German)</i>. Wartberg Verlag. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/3-8313-1075-0" title="Special:BookSources/3-8313-1075-0">3-8313-1075-0</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAschaffenburg&amp;rft.au=Schumacher%2C+Hans-J%C3%BCrgen&amp;rft.aufirst=Karin&amp;rft.aulast=Schumacher&amp;rft.btitle=Zeitreise+durch+den+Spessart+%28German%29&amp;rft.date=2003&amp;rft.genre=book&amp;rft.isbn=3-8313-1075-0&amp;rft.pub=Wartberg+Verlag&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Brit-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-Brit_4-0">^</a></b></span> <span class="reference-text">"Aschaffenburg" in <i><a href="/wiki/Encyclop%C3%A6dia_Britannica" title="Encyclopædia Britannica">The New Encyclopædia Britannica</a></i>. Chicago: <a href="/wiki/Encyclop%C3%A6dia_Britannica_Inc." class="mw-redirect" title="Encyclopædia Britannica Inc.">Encyclopædia Britannica Inc.</a>, 15th edn., 1992, Vol. 1, p. 617.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www21.us.archive.org/stream/technicalinstruc00unit/technicalinstruc00unit_djvu.txt">Barnard, Henry. 1870. "Technical instruction. Special report of the Commissioner of Education." United States House of Representatives, January 19.</a> Accessed: May 7, 2012.</span></li>
+<li id="cite_note-Flyer-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-Flyer_6-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.schloesser.bayern.de/deutsch/service/infomat/screen-pdf/aschaffenburg_engl.pdf">"Aschaffenburg - Johannisburg Palace"</a> <span style="font-size:85%;">(PDF)</span>. Bayerische Verwaltung der staatlichen Schlösser, Gärten und Seen<span class="reference-accessdate">. Retrieved <span class="nowrap">13 August</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAschaffenburg&amp;rft.btitle=Aschaffenburg+-+Johannisburg+Palace&amp;rft.genre=unknown&amp;rft.pub=Bayerische+Verwaltung+der+staatlichen+Schl%C3%B6sser%2C+G%C3%A4rten+und+Seen&amp;rft_id=http%3A%2F%2Fwww.schloesser.bayern.de%2Fdeutsch%2Fservice%2Finfomat%2Fscreen-pdf%2Faschaffenburg_engl.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-WS-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-WS_7-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.schloesser.bayern.de/englisch/palace/objects/as_pom.htm">"Pompeiianum"</a>. Bayerische Verwaltung der staatlichen Schlösser, Gärten und Seen<span class="reference-accessdate">. Retrieved <span class="nowrap">12 August</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAschaffenburg&amp;rft.btitle=Pompeiianum&amp;rft.genre=unknown&amp;rft.pub=Bayerische+Verwaltung+der+staatlichen+Schl%C3%B6sser%2C+G%C3%A4rten+und+Seen&amp;rft_id=http%3A%2F%2Fwww.schloesser.bayern.de%2Fenglisch%2Fpalace%2Fobjects%2Fas_pom.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Stanton, Shelby, <i>World War II Order of Battle: An Encyclopedic Reference to U.S. Army Ground Forces from Battalion through Division, 1939-1946</i> (Revised Edition, 2006), Stackpole Books, p. 134-135</span></li>
+<li id="cite_note-usarmygermany-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-usarmygermany_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-usarmygermany_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://usarmygermany.com/USAREUR_City_Aschaffenburg.htm">U.S. ARMY INSTALLATIONS - ASCHAFFENBURG</a></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">'Ашаффенбурґ', <i>Енциклопедія українознавства</i> ("<a href="/wiki/Encyclopedia_of_Ukraine" title="Encyclopedia of Ukraine">Encyclopedia of Ukraine</a>") Vol. І, p. 77</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><i>Artillerie Kaserne</i>, Sälzerweg, Aschaffenburg <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Aschaffenburg&amp;params=49_57_48.18_N_9_10_22.89_E_type:landmark_region:DE"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">49°57′48.18″N</span> <span class="longitude">9°10′22.89″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">49.9633833°N 9.1730250°E</span><span style="display:none">﻿ / <span class="geo">49.9633833; 9.1730250</span></span></span></a></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><i>Bois Brulé Kaserne</i>, Würzburger Strasse, Aschaffenburg <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Aschaffenburg&amp;params=49_57_48.32_N_9_10_38_E_type:landmark_region:DE"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">49°57′48.32″N</span> <span class="longitude">9°10′38″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">49.9634222°N 9.17722°E</span><span style="display:none">﻿ / <span class="geo">49.9634222; 9.17722</span></span></span></a></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><i>LaGarde Kaserne</i>, Würzburger Strasse, Aschaffenburg <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Aschaffenburg&amp;params=49_58_1.02_N_9_9_57.75_E_type:landmark_region:DE"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">49°58′1.02″N</span> <span class="longitude">9°9′57.75″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">49.9669500°N 9.1660417°E</span><span style="display:none">﻿ / <span class="geo">49.9669500; 9.1660417</span></span></span></a></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><i>Pionier Kaserne</i>, Schweinheimer Strasse, Aschaffenburg <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Aschaffenburg&amp;params=49_57_59.06_N_9_9_33.61_E_type:landmark_region:DE"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">49°57′59.06″N</span> <span class="longitude">9°9′33.61″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">49.9664056°N 9.1593361°E</span><span style="display:none">﻿ / <span class="geo">49.9664056; 9.1593361</span></span></span></a></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.dpcamps.org/aschaffenburg.html">DP Camps in Aschaffenburg</a></span></li>
+<li id="cite_note-ABDemographics-16"><span class="mw-cite-backlink">^ <a href="#cite_ref-ABDemographics_16-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ABDemographics_16-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-ABDemographics_16-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-ABDemographics_16-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-ABDemographics_16-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-ABDemographics_16-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-ABDemographics_16-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-ABDemographics_16-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-ABDemographics_16-8"><sup><i><b>i</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.aschaffenburg.de/wDeutsch/verwaltung/zahlen/Praesentation_Bevoelkerung.pdf">Bevölkerungsentwicklung in der Stadt Aschaffenburg (PDF)</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20081218053226/http://www.aschaffenburg.de/wDeutsch/verwaltung/zahlen/Praesentation_Bevoelkerung.pdf">Archived</a> December 18, 2008, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.statistikdaten.bayern.de/genesis/online/logon">2010-09-30</a></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="https://www.statistikdaten.bayern.de/genesis/online?sequenz=tabelleErgebnis&amp;selectionname=12411-001">[1]</a></span></li>
+<li id="cite_note-Stat-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-Stat_19-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.vgrdl.de/VGRdL/tbls/?rev=RV2014&amp;lang=de-DE#RV2014KR">"VGR der Länder, Kreisergebnisse für Deutschland - Bruttoinlandsprodukt, Bruttowertschöpfung in den kreisfreien Städten und Landkreisen der Bundesrepublik Deutschland 2000 bis 2013 (German)"</a>. Statistische Ämter der Länder und des Bundes<span class="reference-accessdate">. Retrieved <span class="nowrap">1 June</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAschaffenburg&amp;rft.btitle=VGR+der+L%C3%A4nder%2C+Kreisergebnisse+f%C3%BCr+Deutschland+-+Bruttoinlandsprodukt%2C+Bruttowertsch%C3%B6pfung+in+den+kreisfreien+St%C3%A4dten+und+Landkreisen+der+Bundesrepublik+Deutschland+2000+bis+2013+%28German%29&amp;rft.genre=unknown&amp;rft.pub=Statistische+%C3%84mter+der+L%C3%A4nder+und+des+Bundes&amp;rft_id=http%3A%2F%2Fwww.vgrdl.de%2FVGRdL%2Ftbls%2F%3Frev%3DRV2014%26lang%3Dde-DE%23RV2014KR&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.aschaffenburg.de/de/Wirtschaft/Wirtschaftsstandort/Unternehmen_am_Standort_Aschaffenburg/normal/eaf/index.html">"Companies in Aschaffenburg"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAschaffenburg&amp;rft.btitle=Companies+in+Aschaffenburg&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.aschaffenburg.de%2Fde%2FWirtschaft%2FWirtschaftsstandort%2FUnternehmen_am_Standort_Aschaffenburg%2Fnormal%2Feaf%2Findex.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.christian-schad-museum.de/?page_id=702">Homepage Christian Schad Museum</a></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.1911encyclopedia.org/">LoveToKnow 1911</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20070714083850/http://1911encyclopedia.org/">Archived</a> 2007-07-14 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aschaffenburg&amp;action=edit&amp;section=58" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/40px-Wikivoyage-Logo-v3-icon.svg.png" width="40" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/60px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/80px-Wikivoyage-Logo-v3-icon.svg.png 2x" data-file-width="193" data-file-height="193" /></td>
+<td class="mbox-text plainlist">Wikivoyage has a travel guide for <i><b><a href="https://en.wikivoyage.org/wiki/Aschaffenburg#Q3942" class="extiw" title="wikivoyage:Aschaffenburg">Aschaffenburg</a></b></i>.</td>
+</tr>
+</table>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Aschaffenburg" class="extiw" title="commons:Category:Aschaffenburg">Aschaffenburg</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.aschaffenburg.de">Municipal website</a> (German, English, French, Hebrew, Italian, Russian)</li>
+<li><a rel="nofollow" class="external text" href="http://www.fh-aschaffenburg.de">University of Applied Sciences Aschaffenburg</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="border.7C30px.7CFlag_of_Bavaria_Urban_and_rural_districts_in_the_Free_State_of_Bavaria_in_Germany_border.7C30px.7CFlag_of_Germany" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Germany_districts_Bavaria" title="Template:Germany districts Bavaria"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Germany_districts_Bavaria" title="Template talk:Germany districts Bavaria"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Germany_districts_Bavaria&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="border.7C30px.7CFlag_of_Bavaria_Urban_and_rural_districts_in_the_Free_State_of_Bavaria_in_Germany_border.7C30px.7CFlag_of_Germany" style="font-size:114%;margin:0 4em"><a href="/wiki/File:Flag_of_Bavaria_(lozengy).svg" class="image" title="Flag of Bavaria"><img alt="Flag of Bavaria" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Bavaria_%28lozengy%29.svg/30px-Flag_of_Bavaria_%28lozengy%29.svg.png" width="30" height="18" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Bavaria_%28lozengy%29.svg/45px-Flag_of_Bavaria_%28lozengy%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Bavaria_%28lozengy%29.svg/60px-Flag_of_Bavaria_%28lozengy%29.svg.png 2x" data-file-width="1000" data-file-height="600" /></a> Urban and rural districts in the <a href="/wiki/Bavaria" title="Bavaria">Free State of Bavaria</a> in Germany <a href="/wiki/File:Flag_of_Germany.svg" class="image" title="Flag of Germany"><img alt="Flag of Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/30px-Flag_of_Germany.svg.png" width="30" height="18" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/45px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/60px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Urban<br />
+districts</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Amberg" title="Amberg">Amberg</a></li>
+<li><a href="/wiki/Ansbach" title="Ansbach">Ansbach</a></li>
+<li><a class="mw-selflink selflink">Aschaffenburg</a></li>
+<li><a href="/wiki/Augsburg" title="Augsburg">Augsburg</a></li>
+<li><a href="/wiki/Bamberg" title="Bamberg">Bamberg</a></li>
+<li><a href="/wiki/Bayreuth" title="Bayreuth">Bayreuth</a></li>
+<li><a href="/wiki/Coburg" title="Coburg">Coburg</a></li>
+<li><a href="/wiki/Erlangen" title="Erlangen">Erlangen</a></li>
+<li><a href="/wiki/F%C3%BCrth" title="Fürth">Fürth</a></li>
+<li><a href="/wiki/Hof,_Bavaria" title="Hof, Bavaria">Hof</a></li>
+<li><a href="/wiki/Ingolstadt" title="Ingolstadt">Ingolstadt</a></li>
+<li><a href="/wiki/Kaufbeuren" title="Kaufbeuren">Kaufbeuren</a></li>
+<li><a href="/wiki/Kempten" title="Kempten">Kempten</a></li>
+<li><a href="/wiki/Landshut" title="Landshut">Landshut</a></li>
+<li><a href="/wiki/Memmingen" title="Memmingen">Memmingen</a></li>
+<li><a href="/wiki/Munich" title="Munich">München (<i>Munich</i>)</a></li>
+<li><a href="/wiki/Nuremberg" title="Nuremberg">Nürnberg (<i>Nuremberg</i>)</a></li>
+<li><a href="/wiki/Passau" title="Passau">Passau</a></li>
+<li><a href="/wiki/Regensburg" title="Regensburg">Regensburg</a></li>
+<li><a href="/wiki/Rosenheim" title="Rosenheim">Rosenheim</a></li>
+<li><a href="/wiki/Schwabach" title="Schwabach">Schwabach</a></li>
+<li><a href="/wiki/Schweinfurt" title="Schweinfurt">Schweinfurt</a></li>
+<li><a href="/wiki/Straubing" title="Straubing">Straubing</a></li>
+<li><a href="/wiki/Weiden_in_der_Oberpfalz" title="Weiden in der Oberpfalz">Weiden</a></li>
+<li><a href="/wiki/W%C3%BCrzburg" title="Würzburg">Würzburg</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Rural<br />
+districts</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aichach-Friedberg" title="Aichach-Friedberg">Aichach-Friedberg</a></li>
+<li><a href="/wiki/Alt%C3%B6tting_(district)" title="Altötting (district)">Altötting</a></li>
+<li><a href="/wiki/Amberg-Sulzbach" title="Amberg-Sulzbach">Amberg-Sulzbach</a></li>
+<li><a href="/wiki/Ansbach_(district)" title="Ansbach (district)">Ansbach</a></li>
+<li><a href="/wiki/Aschaffenburg_(district)" title="Aschaffenburg (district)">Aschaffenburg</a></li>
+<li><a href="/wiki/Augsburg_(district)" title="Augsburg (district)">Augsburg</a></li>
+<li><a href="/wiki/Bad_Kissingen_(district)" title="Bad Kissingen (district)">Bad Kissingen</a></li>
+<li><a href="/wiki/Bad_T%C3%B6lz-Wolfratshausen" title="Bad Tölz-Wolfratshausen">Bad Tölz-Wolfratshausen</a></li>
+<li><a href="/wiki/Bamberg_(district)" title="Bamberg (district)">Bamberg</a></li>
+<li><a href="/wiki/Bayreuth_(district)" title="Bayreuth (district)">Bayreuth</a></li>
+<li><a href="/wiki/Berchtesgadener_Land" title="Berchtesgadener Land">Berchtesgadener Land</a></li>
+<li><a href="/wiki/Cham_(district)" title="Cham (district)">Cham</a></li>
+<li><a href="/wiki/Coburg_(district)" title="Coburg (district)">Coburg</a></li>
+<li><a href="/wiki/Dachau_(district)" title="Dachau (district)">Dachau</a></li>
+<li><a href="/wiki/Deggendorf_(district)" title="Deggendorf (district)">Deggendorf</a></li>
+<li><a href="/wiki/Dillingen_(district)" title="Dillingen (district)">Dillingen</a></li>
+<li><a href="/wiki/Dingolfing-Landau" title="Dingolfing-Landau">Dingolfing-Landau</a></li>
+<li><a href="/wiki/Donau-Ries" title="Donau-Ries">Donau-Ries</a></li>
+<li><a href="/wiki/Ebersberg_(district)" title="Ebersberg (district)">Ebersberg</a></li>
+<li><a href="/wiki/Eichst%C3%A4tt_(district)" title="Eichstätt (district)">Eichstätt</a></li>
+<li><a href="/wiki/Erding_(district)" title="Erding (district)">Erding</a></li>
+<li><a href="/wiki/Erlangen-H%C3%B6chstadt" title="Erlangen-Höchstadt">Erlangen-Höchstadt</a></li>
+<li><a href="/wiki/Forchheim_(district)" title="Forchheim (district)">Forchheim</a></li>
+<li><a href="/wiki/Freising_(district)" title="Freising (district)">Freising</a></li>
+<li><a href="/wiki/Freyung-Grafenau" title="Freyung-Grafenau">Freyung-Grafenau</a></li>
+<li><a href="/wiki/F%C3%BCrstenfeldbruck_(district)" title="Fürstenfeldbruck (district)">Fürstenfeldbruck</a></li>
+<li><a href="/wiki/F%C3%BCrth_(district)" title="Fürth (district)">Fürth</a></li>
+<li><a href="/wiki/Garmisch-Partenkirchen_(district)" title="Garmisch-Partenkirchen (district)">Garmisch-Partenkirchen</a></li>
+<li><a href="/wiki/G%C3%BCnzburg_(district)" title="Günzburg (district)">Günzburg</a></li>
+<li><a href="/wiki/Ha%C3%9Fberge_(district)" title="Haßberge (district)">Haßberge</a></li>
+<li><a href="/wiki/Hof_(district)" title="Hof (district)">Hof</a></li>
+<li><a href="/wiki/Kelheim_(district)" title="Kelheim (district)">Kelheim</a></li>
+<li><a href="/wiki/Kitzingen_(district)" title="Kitzingen (district)">Kitzingen</a></li>
+<li><a href="/wiki/Kronach_(district)" title="Kronach (district)">Kronach</a></li>
+<li><a href="/wiki/Kulmbach_(district)" title="Kulmbach (district)">Kulmbach</a></li>
+<li><a href="/wiki/Landsberg_(district)" title="Landsberg (district)">Landsberg</a></li>
+<li><a href="/wiki/Landshut_(district)" title="Landshut (district)">Landshut</a></li>
+<li><a href="/wiki/Lichtenfels_(district)" title="Lichtenfels (district)">Lichtenfels</a></li>
+<li><a href="/wiki/Lindau_(district)" title="Lindau (district)">Lindau</a></li>
+<li><a href="/wiki/Main-Spessart" title="Main-Spessart">Main-Spessart</a></li>
+<li><a href="/wiki/Miesbach_(district)" title="Miesbach (district)">Miesbach</a></li>
+<li><a href="/wiki/Miltenberg_(district)" title="Miltenberg (district)">Miltenberg</a></li>
+<li><a href="/wiki/M%C3%BChldorf_(district)" title="Mühldorf (district)">Mühldorf</a></li>
+<li><a href="/wiki/Munich_(district)" title="Munich (district)">München (<i>Munich</i>)</a></li>
+<li><a href="/wiki/Neuburg-Schrobenhausen" title="Neuburg-Schrobenhausen">Neuburg-Schrobenhausen</a></li>
+<li><a href="/wiki/Neumarkt_(district)" title="Neumarkt (district)">Neumarkt</a></li>
+<li><a href="/wiki/Neustadt_(Aisch)-Bad_Windsheim" title="Neustadt (Aisch)-Bad Windsheim">Neustadt (Aisch)-Bad Windsheim</a></li>
+<li><a href="/wiki/Neustadt_an_der_Waldnaab_(district)" title="Neustadt an der Waldnaab (district)">Neustadt an der Waldnaab</a></li>
+<li><a href="/wiki/Neu-Ulm_(district)" title="Neu-Ulm (district)">Neu-Ulm</a></li>
+<li><a href="/wiki/N%C3%BCrnberger_Land" title="Nürnberger Land">Nürnberger Land</a></li>
+<li><a href="/wiki/Oberallg%C3%A4u" title="Oberallgäu">Oberallgäu</a></li>
+<li><a href="/wiki/Ostallg%C3%A4u" title="Ostallgäu">Ostallgäu</a></li>
+<li><a href="/wiki/Passau_(district)" title="Passau (district)">Passau</a></li>
+<li><a href="/wiki/Pfaffenhofen_(district)" title="Pfaffenhofen (district)">Pfaffenhofen</a></li>
+<li><a href="/wiki/Regen_(district)" title="Regen (district)">Regen</a></li>
+<li><a href="/wiki/Regensburg_(district)" title="Regensburg (district)">Regensburg</a></li>
+<li><a href="/wiki/Rh%C3%B6n-Grabfeld" title="Rhön-Grabfeld">Rhön-Grabfeld</a></li>
+<li><a href="/wiki/Rosenheim_(district)" title="Rosenheim (district)">Rosenheim</a></li>
+<li><a href="/wiki/Roth_(district)" title="Roth (district)">Roth</a></li>
+<li><a href="/wiki/Rottal-Inn" title="Rottal-Inn">Rottal-Inn</a></li>
+<li><a href="/wiki/Schwandorf_(district)" title="Schwandorf (district)">Schwandorf</a></li>
+<li><a href="/wiki/Schweinfurt_(district)" title="Schweinfurt (district)">Schweinfurt</a></li>
+<li><a href="/wiki/Starnberg_(district)" title="Starnberg (district)">Starnberg</a></li>
+<li><a href="/wiki/Straubing-Bogen" title="Straubing-Bogen">Straubing-Bogen</a></li>
+<li><a href="/wiki/Tirschenreuth_(district)" title="Tirschenreuth (district)">Tirschenreuth</a></li>
+<li><a href="/wiki/Traunstein_(district)" title="Traunstein (district)">Traunstein</a></li>
+<li><a href="/wiki/Unterallg%C3%A4u" title="Unterallgäu">Unterallgäu</a></li>
+<li><a href="/wiki/Weilheim-Schongau" title="Weilheim-Schongau">Weilheim-Schongau</a></li>
+<li><a href="/wiki/Wei%C3%9Fenburg-Gunzenhausen" title="Weißenburg-Gunzenhausen">Weißenburg-Gunzenhausen</a></li>
+<li><a href="/wiki/Wunsiedel_(district)" title="Wunsiedel (district)">Wunsiedel</a></li>
+<li><a href="/wiki/W%C3%BCrzburg_(district)" title="Würzburg (district)">Würzburg</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/312798115">WorldCat Identities</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/312798115">312798115</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/4003191-3">4003191-3</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb14612915z">cb14612915z</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb14612915z">(data)</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1210
+Cached time: 20171018023116
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.764 seconds
+Real time usage: 0.944 seconds
+Preprocessor visited node count: 13804/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 94251/2097152 bytes
+Template argument size: 19286/2097152 bytes
+Highest expansion depth: 26/40
+Expensive parser function count: 11/500
+Lua time usage: 0.247/10.000 seconds
+Lua memory usage: 7.53 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  776.591      1 -total
+ 59.03%  458.458      1 Template:Infobox_German_location
+ 55.11%  427.994      1 Template:Infobox_settlement
+ 47.85%  371.590      1 Template:Infobox
+ 22.87%  177.633      7 Template:Population_Germany
+ 18.35%  142.502      7 Template:Metadata_Population_DE-BY
+  9.24%   71.792      1 Template:Reflist
+  7.63%   59.271      5 Template:Cite_web
+  6.06%   47.078      5 Template:Coord
+  5.71%   44.321      8 Template:Both
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:165098-0!canonical and timestamp 20171018023115 and revision id 803315506
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Aschaffenburg&amp;oldid=803315506">https://en.wikipedia.org/w/index.php?title=Aschaffenburg&amp;oldid=803315506</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Towns_in_Bavaria" title="Category:Towns in Bavaria">Towns in Bavaria</a></li><li><a href="/wiki/Category:Aschaffenburg" title="Category:Aschaffenburg">Aschaffenburg</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_German-language_sources_(de)" title="Category:CS1 German-language sources (de)">CS1 German-language sources (de)</a></li><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_January_2017" title="Category:Articles needing additional references from January 2017">Articles needing additional references from January 2017</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li><li><a href="/wiki/Category:Interlanguage_link_template_link_number" title="Category:Interlanguage link template link number">Interlanguage link template link number</a></li><li><a href="/wiki/Category:All_articles_lacking_reliable_references" title="Category:All articles lacking reliable references">All articles lacking reliable references</a></li><li><a href="/wiki/Category:Articles_lacking_reliable_references_from_November_2013" title="Category:Articles lacking reliable references from November 2013">Articles lacking reliable references from November 2013</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_July_2014" title="Category:Articles with unsourced statements from July 2014">Articles with unsourced statements from July 2014</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Aschaffenburg" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Aschaffenburg" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Aschaffenburg" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Aschaffenburg" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Aschaffenburg">Read</a></span></li>
+							<li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Aschaffenburg&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Aschaffenburg&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Aschaffenburg" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Aschaffenburg" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Aschaffenburg&amp;oldid=803315506" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Aschaffenburg&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3942" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Aschaffenburg&amp;id=803315506" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Aschaffenburg">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Aschaffenburg&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Aschaffenburg&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Aschaffenburg" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikivoyage"><a href="https://en.wikivoyage.org/wiki/Aschaffenburg" hreflang="en">Wikivoyage</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A3%D8%B4%D8%A7%D9%81%D9%86%D8%A8%D9%88%D8%B1%D8%BA" title="أشافنبورغ – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-an"><a href="https://an.wikipedia.org/wiki/Aschaffenburg" title="Aschaffenburg – Aragonese" lang="an" hreflang="an" class="interlanguage-link-target">Aragonés</a></li><li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D8%A2%D8%B4%D8%A7%D9%81%D9%86%D8%A8%D9%88%D8%B1%D9%82" title="آشافنبورق – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%90%D1%88%D0%B0%D1%84%D0%B5%D0%BD%D0%B1%D1%83%D1%80%D0%B3" title="Ашафенбург – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/%D0%90%D1%88%D0%B0%D1%84%D1%8D%D0%BD%D0%B1%D1%83%D1%80%D0%B3" title="Ашафэнбург – Belarusian (Taraškievica orthography)" lang="be-x-old" hreflang="be-x-old" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%90%D1%88%D0%B0%D1%84%D0%B5%D0%BD%D0%B1%D1%83%D1%80%D0%B3" title="Ашафенбург – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bar"><a href="https://bar.wikipedia.org/wiki/Aschaffenburg" title="Aschaffenburg – Bavarian" lang="bar" hreflang="bar" class="interlanguage-link-target">Boarisch</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Aschaffenburg" title="Aschaffenburg – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Aschaffenburg_(kapital_sa_distrito)" title="Aschaffenburg (kapital sa distrito) – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Aschaffenburg" title="Aschaffenburg – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Aschaffenburg" title="Aschaffenburg – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Aschaffenburg" title="Aschaffenburg – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Aschaffenburg" title="Aschaffenburg – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%91%CF%83%CE%AC%CF%86%CE%B5%CE%BD%CE%BC%CF%80%CE%BF%CF%85%CF%81%CE%B3%CE%BA" title="Ασάφενμπουργκ – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Aschaffenburg" title="Aschaffenburg – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Aschaffenburg" title="Aschaffenburg – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Aschaffenburg" title="Aschaffenburg – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A2%D8%B4%D8%A7%D9%81%D9%86%D8%A8%D9%88%D8%B1%DA%AF" title="آشافنبورگ – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Aschaffenbourg" title="Aschaffenbourg – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Aschaffenburg" title="Aschaffenburg – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-hak"><a href="https://hak.wikipedia.org/wiki/Aschaffenburg" title="Aschaffenburg – Hakka Chinese" lang="hak" hreflang="hak" class="interlanguage-link-target">客家語/Hak-kâ-ngî</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%95%84%EC%83%A4%ED%8E%9C%EB%B6%80%EB%A5%B4%ED%81%AC" title="아샤펜부르크 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%B1%D5%B7%D5%A1%D6%86%D5%A5%D5%B6%D5%A2%D5%B8%D6%82%D6%80%D5%A3" title="Աշաֆենբուրգ – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Aschaffenburg" title="Aschaffenburg – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ie"><a href="https://ie.wikipedia.org/wiki/Aschaffenburg" title="Aschaffenburg – Interlingue" lang="ie" hreflang="ie" class="interlanguage-link-target">Interlingue</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Aschaffenburg" title="Aschaffenburg – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%90%E1%83%A8%E1%83%90%E1%83%A4%E1%83%94%E1%83%9C%E1%83%91%E1%83%A3%E1%83%A0%E1%83%92%E1%83%98" title="აშაფენბურგი – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/%D0%90%D1%88%D0%B0%D1%84%D1%84%D0%B5%D0%BD%D0%B1%D1%83%D1%80%D0%B3" title="Ашаффенбург – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Asciburgum" title="Asciburgum – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/A%C5%A1afenburga" title="Ašafenburga – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/A%C5%A1afenburgas" title="Ašafenburgas – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-lmo"><a href="https://lmo.wikipedia.org/wiki/Aschaffenburg" title="Aschaffenburg – Lombard" lang="lmo" hreflang="lmo" class="interlanguage-link-target">Lumbaart</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Aschaffenburg" title="Aschaffenburg – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Aschaffenburg" title="Aschaffenburg – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Aschaffenburg_(stad)" title="Aschaffenburg (stad) – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B7%E3%83%A3%E3%83%83%E3%83%95%E3%82%A7%E3%83%B3%E3%83%96%E3%83%AB%E3%82%AF" title="アシャッフェンブルク – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Aschaffenburg" title="Aschaffenburg – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Aschaffenburg" title="Aschaffenburg – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Aschaffenburg" title="Aschaffenburg – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%D8%A7%D8%B3%D8%B4%DB%8C%D9%81%D9%86%D8%A8%D8%B1%DA%AF" title="اسشیفنبرگ – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Aschaffenburg" title="Aschaffenburg – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Aschafemburgo" title="Aschafemburgo – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Aschaffenburg" title="Aschaffenburg – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%90%D1%88%D0%B0%D1%84%D1%84%D0%B5%D0%BD%D0%B1%D1%83%D1%80%D0%B3" title="Ашаффенбург – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Aschaffenburg" title="Aschaffenburg – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-stq"><a href="https://stq.wikipedia.org/wiki/Aschaffenburg" title="Aschaffenburg – Saterland Frisian" lang="stq" hreflang="stq" class="interlanguage-link-target">Seeltersk</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Aschaffenburg" title="Aschaffenburg – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Aschaffenburg" title="Aschaffenburg – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-szl"><a href="https://szl.wikipedia.org/wiki/Aschaffenburg" title="Aschaffenburg – Silesian" lang="szl" hreflang="szl" class="interlanguage-link-target">Ślůnski</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%90%D1%88%D0%B0%D1%84%D0%B5%D0%BD%D0%B1%D1%83%D1%80%D0%B3" title="Ашафенбург – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Aschaffenburg" title="Aschaffenburg – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Aschaffenburg" title="Aschaffenburg – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Aschaffenburg" title="Aschaffenburg – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%90%D1%88%D0%B0%D1%84%D1%84%D0%B5%D0%BD%D0%B1%D1%83%D1%80%D0%B3" title="Ашаффенбург – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Aschaffenburg" title="Aschaffenburg – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%90%D1%88%D0%B0%D1%84%D1%84%D0%B5%D0%BD%D0%B1%D1%83%D1%80%D0%B3" title="Ашаффенбург – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vep"><a href="https://vep.wikipedia.org/wiki/A%C5%A1affenburg" title="Ašaffenburg – Veps" lang="vep" hreflang="vep" class="interlanguage-link-target">Vepsän kel’</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Aschaffenburg" title="Aschaffenburg – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/Aschaffenburg" title="Aschaffenburg – Volapük" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Aschaffenburg" title="Aschaffenburg – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E9%98%BF%E6%B2%99%E8%8A%AC%E5%A0%A1" title="阿沙芬堡 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3942#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 1 October 2017, at 19:27.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Aschaffenburg&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.764","walltime":"0.944","ppvisitednodes":{"value":13804,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":94251,"limit":2097152},"templateargumentsize":{"value":19286,"limit":2097152},"expansiondepth":{"value":26,"limit":40},"expensivefunctioncount":{"value":11,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  776.591      1 -total"," 59.03%  458.458      1 Template:Infobox_German_location"," 55.11%  427.994      1 Template:Infobox_settlement"," 47.85%  371.590      1 Template:Infobox"," 22.87%  177.633      7 Template:Population_Germany"," 18.35%  142.502      7 Template:Metadata_Population_DE-BY","  9.24%   71.792      1 Template:Reflist","  7.63%   59.271      5 Template:Cite_web","  6.06%   47.078      5 Template:Coord","  5.71%   44.321      8 Template:Both"]},"scribunto":{"limitreport-timeusage":{"value":"0.247","limit":"10.000"},"limitreport-memusage":{"value":7891294,"limit":52428800}},"cachereport":{"origin":"mw1210","timestamp":"20171018023116","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":1070,"wgHostname":"mw1210"});});</script>
+	</body>
+</html>

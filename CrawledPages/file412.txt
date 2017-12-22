@@ -1,0 +1,787 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Bottrop - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Bottrop","wgTitle":"Bottrop","wgCurRevisionId":798914386,"wgRevisionId":798914386,"wgArticleId":254884,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 German-language sources (de)","Coordinates on Wikidata","Articles with hAudio microformats","Wikipedia articles with VIAF identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","Cities in North Rhine-Westphalia","Bottrop"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Bottrop","wgRelevantArticleId":254884,"wgRequestId":"WecrBQpAAD8AAIs9sGoAAABP","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCoordinates":{"lat":51.524722222222,"lon":6.9227777777778},"wgWikibaseItemId":"Q3069","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.3"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/1200px-Germany_adm_location_map.svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Bottrop"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Bottrop&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Bottrop&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Bottrop"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Bottrop rootpage-Bottrop vector-experimental-print-styles vector-nav-directionality skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Bottrop</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox geography vcard" style="width:22em;width:23em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap"><span class="fn org"><span class="wrap">Bottrop</span></span></th>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" class="maptable" style="text-align:center">
+<table style="width:100%; background:none;">
+<tr>
+<td style="vertical-align:middle; text-align:center;"><a href="/wiki/File:Flagge_der_Stadt_Bottrop.svg" class="image" title="Flag of Bottrop  "><img alt="Flag of Bottrop  " src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Flagge_der_Stadt_Bottrop.svg/100px-Flagge_der_Stadt_Bottrop.svg.png" width="100" height="60" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Flagge_der_Stadt_Bottrop.svg/150px-Flagge_der_Stadt_Bottrop.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Flagge_der_Stadt_Bottrop.svg/200px-Flagge_der_Stadt_Bottrop.svg.png 2x" data-file-width="1000" data-file-height="600" /></a><br />
+<small>Flag</small></td>
+<td style="vertical-align:middle; text-align:center;"><a href="/wiki/File:DEU_Bottrop_COA.svg" class="image" title="Coat of arms of Bottrop  "><img alt="Coat of arms of Bottrop  " src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/DEU_Bottrop_COA.svg/71px-DEU_Bottrop_COA.svg.png" width="71" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/DEU_Bottrop_COA.svg/107px-DEU_Bottrop_COA.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/DEU_Bottrop_COA.svg/142px-DEU_Bottrop_COA.svg.png 2x" data-file-width="512" data-file-height="575" /></a><br />
+<small>Coat of arms</small></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center">
+<div class="center">
+<div style="width:170px;float:none;clear:both;margin-left:auto;margin-right:auto">
+<div style="width:170px;padding:0">
+<div style="position:relative;width:170px"><a href="/wiki/File:Germany_adm_location_map.svg" class="image" title="Bottrop   is located in Germany"><img alt="Bottrop   is located in Germany" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/170px-Germany_adm_location_map.svg.png" width="170" height="202" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/255px-Germany_adm_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/340px-Germany_adm_location_map.svg.png 2x" data-file-width="1073" data-file-height="1272" /></a>
+<div style="position:absolute;top:45.257%;left:14.228%">
+<div style="position:absolute;left:-3px;top:-3px;line-height:0"><img alt="Bottrop  " src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png" title="Bottrop  " width="6" height="6" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/9px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div>
+<div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:4px;text-align:left"><span style="padding:1px;float:left"><span class="wrap">Bottrop</span></span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr class="mergedbottomrow">
+<td colspan="2" style="text-align:center">Coordinates: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Bottrop&amp;params=51_31_29_N_06_55_22_E_type:city(117143)_region:DE-NW"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">51°31′29″N</span> <span class="longitude">06°55′22″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">51.52472°N 6.92278°E</span><span style="display:none">﻿ / <span class="geo">51.52472; 6.92278</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Bottrop&amp;params=51_31_29_N_06_55_22_E_type:city(117143)_region:DE-NW"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">51°31′29″N</span> <span class="longitude">06°55′22″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">51.52472°N 6.92278°E</span><span style="display:none">﻿ / <span class="geo">51.52472; 6.92278</span></span></span></a></span></span></span></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Country</th>
+<td><a href="/wiki/Germany" title="Germany">Germany</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/States_of_Germany" title="States of Germany">State</a></th>
+<td><a href="/wiki/North_Rhine-Westphalia" title="North Rhine-Westphalia">North Rhine-Westphalia</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Regierungsbezirk" title="Regierungsbezirk">Admin. region</a></th>
+<td><a href="/wiki/M%C3%BCnster_(region)" title="Münster (region)">Münster</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Districts_of_Germany" title="Districts of Germany">District</a></th>
+<td><a href="/wiki/Urban_districts_of_Germany" class="mw-redirect" title="Urban districts of Germany">Urban districts of Germany</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Government</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;<a href="/wiki/Burgomaster" title="Burgomaster">Mayor</a></th>
+<td>Bernd Tischler (<a href="/wiki/Social_Democratic_Party_of_Germany" title="Social Democratic Party of Germany">SPD</a>)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Area</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Total</th>
+<td>100.7&#160;km<sup>2</sup> (38.9&#160;sq&#160;mi)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Elevation</th>
+<td>60&#160;m (200&#160;ft)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Population <span style="font-weight:normal">(2015-12-31)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></span></th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Total</th>
+<td>117,143</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Density</th>
+<td>1,200/km<sup>2</sup> (3,000/sq&#160;mi)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/Time_zone" title="Time zone">Time zone</a></th>
+<td><a href="/wiki/Central_European_Time" title="Central European Time">CET</a>/<a href="/wiki/Central_European_Summer_Time" title="Central European Summer Time">CEST</a> (UTC+1/+2)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/List_of_postal_codes_in_Germany" title="List of postal codes in Germany">Postal codes</a></th>
+<td class="adr"><span class="postal-code">46236–46244</span></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/List_of_dialling_codes_in_Germany" title="List of dialling codes in Germany">Dialling codes</a></th>
+<td>02041, 02045</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Vehicle_registration_plate" title="Vehicle registration plate">Vehicle registration</a></th>
+<td>BOT</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Website</th>
+<td><a rel="nofollow" class="external text" href="http://www.bottrop.de/">bottrop.de</a></td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Altmarkt_Horster_Str._Bottrop.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Altmarkt_Horster_Str._Bottrop.JPG/220px-Altmarkt_Horster_Str._Bottrop.JPG" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Altmarkt_Horster_Str._Bottrop.JPG/330px-Altmarkt_Horster_Str._Bottrop.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Altmarkt_Horster_Str._Bottrop.JPG/440px-Altmarkt_Horster_Str._Bottrop.JPG 2x" data-file-width="2048" data-file-height="1536" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Altmarkt_Horster_Str._Bottrop.JPG" class="internal" title="Enlarge"></a></div>
+Altmarkt in the city</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Propsteikirche_St._Cyriakus_Bottrop.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Propsteikirche_St._Cyriakus_Bottrop.JPG/220px-Propsteikirche_St._Cyriakus_Bottrop.JPG" width="220" height="293" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Propsteikirche_St._Cyriakus_Bottrop.JPG/330px-Propsteikirche_St._Cyriakus_Bottrop.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/Propsteikirche_St._Cyriakus_Bottrop.JPG/440px-Propsteikirche_St._Cyriakus_Bottrop.JPG 2x" data-file-width="1536" data-file-height="2048" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Propsteikirche_St._Cyriakus_Bottrop.JPG" class="internal" title="Enlarge"></a></div>
+St. Cyriacus's Church (Catholic)</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Ev_Martinskirche_in_Bottrop_gro%C3%9F.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Ev_Martinskirche_in_Bottrop_gro%C3%9F.JPG/220px-Ev_Martinskirche_in_Bottrop_gro%C3%9F.JPG" width="220" height="293" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Ev_Martinskirche_in_Bottrop_gro%C3%9F.JPG/330px-Ev_Martinskirche_in_Bottrop_gro%C3%9F.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Ev_Martinskirche_in_Bottrop_gro%C3%9F.JPG/440px-Ev_Martinskirche_in_Bottrop_gro%C3%9F.JPG 2x" data-file-width="1536" data-file-height="2048" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Ev_Martinskirche_in_Bottrop_gro%C3%9F.JPG" class="internal" title="Enlarge"></a></div>
+St. Martin's Church (Protestant)</div>
+</div>
+</div>
+<p><b>Bottrop</b> (<small>German pronunciation:</small> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA/Standard_German" title="Help:IPA/Standard German">[ˈbɔtʁɔp]</a></span><small class="nowrap metadata">&#160;(<span class="unicode haudio"><span class="fn"><span style="white-space:nowrap"><a href="/wiki/File:De-Bottrop.ogg" title="About this sound"><img alt="About this sound" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" data-file-width="20" data-file-height="20" /></a>&#160;</span><a href="//upload.wikimedia.org/wikipedia/commons/b/b9/De-Bottrop.ogg" class="internal" title="De-Bottrop.ogg">listen</a></span></span>)</small>) is a city in west central <a href="/wiki/Germany" title="Germany">Germany</a>, on the Rhine-Herne Canal, in <a href="/wiki/North_Rhine-Westphalia" title="North Rhine-Westphalia">North Rhine-Westphalia</a>. Located in the <a href="/wiki/Ruhr_area" class="mw-redirect" title="Ruhr area">Ruhr industrial area</a>, Bottrop adjoins <a href="/wiki/Essen" title="Essen">Essen</a>, <a href="/wiki/Oberhausen" title="Oberhausen">Oberhausen</a>, <a href="/wiki/Gladbeck" title="Gladbeck">Gladbeck</a> and <a href="/wiki/Dorsten" title="Dorsten">Dorsten</a>. The city had been a coal-mining and rail center and contains factories producing coal-tar derivatives, chemicals, textiles, and machinery. Bottrop grew as a mining center beginning in the 1860s, was chartered as a city in 1921, and bombed during the <a href="/wiki/Oil_Campaign_of_World_War_II" class="mw-redirect" title="Oil Campaign of World War II">Oil Campaign of World War II</a>. In 1975 it unified with the neighbour communities of Gladbeck and Kirchhellen, but Gladbeck left it in 1976, leading to Kirchhellen becoming a district of Bottrop as Bottrop-Kirchhellen.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Boroughs"><span class="tocnumber">1</span> <span class="toctext">Boroughs</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Kirchhellen"><span class="tocnumber">1.1</span> <span class="toctext">Kirchhellen</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Culture_and_attractions"><span class="tocnumber">2</span> <span class="toctext">Culture and attractions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Theaters.2C_museums_and_buildings"><span class="tocnumber">2.1</span> <span class="toctext">Theaters, museums and buildings</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Attractions"><span class="tocnumber">2.2</span> <span class="toctext">Attractions</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Periodic_events"><span class="tocnumber">2.3</span> <span class="toctext">Periodic events</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Religion"><span class="tocnumber">3</span> <span class="toctext">Religion</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Notable_people"><span class="tocnumber">4</span> <span class="toctext">Notable people</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#International_relations"><span class="tocnumber">5</span> <span class="toctext">International relations</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Boroughs">Boroughs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bottrop&amp;action=edit&amp;section=1" title="Edit section: Boroughs">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The total area of the municipal territory is about 101 square kilometres (39 square miles). The longest north-south distance is 17 kilometres (11 miles), and from west to east 9 kilometres (5.6 miles). The highest peak within the city's territory is 78 metres (256 feet), the lowest one being 26 metres (85 feet) <a href="/wiki/Above_sea_level" class="mw-redirect" title="Above sea level">above sea level</a>.</p>
+<p>Bottrop is divided into 3 boroughs, they are: <b>Bottrop-Mitte</b> (Bottrop-Center), <b>Bottrop-Süd</b> (Bottrop South) and <b><a href="/wiki/Bottrop#Kirchhellen" title="Bottrop">Bottrop-Kirchhellen</a></b>, each one having a borough representation and a borough ruler.</p>
+<p>These boroughs are further subdivided into city parts, partly named after their traditional name, while the newly built parts are only recently named&#160;:</p>
+<ul>
+<li><b>Bottrop-Mitte</b>: Eigen, Fuhlenbrock, Stadtmitte</li>
+<li><b>Bottrop-Süd</b>: Batenbrock, Boy, Ebel, Lehmkuhle, Vonderort, Gartenstadt Welheim (Garden city Welheim) and Welheimer Mark</li>
+<li><b>Bottrop-Kirchhellen</b>: Ekel, Feldhausen, Grafenwald, Hardinghausen, Holthausen, Im Loh, Kirchhellen, Kuhberg, Overhagen</li>
+</ul>
+<p>For statistical reasons, Bottrop is also divided into <i>statistical</i> boroughs. They are (with their official numbering)</p>
+<ul>
+<li>11 <a href="/wiki/Altstadt" title="Altstadt">Altstadt</a></li>
+<li>12 Nord-Ost (Northeast)</li>
+<li>13 Süd-West (Southwest)</li>
+<li>21 Fuhlenbrock-Heide (Fuhlenbrock-<a href="/wiki/Heath_(habitat)" class="mw-redirect" title="Heath (habitat)">Heath</a>)</li>
+<li>22 Fuhlenbrock-Wald (Fuhlenbrock-<a href="/wiki/Forest" title="Forest">Forest</a>)</li>
+</ul>
+<table>
+<tr>
+<td>
+<ul>
+<li>31 Stadtwald (<a href="/wiki/Urban_forest" title="Urban forest">City forest</a>)</li>
+<li>32 Eigen</li>
+<li>41 Batenbrock-Nord (Batenbrock-North)</li>
+<li>42 Batenbrock-Süd (Batenbrock-South)</li>
+<li>51 Boy</li>
+<li>52 Welheim</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>61 Ebel/Welheimer Mark (Ebel-Welheim Market)</li>
+<li>62 Süd (South)</li>
+<li>71 Kirchhellen-Mitte (Kirchhellen-Center)</li>
+<li>72 Kirchhellen-Süd/Grafenwald (Kirchhellen-South/Grafenwald)</li>
+<li>73 Kirchhellen-Süd-West (Kirchhellen-Southwest)</li>
+<li>74 Kirchhellen-Nord-Ost (Kirchhellen-Northeast)</li>
+</ul>
+</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Kirchhellen">Kirchhellen</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bottrop&amp;action=edit&amp;section=2" title="Edit section: Kirchhellen">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>From 1919 until 1976 Kirchhellen was its own town. From 1976 until 1978 it was a part of "GlaBotKi"(<a href="/wiki/Gladbeck" title="Gladbeck">Gladbeck</a>, Bottrop, Kirchhellen). In 1978 Kirchhellen became part of Bottrop.</p>
+<p>Most of Kirchhellen is Catholic (approx. 65%) - there are three churches there. There is one Lutheran church.</p>
+<h2><span class="mw-headline" id="Culture_and_attractions">Culture and attractions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bottrop&amp;action=edit&amp;section=3" title="Edit section: Culture and attractions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="Theaters,_museums_and_buildings"></span><span class="mw-headline" id="Theaters.2C_museums_and_buildings">Theaters, museums and buildings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bottrop&amp;action=edit&amp;section=4" title="Edit section: Theaters, museums and buildings">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>Main Post Office, constructed 1921-1923.</li>
+<li>The <a href="/w/index.php?title=Quadrat_Bottrop&amp;action=edit&amp;redlink=1" class="new" title="Quadrat Bottrop (page does not exist)">Quadrat</a> is a Museum housing permanent exhibitis on local history and displaying works by <a href="/wiki/Josef_Albers" title="Josef Albers">Josef Albers</a> as well as many temporary exhibitions.</li>
+<li>City Hall (Neo-Renaissance 1910–1916) is regarded as the emblem of the city.</li>
+<li><a href="/wiki/Schloss_Beck" title="Schloss Beck">Schloss Beck</a> theme park and castle (late baroque period 1766–1777)</li>
+<li><a href="/w/index.php?title=Villa_Dickmann&amp;action=edit&amp;redlink=1" class="new" title="Villa Dickmann (page does not exist)">Villa Dickmann</a>, constructed 1901–1903 (Art Nouveau)</li>
+<li>Alte Apotheke (Old Pharmacy, Wilhelminian style 1895)</li>
+<li>Catholic churches
+<ul>
+<li>Heilige Familie</li>
+<li>Heilig Kreuz, built 1955–57, Windows by <a href="/wiki/Georg_Meistermann" title="Georg Meistermann">Georg Meistermann</a></li>
+<li>Herz Jesu, built 1929</li>
+<li>Liebfrauen</li>
+<li>St. Antonius</li>
+<li>St. Barbara</li>
+<li>St. Bonifatius</li>
+<li>St. Cyriakus, Propstei, built 1861/62 by <a href="/w/index.php?title=Emil_von_Manger&amp;action=edit&amp;redlink=1" class="new" title="Emil von Manger (page does not exist)">Emil von Manger</a></li>
+<li>St. Elisabeth, built 1954</li>
+<li>St. Franziskus</li>
+<li>St. Johannes Baptist (BOT-Boy)</li>
+<li>St. Johannes der Täufer (BOT-Kirchhellen)</li>
+<li>St. Joseph</li>
+<li>St. Ludger</li>
+<li>St. Mariä Himmelfahrt</li>
+<li>St. Matthias</li>
+<li>St. Michael</li>
+<li>St. Paul</li>
+<li>St. Peter</li>
+<li>St. Pius</li>
+<li>St. Suitbert, built 1955</li>
+</ul>
+</li>
+<li>Protestant churches<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<ul>
+<li>Auferstehungskirche</li>
+<li>Friedenskirche</li>
+<li>Gnadenkirche</li>
+<li>Martin-Niemöller-Kirche</li>
+<li>Martinskirche, erbaut 1884</li>
+<li>Paul-Gerhardt-Kirche</li>
+<li>Pauluskirche</li>
+</ul>
+</li>
+<li><a href="/w/index.php?title=Malakow-Turm&amp;action=edit&amp;redlink=1" class="new" title="Malakow-Turm (page does not exist)">Malakow-Turm</a> (1872) of the coal mine Prosper II.</li>
+<li>Coal Mining Tip Haniel with an open-air theater (<a href="/wiki/Amphitheater" class="mw-redirect" title="Amphitheater">Amphitheater</a>) and the <a href="/wiki/Kreuzweg" class="mw-redirect" title="Kreuzweg">Kreuzweg</a> designed by <a href="/w/index.php?title=Tisa_von_der_Schulenburg&amp;action=edit&amp;redlink=1" class="new" title="Tisa von der Schulenburg (page does not exist)">Tisa von der Schulenburg</a> and <a href="/w/index.php?title=Adolf_Radecki&amp;action=edit&amp;redlink=1" class="new" title="Adolf Radecki (page does not exist)">Adolf Radecki</a> and opened in 1995.</li>
+<li>Saalbau, convention center</li>
+</ul>
+<h3><span class="mw-headline" id="Attractions">Attractions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bottrop&amp;action=edit&amp;section=5" title="Edit section: Attractions">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.alpincenter.com/">Alpincenter</a> - the world's longest <a href="/wiki/Indoor_ski_slope" class="mw-redirect" title="Indoor ski slope">indoor ski slope</a></li>
+<li><a href="/wiki/Tetrahedron_in_Bottrop" title="Tetrahedron in Bottrop">Tetraeder</a> - a 50 m tall walkable steel <a href="/wiki/Tetrahedron" title="Tetrahedron">tetrahedron</a>, placed on a 90 m <a href="/wiki/Slag_heap" class="mw-redirect" title="Slag heap">slag heap</a>. It has been the town's landmark since its construction in 1995.</li>
+<li><a href="/wiki/Movie_Park_Germany" title="Movie Park Germany">Movie Park Germany</a> - <a href="/wiki/Theme_park" class="mw-redirect" title="Theme park">theme park</a> (in Bottrop-Kirchhellen)</li>
+<li><a href="/wiki/Schloss_Beck" title="Schloss Beck">Schloss Beck</a> - <a href="/wiki/Castle" title="Castle">castle</a> turned into an <a href="/wiki/Amusement_park" title="Amusement park">amusement park</a> (in Bottrop-Kirchhellen)</li>
+<li><a rel="nofollow" class="external text" href="http://www.indoor-skydiving.com/ger/">Indoor Skydiving Bottrop</a>, a powerful <a href="/wiki/Vertical_wind_tunnel" title="Vertical wind tunnel">vertical wind tunnel</a> attracting skydivers from all over Europe</li>
+<li>Since September 12, 2005 so called „<a href="/wiki/Stolpersteine" class="mw-redirect" title="Stolpersteine">Stolpersteine</a>“ have been placed by artist <a href="/wiki/Gunter_Demnig" title="Gunter Demnig">Gunter Demnig</a> all over the city in remembrance of the people deported and killed by the Nazis.</li>
+</ul>
+<h3><span class="mw-headline" id="Periodic_events">Periodic events</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bottrop&amp;action=edit&amp;section=6" title="Edit section: Periodic events">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>January: <a href="/w/index.php?title=Festival_Orgel_PLUS&amp;action=edit&amp;redlink=1" class="new" title="Festival Orgel PLUS (page does not exist)">Festival Orgel PLUS</a> (Music festival started in 1989)</li>
+<li>February: Rose Monday Parade and <a href="/wiki/Carnival" title="Carnival">Carnival</a></li>
+<li>May: Horse Market</li>
+<li>May: <a href="/wiki/Asparagus" title="Asparagus">Asparagus</a> - Farmers' Market in <a href="/wiki/Kirchhellen" class="mw-redirect" title="Kirchhellen">Kirchhellen</a></li>
+<li>Brezelfest (Pretzel Festival) in Kirchhellen</li>
+<li>May/June/July: <a href="/wiki/Sch%C3%BCtzenfest" title="Schützenfest">Schützenfeste</a> (marksmen festivals) of Bottrops marksmen companies (BSV Bottrop Batenbrock, BSV Bottrop Eigen, BSV Bottrop Fuhlenbrock, BSV Bottrop Vonderort, BSV Andreas Hofer, Alte Allgemeine Bürgerschützengesellschaft, BSV Bottrop Boy)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></li>
+<li>September: Michaelismarket.</li>
+</ul>
+<h2><span class="mw-headline" id="Religion">Religion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bottrop&amp;action=edit&amp;section=7" title="Edit section: Religion">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Catholic: ~50% (19 churches)</li>
+<li>Protestant (Lutheran): ~20% (8 churches)</li>
+<li>Atheist/Agnostic: ~20%</li>
+<li>Muslim: ~2%</li>
+</ul>
+<h2><span class="mw-headline" id="Notable_people">Notable people</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bottrop&amp;action=edit&amp;section=8" title="Edit section: Notable people">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Josef_Albers" title="Josef Albers">Josef Albers</a>, (1888-1976), painter, graphic artist, designer, art teacher</li>
+<li><a href="/wiki/August_Everding" title="August Everding">August Everding</a>, (1928-1999), Director of the <a href="/wiki/Hamburgische_Staatsoper" class="mw-redirect" title="Hamburgische Staatsoper">Hamburgische Staatsoper</a> 1973-77, general director of the Bavarian State Theater rector)</li>
+<li><a href="/wiki/Bernhard_Korte" title="Bernhard Korte">Bernhard Korte</a>, (born 1938), mathematician and computer scientist</li>
+</ul>
+<p><a href="/wiki/File:Bundesarchiv_B_145_Bild-F089255-0009,_Werner_M%C3%BCnch.jpg" class="image" title="Werner Münch 1991"><img alt="Werner Münch 1991" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Bundesarchiv_B_145_Bild-F089255-0009%2C_Werner_M%C3%BCnch.jpg/150px-Bundesarchiv_B_145_Bild-F089255-0009%2C_Werner_M%C3%BCnch.jpg" width="150" height="149" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Bundesarchiv_B_145_Bild-F089255-0009%2C_Werner_M%C3%BCnch.jpg/225px-Bundesarchiv_B_145_Bild-F089255-0009%2C_Werner_M%C3%BCnch.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/01/Bundesarchiv_B_145_Bild-F089255-0009%2C_Werner_M%C3%BCnch.jpg/300px-Bundesarchiv_B_145_Bild-F089255-0009%2C_Werner_M%C3%BCnch.jpg 2x" data-file-width="800" data-file-height="794" /></a></p>
+<ul>
+<li><a href="/wiki/Claus_Spahn" title="Claus Spahn">Claus Spahn</a>, (born 1940), journalist and author</li>
+<li><a href="/wiki/Werner_M%C3%BCnch" title="Werner Münch">Werner Münch</a>, (born 1940), politician (CDU), Prime Minister of Saxony-Anhalt (1991-1993)</li>
+<li>Andy Vine, (1948-1985), author and poet</li>
+<li><a href="/wiki/Theo_J%C3%B6rgensmann" title="Theo Jörgensmann">Theo Jörgensmann</a> (born 1948), jazz musician and composer</li>
+<li><a href="/wiki/Paul_Holz" title="Paul Holz">Paul Holz</a>, (born 1952), former football player</li>
+<li><a href="/wiki/Martin_Honert" title="Martin Honert">Martin Honert</a>, (born 1953), artist, professor at the Dresden Academy of Fine Arts</li>
+<li><a href="/wiki/Gisela_Kinzel" title="Gisela Kinzel">Gisela Kinzel</a>, (born 1961), athlete and Olympian</li>
+<li><a href="/wiki/Sabine_Gaudzinski-Windheuser" title="Sabine Gaudzinski-Windheuser">Sabine Gaudzinski-Windheuser</a>, (born 1965), archaeologist</li>
+<li><a href="/wiki/Kelly_Trump" title="Kelly Trump">Kelly Trump</a>, (born 1970), native Nicole Heyka, presenter and former porn actress</li>
+<li><a href="/wiki/Ulla_Kock_am_Brink" title="Ulla Kock am Brink">Ulla Kock am Brink</a> (born 1961), television presenter</li>
+<li><a href="/wiki/Da_Hool" title="Da Hool">Da Hool</a> (born 1968), (<a href="/wiki/DJ" class="mw-redirect" title="DJ">DJ</a> and <a href="/wiki/Record_producer" title="Record producer">music producer</a>)</li>
+</ul>
+<h2><span class="mw-headline" id="International_relations">International relations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bottrop&amp;action=edit&amp;section=9" title="Edit section: International relations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/List_of_twin_towns_and_sister_cities_in_Germany" title="List of twin towns and sister cities in Germany">List of twin towns and sister cities in Germany</a></div>
+<p>Bottrop is <a href="/wiki/Town_twinning" class="mw-redirect" title="Town twinning">twinned</a> with:</p>
+<ul>
+<li><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Tourcoing" title="Tourcoing">Tourcoing</a>, <a href="/wiki/France" title="France">France</a>, since 1967</li>
+<li><span class="flagicon"><a href="/wiki/England" title="England"><img alt="England" src="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/35px-Flag_of_England.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/46px-Flag_of_England.svg.png 2x" data-file-width="800" data-file-height="480" /></a></span> <a href="/wiki/Blackpool" title="Blackpool">Blackpool</a>, <a href="/wiki/England" title="England">England</a>, <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></li>
+<li><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Mitte" title="Mitte">Berlin-Mitte</a>, <a href="/wiki/Germany" title="Germany">Germany</a>, since 1983 (first with Berlin-Wedding, which merged with Berlin-Tiergarten and Berlin-Mitte)</li>
+<li><span class="flagicon"><a href="/wiki/Hungary" title="Hungary"><img alt="Hungary" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/23px-Flag_of_Hungary.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/35px-Flag_of_Hungary.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/46px-Flag_of_Hungary.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Veszpr%C3%A9m" title="Veszprém">Veszprém</a>, <a href="/wiki/Hungary" title="Hungary">Hungary</a>, since 1987</li>
+<li><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Merseburg" title="Merseburg">Merseburg</a>, <a href="/wiki/Germany" title="Germany">Germany</a>, since 1989</li>
+<li><span class="flagicon"><a href="/wiki/Poland" title="Poland"><img alt="Poland" src="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/35px-Flag_of_Poland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/46px-Flag_of_Poland.svg.png 2x" data-file-width="1280" data-file-height="800" /></a></span> <a href="/wiki/Gliwice" title="Gliwice">Gliwice</a>, <a href="/wiki/Poland" title="Poland">Poland</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bottrop&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.it.nrw.de/statistik/a/daten/bevoelkerungszahlen_zensus/index.html">"Amtliche Bevölkerungszahlen"</a>. <i><a href="/wiki/Landesbetrieb_Information_und_Technik_NRW" class="mw-redirect" title="Landesbetrieb Information und Technik NRW">Landesbetrieb Information und Technik NRW</a></i> (in German). 18 July 2016.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABottrop&amp;rft.atitle=Amtliche+Bev%C3%B6lkerungszahlen&amp;rft.date=2016-07-18&amp;rft.genre=unknown&amp;rft.jtitle=Landesbetrieb+Information+und+Technik+NRW&amp;rft_id=http%3A%2F%2Fwww.it.nrw.de%2Fstatistik%2Fa%2Fdaten%2Fbevoelkerungszahlen_zensus%2Findex.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Evangelische Kirchen in Bottrop: <a rel="nofollow" class="external free" href="http://www.kirchenkreis.org/content/e559/e3019/e2909/index_ger.html">http://www.kirchenkreis.org/content/e559/e3019/e2909/index_ger.html</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Past Events of Alte Allgemeine Bürgerschützengesellschaft: <a rel="nofollow" class="external free" href="http://www.alte-allgemeine.de/termine/eventlist/archive">http://www.alte-allgemeine.de/termine/eventlist/archive</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Events BSV Bottrop Boy: <cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20110719100415/http://www.turbofilter.de/wp/bsv-boy/termine.html">"Archived copy"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.turbofilter.de/wp/bsv-boy/termine.html">the original</a> on 2011-07-19<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-08-17</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABottrop&amp;rft.btitle=Archived+copy&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.turbofilter.de%2Fwp%2Fbsv-boy%2Ftermine.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bottrop&amp;action=edit&amp;section=11" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external free" href="http://www.bottrop-portal.de">http://www.bottrop-portal.de</a> Informations about Bottrop with Images, facts and companies.</li>
+<li><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" width="12" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> Media related to <a href="https://commons.wikimedia.org/wiki/Bottrop" class="extiw" title="commons:Bottrop">Bottrop</a> at Wikimedia Commons</li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Cities_in_Germany_by_population" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Cities_in_Germany" title="Template:Cities in Germany"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Cities_in_Germany" title="Template talk:Cities in Germany"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cities_in_Germany&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Cities_in_Germany_by_population" style="font-size:114%;margin:0 4em">Cities in Germany by population</div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">1,000,000+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Berlin" title="Berlin">Berlin</a></li>
+<li><a href="/wiki/Cologne" title="Cologne">Cologne</a></li>
+<li><a href="/wiki/Hamburg" title="Hamburg">Hamburg</a></li>
+<li><a href="/wiki/Munich" title="Munich">Munich</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">500,000+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bremen" title="Bremen">Bremen</a></li>
+<li><a href="/wiki/Dortmund" title="Dortmund">Dortmund</a></li>
+<li><a href="/wiki/Dresden" title="Dresden">Dresden</a></li>
+<li><a href="/wiki/D%C3%BCsseldorf" title="Düsseldorf">Düsseldorf</a></li>
+<li><a href="/wiki/Essen" title="Essen">Essen</a></li>
+<li><a href="/wiki/Frankfurt" title="Frankfurt">Frankfurt</a></li>
+<li><a href="/wiki/Hanover" title="Hanover">Hanover</a></li>
+<li><a href="/wiki/Leipzig" title="Leipzig">Leipzig</a></li>
+<li><a href="/wiki/Nuremberg" title="Nuremberg">Nuremberg</a></li>
+<li><a href="/wiki/Stuttgart" title="Stuttgart">Stuttgart</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">200,000+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aachen" title="Aachen">Aachen</a></li>
+<li><a href="/wiki/Augsburg" title="Augsburg">Augsburg</a></li>
+<li><a href="/wiki/Bielefeld" title="Bielefeld">Bielefeld</a></li>
+<li><a href="/wiki/Bochum" title="Bochum">Bochum</a></li>
+<li><a href="/wiki/Bonn" title="Bonn">Bonn</a></li>
+<li><a href="/wiki/Braunschweig" title="Braunschweig">Braunschweig</a></li>
+<li><a href="/wiki/Chemnitz" title="Chemnitz">Chemnitz</a></li>
+<li><a href="/wiki/Duisburg" title="Duisburg">Duisburg</a></li>
+<li><a href="/wiki/Erfurt" title="Erfurt">Erfurt</a></li>
+<li><a href="/wiki/Freiburg_im_Breisgau" title="Freiburg im Breisgau">Freiburg im Breisgau</a></li>
+<li><a href="/wiki/Gelsenkirchen" title="Gelsenkirchen">Gelsenkirchen</a></li>
+<li><a href="/wiki/Halle_(Saale)" title="Halle (Saale)">Halle (Saale)</a></li>
+<li><a href="/wiki/Karlsruhe" title="Karlsruhe">Karlsruhe</a></li>
+<li><a href="/wiki/Kiel" title="Kiel">Kiel</a></li>
+<li><a href="/wiki/Krefeld" title="Krefeld">Krefeld</a></li>
+<li><a href="/wiki/L%C3%BCbeck" title="Lübeck">Lübeck</a></li>
+<li><a href="/wiki/Magdeburg" title="Magdeburg">Magdeburg</a></li>
+<li><a href="/wiki/Mainz" title="Mainz">Mainz</a></li>
+<li><a href="/wiki/Mannheim" title="Mannheim">Mannheim</a></li>
+<li><a href="/wiki/M%C3%BCnster" title="Münster">Münster</a></li>
+<li><a href="/wiki/M%C3%B6nchengladbach" title="Mönchengladbach">Mönchengladbach</a></li>
+<li><a href="/wiki/Oberhausen" title="Oberhausen">Oberhausen</a></li>
+<li><a href="/wiki/Rostock" title="Rostock">Rostock</a></li>
+<li><a href="/wiki/Wiesbaden" title="Wiesbaden">Wiesbaden</a></li>
+<li><a href="/wiki/Wuppertal" title="Wuppertal">Wuppertal</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">100,000+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bergisch_Gladbach" title="Bergisch Gladbach">Bergisch Gladbach</a></li>
+<li><a class="mw-selflink selflink">Bottrop</a></li>
+<li><a href="/wiki/Bremerhaven" title="Bremerhaven">Bremerhaven</a></li>
+<li><a href="/wiki/Cottbus" title="Cottbus">Cottbus</a></li>
+<li><a href="/wiki/Darmstadt" title="Darmstadt">Darmstadt</a></li>
+<li><a href="/wiki/Erlangen" title="Erlangen">Erlangen</a></li>
+<li><a href="/wiki/F%C3%BCrth" title="Fürth">Fürth</a></li>
+<li><a href="/wiki/G%C3%B6ttingen" title="Göttingen">Göttingen</a></li>
+<li><a href="/wiki/Hagen" title="Hagen">Hagen</a></li>
+<li><a href="/wiki/Hamm" title="Hamm">Hamm</a></li>
+<li><a href="/wiki/Heidelberg" title="Heidelberg">Heidelberg</a></li>
+<li><a href="/wiki/Heilbronn" title="Heilbronn">Heilbronn</a></li>
+<li><a href="/wiki/Herne,_North_Rhine-Westphalia" title="Herne, North Rhine-Westphalia">Herne</a></li>
+<li><a href="/wiki/Hildesheim" title="Hildesheim">Hildesheim</a></li>
+<li><a href="/wiki/Ingolstadt" title="Ingolstadt">Ingolstadt</a></li>
+<li><a href="/wiki/Jena" title="Jena">Jena</a></li>
+<li><a href="/wiki/Kassel" title="Kassel">Kassel</a></li>
+<li><a href="/wiki/Koblenz" title="Koblenz">Koblenz</a></li>
+<li><a href="/wiki/Leverkusen" title="Leverkusen">Leverkusen</a></li>
+<li><a href="/wiki/Ludwigshafen" title="Ludwigshafen">Ludwigshafen</a></li>
+<li><a href="/wiki/Moers" title="Moers">Moers</a></li>
+<li><a href="/wiki/M%C3%BClheim" title="Mülheim">Mülheim an der Ruhr</a></li>
+<li><a href="/wiki/Neuss" title="Neuss">Neuss</a></li>
+<li><a href="/wiki/Offenbach_am_Main" title="Offenbach am Main">Offenbach am Main</a></li>
+<li><a href="/wiki/Oldenburg_(Oldenburg)" class="mw-redirect" title="Oldenburg (Oldenburg)">Oldenburg</a></li>
+<li><a href="/wiki/Osnabr%C3%BCck" title="Osnabrück">Osnabrück</a></li>
+<li><a href="/wiki/Paderborn" title="Paderborn">Paderborn</a></li>
+<li><a href="/wiki/Pforzheim" title="Pforzheim">Pforzheim</a></li>
+<li><a href="/wiki/Potsdam" title="Potsdam">Potsdam</a></li>
+<li><a href="/wiki/Recklinghausen" title="Recklinghausen">Recklinghausen</a></li>
+<li><a href="/wiki/Regensburg" title="Regensburg">Regensburg</a></li>
+<li><a href="/wiki/Remscheid" title="Remscheid">Remscheid</a></li>
+<li><a href="/wiki/Reutlingen" title="Reutlingen">Reutlingen</a></li>
+<li><a href="/wiki/Saarbr%C3%BCcken" title="Saarbrücken">Saarbrücken</a></li>
+<li><a href="/wiki/Salzgitter" title="Salzgitter">Salzgitter</a></li>
+<li><a href="/wiki/Siegen" title="Siegen">Siegen</a></li>
+<li><a href="/wiki/Solingen" title="Solingen">Solingen</a></li>
+<li><a href="/wiki/Trier" title="Trier">Trier</a></li>
+<li><a href="/wiki/Ulm" title="Ulm">Ulm</a></li>
+<li><a href="/wiki/Wolfsburg" title="Wolfsburg">Wolfsburg</a></li>
+<li><a href="/wiki/W%C3%BCrzburg" title="Würzburg">Würzburg</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/List_of_cities_and_towns_in_Germany" title="List of cities and towns in Germany">complete list</a></li>
+<li><a href="/wiki/List_of_municipalities_in_Germany" title="List of municipalities in Germany">municipalities</a></li>
+<li><a href="/wiki/Metropolitan_regions_in_Germany" title="Metropolitan regions in Germany">metropolitan regions</a></li>
+<li><a href="/wiki/List_of_cities_in_Germany_by_population" title="List of cities in Germany by population">cities with more than 100,000 inhabitants</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="border.7C30px.7CFlag_of_North_Rhine-Westphalia_Urban_and_rural_districts_in_the_state_of_North_Rhine-Westphalia_in_Germany_border.7C30px.7CFlag_of_Germany" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Germany_districts_North_Rhine-Westphalia" title="Template:Germany districts North Rhine-Westphalia"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Germany_districts_North_Rhine-Westphalia" title="Template talk:Germany districts North Rhine-Westphalia"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Germany_districts_North_Rhine-Westphalia&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="border.7C30px.7CFlag_of_North_Rhine-Westphalia_Urban_and_rural_districts_in_the_state_of_North_Rhine-Westphalia_in_Germany_border.7C30px.7CFlag_of_Germany" style="font-size:114%;margin:0 4em"><a href="/wiki/File:Flag_of_North_Rhine-Westphalia.svg" class="image" title="Flag of North Rhine-Westphalia"><img alt="Flag of North Rhine-Westphalia" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_North_Rhine-Westphalia.svg/30px-Flag_of_North_Rhine-Westphalia.svg.png" width="30" height="18" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_North_Rhine-Westphalia.svg/45px-Flag_of_North_Rhine-Westphalia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_North_Rhine-Westphalia.svg/60px-Flag_of_North_Rhine-Westphalia.svg.png 2x" data-file-width="800" data-file-height="480" /></a> Urban and rural districts in the state of <a href="/wiki/North_Rhine-Westphalia" title="North Rhine-Westphalia">North Rhine-Westphalia</a> in Germany <a href="/wiki/File:Flag_of_Germany.svg" class="image" title="Flag of Germany"><img alt="Flag of Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/30px-Flag_of_Germany.svg.png" width="30" height="18" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/45px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/60px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Urban_districts_of_Germany" class="mw-redirect" title="Urban districts of Germany">Urban districts</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bielefeld" title="Bielefeld">Bielefeld</a></li>
+<li><a href="/wiki/Bochum" title="Bochum">Bochum</a></li>
+<li><a href="/wiki/Bonn" title="Bonn">Bonn</a></li>
+<li><a class="mw-selflink selflink">Bottrop</a></li>
+<li><a href="/wiki/Dortmund" title="Dortmund">Dortmund</a></li>
+<li><a href="/wiki/Duisburg" title="Duisburg">Duisburg</a></li>
+<li><a href="/wiki/D%C3%BCsseldorf" title="Düsseldorf">Düsseldorf</a></li>
+<li><a href="/wiki/Essen" title="Essen">Essen</a></li>
+<li><a href="/wiki/Gelsenkirchen" title="Gelsenkirchen">Gelsenkirchen</a></li>
+<li><a href="/wiki/Hagen" title="Hagen">Hagen</a></li>
+<li><a href="/wiki/Hamm" title="Hamm">Hamm</a></li>
+<li><a href="/wiki/Herne,_Germany" class="mw-redirect" title="Herne, Germany">Herne</a></li>
+<li><a href="/wiki/Cologne" title="Cologne">Köln (<i>Cologne</i>)</a></li>
+<li><a href="/wiki/Krefeld" title="Krefeld">Krefeld</a></li>
+<li><a href="/wiki/Leverkusen" title="Leverkusen">Leverkusen</a></li>
+<li><a href="/wiki/M%C3%B6nchengladbach" title="Mönchengladbach">Mönchengladbach</a></li>
+<li><a href="/wiki/M%C3%BClheim" title="Mülheim">Mülheim</a></li>
+<li><a href="/wiki/M%C3%BCnster" title="Münster">Münster</a></li>
+<li><a href="/wiki/Oberhausen" title="Oberhausen">Oberhausen</a></li>
+<li><a href="/wiki/Remscheid" title="Remscheid">Remscheid</a></li>
+<li><a href="/wiki/Solingen" title="Solingen">Solingen</a></li>
+<li><a href="/wiki/Wuppertal" title="Wuppertal">Wuppertal</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="2" style="width:1px;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Deutschland_Lage_von_Nordrhein-Westfalen.svg" class="image"><img alt="Deutschland Lage von Nordrhein-Westfalen.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Deutschland_Lage_von_Nordrhein-Westfalen.svg/90px-Deutschland_Lage_von_Nordrhein-Westfalen.svg.png" width="90" height="122" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Deutschland_Lage_von_Nordrhein-Westfalen.svg/135px-Deutschland_Lage_von_Nordrhein-Westfalen.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Deutschland_Lage_von_Nordrhein-Westfalen.svg/180px-Deutschland_Lage_von_Nordrhein-Westfalen.svg.png 2x" data-file-width="592" data-file-height="801" /></a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_rural_districts_of_Germany" class="mw-redirect" title="List of rural districts of Germany">Rural districts</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aachen_(district)" title="Aachen (district)">Aachen</a></li>
+<li><a href="/wiki/Borken_(district)" title="Borken (district)">Borken</a></li>
+<li><a href="/wiki/Coesfeld_(district)" title="Coesfeld (district)">Coesfeld</a></li>
+<li><a href="/wiki/D%C3%BCren_(district)" title="Düren (district)">Düren</a></li>
+<li><a href="/wiki/Ennepe-Ruhr-Kreis" title="Ennepe-Ruhr-Kreis">Ennepe-Ruhr-Kreis</a></li>
+<li><a href="/wiki/Euskirchen_(district)" title="Euskirchen (district)">Euskirchen</a></li>
+<li><a href="/wiki/G%C3%BCtersloh_(district)" title="Gütersloh (district)">Gütersloh</a></li>
+<li><a href="/wiki/Heinsberg_(district)" title="Heinsberg (district)">Heinsberg</a></li>
+<li><a href="/wiki/Herford_(district)" title="Herford (district)">Herford</a></li>
+<li><a href="/wiki/Hochsauerlandkreis" title="Hochsauerlandkreis">Hochsauerlandkreis</a></li>
+<li><a href="/wiki/H%C3%B6xter_(district)" title="Höxter (district)">Höxter</a></li>
+<li><a href="/wiki/Kleve_(district)" title="Kleve (district)">Kleve (<i>Cleves</i>)</a></li>
+<li><a href="/wiki/Lippe_(district)" title="Lippe (district)">Lippe</a></li>
+<li><a href="/wiki/M%C3%A4rkischer_Kreis" title="Märkischer Kreis">Märkischer Kreis</a></li>
+<li><a href="/wiki/Mettmann_(district)" title="Mettmann (district)">Mettmann</a></li>
+<li><a href="/wiki/Minden-L%C3%BCbbecke" title="Minden-Lübbecke">Minden-Lübbecke</a></li>
+<li><a href="/wiki/Oberbergischer_Kreis" title="Oberbergischer Kreis">Oberbergischer Kreis</a></li>
+<li><a href="/wiki/Olpe_(district)" title="Olpe (district)">Olpe</a></li>
+<li><a href="/wiki/Paderborn_(district)" title="Paderborn (district)">Paderborn</a></li>
+<li><a href="/wiki/Recklinghausen_(district)" title="Recklinghausen (district)">Recklinghausen</a></li>
+<li><a href="/wiki/Rheinisch-Bergischer_Kreis" title="Rheinisch-Bergischer Kreis">Rheinisch-Bergischer Kreis</a></li>
+<li><a href="/wiki/Rhein-Erft-Kreis" title="Rhein-Erft-Kreis">Rhein-Erft-Kreis</a></li>
+<li><a href="/wiki/Rhein-Kreis_Neuss" title="Rhein-Kreis Neuss">Rhein-Kreis Neuss</a></li>
+<li><a href="/wiki/Rhein-Sieg-Kreis" title="Rhein-Sieg-Kreis">Rhein-Sieg-Kreis</a></li>
+<li><a href="/wiki/Siegen-Wittgenstein" title="Siegen-Wittgenstein">Siegen-Wittgenstein</a></li>
+<li><a href="/wiki/Soest_(district)" title="Soest (district)">Soest</a></li>
+<li><a href="/wiki/Steinfurt_(district)" title="Steinfurt (district)">Steinfurt</a></li>
+<li><a href="/wiki/Unna_(district)" title="Unna (district)">Unna</a></li>
+<li><a href="/wiki/Viersen_(district)" title="Viersen (district)">Viersen</a></li>
+<li><a href="/wiki/Warendorf_(district)" title="Warendorf (district)">Warendorf</a></li>
+<li><a href="/wiki/Wesel_(district)" title="Wesel (district)">Wesel</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/152471683">WorldCat Identities</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/152471683">152471683</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/4007862-0">4007862-0</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb12063466f">cb12063466f</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb12063466f">(data)</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1253
+Cached time: 20171018075907
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.408 seconds
+Real time usage: 0.541 seconds
+Preprocessor visited node count: 5949/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 74068/2097152 bytes
+Template argument size: 17509/2097152 bytes
+Highest expansion depth: 26/40
+Expensive parser function count: 7/500
+Lua time usage: 0.145/10.000 seconds
+Lua memory usage: 4.83 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  455.581      1 -total
+ 73.38%  334.285      1 Template:Infobox_German_location
+ 70.32%  320.373      1 Template:Infobox_settlement
+ 59.50%  271.069      1 Template:Infobox
+ 12.71%   57.906      7 Template:Population_Germany
+ 10.09%   45.964      7 Template:Metadata_Population_DE-NW
+  9.16%   41.726      9 Template:Both
+  8.77%   39.943      2 Template:Cite_web
+  8.45%   38.511      1 Template:Coord
+  7.52%   34.279      5 Template:Convert
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:254884-0!canonical and timestamp 20171018075906 and revision id 798914386
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Bottrop&amp;oldid=798914386">https://en.wikipedia.org/w/index.php?title=Bottrop&amp;oldid=798914386</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Cities_in_North_Rhine-Westphalia" title="Category:Cities in North Rhine-Westphalia">Cities in North Rhine-Westphalia</a></li><li><a href="/wiki/Category:Bottrop" title="Category:Bottrop">Bottrop</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_German-language_sources_(de)" title="Category:CS1 German-language sources (de)">CS1 German-language sources (de)</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Bottrop" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Bottrop" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Bottrop" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Bottrop" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Bottrop">Read</a></span></li>
+							<li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Bottrop&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Bottrop&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Bottrop" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Bottrop" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Bottrop&amp;oldid=798914386" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Bottrop&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3069" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Bottrop&amp;id=798914386" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Bottrop">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Bottrop&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Bottrop&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Bottrop" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Bottrop" title="Bottrop – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A8%D9%88%D8%AA%D8%B1%D9%88%D8%A8" title="بوتروب – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Bottrop" title="Bottrop – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Botrop" title="Botrop – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D8%A8%D8%AA%D8%AA%D8%B1%D9%88%D9%BE" title="بتتروپ – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Bottrop" title="Bottrop – Chinese (Min Nan)" lang="zh-min-nan" hreflang="zh-min-nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%91%D0%BE%D1%82%D1%80%D0%B0%D0%BF" title="Ботрап – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%91%D0%BE%D1%82%D1%80%D0%BE%D0%BF" title="Ботроп – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Bottrop" title="Bottrop – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Bottrop_(kapital_sa_distrito)" title="Bottrop (kapital sa distrito) – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Bottrop" title="Bottrop – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Bottrop" title="Bottrop – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Bottrop" title="Bottrop – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Bottrop" title="Bottrop – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Bottrop" title="Bottrop – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Bottrop" title="Bottrop – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Bottrop" title="Bottrop – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A8%D8%AA%D8%AA%D8%B1%D9%88%D9%BE" title="بتتروپ – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Bottrop" title="Bottrop – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/Bottrop" title="Bottrop – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%B3%B4%ED%8A%B8%EB%A1%9C%ED%94%84" title="보트로프 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%B2%D5%B8%D5%BF%D6%80%D5%B8%D5%BA" title="Բոտրոպ – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Bottrop" title="Bottrop – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Bottrop" title="Bottrop – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ie"><a href="https://ie.wikipedia.org/wiki/Bottrop" title="Bottrop – Interlingue" lang="ie" hreflang="ie" class="interlanguage-link-target">Interlingue</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Bottrop" title="Bottrop – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%91%D7%95%D7%98%D7%A8%D7%95%D7%A4" title="בוטרופ – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%91%E1%83%9D%E1%83%A2%E1%83%A0%E1%83%9D%E1%83%9E%E1%83%98" title="ბოტროპი – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%91%D0%BE%D1%82%D1%80%D0%BE%D0%BF" title="Ботроп – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Bottrop" title="Bottrop – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li><li class="interlanguage-link interwiki-ku"><a href="https://ku.wikipedia.org/wiki/Bottrop" title="Bottrop – Kurdish" lang="ku" hreflang="ku" class="interlanguage-link-target">Kurdî</a></li><li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/%D0%91%D0%BE%D1%82%D1%80%D0%BE%D0%BF" title="Ботроп – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Bottrop" title="Bottrop – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Botropa" title="Botropa – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Botropas" title="Botropas – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-li"><a href="https://li.wikipedia.org/wiki/Bottrop" title="Bottrop – Limburgish" lang="li" hreflang="li" class="interlanguage-link-target">Limburgs</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Bottrop" title="Bottrop – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Bottrop" title="Bottrop – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%88%E3%83%AD%E3%83%83%E3%83%97" title="ボトロップ – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-frr"><a href="https://frr.wikipedia.org/wiki/Bottrop" title="Bottrop – Northern Frisian" lang="frr" hreflang="frr" class="interlanguage-link-target">Nordfriisk</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Bottrop" title="Bottrop – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Bottrop" title="Bottrop – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Bottrop" title="Bottrop – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Bottrop" title="Bottrop – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%D8%A8%D9%88%D9%B9%D8%B1%D9%88%D9%BE" title="بوٹروپ – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li><li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/Bottrop" title="Bottrop – Low German" lang="nds" hreflang="nds" class="interlanguage-link-target">Plattdüütsch</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Bottrop" title="Bottrop – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Bottrop" title="Bottrop – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Bottrop" title="Bottrop – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D1%82%D1%80%D0%BE%D0%BF" title="Ботроп – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Bottrop" title="Bottrop – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-stq"><a href="https://stq.wikipedia.org/wiki/Bottrop" title="Bottrop – Saterland Frisian" lang="stq" hreflang="stq" class="interlanguage-link-target">Seeltersk</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Bottrop" title="Bottrop – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Bottrop" title="Bottrop – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%91%D0%BE%D1%82%D1%80%D0%BE%D0%BF" title="Ботроп – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Bottrop" title="Bottrop – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Bottrop" title="Bottrop – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Bottrop" title="Bottrop – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%91%D0%BE%D1%82%D1%82%D1%80%D0%BE%D0%BF" title="Боттроп – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Bottrop" title="Bottrop – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%91%D0%BE%D1%82%D1%82%D1%80%D0%BE%D0%BF" title="Боттроп – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Bottrop" title="Bottrop – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/Bottrop" title="Bottrop – Volapük" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Bottrop" title="Bottrop – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%8D%9A%E7%89%B9%E7%BD%97%E6%99%AE" title="博特罗普 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3069#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 4 September 2017, at 15:12.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Bottrop&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.408","walltime":"0.541","ppvisitednodes":{"value":5949,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":74068,"limit":2097152},"templateargumentsize":{"value":17509,"limit":2097152},"expansiondepth":{"value":26,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  455.581      1 -total"," 73.38%  334.285      1 Template:Infobox_German_location"," 70.32%  320.373      1 Template:Infobox_settlement"," 59.50%  271.069      1 Template:Infobox"," 12.71%   57.906      7 Template:Population_Germany"," 10.09%   45.964      7 Template:Metadata_Population_DE-NW","  9.16%   41.726      9 Template:Both","  8.77%   39.943      2 Template:Cite_web","  8.45%   38.511      1 Template:Coord","  7.52%   34.279      5 Template:Convert"]},"scribunto":{"limitreport-timeusage":{"value":"0.145","limit":"10.000"},"limitreport-memusage":{"value":5063870,"limit":52428800}},"cachereport":{"origin":"mw1253","timestamp":"20171018075907","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":93,"wgHostname":"mw1268"});});</script>
+	</body>
+</html>

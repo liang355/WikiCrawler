@@ -1,0 +1,849 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Landshut - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Landshut","wgTitle":"Landshut","wgCurRevisionId":803313580,"wgRevisionId":803313580,"wgArticleId":347747,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 German-language sources (de)","Coordinates on Wikidata","Articles containing Bavarian-language text","Articles containing German-language text","Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference","Articles with German-language external links","Wikipedia articles with VIAF identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","Towns in Bavaria","Landshut","1204 establishments in Germany"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Landshut","wgRelevantArticleId":347747,"wgRequestId":"WeY-YwpAIC8AABLM21AAAAAX","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCoordinates":{"lat":48.539722222222,"lon":12.150833333333},"wgWikibaseItemId":"Q3974","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.3"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Ensemble_Altstadt_Landshut.JPG/1200px-Ensemble_Altstadt_Landshut.JPG"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Landshut"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Landshut&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Landshut&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Landshut"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Landshut rootpage-Landshut vector-experimental-print-styles vector-nav-directionality skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Landshut</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">This article is about the city in Bavaria. For other uses, see <a href="/wiki/Landshut_(disambiguation)" class="mw-disambig" title="Landshut (disambiguation)">Landshut (disambiguation)</a>.</div>
+<div role="note" class="hatnote navigation-not-searchable">For the city known in German as "Landeshut", see <a href="/wiki/Kamienna_G%C3%B3ra" title="Kamienna Góra">Kamienna Góra</a>.</div>
+<table class="infobox geography vcard" style="width:22em;width:23em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap"><span class="fn org"><span class="wrap">Landshut</span></span></th>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Ensemble_Altstadt_Landshut.JPG" class="image" title="Town centre with St. Martin's Church"><img alt="Town centre with St. Martin's Church" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Ensemble_Altstadt_Landshut.JPG/250px-Ensemble_Altstadt_Landshut.JPG" width="250" height="188" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Ensemble_Altstadt_Landshut.JPG/375px-Ensemble_Altstadt_Landshut.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Ensemble_Altstadt_Landshut.JPG/500px-Ensemble_Altstadt_Landshut.JPG 2x" data-file-width="2560" data-file-height="1920" /></a>
+<div>Town centre with <a href="/wiki/St._Martin%27s_Church,_Landshut" title="St. Martin's Church, Landshut">St. Martin's Church</a></div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" class="maptable" style="text-align:center">
+<table style="width:100%; background:none;">
+<tr>
+<td style="vertical-align:middle; text-align:center;"><a href="/wiki/File:Wappen_Landshut.png" class="image" title="Coat of arms of Landshut  "><img alt="Coat of arms of Landshut  " src="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Wappen_Landshut.png/73px-Wappen_Landshut.png" width="73" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Wappen_Landshut.png/110px-Wappen_Landshut.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/72/Wappen_Landshut.png/147px-Wappen_Landshut.png 2x" data-file-width="190" data-file-height="207" /></a><br />
+<small>Coat of arms</small></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center">
+<div class="center">
+<div style="width:170px;float:none;clear:both;margin-left:auto;margin-right:auto">
+<div style="width:170px;padding:0">
+<div style="position:relative;width:170px"><a href="/wiki/File:Germany_adm_location_map.svg" class="image" title="Landshut   is located in Germany"><img alt="Landshut   is located in Germany" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/170px-Germany_adm_location_map.svg.png" width="170" height="202" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/255px-Germany_adm_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/340px-Germany_adm_location_map.svg.png 2x" data-file-width="1073" data-file-height="1272" /></a>
+<div style="position:absolute;top:83.042%;left:66.508%">
+<div style="position:absolute;left:-3px;top:-3px;line-height:0"><img alt="Landshut  " src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png" title="Landshut  " width="6" height="6" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/9px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div>
+<div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:4px;text-align:left"><span style="padding:1px;float:left"><span class="wrap">Landshut</span></span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr class="mergedbottomrow">
+<td colspan="2" style="text-align:center">Coordinates: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Landshut&amp;params=48_32_23_N_12_09_03_E_type:city(69211)_region:DE-BY"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">48°32′23″N</span> <span class="longitude">12°09′03″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">48.53972°N 12.15083°E</span><span style="display:none">﻿ / <span class="geo">48.53972; 12.15083</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Landshut&amp;params=48_32_23_N_12_09_03_E_type:city(69211)_region:DE-BY"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">48°32′23″N</span> <span class="longitude">12°09′03″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">48.53972°N 12.15083°E</span><span style="display:none">﻿ / <span class="geo">48.53972; 12.15083</span></span></span></a></span></span></span></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Country</th>
+<td><a href="/wiki/Germany" title="Germany">Germany</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/States_of_Germany" title="States of Germany">State</a></th>
+<td><a href="/wiki/Bavaria" title="Bavaria">Bavaria</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Regierungsbezirk" title="Regierungsbezirk">Admin. region</a></th>
+<td><a href="/wiki/Lower_Bavaria" title="Lower Bavaria">Lower Bavaria</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Districts_of_Germany" title="Districts of Germany">District</a></th>
+<td><a href="/wiki/Urban_districts_of_Germany" class="mw-redirect" title="Urban districts of Germany">Urban district</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Founded</th>
+<td>1204</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Government</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;<a href="/wiki/Burgomaster" title="Burgomaster">Mayor</a></th>
+<td>Alexander Putz (<a href="/wiki/Free_Democratic_Party_(Germany)" title="Free Democratic Party (Germany)">FDP</a>)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Area</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Total</th>
+<td>65.7&#160;km<sup>2</sup> (25.4&#160;sq&#160;mi)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Elevation</th>
+<td>445&#160;m (1,460&#160;ft)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Population <span style="font-weight:normal">(2015-12-31)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></span></th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Total</th>
+<td>69,211</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Density</th>
+<td>1,100/km<sup>2</sup> (2,700/sq&#160;mi)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/Time_zone" title="Time zone">Time zone</a></th>
+<td><a href="/wiki/Central_European_Time" title="Central European Time">CET</a>/<a href="/wiki/Central_European_Summer_Time" title="Central European Summer Time">CEST</a> (UTC+1/+2)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/List_of_postal_codes_in_Germany" title="List of postal codes in Germany">Postal codes</a></th>
+<td class="adr"><span class="postal-code">84001-84036</span></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/List_of_dialling_codes_in_Germany" title="List of dialling codes in Germany">Dialling codes</a></th>
+<td>0871</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Vehicle_registration_plate" title="Vehicle registration plate">Vehicle registration</a></th>
+<td>LA</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Website</th>
+<td><a rel="nofollow" class="external text" href="http://www.landshut.de/">www.landshut.de</a></td>
+</tr>
+</table>
+<p><b>Landshut</b> (<a href="/wiki/Bavarian_language" title="Bavarian language">Bavarian</a>: <span lang="bar" xml:lang="bar"><i>Landsad</i></span>) is a town in <a href="/wiki/Bavaria" title="Bavaria">Bavaria</a> in the south-east of Germany, belonging to both Eastern and Southern Bavaria. Situated on the banks of the <a href="/wiki/Isar" title="Isar">River Isar</a>, Landshut is the capital of <a href="/wiki/Lower_Bavaria" title="Lower Bavaria">Lower Bavaria</a>, one of the seven <a href="/wiki/Administrative_region" class="mw-redirect" title="Administrative region">administrative regions</a> of the <a href="/wiki/Free_state_(government)" title="Free state (government)">Free State</a> of Bavaria. It is also the seat of the surrounding district, and has a population of more 70,000. Landshut is the largest city in Lower Bavaria, followed by <a href="/wiki/Passau" title="Passau">Passau</a> and <a href="/wiki/Straubing" title="Straubing">Straubing</a>, and Eastern Bavaria's second biggest city.</p>
+<p>Owing to its characteristic coat of arms, the town is also often called "City of the three Helmets" (<a href="/wiki/German_language" title="German language">German</a>: <span lang="de" xml:lang="de">Dreihelmenstadt</span>). Furthermore, the town is popularly known for the Landshuter Hochzeit (<a href="/wiki/Landshut_Wedding" title="Landshut Wedding">Landshut Wedding</a>), a full-tilt medieval festival.</p>
+<p>Due to its proximity and easy access to <a href="/wiki/Munich" title="Munich">Munich</a> and the <a href="/wiki/Franz_Josef_Strauss_International_Airport" class="mw-redirect" title="Franz Josef Strauss International Airport">Franz Josef Strauss International Airport</a>, Landshut became a powerful and future-oriented investment area. The town is one of the richest industrialized towns in Bavaria and has East Bavaria's lowest unemployment rate (ca.&#160;1.1% in October 2013), which represents full employment.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Geography"><span class="tocnumber">1</span> <span class="toctext">Geography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Settings"><span class="tocnumber">1.1</span> <span class="toctext">Settings</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Main_sights_and_culture"><span class="tocnumber">3</span> <span class="toctext">Main sights and culture</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Gallery"><span class="tocnumber">4</span> <span class="toctext">Gallery</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Theatres"><span class="tocnumber">4.1</span> <span class="toctext">Theatres</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Cinemas"><span class="tocnumber">4.2</span> <span class="toctext">Cinemas</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Museums"><span class="tocnumber">4.3</span> <span class="toctext">Museums</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Venues"><span class="tocnumber">4.4</span> <span class="toctext">Venues</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Businesses"><span class="tocnumber">5</span> <span class="toctext">Businesses</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#International_relations"><span class="tocnumber">6</span> <span class="toctext">International relations</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#Twin_towns_.E2.80.93_Sister_cities"><span class="tocnumber">6.1</span> <span class="toctext">Twin towns – Sister cities</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#Sons_and_daughters_of_the_town"><span class="tocnumber">7</span> <span class="toctext">Sons and daughters of the town</span></a>
+<ul>
+<li class="toclevel-2 tocsection-14"><a href="#before_1900"><span class="tocnumber">7.1</span> <span class="toctext">before 1900</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#from_1900"><span class="tocnumber">7.2</span> <span class="toctext">from 1900</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#from_1951"><span class="tocnumber">7.3</span> <span class="toctext">from 1951</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Honorary_citizens"><span class="tocnumber">7.4</span> <span class="toctext">Honorary citizens</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Notable_inhabitants_of_Landshut"><span class="tocnumber">7.5</span> <span class="toctext">Notable inhabitants of Landshut</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-19"><a href="#See_also"><span class="tocnumber">8</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Geography">Geography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Landshut&amp;action=edit&amp;section=1" title="Edit section: Geography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Settings">Settings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Landshut&amp;action=edit&amp;section=2" title="Edit section: Settings">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Landshut lies in the centre of Lower Bavaria, and is part of the <a href="/wiki/Alpine_foothills" title="Alpine foothills">Alpine foothills</a>. The <a href="/wiki/River_Isar" class="mw-redirect" title="River Isar">River Isar</a> runs through the city centre. Landshut is about 72 kilometres (45&#160;mi) northeast of <a href="/wiki/Munich" title="Munich">Munich</a>.</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Landshut&amp;action=edit&amp;section=3" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The city of Landshut and Trausnitz castle were founded in 1204 by <a href="/wiki/Louis_I_Wittelsbach,_Duke_of_Bavaria" class="mw-redirect" title="Louis I Wittelsbach, Duke of Bavaria">Duke Louis I</a>. Landshut was already a <a href="/wiki/Wittelsbach" class="mw-redirect" title="Wittelsbach">Wittelsbach</a> residence by 1231, and in 1255, when the duchy of Bavaria was split in two, Landshut also became the capital of Lower Bavaria. Duke <a href="/wiki/Henry_XVI_of_Bavaria" class="mw-redirect" title="Henry XVI of Bavaria">Henry XVI</a> was the first of the three famous rich dukes who ruled <a href="/wiki/Bayern-Landshut" class="mw-redirect" title="Bayern-Landshut">Bayern-Landshut</a> in the 15th century. The wedding of Duke <a href="/wiki/George_of_Bavaria" class="mw-redirect" title="George of Bavaria">George</a> with the Polish Princess Royal <a href="/wiki/Jadwiga_Jagiellon_(1457%E2%80%931502)" class="mw-redirect" title="Jadwiga Jagiellon (1457–1502)">Jadwiga Jagiellon</a> in 1475 was celebrated in Landshut with one of the most splendid festivals of the Middle Ages (called "<a href="/wiki/Landshuter_Hochzeit" class="mw-redirect" title="Landshuter Hochzeit">Landshuter Hochzeit</a>"). After his death and the <a href="/wiki/Landshut_War_of_Succession" class="mw-redirect" title="Landshut War of Succession">Landshut War of Succession</a>, Bavaria-Landshut was reunited with <a href="/wiki/Bavaria-Munich" title="Bavaria-Munich">Bavaria-Munich</a>.</p>
+<p><a href="/wiki/Louis_X,_Duke_of_Bavaria" title="Louis X, Duke of Bavaria">Louis X, Duke of Bavaria</a> built the Landshut Residence 1537–1543 after his visit to Italy. Louis built the first <a href="/wiki/Renaissance" title="Renaissance">Renaissance</a> palace constructed north of the Alps after the <a href="/wiki/Palazzo_Te" class="mw-redirect" title="Palazzo Te">Palazzo Te</a> in <a href="/wiki/Mantua" title="Mantua">Mantua</a>. <a href="/wiki/William_V,_Duke_of_Bavaria" title="William V, Duke of Bavaria">William V, Duke of Bavaria</a> ordered to upgrade <a href="/wiki/Trausnitz_Castle" title="Trausnitz Castle">Trausnitz Castle</a> from a gothic fortification into a renaissance complex when he lived in Landshut as crown prince for ten years until 1579. Afterwards Landshut lost most of its importance until the <a href="/wiki/University_of_Ingolstadt" title="University of Ingolstadt">University of Ingolstadt</a> was moved to Landshut in 1800. But already in 1826 the university was transferred to Munich.</p>
+<p>In 1634, during the <a href="/wiki/Thirty_Years%27_War" title="Thirty Years' War">Thirty Years' War</a>, the city was taken and plundered by Swedish forces under the command of <a href="/wiki/Bernard_of_Saxe-Weimar" title="Bernard of Saxe-Weimar">Bernard of Saxe-Weimar</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<p>During <a href="/wiki/World_War_II" title="World War II">World War II</a>, a subcamp of <a href="/wiki/Dachau_concentration_camp" title="Dachau concentration camp">Dachau concentration camp</a> was located in the city to provide <a href="/wiki/Slave_labour" class="mw-redirect" title="Slave labour">slave labour</a> for local industry.</p>
+<p>The U.S. Army maintained facilities in Landshut, including Pinder Kaserne and a dependent housing area, until 1968.</p>
+<p>Since the opening of <a href="/wiki/Munich_Airport" title="Munich Airport">Munich Airport</a> close to Landshut in 1992, the town has become an attractive business location.</p>
+<div class="thumb tnone" style="margin-left: auto; margin-right:auto; overflow:hidden; width:auto; max-width:1032px;">
+<div class="thumbinner" style="">
+<div class="overflowbugx" style="overflow:auto;"><a href="/wiki/File:Panorama_von_Landshut_10410px.jpg" class="image" title="A panoramic view of Landshut"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Panorama_von_Landshut_10410px.jpg/1024px-Panorama_von_Landshut_10410px.jpg" width="1024" height="139" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Panorama_von_Landshut_10410px.jpg/1536px-Panorama_von_Landshut_10410px.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Panorama_von_Landshut_10410px.jpg/2048px-Panorama_von_Landshut_10410px.jpg 2x" data-file-width="10410" data-file-height="1418" /></a></div>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Panorama_von_Landshut_10410px.jpg" title="File:Panorama von Landshut 10410px.jpg"></a></div>
+A panoramic view of Landshut</div>
+</div>
+</div>
+<table class="infobox" style="float:right;">
+<tr>
+<td colspan="2"><b>Largest groups of foreign residents</b></td>
+</tr>
+<tr>
+<td>Nationality</td>
+<td>Population (2013)</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/23px-Flag_of_Turkey.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/35px-Flag_of_Turkey.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/45px-Flag_of_Turkey.svg.png 2x" data-file-width="1200" data-file-height="800" />&#160;</span><a href="/wiki/Turkey" title="Turkey">Turkey</a></td>
+<td>1,275</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/23px-Flag_of_Romania.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/35px-Flag_of_Romania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/45px-Flag_of_Romania.svg.png 2x" data-file-width="600" data-file-height="400" />&#160;</span><a href="/wiki/Romania" title="Romania">Romania</a></td>
+<td>911</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/35px-Flag_of_Poland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/46px-Flag_of_Poland.svg.png 2x" data-file-width="1280" data-file-height="800" />&#160;</span><a href="/wiki/Poland" title="Poland">Poland</a></td>
+<td>730</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/23px-Flag_of_Greece.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/35px-Flag_of_Greece.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/45px-Flag_of_Greece.svg.png 2x" data-file-width="600" data-file-height="400" />&#160;</span><a href="/wiki/Greece" title="Greece">Greece</a></td>
+<td>532</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/23px-Flag_of_Croatia.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/35px-Flag_of_Croatia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/46px-Flag_of_Croatia.svg.png 2x" data-file-width="1200" data-file-height="600" />&#160;</span><a href="/wiki/Croatia" title="Croatia">Croatia</a></td>
+<td>407</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/23px-Flag_of_Austria.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/35px-Flag_of_Austria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/45px-Flag_of_Austria.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Austria" title="Austria">Austria</a></td>
+<td>345</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Main_sights_and_culture">Main sights and culture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Landshut&amp;action=edit&amp;section=4" title="Edit section: Main sights and culture">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:91px;"><a href="/wiki/File:Siebmacher220mod.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/d/d6/Siebmacher220mod.jpg" width="89" height="104" class="thumbimage" data-file-width="89" data-file-height="104" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Siebmacher220mod.jpg" class="internal" title="Enlarge"></a></div>
+Coat of arms, depicted in 1605</div>
+</div>
+</div>
+<p>The town is of national importance because of its predominantly <a href="/wiki/Gothic_architecture" title="Gothic architecture">Gothic architecture</a> within the historic town centre, especially <i><a href="/wiki/Trausnitz_Castle" title="Trausnitz Castle">Trausnitz Castle</a></i> and the <i><a href="/wiki/St._Martin,_Landshut" class="mw-redirect" title="St. Martin, Landshut">Church of Saint Martin</a></i> featuring the world's tallest brick tower. Among other Gothic architecture are the churches of <i>St. Jodok</i> and <i>Holy Spirit</i>, but also the <i>Town Hall</i> and the <i>Ländtor</i>, the only still existing gate of the medieval fortification.</p>
+<p>Landshut is also known for a festival celebrated every four years called the <a href="/wiki/Landshuter_Hochzeit" class="mw-redirect" title="Landshuter Hochzeit">Landshuter Hochzeit</a>, commemorating the 1475 marriage of George of Bavaria and Jadwiga Jagiellon.</p>
+<p>The renaissance era produced in particular the decorated inner courtyard of the <i>Trausnitz Castle</i> and the ducal <i><a href="/wiki/Landshut_Residence" title="Landshut Residence">Landshut Residence</a></i> in the inner town. Baroque churches are represented by the Jesuit church <i>St. Ignatius</i>, the Dominican church <i>St. Blasius</i> and the church of <i>St. Joseph</i>. Also the medieval churches of the <a href="/w/index.php?title=Seligenthal_convent&amp;action=edit&amp;redlink=1" class="new" title="Seligenthal convent (page does not exist)">Seligenthal convent</a> and of the Cistercians were redesigned in baroque style. Many old middle-class houses of the past in the Old Town still represent the history of the town from the Gothic times to the Neo-Classicism.</p>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Landshut&amp;action=edit&amp;section=5" title="Edit section: Gallery">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Iglesia_de_San_Mart%C3%ADn,_Landshut,_Alemania,_2012-05-27,_DD_18.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Iglesia_de_San_Mart%C3%ADn%2C_Landshut%2C_Alemania%2C_2012-05-27%2C_DD_18.JPG/68px-Iglesia_de_San_Mart%C3%ADn%2C_Landshut%2C_Alemania%2C_2012-05-27%2C_DD_18.JPG" width="68" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Iglesia_de_San_Mart%C3%ADn%2C_Landshut%2C_Alemania%2C_2012-05-27%2C_DD_18.JPG/102px-Iglesia_de_San_Mart%C3%ADn%2C_Landshut%2C_Alemania%2C_2012-05-27%2C_DD_18.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Iglesia_de_San_Mart%C3%ADn%2C_Landshut%2C_Alemania%2C_2012-05-27%2C_DD_18.JPG/136px-Iglesia_de_San_Mart%C3%ADn%2C_Landshut%2C_Alemania%2C_2012-05-27%2C_DD_18.JPG 2x" data-file-width="2705" data-file-height="4777" /></a></div>
+</div>
+<div class="gallerytext">
+<p>The Cathedral of St. Martin with its bell tower</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Landshut_st_jodok.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Landshut_st_jodok.jpg/80px-Landshut_st_jodok.jpg" width="80" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Landshut_st_jodok.jpg/120px-Landshut_st_jodok.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Landshut_st_jodok.jpg/160px-Landshut_st_jodok.jpg 2x" data-file-width="1296" data-file-height="1944" /></a></div>
+</div>
+<div class="gallerytext">
+<p>The Church of St. Jodok</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Iglesia_de_la_Redenci%C3%B3n,_Landshut,_Alemania,_2012-05-27,_DD_04.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Iglesia_de_la_Redenci%C3%B3n%2C_Landshut%2C_Alemania%2C_2012-05-27%2C_DD_04.JPG/67px-Iglesia_de_la_Redenci%C3%B3n%2C_Landshut%2C_Alemania%2C_2012-05-27%2C_DD_04.JPG" width="67" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Iglesia_de_la_Redenci%C3%B3n%2C_Landshut%2C_Alemania%2C_2012-05-27%2C_DD_04.JPG/101px-Iglesia_de_la_Redenci%C3%B3n%2C_Landshut%2C_Alemania%2C_2012-05-27%2C_DD_04.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Iglesia_de_la_Redenci%C3%B3n%2C_Landshut%2C_Alemania%2C_2012-05-27%2C_DD_04.JPG/134px-Iglesia_de_la_Redenci%C3%B3n%2C_Landshut%2C_Alemania%2C_2012-05-27%2C_DD_04.JPG 2x" data-file-width="2585" data-file-height="4613" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Redemption church</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Landshuter_Hochzeit_09.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Landshuter_Hochzeit_09.jpg/90px-Landshuter_Hochzeit_09.jpg" width="90" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Landshuter_Hochzeit_09.jpg/135px-Landshuter_Hochzeit_09.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Landshuter_Hochzeit_09.jpg/180px-Landshuter_Hochzeit_09.jpg 2x" data-file-width="1062" data-file-height="1417" /></a></div>
+</div>
+<div class="gallerytext">
+<p>The Landshut Wedding and the Church of the Holy Spirit</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:35.5px auto;"><a href="/wiki/File:L%C3%A4ndtor,_Landshut,_Alemania,_2012-05-27,_DD_01.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/L%C3%A4ndtor%2C_Landshut%2C_Alemania%2C_2012-05-27%2C_DD_01.JPG/120px-L%C3%A4ndtor%2C_Landshut%2C_Alemania%2C_2012-05-27%2C_DD_01.JPG" width="120" height="79" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/L%C3%A4ndtor%2C_Landshut%2C_Alemania%2C_2012-05-27%2C_DD_01.JPG/180px-L%C3%A4ndtor%2C_Landshut%2C_Alemania%2C_2012-05-27%2C_DD_01.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/17/L%C3%A4ndtor%2C_Landshut%2C_Alemania%2C_2012-05-27%2C_DD_01.JPG/240px-L%C3%A4ndtor%2C_Landshut%2C_Alemania%2C_2012-05-27%2C_DD_01.JPG 2x" data-file-width="5239" data-file-height="3442" /></a></div>
+</div>
+<div class="gallerytext">
+<p>The Ländtor</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Castillo_Trausnitz,_Landshut,_Alemania,_2012-05-27,_DD_13.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Castillo_Trausnitz%2C_Landshut%2C_Alemania%2C_2012-05-27%2C_DD_13.JPG/81px-Castillo_Trausnitz%2C_Landshut%2C_Alemania%2C_2012-05-27%2C_DD_13.JPG" width="81" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Castillo_Trausnitz%2C_Landshut%2C_Alemania%2C_2012-05-27%2C_DD_13.JPG/122px-Castillo_Trausnitz%2C_Landshut%2C_Alemania%2C_2012-05-27%2C_DD_13.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/09/Castillo_Trausnitz%2C_Landshut%2C_Alemania%2C_2012-05-27%2C_DD_13.JPG/163px-Castillo_Trausnitz%2C_Landshut%2C_Alemania%2C_2012-05-27%2C_DD_13.JPG 2x" data-file-width="3175" data-file-height="4669" /></a></div>
+</div>
+<div class="gallerytext">
+<p>The Trausnitz castle</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:35px auto;"><a href="/wiki/File:Landshut_City_View.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Landshut_City_View.jpg/120px-Landshut_City_View.jpg" width="120" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Landshut_City_View.jpg/180px-Landshut_City_View.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Landshut_City_View.jpg/240px-Landshut_City_View.jpg 2x" data-file-width="5184" data-file-height="3456" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Landshut City View</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Ayuntamiento,_calle_Altstadt,_Landshut,_Alemania,_2012-05-27,_DD_04.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ayuntamiento%2C_calle_Altstadt%2C_Landshut%2C_Alemania%2C_2012-05-27%2C_DD_04.JPG/70px-Ayuntamiento%2C_calle_Altstadt%2C_Landshut%2C_Alemania%2C_2012-05-27%2C_DD_04.JPG" width="70" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ayuntamiento%2C_calle_Altstadt%2C_Landshut%2C_Alemania%2C_2012-05-27%2C_DD_04.JPG/105px-Ayuntamiento%2C_calle_Altstadt%2C_Landshut%2C_Alemania%2C_2012-05-27%2C_DD_04.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ayuntamiento%2C_calle_Altstadt%2C_Landshut%2C_Alemania%2C_2012-05-27%2C_DD_04.JPG/140px-Ayuntamiento%2C_calle_Altstadt%2C_Landshut%2C_Alemania%2C_2012-05-27%2C_DD_04.JPG 2x" data-file-width="2820" data-file-height="4829" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Town hall</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:27px auto;"><a href="/wiki/File:Calle_Altstadt,_Landshut,_Alemania,_2012-05-27,_DD_09.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Calle_Altstadt%2C_Landshut%2C_Alemania%2C_2012-05-27%2C_DD_09.JPG/120px-Calle_Altstadt%2C_Landshut%2C_Alemania%2C_2012-05-27%2C_DD_09.JPG" width="120" height="96" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Calle_Altstadt%2C_Landshut%2C_Alemania%2C_2012-05-27%2C_DD_09.JPG/180px-Calle_Altstadt%2C_Landshut%2C_Alemania%2C_2012-05-27%2C_DD_09.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Calle_Altstadt%2C_Landshut%2C_Alemania%2C_2012-05-27%2C_DD_09.JPG/240px-Calle_Altstadt%2C_Landshut%2C_Alemania%2C_2012-05-27%2C_DD_09.JPG 2x" data-file-width="4034" data-file-height="3233" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Old town</p>
+</div>
+</div>
+</li>
+</ul>
+<h3><span class="mw-headline" id="Theatres">Theatres</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Landshut&amp;action=edit&amp;section=6" title="Edit section: Theatres">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>Stadttheater (city theatre)</li>
+<li><i>Kleines Theater</i></li>
+<li><a href="/w/index.php?title=Theater_Nikola&amp;action=edit&amp;redlink=1" class="new" title="Theater Nikola (page does not exist)">Theater Nikola</a></li>
+</ul>
+<h3><span class="mw-headline" id="Cinemas">Cinemas</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Landshut&amp;action=edit&amp;section=7" title="Edit section: Cinemas">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/w/index.php?title=Kinoptikum&amp;action=edit&amp;redlink=1" class="new" title="Kinoptikum (page does not exist)">Kinoptikum</a> – <a href="/wiki/Repertory_cinema" class="mw-redirect" title="Repertory cinema">repertory cinema</a> <a rel="nofollow" class="external autonumber" href="http://www.kinoptikum.de">[1]</a></li>
+<li><a href="/w/index.php?title=Kinopolis_Landshut&amp;action=edit&amp;redlink=1" class="new" title="Kinopolis Landshut (page does not exist)">Kinopolis Landshut</a> – <a href="/wiki/Multiplex_cinema" class="mw-redirect" title="Multiplex cinema">Multiplex cinema</a> <a rel="nofollow" class="external autonumber" href="http://www.kinopolis.de">[2]</a></li>
+<li>Burgtheater/Kühlhauskino</li>
+</ul>
+<h3><span class="mw-headline" id="Museums">Museums</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Landshut&amp;action=edit&amp;section=8" title="Edit section: Museums">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>Skulpturenmuseum im Hofberg (Sculptural Museum in Hofberg)</li>
+</ul>
+<h3><span class="mw-headline" id="Venues">Venues</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Landshut&amp;action=edit&amp;section=9" title="Edit section: Venues">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Eisstadion_am_Gutenbergweg" title="Eisstadion am Gutenbergweg">Eisstadion am Gutenbergweg</a> – Indoor <a href="/wiki/Ice_hockey" title="Ice hockey">Ice hockey</a> arena, mainly used by the <a href="/wiki/Landshut_Cannibals" class="mw-redirect" title="Landshut Cannibals">Landshut Cannibals</a></li>
+<li>Sparkassen-Arena – Mainly used for concerts and fairs</li>
+<li><a href="/w/index.php?title=Grieserwiese&amp;action=edit&amp;redlink=1" class="new" title="Grieserwiese (page does not exist)">Grieserwiese</a> – Giant parking area located between Wittstraße and the bank of the <a href="/wiki/River_Isar" class="mw-redirect" title="River Isar">river Isar</a> used for the annual <a href="/w/index.php?title=Fr%C3%BChjahrs-_und_Bartlm%C3%A4dult&amp;action=edit&amp;redlink=1" class="new" title="Frühjahrs- und Bartlmädult (page does not exist)">Frühjahrs- und Bartlmädult</a></li>
+</ul>
+<h2><span class="mw-headline" id="Businesses">Businesses</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Landshut&amp;action=edit&amp;section=10" title="Edit section: Businesses">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/BMW" title="BMW">BMW</a></li>
+<li><a href="/wiki/Dr%C3%A4xlmaier_Group" title="Dräxlmaier Group">Dräxlmaier Group</a></li>
+<li><a href="/wiki/Deutsche_Telekom" title="Deutsche Telekom">Deutsche Telekom</a></li>
+<li><a href="/wiki/Ebmpapst" class="mw-redirect" title="Ebmpapst">ebmpapst</a></li>
+<li><a href="/w/index.php?title=LFoundry&amp;action=edit&amp;redlink=1" class="new" title="LFoundry (page does not exist)">LFoundry</a>, a semiconductor fab formerly owned by <a href="/wiki/Renesas" class="mw-redirect" title="Renesas">Renesas</a> and before by <a href="/wiki/Hitachi" title="Hitachi">Hitachi</a>)</li>
+<li><a href="/wiki/Schott_Glass" class="mw-redirect" title="Schott Glass">Schott Glass</a></li>
+<li><a href="/wiki/Vishay" class="mw-redirect" title="Vishay">Vishay</a></li>
+<li><a href="/wiki/Karstadt" title="Karstadt">Karstadt</a></li>
+<li><a href="https://de.wikipedia.org/wiki/P%C3%B6schl_Tabak" class="extiw" title="de:Pöschl Tabak">de:Pöschl Tabak</a></li>
+</ul>
+<p>There are also two nuclear power plants located 14&#160;km away from Landshut, <a href="/wiki/Isar_I" class="mw-redirect" title="Isar I">Isar I</a> (Inactive) and <a href="/wiki/Isar_II" class="mw-redirect" title="Isar II">Isar II</a> (Active until 2022).</p>
+<h2><span class="mw-headline" id="International_relations">International relations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Landshut&amp;action=edit&amp;section=11" title="Edit section: International relations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/List_of_twin_towns_and_sister_cities_in_Germany" title="List of twin towns and sister cities in Germany">List of twin towns and sister cities in Germany</a></div>
+<h3><span id="Twin_towns_–_Sister_cities"></span><span class="mw-headline" id="Twin_towns_.E2.80.93_Sister_cities">Twin towns – Sister cities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Landshut&amp;action=edit&amp;section=12" title="Edit section: Twin towns – Sister cities">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Landshut is <a href="/wiki/Twin_towns_and_sister_cities" class="mw-redirect" title="Twin towns and sister cities">twinned</a> with:</p>
+<table class="wikitable">
+<tr valign="top">
+<td>
+<ul>
+<li><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Elgin,_Moray" title="Elgin, Moray">Elgin</a>, <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>, since 1956</li>
+<li><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Compi%C3%A8gne" title="Compiègne">Compiègne</a>, France, since 1962</li>
+<li><span class="flagicon"><a href="/wiki/Austria" title="Austria"><img alt="Austria" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/23px-Flag_of_Austria.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/35px-Flag_of_Austria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/45px-Flag_of_Austria.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Ried_im_Innkreis" title="Ried im Innkreis">Ried im Innkreis</a>, Austria, since 1974</li>
+<li><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Schio" title="Schio">Schio</a>, Italy, since 1981</li>
+<li><span class="flagicon"><a href="/wiki/Romania" title="Romania"><img alt="Romania" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/23px-Flag_of_Romania.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/35px-Flag_of_Romania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/45px-Flag_of_Romania.svg.png 2x" data-file-width="600" data-file-height="400" /></a></span> <a href="/wiki/Sibiu" title="Sibiu">Sibiu</a>, <a href="/wiki/Romania" title="Romania">Romania</a>, since 2002</li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Sons_and_daughters_of_the_town">Sons and daughters of the town</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Landshut&amp;action=edit&amp;section=13" title="Edit section: Sons and daughters of the town">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="before_1900">before 1900</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Landshut&amp;action=edit&amp;section=14" title="Edit section: before 1900">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:152px;"><a href="/wiki/File:Feuerbach_Ludwig.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Feuerbach_Ludwig.jpg/150px-Feuerbach_Ludwig.jpg" width="150" height="195" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Feuerbach_Ludwig.jpg/225px-Feuerbach_Ludwig.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Feuerbach_Ludwig.jpg/300px-Feuerbach_Ludwig.jpg 2x" data-file-width="504" data-file-height="656" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Feuerbach_Ludwig.jpg" class="internal" title="Enlarge"></a></div>
+Ludwig Feuerbach</div>
+</div>
+</div>
+<ul>
+<li><a href="/wiki/Ulrich_F%C3%BCetrer" title="Ulrich Füetrer">Ulrich Füetrer</a> (born before 1450; died around 1493 and 1502), poet and painter</li>
+<li><a href="/wiki/Ludwig_Feuerbach" title="Ludwig Feuerbach">Ludwig Feuerbach</a> (1804–1872), philosopher</li>
+<li><a href="/wiki/Friedrich_Feuerbach" title="Friedrich Feuerbach">Friedrich Feuerbach</a> (1806–1880), philologian and philosopher</li>
+<li><a href="/wiki/Gustav_Tiedemann" class="mw-redirect" title="Gustav Tiedemann">Gustav Tiedemann</a> (1808–1849), officer</li>
+<li><a href="/wiki/Carl_du_Prel" class="mw-redirect" title="Carl du Prel">Carl du Prel</a> (1839–1899), philosopher, writer and occultist</li>
+<li><a href="/wiki/Karl_Tanera" title="Karl Tanera">Karl Tanera</a> (1849–1904), officer of the Bavarian Army and author</li>
+<li><a href="/wiki/Max_Slevogt" title="Max Slevogt">Max Slevogt</a> (1868–1932), painter, graphician</li>
+<li><a href="/wiki/Otto_Kissenberth" title="Otto Kissenberth">Otto Kissenberth</a> (1893–1919), fighter pilot in World War I</li>
+</ul>
+<h3><span class="mw-headline" id="from_1900">from 1900</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Landshut&amp;action=edit&amp;section=15" title="Edit section: from 1900">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Hermann_Erhardt" title="Hermann Erhardt">Hermann Erhardt</a> (1903–1958), actor</li>
+<li><a href="/wiki/Max_Sch%C3%A4fer" title="Max Schäfer">Max Schäfer</a> (1907–1990), football player- and trainer</li>
+<li><a href="/wiki/Marlene_Neubauer-Woerner" title="Marlene Neubauer-Woerner">Marlene Neubauer-Woerner</a> (1918–2010), sculptor</li>
+<li><a href="/wiki/Josef_Deimer" title="Josef Deimer">Josef Deimer</a> (born 1936), politician and Lord mayor of Landshut from 1970-2014</li>
+<li><a href="/w/index.php?title=David_Elsner&amp;action=edit&amp;redlink=1" class="new" title="David Elsner (page does not exist)">David Elsner</a>, professional ice hockey player</li>
+<li><a href="/wiki/Tom_K%C3%BChnhackl" title="Tom Kühnhackl">Tom Kühnhackl</a>, professional ice hockey player</li>
+<li><a href="/wiki/Roman_Herzog" title="Roman Herzog">Roman Herzog</a>, (1934-2017), politician (CDU), President of Germany from 1994 to 1999, then Honorary Citizen as well</li>
+</ul>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:87px;"><a href="/wiki/File:Roman_Herzog,_Karlspreisverleihung_2012.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Roman_Herzog%2C_Karlspreisverleihung_2012.JPG/85px-Roman_Herzog%2C_Karlspreisverleihung_2012.JPG" width="85" height="117" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Roman_Herzog%2C_Karlspreisverleihung_2012.JPG/128px-Roman_Herzog%2C_Karlspreisverleihung_2012.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Roman_Herzog%2C_Karlspreisverleihung_2012.JPG/170px-Roman_Herzog%2C_Karlspreisverleihung_2012.JPG 2x" data-file-width="1361" data-file-height="1866" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Roman_Herzog,_Karlspreisverleihung_2012.JPG" class="internal" title="Enlarge"></a></div>
+Roman Herzog, Karlspreis 2012 (Charlemagne prize)</div>
+</div>
+</div>
+<h3><span class="mw-headline" id="from_1951">from 1951</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Landshut&amp;action=edit&amp;section=16" title="Edit section: from 1951">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Klaus_Auhuber" title="Klaus Auhuber">Klaus Auhuber</a> (born 1951), ice hockey player</li>
+<li><a href="/wiki/Albert_Sigl" title="Albert Sigl">Albert Sigl</a> (born 1953), author</li>
+<li><a href="/wiki/Gerhard_Tausche" title="Gerhard Tausche">Gerhard Tausche</a> (born 1958), archivar and author</li>
+<li><a href="/wiki/Gerd_Truntschka" title="Gerd Truntschka">Gerd Truntschka</a> (born 1958), ice hockey player</li>
+<li><a href="/wiki/Martin_Bayerstorfer" title="Martin Bayerstorfer">Martin Bayerstorfer</a> (born 1966), politician</li>
+<li><a href="/wiki/Alex_Holzwarth" title="Alex Holzwarth">Alex Holzwarth</a> (born 1968), drummer</li>
+<li><a href="/wiki/Wolfgang_Stark" title="Wolfgang Stark">Wolfgang Stark</a> (born 1969), FIFA-referee</li>
+<li><a href="/wiki/Markus_Brunnermeier" title="Markus Brunnermeier">Markus Brunnermeier</a>, (born 1969), financial economist</li>
+<li><a href="/wiki/Annette_Dytrt" title="Annette Dytrt">Annette Dytrt</a> (born 1983), figure skater</li>
+</ul>
+<h3><span class="mw-headline" id="Honorary_citizens">Honorary citizens</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Landshut&amp;action=edit&amp;section=17" title="Edit section: Honorary citizens">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Hans_Leinberger" title="Hans Leinberger">Hans Leinberger</a>, (1475/1480-after 1531), sculptor</li>
+<li><a href="/wiki/Ludwig_Andreas_Feuerbach" class="mw-redirect" title="Ludwig Andreas Feuerbach">Ludwig Andreas Feuerbach</a>, (1804–1872), philosopher and anthropologist</li>
+<li><a href="/wiki/Roman_Herzog" title="Roman Herzog">Roman Herzog</a>, (born 1934), President of Germany 1994-1999</li>
+<li><a href="/wiki/Josef_Deimer" title="Josef Deimer">Josef Deimer</a>, (born 1936), Lord Mayor of Landshut 1970-2004</li>
+<li><a href="/wiki/Erich_K%C3%BChnhackl" title="Erich Kühnhackl">Erich Kühnhackl</a> (born 1950), former ice hockey player</li>
+</ul>
+<h3><span class="mw-headline" id="Notable_inhabitants_of_Landshut">Notable inhabitants of Landshut</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Landshut&amp;action=edit&amp;section=18" title="Edit section: Notable inhabitants of Landshut">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:132px;"><a href="/wiki/File:Bundesarchiv_Bild_119-1721,_Gregor_Strasser.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/58/Bundesarchiv_Bild_119-1721%2C_Gregor_Strasser.jpg/130px-Bundesarchiv_Bild_119-1721%2C_Gregor_Strasser.jpg" width="130" height="220" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/58/Bundesarchiv_Bild_119-1721%2C_Gregor_Strasser.jpg/195px-Bundesarchiv_Bild_119-1721%2C_Gregor_Strasser.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/58/Bundesarchiv_Bild_119-1721%2C_Gregor_Strasser.jpg/260px-Bundesarchiv_Bild_119-1721%2C_Gregor_Strasser.jpg 2x" data-file-width="471" data-file-height="796" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Bundesarchiv_Bild_119-1721,_Gregor_Strasser.jpg" class="internal" title="Enlarge"></a></div>
+Gregor Strasser 1928</div>
+</div>
+</div>
+<ul>
+<li><a href="/wiki/Louis_I,_Duke_of_Bavaria" title="Louis I, Duke of Bavaria">Louis I, Duke of Bavaria</a> (1173–1231), Duke of Bavaria and Count Palatine of the Rhine</li>
+<li><a href="/wiki/Hans_von_Burghausen" title="Hans von Burghausen">Hans von Burghausen</a> (born 1350-1360; died 1432), builder</li>
+<li><a href="/wiki/Hans_Stethaimer" class="mw-redirect" title="Hans Stethaimer">Hans Stethaimer</a> (1360–1432), architect, mason and painter</li>
+<li><a href="/wiki/Hans_Leinberger" title="Hans Leinberger">Hans Leinberger</a> (1480–1531), sculptor of the late Gothic</li>
+<li><a href="/wiki/G%C3%B6tz_von_Berlichingen" title="Götz von Berlichingen">Götz von Berlichingen</a> (1480–1562), Frankish Empire Knights</li>
+<li><a href="/wiki/Renata_of_Lorraine" title="Renata of Lorraine">Renata of Lorraine</a> (1544–1602), Duchess of Bavaria</li>
+<li><a href="/wiki/Johann_Graf_von_Aldringen" class="mw-redirect" title="Johann Graf von Aldringen">Johann Graf von Aldringen</a> (1588–1634), commander</li>
+<li><a href="/wiki/Franz_von_Paula_Schrank" title="Franz von Paula Schrank">Franz von Paula Schrank</a> (1747–1835), botanist</li>
+<li><a href="/wiki/Johann_Michael_Sailer" title="Johann Michael Sailer">Johann Michael Sailer</a> (1751–1832), a Catholic theologian and bishop of Regensburg</li>
+<li><a href="/wiki/Franz_Xaver_Witt" title="Franz Xaver Witt">Franz Xaver Witt</a> (1834–1888), church musician, composer, reformer, founder of the German general Cecilia Association</li>
+<li><a href="/wiki/Max_von_Oppenheim" title="Max von Oppenheim">Max Freiherr von Oppenheim</a> (1860–1946), diplomat, orientalist and archaeologist</li>
+<li><a href="/wiki/Ludwig_Thoma" title="Ludwig Thoma">Ludwig Thoma</a> (1867–1921), writer</li>
+<li><a href="/wiki/Hans_Carossa" title="Hans Carossa">Hans Carossa</a> (1878–1956), doctor, known as a poet and writer of short stories</li>
+<li><a href="/wiki/Gregor_Strasser" title="Gregor Strasser">Gregor Strasser</a> (1892–1934), National Socialist politician</li>
+<li><a href="/wiki/Heinrich_Himmler" title="Heinrich Himmler">Heinrich Himmler</a> (1900–1945), National Socialist politician, head of the <a href="/wiki/SS" class="mw-redirect" title="SS">SS</a></li>
+<li><a href="/wiki/Marlene_Neubauer-Woerner" title="Marlene Neubauer-Woerner">Marlene Neubauer-Woerner</a> (1918–2010), sculptress</li>
+<li><a href="/wiki/Fritz_Koenig" title="Fritz Koenig">Fritz Koenig</a> (1924–2017), sculptor</li>
+<li><a href="/wiki/Heinz_Winbeck" title="Heinz Winbeck">Heinz Winbeck</a> (born 1946), composer</li>
+<li><a href="/wiki/Erich_K%C3%BChnhackl" title="Erich Kühnhackl">Erich Kühnhackl</a> (born 1950), hockey player</li>
+<li><a href="/wiki/Herbert_Hainer" title="Herbert Hainer">Herbert Hainer</a> (born 1954), Manager</li>
+<li><a href="/w/index.php?title=Franz_Kober&amp;action=edit&amp;redlink=1" class="new" title="Franz Kober (page does not exist)">Franz Kober</a> (born 1956), Engineer</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Landshut&amp;action=edit&amp;section=19" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Battle_of_Abensberg" title="Battle of Abensberg">Battle of Abensberg</a>, occurred 20 April 1809</li>
+<li><a href="/wiki/Battle_of_Landshut_(1809)" title="Battle of Landshut (1809)">Battle of Landshut</a>, occurred 21 April 1809</li>
+<li><a href="/wiki/Battle_of_Eckm%C3%BChl" title="Battle of Eckmühl">Battle of Eckmühl</a>, occurred 21–22 April 1809</li>
+<li><a href="/wiki/Abensberg" title="Abensberg">Abensberg</a></li>
+<li><a href="/wiki/Eckm%C3%BChl" title="Eckmühl">Eckmühl</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Landshut&amp;action=edit&amp;section=20" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.statistikdaten.bayern.de/genesis/online?sequenz=tabelleErgebnis&amp;selectionname=12411-001">"Fortschreibung des Bevölkerungsstandes"</a>. <i><a href="/wiki/Bayerisches_Landesamt_f%C3%BCr_Statistik_und_Datenverarbeitung" class="mw-redirect" title="Bayerisches Landesamt für Statistik und Datenverarbeitung">Bayerisches Landesamt für Statistik und Datenverarbeitung</a></i> (in German). June 2016.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALandshut&amp;rft.atitle=Fortschreibung+des+Bev%C3%B6lkerungsstandes&amp;rft.date=2016-06&amp;rft.genre=unknown&amp;rft.jtitle=Bayerisches+Landesamt+f%C3%BCr+Statistik+und+Datenverarbeitung&amp;rft_id=https%3A%2F%2Fwww.statistikdaten.bayern.de%2Fgenesis%2Fonline%3Fsequenz%3DtabelleErgebnis%26selectionname%3D12411-001&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Helfferich, Tryntje, The Thirty Years War: A Documentary History (Cambridge, 2009), pp. 274-302.</span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Landshut&amp;action=edit&amp;section=21" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Landshut" class="extiw" title="commons:Category:Landshut">Landshut</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a href="/wiki/File:Wikivoyage-Logo-v3-icon.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/16px-Wikivoyage-Logo-v3-icon.svg.png" width="16" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/24px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/32px-Wikivoyage-Logo-v3-icon.svg.png 2x" data-file-width="193" data-file-height="193" /></a> <a href="https://en.wikivoyage.org/wiki/Landshut#Q3974" class="extiw" title="voy:Landshut">Landshut</a> travel guide from Wikivoyage</li>
+<li><img alt="Wikisource-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png" width="12" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/18px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/24px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" />&#160;<cite class="citation encyclopaedia">Chisholm, Hugh, ed. (1911). "<a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Landshut" class="extiw" title="wikisource:1911 Encyclopædia Britannica/Landshut">Landshut</a>". <i><a href="/wiki/Encyclop%C3%A6dia_Britannica_Eleventh_Edition" title="Encyclopædia Britannica Eleventh Edition">Encyclopædia Britannica</a></i> (11th ed.). Cambridge University Press.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALandshut&amp;rft.atitle=Landshut&amp;rft.btitle=Encyclop%C3%A6dia+Britannica&amp;rft.date=1911&amp;rft.edition=11th&amp;rft.genre=bookitem&amp;rft.pub=Cambridge+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><a rel="nofollow" class="external free" href="http://www.landshut.de">http://www.landshut.de</a> – Official website</li>
+<li><span class="languageicon">(in German)</span> <a rel="nofollow" class="external free" href="http://www.fh-landshut.de/">http://www.fh-landshut.de/</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="border.7C30px.7CFlag_of_Bavaria_Urban_and_rural_districts_in_the_Free_State_of_Bavaria_in_Germany_border.7C30px.7CFlag_of_Germany" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Germany_districts_Bavaria" title="Template:Germany districts Bavaria"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Germany_districts_Bavaria" title="Template talk:Germany districts Bavaria"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Germany_districts_Bavaria&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="border.7C30px.7CFlag_of_Bavaria_Urban_and_rural_districts_in_the_Free_State_of_Bavaria_in_Germany_border.7C30px.7CFlag_of_Germany" style="font-size:114%;margin:0 4em"><a href="/wiki/File:Flag_of_Bavaria_(lozengy).svg" class="image" title="Flag of Bavaria"><img alt="Flag of Bavaria" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Bavaria_%28lozengy%29.svg/30px-Flag_of_Bavaria_%28lozengy%29.svg.png" width="30" height="18" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Bavaria_%28lozengy%29.svg/45px-Flag_of_Bavaria_%28lozengy%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Bavaria_%28lozengy%29.svg/60px-Flag_of_Bavaria_%28lozengy%29.svg.png 2x" data-file-width="1000" data-file-height="600" /></a> Urban and rural districts in the <a href="/wiki/Bavaria" title="Bavaria">Free State of Bavaria</a> in Germany <a href="/wiki/File:Flag_of_Germany.svg" class="image" title="Flag of Germany"><img alt="Flag of Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/30px-Flag_of_Germany.svg.png" width="30" height="18" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/45px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/60px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Urban<br />
+districts</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Amberg" title="Amberg">Amberg</a></li>
+<li><a href="/wiki/Ansbach" title="Ansbach">Ansbach</a></li>
+<li><a href="/wiki/Aschaffenburg" title="Aschaffenburg">Aschaffenburg</a></li>
+<li><a href="/wiki/Augsburg" title="Augsburg">Augsburg</a></li>
+<li><a href="/wiki/Bamberg" title="Bamberg">Bamberg</a></li>
+<li><a href="/wiki/Bayreuth" title="Bayreuth">Bayreuth</a></li>
+<li><a href="/wiki/Coburg" title="Coburg">Coburg</a></li>
+<li><a href="/wiki/Erlangen" title="Erlangen">Erlangen</a></li>
+<li><a href="/wiki/F%C3%BCrth" title="Fürth">Fürth</a></li>
+<li><a href="/wiki/Hof,_Bavaria" title="Hof, Bavaria">Hof</a></li>
+<li><a href="/wiki/Ingolstadt" title="Ingolstadt">Ingolstadt</a></li>
+<li><a href="/wiki/Kaufbeuren" title="Kaufbeuren">Kaufbeuren</a></li>
+<li><a href="/wiki/Kempten" title="Kempten">Kempten</a></li>
+<li><a class="mw-selflink selflink">Landshut</a></li>
+<li><a href="/wiki/Memmingen" title="Memmingen">Memmingen</a></li>
+<li><a href="/wiki/Munich" title="Munich">München (<i>Munich</i>)</a></li>
+<li><a href="/wiki/Nuremberg" title="Nuremberg">Nürnberg (<i>Nuremberg</i>)</a></li>
+<li><a href="/wiki/Passau" title="Passau">Passau</a></li>
+<li><a href="/wiki/Regensburg" title="Regensburg">Regensburg</a></li>
+<li><a href="/wiki/Rosenheim" title="Rosenheim">Rosenheim</a></li>
+<li><a href="/wiki/Schwabach" title="Schwabach">Schwabach</a></li>
+<li><a href="/wiki/Schweinfurt" title="Schweinfurt">Schweinfurt</a></li>
+<li><a href="/wiki/Straubing" title="Straubing">Straubing</a></li>
+<li><a href="/wiki/Weiden_in_der_Oberpfalz" title="Weiden in der Oberpfalz">Weiden</a></li>
+<li><a href="/wiki/W%C3%BCrzburg" title="Würzburg">Würzburg</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Rural<br />
+districts</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aichach-Friedberg" title="Aichach-Friedberg">Aichach-Friedberg</a></li>
+<li><a href="/wiki/Alt%C3%B6tting_(district)" title="Altötting (district)">Altötting</a></li>
+<li><a href="/wiki/Amberg-Sulzbach" title="Amberg-Sulzbach">Amberg-Sulzbach</a></li>
+<li><a href="/wiki/Ansbach_(district)" title="Ansbach (district)">Ansbach</a></li>
+<li><a href="/wiki/Aschaffenburg_(district)" title="Aschaffenburg (district)">Aschaffenburg</a></li>
+<li><a href="/wiki/Augsburg_(district)" title="Augsburg (district)">Augsburg</a></li>
+<li><a href="/wiki/Bad_Kissingen_(district)" title="Bad Kissingen (district)">Bad Kissingen</a></li>
+<li><a href="/wiki/Bad_T%C3%B6lz-Wolfratshausen" title="Bad Tölz-Wolfratshausen">Bad Tölz-Wolfratshausen</a></li>
+<li><a href="/wiki/Bamberg_(district)" title="Bamberg (district)">Bamberg</a></li>
+<li><a href="/wiki/Bayreuth_(district)" title="Bayreuth (district)">Bayreuth</a></li>
+<li><a href="/wiki/Berchtesgadener_Land" title="Berchtesgadener Land">Berchtesgadener Land</a></li>
+<li><a href="/wiki/Cham_(district)" title="Cham (district)">Cham</a></li>
+<li><a href="/wiki/Coburg_(district)" title="Coburg (district)">Coburg</a></li>
+<li><a href="/wiki/Dachau_(district)" title="Dachau (district)">Dachau</a></li>
+<li><a href="/wiki/Deggendorf_(district)" title="Deggendorf (district)">Deggendorf</a></li>
+<li><a href="/wiki/Dillingen_(district)" title="Dillingen (district)">Dillingen</a></li>
+<li><a href="/wiki/Dingolfing-Landau" title="Dingolfing-Landau">Dingolfing-Landau</a></li>
+<li><a href="/wiki/Donau-Ries" title="Donau-Ries">Donau-Ries</a></li>
+<li><a href="/wiki/Ebersberg_(district)" title="Ebersberg (district)">Ebersberg</a></li>
+<li><a href="/wiki/Eichst%C3%A4tt_(district)" title="Eichstätt (district)">Eichstätt</a></li>
+<li><a href="/wiki/Erding_(district)" title="Erding (district)">Erding</a></li>
+<li><a href="/wiki/Erlangen-H%C3%B6chstadt" title="Erlangen-Höchstadt">Erlangen-Höchstadt</a></li>
+<li><a href="/wiki/Forchheim_(district)" title="Forchheim (district)">Forchheim</a></li>
+<li><a href="/wiki/Freising_(district)" title="Freising (district)">Freising</a></li>
+<li><a href="/wiki/Freyung-Grafenau" title="Freyung-Grafenau">Freyung-Grafenau</a></li>
+<li><a href="/wiki/F%C3%BCrstenfeldbruck_(district)" title="Fürstenfeldbruck (district)">Fürstenfeldbruck</a></li>
+<li><a href="/wiki/F%C3%BCrth_(district)" title="Fürth (district)">Fürth</a></li>
+<li><a href="/wiki/Garmisch-Partenkirchen_(district)" title="Garmisch-Partenkirchen (district)">Garmisch-Partenkirchen</a></li>
+<li><a href="/wiki/G%C3%BCnzburg_(district)" title="Günzburg (district)">Günzburg</a></li>
+<li><a href="/wiki/Ha%C3%9Fberge_(district)" title="Haßberge (district)">Haßberge</a></li>
+<li><a href="/wiki/Hof_(district)" title="Hof (district)">Hof</a></li>
+<li><a href="/wiki/Kelheim_(district)" title="Kelheim (district)">Kelheim</a></li>
+<li><a href="/wiki/Kitzingen_(district)" title="Kitzingen (district)">Kitzingen</a></li>
+<li><a href="/wiki/Kronach_(district)" title="Kronach (district)">Kronach</a></li>
+<li><a href="/wiki/Kulmbach_(district)" title="Kulmbach (district)">Kulmbach</a></li>
+<li><a href="/wiki/Landsberg_(district)" title="Landsberg (district)">Landsberg</a></li>
+<li><a href="/wiki/Landshut_(district)" title="Landshut (district)">Landshut</a></li>
+<li><a href="/wiki/Lichtenfels_(district)" title="Lichtenfels (district)">Lichtenfels</a></li>
+<li><a href="/wiki/Lindau_(district)" title="Lindau (district)">Lindau</a></li>
+<li><a href="/wiki/Main-Spessart" title="Main-Spessart">Main-Spessart</a></li>
+<li><a href="/wiki/Miesbach_(district)" title="Miesbach (district)">Miesbach</a></li>
+<li><a href="/wiki/Miltenberg_(district)" title="Miltenberg (district)">Miltenberg</a></li>
+<li><a href="/wiki/M%C3%BChldorf_(district)" title="Mühldorf (district)">Mühldorf</a></li>
+<li><a href="/wiki/Munich_(district)" title="Munich (district)">München (<i>Munich</i>)</a></li>
+<li><a href="/wiki/Neuburg-Schrobenhausen" title="Neuburg-Schrobenhausen">Neuburg-Schrobenhausen</a></li>
+<li><a href="/wiki/Neumarkt_(district)" title="Neumarkt (district)">Neumarkt</a></li>
+<li><a href="/wiki/Neustadt_(Aisch)-Bad_Windsheim" title="Neustadt (Aisch)-Bad Windsheim">Neustadt (Aisch)-Bad Windsheim</a></li>
+<li><a href="/wiki/Neustadt_an_der_Waldnaab_(district)" title="Neustadt an der Waldnaab (district)">Neustadt an der Waldnaab</a></li>
+<li><a href="/wiki/Neu-Ulm_(district)" title="Neu-Ulm (district)">Neu-Ulm</a></li>
+<li><a href="/wiki/N%C3%BCrnberger_Land" title="Nürnberger Land">Nürnberger Land</a></li>
+<li><a href="/wiki/Oberallg%C3%A4u" title="Oberallgäu">Oberallgäu</a></li>
+<li><a href="/wiki/Ostallg%C3%A4u" title="Ostallgäu">Ostallgäu</a></li>
+<li><a href="/wiki/Passau_(district)" title="Passau (district)">Passau</a></li>
+<li><a href="/wiki/Pfaffenhofen_(district)" title="Pfaffenhofen (district)">Pfaffenhofen</a></li>
+<li><a href="/wiki/Regen_(district)" title="Regen (district)">Regen</a></li>
+<li><a href="/wiki/Regensburg_(district)" title="Regensburg (district)">Regensburg</a></li>
+<li><a href="/wiki/Rh%C3%B6n-Grabfeld" title="Rhön-Grabfeld">Rhön-Grabfeld</a></li>
+<li><a href="/wiki/Rosenheim_(district)" title="Rosenheim (district)">Rosenheim</a></li>
+<li><a href="/wiki/Roth_(district)" title="Roth (district)">Roth</a></li>
+<li><a href="/wiki/Rottal-Inn" title="Rottal-Inn">Rottal-Inn</a></li>
+<li><a href="/wiki/Schwandorf_(district)" title="Schwandorf (district)">Schwandorf</a></li>
+<li><a href="/wiki/Schweinfurt_(district)" title="Schweinfurt (district)">Schweinfurt</a></li>
+<li><a href="/wiki/Starnberg_(district)" title="Starnberg (district)">Starnberg</a></li>
+<li><a href="/wiki/Straubing-Bogen" title="Straubing-Bogen">Straubing-Bogen</a></li>
+<li><a href="/wiki/Tirschenreuth_(district)" title="Tirschenreuth (district)">Tirschenreuth</a></li>
+<li><a href="/wiki/Traunstein_(district)" title="Traunstein (district)">Traunstein</a></li>
+<li><a href="/wiki/Unterallg%C3%A4u" title="Unterallgäu">Unterallgäu</a></li>
+<li><a href="/wiki/Weilheim-Schongau" title="Weilheim-Schongau">Weilheim-Schongau</a></li>
+<li><a href="/wiki/Wei%C3%9Fenburg-Gunzenhausen" title="Weißenburg-Gunzenhausen">Weißenburg-Gunzenhausen</a></li>
+<li><a href="/wiki/Wunsiedel_(district)" title="Wunsiedel (district)">Wunsiedel</a></li>
+<li><a href="/wiki/W%C3%BCrzburg_(district)" title="Würzburg (district)">Würzburg</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/297813499">WorldCat Identities</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/297813499">297813499</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/4034367-4">4034367-4</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb119617488">cb119617488</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb119617488">(data)</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1186
+Cached time: 20171017161107
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.556 seconds
+Real time usage: 0.751 seconds
+Preprocessor visited node count: 8723/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 73023/2097152 bytes
+Template argument size: 18148/2097152 bytes
+Highest expansion depth: 26/40
+Expensive parser function count: 9/500
+Lua time usage: 0.170/10.000 seconds
+Lua memory usage: 5.35 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  645.070      1 -total
+ 60.35%  389.313      1 Template:Infobox_German_location
+ 57.03%  367.900      1 Template:Infobox_settlement
+ 49.56%  319.712      1 Template:Infobox
+ 21.70%  140.001      7 Template:Population_Germany
+ 18.11%  116.825      7 Template:Metadata_Population_DE-BY
+  6.83%   44.081      8 Template:Both
+  6.64%   42.806      1 Template:Cite_web
+  6.44%   41.543      1 Template:Coord
+  4.43%   28.553      2 Template:Language_with_name
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:347747-0!canonical and timestamp 20171017161106 and revision id 803313580
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Landshut&amp;oldid=803313580">https://en.wikipedia.org/w/index.php?title=Landshut&amp;oldid=803313580</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Towns_in_Bavaria" title="Category:Towns in Bavaria">Towns in Bavaria</a></li><li><a href="/wiki/Category:Landshut" title="Category:Landshut">Landshut</a></li><li><a href="/wiki/Category:1204_establishments_in_Germany" title="Category:1204 establishments in Germany">1204 establishments in Germany</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_German-language_sources_(de)" title="Category:CS1 German-language sources (de)">CS1 German-language sources (de)</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Articles_containing_Bavarian-language_text" title="Category:Articles containing Bavarian-language text">Articles containing Bavarian-language text</a></li><li><a href="/wiki/Category:Articles_containing_German-language_text" title="Category:Articles containing German-language text">Articles containing German-language text</a></li><li><a href="/wiki/Category:Wikipedia_articles_incorporating_a_citation_from_the_1911_Encyclopaedia_Britannica_with_Wikisource_reference" title="Category:Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference">Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference</a></li><li><a href="/wiki/Category:Articles_with_German-language_external_links" title="Category:Articles with German-language external links">Articles with German-language external links</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Landshut" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Landshut" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Landshut" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Landshut" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Landshut">Read</a></span></li>
+							<li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Landshut&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Landshut&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Landshut" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Landshut" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Landshut&amp;oldid=803313580" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Landshut&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3974" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Landshut&amp;id=803313580" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Landshut">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Landshut&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Landshut&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Landshut" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikivoyage badge-Q17559452 badge-recommendedarticle" title="recommended article"><a href="https://en.wikivoyage.org/wiki/Landshut" hreflang="en">Wikivoyage</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%84%D8%A7%D9%86%D8%AF%D8%B3%D9%87%D9%88%D8%AA" title="لاندسهوت – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-an"><a href="https://an.wikipedia.org/wiki/Landshut" title="Landshut – Aragonese" lang="an" hreflang="an" class="interlanguage-link-target">Aragonés</a></li><li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D9%84%D8%A7%D9%86%D8%AF%D8%B3%D9%87%D9%88%D8%AA" title="لاندسهوت – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%9B%D0%B0%D0%BD%D0%B4%D1%81%D0%B3%D1%83%D1%82" title="Ландсгут – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9B%D0%B0%D0%BD%D0%B4%D1%81%D1%85%D1%83%D1%82" title="Ландсхут – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bar"><a href="https://bar.wikipedia.org/wiki/Landsad" title="Landsad – Bavarian" lang="bar" hreflang="bar" class="interlanguage-link-target">Boarisch</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Landshut" title="Landshut – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Landshut" title="Landshut – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Landshut" title="Landshut – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cv"><a href="https://cv.wikipedia.org/wiki/%D0%9B%D0%B0%D0%BD%D0%B4%D1%81%D1%85%D1%83%D1%82" title="Ландсхут – Chuvash" lang="cv" hreflang="cv" class="interlanguage-link-target">Чӑвашла</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Landshut_(kapital_sa_distrito_nga_gobyerno)" title="Landshut (kapital sa distrito nga gobyerno) – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Landshut" title="Landshut – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Landshut" title="Landshut – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de badge-Q17437798 badge-goodarticle" title="good article"><a href="https://de.wikipedia.org/wiki/Landshut" title="Landshut – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Landshut" title="Landshut – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%9B%CE%AC%CE%BD%CF%84%CF%83%CF%87%CE%BF%CF%85%CF%84" title="Λάντσχουτ – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Landshut" title="Landshut – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Landshut" title="Landshut – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Landshut" title="Landshut – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%84%D8%A7%D9%86%D8%AF%D8%B3%D9%87%D9%88%D8%AA" title="لاندسهوت – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Landshut" title="Landshut – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-hak"><a href="https://hak.wikipedia.org/wiki/Landshut" title="Landshut – Hakka Chinese" lang="hak" hreflang="hak" class="interlanguage-link-target">客家語/Hak-kâ-ngî</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%9E%80%EC%B8%A0%ED%9B%84%ED%8A%B8" title="란츠후트 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%BC%D5%A1%D5%B6%D5%A4%D5%BD%D5%B0%D5%B8%D6%82%D5%BF" title="Լանդսհուտ – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Landshut" title="Landshut – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ie"><a href="https://ie.wikipedia.org/wiki/Landshut" title="Landshut – Interlingue" lang="ie" hreflang="ie" class="interlanguage-link-target">Interlingue</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Landshut" title="Landshut – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%9A%E1%83%90%E1%83%9C%E1%83%93%E1%83%A1%E1%83%B0%E1%83%A3%E1%83%A2%E1%83%98" title="ლანდსჰუტი – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/%D0%9B%D0%B0%D0%BD%D0%B4%D1%81%D1%85%D1%83%D1%82" title="Ландсхут – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Landishuta" title="Landishuta – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Landshutas" title="Landshutas – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-lmo"><a href="https://lmo.wikipedia.org/wiki/Landshut" title="Landshut – Lombard" lang="lmo" hreflang="lmo" class="interlanguage-link-target">Lumbaart</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Landshut_(Bajororsz%C3%A1g)" title="Landshut (Bajorország) – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Landshut" title="Landshut – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Landshut_(stad)" title="Landshut (stad) – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%B3%E3%83%84%E3%83%95%E3%83%BC%E3%83%88" title="ランツフート – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Landshut" title="Landshut – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Landshut" title="Landshut – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Landshut" title="Landshut – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Landshut" title="Landshut – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Landshut" title="Landshut – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Landshut" title="Landshut – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D0%BD%D0%B4%D1%81%D1%85%D1%83%D1%82" title="Ландсхут – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Landshut" title="Landshut – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Landshut" title="Landshut – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Landshut" title="Landshut – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Landshut" title="Landshut – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-szl"><a href="https://szl.wikipedia.org/wiki/Landshut" title="Landshut – Silesian" lang="szl" hreflang="szl" class="interlanguage-link-target">Ślůnski</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%9B%D0%B0%D0%BD%D0%B4%D1%81%D1%85%D1%83%D1%82" title="Ландсхут – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Landshut" title="Landshut – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Landshut" title="Landshut – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Landshut" title="Landshut – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%9B%D0%B0%D0%BD%D0%B4%D1%81%D2%BB%D1%83%D1%82" title="Ландсһут – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%A5%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B9%8C%E0%B8%AA%E0%B8%AE%E0%B8%B9%E0%B8%97" title="ลันด์สฮูท – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Landshut" title="Landshut – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9B%D0%B0%D0%BD%D0%B4%D1%81%D0%B3%D1%83%D1%82" title="Ландсгут – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vec"><a href="https://vec.wikipedia.org/wiki/Landshut" title="Landshut – Venetian" lang="vec" hreflang="vec" class="interlanguage-link-target">Vèneto</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Landshut" title="Landshut – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/Landshut" title="Landshut – Volapük" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Landshut" title="Landshut – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%85%B0%E8%8C%A8%E8%83%A1%E7%89%B9" title="兰茨胡特 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3974#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 1 October 2017, at 19:16.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Landshut&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.556","walltime":"0.751","ppvisitednodes":{"value":8723,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":73023,"limit":2097152},"templateargumentsize":{"value":18148,"limit":2097152},"expansiondepth":{"value":26,"limit":40},"expensivefunctioncount":{"value":9,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  645.070      1 -total"," 60.35%  389.313      1 Template:Infobox_German_location"," 57.03%  367.900      1 Template:Infobox_settlement"," 49.56%  319.712      1 Template:Infobox"," 21.70%  140.001      7 Template:Population_Germany"," 18.11%  116.825      7 Template:Metadata_Population_DE-BY","  6.83%   44.081      8 Template:Both","  6.64%   42.806      1 Template:Cite_web","  6.44%   41.543      1 Template:Coord","  4.43%   28.553      2 Template:Language_with_name"]},"scribunto":{"limitreport-timeusage":{"value":"0.170","limit":"10.000"},"limitreport-memusage":{"value":5613874,"limit":52428800}},"cachereport":{"origin":"mw1186","timestamp":"20171017161107","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":95,"wgHostname":"mw1326"});});</script>
+	</body>
+</html>

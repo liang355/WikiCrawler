@@ -1,0 +1,1158 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Harvard College - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Harvard_College","wgTitle":"Harvard College","wgCurRevisionId":802584061,"wgRevisionId":802584061,"wgArticleId":260879,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Extra text: editors list","Wikipedia introduction cleanup from April 2017","All pages needing cleanup","Articles covered by WikiProject Wikify from April 2017","All articles covered by WikiProject Wikify","Instances of Infobox university using image size","All articles with unsourced statements","Articles with unsourced statements from October 2011","Wikipedia articles needing clarification from October 2015","Wikipedia articles needing clarification from October 2012","Coordinates on Wikidata","Harvard University","1636 establishments in Massachusetts","Educational institutions established in the 1630s","Harvard Square"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Harvard_College","wgRelevantArticleId":260879,"wgRequestId":"WeacpgpAMFUAAGOMPDYAAABJ","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Harvard_House_system","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Harvard_College#House_system","wgCoordinates":{"lat":42.374,"lon":-71.117},"wgWikibaseItemId":"Q49123","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.3"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/0/02/Harvard_shield-College.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Harvard_College#House_system"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Harvard_College&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Harvard_College&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Harvard_College#House_system"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Harvard_College rootpage-Harvard_College vector-experimental-print-styles vector-nav-directionality skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Harvard College</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a href="/w/index.php?title=Harvard_House_system&amp;redirect=no" class="mw-redirect" title="Harvard House system">Harvard House system</a>)</span></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-content ambox-lead_too_short" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Wiki_letter_w.svg" class="image"><img alt="Wiki letter w.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/40px-Wiki_letter_w.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/60px-Wiki_letter_w.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/80px-Wiki_letter_w.svg.png 2x" data-file-width="44" data-file-height="44" /></a></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This article's <b><a href="/wiki/Wikipedia:Manual_of_Style/Lead_section" title="Wikipedia:Manual of Style/Lead section">lead section</a> does not adequately <a href="/wiki/Wikipedia:Summary_style" title="Wikipedia:Summary style">summarize</a> key points of its contents</b>. <span class="hide-when-compact">Please consider expanding the lead to <a href="/wiki/Wikipedia:Manual_of_Style/Lead_section#Provide_an_accessible_overview" title="Wikipedia:Manual of Style/Lead section">provide an accessible overview</a> of all important aspects of the article. Please discuss this issue on the article's <a href="/wiki/Talk:Harvard_College" title="Talk:Harvard College">talk page</a>.</span> <small><i>(April 2017)</i></small></div>
+</td>
+</tr>
+</table>
+<table class="infobox vcard" style="width:22em">
+<caption class="fn org">Harvard College</caption>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Harvard_shield-College.png" class="image"><img alt="Harvard shield-College.png" src="//upload.wikimedia.org/wikipedia/en/thumb/0/02/Harvard_shield-College.png/150px-Harvard_shield-College.png" width="150" height="182" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/02/Harvard_shield-College.png/225px-Harvard_shield-College.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/02/Harvard_shield-College.png/300px-Harvard_shield-College.png 2x" data-file-width="363" data-file-height="440" /></a>
+<div>Coat of arms of the College</div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.65em;">Type</th>
+<td><a href="/wiki/Private_school" title="Private school">Private</a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.65em;">Established</th>
+<td>1636</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.65em;">Location</th>
+<td class="adr"><span class="locality"><a href="/wiki/Cambridge,_Massachusetts" title="Cambridge, Massachusetts">Cambridge</a></span>, <span class="state"><a href="/wiki/Massachusetts" title="Massachusetts">Massachusetts</a></span>, <span class="country-name"><a href="/wiki/United_States" title="United States">United States</a></span></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.65em;">Campus</th>
+<td><a href="/wiki/Urban_area" title="Urban area">Urban</a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.65em;">Website</th>
+<td><a rel="nofollow" class="external text" href="http://college.harvard.edu/">college.harvard.edu</a></td>
+</tr>
+</table>
+<p><b>Harvard College</b> is the undergraduate <a href="/wiki/Liberal_arts_college" title="Liberal arts college">liberal arts college</a> of <a href="/wiki/Harvard_University" title="Harvard University">Harvard University</a>. Founded in 1636 in <a href="/wiki/Cambridge,_Massachusetts" title="Cambridge, Massachusetts">Cambridge, Massachusetts</a>, it is the oldest institution of higher learning in the <a href="/wiki/United_States" title="United States">United States</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> and one of the most prestigious in the world.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<div class="toclimit-3">
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Academics"><span class="tocnumber">2</span> <span class="toctext">Academics</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#House_system"><span class="tocnumber">3</span> <span class="toctext">House system</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Athletics"><span class="tocnumber">4</span> <span class="toctext">Athletics</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Student_organizations"><span class="tocnumber">5</span> <span class="toctext">Student organizations</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Notable_alumni"><span class="tocnumber">6</span> <span class="toctext">Notable alumni</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Fictional_alumni"><span class="tocnumber">7</span> <span class="toctext">Fictional alumni</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Footnotes"><span class="tocnumber">8</span> <span class="toctext">Footnotes</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Further_reading"><span class="tocnumber">10</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#External_links"><span class="tocnumber">11</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+</div>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harvard_College&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/History_of_Harvard_University" title="History of Harvard University">History of Harvard University</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:312px;"><a href="/wiki/File:View_of_the_ancient_buildings_belonging_to_Harvard_College,_Cambridge,_Mass_(NYPL_b12349145-422857).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/View_of_the_ancient_buildings_belonging_to_Harvard_College%2C_Cambridge%2C_Mass_%28NYPL_b12349145-422857%29.jpg/310px-View_of_the_ancient_buildings_belonging_to_Harvard_College%2C_Cambridge%2C_Mass_%28NYPL_b12349145-422857%29.jpg" width="310" height="312" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/View_of_the_ancient_buildings_belonging_to_Harvard_College%2C_Cambridge%2C_Mass_%28NYPL_b12349145-422857%29.jpg/465px-View_of_the_ancient_buildings_belonging_to_Harvard_College%2C_Cambridge%2C_Mass_%28NYPL_b12349145-422857%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/View_of_the_ancient_buildings_belonging_to_Harvard_College%2C_Cambridge%2C_Mass_%28NYPL_b12349145-422857%29.jpg/620px-View_of_the_ancient_buildings_belonging_to_Harvard_College%2C_Cambridge%2C_Mass_%28NYPL_b12349145-422857%29.jpg 2x" data-file-width="3152" data-file-height="3169" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:View_of_the_ancient_buildings_belonging_to_Harvard_College,_Cambridge,_Mass_(NYPL_b12349145-422857).jpg" class="internal" title="Enlarge"></a></div>
+<i>View of the ancient buildings belonging to Harvard College, Cambridge, Mass.</i>, New York Public Library</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:312px;"><a href="/wiki/File:HarvardYard.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/HarvardYard.jpg/310px-HarvardYard.jpg" width="310" height="244" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/HarvardYard.jpg/465px-HarvardYard.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0e/HarvardYard.jpg/620px-HarvardYard.jpg 2x" data-file-width="790" data-file-height="623" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:HarvardYard.jpg" class="internal" title="Enlarge"></a></div>
+View of freshman dormitories in <a href="/wiki/Harvard_Yard" title="Harvard Yard">Harvard Yard</a></div>
+</div>
+</div>
+<p>The school came into existence in 1636 by vote of the <a href="/wiki/Massachusetts_General_Court" title="Massachusetts General Court">Great and General Court</a> (colonial legislature, second oldest in British America) of the <a href="/wiki/Massachusetts_Bay_Colony" title="Massachusetts Bay Colony">Massachusetts Bay Colony</a>—though without a single building, instructor, or student. In 1638, the college became home for North America's first known printing press, carried by the ship <i><a href="/wiki/John_of_London_(ship)" title="John of London (ship)">John of London</a></i>.<sup id="cite_ref-FirstPrintingPress_3-0" class="reference"><a href="#cite_note-FirstPrintingPress-3">[3]</a></sup><sup id="cite_ref-UHullMHSC_4-0" class="reference"><a href="#cite_note-UHullMHSC-4">[4]</a></sup> Three years later, the college was renamed in honor of deceased <a href="/wiki/Charlestown,_Massachusetts" class="mw-redirect" title="Charlestown, Massachusetts">Charlestown</a> minister <a href="/wiki/John_Harvard_(clergyman)" title="John Harvard (clergyman)">John Harvard</a> (1607–1638) who had bequeathed to the school his entire library and half of his monetary estate.</p>
+<p>Harvard's first instructor was schoolmaster <a href="/wiki/Nathaniel_Eaton" title="Nathaniel Eaton">Nathaniel Eaton</a> (1610–1674); in 1639, he also became its first instructor to be dismissed, for overstrict discipline.<sup id="cite_ref-Samuel_Eliot_Morison_1986_5-0" class="reference"><a href="#cite_note-Samuel_Eliot_Morison_1986-5">[5]</a></sup> The school's first students were graduated in 1642. In 1665, <a href="/wiki/Caleb_Cheeshahteaumuck" title="Caleb Cheeshahteaumuck">Caleb Cheeshahteaumuck</a> (c. 1643–1666) "from the <a href="/wiki/Wampanoag" title="Wampanoag">Wampanoag</a> … did graduate from Harvard, the first Indian to do so in the colonial period."<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:152px;"><a href="/wiki/File:HarvardStaughton.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/HarvardStaughton.jpg/150px-HarvardStaughton.jpg" width="150" height="148" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/HarvardStaughton.jpg/225px-HarvardStaughton.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e0/HarvardStaughton.jpg/300px-HarvardStaughton.jpg 2x" data-file-width="1096" data-file-height="1084" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:HarvardStaughton.jpg" class="internal" title="Enlarge"></a></div>
+Lt Gov <a href="/wiki/William_Stoughton_(Massachusetts)" class="mw-redirect" title="William Stoughton (Massachusetts)">William Stoughton</a>, (1631–1701), Colonial Governor: 1694–99, 1700–01; circa 1700 overlooking one of the buildings of Harvard College</div>
+</div>
+</div>
+<p>The <i>colleges</i> of England's <a href="/wiki/Oxford_University" class="mw-redirect" title="Oxford University">Oxford</a> and <a href="/wiki/University_of_Cambridge" title="University of Cambridge">Cambridge</a> Universities are communities within the larger university, each an association of scholars sharing room and board. Harvard's founders may have envisioned it as the first in a series of sibling colleges on the English model which would eventually constitute a university—though no further colleges materialized in colonial times. The <a href="/wiki/Indian_College" title="Indian College">Indian College</a> was active from 1640 to no later than 1693, but it was a minor addition not operated in federation with Harvard according to the English model. Harvard began granting higher degrees in the late eighteenth century, and it was increasingly styled Harvard <i>University</i>, even as Harvard <i>College</i> was increasingly thought of as the university's undergraduate division in particular.<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Cleanup" title="Wikipedia:Cleanup"><span title="Wikipedia:Cleanup">citations needed throughout</span></a></i>]</sup></p>
+<p>Today Harvard College is responsible for undergraduate admissions, advising, housing, student life, and athletics&#160;– generally all undergraduate matters except instruction, which is the purview of Harvard University's <a href="/wiki/Harvard_Faculty_of_Arts_and_Sciences" title="Harvard Faculty of Arts and Sciences">Faculty of Arts and Sciences</a>. The body known as <i><a href="/wiki/President_and_Fellows_of_Harvard_College" title="President and Fellows of Harvard College">The President and Fellows of Harvard College</a></i> retains its traditional name despite having governance of the entire University. <a href="/wiki/Radcliffe_College" title="Radcliffe College">Radcliffe College</a> (established 1879)<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> originally paid Harvard faculty to repeat their lectures for women students. Since the 1970s, Harvard has been responsible for undergraduate governance matters for women; women were still formally admitted to and graduated from Radcliffe until a final merger in 1999.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p>
+<h2><span class="mw-headline" id="Academics">Academics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harvard_College&amp;action=edit&amp;section=2" title="Edit section: Academics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>About 2,000 students are admitted each year, representing between five and ten percent of those applying; of those admitted, approximately three-quarters choose to attend.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> Very few transfers are accepted.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></p>
+<p>Midway through the second year, most undergraduates join one of fifty standard <i>fields of concentration</i> (what most schools call <a href="/wiki/Academic_major" class="mw-redirect" title="Academic major">academic majors</a>); many also declare a <i>secondary field</i> (called <i>minors</i> elsewhere). <i>Joint</i> concentrations (combining the requirements of two standard concentrations) and <i>special</i> concentrations (of the student's own design) are also possible.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (October 2011)">citation needed</span></a></i>]</sup></p>
+<p>Most Harvard College concentrations lead to the <i>Artium Baccalaureus</i> (A.B.), normally completed in four years, though students leaving high school with substantial college-level coursework may finish in three. A smaller number receive the <i>Scientiarum Baccalaureus</i> (S.B.). There are also special degree programs, such as a five-year program leading to both a Harvard undergraduate degree and a Master of Arts from the <a href="/wiki/New_England_Conservatory_of_Music" title="New England Conservatory of Music">New England Conservatory of Music</a>.</p>
+<p>Undergraduates must also fulfill the General Education requirement of coursework in eight designated fields:</p>
+<table>
+<tr>
+<td>
+<ul>
+<li>Aesthetic and Interpretive Understanding</li>
+<li>Culture and Belief</li>
+<li>Empirical and Mathematical Reasoning</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Ethical Reasoning</li>
+<li>Science of Living Systems</li>
+<li>Science of the Physical Universe</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Societies of the World</li>
+<li>United States in the World</li>
+</ul>
+</td>
+</tr>
+</table>
+<p>Each student's exposure (via "Gen Ed") to a range of intellectual areas, while pursuing a chosen concentration in depth, fulfills the injunction of Harvard past-president <a href="/wiki/Abbott_Lawrence_Lowell" title="Abbott Lawrence Lowell">Abbott Lawrence Lowell</a> that liberal education should produce "men who know a little of everything and something well."<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></p>
+<p>In 2012, dozens of students were <a href="/wiki/2012_Harvard_cheating_scandal" title="2012 Harvard cheating scandal">disciplined for cheating</a> on a take-home exam in one course.<sup id="cite_ref-NYTimes1_15-0" class="reference"><a href="#cite_note-NYTimes1-15">[15]</a></sup> The university instituted an <a href="/wiki/Honor_code#Academic_honor_codes" class="mw-redirect" title="Honor code">honor code</a> beginning in the fall of 2015.<sup id="cite_ref-Crimson2_16-0" class="reference"><a href="#cite_note-Crimson2-16">[16]</a></sup><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup></p>
+<p>The total annual cost of attendance, including tuition and <a href="/wiki/Room_and_board" title="Room and board">room and board</a>, for 2015–2016 was $60,659.<sup id="cite_ref-Tuition_18-0" class="reference"><a href="#cite_note-Tuition-18">[18]</a></sup> Under financial aid guidelines adopted in 2012, families with incomes below $65,000 no longer pay anything for their children to attend, including room and board. Families with incomes between $65,000 to $150,000 pay no more than 10% of their annual income.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> In 2009, Harvard offered grants totaling $414 million across all eleven divisions;<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="The text near this tag needs further explanation. (October 2015)">further explanation needed</span></a></i>]</sup> $340 million came from institutional funds, $35 million from federal support, and $39 million from other outside support. Grants total 88% of Harvard's aid for undergraduate students, with aid also provided by loans (8%) and work-study (4%).<sup id="cite_ref-Tuition_18-1" class="reference"><a href="#cite_note-Tuition-18">[18]</a></sup></p>
+<p><span id="house_system"></span></p>
+<h2><span class="mw-headline" id="House_system">House system</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harvard_College&amp;action=edit&amp;section=3" title="Edit section: House system">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a href="/wiki/File:Lowell_House_belltower.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Lowell_House_belltower.JPG/250px-Lowell_House_belltower.JPG" width="250" height="333" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/a/a7/Lowell_House_belltower.JPG 1.5x" data-file-width="360" data-file-height="480" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Lowell_House_belltower.JPG" class="internal" title="Enlarge"></a></div>
+Lowell House in autumn</div>
+</div>
+</div>
+<p>Nearly all undergraduates live on campus, for the first year in dormitories in or near <a href="/wiki/Harvard_Yard" title="Harvard Yard">Harvard Yard</a> (see <a href="/wiki/List_of_Harvard_dormitories" class="mw-redirect" title="List of Harvard dormitories">List of Harvard dormitories</a>) and later in the upperclass <i>Houses</i>—administrative subdivisions of the College as well as living quarters, providing a sense of community in what might otherwise be a socially incohesive and administratively daunting university environment. Each house is presided over by a senior-faculty <i>Faculty Dean,</i> (until 2016 called the house's <i>Master</i>) while its <i><a href="/wiki/Allston_Burr_Resident_Dean" title="Allston Burr Resident Dean">Allston Burr Resident Dean</a></i> (usually a junior faculty member) supervises undergraduates' day-to-day academic and disciplinary well-being. The Faculty Dean and Resident Dean are assisted by other members of the <i><a href="/wiki/Senior_Common_Room" class="mw-redirect" title="Senior Common Room">Senior Common Room</a></i>—select graduate students (called <i>tutors</i>), faculty, and University officials brought into voluntary association with each house. Many tutors reside in the House, as do the Faculty Dean and Resident Dean. (Terms such as tutor, Senior Common Room and <i><a href="/wiki/Junior_Common_Room" class="mw-redirect" title="Junior Common Room">Junior Common Room</a></i>—the House's undergraduate members—reflect a debt to the <a href="/wiki/Residential_colleges" class="mw-redirect" title="Residential colleges">residential college</a> systems at Oxford and Cambridge from which Harvard's system took inspiration.)<sup id="cite_ref-Harvard_College_ResLife_2008_20-0" class="reference"><a href="#cite_note-Harvard_College_ResLife_2008-20">[20]</a></sup></p>
+<p>The Houses were created by President Lowell in the 1930s to combat what he saw as pernicious social stratification engendered by the private, off-campus living arrangements of many undergraduates at that time. Lowell's solution was to provide every man‍—‌Harvard was male-only at the time‍—‌with on-campus accommodations throughout his time at the College; Lowell also saw great benefits flowing from other features of the House system, such as the relaxed discussions (academic or otherwise) which he hoped would take place among undergraduates and members of the Senior Common Room over meals in each House's dining hall.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup></p>
+<p>The way in which students come to live in particular Houses has changed greatly over time. Under the original "draft" system, Masters negotiated privately over the assignment of "rising sophomores" (that is, current freshmen, who will be sophomores in the coming academic year) considered most—or least—promising.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (October 2011)">citation needed</span></a></i>]</sup> From the 1960s to the mid-1990s, each student ranked the Houses according to personal preference, with an impersonal lottery resolving the oversubscription of more popular houses. Today, groups of one to eight freshmen form a block which is then assigned, essentially at random, to an upperclass house.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:412px;"><a href="/wiki/File:River_houses_Harvard_aerial.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/River_houses_Harvard_aerial.JPG/410px-River_houses_Harvard_aerial.JPG" width="410" height="273" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/River_houses_Harvard_aerial.JPG/615px-River_houses_Harvard_aerial.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/64/River_houses_Harvard_aerial.JPG/820px-River_houses_Harvard_aerial.JPG 2x" data-file-width="6000" data-file-height="4000" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:River_houses_Harvard_aerial.JPG" class="internal" title="Enlarge"></a></div>
+The "River" Houses. <a href="/wiki/Harvard_Yard" title="Harvard Yard">Harvard Yard</a> at top center.</div>
+</div>
+</div>
+<p>South of Harvard Yard, near the <a href="/wiki/Charles_River" title="Charles River">Charles River</a>, are the nine <i>River Houses:</i></p>
+<div class="div-col columns column-width" style="-moz-column-width: 10em; -webkit-column-width: 10em; column-width: 10em;">
+<ul>
+<li><a href="/wiki/Adams_House_(Harvard_University)" class="mw-redirect" title="Adams House (Harvard University)">Adams House</a></li>
+<li><a href="/wiki/Dunster_House" title="Dunster House">Dunster House</a></li>
+<li><a href="/wiki/Eliot_House" class="mw-redirect" title="Eliot House">Eliot House</a></li>
+<li><a href="/wiki/Kirkland_House" title="Kirkland House">Kirkland House</a></li>
+<li><a href="/wiki/Leverett_House" title="Leverett House">Leverett House</a></li>
+<li><a href="/wiki/Lowell_House" title="Lowell House">Lowell House</a></li>
+<li><a href="/wiki/Mather_House_(Harvard_University)" class="mw-redirect" title="Mather House (Harvard University)">Mather House</a></li>
+<li><a href="/wiki/Quincy_House_(Harvard)" class="mw-redirect" title="Quincy House (Harvard)">Quincy House</a></li>
+<li><a href="/wiki/Winthrop_House" title="Winthrop House">John Winthrop House</a></li>
+</ul>
+</div>
+<p>The construction of the River houses was financed largely by a 1928 gift from <a href="/wiki/Yale" class="mw-redirect" title="Yale">Yale</a> alumnus <a href="/wiki/Edward_Harkness" title="Edward Harkness">Edward Harkness</a> who, frustrated in his attempts to initiate a similar project at his alma mater, eventually offered 11 million dollars to Harvard.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[a]</a></sup><sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[25]</a></sup> Two of the new houses, Dunster and Lowell, were completed in 1930.<sup id="cite_ref-bethell_22-1" class="reference"><a href="#cite_note-bethell-22">[22]</a></sup></p>
+<p>Construction of the first River houses began in early 1929,<sup id="cite_ref-bethell_22-2" class="reference"><a href="#cite_note-bethell-22">[22]</a></sup> but the land on which they were built had been assembled decades before. After graduating Harvard in 1895, Edward Waldo Forbes (grandson of <a href="/wiki/Ralph_Waldo_Emerson" title="Ralph Waldo Emerson">Ralph Waldo Emerson</a>) found himself inspired by the Oxford and Cambridge systems during two years of study in England; on returning to the United States he set out to acquire such land between Harvard Yard and the Charles River as was not already owned by Harvard or some associated entity. By 1918 that ambition had been largely fulfilled and the assembled land transferred to Harvard.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[26]</a></sup><sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[27]</a></sup></p>
+<p>The three <i>Quad Houses</i> (in the <a href="/wiki/Quadrangle_(Harvard)" title="Quadrangle (Harvard)">Radcliffe Quadrangle</a>) enjoy a residential setting one-half mile (800 m) northwest of Harvard Yard. These were built by <a href="/wiki/Radcliffe_College" title="Radcliffe College">Radcliffe College</a> and housed <a href="/wiki/Radcliffe_College" title="Radcliffe College">Radcliffe College</a> students until the Harvard and Radcliffe residential systems merged in 1977.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[28]</a></sup> They are:</p>
+<div class="div-col columns column-width" style="-moz-column-width: 10em; -webkit-column-width: 10em; column-width: 10em;">
+<ul>
+<li><a href="/wiki/Cabot_House" title="Cabot House">Cabot House</a></li>
+<li><a href="/wiki/Currier_House_(Harvard_College)" title="Currier House (Harvard College)">Currier House</a></li>
+<li><a href="/wiki/Pforzheimer_House" title="Pforzheimer House">Pforzheimer House</a></li>
+</ul>
+</div>
+<p>A thirteenth house, <a href="/wiki/Dudley_House_(Harvard_College)" class="mw-redirect" title="Dudley House (Harvard College)">Dudley House</a>, is nonresidential but fulfills, for some graduate students and the (very few) undergraduates living off campus, the administrative and social functions provided on-campus residents by the other twelve houses.</p>
+<p>Harvard's residential houses are paired with Yale's residential colleges in <a href="/wiki/Harvard-Yale_sister_colleges" class="mw-redirect" title="Harvard-Yale sister colleges">sister relationships</a>.</p>
+<h2><span class="mw-headline" id="Athletics">Athletics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harvard_College&amp;action=edit&amp;section=4" title="Edit section: Athletics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Harvard_Crimson" title="Harvard Crimson">Harvard Crimson</a></div>
+<p>By the late 19th century critics of intercollegiate athletics, including Harvard president <a href="/wiki/Charles_William_Eliot" title="Charles William Eliot">Charles William Eliot</a>, believed that sports competition had become over-commercialized and took students away from their studies, and they called for reform and limitations on all sports. This opposition prompted Harvard's athletic committee to target 'minor' sports—basketball and hockey—for reform and regulation in order to deflect attention from the major sports—football, baseball, track, and crew. The committee made it difficult for the basketball team to operate by denying financial assistance and limiting the number of overnight away games in which the team could participate. Several losing seasons, negative attitudes toward the commercialization of intercollegiate sports, and the need for reform contributed to basketball's demise at Harvard in 1909.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[29]</a></sup></p>
+<p>Today Harvard, one of the eight members of the <a href="/wiki/Ivy_League" title="Ivy League">Ivy League</a>, claims<sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="The text near this tag may need clarification or removal of jargon. (October 2012)">clarification needed</span></a></i>]</sup> to have the largest Division I intercollegiate athletics program, with 41 varsity teams and over 1,500 student-athletes.</p>
+<p>Begun in 1852, the <a href="/wiki/Harvard-Yale_Regatta" class="mw-redirect" title="Harvard-Yale Regatta">Harvard-Yale Regatta</a> is the oldest intercollegiate athletic rivalry in the United States. Better known is the <a href="/wiki/Harvard-Yale_football_games_(The_Game)" class="mw-redirect" title="Harvard-Yale football games (The Game)">annual Harvard-Yale football game</a>—"The Game", to insiders—first played in <a href="/wiki/New_Haven" class="mw-redirect" title="New Haven">New Haven</a>, Connecticut, in 1875, and now played on the Saturday before Thanksgiving, making it one of many significant games played on "Rivalry Day."<sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="The text near this tag may need clarification or removal of jargon. (October 2012)">clarification needed</span></a></i>]</sup></p>
+<h2><span class="mw-headline" id="Student_organizations">Student organizations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harvard_College&amp;action=edit&amp;section=5" title="Edit section: Student organizations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/List_of_Harvard_College_undergraduate_organizations" title="List of Harvard College undergraduate organizations">List of Harvard College undergraduate organizations</a></div>
+<p>Harvard has hundreds of undergraduate organizations.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[30]</a></sup> The <a href="/wiki/Phillips_Brooks_House_Association" title="Phillips Brooks House Association">Phillips Brooks House Association</a> acts as an umbrella service organization.</p>
+<p>In an effort to marginalize organizations that "contribute to a social life and a student culture that for many on our campus is disempowering and exclusionary",<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[31]</a></sup> students entering in the fall of 2017 or later who join unrecognized single-sex organizations (such as single-sex "<a href="/wiki/Final_clubs" class="mw-redirect" title="Final clubs">final clubs</a>", fraternities, and sororities) will be barred from campus leadership positions such as team captaincies, and from receiving recommendation letters from Harvard requisite for certain scholarships and fellowships.<sup id="cite_ref-NYT2016_33-0" class="reference"><a href="#cite_note-NYT2016-33">[32]</a></sup></p>
+<h2><span class="mw-headline" id="Notable_alumni">Notable alumni</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harvard_College&amp;action=edit&amp;section=6" title="Edit section: Notable alumni">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/List_of_Harvard_University_people" title="List of Harvard University people">List of Harvard University people</a></div>
+<div>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+<tr>
+<td style="text-align: left; vertical-align: top;">
+<dl>
+<dt>Architecture</dt>
+</dl>
+<ul>
+<li><a href="/wiki/Buckminster_Fuller" title="Buckminster Fuller">Buckminster Fuller</a> (expelled)</li>
+<li><a href="/wiki/Philip_Johnson" title="Philip Johnson">Philip Johnson</a></li>
+</ul>
+<dl>
+<dt>Art</dt>
+</dl>
+<ul>
+<li><a href="/wiki/Waldo_Peirce" title="Waldo Peirce">Waldo Peirce</a></li>
+<li><a href="/wiki/Ellen_Harvey" title="Ellen Harvey">Ellen Harvey</a></li>
+<li><a href="/wiki/Alex_Kahn" title="Alex Kahn">Alex Kahn</a></li>
+<li><a href="/wiki/Marina_Rosenfeld" title="Marina Rosenfeld">Marina Rosenfeld</a></li>
+</ul>
+<dl>
+<dt>Astronautics</dt>
+</dl>
+<ul>
+<li><a href="/wiki/Stephanie_Wilson" title="Stephanie Wilson">Stephanie Wilson</a></li>
+</ul>
+<dl>
+<dt>Astronomy</dt>
+</dl>
+<ul>
+<li><a href="/wiki/Andrew_Fraknoi" title="Andrew Fraknoi">Andrew Fraknoi</a></li>
+</ul>
+<dl>
+<dt>Athletics</dt>
+</dl>
+<ul>
+<li><a href="/wiki/Craig_Adams_(ice_hockey)" title="Craig Adams (ice hockey)">Craig Adams</a></li>
+<li><a href="/wiki/Matt_Birk" title="Matt Birk">Matt Birk</a></li>
+<li><a href="/wiki/Emily_Cross" title="Emily Cross">Emily Cross</a></li>
+<li><a href="/wiki/Ryan_Fitzpatrick" title="Ryan Fitzpatrick">Ryan Fitzpatrick</a></li>
+<li><a href="/wiki/Bobby_Jones_(golfer)" title="Bobby Jones (golfer)">Bobby Jones</a></li>
+<li><a href="/wiki/Jeremy_Lin" title="Jeremy Lin">Jeremy Lin</a></li>
+<li><a href="/wiki/Esther_Lofgren" title="Esther Lofgren">Esther Lofgren</a></li>
+<li><a href="/wiki/Dominic_Moore" title="Dominic Moore">Dominic Moore</a></li>
+<li><a href="/wiki/Christopher_Nowinski" title="Christopher Nowinski">Christopher Nowinski</a></li>
+<li><a href="/wiki/Ryan_Max_Riley" title="Ryan Max Riley">Ryan Max Riley</a></li>
+<li><a href="/wiki/Paul_Wylie" title="Paul Wylie">Paul Wylie</a></li>
+</ul>
+<dl>
+<dt>Biology</dt>
+</dl>
+<ul>
+<li><a href="/wiki/Harold_M._Weintraub" title="Harold M. Weintraub">Harold M. Weintraub</a></li>
+</ul>
+<dl>
+<dt>Business</dt>
+</dl>
+<ul>
+<li><a href="/wiki/Steve_Ballmer" title="Steve Ballmer">Steve Ballmer</a></li>
+<li><a href="/wiki/Lloyd_Blankfein" title="Lloyd Blankfein">Lloyd Blankfein</a></li>
+<li><a href="/wiki/Jim_Cramer" title="Jim Cramer">Jim Cramer</a></li>
+<li><a href="/wiki/Bill_Gates" title="Bill Gates">Bill Gates</a> (did not graduate)</li>
+<li><a href="/wiki/James_Halperin" class="mw-redirect" title="James Halperin">James Halperin</a> (did not graduate)</li>
+<li><a href="/wiki/Trip_Hawkins" title="Trip Hawkins">Trip Hawkins</a></li>
+<li><a href="/wiki/William_Randolph_Hearst" title="William Randolph Hearst">William Randolph Hearst</a> (<a href="/wiki/Rustication_(academia)" title="Rustication (academia)">rusticated</a>)</li>
+<li><a href="/wiki/Sumner_Redstone" title="Sumner Redstone">Sumner Redstone</a></li>
+<li><a href="/wiki/Mark_Zuckerberg" title="Mark Zuckerberg">Mark Zuckerberg</a> (did not graduate)</li>
+</ul>
+<dl>
+<dt>Economics</dt>
+</dl>
+<ul>
+<li><a href="/wiki/Ben_Bernanke" title="Ben Bernanke">Ben Bernanke</a></li>
+<li><a href="/wiki/Martin_Feldstein" title="Martin Feldstein">Martin Feldstein</a></li>
+<li><a href="/wiki/Jason_Furman" title="Jason Furman">Jason Furman</a></li>
+<li><a href="/wiki/Steven_Levitt" title="Steven Levitt">Steven Levitt</a></li>
+<li><a href="/wiki/Merton_Miller" title="Merton Miller">Merton Miller</a></li>
+<li><a href="/wiki/Eduardo_Saverin" title="Eduardo Saverin">Eduardo Saverin</a></li>
+<li><a href="/wiki/Robert_M._Solow" class="mw-redirect" title="Robert M. Solow">Robert M. Solow</a></li>
+<li><a href="/wiki/James_Tobin" title="James Tobin">James Tobin</a></li>
+</ul>
+<dl>
+<dt>Education</dt>
+</dl>
+<ul>
+<li><a href="/wiki/Prince_Lucien_Campbell" title="Prince Lucien Campbell">Prince Lucien Campbell</a></li>
+<li><a href="/wiki/John_Phillips_(educator)" title="John Phillips (educator)">John Phillips</a></li>
+<li><a href="/wiki/Edwin_H._Baker_Pratt" title="Edwin H. Baker Pratt">Edwin H. Baker Pratt</a></li>
+</ul>
+<dl>
+<dt>Journalism</dt>
+</dl>
+<ul>
+<li><a href="/wiki/Harry_Cross_(sportswriter)" title="Harry Cross (sportswriter)">Harry Cross</a></li>
+<li><a href="/wiki/Nelson_Denis" class="mw-redirect" title="Nelson Denis">Nelson Denis</a></li>
+<li><a href="/wiki/Hendrik_Hertzberg" title="Hendrik Hertzberg">Hendrik Hertzberg</a></li>
+<li><a href="/wiki/Nicholas_D._Kristof" class="mw-redirect" title="Nicholas D. Kristof">Nicholas D. Kristof</a></li>
+<li><a href="/wiki/Anthony_Lewis" title="Anthony Lewis">Anthony Lewis</a></li>
+<li><a href="/wiki/Walter_Lippmann" title="Walter Lippmann">Walter Lippmann</a></li>
+<li><a href="/wiki/Sylvia_Poggioli" title="Sylvia Poggioli">Sylvia Poggioli</a></li>
+</ul>
+<dl>
+<dt>Law</dt>
+</dl>
+<ul>
+<li><a href="/wiki/Harry_Blackmun" title="Harry Blackmun">Harry Blackmun</a></li>
+<li><a href="/wiki/Oliver_Wendell_Holmes,_Jr." class="mw-redirect" title="Oliver Wendell Holmes, Jr.">Oliver Wendell Holmes, Jr.</a></li>
+<li><a href="/wiki/John_Roberts" title="John Roberts">John Roberts</a></li>
+<li><a href="/wiki/David_Souter" title="David Souter">David Souter</a></li>
+</ul>
+<p>(also see <a href="/wiki/Harvard_Law_School#Notable_people" title="Harvard Law School">Harvard Law School, Notable Alumni)</a></p>
+<dl>
+<dt>Literature</dt>
+</dl>
+<ul>
+<li><a href="/wiki/James_Agee" title="James Agee">James Agee</a></li>
+<li><a href="/wiki/William_S._Burroughs" title="William S. Burroughs">William S. Burroughs</a></li>
+<li><a href="/wiki/Michael_Crichton" title="Michael Crichton">Michael Crichton</a></li>
+<li><a href="/wiki/E._E._Cummings" title="E. E. Cummings">E. E. Cummings</a></li>
+<li><a href="/wiki/John_Dos_Passos" title="John Dos Passos">John Dos Passos</a></li>
+<li><a href="/wiki/W._E._B._Du_Bois" title="W. E. B. Du Bois">W. E. B. Du Bois</a></li>
+<li><a href="/wiki/T._S._Eliot" title="T. S. Eliot">T. S. Eliot</a></li>
+<li><a href="/wiki/Jean_Kwok" title="Jean Kwok">Jean Kwok</a></li>
+<li><a href="/wiki/Norman_Mailer" title="Norman Mailer">Norman Mailer</a></li>
+<li><a href="/wiki/Edmund_Pearson" title="Edmund Pearson">Edmund Pearson</a></li>
+<li><a href="/wiki/Max_Perkins" class="mw-redirect" title="Max Perkins">Max Perkins</a></li>
+<li><a href="/wiki/Erich_Segal" title="Erich Segal">Erich Segal</a></li>
+<li><a href="/wiki/Wallace_Stevens" title="Wallace Stevens">Wallace Stevens</a></li>
+<li><a href="/wiki/John_Updike" title="John Updike">John Updike</a></li>
+</ul>
+<dl>
+<dt>Mathematics</dt>
+</dl>
+<ul>
+<li><a href="/wiki/Manjul_Bhargava" title="Manjul Bhargava">Manjul Bhargava</a></li>
+<li><a href="/wiki/Buddy_Fletcher" title="Buddy Fletcher">Buddy Fletcher</a></li>
+<li><a href="/wiki/Theodore_Kaczynski" class="mw-redirect" title="Theodore Kaczynski">Theodore Kaczynski</a></li>
+<li><a href="/wiki/Tom_Lehrer" title="Tom Lehrer">Tom Lehrer</a></li>
+</ul>
+</td>
+<td style="text-align: left; vertical-align: top;">
+<dl>
+<dt>Performing arts – music, theater, and film</dt>
+</dl>
+<ul>
+<li><a href="/wiki/Charlie_Albright" title="Charlie Albright">Charlie Albright</a></li>
+<li><a href="/wiki/Darren_Aronofsky" title="Darren Aronofsky">Darren Aronofsky</a></li>
+<li><a href="/wiki/Paris_Barclay" title="Paris Barclay">Paris Barclay</a></li>
+<li><a href="/wiki/Leonard_Bernstein" title="Leonard Bernstein">Leonard Bernstein</a></li>
+<li><a href="/wiki/Andy_Borowitz" title="Andy Borowitz">Andy Borowitz</a></li>
+<li><a href="/wiki/Amy_Brenneman" title="Amy Brenneman">Amy Brenneman</a></li>
+<li><a href="/wiki/Carter_Burwell" title="Carter Burwell">Carter Burwell</a></li>
+<li><a href="/wiki/Nestor_Carbonell" title="Nestor Carbonell">Nestor Carbonell</a></li>
+<li><a href="/wiki/Rivers_Cuomo" title="Rivers Cuomo">Rivers Cuomo</a></li>
+<li><a href="/wiki/Matt_Damon" title="Matt Damon">Matt Damon</a> (did not graduate)</li>
+<li><a href="/wiki/Nelson_Denis" class="mw-redirect" title="Nelson Denis">Nelson Denis</a></li>
+<li><a href="/wiki/Fred_Gwynne" title="Fred Gwynne">Fred Gwynne</a></li>
+<li><a href="/wiki/Hao_Huang" title="Hao Huang">Hao Huang</a></li>
+<li><a href="/wiki/Rashida_Jones" title="Rashida Jones">Rashida Jones</a></li>
+<li><a href="/wiki/Tommy_Lee_Jones" title="Tommy Lee Jones">Tommy Lee Jones</a></li>
+<li><a href="/wiki/Colin_Jost" title="Colin Jost">Colin Jost</a></li>
+<li><a href="/wiki/Jack_Lemmon" title="Jack Lemmon">Jack Lemmon</a></li>
+<li><a href="/wiki/Ryan_Leslie" title="Ryan Leslie">Ryan Leslie</a></li>
+<li><a href="/wiki/John_Lithgow" title="John Lithgow">John Lithgow</a></li>
+<li><a href="/wiki/Donal_Logue" title="Donal Logue">Donal Logue</a></li>
+<li><a href="/wiki/Yo-Yo_Ma" title="Yo-Yo Ma">Yo-Yo Ma</a></li>
+<li><a href="/wiki/Terrence_Malick" title="Terrence Malick">Terrence Malick</a></li>
+<li><a href="/wiki/Lorenzo_Mariani" title="Lorenzo Mariani">Lorenzo Mariani</a></li>
+<li><a href="/wiki/Tom_Morello" title="Tom Morello">Tom Morello</a></li>
+<li><a href="/wiki/Dean_Norris" title="Dean Norris">Dean Norris</a></li>
+<li><a href="/wiki/Conan_O%27Brien" title="Conan O'Brien">Conan O'Brien</a></li>
+<li><a href="/wiki/Natalie_Portman" title="Natalie Portman">Natalie Portman</a></li>
+<li><a href="/wiki/Joshua_Redman" title="Joshua Redman">Joshua Redman</a></li>
+<li><a href="/wiki/Meredith_Salenger" title="Meredith Salenger">Meredith Salenger</a></li>
+<li><a href="/wiki/Elisabeth_Shue" title="Elisabeth Shue">Elisabeth Shue</a></li>
+<li><a href="/wiki/Whit_Stillman" title="Whit Stillman">Whit Stillman</a></li>
+<li><a href="/wiki/Mira_Sorvino" title="Mira Sorvino">Mira Sorvino</a></li>
+<li><a href="/wiki/Michael_Stern_(conductor)" title="Michael Stern (conductor)">Michael Stern</a></li>
+<li><a href="/wiki/James_Toback" title="James Toback">James Toback</a></li>
+</ul>
+<dl>
+<dt>Philosophy</dt>
+</dl>
+<ul>
+<li><a href="/wiki/Donald_Davidson_(philosopher)" title="Donald Davidson (philosopher)">Donald Davidson</a></li>
+<li><a href="/wiki/Daniel_Dennett" title="Daniel Dennett">Daniel Dennett</a></li>
+<li><a href="/wiki/Ralph_Waldo_Emerson" title="Ralph Waldo Emerson">Ralph Waldo Emerson</a></li>
+<li><a href="/wiki/Charles_Sanders_Peirce" title="Charles Sanders Peirce">Charles Sanders Peirce</a></li>
+<li><a href="/wiki/W.V.O._Quine" class="mw-redirect" title="W.V.O. Quine">W.V.O. Quine</a></li>
+<li><a href="/wiki/George_Santayana" title="George Santayana">George Santayana</a></li>
+<li><a href="/wiki/Henry_David_Thoreau" title="Henry David Thoreau">Henry David Thoreau</a></li>
+</ul>
+<dl>
+<dt>Physics</dt>
+</dl>
+<ul>
+<li><a href="/wiki/Philip_Warren_Anderson" title="Philip Warren Anderson">Philip Warren Anderson</a></li>
+<li><a href="/wiki/Theodore_Hall" title="Theodore Hall">Theodore Hall</a></li>
+<li><a href="/wiki/Thomas_S._Kuhn" class="mw-redirect" title="Thomas S. Kuhn">Thomas S. Kuhn</a><sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[33]</a></sup></li>
+<li><a href="/wiki/J._Robert_Oppenheimer" title="J. Robert Oppenheimer">J. Robert Oppenheimer</a></li>
+<li><a href="/wiki/Neil_deGrasse_Tyson" title="Neil deGrasse Tyson">Neil deGrasse Tyson</a></li>
+</ul>
+<dl>
+<dt>Politics</dt>
+</dl>
+<ul>
+<li><a href="/wiki/John_Adams" title="John Adams">John Adams</a></li>
+<li><a href="/wiki/John_Quincy_Adams" title="John Quincy Adams">John Quincy Adams</a></li>
+<li><a href="/wiki/Samuel_Adams" title="Samuel Adams">Samuel Adams</a></li>
+<li><a href="/wiki/Charlie_Baker_(politician)" class="mw-redirect" title="Charlie Baker (politician)">Charlie Baker</a></li>
+<li><a href="/wiki/Benazir_Bhutto" title="Benazir Bhutto">Benazir Bhutto</a></li>
+<li><a href="/wiki/Sir_George_Downing,_1st_Baronet" title="Sir George Downing, 1st Baronet">Sir George Downing</a></li>
+<li><a href="/wiki/Pedro_Albizu_Campos" title="Pedro Albizu Campos">Pedro Albizu Campos</a></li>
+<li><a href="/wiki/Al_Franken" title="Al Franken">Al Franken</a></li>
+<li><a href="/wiki/Elbridge_Gerry" title="Elbridge Gerry">Elbridge Gerry</a></li>
+<li><a href="/wiki/Al_Gore" title="Al Gore">Al Gore</a></li>
+<li><a href="/wiki/John_Hancock" title="John Hancock">John Hancock</a></li>
+<li><a href="/wiki/Edward_M._Kennedy" class="mw-redirect" title="Edward M. Kennedy">Edward M. Kennedy</a></li>
+<li><a href="/wiki/John_F._Kennedy" title="John F. Kennedy">John F. Kennedy</a></li>
+<li><a href="/wiki/Robert_F._Kennedy" title="Robert F. Kennedy">Robert F. Kennedy</a></li>
+<li><a href="/wiki/Henry_Kissinger" title="Henry Kissinger">Henry Kissinger</a></li>
+<li><a href="/wiki/Matthew_Mayhew" title="Matthew Mayhew">Matthew Mayhew</a></li>
+<li><a href="/wiki/Crown_Princess_Masako" class="mw-redirect" title="Crown Princess Masako">Masako Owada</a></li>
+<li><a href="/wiki/Deval_Patrick" title="Deval Patrick">Deval Patrick</a></li>
+<li><a href="/wiki/Tom_Ridge" title="Tom Ridge">Tom Ridge</a></li>
+<li><a href="/wiki/Franklin_Roosevelt" class="mw-redirect" title="Franklin Roosevelt">Franklin Roosevelt</a></li>
+<li><a href="/wiki/Theodore_Roosevelt" title="Theodore Roosevelt">Theodore Roosevelt</a></li>
+<li><a href="/wiki/Jay_Rockefeller" title="Jay Rockefeller">Jay Rockefeller</a></li>
+<li><a href="/wiki/Chuck_Schumer" title="Chuck Schumer">Chuck Schumer</a></li>
+<li><a href="/wiki/Meshech_Weare" title="Meshech Weare">Meshech Weare</a></li>
+<li><a href="/wiki/John_Weston_(politician)" title="John Weston (politician)">John Weston</a></li>
+</ul>
+<dl>
+<dt>Religion</dt>
+</dl>
+<ul>
+<li><a href="/wiki/Joseph_Stevens_Buckminster" title="Joseph Stevens Buckminster">Joseph Stevens Buckminster</a></li>
+<li><a href="/wiki/Aga_Khan_IV" title="Aga Khan IV">Aga Khan IV</a></li>
+<li><a href="/wiki/Cotton_Mather" title="Cotton Mather">Cotton Mather</a></li>
+<li><a href="/wiki/Increase_Mather" title="Increase Mather">Increase Mather</a></li>
+<li><a href="/wiki/Jonathan_Mayhew" title="Jonathan Mayhew">Jonathan Mayhew</a></li>
+<li><a href="/wiki/Theodore_Parker" title="Theodore Parker">Theodore Parker</a></li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+<h2><span class="mw-headline" id="Fictional_alumni">Fictional alumni</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harvard_College&amp;action=edit&amp;section=7" title="Edit section: Fictional alumni">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/List_of_The_Big_Bang_Theory_characters#Amy" title="List of The Big Bang Theory characters">Amy Farrah Fowler</a> (show: <i><a href="/wiki/The_Big_Bang_Theory" title="The Big Bang Theory">The Big Bang Theory</a></i>)</li>
+<li><a href="/wiki/Ari_Gold_(Entourage)" title="Ari Gold (Entourage)">Ari Gold</a></li>
+<li><a href="/wiki/Charles_Emerson_Winchester_III" class="mw-redirect" title="Charles Emerson Winchester III">Charles Emerson Winchester III</a></li>
+<li><a href="/wiki/List_of_The_Big_Bang_Theory_characters#Emily" title="List of The Big Bang Theory characters">Emily Sweeney</a> (show: <i><a href="/wiki/The_Big_Bang_Theory" title="The Big Bang Theory">The Big Bang Theory</a></i>)</li>
+<li><a href="/wiki/Frasier_Crane_(Frasier)" class="mw-redirect" title="Frasier Crane (Frasier)">Frasier Crane</a></li>
+<li><a href="/wiki/James_%22Toofer%22_Spurlock" class="mw-redirect" title="James &quot;Toofer&quot; Spurlock">James "Toofer" Spurlock</a></li>
+<li><a href="/wiki/Josh_Lyman" title="Josh Lyman">Josh Lyman</a></li>
+<li><a href="/wiki/Love_Story_(1970_film)" title="Love Story (1970 film)">Oliver Barrett IV</a></li>
+<li><a href="/wiki/Method_Man" title="Method Man">Method Man</a> (movie: <i><a href="/wiki/How_High" title="How High">How High</a></i>)</li>
+<li>Montgomery (Monty) Kessler (<a href="/wiki/With_Honors_(film)" title="With Honors (film)"><i>With Honors</i></a>)</li>
+<li><a href="/wiki/Patrick_Bateman" title="Patrick Bateman">Patrick Bateman</a></li>
+<li><a href="/wiki/Quentin_Compson" title="Quentin Compson">Quentin Compson</a> (did not graduate)</li>
+<li><a href="/wiki/Redman_(rapper)" title="Redman (rapper)">Redman</a> (movie: <i><a href="/wiki/How_High" title="How High">How High</a></i>)</li>
+<li><a href="/wiki/Samuel_Parris" title="Samuel Parris">Reverend Samuel Parris</a> as a character in <i><a href="/wiki/The_Crucible" title="The Crucible">The Crucible</a></i></li>
+<li><a href="/wiki/Thurston_Howell,_III" class="mw-redirect" title="Thurston Howell, III">Thurston Howell III</a></li>
+<li><a href="/wiki/Tyrone_Slothrop" class="mw-redirect" title="Tyrone Slothrop">Tyrone Slothrop</a> (novel: <i><a href="/wiki/Gravity%27s_Rainbow" title="Gravity's Rainbow">Gravity's Rainbow</a></i>)</li>
+</ul>
+<h2><span class="mw-headline" id="Footnotes">Footnotes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harvard_College&amp;action=edit&amp;section=8" title="Edit section: Footnotes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: lower-alpha;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><sup id="cite_ref-bethell_22-0" class="reference"><a href="#cite_note-bethell-22">[22]</a></sup><sup id="cite_ref-gifts28-29_23-0" class="reference"><a href="#cite_note-gifts28-29-23">[23]</a></sup> Harkness' gift was anonymous, at least at first. "I have forgotten the gentleman's name," Harvard's President Lowell told the faculty in making the initial announcement. "I told him I would."<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harvard_College&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation book">Rudolph, Frederick (1961). <i>The American College and University</i>. University of Georgia Press. p.&#160;3. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-8203-1285-1" title="Special:BookSources/0-8203-1285-1">0-8203-1285-1</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+College&amp;rft.aufirst=Frederick&amp;rft.aulast=Rudolph&amp;rft.btitle=The+American+College+and+University&amp;rft.date=1961&amp;rft.genre=book&amp;rft.isbn=0-8203-1285-1&amp;rft.pages=3&amp;rft.pub=University+of+Georgia+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation book">Keller, Morton; Keller, Phyllis (2001). <i>Making Harvard Modern: The Rise of America's University</i>. Oxford University Press. pp.&#160;463–481. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-19-514457-0" title="Special:BookSources/0-19-514457-0">0-19-514457-0</a>. <q>Harvard's professional schools... won world prestige of a sort rarely seen among social institutions. (...) Harvard's age, wealth, quality, and prestige may well shield it from any conceivable vicissitudes.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+College&amp;rft.au=Keller%2C+Phyllis&amp;rft.aufirst=Morton&amp;rft.aulast=Keller&amp;rft.btitle=Making+Harvard+Modern%3A+The+Rise+of+America%27s+University&amp;rft.date=2001&amp;rft.genre=book&amp;rft.isbn=0-19-514457-0&amp;rft.pages=463-481&amp;rft.pub=Oxford+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span><br />
+<cite class="citation book">Spaulding, Christina (1989). "Sexual Shakedown". In Trumpbour, John. <i>How Harvard Rules: Reason in the Service of Empire</i>. South End Press. pp.&#160;326–336. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-89608-284-9" title="Special:BookSources/0-89608-284-9">0-89608-284-9</a>. <q>...[Harvard's] tremendous institutional power and prestige (...) Within the nation's (arguably) most prestigious institution of higher learning...</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+College&amp;rft.atitle=Sexual+Shakedown&amp;rft.aufirst=Christina&amp;rft.aulast=Spaulding&amp;rft.btitle=How+Harvard+Rules%3A+Reason+in+the+Service+of+Empire&amp;rft.date=1989&amp;rft.genre=bookitem&amp;rft.isbn=0-89608-284-9&amp;rft.pages=326-336&amp;rft.pub=South+End+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span><br /></span></li>
+<li id="cite_note-FirstPrintingPress-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-FirstPrintingPress_3-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://news.harvard.edu/gazette/story/2012/03/harvard’s-first-impressions/">"The instrument behind New England’s first literary flowering"</a>. Harvard University<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-01-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+College&amp;rft.btitle=The+instrument+behind+New+England%E2%80%99s+first+literary+flowering&amp;rft.genre=unknown&amp;rft.pub=Harvard+University&amp;rft_id=http%3A%2F%2Fnews.harvard.edu%2Fgazette%2Fstory%2F2012%2F03%2Fharvard%E2%80%99s-first-impressions%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-UHullMHSC-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-UHullMHSC_4-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.hull.ac.uk/mhsc/FarHorizons/Documents/EzekielRogers.pdf">"Rowley and Ezekiel Rogers, The First North American Printing Press"</a> <span style="font-size:85%;">(PDF)</span>. Maritime Historical Studies Centre, University of Hull<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-01-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+College&amp;rft.btitle=Rowley+and+Ezekiel+Rogers%2C+The+First+North+American+Printing+Press&amp;rft.genre=unknown&amp;rft.pub=Maritime+Historical+Studies+Centre%2C+University+of+Hull&amp;rft_id=http%3A%2F%2Fwww.hull.ac.uk%2Fmhsc%2FFarHorizons%2FDocuments%2FEzekielRogers.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Samuel_Eliot_Morison_1986-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Samuel_Eliot_Morison_1986_5-0">^</a></b></span> <span class="reference-text">Samuel Eliot Morison, <i>Three Centuries of Harvard, 1636–1936</i> (1986)</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Monaghan, E. J., 2005, p.&#160;55, 59</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation book">Schwager, Sally (2004). "Taking up the Challenge: The Origins of Radcliffe". In Laurel Thatcher Ulrich (ed.). <i>Yards and Gates: Gender in Harvard and Radcliffe History</i>. New York: Palgrave Macmillan. pp.&#160;87–115. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-4039-6098-4" title="Special:BookSources/1-4039-6098-4">1-4039-6098-4</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+College&amp;rft.atitle=Taking+up+the+Challenge%3A+The+Origins+of+Radcliffe&amp;rft.aufirst=Sally&amp;rft.aulast=Schwager&amp;rft.btitle=Yards+and+Gates%3A+Gender+in+Harvard+and+Radcliffe+History&amp;rft.date=2004&amp;rft.genre=bookitem&amp;rft.isbn=1-4039-6098-4&amp;rft.pages=87-115&amp;rft.place=New+York&amp;rft.pub=Palgrave+Macmillan&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Extra text: editors list (<a href="/wiki/Category:CS1_maint:_Extra_text:_editors_list" title="Category:CS1 maint: Extra text: editors list">link</a>)</span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation report"><a rel="nofollow" class="external text" href="http://www.thecrimson.com/article/1999/4/21/radcliffe-enters-historic-merger-with-harvard">Radcliffe Enters Historic Merger With Harvard</a>. <i>The Harvard Crimson</i> (Report)<span class="reference-accessdate">. Retrieved <span class="nowrap">May 6,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+College&amp;rft.btitle=Radcliffe+Enters+Historic+Merger+With+Harvard&amp;rft.genre=report&amp;rft_id=http%3A%2F%2Fwww.thecrimson.com%2Farticle%2F1999%2F4%2F21%2Fradcliffe-enters-historic-merger-with-harvard&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation news">Thompson, Daphne (1 April 2015). <a rel="nofollow" class="external text" href="http://www.thecrimson.com/article/2015/4/1/regular-admissions-class-2019///">"Harvard Accepts Record-Low 5.3 Percent of Applicants to Class of 2019"</a>. <i>The Harvard Crimson</i><span class="reference-accessdate">. Retrieved <span class="nowrap">10 August</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+College&amp;rft.atitle=Harvard+Accepts+Record-Low+5.3+Percent+of+Applicants+to+Class+of+2019&amp;rft.aufirst=Daphne&amp;rft.aulast=Thompson&amp;rft.date=2015-04-01&amp;rft.genre=article&amp;rft.jtitle=The+Harvard+Crimson&amp;rft_id=http%3A%2F%2Fwww.thecrimson.com%2Farticle%2F2015%2F4%2F1%2Fregular-admissions-class-2019%2F%2F%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation news">Jan, Tracy (30 March 2009). <a rel="nofollow" class="external text" href="http://www.boston.com/news/local/breaking_news/2009/03/harvard_admissi.html">"Harvard admission rate dips to 7 percent"</a>. <i>The Boston Globe</i><span class="reference-accessdate">. Retrieved <span class="nowrap">13 April</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+College&amp;rft.atitle=Harvard+admission+rate+dips+to+7+percent&amp;rft.aufirst=Tracy&amp;rft.aulast=Jan&amp;rft.date=2009-03-30&amp;rft.genre=article&amp;rft.jtitle=The+Boston+Globe&amp;rft_id=http%3A%2F%2Fwww.boston.com%2Fnews%2Flocal%2Fbreaking_news%2F2009%2F03%2Fharvard_admissi.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.thecrimson.com/article.aspx?ref=528168">Yield Holds Steady For 2013</a> – Harvard News Office</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.news.harvard.edu/gazette/2008/04.03/99-admissions.html">A record pool leads to a record-low admissions rate</a> – Harvard News Office</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web">Menz, Petey. <a rel="nofollow" class="external text" href="http://www.thecrimson.com/article/2012/6/21/transfer-admissions-one-percent/">"The Real 1%: Harvard Admits 15 Transfer Students"</a>. <i><a href="/wiki/The_Harvard_Crimson" title="The Harvard Crimson">The Harvard Crimson</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">7 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+College&amp;rft.atitle=The+Real+1%25%3A+Harvard+Admits+15+Transfer+Students&amp;rft.aufirst=Petey&amp;rft.aulast=Menz&amp;rft.genre=unknown&amp;rft.jtitle=The+Harvard+Crimson&amp;rft_id=http%3A%2F%2Fwww.thecrimson.com%2Farticle%2F2012%2F6%2F21%2Ftransfer-admissions-one-percent%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation book">Lewis, Harry R. (2007). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=4vnSP2RMjMgC&amp;pg=PA48"><i>Excellence Without a Soul: Does Liberal Education Have a Future?</i></a>. PublicAffairs. p.&#160;48. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-58648-537-5" title="Special:BookSources/978-1-58648-537-5">978-1-58648-537-5</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+College&amp;rft.aufirst=Harry+R.&amp;rft.aulast=Lewis&amp;rft.btitle=Excellence+Without+a+Soul%3A+Does+Liberal+Education+Have+a+Future%3F&amp;rft.date=2007&amp;rft.genre=book&amp;rft.isbn=978-1-58648-537-5&amp;rft.pages=48&amp;rft.pub=PublicAffairs&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D4vnSP2RMjMgC%26pg%3DPA48&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-NYTimes1-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-NYTimes1_15-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Perez-Pena, Richard (February 1, 2013). <a rel="nofollow" class="external text" href="https://www.nytimes.com/2013/02/02/education/harvard-forced-dozens-to-leave-in-cheating-scandal.html">"Students Disciplined in Harvard Scandal"</a>. <i>The New York Times</i><span class="reference-accessdate">. Retrieved <span class="nowrap">September 15,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+College&amp;rft.atitle=Students+Disciplined+in+Harvard+Scandal&amp;rft.aufirst=Richard&amp;rft.aulast=Perez-Pena&amp;rft.date=2013-02-01&amp;rft.genre=article&amp;rft.jtitle=The+New+York+Times&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2013%2F02%2F02%2Feducation%2Fharvard-forced-dozens-to-leave-in-cheating-scandal.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Crimson2-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-Crimson2_16-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Patel, Dev A.; Watros, Steven R. (May 7, 2014). <a rel="nofollow" class="external text" href="http://www.thecrimson.com/article/2014/5/6/faculty-passes-honor-code//">"Faculty Approves College's First Honor Code, Likely Effective Fall 2015"</a>. <i>The Harvard Crimson</i><span class="reference-accessdate">. Retrieved <span class="nowrap">August 10,</span> 2015</span>. <q>"Likely beginning in the fall of 2015, all College students will be required to make a regular affirmation of integrity, the nature and frequency of which will be determined next year"...</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+College&amp;rft.atitle=Faculty+Approves+College%27s+First+Honor+Code%2C+Likely+Effective+Fall+2015&amp;rft.au=Watros%2C+Steven+R.&amp;rft.aufirst=Dev+A.&amp;rft.aulast=Patel&amp;rft.date=2014-05-07&amp;rft.genre=article&amp;rft.jtitle=The+Harvard+Crimson&amp;rft_id=http%3A%2F%2Fwww.thecrimson.com%2Farticle%2F2014%2F5%2F6%2Ffaculty-passes-honor-code%2F%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation news">Harrington, Rebecca (September 14, 2012). <a rel="nofollow" class="external text" href="https://www.nytimes.com/2012/09/15/opinion/the-long-legacy-of-cheating-at-harvard.html">"Song of the Cheaters"</a>. <i>The New York Times</i><span class="reference-accessdate">. Retrieved <span class="nowrap">September 15,</span> 2013</span>. <q>"...an honor code, a system ... Harvard has long resisted</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+College&amp;rft.atitle=Song+of+the+Cheaters&amp;rft.aufirst=Rebecca&amp;rft.aulast=Harrington&amp;rft.date=2012-09-14&amp;rft.genre=article&amp;rft.jtitle=The+New+York+Times&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2012%2F09%2F15%2Fopinion%2Fthe-long-legacy-of-cheating-at-harvard.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Tuition-18"><span class="mw-cite-backlink">^ <a href="#cite_ref-Tuition_18-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Tuition_18-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://college.harvard.edu/financial-aid/how-aid-works/cost-attendance">"Cost of Attendance"</a>. Harvard University<span class="reference-accessdate">. Retrieved <span class="nowrap">August 10,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+College&amp;rft.btitle=Cost+of+Attendance&amp;rft.genre=unknown&amp;rft.pub=Harvard+University&amp;rft_id=https%3A%2F%2Fcollege.harvard.edu%2Ffinancial-aid%2Fhow-aid-works%2Fcost-attendance&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://news.harvard.edu/gazette/story/2011/09/harvard%E2%80%99s-record-166-million-financial-aid-program-will-increase-aid-to-low-income-students-and-provide-a-new-financial-aid-calculator-for-students-and-families/">"Harvard increases financial aid to low-income students"</a>. <i>The Harvard Gazette</i>. September 1, 2011.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+College&amp;rft.atitle=Harvard+increases+financial+aid+to+low-income+students&amp;rft.date=2011-09-01&amp;rft.genre=article&amp;rft.jtitle=The+Harvard+Gazette&amp;rft_id=http%3A%2F%2Fnews.harvard.edu%2Fgazette%2Fstory%2F2011%2F09%2Fharvard%25E2%2580%2599s-record-166-million-financial-aid-program-will-increase-aid-to-low-income-students-and-provide-a-new-financial-aid-calculator-for-students-and-families%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Harvard_College_ResLife_2008-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-Harvard_College_ResLife_2008_20-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Harvard College Office of Residential Life (2008). <a rel="nofollow" class="external text" href="http://www.orl.fas.harvard.edu/icb/icb.do?keyword=k11447&amp;tabgroupid=icb.tabgroup17718">"History of the House System"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2008-04-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+College&amp;rft.au=Harvard+College+Office+of+Residential+Life&amp;rft.btitle=History+of+the+House+System&amp;rft.date=2008&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.orl.fas.harvard.edu%2Ficb%2Ficb.do%3Fkeyword%3Dk11447%26tabgroupid%3Dicb.tabgroup17718&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation book">Morison, Samuel Eliot (1936). <i>Three Centuries of Harvard: 1636–1936</i>. pp.&#160;476–478.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+College&amp;rft.au=Morison%2C+Samuel+Eliot&amp;rft.btitle=Three+Centuries+of+Harvard%3A+1636%26ndash%3B1936&amp;rft.date=1936&amp;rft.genre=book&amp;rft.pages=476-478&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-bethell-22"><span class="mw-cite-backlink">^ <a href="#cite_ref-bethell_22-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-bethell_22-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-bethell_22-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Bethell, John (1998). <i>Harvard Observed: An Illustrated History of the University in the Twentieth Century</i>. Cambridge, Massachusetts: Harvard University Press. pp.&#160;102–103. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-674-37733-2" title="Special:BookSources/978-0-674-37733-2">978-0-674-37733-2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+College&amp;rft.au=Bethell%2C+John&amp;rft.btitle=Harvard+Observed%3A+An+Illustrated+History+of+the+University+in+the+Twentieth+Century&amp;rft.date=1998&amp;rft.genre=book&amp;rft.isbn=978-0-674-37733-2&amp;rft.pages=102-103&amp;rft.place=Cambridge%2C+Massachusetts&amp;rft.pub=Harvard+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-gifts28-29-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-gifts28-29_23-0">^</a></b></span> <span class="reference-text">"Gifts - 1928-1929" (Press release). Harvard University News Office. June 20, 1929. HU 37.5, Harvard University Archives, Cambridge, Mass. "This figure [of gifts and legacies received during the year] includes $5,444,000 received from E. S. Harkness to defray the expenses of constructing the first Harvard houses."</span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation book">John B. Fox, Jr. (2007). <i>The Faculty of Arts and Sciences at Harvard University, 1686–1933</i>. President and Fellows of Harvard College. p.&#160;142.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+College&amp;rft.au=John+B.+Fox%2C+Jr.&amp;rft.btitle=The+Faculty+of+Arts+and+Sciences+at+Harvard+University%2C+1686%E2%80%931933&amp;rft.date=2007&amp;rft.genre=book&amp;rft.pages=142&amp;rft.pub=President+and+Fellows+of+Harvard+College&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation magazine"><a rel="nofollow" class="external text" href="http://harvardmagazine.com/2013/11/harkness-and-history">"Harkness and History"</a>. <i>Harvard Magazine</i>. November 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">11 November</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+College&amp;rft.btitle=Harkness+and+History&amp;rft.date=2013-11&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fharvardmagazine.com%2F2013%2F11%2Fharkness-and-history&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text">Lowe, Charles U. "The Forbes Story of the Harvard Riverside Associates: How Harvard Acquired the Land on which Lowell House was Built," February 20, 2002.<a rel="nofollow" class="external text" href="http://lowell.harvard.edu/house/Forbes/new_forbes.shtml">lowell.harvard.edu</a></span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text">Sacks, Benjamin J. "Harvard's 'Constructed Utopia' and the Culture of Deception: the Expansion toward the Charles River, 1902-1932," <i>The New England Quarterly</i> 84.2 (June 2011): 286–317.<a rel="nofollow" class="external autonumber" href="http://www.mitpressjournals.org/doi/abs/10.1162/TNEQ_a_00090">[1]</a></span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text">Sofen, Adam A. "Radcliffe Enters Historic Merger With Harvard, April 21, 1999.<a rel="nofollow" class="external autonumber" href="http://www.thecrimson.harvard.edu/article/1999/4/21/radcliffe-enters-historic-merger-with-harvard/">[2]</a></span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text">Marc Horger, "A Victim of Reform: Why Basketball Failed at Harvard, 1900-1909," <i>New England Quarterly</i> 2005 78(1): 49-76,</span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://osl.fas.harvard.edu/student-organizations">"Student Organization List"</a>. <i>osl.fas.harvard.edu</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-01-13</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+College&amp;rft.atitle=Student+Organization+List&amp;rft.genre=unknown&amp;rft.jtitle=osl.fas.harvard.edu&amp;rft_id=http%3A%2F%2Fosl.fas.harvard.edu%2Fstudent-organizations&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation web">Khurana, Rakesh. <a rel="nofollow" class="external text" href="http://college.harvard.edu/sites/default/files/presidentfaust5.6.16__0.pdf">"Letter concerning membership in unrecognized single-gender social organizations"</a> <span style="font-size:85%;">(PDF)</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+College&amp;rft.aufirst=Rakesh&amp;rft.aulast=Khurana&amp;rft.btitle=Letter+concerning+membership+in+unrecognized+single-gender+social+organizations&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fcollege.harvard.edu%2Fsites%2Fdefault%2Ffiles%2Fpresidentfaust5.6.16__0.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-NYT2016-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-NYT2016_33-0">^</a></b></span> <span class="reference-text">Stephanie Saul. (2016) <a rel="nofollow" class="external text" href="https://www.nytimes.com/2016/05/07/us/harvard-restrictions-could-reshape-exclusive-student-clubs.html?_r=0">Harvard Restrictions Could Reshape Exclusive Student Clubs</a> The New York Times, May 6, 2016</span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text">Thomas S. Kuhn (2000) The Road since Structure, edited by James Conant and John Haugeland. Chicago: University of Chicago Press</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harvard_College&amp;action=edit&amp;section=10" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Daniel_Gookin" title="Daniel Gookin">Gookin, Daniel</a>, <i>Historical Collections,</i> 53: Railton, "Vineyard's First Harvard Men," 91-112.</li>
+<li><a href="/wiki/Moses_King" title="Moses King">King, Moses</a>, <a rel="nofollow" class="external text" href="https://books.google.com/books?id=xAhwXaU5nwoC&amp;printsec=frontcover"><i>Harvard and its surroundings</i></a>, Cambridge, Massachusetts&#160;: Moses King, 1884</li>
+<li>Monaghan, E. J. (2005). <i>Learning to Read and Write in Colonial America</i> <a href="/wiki/University_of_Massachusetts_Press" title="University of Massachusetts Press">University of Massachusetts Press</a>. Boston: MA</li>
+<li><i><a href="/wiki/John_Langdon_Sibley" title="John Langdon Sibley">Sibley's</a> Harvard Graduates</i></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harvard_College&amp;action=edit&amp;section=11" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Harvard_University" class="extiw" title="commons:Harvard University">Harvard University</a></b></i>.</td>
+</tr>
+</table>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/38px-Wikisource-logo.svg.png" width="38" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/57px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/76px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></td>
+<td class="mbox-text plainlist"><a href="/wiki/Wikisource" title="Wikisource">Wikisource</a> has the text of the <a href="/wiki/Encyclopaedia_Britannica" class="mw-redirect" title="Encyclopaedia Britannica">Encyclopaedia Britannica</a> (9th ed.) article <i><b><a href="https://en.wikisource.org/wiki/Encyclop%C3%A6dia_Britannica,_Ninth_Edition/Harvard_College" class="extiw" title="s:Encyclopædia Britannica, Ninth Edition/Harvard College">Harvard College</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.college.harvard.edu/">Harvard College</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.harvard.edu/">Harvard University</a></li>
+<li><a rel="nofollow" class="external text" href="http://colonialancestors.com/harvard1.htm">List of Harvard BA Graduates Class from 1642 to 1782</a></li>
+<li><a rel="nofollow" class="external text" href="http://surnamesite.com/harvard/harvard.htm">List of Harvard BA Graduates Class from 1783 to 1886</a></li>
+</ul>
+<p><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Harvard_College&amp;params=42.374_N_-71.117_E_scale:10000"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">42°22′26″N</span> <span class="longitude">71°07′01″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">42.374°N 71.117°W</span><span style="display:none">﻿ / <span class="geo">42.374; -71.117</span></span></span></a></span></span></span></p>
+<div role="navigation" class="navbox" aria-labelledby="Harvard_University" style="padding:3px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Harvard" title="Template:Harvard"><abbr title="View this template" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Harvard" title="Template talk:Harvard"><abbr title="Discuss this template" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Harvard&amp;action=edit"><abbr title="Edit this template" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Harvard_University" style="font-size:114%;margin:0 4em"><a href="/wiki/Harvard_University" title="Harvard University"><span style="color:white">Harvard University</span></a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%"></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/History_of_Harvard_University" title="History of Harvard University">History</a></li>
+<li><a href="/wiki/John_Harvard_(clergyman)" title="John Harvard (clergyman)">John Harvard</a>
+<ul>
+<li><a href="/wiki/John_Harvard_(statue)" title="John Harvard (statue)">statue</a></li>
+</ul>
+</li>
+<li><a href="/wiki/President_of_Harvard_University" title="President of Harvard University">President</a> <a href="/wiki/Drew_Gilpin_Faust" title="Drew Gilpin Faust">Drew Gilpin Faust</a></li>
+<li><a href="/wiki/Harvard_Board_of_Overseers" title="Harvard Board of Overseers">Board of Overseers</a></li>
+<li><a href="/wiki/President_and_Fellows_of_Harvard_College" title="President and Fellows of Harvard College">President and Fellows of Harvard College</a></li>
+<li>Provost <a href="/wiki/Alan_M._Garber" class="mw-redirect" title="Alan M. Garber">Alan M. Garber</a></li>
+<li><a href="/wiki/Harvard_Library" title="Harvard Library">The Harvard Library</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="14" style="width:1px;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:John_Harvard_statue.jpg" class="image"><img alt="John Harvard statue.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/John_Harvard_statue.jpg/110px-John_Harvard_statue.jpg" width="110" height="123" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/John_Harvard_statue.jpg/165px-John_Harvard_statue.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/John_Harvard_statue.jpg/220px-John_Harvard_statue.jpg 2x" data-file-width="1622" data-file-height="1809" /></a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Arts and<br />
+Sciences</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%"></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_Faculty_of_Arts_and_Sciences" title="Harvard Faculty of Arts and Sciences">Harvard Faculty of Arts and Sciences</a></li>
+<li>Dean <a href="/wiki/Michael_D._Smith_(computer_scientist)" title="Michael D. Smith (computer scientist)">Michael D. Smith</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">College</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-selflink selflink">Harvard College</a></li>
+<li>Dean <a href="/wiki/Rakesh_Khurana" title="Rakesh Khurana">Rakesh Khurana</a></li>
+<li><a href="/wiki/Radcliffe_College" title="Radcliffe College">Radcliffe College</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/List_of_Harvard_College_freshman_dormitories" title="List of Harvard College freshman dormitories">Freshman dormitories</a></li>
+<li>Upperclass houses
+<ul>
+<li><a href="/wiki/Adams_House_(Harvard_University)" class="mw-redirect" title="Adams House (Harvard University)">Adams</a></li>
+<li><a href="/wiki/Cabot_House" title="Cabot House">Cabot</a></li>
+<li><a href="/wiki/Currier_House_(Harvard_College)" title="Currier House (Harvard College)">Currier</a></li>
+<li><a href="/wiki/Dudley_House_(Harvard_College)" class="mw-redirect" title="Dudley House (Harvard College)">Dudley</a></li>
+<li><a href="/wiki/Dunster_House" title="Dunster House">Dunster</a></li>
+<li><a href="/wiki/Eliot_House" class="mw-redirect" title="Eliot House">Eliot</a></li>
+<li><a href="/wiki/Kirkland_House,_Harvard_University" class="mw-redirect" title="Kirkland House, Harvard University">Kirkland</a></li>
+<li><a href="/wiki/Leverett_House" title="Leverett House">Leverett</a></li>
+<li><a href="/wiki/Lowell_House" title="Lowell House">Lowell</a></li>
+<li><a href="/wiki/Mather_House_(Harvard_University)" class="mw-redirect" title="Mather House (Harvard University)">Mather</a></li>
+<li><a href="/wiki/Pforzheimer_House" title="Pforzheimer House">Pforzheimer</a></li>
+<li><a href="/wiki/Quincy_House_(Harvard)" class="mw-redirect" title="Quincy House (Harvard)">Quincy</a></li>
+<li><a href="/wiki/Winthrop_House" title="Winthrop House">Winthrop</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><a href="/wiki/List_of_Harvard_College_undergraduate_organizations" title="List of Harvard College undergraduate organizations">Undergraduate organizations</a></li>
+<li><i><a href="/wiki/The_Harvard_Crimson" title="The Harvard Crimson">The Harvard Crimson</a></i></li>
+<li><i><a href="/wiki/The_Harvard_Lampoon" title="The Harvard Lampoon">The Harvard Lampoon</a></i></li>
+<li><i><a href="/wiki/The_Harvard_Advocate" title="The Harvard Advocate">The Harvard Advocate</a></i></li>
+<li><i><a href="/wiki/The_Harvard_Independent" title="The Harvard Independent">The Harvard Independent</a></i></li>
+</ul>
+<ul>
+<li><b>Athletics</b>: <a href="/wiki/Harvard_Crimson" title="Harvard Crimson">Harvard Crimson</a></li>
+<li><a href="/wiki/Ivy_League" title="Ivy League">Ivy League</a></li>
+<li><a href="/wiki/Harvard_Stadium" title="Harvard Stadium">Harvard Stadium</a></li>
+<li><a href="/wiki/Harvard%E2%80%93Yale_football_rivalry" title="Harvard–Yale football rivalry">Yale football rivalry</a></li>
+<li><a href="/wiki/Lavietes_Pavilion" title="Lavietes Pavilion">Lavietes Pavilion</a></li>
+<li><a href="/wiki/Bright_Hockey_Center" class="mw-redirect" title="Bright Hockey Center">Bright Hockey Center</a></li>
+<li><a href="/wiki/Cornell%E2%80%93Harvard_hockey_rivalry" title="Cornell–Harvard hockey rivalry">Cornell hockey rivalry</a></li>
+<li><a href="/wiki/Beanpot_(ice_hockey)" title="Beanpot (ice hockey)">Beanpot</a></li>
+<li><a href="/wiki/Weld_Boathouse" title="Weld Boathouse">Weld Boathouse</a></li>
+<li><a href="/wiki/Newell_Boathouse_(Harvard_University)" class="mw-redirect" title="Newell Boathouse (Harvard University)">Newall Boathouse</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Continuing<br />
+Education</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_Division_of_Continuing_Education" title="Harvard Division of Continuing Education">Division of Continuing Education</a></li>
+<li>Dean <a href="/wiki/Huntington_D._Lambert" title="Huntington D. Lambert">Huntington D. Lambert</a></li>
+<li><a href="/wiki/Harvard_Extension_School" title="Harvard Extension School">Extension School</a></li>
+<li><a href="/wiki/Harvard_Summer_School" title="Harvard Summer School">Summer School</a></li>
+<li><a href="/wiki/History_of_Harvard_Extension_School" title="History of Harvard Extension School">History of Harvard Extension School</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Eng.<span style="white-space:nowrap"> </span>&amp;<span style="white-space:nowrap"> </span>Appl.<br />
+Sciences</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_John_A._Paulson_School_of_Engineering_and_Applied_Sciences" title="Harvard John A. Paulson School of Engineering and Applied Sciences">Harvard John A. Paulson School of Engineering and Applied Sciences</a></li>
+<li>Dean <a href="/wiki/Francis_J._Doyle_III" title="Francis J. Doyle III">Francis J. Doyle III</a></li>
+<li><a href="/wiki/Lyman_Laboratory_of_Physics" title="Lyman Laboratory of Physics">Lyman Laboratory of Physics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Graduate<br />
+School</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_Graduate_School_of_Arts_and_Sciences" title="Harvard Graduate School of Arts and Sciences">Graduate School of Arts and Sciences</a></li>
+<li>Dean <a href="/wiki/Xiao-Li_Meng" title="Xiao-Li Meng">Xiao-Li Meng</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Libraries</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cabot_Science_Library" title="Cabot Science Library">Cabot</a></li>
+<li><a href="/wiki/Harvard%E2%80%93Yenching_Library" title="Harvard–Yenching Library">Harvard-Yenching</a></li>
+<li><a href="/wiki/Houghton_Library" title="Houghton Library">Houghton</a>
+<ul>
+<li><i><a href="/wiki/Harvard_Review" title="Harvard Review">Harvard Review</a></i></li>
+</ul>
+</li>
+<li><a href="/wiki/Lamont_Library" title="Lamont Library">Lamont</a></li>
+<li><a href="/w/index.php?title=Pusey_Library&amp;action=edit&amp;redlink=1" class="new" title="Pusey Library (page does not exist)">Pusey</a></li>
+<li><a href="/wiki/Widener_Library" title="Widener Library">Widener</a>
+<ul>
+<li><a href="/wiki/Harry_Widener" class="mw-redirect" title="Harry Widener">Harry Widener</a></li>
+<li><a href="/wiki/Eleanor_Elkins_Widener" title="Eleanor Elkins Widener">Eleanor Elkins Widener</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Grossman_Library" title="Grossman Library">Grossman</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%"></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carpenter_Center_for_the_Visual_Arts" title="Carpenter Center for the Visual Arts">Carpenter Center for the Visual Arts</a></li>
+<li><a href="/wiki/Center_for_Hellenic_Studies" title="Center for Hellenic Studies">Center for Hellenic Studies</a></li>
+<li><a href="/w/index.php?title=Charles_Warren_Center_for_Studies_in_American_History&amp;action=edit&amp;redlink=1" class="new" title="Charles Warren Center for Studies in American History (page does not exist)">Charles Warren Center for Studies in American History</a></li>
+<li><a href="/wiki/Collection_of_Historical_Scientific_Instruments" class="mw-redirect" title="Collection of Historical Scientific Instruments">Collection of Historical Scientific Instruments</a></li>
+<li><a href="/wiki/Harvard%E2%80%93Smithsonian_Center_for_Astrophysics" title="Harvard–Smithsonian Center for Astrophysics">Harvard–Smithsonian Center for Astrophysics</a></li>
+<li><a href="/w/index.php?title=Institute_for_Quantitative_Social_Science&amp;action=edit&amp;redlink=1" class="new" title="Institute for Quantitative Social Science (page does not exist)">Institute for Quantitative Social Science</a></li>
+<li><a href="/wiki/Nieman_Foundation_for_Journalism" title="Nieman Foundation for Journalism">Nieman Foundation for Journalism</a></li>
+<li><a href="/wiki/Harvard_Ukrainian_Research_Institute" title="Harvard Ukrainian Research Institute">Ukrainian Research Institute</a></li>
+<li><a href="/wiki/Villa_I_Tatti" title="Villa I Tatti">Villa I Tatti</a></li>
+<li><a href="/wiki/W._E._B._Du_Bois_Institute" title="W. E. B. Du Bois Institute">W. E. B. Du Bois Institute</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Business</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_Business_School" title="Harvard Business School">Harvard Business School</a></li>
+<li>Dean <a href="/wiki/Nitin_Nohria" title="Nitin Nohria">Nitin Nohria</a></li>
+<li><a href="/wiki/Harvard_Business_Publishing" title="Harvard Business Publishing">Harvard Business Publishing</a>
+<ul>
+<li><a href="/wiki/Harvard_Business_Press" class="mw-redirect" title="Harvard Business Press">Harvard Business Press</a></li>
+<li><i><a href="/wiki/Harvard_Business_Review" title="Harvard Business Review">Harvard Business Review</a></i></li>
+</ul>
+</li>
+<li><a href="/wiki/Baker_Library/Bloomberg_Center" title="Baker Library/Bloomberg Center">Baker Library/Bloomberg Center</a></li>
+<li><a href="/wiki/Spangler_Center" title="Spangler Center">Spangler Center</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Design</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_Graduate_School_of_Design" title="Harvard Graduate School of Design">Harvard Graduate School of Design</a></li>
+<li>Dean <a href="/wiki/Mohsen_Mostafavi" title="Mohsen Mostafavi">Mohsen Mostafavi</a></li>
+<li><i><a href="/wiki/Harvard_Design_Magazine" title="Harvard Design Magazine">Harvard Design Magazine</a></i></li>
+<li><a href="/wiki/Joint_Center_for_Housing_Studies" title="Joint Center for Housing Studies">Joint Center for Housing Studies</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Divinity</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_Divinity_School" title="Harvard Divinity School">Harvard Divinity School</a></li>
+<li>Dean <a href="/wiki/David_N._Hempton" title="David N. Hempton">David N. Hempton</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Education</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_Graduate_School_of_Education" title="Harvard Graduate School of Education">Harvard Graduate School of Education</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Government</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/John_F._Kennedy_School_of_Government" title="John F. Kennedy School of Government">John F. Kennedy School of Government</a></li>
+<li>Dean <a href="/wiki/Douglas_Elmendorf" title="Douglas Elmendorf">Douglas Elmendorf</a></li>
+<li><a href="/wiki/Harvard_Institute_of_Politics" title="Harvard Institute of Politics">Institute of Politics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Law</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_Law_School" title="Harvard Law School">Harvard Law School</a></li>
+<li>Dean <a href="/wiki/Martha_Minow" title="Martha Minow">Martha Minow</a></li>
+<li><i><a href="/wiki/Harvard_Law_Review" title="Harvard Law Review">Harvard Law Review</a></i></li>
+<li><i><a href="/wiki/Harvard_Journal_of_Law_%26_Technology" title="Harvard Journal of Law &amp; Technology">Harvard Journal of Law &amp; Technology</a></i></li>
+<li><i><a href="/wiki/Harvard_Law_Record" title="Harvard Law Record">Harvard Law Record</a></i></li>
+<li><i><a href="/wiki/Harvard_International_Law_Journal" title="Harvard International Law Journal">Harvard International Law Journal</a></i></li>
+<li><i><a href="/wiki/Harvard_Civil_Rights-Civil_Liberties_Law_Review" title="Harvard Civil Rights-Civil Liberties Law Review">Harvard Civil Rights-Civil Liberties Law Review</a></i></li>
+<li><i><a href="/wiki/Harvard_Journal_on_Legislation" title="Harvard Journal on Legislation">Harvard Journal on Legislation</a></i></li>
+<li><a href="/wiki/Berkman_Center_for_Internet_%26_Society" class="mw-redirect" title="Berkman Center for Internet &amp; Society">Berkman Center</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Medicine</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%"></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_Medical_School" title="Harvard Medical School">Harvard Medical School</a></li>
+<li>Dean <a href="/wiki/Jeffrey_Scott_Flier" title="Jeffrey Scott Flier">Jeffrey Scott Flier</a></li>
+<li><a href="/wiki/Broad_Institute" title="Broad Institute">Broad Institute</a></li>
+<li><a href="/wiki/Countway_Library_of_Medicine" class="mw-redirect" title="Countway Library of Medicine">Countway Library</a></li>
+<li><a href="/wiki/Center_for_the_History_of_Medicine" class="mw-redirect" title="Center for the History of Medicine">Center for the History of Medicine</a>
+<ul>
+<li><a href="/wiki/Warren_Anatomical_Museum" title="Warren Anatomical Museum">Warren Anatomical Museum</a></li>
+</ul>
+</li>
+<li><a href="/w/index.php?title=Schepens_Eye_Research_Institute&amp;action=edit&amp;redlink=1" class="new" title="Schepens Eye Research Institute (page does not exist)">Schepens Eye Research Institute</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Dentistry</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_School_of_Dental_Medicine" title="Harvard School of Dental Medicine">Harvard School of Dental Medicine</a></li>
+<li>Dean <a href="/w/index.php?title=Bruce_Donoff&amp;action=edit&amp;redlink=1" class="new" title="Bruce Donoff (page does not exist)">Bruce Donoff</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Public health</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_T.H._Chan_School_of_Public_Health" title="Harvard T.H. Chan School of Public Health">Harvard T.H. Chan School of Public Health</a></li>
+<li>Dean <a href="/wiki/Michelle_Ann_Williams" title="Michelle Ann Williams">Michelle Ann Williams</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Museums</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_Art_Museums" title="Harvard Art Museums">Harvard Art Museums</a>
+<ul>
+<li><a href="/wiki/Arthur_M._Sackler_Museum" class="mw-redirect" title="Arthur M. Sackler Museum">Arthur M. Sackler</a></li>
+<li><a href="/wiki/Fogg_Museum" class="mw-redirect" title="Fogg Museum">Fogg Museum</a></li>
+<li><a href="/wiki/Busch%E2%80%93Reisinger_Museum" class="mw-redirect" title="Busch–Reisinger Museum">Busch-Reisinger</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Harvard_Collection_of_Historical_Scientific_Instruments" title="Harvard Collection of Historical Scientific Instruments">Harvard Collection of Historical Scientific Instruments</a></li>
+<li><a href="/wiki/Harvard_Museum_of_Natural_History" title="Harvard Museum of Natural History">Museum of Natural History</a>
+<ul>
+<li><a href="/wiki/Glass_Flowers" title="Glass Flowers">Glass Flowers</a></li>
+<li><a href="/wiki/Harvard_Mineralogical_Museum" title="Harvard Mineralogical Museum">Mineralogical Museum</a></li>
+<li><a href="/wiki/Harvard_University_Herbaria" title="Harvard University Herbaria">Herbaria</a></li>
+<li><a href="/wiki/Museum_of_Comparative_Zoology" title="Museum of Comparative Zoology">Comparative Zoology</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Peabody_Museum_of_Archaeology_and_Ethnology" title="Peabody Museum of Archaeology and Ethnology">Peabody Museum of Archaeology and Ethnology</a></li>
+<li><a href="/wiki/Semitic_Museum" title="Semitic Museum">Semitic Museum</a></li>
+<li><a href="/wiki/General_Artemas_Ward_House" title="General Artemas Ward House">General Artemas Ward House</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Cambridge<br />
+campus</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Memorial_Hall_(Harvard_University)" title="Memorial Hall (Harvard University)">Memorial Hall</a></li>
+<li><a href="/wiki/Harvard_Science_Center" title="Harvard Science Center">Science Center</a></li>
+<li><a href="/wiki/Smith_Campus_Center" title="Smith Campus Center">Smith Campus Center</a></li>
+<li><a href="/wiki/Peabody_Terrace" title="Peabody Terrace">Peabody Terrace</a></li>
+<li><a href="/wiki/Harvard_Graduate_Center" title="Harvard Graduate Center">Harvard Graduate Center</a></li>
+<li><a href="/wiki/Harvard_Hall" title="Harvard Hall">Harvard Hall</a></li>
+<li><a href="/wiki/University_Hall_(Harvard_University)" title="University Hall (Harvard University)">University Hall</a></li>
+<li><a href="/wiki/Memorial_Church_of_Harvard_University" title="Memorial Church of Harvard University">Memorial Church</a>
+<ul>
+<li><a href="/wiki/Harvard_University_Choir" title="Harvard University Choir">Choir</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Harvard_Yard" title="Harvard Yard">Harvard Yard</a></li>
+<li><a href="/wiki/Johnston_Gate" title="Johnston Gate">Johnston Gate</a></li>
+<li><a href="/wiki/Boylston_Hall" title="Boylston Hall">Boylston Hall</a></li>
+<li><a href="/wiki/Massachusetts_Hall_(Harvard_University)" title="Massachusetts Hall (Harvard University)">Massachusetts Hall</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Centers and<br />
+Institutes</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dumbarton_Oaks" title="Dumbarton Oaks">Dumbarton Oaks</a></li>
+<li><a href="/wiki/Harvard_Forest" title="Harvard Forest">Harvard Forest</a></li>
+<li><a href="/wiki/Harvard%E2%80%93MIT_Division_of_Health_Sciences_and_Technology" class="mw-redirect" title="Harvard–MIT Division of Health Sciences and Technology">Health Science and Technology</a></li>
+<li><a href="/wiki/Institute_for_Advanced_Theater_Training" title="Institute for Advanced Theater Training">Institute for Advanced Theater Training</a></li>
+<li><a href="/wiki/Radcliffe_Institute_for_Advanced_Study" title="Radcliffe Institute for Advanced Study">Radcliffe Institute for Advanced Study</a>
+<ul>
+<li><a href="/wiki/Schlesinger_Library" title="Schlesinger Library">Schlesinger Library</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Real_Colegio_Complutense" title="Real Colegio Complutense">Real Colegio Complutense</a></li>
+<li><a href="/wiki/Rowland_Institute_for_Science" title="Rowland Institute for Science">Rowland Institute for Science</a></li>
+<li><a href="/wiki/Wyss_Institute_for_Biologically_Inspired_Engineering" title="Wyss Institute for Biologically Inspired Engineering">Wyss Institute for Biologically Inspired Engineering</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Misc.</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/History_and_traditions_of_Harvard_commencements" title="History and traditions of Harvard commencements">Commencement traditions</a>
+<ul>
+<li><a href="/wiki/Academic_regalia_of_Harvard_University" title="Academic regalia of Harvard University">Academic regalia</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Heraldry_of_Harvard_University" title="Heraldry of Harvard University">Heraldry</a></li>
+<li><a href="/wiki/Harvard_Tercentenary_celebration" title="Harvard Tercentenary celebration">Tercentenary celebration</a></li>
+<li><a href="/wiki/Harvard_University_Professor" title="Harvard University Professor">Harvard University Professor</a></li>
+<li><i><a href="/wiki/Harvard_Magazine" title="Harvard Magazine">Harvard Magazine</a></i></li>
+<li><i><a href="/wiki/Harvard_Gazette" title="Harvard Gazette">Harvard Gazette</a></i></li>
+<li><a href="/wiki/Harvard_University_Press" title="Harvard University Press">Harvard University Press</a></li>
+<li><a href="/wiki/Harvard_Society_of_Fellows" title="Harvard Society of Fellows">Society of Fellows</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1247
+Cached time: 20171016191101
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.456 seconds
+Real time usage: 0.579 seconds
+Preprocessor visited node count: 3401/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 143068/2097152 bytes
+Template argument size: 6703/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 5/500
+Lua time usage: 0.230/10.000 seconds
+Lua memory usage: 5.84 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  470.911      1 -total
+ 26.00%  122.455      2 Template:Reflist
+ 15.06%   70.917      3 Template:Navbox
+ 12.76%   60.076      8 Template:Cite_book
+ 12.23%   57.591      1 Template:Infobox_university
+  9.58%   45.096      1 Template:Infobox
+  9.43%   44.416      1 Template:Harvard
+  9.22%   43.395      1 Template:Lead_too_short
+  8.93%   42.035      4 Template:Fix
+  8.23%   38.766      2 Template:Refn
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:260879-0!canonical and timestamp 20171016191101 and revision id 802584061
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Harvard_College&amp;oldid=802584061#House_system">https://en.wikipedia.org/w/index.php?title=Harvard_College&amp;oldid=802584061#House_system</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Harvard_University" title="Category:Harvard University">Harvard University</a></li><li><a href="/wiki/Category:1636_establishments_in_Massachusetts" title="Category:1636 establishments in Massachusetts">1636 establishments in Massachusetts</a></li><li><a href="/wiki/Category:Educational_institutions_established_in_the_1630s" title="Category:Educational institutions established in the 1630s">Educational institutions established in the 1630s</a></li><li><a href="/wiki/Category:Harvard_Square" title="Category:Harvard Square">Harvard Square</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Extra_text:_editors_list" title="Category:CS1 maint: Extra text: editors list">CS1 maint: Extra text: editors list</a></li><li><a href="/wiki/Category:Wikipedia_introduction_cleanup_from_April_2017" title="Category:Wikipedia introduction cleanup from April 2017">Wikipedia introduction cleanup from April 2017</a></li><li><a href="/wiki/Category:All_pages_needing_cleanup" title="Category:All pages needing cleanup">All pages needing cleanup</a></li><li><a href="/wiki/Category:Articles_covered_by_WikiProject_Wikify_from_April_2017" title="Category:Articles covered by WikiProject Wikify from April 2017">Articles covered by WikiProject Wikify from April 2017</a></li><li><a href="/wiki/Category:All_articles_covered_by_WikiProject_Wikify" title="Category:All articles covered by WikiProject Wikify">All articles covered by WikiProject Wikify</a></li><li><a href="/wiki/Category:Instances_of_Infobox_university_using_image_size" title="Category:Instances of Infobox university using image size">Instances of Infobox university using image size</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_October_2011" title="Category:Articles with unsourced statements from October 2011">Articles with unsourced statements from October 2011</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_October_2015" title="Category:Wikipedia articles needing clarification from October 2015">Wikipedia articles needing clarification from October 2015</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_October_2012" title="Category:Wikipedia articles needing clarification from October 2012">Wikipedia articles needing clarification from October 2012</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Harvard+College" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Harvard+College" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Harvard_College" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Harvard_College" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Harvard_College">Read</a></span></li>
+							<li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Harvard_College&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Harvard_College&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Harvard_College" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Harvard_College" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Harvard_College&amp;oldid=802584061" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Harvard_College&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q49123" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Harvard_College&amp;id=802584061" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Harvard+College">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Harvard+College&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Harvard_College&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Harvard_University" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%83%D9%84%D9%8A%D8%A9_%D9%87%D8%A7%D8%B1%D9%81%D8%A7%D8%B1%D8%AF" title="كلية هارفارد – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D9%87%D8%A7%D8%B1%D9%88%D8%A7%D8%B1%D8%AF_%DA%A9%D8%A7%D9%84%D8%AC%DB%8C" title="هاروارد کالجی – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%93%D0%B0%D1%80%D0%B2%D0%B0%D1%80%D0%B4-%D0%BA%D0%B0%D0%BB%D0%B5%D0%B4%D0%B6" title="Гарвард-каледж – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D9%84%D8%AC_%D9%87%D8%A7%D8%B1%D9%88%D8%A7%D8%B1%D8%AF" title="کالج هاروارد – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Harvard_College" title="Harvard College – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Harvard_F%C5%91iskola" title="Harvard Főiskola – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Harvard_College" title="Harvard College – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D1%80%D0%B2%D0%B0%D1%80%D0%B4-%D0%BA%D0%BE%D0%BB%D0%BB%D0%B5%D0%B4%D0%B6" title="Гарвард-колледж – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%93%D0%B0%D1%80%D0%B2%D0%B0%D1%80%D0%B4%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%BB%D0%B5%D0%B4%D0%B6" title="Гарвардський коледж – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%93%88%E4%BD%9B%E5%AD%B8%E9%99%A2" title="哈佛學院 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q49123#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 27 September 2017, at 03:00.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Harvard_College&amp;mobileaction=toggle_view_mobile#House_system" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.456","walltime":"0.579","ppvisitednodes":{"value":3401,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":143068,"limit":2097152},"templateargumentsize":{"value":6703,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  470.911      1 -total"," 26.00%  122.455      2 Template:Reflist"," 15.06%   70.917      3 Template:Navbox"," 12.76%   60.076      8 Template:Cite_book"," 12.23%   57.591      1 Template:Infobox_university","  9.58%   45.096      1 Template:Infobox","  9.43%   44.416      1 Template:Harvard","  9.22%   43.395      1 Template:Lead_too_short","  8.93%   42.035      4 Template:Fix","  8.23%   38.766      2 Template:Refn"]},"scribunto":{"limitreport-timeusage":{"value":"0.230","limit":"10.000"},"limitreport-memusage":{"value":6122842,"limit":52428800}},"cachereport":{"origin":"mw1247","timestamp":"20171016191101","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":67,"wgHostname":"mw1250"});});</script>
+	</body>
+</html>

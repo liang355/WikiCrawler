@@ -1,0 +1,1781 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Lübeck - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Lübeck","wgTitle":"Lübeck","wgCurRevisionId":805929006,"wgRevisionId":805929006,"wgArticleId":17750,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 German-language sources (de)","CS1 Polish-language sources (pl)","Use dmy dates from July 2014","Coordinates on Wikidata","Pages using deprecated image syntax","Articles with hAudio microformats","All articles with unsourced statements","Articles with unsourced statements from March 2011","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","Cities in Schleswig-Holstein","Lübeck","1143 establishments in the Holy Roman Empire","Populated coastal places in Germany (Baltic Sea)","Members of the Hanseatic League","Landmarks in Germany","Port cities and towns in Germany","Port cities and towns of the Baltic Sea","World Heritage Sites in Germany","University towns in Germany","Hanseatic Cities"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Lübeck","wgRelevantArticleId":17750,"wgRequestId":"Wedt0gpAICkAAKafCToAAABO","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCoordinates":{"lat":53.869722222222,"lon":10.686388888889},"wgWikibaseItemId":"Q2843","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.3"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Holstentor_in_L%C3%BCbeck_2015.jpg/1200px-Holstentor_in_L%C3%BCbeck_2015.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/L%C3%BCbeck"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=L%C3%BCbeck&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=L%C3%BCbeck&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/L%C3%BCbeck"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Lübeck rootpage-Lübeck vector-experimental-print-styles vector-nav-directionality skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Lübeck</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For other uses, see <a href="/wiki/L%C3%BCbeck_(disambiguation)" class="mw-disambig" title="Lübeck (disambiguation)">Lübeck (disambiguation)</a>.</div>
+<table class="infobox geography vcard" style="width:22em;width:23em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap"><span class="fn org"><span class="wrap">Hanseatic City of Lübeck</span></span><br />
+<span class="nickname">Hansestadt Lübeck</span></th>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Holstentor_in_L%C3%BCbeck_2015.jpg" class="image" title="Holstentor, emblem of the city"><img alt="Holstentor, emblem of the city" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Holstentor_in_L%C3%BCbeck_2015.jpg/250px-Holstentor_in_L%C3%BCbeck_2015.jpg" width="250" height="167" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Holstentor_in_L%C3%BCbeck_2015.jpg/375px-Holstentor_in_L%C3%BCbeck_2015.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Holstentor_in_L%C3%BCbeck_2015.jpg/500px-Holstentor_in_L%C3%BCbeck_2015.jpg 2x" data-file-width="10958" data-file-height="7306" /></a>
+<div><a href="/wiki/Holstentor" title="Holstentor">Holstentor</a>, emblem of the city</div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" class="maptable" style="text-align:center">
+<table style="width:100%; background:none;">
+<tr>
+<td style="vertical-align:middle; text-align:center;"><a href="/wiki/File:Flagge_der_Hansestadt_L%C3%BCbeck.svg" class="image" title="Flag of Hanseatic City of Lübeck "><img alt="Flag of Hanseatic City of Lübeck " src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flagge_der_Hansestadt_L%C3%BCbeck.svg/100px-Flagge_der_Hansestadt_L%C3%BCbeck.svg.png" width="100" height="67" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flagge_der_Hansestadt_L%C3%BCbeck.svg/150px-Flagge_der_Hansestadt_L%C3%BCbeck.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flagge_der_Hansestadt_L%C3%BCbeck.svg/200px-Flagge_der_Hansestadt_L%C3%BCbeck.svg.png 2x" data-file-width="512" data-file-height="341" /></a><br />
+<small>Flag</small></td>
+<td style="vertical-align:middle; text-align:center;"><a href="/wiki/File:Wappen_L%C3%BCbeck.svg" class="image" title="Coat of arms of Hanseatic City of Lübeck "><img alt="Coat of arms of Hanseatic City of Lübeck " src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Wappen_L%C3%BCbeck.svg/66px-Wappen_L%C3%BCbeck.svg.png" width="66" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Wappen_L%C3%BCbeck.svg/99px-Wappen_L%C3%BCbeck.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Wappen_L%C3%BCbeck.svg/132px-Wappen_L%C3%BCbeck.svg.png 2x" data-file-width="592" data-file-height="717" /></a><br />
+<small><a href="/wiki/Coat_of_arms_of_L%C3%BCbeck" title="Coat of arms of Lübeck">Coat of arms</a></small></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center">
+<div class="center">
+<div style="width:170px;float:none;clear:both;margin-left:auto;margin-right:auto">
+<div style="width:170px;padding:0">
+<div style="position:relative;width:170px"><a href="/wiki/File:Germany_adm_location_map.svg" class="image" title="Hanseatic City of Lübeck  is located in Germany"><img alt="Hanseatic City of Lübeck  is located in Germany" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/170px-Germany_adm_location_map.svg.png" width="170" height="202" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/255px-Germany_adm_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/340px-Germany_adm_location_map.svg.png 2x" data-file-width="1073" data-file-height="1272" /></a>
+<div style="position:absolute;top:15.573%;left:51.864%">
+<div style="position:absolute;left:-3px;top:-3px;line-height:0"><img alt="Hanseatic City of Lübeck " src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png" title="Hanseatic City of Lübeck " width="6" height="6" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/9px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div>
+<div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:4px;text-align:left"><span style="padding:1px;float:left"><span class="wrap">Hanseatic City of Lübeck</span></span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr class="mergedbottomrow">
+<td colspan="2" style="text-align:center">Coordinates: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=L%C3%BCbeck&amp;params=53_52_11_N_10_41_11_E_type:city(216253)_region:DE-SH"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">53°52′11″N</span> <span class="longitude">10°41′11″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">53.86972°N 10.68639°E</span><span style="display:none">﻿ / <span class="geo">53.86972; 10.68639</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=L%C3%BCbeck&amp;params=53_52_11_N_10_41_11_E_type:city(216253)_region:DE-SH"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">53°52′11″N</span> <span class="longitude">10°41′11″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">53.86972°N 10.68639°E</span><span style="display:none">﻿ / <span class="geo">53.86972; 10.68639</span></span></span></a></span></span></span></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Country</th>
+<td><a href="/wiki/Germany" title="Germany">Germany</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/States_of_Germany" title="States of Germany">State</a></th>
+<td><a href="/wiki/Schleswig-Holstein" title="Schleswig-Holstein">Schleswig-Holstein</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Districts_of_Germany" title="Districts of Germany">District</a></th>
+<td><a href="/wiki/Urban_districts_of_Germany" class="mw-redirect" title="Urban districts of Germany">Urban districts of Germany</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Government</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;<a href="/wiki/Burgomaster" title="Burgomaster">Mayor</a></th>
+<td>Bernd Saxe (<a href="/wiki/Social_Democratic_Party_of_Germany" title="Social Democratic Party of Germany">SPD</a>)</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Governing parties</th>
+<td><a href="/wiki/Christian_Democratic_Union_(Germany)" class="mw-redirect" title="Christian Democratic Union (Germany)">CDU</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Area</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Total</th>
+<td>214.13&#160;km<sup>2</sup> (82.68&#160;sq&#160;mi)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Elevation</th>
+<td>13&#160;m (43&#160;ft)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Population <span style="font-weight:normal">(2015-12-31)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></span></th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Total</th>
+<td>216,253</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Density</th>
+<td>1,000/km<sup>2</sup> (2,600/sq&#160;mi)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/Time_zone" title="Time zone">Time zone</a></th>
+<td><a href="/wiki/Central_European_Time" title="Central European Time">CET</a>/<a href="/wiki/Central_European_Summer_Time" title="Central European Summer Time">CEST</a> (UTC+1/+2)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/List_of_postal_codes_in_Germany" title="List of postal codes in Germany">Postal codes</a></th>
+<td class="adr"><span class="postal-code">23501−23570</span></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/List_of_dialling_codes_in_Germany" title="List of dialling codes in Germany">Dialling codes</a></th>
+<td>0451, 04502</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Vehicle_registration_plate" title="Vehicle registration plate">Vehicle registration</a></th>
+<td>HL <small>(1906–1937; since 1956)</small><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Website</th>
+<td><a rel="nofollow" class="external text" href="http://www.luebeck.de/">www.luebeck.de</a></td>
+</tr>
+</table>
+<table class="infobox vcard" style="width:22em">
+<caption class="category">Hanseatic City of Lübeck</caption>
+<tr>
+<th colspan="2" class="fn org" style="text-align:center;font-size:125%;font-weight:bold;padding:0.2em;background:#ddd;"><a href="/wiki/World_Heritage_Site" title="World Heritage Site">UNESCO World Heritage Site</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;border-top:1px #aaa solid;padding-top:0.4em;"><a href="/wiki/File:Lubeck_panorama.JPG" class="image"><img alt="Lubeck panorama.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lubeck_panorama.JPG/250px-Lubeck_panorama.JPG" width="250" height="188" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lubeck_panorama.JPG/375px-Lubeck_panorama.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lubeck_panorama.JPG/500px-Lubeck_panorama.JPG 2x" data-file-width="2304" data-file-height="1728" /></a>
+<div>Aerial view of the old town</div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background-color: #e7dcc3;"></th>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.3em;"><a href="/wiki/World_Heritage_Site#Selection_criteria" title="World Heritage Site">Criteria</a></th>
+<td class="category">Cultural: iv</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.3em;">Reference</th>
+<td><a rel="nofollow" class="external text" href="http://whc.unesco.org/en/list/272">272</a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.3em;">Inscription</th>
+<td>1987 <small>(11th <a href="/wiki/World_Heritage_Committee" title="World Heritage Committee">Session</a>)</small></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.3em;">Area</th>
+<td class="category">81.1 ha</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.3em;">Buffer zone</th>
+<td class="category">693.8 ha</td>
+</tr>
+</table>
+<p><b>Lübeck</b> (<small>pronounced</small> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA/Standard_German" title="Help:IPA/Standard German">[ˈlyːbɛk]</a></span><small class="nowrap metadata">&#160;(<span class="unicode haudio"><span class="fn"><span style="white-space:nowrap"><a href="/wiki/File:GT_L%C3%BCbeck.ogg" title="About this sound"><img alt="About this sound" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" data-file-width="20" data-file-height="20" /></a>&#160;</span><a href="//upload.wikimedia.org/wikipedia/commons/4/48/GT_L%C3%BCbeck.ogg" class="internal" title="GT Lübeck.ogg">listen</a></span></span>)</small>) is a city in <a href="/wiki/Schleswig-Holstein" title="Schleswig-Holstein">Schleswig-Holstein</a>, <a href="/wiki/Northern_Germany" title="Northern Germany">northern Germany</a>, and one of the major ports of <a href="/wiki/Germany" title="Germany">Germany</a>. On the river <a href="/wiki/Trave" title="Trave">Trave</a>, it was the leading city of the <a href="/wiki/Hanseatic_League" title="Hanseatic League">Hanseatic League</a>, and because of its extensive <a href="/wiki/Brick_Gothic" title="Brick Gothic">Brick Gothic</a> architecture is listed by <a href="/wiki/UNESCO" title="UNESCO">UNESCO</a> as a <a href="/wiki/World_Heritage_Site" title="World Heritage Site">World Heritage Site</a>. In 2015, it had a population of 218,523.</p>
+<p>The old part of Lübeck is on an island enclosed by the Trave. The <a href="/wiki/Elbe%E2%80%93L%C3%BCbeck_Canal" title="Elbe–Lübeck Canal">Elbe–Lübeck Canal</a> connects the Trave with the <a href="/wiki/Elbe" title="Elbe">Elbe</a> River. Another important river near the town centre is the <a href="/wiki/Wakenitz" title="Wakenitz">Wakenitz</a>. <a href="/wiki/Bundesautobahn_1" title="Bundesautobahn 1">Autobahn 1</a> connects Lübeck with <a href="/wiki/Hamburg" title="Hamburg">Hamburg</a> and <a href="/wiki/Denmark" title="Denmark">Denmark</a>. <a href="/wiki/Travem%C3%BCnde" title="Travemünde">Travemünde</a> is a sea resort and ferry port on the coast of the <a href="/wiki/Baltic_Sea" title="Baltic Sea">Baltic Sea</a>. <a href="/wiki/L%C3%BCbeck_Hauptbahnhof" title="Lübeck Hauptbahnhof">Lübeck Hauptbahnhof</a> links Lübeck to a number of railway lines, notably the <a href="/wiki/L%C3%BCbeck%E2%80%93Hamburg_railway" title="Lübeck–Hamburg railway">line to Hamburg</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Hanseatic_city"><span class="tocnumber">1.1</span> <span class="toctext">Hanseatic city</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Old_traditions.2C_new_challenges"><span class="tocnumber">1.2</span> <span class="toctext">Old traditions, new challenges</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Demographics"><span class="tocnumber">2</span> <span class="toctext">Demographics</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Main_sights"><span class="tocnumber">3</span> <span class="toctext">Main sights</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Buildings"><span class="tocnumber">3.1</span> <span class="toctext">Buildings</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Museums"><span class="tocnumber">3.2</span> <span class="toctext">Museums</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Food_and_drink"><span class="tocnumber">4</span> <span class="toctext">Food and drink</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Education"><span class="tocnumber">5</span> <span class="toctext">Education</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Notable_people"><span class="tocnumber">6</span> <span class="toctext">Notable people</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#A.E2.80.93K"><span class="tocnumber">6.1</span> <span class="toctext">A–K</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#L.E2.80.93Z"><span class="tocnumber">6.2</span> <span class="toctext">L–Z</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#Parts"><span class="tocnumber">7</span> <span class="toctext">Parts</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#International_relations"><span class="tocnumber">8</span> <span class="toctext">International relations</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#See_also"><span class="tocnumber">9</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#References"><span class="tocnumber">10</span> <span class="toctext">References</span></a>
+<ul>
+<li class="toclevel-2 tocsection-17"><a href="#Bibliography"><span class="tocnumber">10.1</span> <span class="toctext">Bibliography</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-18"><a href="#External_links"><span class="tocnumber">11</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=L%C3%BCbeck&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main articles: <a href="/wiki/Liubice" title="Liubice">Liubice</a>, <a href="/wiki/Free_City_of_L%C3%BCbeck" title="Free City of Lübeck">Free City of Lübeck</a>, and <a href="/wiki/Timeline_of_L%C3%BCbeck" title="Timeline of Lübeck">Timeline of Lübeck</a></div>
+<p>Humans settled in the area around what today is Lübeck after the <a href="/wiki/Weichselian_glaciation" title="Weichselian glaciation">last Ice Age</a> ended about 9700 BCE. Several <a href="/wiki/Neolithic" title="Neolithic">Neolithic</a> <a href="/wiki/Dolmen" title="Dolmen">dolmens</a> can be found in the area.</p>
+<p>Around AD 700, <a href="/wiki/Slavic_people" class="mw-redirect" title="Slavic people">Slavic peoples</a> started moving into the eastern parts of <a href="/wiki/Holstein" title="Holstein">Holstein</a>, an area previously settled by <a href="/wiki/Germanic_peoples" title="Germanic peoples">Germanic inhabitants</a>; the latter had moved on in the course of the <a href="/wiki/Migration_Period" title="Migration Period">Migration Period</a>. <a href="/wiki/Charlemagne" title="Charlemagne">Charlemagne</a> (Holy Roman Emperor 800–814), whose efforts to <a href="/wiki/Christianisation" class="mw-redirect" title="Christianisation">Christianise</a> the area were opposed by the Germanic <a href="/wiki/Saxons" title="Saxons">Saxons</a>, expelled many of the Saxons and brought in <a href="/wiki/Polabian_Slavs" title="Polabian Slavs">Polabian Slavs</a>, allied to Charlemagne, in their stead. <a href="/wiki/Liubice" title="Liubice">Liubice</a> (the place-name means "lovely") was founded on the banks of the river Trave about four kilometres (2.5 miles) north of the present-day city-centre of Lübeck. In the 10th century it became the most important settlement of the <a href="/wiki/Obotrites" title="Obotrites">Obotrite confederacy</a> and a castle was built. In 1128 the pagan <a href="/wiki/Rani_(Slavic_tribe)" title="Rani (Slavic tribe)">Rani</a> from <a href="/wiki/R%C3%BCgen" title="Rügen">Rügen</a> razed Liubice.</p>
+<p>In 1143 <a href="/wiki/Adolf_II_of_Holstein" title="Adolf II of Holstein">Adolf II</a>, Count of Schauenburg and Holstein, founded the modern town as a German settlement on the river island of <a href="/wiki/Bucu" title="Bucu">Bucu</a>. He built a new castle, first mentioned by the chronicler <a href="/wiki/Helmold" title="Helmold">Helmold</a> as existing in 1147. Adolf had to cede the castle to the Duke of Saxony, <a href="/wiki/Henry_the_Lion" title="Henry the Lion">Henry the Lion</a>, in 1158. After Henry's fall from power in 1181 the town became an <a href="/wiki/Imperial_Free_City" class="mw-redirect" title="Imperial Free City">Imperial city</a> for eight years.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (March 2011)">citation needed</span></a></i>]</sup> Emperor <a href="/wiki/Frederick_I,_Holy_Roman_Emperor" title="Frederick I, Holy Roman Emperor">Barbarossa</a> (reigned 1152–1190) ordained that the city should have a ruling council of twenty members. With the council dominated by merchants, pragmatic trade interests shaped Lübeck's politics for centuries. The council survived into the 19th century. The town and castle changed ownership for a period afterwards and formed part of the <a href="/wiki/Duchy_of_Saxony" title="Duchy of Saxony">Duchy of Saxony</a> until 1192, of the County of <a href="/wiki/Holstein" title="Holstein">Holstein</a> until 1217, and of the kingdom of <a href="/wiki/Denmark" title="Denmark">Denmark</a> until the <a href="/wiki/Battle_of_Bornh%C3%B6ved_(1227)" title="Battle of Bornhöved (1227)">Battle of Bornhöved</a> in 1227.</p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:172px;"><a href="/wiki/File:Stadssigill_foer_staden_Luebeck.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Stadssigill_foer_staden_Luebeck.png/170px-Stadssigill_foer_staden_Luebeck.png" width="170" height="167" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Stadssigill_foer_staden_Luebeck.png/255px-Stadssigill_foer_staden_Luebeck.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Stadssigill_foer_staden_Luebeck.png/340px-Stadssigill_foer_staden_Luebeck.png 2x" data-file-width="593" data-file-height="581" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Stadssigill_foer_staden_Luebeck.png" class="internal" title="Enlarge"></a></div>
+Lübeck's seal, 1280</div>
+</div>
+</div>
+<h3><span class="mw-headline" id="Hanseatic_city">Hanseatic city</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=L%C3%BCbeck&amp;action=edit&amp;section=2" title="Edit section: Hanseatic city">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Around 1200 the port became the main point of departure for colonists leaving for the Baltic territories conquered by the <a href="/wiki/Livonian_Order" title="Livonian Order">Livonian Order</a> and, later, by the <a href="/wiki/Teutonic_Order" title="Teutonic Order">Teutonic Order</a>. In 1226 Emperor <a href="/wiki/Frederick_II,_Holy_Roman_Emperor" title="Frederick II, Holy Roman Emperor">Frederick II</a> elevated the town to the status of an <a href="/wiki/Imperial_Free_City" class="mw-redirect" title="Imperial Free City">Imperial Free City</a>, by which it became the <a href="/wiki/Free_City_of_L%C3%BCbeck" title="Free City of Lübeck">Free City of Lübeck</a>.</p>
+<table class="wikitable float=left">
+<caption>Import/exports by sea: valued in 000s Lübeck marks, 18 Mar 1368–10 Mar 1369</caption>
+<tr>
+<th>Goods</th>
+<th>Principal Origin</th>
+<th>Imports</th>
+<th>Exports</th>
+<th>Total</th>
+</tr>
+<tr>
+<td>Cloth</td>
+<td>Flanders</td>
+<td>120.8</td>
+<td>39.7</td>
+<td>160.5</td>
+</tr>
+<tr>
+<td>Fish</td>
+<td>Scania</td>
+<td>64.7</td>
+<td>6.1</td>
+<td>70.8</td>
+</tr>
+<tr>
+<td>Salt</td>
+<td>Luneburg</td>
+<td>-</td>
+<td>61.6</td>
+<td>61.6</td>
+</tr>
+<tr>
+<td>Butter</td>
+<td>Sweden</td>
+<td>19.2</td>
+<td>6.8</td>
+<td>26</td>
+</tr>
+<tr>
+<td>Skins, furs</td>
+<td>Russia, Sweden</td>
+<td>13.3</td>
+<td>3.7</td>
+<td>17</td>
+</tr>
+<tr>
+<td>Grain</td>
+<td>Prussia</td>
+<td>13</td>
+<td>0.8</td>
+<td>13.8</td>
+</tr>
+<tr>
+<td>Wax</td>
+<td>Russia, Prussia</td>
+<td>7.2</td>
+<td>5.8</td>
+<td>13</td>
+</tr>
+<tr>
+<td>Beer</td>
+<td>Wendish towns</td>
+<td>4.1</td>
+<td>1.9</td>
+<td>6</td>
+</tr>
+<tr>
+<td>Copper</td>
+<td>Sweden, Hungary</td>
+<td>2.2</td>
+<td>2.4</td>
+<td>4.6</td>
+</tr>
+<tr>
+<td>Iron</td>
+<td>Sweden, Hungary</td>
+<td>2.4</td>
+<td>2.2</td>
+<td>4.6</td>
+</tr>
+<tr>
+<td>Oil</td>
+<td>Flanders</td>
+<td>2.7</td>
+<td>1.5</td>
+<td>4.2</td>
+</tr>
+<tr>
+<td>Flax</td>
+<td>Livonia, North Germany</td>
+<td>0.4</td>
+<td>3</td>
+<td>3.4</td>
+</tr>
+<tr>
+<td>Foodstuffs</td>
+<td><i>passim</i></td>
+<td>2.2</td>
+<td>1.2</td>
+<td>3.4</td>
+</tr>
+<tr>
+<td>Silver</td>
+<td>Sweden</td>
+<td>0.7</td>
+<td>2</td>
+<td>2.7</td>
+</tr>
+<tr>
+<td>Wine</td>
+<td>Rhineland</td>
+<td>1.3</td>
+<td>0.9</td>
+<td>2.2</td>
+</tr>
+<tr>
+<td>Various</td>
+<td></td>
+<td>39.9</td>
+<td>16.6</td>
+<td>56.5</td>
+</tr>
+<tr>
+<td>Unclassified</td>
+<td></td>
+<td>41</td>
+<td>49</td>
+<td>90</td>
+</tr>
+<tr>
+<td>Total (rounded)</td>
+<td></td>
+<td>338.9</td>
+<td>206.9</td>
+<td>545.8<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></td>
+</tr>
+</table>
+<p>In the 14th century Lübeck became the "Queen of the <a href="/wiki/Hanseatic_League" title="Hanseatic League">Hanseatic League</a>", being by far the largest and most powerful member of that medieval trade organization. In 1375 Emperor <a href="/wiki/Charles_IV,_Holy_Roman_Emperor" title="Charles IV, Holy Roman Emperor">Charles IV</a> named Lübeck one of the five "Glories of the Empire", a title shared with <a href="/wiki/Venice" title="Venice">Venice</a>, <a href="/wiki/Rome" title="Rome">Rome</a>, <a href="/wiki/Pisa" title="Pisa">Pisa</a> and <a href="/wiki/Florence" title="Florence">Florence</a>.</p>
+<table class="wikitable floatright">
+<caption>Movements of 680 ships entering/leaving port</caption>
+<tr>
+<th>Arrivals</th>
+<th>%</th>
+<th>Origin, destination</th>
+<th>Departures</th>
+<th>%</th>
+</tr>
+<tr>
+<td>289</td>
+<td>33.7</td>
+<td>Mecklenburg-Pomerania</td>
+<td>386</td>
+<td>42.3</td>
+</tr>
+<tr>
+<td>250</td>
+<td>28.8</td>
+<td>Skania</td>
+<td>207</td>
+<td>22.8</td>
+</tr>
+<tr>
+<td>145</td>
+<td>16.8</td>
+<td>Prussia</td>
+<td>183</td>
+<td>20.1</td>
+</tr>
+<tr>
+<td>96</td>
+<td>11.2</td>
+<td>Sweden</td>
+<td>64</td>
+<td>7</td>
+</tr>
+<tr>
+<td>35</td>
+<td>4.3</td>
+<td>Livonia</td>
+<td>43</td>
+<td>4.7</td>
+</tr>
+<tr>
+<td>28</td>
+<td>3.2</td>
+<td>Fehmarn</td>
+<td>27</td>
+<td>3</td>
+</tr>
+<tr>
+<td>12</td>
+<td>1.6</td>
+<td>Bergen</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>3</td>
+<td>0.4</td>
+<td>Flanders</td>
+<td>1</td>
+<td>0.1</td>
+</tr>
+<tr>
+<td>858</td>
+<td>100</td>
+<td></td>
+<td>911</td>
+<td>100<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></td>
+</tr>
+</table>
+<p>Several conflicts about trading privileges resulted in fighting between Lübeck (with the Hanseatic League) and Denmark and Norway – with varying outcome. While Lübeck and the Hanseatic League prevailed in conflicts in 1435 and 1512, Lübeck lost when it became involved in the <a href="/wiki/Count%27s_Feud" title="Count's Feud">Count's Feud</a>, a civil war that raged in Denmark from 1534 to 1536. Lübeck also joined the pro-Lutheran <a href="/wiki/Schmalkaldic_League" title="Schmalkaldic League">Schmalkaldic League</a> of the mid-16th century.</p>
+<table class="wikitable float=right">
+<caption>Exports of butter (tons) and copper (<i>schiffspfund</i>) from Stockholm to Lübeck and Danzig<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></caption>
+<tr>
+<td></td>
+<th colspan="4">Butter</th>
+<th colspan="4">Copper</th>
+</tr>
+<tr>
+<th scope="col">Year</th>
+<th scope="col">Lübeck</th>
+<th scope="col">&#160;%</th>
+<th scope="col">Danzig</th>
+<th scope="col">&#160;%</th>
+<th scope="col">Lübeck</th>
+<th scope="col">&#160;%</th>
+<th scope="col">Danzig</th>
+<th scope="col">&#160;%</th>
+</tr>
+<tr>
+<th><b>1368</b></th>
+<td>2000</td>
+<td></td>
+<td></td>
+<td></td>
+<td>460</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th><b>1369</b></th>
+<td>900</td>
+<td></td>
+<td></td>
+<td></td>
+<td>530</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th><b>1400</b></th>
+<td>247</td>
+<td></td>
+<td></td>
+<td></td>
+<td>45</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th><b>1492</b></th>
+<td>76</td>
+<td></td>
+<td></td>
+<td></td>
+<td>1250</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th><b>1493</b></th>
+<td>-</td>
+<td></td>
+<td></td>
+<td></td>
+<td>2849</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th><b>1494</b></th>
+<td>-</td>
+<td></td>
+<td></td>
+<td></td>
+<td>1906</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th><b>1495</b></th>
+<td>-</td>
+<td></td>
+<td></td>
+<td></td>
+<td>435</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th><b>1559</b></th>
+<td>1254</td>
+<td>89</td>
+<td>150</td>
+<td>11</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th><b>1572</b></th>
+<td>1350</td>
+<td>74</td>
+<td>252</td>
+<td>14</td>
+<td>564</td>
+<td>94</td>
+<td>3</td>
+<td>0.5</td>
+</tr>
+<tr>
+<th><b>1582</b></th>
+<td>1224</td>
+<td>86</td>
+<td>105</td>
+<td>10</td>
+<td>803</td>
+<td>85</td>
+<td>59</td>
+<td>6.2</td>
+</tr>
+<tr>
+<th><b>1583</b></th>
+<td>1133</td>
+<td>77</td>
+<td>165</td>
+<td>11</td>
+<td>2153</td>
+<td>70</td>
+<td>122</td>
+<td>4</td>
+</tr>
+<tr>
+<th><b>1584</b></th>
+<td>909</td>
+<td>74</td>
+<td>177</td>
+<td>14</td>
+<td>2415</td>
+<td>69</td>
+<td>49</td>
+<td>1.4</td>
+</tr>
+<tr>
+<th><b>1591</b></th>
+<td>742</td>
+<td>74</td>
+<td>170</td>
+<td>17</td>
+<td>1487</td>
+<td>74</td>
+<td>247</td>
+<td>12</td>
+</tr>
+<tr>
+<th><b>1600</b></th>
+<td>-</td>
+<td>-</td>
+<td>56</td>
+<td>5</td>
+<td>-</td>
+<td>-</td>
+<td>1</td>
+<td>0</td>
+</tr>
+<tr>
+<th><b>1610</b></th>
+<td>64</td>
+<td>47</td>
+<td>7</td>
+<td>5</td>
+<td>1411</td>
+<td>83</td>
+<td>18</td>
+<td>1.1</td>
+</tr>
+<tr>
+<th><b>1620</b></th>
+<td>659</td>
+<td>76</td>
+<td>50</td>
+<td>6</td>
+<td>7434</td>
+<td>86</td>
+<td>12</td>
+<td>0.1<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></td>
+</tr>
+</table>
+<p>After its defeat in the Count's Feud, Lübeck's power slowly declined. The city remained neutral in the <a href="/wiki/Thirty_Years%27_War" title="Thirty Years' War">Thirty Years' War</a> of 1618–1648, but the combination of the devastation from the decades-long war and the new transatlantic orientation of European trade caused the Hanseatic League – and thus Lübeck with it – to decline in importance. However, even after the <i>de facto</i> disbanding of the Hanseatic League in 1669, Lübeck still remained an important trading town on the Baltic Sea.</p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Nuremberg_chronicles_f_265-66_(Lubeca).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Nuremberg_chronicles_f_265-66_%28Lubeca%29.jpg/220px-Nuremberg_chronicles_f_265-66_%28Lubeca%29.jpg" width="220" height="89" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Nuremberg_chronicles_f_265-66_%28Lubeca%29.jpg/330px-Nuremberg_chronicles_f_265-66_%28Lubeca%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Nuremberg_chronicles_f_265-66_%28Lubeca%29.jpg/440px-Nuremberg_chronicles_f_265-66_%28Lubeca%29.jpg 2x" data-file-width="1950" data-file-height="789" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Nuremberg_chronicles_f_265-66_(Lubeca).jpg" class="internal" title="Enlarge"></a></div>
+Lübeck in 1493</div>
+</div>
+</div>
+<h3><span id="Old_traditions,_new_challenges"></span><span class="mw-headline" id="Old_traditions.2C_new_challenges">Old traditions, new challenges</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=L%C3%BCbeck&amp;action=edit&amp;section=3" title="Edit section: Old traditions, new challenges">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Franz Tunder was the organist in the Marienkirche. It was part of the tradition in this Lutheran congregation that the organist would pass on the duty in a dynastic marriage. In 1668 his daughter Anna Margarethe married the great Danish-German composer <a href="/wiki/Dieterich_Buxtehude" title="Dieterich Buxtehude">Dieterich Buxtehude</a>, who was the organist at the <a href="/wiki/Marienkirche,_L%C3%BCbeck" class="mw-redirect" title="Marienkirche, Lübeck">Marienkirche</a> in Lübeck until at least 1703. Some of the greatest composers of the day came to the church to hear his renowned playing.</p>
+<p>In the course of the war of the <a href="/wiki/Fourth_Coalition" class="mw-redirect" title="Fourth Coalition">Fourth Coalition</a> against <a href="/wiki/Napoleon_I_of_France" class="mw-redirect" title="Napoleon I of France">Napoleon</a>, troops under <a href="/wiki/Charles_XIV_John_of_Sweden" title="Charles XIV John of Sweden">Bernadotte</a> occupied the neutral Lübeck after a battle against <a href="/wiki/Gebhard_Leberecht_von_Bl%C3%BCcher" title="Gebhard Leberecht von Blücher">Blücher</a> on 6 November 1806. Under the <a href="/wiki/Continental_System" title="Continental System">Continental System</a>, the State bank went into bankruptcy. In 1811 the <a href="/wiki/First_French_Empire" title="First French Empire">French Empire</a> formally annexed Lübeck as part of France; the anti-Napoleonic Allies liberated the area in 1813, and the <a href="/wiki/Congress_of_Vienna" title="Congress of Vienna">Congress of Vienna</a> of 1815 recognised Lübeck as an independent Free City.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Lubeka_kolorowa_litografia_ksi%C4%85%C5%BCkowa_XIVw.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Lubeka_kolorowa_litografia_ksi%C4%85%C5%BCkowa_XIVw.jpg/220px-Lubeka_kolorowa_litografia_ksi%C4%85%C5%BCkowa_XIVw.jpg" width="220" height="78" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Lubeka_kolorowa_litografia_ksi%C4%85%C5%BCkowa_XIVw.jpg/330px-Lubeka_kolorowa_litografia_ksi%C4%85%C5%BCkowa_XIVw.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Lubeka_kolorowa_litografia_ksi%C4%85%C5%BCkowa_XIVw.jpg/440px-Lubeka_kolorowa_litografia_ksi%C4%85%C5%BCkowa_XIVw.jpg 2x" data-file-width="800" data-file-height="283" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Lubeka_kolorowa_litografia_ksi%C4%85%C5%BCkowa_XIVw.jpg" class="internal" title="Enlarge"></a></div>
+Lübeck, 16th century</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Luebeck-1641-Merian.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Luebeck-1641-Merian.jpg/220px-Luebeck-1641-Merian.jpg" width="220" height="119" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Luebeck-1641-Merian.jpg/330px-Luebeck-1641-Merian.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Luebeck-1641-Merian.jpg/440px-Luebeck-1641-Merian.jpg 2x" data-file-width="4096" data-file-height="2207" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Luebeck-1641-Merian.jpg" class="internal" title="Enlarge"></a></div>
+Lübeck in 1641</div>
+</div>
+</div>
+<p>In 1937 the <a href="/wiki/Nazi" class="mw-redirect" title="Nazi">Nazis</a> passed the so-called <a href="/wiki/Greater_Hamburg_Act" title="Greater Hamburg Act">Greater Hamburg Act</a>, which merged the city of Lübeck with Prussia.</p>
+<p>During <a href="/wiki/World_War_II" title="World War II">World War II</a> (1939–1945), Lübeck became the first German city to suffer substantial <a href="/wiki/Royal_Air_Force" title="Royal Air Force">Royal Air Force</a> (RAF) bombing. The attack of 28 March 1942 created a <a href="/wiki/Firestorm" title="Firestorm">firestorm</a> that caused severe damage to the historic centre. <a href="/wiki/Bombing_of_L%C3%BCbeck_in_World_War_II" title="Bombing of Lübeck in World War II">This raid</a> destroyed three of the main churches and large parts of the built-up area; the bells of St Marienkircke plunged to the stone floor.<sup id="cite_ref-luebeck-tourism.de_7-0" class="reference"><a href="#cite_note-luebeck-tourism.de-7">[7]</a></sup> Germany operated a <a href="/wiki/Prisoner-of-war_camp" title="Prisoner-of-war camp">POW camp</a> for officers, <a href="/wiki/Oflag_X-C" title="Oflag X-C">Oflag X-C</a>, near the city from 1940 until April 1945. The British <a href="/wiki/Second_Army_(United_Kingdom)" title="Second Army (United Kingdom)">Second Army</a> entered Lübeck on 2 May 1945 and occupied it without resistance.</p>
+<p>On 3 May 1945 one of the biggest disasters in naval history occurred in the <a href="/wiki/Bay_of_L%C3%BCbeck" title="Bay of Lübeck">Bay of Lübeck</a> when RAF bombers sank three ships: the <a href="/wiki/SS_Cap_Arcona" title="SS Cap Arcona">SS <i>Cap Arcona</i></a>, the <a href="/wiki/SS_Deutschland_(1923)" title="SS Deutschland (1923)">SS <i>Deutschland</i></a>, and the <a href="/wiki/SS_Thielbek_(1940)" title="SS Thielbek (1940)">SS <i>Thielbek</i></a> – which, unknown to them, were packed with concentration camp inmates. About 7,000 people died.</p>
+<p>Lübeck's population grew considerably – from about 150,000 in 1939 to more than 220,000 after the war – owing to an influx of ethnic German refugees expelled from the so-called <a href="/wiki/Historical_Eastern_Germany" class="mw-redirect" title="Historical Eastern Germany">former Eastern provinces</a> of Germany in the <a href="/wiki/Communist_Bloc" class="mw-redirect" title="Communist Bloc">Communist Bloc</a>. Lübeck remained part of Schleswig-Holstein after World War II (and consequently lay within <a href="/wiki/West_Germany" title="West Germany">West Germany</a>). It stood directly on what became the <a href="/wiki/Inner_German_border" title="Inner German border">inner German border</a> during the division of Germany into two states in the <a href="/wiki/Cold_War" title="Cold War">Cold War</a> period. South of the city, the border followed the path of the river Wakenitz, which separated the Germanys by less than 10&#160;m (32.81&#160;ft) in many parts. The northernmost border-crossing was in Lübeck's district of Schlutup. Lübeck spent decades restoring its historic city centre. In 1987 <a href="/wiki/UNESCO" title="UNESCO">UNESCO</a> designated this area a <a href="/wiki/World_Heritage_Site" title="World Heritage Site">World Heritage Site</a>.</p>
+<p>Lübeck became the scene of a notable art scandal in the 1950s. <a href="/wiki/Lothar_Malskat" title="Lothar Malskat">Lothar Malskat</a> was hired to restore the medieval <a href="/wiki/Fresco" title="Fresco">frescoes</a> of the cathedral of the Marienkirche, which were discovered after the cathedral had been badly damaged during World War II. Instead he painted new works which he passed off as restorations, fooling many experts. Malskat later revealed the deception himself. <a href="/wiki/G%C3%BCnter_Grass" title="Günter Grass">Günter Grass</a> featured this incident in his 1986 novel <i><a href="/wiki/The_Rat_(novel)" title="The Rat (novel)">The Rat</a></i>.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:HL_Damals_%E2%80%93_Hafenstra%C3%9Fe_52.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/HL_Damals_%E2%80%93_Hafenstra%C3%9Fe_52.jpg/220px-HL_Damals_%E2%80%93_Hafenstra%C3%9Fe_52.jpg" width="220" height="127" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/HL_Damals_%E2%80%93_Hafenstra%C3%9Fe_52.jpg/330px-HL_Damals_%E2%80%93_Hafenstra%C3%9Fe_52.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3f/HL_Damals_%E2%80%93_Hafenstra%C3%9Fe_52.jpg/440px-HL_Damals_%E2%80%93_Hafenstra%C3%9Fe_52.jpg 2x" data-file-width="1449" data-file-height="839" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:HL_Damals_%E2%80%93_Hafenstra%C3%9Fe_52.jpg" class="internal" title="Enlarge"></a></div>
+The house after the attack</div>
+</div>
+</div>
+<p>On the night of 18 January 1996 a fire broke out in a home for foreign refugees, killing 10 people and severely injuring more than 30 others, mostly children. Most of the shelter's inhabitants thought it was a <a href="/wiki/Racist" class="mw-redirect" title="Racist">racist</a> attack, as they stated that they had encountered other overt hostility in the city.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> The police and the local court were criticized at the time for ruling out racism as a possible motive before even beginning preliminary investigations.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> But by 2002, the courts found all the Germans involved<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> not guilty; the perpetrators have not been caught.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></p>
+<p>In April 2015, Lübeck hosted the G7 conference.<sup id="cite_ref-conference_12-0" class="reference"><a href="#cite_note-conference-12">[12]</a></sup></p>
+<h2><span class="mw-headline" id="Demographics">Demographics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=L%C3%BCbeck&amp;action=edit&amp;section=4" title="Edit section: Demographics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In 2015 the city had a population of 218,523. The largest ethnic minority groups are <a href="/wiki/Turkish_people" title="Turkish people">Turks</a>, <a href="/wiki/Central_Europe" title="Central Europe">Central Europeans</a> (<a href="/wiki/Poles" title="Poles">Poles</a>), <a href="/wiki/Southern_Europe" title="Southern Europe">Southern Europeans</a> (mostly <a href="/wiki/Greeks" title="Greeks">Greeks</a> and <a href="/wiki/Italians" title="Italians">Italians</a>), <a href="/wiki/Eastern_Europe" title="Eastern Europe">Eastern Europeans</a> (e.g. <a href="/wiki/Russians" title="Russians">Russians</a>), <a href="/wiki/Arabs" title="Arabs">Arabs</a> and several smaller groups. As in numerous other German cities, there is also a growing <a href="/wiki/Afro-German" class="mw-redirect" title="Afro-German">Afro-German</a> community.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> Population structure:<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></p>
+<table class="wikitable">
+<tr>
+<th style="background:#efefef;">Rank</th>
+<th style="background:#efefef;">Nationality</th>
+<th style="background:#efefef;">Population (2014)</th>
+</tr>
+<tr>
+<td>1</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/23px-Flag_of_Turkey.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/35px-Flag_of_Turkey.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/45px-Flag_of_Turkey.svg.png 2x" data-file-width="1200" data-file-height="800" />&#160;</span><a href="/wiki/Turkey" title="Turkey">Turkey</a></td>
+<td>4,410</td>
+</tr>
+<tr>
+<td>2</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/35px-Flag_of_Poland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/46px-Flag_of_Poland.svg.png 2x" data-file-width="1280" data-file-height="800" />&#160;</span><a href="/wiki/Poland" title="Poland">Poland</a></td>
+<td>1,915</td>
+</tr>
+<tr>
+<td>3</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/35px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/45px-Flag_of_Russia.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Russia" title="Russia">Russia</a></td>
+<td>686</td>
+</tr>
+<tr>
+<td>4</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/23px-Flag_of_Greece.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/35px-Flag_of_Greece.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/45px-Flag_of_Greece.svg.png 2x" data-file-width="600" data-file-height="400" />&#160;</span><a href="/wiki/Greece" title="Greece">Greece</a></td>
+<td>602</td>
+</tr>
+<tr>
+<td>5</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/wiki/Italy" title="Italy">Italy</a></td>
+<td>549</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Main_sights">Main sights</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=L%C3%BCbeck&amp;action=edit&amp;section=5" title="Edit section: Main sights">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Germany_Luebeck_overview_north.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Germany_Luebeck_overview_north.jpg/220px-Germany_Luebeck_overview_north.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Germany_Luebeck_overview_north.jpg/330px-Germany_Luebeck_overview_north.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Germany_Luebeck_overview_north.jpg/440px-Germany_Luebeck_overview_north.jpg 2x" data-file-width="3264" data-file-height="2448" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Germany_Luebeck_overview_north.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/St._Mary%27s_Church,_L%C3%BCbeck" title="St. Mary's Church, Lübeck">St. Mary's Church, Lübeck</a></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Luebeck-Rathaus_am_Markt_von_Suedwesten_gesehen-20100905.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Luebeck-Rathaus_am_Markt_von_Suedwesten_gesehen-20100905.jpg/220px-Luebeck-Rathaus_am_Markt_von_Suedwesten_gesehen-20100905.jpg" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Luebeck-Rathaus_am_Markt_von_Suedwesten_gesehen-20100905.jpg/330px-Luebeck-Rathaus_am_Markt_von_Suedwesten_gesehen-20100905.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/66/Luebeck-Rathaus_am_Markt_von_Suedwesten_gesehen-20100905.jpg/440px-Luebeck-Rathaus_am_Markt_von_Suedwesten_gesehen-20100905.jpg 2x" data-file-width="4500" data-file-height="3000" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Luebeck-Rathaus_am_Markt_von_Suedwesten_gesehen-20100905.jpg" class="internal" title="Enlarge"></a></div>
+Town Hall</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Lightvessel_Fehrmarnbelt.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Lightvessel_Fehrmarnbelt.jpg/220px-Lightvessel_Fehrmarnbelt.jpg" width="220" height="158" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Lightvessel_Fehrmarnbelt.jpg/330px-Lightvessel_Fehrmarnbelt.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Lightvessel_Fehrmarnbelt.jpg/440px-Lightvessel_Fehrmarnbelt.jpg 2x" data-file-width="1378" data-file-height="992" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Lightvessel_Fehrmarnbelt.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Fehmarnbelt_Lightship" title="Fehmarnbelt Lightship">Fehmarnbelt Lightship</a> in front of the Concert and Congress Center</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Luebeck-Heiligen-Geist-Hospital_von_Westen_gesehen-20100905.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Luebeck-Heiligen-Geist-Hospital_von_Westen_gesehen-20100905.jpg/220px-Luebeck-Heiligen-Geist-Hospital_von_Westen_gesehen-20100905.jpg" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Luebeck-Heiligen-Geist-Hospital_von_Westen_gesehen-20100905.jpg/330px-Luebeck-Heiligen-Geist-Hospital_von_Westen_gesehen-20100905.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Luebeck-Heiligen-Geist-Hospital_von_Westen_gesehen-20100905.jpg/440px-Luebeck-Heiligen-Geist-Hospital_von_Westen_gesehen-20100905.jpg 2x" data-file-width="4500" data-file-height="3000" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Luebeck-Heiligen-Geist-Hospital_von_Westen_gesehen-20100905.jpg" class="internal" title="Enlarge"></a></div>
+Hospital of the Holy Spirit, one of the oldest social institutions of Lübeck (1260)</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:A_house_in_L%C3%BCbeck.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/A_house_in_L%C3%BCbeck.jpg/220px-A_house_in_L%C3%BCbeck.jpg" width="220" height="188" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/A_house_in_L%C3%BCbeck.jpg/330px-A_house_in_L%C3%BCbeck.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/A_house_in_L%C3%BCbeck.jpg/440px-A_house_in_L%C3%BCbeck.jpg 2x" data-file-width="1090" data-file-height="930" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:A_house_in_L%C3%BCbeck.jpg" class="internal" title="Enlarge"></a></div>
+A typical <a href="/wiki/Crow-stepped_gable" title="Crow-stepped gable">crow-stepped gabled</a> town house</div>
+</div>
+</div>
+<h3><span class="mw-headline" id="Buildings">Buildings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=L%C3%BCbeck&amp;action=edit&amp;section=6" title="Edit section: Buildings">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Much of the old town has kept a <a href="/wiki/Middle_Ages" title="Middle Ages">medieval</a> appearance with old buildings and narrow streets. At one time the town could only be entered via any of four <a href="/wiki/City_gate" title="City gate">town gates</a>, of which today two remain, the well-known <a href="/wiki/Holstentor" title="Holstentor">Holstentor</a> (1478) and the <a href="/wiki/Burgtor" title="Burgtor">Burgtor</a> (1444).</p>
+<p>The old town centre is dominated by seven church steeples. The oldest are the <a href="/wiki/L%C3%BCbeck_Cathedral" title="Lübeck Cathedral">Lübecker Dom</a> (the city's cathedral) and the <a href="/wiki/Marienkirche,_L%C3%BCbeck" class="mw-redirect" title="Marienkirche, Lübeck">Marienkirche</a> (Saint Mary's), both from the 13th and 14th centuries.</p>
+<p>Built in 1286, the Holy Spirit Hospital at Koberg is one of the oldest existing social institutions in the world and one of the most important buildings in the city. The Holy Spirit Hospital is in parts an old and nursing home. Historic parts can be visited.</p>
+<p>Other sights include:</p>
+<ul>
+<li>the <a href="/w/index.php?title=L%C3%BCbecker_Rathaus&amp;action=edit&amp;redlink=1" class="new" title="Lübecker Rathaus (page does not exist)">Lübecker Rathaus</a> (Town Hall).</li>
+<li><a href="/wiki/St._Catherine%27s_Church,_L%C3%BCbeck" title="St. Catherine's Church, Lübeck">St. Catherine's Church</a>, a church that belonged to a former monastery, now the <a href="/wiki/Katharineum" title="Katharineum">Katharineum</a>, a <a href="/wiki/Latin_school" title="Latin school">Latin school</a>.</li>
+<li><a href="/wiki/Thomas_Mann" title="Thomas Mann">Thomas Mann</a>'s house.</li>
+<li><a href="/wiki/G%C3%BCnter_Grass" title="Günter Grass">Günter Grass</a>' house.</li>
+<li>Church of St Peter <a href="/w/index.php?title=Petrikirche_(L%C3%BCbeck)&amp;action=edit&amp;redlink=1" class="new" title="Petrikirche (Lübeck) (page does not exist)">Petrikirche (Lübeck)</a></li>
+<li>Church of St Lawrence, located on the site of a cemetery for people who died during the 16th century plague.</li>
+<li>Church of St Jacob <a href="/w/index.php?title=L%C3%BCbecker_Jakobikirche&amp;action=edit&amp;redlink=1" class="new" title="Lübecker Jakobikirche (page does not exist)">Lübecker Jakobikirche</a>, 1334</li>
+<li><a href="/wiki/Sacred_Heart_Church,_L%C3%BCbeck" title="Sacred Heart Church, Lübeck">Church of the Sacred Heart</a> (Propsteikirche Herz Jesu)</li>
+<li><a href="/wiki/Aegidienkirche_(L%C3%BCbeck)" class="mw-redirect" title="Aegidienkirche (Lübeck)">Church of St Aegidien</a></li>
+<li>the <a href="/wiki/Salzspeicher" title="Salzspeicher">Salzspeicher</a>, historic warehouses where salt delivered from <a href="/wiki/L%C3%BCneburg" title="Lüneburg">Lüneburg</a> awaited shipment to Baltic ports.</li>
+</ul>
+<p>Like many other places in Germany, Lübeck has a long tradition of a Christmas market in December, which includes the famous handicrafts market inside the Heiligen-Geist-Hospital (Hospital of the Holy Spirit), located at the northern end of Königstrasse.</p>
+<h3><span class="mw-headline" id="Museums">Museums</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=L%C3%BCbeck&amp;action=edit&amp;section=7" title="Edit section: Museums">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Lübeck has many small museums, such as the <a href="/wiki/St._Anne%27s_Museum_Quarter,_L%C3%BCbeck" title="St. Anne's Museum Quarter, Lübeck">St. Anne's Museum Quarter, Lübeck</a>, the <a href="/wiki/Behnhaus" title="Behnhaus">Behnhaus</a>, the <a href="/wiki/European_Hansemuseum" title="European Hansemuseum">European Hansemuseum</a> and the <a href="/wiki/Holstentor" title="Holstentor">Holstentor</a>. <a href="/wiki/L%C3%BCbeck_Museum_of_Theatre_Puppets" title="Lübeck Museum of Theatre Puppets">Lübeck Museum of Theatre Puppets</a> is a privately run museum. Waterside attractions are a <a href="/wiki/Lightvessel" title="Lightvessel">lightvessel</a> that served <a href="/wiki/Fehmarnbelt" class="mw-redirect" title="Fehmarnbelt">Fehmarnbelt</a> and the <a href="/wiki/Lisa_von_L%C3%BCbeck" title="Lisa von Lübeck">Lisa von Lübeck</a>, a reconstruction of a Hanseatic 15th century <a href="/wiki/Caravel" title="Caravel">caravel</a>. The marzipan museum in the second floor of Café <a href="/wiki/Niederegger" title="Niederegger">Niederegger</a> in Breite Strasse explains the history of <a href="/wiki/Marzipan" title="Marzipan">marzipan</a>, shows historical wood molds for the production of marzipan blocks and a group of historical figures made of marzipan.</p>
+<h2><span class="mw-headline" id="Food_and_drink">Food and drink</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=L%C3%BCbeck&amp;action=edit&amp;section=8" title="Edit section: Food and drink">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Lübeck is famous for its <a href="/wiki/Marzipan" title="Marzipan">marzipan</a> industry. According to local legend, marzipan was first made in Lübeck, possibly in response either to a military siege of the city or a famine year. The story, perhaps apocryphal, is that the town ran out of all food except stored almonds and sugar, which were used to make loaves of marzipan "bread".<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> Others believe that marzipan was actually invented in <a href="/wiki/Iran" title="Iran">Persia</a> a few hundred years before Lübeck claims to have invented it. The best known producer is <a href="/wiki/Niederegger" title="Niederegger">Niederegger</a>, which tourists often visit while in Lübeck, especially at Christmas time.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup></p>
+<p>The Lübeck wine trade dates back to Hanseatic times. One Lübeck specialty is Rotspon (<span class="unicode haudio"><span class="fn"><span style="white-space:nowrap"><a href="/wiki/File:GeoTrinity_Rotspon.ogg" title="About this sound"><img alt="About this sound" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" data-file-width="20" data-file-height="20" /></a>&#160;</span><a href="//upload.wikimedia.org/wikipedia/commons/9/9f/GeoTrinity_Rotspon.ogg" class="internal" title="GeoTrinity Rotspon.ogg">listen</a></span>&#160;<small class="metadata audiolinkinfo" style="cursor:help;">(<a href="/wiki/Wikipedia:Media_help" title="Wikipedia:Media help"><span style="cursor:help;">help</span></a>·<a href="/wiki/File:GeoTrinity_Rotspon.ogg" title="File:GeoTrinity Rotspon.ogg"><span style="cursor:help;">info</span></a>)</small></span>), wine made from grapes processed and fermented in France and transported in wooden barrels to Lübeck, where it is stored, aged and bottled.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup></p>
+<h2><span class="mw-headline" id="Education">Education</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=L%C3%BCbeck&amp;action=edit&amp;section=9" title="Edit section: Education">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Lübeck has three universities, the <a href="/wiki/University_of_L%C3%BCbeck" title="University of Lübeck">University of Lübeck</a>, the <a href="/wiki/Fachhochschule_L%C3%BCbeck" class="mw-redirect" title="Fachhochschule Lübeck">Lübeck Academy of Applied Sciences</a>, and the <a href="/wiki/Musikhochschule_L%C3%BCbeck" class="mw-redirect" title="Musikhochschule Lübeck">Lübeck Academy of Music</a>. The <a rel="nofollow" class="external text" href="http://www.gradschool.uni-luebeck.de">Graduate School for Computing in Medicine and Life Sciences</a> is a central faculty of the University and was founded by the <a rel="nofollow" class="external text" href="http://www.dfg.de/en/research_funding/coordinated_programmes/excellence_initiative/">German Excellence Initiative</a>. The <a href="/wiki/International_School_of_New_Media" title="International School of New Media">International School of New Media</a> is an affiliated institute of the University.</p>
+<h2><span class="mw-headline" id="Notable_people">Notable people</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=L%C3%BCbeck&amp;action=edit&amp;section=10" title="Edit section: Notable people">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Further information: <a href="/wiki/Category:People_from_L%C3%BCbeck" title="Category:People from Lübeck">Category:People from Lübeck</a></div>
+<h3><span id="A–K"></span><span class="mw-headline" id="A.E2.80.93K">A–K</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=L%C3%BCbeck&amp;action=edit&amp;section=11" title="Edit section: A–K">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:152px;"><a href="/wiki/File:Ephraim_Carlebach.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Ephraim_Carlebach.jpg/150px-Ephraim_Carlebach.jpg" width="150" height="208" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Ephraim_Carlebach.jpg/225px-Ephraim_Carlebach.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Ephraim_Carlebach.jpg/300px-Ephraim_Carlebach.jpg 2x" data-file-width="424" data-file-height="589" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Ephraim_Carlebach.jpg" class="internal" title="Enlarge"></a></div>
+Ephraim Carlebach</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:152px;"><a href="/wiki/File:WP_Robert_Christian_Ave-Lallemant.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/WP_Robert_Christian_Ave-Lallemant.jpg/150px-WP_Robert_Christian_Ave-Lallemant.jpg" width="150" height="190" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/WP_Robert_Christian_Ave-Lallemant.jpg/225px-WP_Robert_Christian_Ave-Lallemant.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6c/WP_Robert_Christian_Ave-Lallemant.jpg/300px-WP_Robert_Christian_Ave-Lallemant.jpg 2x" data-file-width="945" data-file-height="1200" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:WP_Robert_Christian_Ave-Lallemant.jpg" class="internal" title="Enlarge"></a></div>
+Robert Christian Ave-Lallemant in 1851</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:152px;"><a href="/wiki/File:Bundesarchiv_B_145_Bild-F057884-0009,_Willy_Brandt.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Bundesarchiv_B_145_Bild-F057884-0009%2C_Willy_Brandt.jpg/150px-Bundesarchiv_B_145_Bild-F057884-0009%2C_Willy_Brandt.jpg" width="150" height="211" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Bundesarchiv_B_145_Bild-F057884-0009%2C_Willy_Brandt.jpg/225px-Bundesarchiv_B_145_Bild-F057884-0009%2C_Willy_Brandt.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Bundesarchiv_B_145_Bild-F057884-0009%2C_Willy_Brandt.jpg/300px-Bundesarchiv_B_145_Bild-F057884-0009%2C_Willy_Brandt.jpg 2x" data-file-width="568" data-file-height="800" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Bundesarchiv_B_145_Bild-F057884-0009,_Willy_Brandt.jpg" class="internal" title="Enlarge"></a></div>
+Willy Brandt in 1980</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:152px;"><a href="/wiki/File:Heinrich_Thomas_Mann.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Heinrich_Thomas_Mann.jpg/150px-Heinrich_Thomas_Mann.jpg" width="150" height="214" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/0/00/Heinrich_Thomas_Mann.jpg 1.5x" data-file-width="210" data-file-height="300" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Heinrich_Thomas_Mann.jpg" class="internal" title="Enlarge"></a></div>
+Heinrich (left) and Thomas Mann around 1902</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:152px;"><a href="/wiki/File:WP_Kurd_von_Schl%C3%B6zer.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/WP_Kurd_von_Schl%C3%B6zer.jpg/150px-WP_Kurd_von_Schl%C3%B6zer.jpg" width="150" height="208" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/WP_Kurd_von_Schl%C3%B6zer.jpg/225px-WP_Kurd_von_Schl%C3%B6zer.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7c/WP_Kurd_von_Schl%C3%B6zer.jpg/300px-WP_Kurd_von_Schl%C3%B6zer.jpg 2x" data-file-width="945" data-file-height="1313" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:WP_Kurd_von_Schl%C3%B6zer.jpg" class="internal" title="Enlarge"></a></div>
+Kurd von Schlözer in 1892 by Franz von Lenbach</div>
+</div>
+</div>
+<ul>
+<li><a href="/wiki/Robert_Christian_Av%C3%A9-Lallemant" title="Robert Christian Avé-Lallemant">Robert Christian Avé-Lallemant</a> (1812-1884), physician and research traveler</li>
+<li><a href="/wiki/Thomas_Baltzar" title="Thomas Baltzar">Thomas Baltzar</a> (around 1631-1663), <a href="/wiki/Violinist" class="mw-redirect" title="Violinist">violinist</a> and <a href="/wiki/Composer" title="Composer">composer</a></li>
+<li><a href="/wiki/Hans_Blumenberg" title="Hans Blumenberg">Hans Blumenberg</a> (1920-1996), philosopher</li>
+<li><a href="/wiki/Adam_Brand_(explorer)" title="Adam Brand (explorer)">Adam Brand (explorer)</a>, (before 1692-1746), German merchant and <a href="/wiki/Researcher" class="mw-redirect" title="Researcher">researcher</a></li>
+<li><a href="/wiki/Willy_Brandt" title="Willy Brandt">Willy Brandt</a> (1913-1992), politician, German chancellor (SPD)</li>
+<li><a href="/wiki/Dieterich_Buxtehude" title="Dieterich Buxtehude">Dieterich Buxtehude</a>, (c.1637-1707), composer and organist</li>
+<li><a href="/wiki/Ephraim_Carlebach" title="Ephraim Carlebach">Ephraim Carlebach</a> (1879-1936), rabbi and founder of the Higher Israelite School in Leipzig</li>
+<li><a href="/wiki/Felix_Carlebach" title="Felix Carlebach">Felix Carlebach</a> (1911-2008), rabbi</li>
+<li><a href="/wiki/Joseph_Carlebach" title="Joseph Carlebach">Joseph Carlebach</a> (1883-1942), murdered in the concentration camp Jungfernhof near Riga, rabbi, victim of the Holocaust</li>
+<li><a href="/wiki/Friedrich_Matthias_Claudius" title="Friedrich Matthias Claudius">Friedrich Matthias Claudius</a> (1822-1869), anatomist</li>
+<li><a href="/wiki/Ernst_Curtius" title="Ernst Curtius">Ernst Curtius</a>, (1814-1896), <a href="/wiki/Classical_archaeology" title="Classical archaeology">Archaeologist</a> and historian</li>
+<li><a href="/wiki/Justus_von_Dohn%C3%A1nyi" title="Justus von Dohnányi">Justus von Dohnányi</a> (born 1960), actor</li>
+<li><a href="/wiki/Bj%C3%B6rn_Engholm" title="Björn Engholm">Björn Engholm</a> (born 1939), politician (SPD)</li>
+<li><a href="/wiki/Walter_Ewers" title="Walter Ewers">Walter Ewers</a> (1892-1918), <a href="/wiki/Flying_ace" title="Flying ace">flying ace</a> of World War I</li>
+<li><a href="/wiki/Gustav_Falke" title="Gustav Falke">Gustav Falke</a> (1853-1916), author</li>
+<li><a href="/wiki/Hermann_von_Fehling" title="Hermann von Fehling">Hermann Fehling</a> (1811-1885), in Stuttgart, chemist</li>
+<li><a href="/wiki/Erasmus_Finx" title="Erasmus Finx">Erasmus Finx</a> (1627-1694), polyhistorian, author and church writer</li>
+<li><a href="/wiki/August_Hermann_Francke" title="August Hermann Francke">August Hermann Francke</a> (1663-1727), pedagogue and theologian, founder of the <a href="/wiki/Francke_Foundations" title="Francke Foundations">Francke Foundations</a></li>
+<li><a href="/wiki/Emanuel_Geibel" title="Emanuel Geibel">Emanuel Geibel</a> (1815-1884), poet</li>
+<li><a href="/wiki/G%C3%BCnter_Grass" title="Günter Grass">Günter Grass</a> (1927-2015), novelist, poet, playwright, illustrator, graphic artist, sculptor, and recipient of the 1999 <a href="/wiki/Nobel_Prize_in_Literature" title="Nobel Prize in Literature">Nobel Prize in Literature</a></li>
+<li><a href="/wiki/Christian_Friedrich_Heinecken" class="mw-redirect" title="Christian Friedrich Heinecken">Christian Friedrich Heinecken</a> (1721-1725), "the infant scholar of Lübeck", a mythical child prodigy</li>
+<li><a href="/wiki/Hermann_von_der_Hude" title="Hermann von der Hude">Hermann von der Hude</a> (1830-1908), architect</li>
+<li><a href="/wiki/Joachim_Jungius" title="Joachim Jungius">Joachim Jungius</a> (1587-1657), mathematician, physicist and philosopher</li>
+<li><a href="/wiki/Andreas_Kneller" title="Andreas Kneller">Andreas Kneller</a> (1649-1724), composer and organist</li>
+<li><a href="/wiki/Godfrey_Kneller" title="Godfrey Kneller">Godfrey Kneller</a> born as Gottfried Kniller (1646-1723), court painter of several British monarchs</li>
+<li><a href="/wiki/Gotthardt_Kuehl" title="Gotthardt Kuehl">Gotthardt Kuehl</a> (born 1850), painter</li>
+<li><a href="/wiki/Friedrich_Ludwig_%C3%86milius_Kunzen" class="mw-redirect" title="Friedrich Ludwig Æmilius Kunzen">Friedrich Ludwig Æmilius Kunzen</a> (1761-1817), composer</li>
+</ul>
+<h3><span id="L–Z"></span><span class="mw-headline" id="L.E2.80.93Z">L–Z</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=L%C3%BCbeck&amp;action=edit&amp;section=12" title="Edit section: L–Z">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Heinrich_Mann" title="Heinrich Mann">Heinrich Mann</a> (1871-1950), novelist (Professor Unrat)</li>
+<li><a href="/wiki/Thomas_Mann" title="Thomas Mann">Thomas Mann</a> (1875-1955), novelist, Nobel Prize for Literature in 1929 (Lübeck is the setting of Mann's novel <i>Buddenbrooks</i>)</li>
+<li><a href="/wiki/Friedrich_Matz" title="Friedrich Matz">Friedrich Matz</a> (1843-1874), archaeologist</li>
+<li><a href="/wiki/Heinrich_Meibom_(doctor)" title="Heinrich Meibom (doctor)">Heinrich Meibom</a> (1638-1700), medical expert, discoverer of the <a href="/wiki/Meibomian_gland" title="Meibomian gland">Meibomian gland</a></li>
+<li><a href="/wiki/Christian_Adolph_Overbeck" title="Christian Adolph Overbeck">Christian Adolph Overbeck</a> (1755-1821), mayor and poet</li>
+<li><a href="/wiki/Friedrich_Overbeck" class="mw-redirect" title="Friedrich Overbeck">Friedrich Overbeck</a> (1789-1869), painter and head of the <a href="/wiki/Nazarene_movement" title="Nazarene movement">Nazarenes</a></li>
+<li><a href="/wiki/Hermann_Pister" title="Hermann Pister">Hermann Pister</a> (1885-1948), SS leader and commander of Buchenwald Concentration Camp, war criminal</li>
+<li><a href="/wiki/Erich_Ponto" title="Erich Ponto">Erich Ponto</a> (1884-1957), actor</li>
+<li><a href="/wiki/Gustav_Radbruch" title="Gustav Radbruch">Gustav Radbruch</a> (1878-1949), legal scholar and politician</li>
+<li><a href="/wiki/Friedrich_Ranke" title="Friedrich Ranke">Friedrich Ranke</a> (1882-1950), Germanist and ethnologist</li>
+<li><a href="/wiki/John_Rugee" title="John Rugee">John Rugee</a> (1827-1894), politician in <a href="/wiki/Wisconsin" title="Wisconsin">Wisconsin</a>, USA</li>
+<li><a href="/wiki/Maria_Slavona" title="Maria Slavona">Maria Slavona</a> (1865-1931), impressionist painter, sister of Cornelia Schorer</li>
+<li><a href="/wiki/Kurd_von_Schl%C3%B6zer" title="Kurd von Schlözer">Kurd von Schlözer</a> (1822-1894), diplomat and historian</li>
+<li><a href="/wiki/Laurentius_Surius" title="Laurentius Surius">Laurentius Surius</a> (1522-1578), Carthusian monk and <a href="/wiki/Hagiography" title="Hagiography">Hagiograph</a></li>
+<li><a href="/wiki/Franz_Tunder" title="Franz Tunder">Franz Tunder</a> (1614-1667), organist and composer</li>
+<li><a href="/wiki/Sandra_V%C3%B6lker" title="Sandra Völker">Sandra Völker</a> (born 1974), swimmer</li>
+<li><a href="/wiki/Johann_Bernhard_Vermehren" title="Johann Bernhard Vermehren">Johann Bernhard Vermehren</a> (1777-1803), romanticist and lecturer</li>
+<li><a href="/wiki/J%C3%B6rg_Wontorra" title="Jörg Wontorra">Jörg Wontorra</a> (born 1948), German sport journalist</li>
+</ul>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+<tr>
+<td></td>
+</tr>
+</table>
+</div>
+<h2><span class="mw-headline" id="Parts">Parts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=L%C3%BCbeck&amp;action=edit&amp;section=13" title="Edit section: Parts">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The city of Lübeck is divided into 10 zones. These again are arranged into altogether 35 urban districts. The 10 zones with their official numbers, their associated urban districts and the numbers of inhabitants of the quarters:</p>
+<ul>
+<li><b>01 City centre</b> (~ 12,000 Inhabitants)</li>
+<li><b>02 St. Jürgen</b> (~ 40,000 Inhabitants)
+<ul>
+<li>Hüxtertor / Mühlentor / Gärtnergasse, Strecknitz / Rothebek, Blankensee, Wulfsdorf, Beidendorf, Krummesse, Kronsforde, Niederbüssau, Vorrade, Schiereichenkoppel, Oberbüssau</li>
+</ul>
+</li>
+<li><b>03 Moisling</b> (~ 10,000 Inhabitants)
+<ul>
+<li>Niendorf / Moorgarten, Reecke, Old-Moisling / Genin</li>
+</ul>
+</li>
+<li><b>04 Buntekuh</b> (~ 10,000 Inhabitants)</li>
+<li><b>05 St. Lorenz-South</b> (~ 12,000 Inhabitants)</li>
+<li><b>06 St. Lorenz-North</b> (~ 40,000 Inhabitants)
+<ul>
+<li>Holstentor-North, Falkenfeld / Vorwerk / Teerhof, Großsteinrade / Schönböcken, Dornbreite / Krempelsdorf</li>
+</ul>
+</li>
+<li><b>07 St. Gertrud</b> (~ 40,000 Inhabitants)
+<ul>
+<li>Burgtor / Stadtpark, Marli / Brandenbaum, Eichholz, Karlshof / Israelsdorf / Gothmund</li>
+</ul>
+</li>
+<li><b>08 Schlutup</b> (~ 6,000 Inhabitants)</li>
+<li><b>09 Kücknitz</b> (~ 20,000 Inhabitants)
+<ul>
+<li>Dänischburg / <a href="/wiki/Siems" class="mw-redirect" title="Siems">Siems</a> / Rangenberg / Wallberg, <a href="/wiki/L%C3%BCbeck-Herrenwyk" class="mw-redirect" title="Lübeck-Herrenwyk">Herrenwyk</a>, Alt-Kücknitz / Dummersdorf / Roter Hahn, Poeppendorf</li>
+</ul>
+</li>
+<li><b>10 Travemünde</b> (~ 15,000 Inhabitants)
+<ul>
+<li>Ivendorf, Alt-Travemünde / Rönnau, Priwall, Teutendorf, Brodten</li>
+</ul>
+</li>
+</ul>
+<p>The industrial Lübeck-Herrenwyk area was until the beginning of the 1990s the location of a big metallurgical plant. The gas produced by this plant was used for making electricity in the Lübeck-Herrenwyk power station. In 1992, the Lübeck-Herrenwyk power station was demolished after the bankruptcy and demolition of the metallurgical plant and since 1994 its site houses the <a href="/wiki/Static_inverter_plant" class="mw-redirect" title="Static inverter plant">static inverter plant</a> of the <a href="/wiki/High-voltage_direct_current" title="High-voltage direct current">HVDC</a> <a href="/wiki/Baltic_Cable" title="Baltic Cable">Baltic Cable</a>.</p>
+<h2><span class="mw-headline" id="International_relations">International relations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=L%C3%BCbeck&amp;action=edit&amp;section=14" title="Edit section: International relations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/List_of_twin_towns_and_sister_cities_in_Germany" title="List of twin towns and sister cities in Germany">List of twin towns and sister cities in Germany</a></div>
+<p>Lübeck is <a href="/wiki/Twin_towns_and_sister_cities" class="mw-redirect" title="Twin towns and sister cities">twinned</a> with:</p>
+<table class="wikitable">
+<tr valign="top">
+<td>
+<ul>
+<li><span class="flagicon"><a href="/wiki/Finland" title="Finland"><img alt="Finland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <a href="/wiki/Kotka" title="Kotka">Kotka</a>, <a href="/wiki/Finland" title="Finland">Finland</a> <small><i>(since 1969)</i></small><sup id="cite_ref-Kotka_twinnings_18-0" class="reference"><a href="#cite_note-Kotka_twinnings-18">[18]</a></sup></li>
+<li><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Venice" title="Venice">Venice</a>, <a href="/wiki/Italy" title="Italy">Italy</a> <small><i>(since 1979 - friendship treaty)</i></small></li>
+<li><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Wismar" title="Wismar">Wismar</a>, <a href="/wiki/Germany" title="Germany">Germany</a> <small><i>(since 1987)</i></small></li>
+<li><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/La_Rochelle" title="La Rochelle">La Rochelle</a>, <a href="/wiki/France" title="France">France</a> <small><i>(since 1988)</i></small><sup id="cite_ref-La_Rochelle_19-0" class="reference"><a href="#cite_note-La_Rochelle-19">[19]</a></sup></li>
+<li><span class="flagicon"><a href="/wiki/Lithuania" title="Lithuania"><img alt="Lithuania" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/23px-Flag_of_Lithuania.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/35px-Flag_of_Lithuania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/46px-Flag_of_Lithuania.svg.png 2x" data-file-width="500" data-file-height="300" /></a></span> <a href="/wiki/Klaip%C4%97da" title="Klaipėda">Klaipėda</a>, <a href="/wiki/Lithuania" title="Lithuania">Lithuania</a> <small><i>(since 1990)</i></small></li>
+</ul>
+</td>
+<td>
+<ul>
+<li><span class="flagicon"><a href="/wiki/Japan" title="Japan"><img alt="Japan" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/35px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/45px-Flag_of_Japan.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Kawasaki,_Kanagawa" title="Kawasaki, Kanagawa">Kawasaki, Kanagawa</a>, <a href="/wiki/Japan" title="Japan">Japan</a> <small><i>(since 1992 - friendship treaty)</i></small></li>
+<li><span class="flagicon"><a href="/wiki/Poland" title="Poland"><img alt="Poland" src="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/35px-Flag_of_Poland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/46px-Flag_of_Poland.svg.png 2x" data-file-width="1280" data-file-height="800" /></a></span> <a href="/wiki/Szczecin" title="Szczecin">Szczecin</a>, <a href="/wiki/Poland" title="Poland">Poland</a> <small><i>(since 1993)</i></small><sup id="cite_ref-Szczecin_twinnings_20-0" class="reference"><a href="#cite_note-Szczecin_twinnings-20">[20]</a></sup></li>
+<li><span class="flagicon"><a href="/wiki/Norway" title="Norway"><img alt="Norway" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/21px-Flag_of_Norway.svg.png" width="21" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/32px-Flag_of_Norway.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/41px-Flag_of_Norway.svg.png 2x" data-file-width="1100" data-file-height="800" /></a></span> <a href="/wiki/Bergen" title="Bergen">Bergen</a>, <a href="/wiki/Norway" title="Norway">Norway</a> <small><i>(since 1996 - friendship treaty)</i></small></li>
+<li><span class="flagicon"><a href="/wiki/Sweden" title="Sweden"><img alt="Sweden" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/35px-Flag_of_Sweden.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/46px-Flag_of_Sweden.svg.png 2x" data-file-width="1600" data-file-height="1000" /></a></span> <a href="/wiki/Visby" title="Visby">Visby</a>, <a href="/wiki/Sweden" title="Sweden">Sweden</a> <small><i>(since 1999)</i></small></li>
+<li><span class="flagicon"><a href="/wiki/China" title="China"><img alt="China" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Shaoxing,_Zhejiang" class="mw-redirect" title="Shaoxing, Zhejiang">Shaoxing, Zhejiang</a>, <a href="/wiki/China" title="China">China</a> <small><i>(since 2003 - friendship treaty)</i></small></li>
+<li><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/Spokane,_Washington" title="Spokane, Washington">Spokane</a>, <a href="/wiki/United_States" title="United States">United States</a> <small><i>(Sister City 1980 - 2000, friendship treaty)</i></small></li>
+</ul>
+</td>
+</tr>
+</table>
+<p><a href="/wiki/Lubec" class="mw-redirect" title="Lubec">Lubec</a>, <a href="/wiki/Maine" title="Maine">Maine</a>, the easternmost town in the <a href="/wiki/United_States" title="United States">United States</a>, is named after Lübeck.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=L%C3%BCbeck&amp;action=edit&amp;section=15" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Cap_Arcona" class="mw-redirect" title="Cap Arcona">Cap Arcona</a></li>
+<li><a href="/wiki/L%C3%BCbeck_Airport" title="Lübeck Airport">Lübeck Airport</a></li>
+<li><a href="/wiki/L%C3%BCbeck_Hauptbahnhof" title="Lübeck Hauptbahnhof">Lübeck Hauptbahnhof</a></li>
+<li><a href="/wiki/L%C3%BCbeck_Nordic_Film_Days" title="Lübeck Nordic Film Days">Lübeck Nordic Film Days</a></li>
+<li><a href="/wiki/L%C3%BCbeck_law" title="Lübeck law">Lübeck law</a></li>
+<li><a href="/wiki/L%C3%BCbecker_Nachrichten" title="Lübecker Nachrichten">Lübecker Nachrichten</a> is Lübeck's only newspaper</li>
+<li><a href="/wiki/Oberschule_zum_Dom" title="Oberschule zum Dom">Oberschule zum Dom</a></li>
+<li><a href="/wiki/Ports_of_the_Baltic_Sea" title="Ports of the Baltic Sea">Ports of the Baltic Sea</a></li>
+<li><a href="/wiki/Schleswig-Holstein_Musik_Festival" title="Schleswig-Holstein Musik Festival">Schleswig-Holstein Musik Festival</a></li>
+<li><a href="/wiki/VfB_L%C3%BCbeck" title="VfB Lübeck">VfB Lübeck</a>, football and sports club</li>
+<li><a href="/wiki/Bombing_of_L%C3%BCbeck_in_World_War_II" title="Bombing of Lübeck in World War II">Bombing of Lübeck in World War II</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=L%C3%BCbeck&amp;action=edit&amp;section=16" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.statistik-nord.de/fileadmin/Dokumente/Statistische_Berichte/bevoelkerung/A_I_2_S/A_I_2_vj_154_Zensus_SH.xlsx">"Statistikamt Nord – Bevölkerung der Gemeinden in Schleswig-Holstein 4. Quartal 2015] (XLS-file)"</a>. <i><a href="/wiki/Statistisches_Amt_f%C3%BCr_Hamburg_und_Schleswig-Holstein" class="mw-redirect" title="Statistisches Amt für Hamburg und Schleswig-Holstein">Statistisches Amt für Hamburg und Schleswig-Holstein</a></i> (in German).</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AL%C3%BCbeck&amp;rft.atitle=Statistikamt+Nord+%E2%80%93+Bev%C3%B6lkerung+der+Gemeinden+in+Schleswig-Holstein+4.+Quartal+2015%5D+%28XLS-file%29&amp;rft.genre=unknown&amp;rft.jtitle=Statistisches+Amt+f%C3%BCr+Hamburg+und+Schleswig-Holstein&amp;rft_id=http%3A%2F%2Fwww.statistik-nord.de%2Ffileadmin%2FDokumente%2FStatistische_Berichte%2Fbevoelkerung%2FA_I_2_S%2FA_I_2_vj_154_Zensus_SH.xlsx&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Vehicles registered between 1937 and 1956 were given prefixes valid for all of Schleswig-Holstein: "I P" (1937–1945), "S" (1945–1947), "SH" (1947 only), "BS" (1948–1956).</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">G.Lechner, Die Hanischen Pjundzollistern des Jahres 1368 (1935), pp.48, 198</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">G.Lechner, Die Hansischen Pjundzollisten des Jahres 1368 (1935), pp.66</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Exports of butter, copper, osmund (a high quality iron) and pig iron. Units of iron were in lasts; there were 12 lasts to 1 schiffspfund.</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Pfundzollbucher of Lübeck</span></li>
+<li id="cite_note-luebeck-tourism.de-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-luebeck-tourism.de_7-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.luebeck-tourism.de/discover/sights/churches-in-luebeck/st-marys.html">http://www.luebeck-tourism.de/discover/sights/churches-in-luebeck/st-marys.html</a></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">"Brandspuren im Gesicht, Ermittlungen zur Lübecker Asylheim-Katastrophe", <i><a href="/wiki/Der_Spiegel" title="Der Spiegel">Der Spiegel</a></i>, 23/1996, 3 June 1996.</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><i>Hannoversche Allgemeine Zeitung</i>, 5 March 2005</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.dokfest-muenchen.de/filme_view_web.php?fid=275&amp;lang=en">http://www.dokfest-muenchen.de/filme_view_web.php?fid=275&amp;lang=en</a></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">In 2015 there was another fire at a refugee home, this time at Troglitz - <a rel="nofollow" class="external free" href="http://www.Troglitz.panteres.com/2015/04/05/fire-in-refugee-home-troglitz-is-everywhere/">http://www.Troglitz.panteres.com/2015/04/05/fire-in-refugee-home-troglitz-is-everywhere/</a></span></li>
+<li id="cite_note-conference-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-conference_12-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.spiegel.de/politik/ausland/g7-gipfel-in-luebeck-die-beschluesse-a-1028769.html">http://www.spiegel.de/politik/ausland/g7-gipfel-in-luebeck-die-beschluesse-a-1028769.html</a></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.statistik-nord.de/uploads/tx_standocuments/A_I_2_vj104_S.pdf">"A I 2 - vj 4/10 S"</a> <span style="font-size:85%;">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">12 March</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AL%C3%BCbeck&amp;rft.btitle=A+I+2+-+vj+4%2F10+S&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.statistik-nord.de%2Fuploads%2Ftx_standocuments%2FA_I_2_vj104_S.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.statistik-nord.de/index.php?id=552">http://www.statistik-nord.de/index.php?id=552</a></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation news">Sacirbey, Omar (6 Jun 2012). <a rel="nofollow" class="external text" href="https://www.bostonglobe.com/lifestyle/food-dining/2012/06/05/culinary-treasure-marzipan-lubeck-germany/yXAQBv8ToolzANzVryNacO/story.html">"A culinary treasure in marzipan in Lubeck, Germany"</a>. Boston Globe<span class="reference-accessdate">. Retrieved <span class="nowrap">18 May</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AL%C3%BCbeck&amp;rft.atitle=A+culinary+treasure+in+marzipan+in+Lubeck%2C+Germany&amp;rft.aufirst=Omar&amp;rft.aulast=Sacirbey&amp;rft.date=2012-06-06&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fwww.bostonglobe.com%2Flifestyle%2Ffood-dining%2F2012%2F06%2F05%2Fculinary-treasure-marzipan-lubeck-germany%2FyXAQBv8ToolzANzVryNacO%2Fstory.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.traveladdicts.net/2016/11/36-hours-hanseatic-city-lubeck-germany.html">"36 Hours in Lubeck, Germany"</a>. Travel Addicts. 29 Nov 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">18 May</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AL%C3%BCbeck&amp;rft.atitle=36+Hours+in+Lubeck%2C+Germany&amp;rft.date=2016-11-29&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fwww.traveladdicts.net%2F2016%2F11%2F36-hours-hanseatic-city-lubeck-germany.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation news">Matthews, Patrick (21 Jan 2013). <a rel="nofollow" class="external text" href="http://www.decanter.com/wine-news/german-retailers-call-on-eu-to-protect-rotspon-22575/">"German retailers call on EU to protect Rotspon"</a>. Decanter<span class="reference-accessdate">. Retrieved <span class="nowrap">18 May</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AL%C3%BCbeck&amp;rft.atitle=German+retailers+call+on+EU+to+protect+Rotspon&amp;rft.aufirst=Patrick&amp;rft.aulast=Matthews&amp;rft.date=2013-01-21&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.decanter.com%2Fwine-news%2Fgerman-retailers-call-on-eu-to-protect-rotspon-22575%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Kotka_twinnings-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-Kotka_twinnings_18-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Hassinen, Raino. <a rel="nofollow" class="external text" href="http://www.kotka.fi/alltypes.asp?d_type=5&amp;menu_id=2746&amp;menupath=2746#aa2746">"Kotka - International co-operation: Twin Cities"</a>. <i>City of Kotka</i><span class="reference-accessdate">. Retrieved <span class="nowrap">22 October</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AL%C3%BCbeck&amp;rft.atitle=Kotka+-+International+co-operation%3A+Twin+Cities&amp;rft.aufirst=Raino&amp;rft.aulast=Hassinen&amp;rft.genre=unknown&amp;rft.jtitle=City+of+Kotka&amp;rft_id=http%3A%2F%2Fwww.kotka.fi%2Falltypes.asp%3Fd_type%3D5%26menu_id%3D2746%26menupath%3D2746%23aa2746&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-La_Rochelle-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-La_Rochelle_19-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ville-larochelle.fr/en/decouvrir-la-ville/villes-jumelles.html">"La Rochelle: Twin towns"</a>. www.ville-larochelle.fr<span class="reference-accessdate">. Retrieved <span class="nowrap">7 November</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AL%C3%BCbeck&amp;rft.btitle=La+Rochelle%3A+Twin+towns&amp;rft.genre=unknown&amp;rft.pub=www.ville-larochelle.fr&amp;rft_id=http%3A%2F%2Fwww.ville-larochelle.fr%2Fen%2Fdecouvrir-la-ville%2Fvilles-jumelles.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Szczecin_twinnings-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-Szczecin_twinnings_20-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120818001351/http://bip.um.szczecin.pl/umszczecinbip/chapter_11296.asp">"Kontakty partnerskie Miasta Szczecin"</a>. <i>Urząd Miasta Szczecin</i> (in Polish). Archived from <a rel="nofollow" class="external text" href="http://bip.um.szczecin.pl/UMSzczecinBIP/chapter_11296.asp">the original</a> on 18 August 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">29 July</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AL%C3%BCbeck&amp;rft.atitle=Kontakty+partnerskie+Miasta+Szczecin&amp;rft.genre=unknown&amp;rft.jtitle=Urz%C4%85d+Miasta+Szczecin&amp;rft_id=http%3A%2F%2Fbip.um.szczecin.pl%2FUMSzczecinBIP%2Fchapter_11296.asp&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h3><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=L%C3%BCbeck&amp;action=edit&amp;section=17" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<dl>
+<dd><i>See also: <a href="/wiki/Timeline_of_L%C3%BCbeck#Bibliography" title="Timeline of Lübeck">Bibliography of the history of Lübeck</a></i></dd>
+</dl>
+<ul>
+<li><cite class="citation book">Zimmern, Helen (30 November 2005). <i>Hansa Towns</i>. Adamant Media Corporation. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1402184832" title="Special:BookSources/1402184832">1402184832</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AL%C3%BCbeck&amp;rft.aufirst=Helen&amp;rft.aulast=Zimmern&amp;rft.btitle=Hansa+Towns&amp;rft.date=2005-11-30&amp;rft.genre=book&amp;rft.isbn=1402184832&amp;rft.pub=Adamant+Media+Corporation&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Colvin, Ian Duncan (9 July 2012). <i>The Germans in England 1066-1598</i>. Forgotten Books. <a href="/wiki/Amazon_Standard_Identification_Number" title="Amazon Standard Identification Number">ASIN</a>&#160;<a rel="nofollow" class="external text" href="//www.amazon.com/dp/B008QQ2ZGC">B008QQ2ZGC</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AL%C3%BCbeck&amp;rft.aufirst=Ian+Duncan&amp;rft.aulast=Colvin&amp;rft.btitle=The+Germans+in+England+1066-1598&amp;rft.date=2012-07-09&amp;rft.genre=book&amp;rft.pub=Forgotten+Books&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Nicolle, David (20 April 2014). <i>Forces of the Hanseatic League</i>. Osprey Publishing. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1782007792" title="Special:BookSources/1782007792">1782007792</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AL%C3%BCbeck&amp;rft.aufirst=David&amp;rft.aulast=Nicolle&amp;rft.btitle=Forces+of+the+Hanseatic+League&amp;rft.date=2014-04-20&amp;rft.genre=book&amp;rft.isbn=1782007792&amp;rft.pub=Osprey+Publishing&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=L%C3%BCbeck&amp;action=edit&amp;section=18" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-labelledby="sister-projects" class="metadata plainlinks plainlist mbox-small" style="border:1px solid #aaa; padding:0.75em; background:#f9f9f9;">
+<div style="padding-bottom: 0.75em; text-align: center;">Find more about<b style="display:block;">Lübeck</b>at Wikipedia's <a href="/wiki/Wikipedia:Wikimedia_sister_projects" title="Wikipedia:Wikimedia sister projects"><span id="sister-projects">sister projects</span></a></div>
+<ul style="border-top:1px solid #aaa; padding-top: 0.75em;">
+<li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/27px-Wiktionary-logo-v2.svg.png" width="27" height="27" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/41px-Wiktionary-logo-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/54px-Wiktionary-logo-v2.svg.png 2x" data-file-width="391" data-file-height="391" /></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a href="https://en.wiktionary.org/wiki/Special:Search/L%C3%BCbeck" class="extiw" title="wikt:Special:Search/Lübeck">Definitions</a> from Wiktionary</span></li>
+<li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/20px-Commons-logo.svg.png" width="20" height="27" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a href="https://commons.wikimedia.org/wiki/Special:Search/L%C3%BCbeck" class="extiw" title="c:Special:Search/Lübeck">Media</a> from Commons</span></li>
+<li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/27px-Wikinews-logo.svg.png" width="27" height="15" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/41px-Wikinews-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/54px-Wikinews-logo.svg.png 2x" data-file-width="759" data-file-height="415" /></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a href="https://en.wikinews.org/wiki/Special:Search/L%C3%BCbeck" class="extiw" title="n:Special:Search/Lübeck">News</a> from Wikinews</span></li>
+<li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/23px-Wikiquote-logo.svg.png" width="23" height="27" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/35px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/46px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a href="https://en.wikiquote.org/wiki/Special:Search/L%C3%BCbeck" class="extiw" title="q:Special:Search/Lübeck">Quotations</a> from Wikiquote</span></li>
+<li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/26px-Wikisource-logo.svg.png" width="26" height="27" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/39px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/51px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a href="https://en.wikisource.org/wiki/Special:Search/L%C3%BCbeck" class="extiw" title="s:Special:Search/Lübeck">Texts</a> from Wikisource</span></li>
+<li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/27px-Wikibooks-logo.svg.png" width="27" height="27" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/41px-Wikibooks-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/54px-Wikibooks-logo.svg.png 2x" data-file-width="300" data-file-height="300" /></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a href="https://en.wikibooks.org/wiki/Special:Search/L%C3%BCbeck" class="extiw" title="b:Special:Search/Lübeck">Textbooks</a> from Wikibooks</span></li>
+<li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/27px-Wikivoyage-Logo-v3-icon.svg.png" width="27" height="27" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/41px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/54px-Wikivoyage-Logo-v3-icon.svg.png 2x" data-file-width="193" data-file-height="193" /></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a href="https://en.wikivoyage.org/wiki/L%C3%BCbeck#Q2843" class="extiw" title="voy:Lübeck">Travel guide</a> from Wikivoyage</span></li>
+<li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wikiversity-logo-en.svg/27px-Wikiversity-logo-en.svg.png" width="27" height="24" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wikiversity-logo-en.svg/41px-Wikiversity-logo-en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wikiversity-logo-en.svg/54px-Wikiversity-logo-en.svg.png 2x" data-file-width="1000" data-file-height="900" /></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a href="https://en.wikiversity.org/wiki/Special:Search/L%C3%BCbeck" class="extiw" title="v:Special:Search/Lübeck">Learning resources</a> from Wikiversity</span></li>
+</ul>
+</div>
+<ul>
+<li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.luebeck.de">Official website</a></span></span></li>
+<li><a rel="nofollow" class="external text" href="http://www.luebeck-tourism.de">Official tourism site</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.panorama-cities.net/luebeck/luebeck_germany.html">Panoramas of Lübeck</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.lovebridge-luebeck.de">Lovebridge Lübeck</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Places_adjacent_to_L.C3.BCbeck" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div id="Places_adjacent_to_L.C3.BCbeck" style="font-size:114%;margin:0 4em">Places adjacent to Lübeck</div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<table role="presentation" style="width:100%; margin:0; text-align:center;">
+<tr>
+<td><a href="/wiki/Neum%C3%BCnster" title="Neumünster">Neumünster</a>, <a href="/wiki/Kiel" title="Kiel">Kiel</a></td>
+<td></td>
+<td><i><a href="/wiki/Baltic_Sea" title="Baltic Sea">Baltic Sea</a></i></td>
+</tr>
+<tr>
+<td style="width:33%"></td>
+<td style="width:33%;">
+<div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Pfeil_oben.svg/14px-Pfeil_oben.svg.png" title="North" width="14" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Pfeil_oben.svg/21px-Pfeil_oben.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/76/Pfeil_oben.svg/28px-Pfeil_oben.svg.png 2x" data-file-width="501" data-file-height="595" /></div>
+<div style="white-space:nowrap;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Pfeil_links.svg/17px-Pfeil_links.svg.png" title="West" width="17" height="14" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Pfeil_links.svg/25px-Pfeil_links.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/85/Pfeil_links.svg/33px-Pfeil_links.svg.png 2x" data-file-width="595" data-file-height="501" /><b style="display:inline-block; vertical-align:middle; margin:0.75em 1em">Lübeck</b><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Pfeil_rechts.svg/17px-Pfeil_rechts.svg.png" title="East" width="17" height="14" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Pfeil_rechts.svg/25px-Pfeil_rechts.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Pfeil_rechts.svg/33px-Pfeil_rechts.svg.png 2x" data-file-width="595" data-file-height="501" /></div>
+<div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pfeil_unten.svg/14px-Pfeil_unten.svg.png" title="South" width="14" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pfeil_unten.svg/21px-Pfeil_unten.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pfeil_unten.svg/28px-Pfeil_unten.svg.png 2x" data-file-width="501" data-file-height="595" /></div>
+</td>
+<td style="width:33%"><a href="/wiki/Wismar" title="Wismar">Wismar</a>, <a href="/wiki/Rostock" title="Rostock">Rostock</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Hamburg" title="Hamburg">Hamburg</a></td>
+<td></td>
+<td><a href="/wiki/Schwerin" title="Schwerin">Schwerin</a></td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Cities_in_Germany_by_population" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Cities_in_Germany" title="Template:Cities in Germany"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Cities_in_Germany" title="Template talk:Cities in Germany"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cities_in_Germany&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Cities_in_Germany_by_population" style="font-size:114%;margin:0 4em">Cities in Germany by population</div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">1,000,000+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Berlin" title="Berlin">Berlin</a></li>
+<li><a href="/wiki/Cologne" title="Cologne">Cologne</a></li>
+<li><a href="/wiki/Hamburg" title="Hamburg">Hamburg</a></li>
+<li><a href="/wiki/Munich" title="Munich">Munich</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">500,000+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bremen" title="Bremen">Bremen</a></li>
+<li><a href="/wiki/Dortmund" title="Dortmund">Dortmund</a></li>
+<li><a href="/wiki/Dresden" title="Dresden">Dresden</a></li>
+<li><a href="/wiki/D%C3%BCsseldorf" title="Düsseldorf">Düsseldorf</a></li>
+<li><a href="/wiki/Essen" title="Essen">Essen</a></li>
+<li><a href="/wiki/Frankfurt" title="Frankfurt">Frankfurt</a></li>
+<li><a href="/wiki/Hanover" title="Hanover">Hanover</a></li>
+<li><a href="/wiki/Leipzig" title="Leipzig">Leipzig</a></li>
+<li><a href="/wiki/Nuremberg" title="Nuremberg">Nuremberg</a></li>
+<li><a href="/wiki/Stuttgart" title="Stuttgart">Stuttgart</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">200,000+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aachen" title="Aachen">Aachen</a></li>
+<li><a href="/wiki/Augsburg" title="Augsburg">Augsburg</a></li>
+<li><a href="/wiki/Bielefeld" title="Bielefeld">Bielefeld</a></li>
+<li><a href="/wiki/Bochum" title="Bochum">Bochum</a></li>
+<li><a href="/wiki/Bonn" title="Bonn">Bonn</a></li>
+<li><a href="/wiki/Braunschweig" title="Braunschweig">Braunschweig</a></li>
+<li><a href="/wiki/Chemnitz" title="Chemnitz">Chemnitz</a></li>
+<li><a href="/wiki/Duisburg" title="Duisburg">Duisburg</a></li>
+<li><a href="/wiki/Erfurt" title="Erfurt">Erfurt</a></li>
+<li><a href="/wiki/Freiburg_im_Breisgau" title="Freiburg im Breisgau">Freiburg im Breisgau</a></li>
+<li><a href="/wiki/Gelsenkirchen" title="Gelsenkirchen">Gelsenkirchen</a></li>
+<li><a href="/wiki/Halle_(Saale)" title="Halle (Saale)">Halle (Saale)</a></li>
+<li><a href="/wiki/Karlsruhe" title="Karlsruhe">Karlsruhe</a></li>
+<li><a href="/wiki/Kiel" title="Kiel">Kiel</a></li>
+<li><a href="/wiki/Krefeld" title="Krefeld">Krefeld</a></li>
+<li><a class="mw-selflink selflink">Lübeck</a></li>
+<li><a href="/wiki/Magdeburg" title="Magdeburg">Magdeburg</a></li>
+<li><a href="/wiki/Mainz" title="Mainz">Mainz</a></li>
+<li><a href="/wiki/Mannheim" title="Mannheim">Mannheim</a></li>
+<li><a href="/wiki/M%C3%BCnster" title="Münster">Münster</a></li>
+<li><a href="/wiki/M%C3%B6nchengladbach" title="Mönchengladbach">Mönchengladbach</a></li>
+<li><a href="/wiki/Oberhausen" title="Oberhausen">Oberhausen</a></li>
+<li><a href="/wiki/Rostock" title="Rostock">Rostock</a></li>
+<li><a href="/wiki/Wiesbaden" title="Wiesbaden">Wiesbaden</a></li>
+<li><a href="/wiki/Wuppertal" title="Wuppertal">Wuppertal</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">100,000+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bergisch_Gladbach" title="Bergisch Gladbach">Bergisch Gladbach</a></li>
+<li><a href="/wiki/Bottrop" title="Bottrop">Bottrop</a></li>
+<li><a href="/wiki/Bremerhaven" title="Bremerhaven">Bremerhaven</a></li>
+<li><a href="/wiki/Cottbus" title="Cottbus">Cottbus</a></li>
+<li><a href="/wiki/Darmstadt" title="Darmstadt">Darmstadt</a></li>
+<li><a href="/wiki/Erlangen" title="Erlangen">Erlangen</a></li>
+<li><a href="/wiki/F%C3%BCrth" title="Fürth">Fürth</a></li>
+<li><a href="/wiki/G%C3%B6ttingen" title="Göttingen">Göttingen</a></li>
+<li><a href="/wiki/Hagen" title="Hagen">Hagen</a></li>
+<li><a href="/wiki/Hamm" title="Hamm">Hamm</a></li>
+<li><a href="/wiki/Heidelberg" title="Heidelberg">Heidelberg</a></li>
+<li><a href="/wiki/Heilbronn" title="Heilbronn">Heilbronn</a></li>
+<li><a href="/wiki/Herne,_North_Rhine-Westphalia" title="Herne, North Rhine-Westphalia">Herne</a></li>
+<li><a href="/wiki/Hildesheim" title="Hildesheim">Hildesheim</a></li>
+<li><a href="/wiki/Ingolstadt" title="Ingolstadt">Ingolstadt</a></li>
+<li><a href="/wiki/Jena" title="Jena">Jena</a></li>
+<li><a href="/wiki/Kassel" title="Kassel">Kassel</a></li>
+<li><a href="/wiki/Koblenz" title="Koblenz">Koblenz</a></li>
+<li><a href="/wiki/Leverkusen" title="Leverkusen">Leverkusen</a></li>
+<li><a href="/wiki/Ludwigshafen" title="Ludwigshafen">Ludwigshafen</a></li>
+<li><a href="/wiki/Moers" title="Moers">Moers</a></li>
+<li><a href="/wiki/M%C3%BClheim" title="Mülheim">Mülheim an der Ruhr</a></li>
+<li><a href="/wiki/Neuss" title="Neuss">Neuss</a></li>
+<li><a href="/wiki/Offenbach_am_Main" title="Offenbach am Main">Offenbach am Main</a></li>
+<li><a href="/wiki/Oldenburg_(Oldenburg)" class="mw-redirect" title="Oldenburg (Oldenburg)">Oldenburg</a></li>
+<li><a href="/wiki/Osnabr%C3%BCck" title="Osnabrück">Osnabrück</a></li>
+<li><a href="/wiki/Paderborn" title="Paderborn">Paderborn</a></li>
+<li><a href="/wiki/Pforzheim" title="Pforzheim">Pforzheim</a></li>
+<li><a href="/wiki/Potsdam" title="Potsdam">Potsdam</a></li>
+<li><a href="/wiki/Recklinghausen" title="Recklinghausen">Recklinghausen</a></li>
+<li><a href="/wiki/Regensburg" title="Regensburg">Regensburg</a></li>
+<li><a href="/wiki/Remscheid" title="Remscheid">Remscheid</a></li>
+<li><a href="/wiki/Reutlingen" title="Reutlingen">Reutlingen</a></li>
+<li><a href="/wiki/Saarbr%C3%BCcken" title="Saarbrücken">Saarbrücken</a></li>
+<li><a href="/wiki/Salzgitter" title="Salzgitter">Salzgitter</a></li>
+<li><a href="/wiki/Siegen" title="Siegen">Siegen</a></li>
+<li><a href="/wiki/Solingen" title="Solingen">Solingen</a></li>
+<li><a href="/wiki/Trier" title="Trier">Trier</a></li>
+<li><a href="/wiki/Ulm" title="Ulm">Ulm</a></li>
+<li><a href="/wiki/Wolfsburg" title="Wolfsburg">Wolfsburg</a></li>
+<li><a href="/wiki/W%C3%BCrzburg" title="Würzburg">Würzburg</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/List_of_cities_and_towns_in_Germany" title="List of cities and towns in Germany">complete list</a></li>
+<li><a href="/wiki/List_of_municipalities_in_Germany" title="List of municipalities in Germany">municipalities</a></li>
+<li><a href="/wiki/Metropolitan_regions_in_Germany" title="Metropolitan regions in Germany">metropolitan regions</a></li>
+<li><a href="/wiki/List_of_cities_in_Germany_by_population" title="List of cities in Germany by population">cities with more than 100,000 inhabitants</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Members_of_the_Hanseatic_League_by_Quarter" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Hanseatic_League" title="Template:Hanseatic League"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Hanseatic_League" title="Template talk:Hanseatic League"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Hanseatic_League&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Members_of_the_Hanseatic_League_by_Quarter" style="font-size:114%;margin:0 4em">Members of the <a href="/wiki/Hanseatic_League" title="Hanseatic League">Hanseatic League</a> by <a href="/wiki/Hanseatic_League#Quarters" title="Hanseatic League">Quarter</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3" style="padding:0.2em 0.4em;line-height:1.25em;">
+<div>
+<div class="plainlist">
+<ul>
+<li>Chief cities shown in <span class="smallcaps" style="font-variant:small-caps;">smallcaps</span>.</li>
+<li><a href="/wiki/Free_imperial_city" title="Free imperial city">Free Imperial Cities</a> of the <a href="/wiki/Holy_Roman_Empire" title="Holy Roman Empire">Holy Roman Empire</a> shown in <i>italics</i>.</li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Wendish</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:5.5em;font-weight:normal;;padding:0.75em 1.0em;"><span class="smallcaps" style="font-variant:small-caps;"><i><a class="mw-selflink selflink">Lübeck</a></i></span></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Anklam" title="Anklam">Anklam</a></li>
+<li><a href="/wiki/Demmin" title="Demmin">Demmin</a></li>
+<li><a href="/wiki/Greifswald" title="Greifswald">Greifswald</a></li>
+<li><i><a href="/wiki/Hamburg" title="Hamburg">Hamburg</a></i></li>
+<li><a href="/wiki/Ko%C5%82obrzeg" title="Kołobrzeg">Kolberg (Kołobrzeg)</a></li>
+<li><a href="/wiki/L%C3%BCneburg" title="Lüneburg">Lüneburg</a></li>
+<li><a href="/wiki/Rostock" title="Rostock">Rostock</a></li>
+<li><a href="/wiki/Dar%C5%82owo" title="Darłowo">Rügenwalde (Darłowo)</a></li>
+<li><a href="/wiki/Szczecin" title="Szczecin">Stettin (Szczecin)</a></li>
+<li><a href="/wiki/S%C5%82upsk" title="Słupsk">Stolp (Słupsk)</a></li>
+<li><a href="/wiki/Stockholm" title="Stockholm">Stockholm</a></li>
+<li><a href="/wiki/Stralsund" title="Stralsund">Stralsund</a></li>
+<li><a href="/wiki/Visby" title="Visby">Visby</a></li>
+<li><a href="/wiki/Wismar" title="Wismar">Wismar</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+<td class="navbox-image" rowspan="7" style="width:1px;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Haupthandelsroute_Hanse.png" class="image" title="Principle trading routes of the Hanseatic League"><img alt="Principle trading routes of the Hanseatic League" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Haupthandelsroute_Hanse.png/150px-Haupthandelsroute_Hanse.png" width="150" height="115" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Haupthandelsroute_Hanse.png/225px-Haupthandelsroute_Hanse.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Haupthandelsroute_Hanse.png/300px-Haupthandelsroute_Hanse.png 2x" data-file-width="789" data-file-height="603" /></a><br />
+<br />
+<a href="/wiki/File:Hansestadt_Lubeck_Tatiana_Yagunova_Watercolor_painting_2014.jpg" class="image" title="Lubeck — a main city of the Hanseatic League"><img alt="Lubeck — a main city of the Hanseatic League" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Hansestadt_Lubeck_Tatiana_Yagunova_Watercolor_painting_2014.jpg/150px-Hansestadt_Lubeck_Tatiana_Yagunova_Watercolor_painting_2014.jpg" width="150" height="121" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Hansestadt_Lubeck_Tatiana_Yagunova_Watercolor_painting_2014.jpg/225px-Hansestadt_Lubeck_Tatiana_Yagunova_Watercolor_painting_2014.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Hansestadt_Lubeck_Tatiana_Yagunova_Watercolor_painting_2014.jpg/300px-Hansestadt_Lubeck_Tatiana_Yagunova_Watercolor_painting_2014.jpg 2x" data-file-width="3720" data-file-height="2996" /></a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Saxon</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:5.5em;font-weight:normal;">
+<div style="padding:0.1em 0;line-height:1.2em;"><span class="smallcaps" style="font-variant:small-caps;"><a href="/wiki/Braunschweig" title="Braunschweig">Brunswick</a><br />
+<a href="/wiki/Magdeburg" title="Magdeburg">Magdeburg</a></span></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Berlin" title="Berlin">Berlin</a></li>
+<li><i><a href="/wiki/Bremen" title="Bremen">Bremen</a></i></li>
+<li><a href="/wiki/Erfurt" title="Erfurt">Erfurt</a></li>
+<li><a href="/wiki/Frankfurt_(Oder)" title="Frankfurt (Oder)">Frankfurt an der Oder</a></li>
+<li><i><a href="/wiki/Goslar" title="Goslar">Goslar</a></i></li>
+<li><i><a href="/wiki/M%C3%BChlhausen" title="Mühlhausen">Mühlhausen</a></i></li>
+<li><i><a href="/wiki/Nordhausen" title="Nordhausen">Nordhausen</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Baltic</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:5.5em;font-weight:normal;">
+<div style="padding:0.1em 0;line-height:1.2em;line-height:1.1em;"><a href="/wiki/Gda%C5%84sk" title="Gdańsk"><span class="smallcaps" style="font-variant:small-caps;">Danzig</span><br />
+<small><span style="font-weight:normal;">(Gdańsk)</span></small></a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Wroc%C5%82aw" title="Wrocław">Breslau <small>(Wrocław)</small></a></li>
+<li><a href="/wiki/Tartu" title="Tartu">Dorpat <small>(Tartu)</small></a></li>
+<li><a href="/wiki/Elbl%C4%85g" title="Elbląg">Elbing <small>(Elbląg)</small></a></li>
+<li><a href="/wiki/K%C3%B6nigsberg" title="Königsberg">Königsberg</a> <small>(<a href="/wiki/Kaliningrad" title="Kaliningrad">Kaliningrad</a>)</small></li>
+<li><a href="/wiki/Krak%C3%B3w" title="Kraków">Cracow <small>(Kraków)</small></a></li>
+<li><a href="/wiki/Tallinn" title="Tallinn">Reval <small>(Tallinn)</small></a></li>
+<li><a href="/wiki/Riga" title="Riga">Riga <small>(Rīga)</small></a></li>
+<li><a href="/wiki/Toru%C5%84" title="Toruń">Thorn <small>(Toruń)</small></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Westphalian</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:5.5em;font-weight:normal;">
+<div style="padding:0.1em 0;line-height:1.2em;"><span class="smallcaps" style="font-variant:small-caps;"><i><a href="/wiki/Cologne" title="Cologne">Cologne</a></i></span> <span style="font-weight:normal;"><sup><small>1</small></sup></span><br />
+<span class="smallcaps" style="font-variant:small-caps;"><i><a href="/wiki/Dortmund" title="Dortmund">Dortmund</a></i></span> <span style="font-weight:normal;"><sup><small>1</small></sup></span></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Deventer" title="Deventer">Deventer</a></li>
+<li><a href="/wiki/Groningen" title="Groningen">Groningen</a></li>
+<li><a href="/wiki/Kampen,_Overijssel" title="Kampen, Overijssel">Kampen</a></li>
+<li><a href="/wiki/M%C3%BCnster" title="Münster">Münster</a></li>
+<li><a href="/wiki/Osnabr%C3%BCck" title="Osnabrück">Osnabrück</a></li>
+<li><i><a href="/wiki/Soest,_Germany" title="Soest, Germany">Soest</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<hr /></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><i><a href="/wiki/Kontor" title="Kontor">Kontore</a></i></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:5.5em;font-weight:normal;">Principal</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bryggen" title="Bryggen">Bryggen</a> <small>(<a href="/wiki/Bergen" title="Bergen">Bergen</a>)</small></li>
+<li>Hanzekantoor
+<ul>
+<li><small><a href="/wiki/Bruges" title="Bruges">Bruges</a></small></li>
+<li><small><a href="/wiki/Antwerp" title="Antwerp">Antwerp</a><sup>2</sup><small>&#160;</small></small></li>
+</ul>
+</li>
+<li><a href="/wiki/Steelyard" title="Steelyard">Steelyard</a> <small>(<a href="/wiki/London" title="London">London</a>)</small></li>
+<li>Peterhof <small>(<a href="/wiki/Veliky_Novgorod" title="Veliky Novgorod">Novgorod</a>)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:5.5em;font-weight:normal;">Subsidiary</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/King%27s_Lynn" title="King's Lynn">Bishop's Lynn</a></li>
+<li><a href="/wiki/Falsterbo" title="Falsterbo">Falsterbo</a></li>
+<li><a href="/wiki/Ipswich" title="Ipswich">Ipswich</a></li>
+<li><a href="/wiki/Kaunas" title="Kaunas">Kaunas</a></li>
+<li><a href="/wiki/Malm%C3%B6" title="Malmö">Malmö</a></li>
+<li><a href="/wiki/Polotsk" title="Polotsk">Polotsk</a></li>
+<li><a href="/wiki/Pskov_Republic" title="Pskov Republic">Pskov</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Other cities</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bristol" title="Bristol">Bristol</a></li>
+<li><a href="/wiki/Boston,_Lincolnshire" title="Boston, Lincolnshire">Boston</a></li>
+<li><a href="/wiki/Damme" title="Damme">Damme</a></li>
+<li><a href="/wiki/Leith" title="Leith">Leith</a></li>
+<li><a href="/wiki/Herford" title="Herford">Herford</a></li>
+<li><a href="/wiki/Kingston_upon_Hull" title="Kingston upon Hull">Hull</a></li>
+<li><a href="/wiki/Newcastle_upon_Tyne" title="Newcastle upon Tyne">Newcastle</a></li>
+<li><a href="/wiki/Stargard_Szczeci%C5%84ski" class="mw-redirect" title="Stargard Szczeciński">Stargard</a></li>
+<li><a href="/wiki/Great_Yarmouth" title="Great Yarmouth">Yarmouth</a></li>
+<li><a href="/wiki/York" title="York">York</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3" style="padding:0.2em 0.4em 0.4em;line-height:1.25em;">
+<div>
+<div class="plainlist">
+<ul>
+<li><sup><small>1</small></sup> <a href="/wiki/Cologne" title="Cologne">Cologne</a> and <a href="/wiki/Dortmund" title="Dortmund">Dortmund</a> were both capital of the Westphalian Quarter at different times.</li>
+<li><sup><small>2</small></sup> <a href="/wiki/Antwerp" title="Antwerp">Antwerp</a> gained importance once <a href="/wiki/Bruges" title="Bruges">Bruges</a> became inaccessible due to the silting of the <a href="/wiki/Zwin" title="Zwin">Zwin</a> channel.</li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="World_Heritage_Sites_in_Germany" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:World_Heritage_Sites_in_Germany" title="Template:World Heritage Sites in Germany"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:World_Heritage_Sites_in_Germany" title="Template talk:World Heritage Sites in Germany"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:World_Heritage_Sites_in_Germany&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="World_Heritage_Sites_in_Germany" style="font-size:114%;margin:0 4em"><a href="/wiki/World_Heritage_Site" title="World Heritage Site">World Heritage Sites</a> in <a href="/wiki/Germany" title="Germany">Germany</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div><i>For official site names, see each article or the <a href="/wiki/List_of_World_Heritage_Sites_in_Germany" title="List of World Heritage Sites in Germany">List of World Heritage Sites in Germany</a>.</i></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Northern_Germany" title="Northern Germany">Northern</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Fagus_Factory" title="Fagus Factory">Fagus Factory in Alfeld</a></li>
+<li><a href="/wiki/Berlin_Modernism_Housing_Estates" title="Berlin Modernism Housing Estates">Berlin Modernism Housing Estates</a></li>
+<li><a href="/wiki/Museum_Island" title="Museum Island">Museumsinsel (Museum Island), Berlin</a></li>
+<li><a href="/wiki/Palaces_and_Parks_of_Potsdam_and_Berlin" title="Palaces and Parks of Potsdam and Berlin">Palaces and Parks of Potsdam and Berlin</a></li>
+<li><a href="/wiki/Bremen_City_Hall" title="Bremen City Hall">Town Hall</a> and <a href="/wiki/Bremen_Roland" title="Bremen Roland">Roland on the Marketplace</a> of <a href="/wiki/Bremen" title="Bremen">Bremen</a></li>
+<li><a href="/wiki/Rammelsberg" title="Rammelsberg">Mines of Rammelsberg</a>, <a href="/wiki/Goslar" title="Goslar">Historic Town of Goslar</a> and <a href="/wiki/Upper_Harz_Water_Regale" title="Upper Harz Water Regale">Upper Harz Water Management System</a></li>
+<li><a href="/wiki/Speicherstadt" title="Speicherstadt">Speicherstadt</a> and <a href="/wiki/Altstadt,_Hamburg" title="Altstadt, Hamburg">Kontorhaus District</a> with <a href="/wiki/Chilehaus" title="Chilehaus">Chilehaus</a> in <a href="/wiki/Hamburg" title="Hamburg">Hamburg</a></li>
+<li><a href="/wiki/Hildesheim_Cathedral" title="Hildesheim Cathedral">St. Mary's Cathedral</a> and <a href="/wiki/St._Michael%27s_Church,_Hildesheim" title="St. Michael's Church, Hildesheim">St. Michael's Church</a> at <a href="/wiki/Hildesheim" title="Hildesheim">Hildesheim</a></li>
+<li><a class="mw-selflink selflink">Hanseatic City of Lübeck</a></li>
+<li>Historic Centres of <a href="/wiki/Stralsund" title="Stralsund">Stralsund</a> and <a href="/wiki/Wismar" title="Wismar">Wismar</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Central_Germany_(cultural_area)" title="Central Germany (cultural area)">Central</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bauhaus" title="Bauhaus">Bauhaus and its Sites in Weimar and Dessau</a></li>
+<li><a href="/wiki/Dessau-W%C3%B6rlitz_Garden_Realm" title="Dessau-Wörlitz Garden Realm">Garden Kingdom of Dessau-Wörlitz</a></li>
+<li><s><a href="/wiki/Dresden_Elbe_Valley" title="Dresden Elbe Valley">Dresden Elbe Valley</a></s> <i>(delisted in 2009)</i></li>
+<li>Luther Memorials in <a href="/wiki/Eisleben" title="Eisleben">Eisleben</a> and <a href="/wiki/Wittenberg" title="Wittenberg">Wittenberg</a></li>
+<li><a href="/wiki/Muskau_Park" title="Muskau Park">Muskauer Park / Park Mużakowski</a><sup><small>1</small></sup></li>
+<li><a href="/wiki/Quedlinburg" title="Quedlinburg">Collegiate Church, Castle, and Old Town of Quedlinburg</a></li>
+<li><a href="/wiki/Wartburg" title="Wartburg">Wartburg Castle</a></li>
+<li><a href="/wiki/Classical_Weimar_(World_Heritage_Site)" title="Classical Weimar (World Heritage Site)">Classical Weimar</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Western_Germany" title="Western Germany">Western</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aachen_Cathedral" title="Aachen Cathedral">Aachen Cathedral</a></li>
+<li><a href="/wiki/Augustusburg_and_Falkenlust_Palaces,_Br%C3%BChl" title="Augustusburg and Falkenlust Palaces, Brühl">Castles of Augustusburg and Falkenlust at Brühl</a></li>
+<li><a href="/wiki/Imperial_Abbey_of_Corvey" title="Imperial Abbey of Corvey">Carolingian Westwork and Civitas Corvey</a></li>
+<li><a href="/wiki/Cologne_Cathedral" title="Cologne Cathedral">Cologne Cathedral</a></li>
+<li><a href="/wiki/Rhine_Gorge" title="Rhine Gorge">Upper Middle Rhine Valley</a></li>
+<li><a href="/wiki/Speyer_Cathedral" title="Speyer Cathedral">Speyer Cathedral</a></li>
+<li><a href="/wiki/Roman_Monuments,_Cathedral_of_St._Peter_and_Church_of_Our_Lady_in_Trier_UNESCO_World_Heritage_Site" title="Roman Monuments, Cathedral of St. Peter and Church of Our Lady in Trier UNESCO World Heritage Site">Roman Monuments</a>, <a href="/wiki/Cathedral_of_Trier" title="Cathedral of Trier">Cathedral of St. Peter</a> and <a href="/wiki/Liebfrauenkirche,_Trier" title="Liebfrauenkirche, Trier">Church of Our Lady</a> in <a href="/wiki/Trier" title="Trier">Trier</a></li>
+<li><a href="/wiki/V%C3%B6lklingen_Ironworks" title="Völklingen Ironworks">Völklingen Ironworks</a></li>
+<li><a href="/wiki/Bergpark_Wilhelmsh%C3%B6he" title="Bergpark Wilhelmshöhe">Bergpark Wilhelmshöhe</a></li>
+<li><a href="/wiki/Zollverein_Coal_Mine_Industrial_Complex" title="Zollverein Coal Mine Industrial Complex">Zollverein Coal Mine Industrial Complex in Essen</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Southern_Germany" title="Southern Germany">Southern</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Lorsch_Abbey" title="Lorsch Abbey">Abbey and Altenmünster of Lorsch</a></li>
+<li><a href="/wiki/The_Architectural_Work_of_Le_Corbusier" title="The Architectural Work of Le Corbusier">The Architectural Work of Le Corbusier</a> (<a href="/wiki/Weissenhof_Estate" title="Weissenhof Estate">Weissenhof Estate</a>)</li>
+<li><a href="/wiki/Bamberg" title="Bamberg">Town of Bamberg</a></li>
+<li><a href="/wiki/Limes" title="Limes">Frontiers of the Roman Empire</a>:<sup><small>2</small></sup> <a href="/wiki/Limes_Germanicus" title="Limes Germanicus">Upper Germanic &amp; Rhaetian Limes</a></li>
+<li><a href="/wiki/Maulbronn_Monastery" title="Maulbronn Monastery">Maulbronn Monastery Complex</a></li>
+<li><a href="/wiki/Margravial_Opera_House" title="Margravial Opera House">Margravial Opera House</a></li>
+<li><a href="/wiki/Regensburg" title="Regensburg">Old Town of Regensburg with Stadtamhof</a></li>
+<li><a href="/wiki/Reichenau_Island" title="Reichenau Island">Monastic Island of Reichenau</a></li>
+<li><a href="/wiki/Wieskirche" title="Wieskirche">Pilgrimage Church of Wies</a></li>
+<li><a href="/wiki/W%C3%BCrzburg_Residence" title="Würzburg Residence">Würzburg Residence with the Court Gardens and Residence Square</a></li>
+<li><a href="/wiki/Prehistoric_pile_dwellings_around_the_Alps" title="Prehistoric pile dwellings around the Alps">Prehistoric pile dwellings around the Alps</a><sup><small>3</small></sup></li>
+<li><a href="/wiki/Caves_and_Ice_Age_Art_in_the_Swabian_Jura" title="Caves and Ice Age Art in the Swabian Jura">Caves and Ice Age Art in the Swabian Jura</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Natural_heritage" title="Natural heritage">Natural</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Primeval_Beech_Forests_of_the_Carpathians_and_the_Ancient_Beech_Forests_of_Germany" class="mw-redirect" title="Primeval Beech Forests of the Carpathians and the Ancient Beech Forests of Germany">Ancient Beech Forests</a><sup><small>4</small></sup></li>
+<li><a href="/wiki/Messel_pit" title="Messel pit">Messel Pit Fossil Site</a></li>
+<li><a href="/wiki/Wadden_Sea" title="Wadden Sea">Wadden Sea</a><sup><small>5</small></sup></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><sup>1</sup> Shared with <a href="/wiki/List_of_World_Heritage_Sites_of_Poland" title="List of World Heritage Sites of Poland">Poland</a></li>
+<li><sup>2</sup> Shared with the <a href="/wiki/List_of_World_Heritage_Sites_of_the_United_Kingdom" class="mw-redirect" title="List of World Heritage Sites of the United Kingdom">United Kingdom</a></li>
+<li><sup>3</sup> Shared with <a href="/wiki/List_of_World_Heritage_Sites_in_Austria" title="List of World Heritage Sites in Austria">Austria</a>, <a href="/wiki/List_of_World_Heritage_Sites_in_France" title="List of World Heritage Sites in France">France</a>, <a href="/wiki/List_of_World_Heritage_Sites_in_Italy" title="List of World Heritage Sites in Italy">Italy</a>, <a href="/wiki/List_of_World_Heritage_Sites_in_Southern_Europe" title="List of World Heritage Sites in Southern Europe">Slovenia</a> and <a href="/wiki/List_of_World_Heritage_Sites_in_Switzerland" title="List of World Heritage Sites in Switzerland">Switzerland</a></li>
+<li><sup>4</sup> Shared with <a href="/wiki/List_of_World_Heritage_Sites_in_Slovakia" class="mw-redirect" title="List of World Heritage Sites in Slovakia">Slovakia</a> and <a href="/wiki/List_of_World_Heritage_Sites_in_Ukraine" title="List of World Heritage Sites in Ukraine">Ukraine</a></li>
+<li><sup>5</sup> Shared with the <a href="/wiki/List_of_World_Heritage_Sites_in_the_Netherlands" title="List of World Heritage Sites in the Netherlands">Netherlands</a> and <a href="/wiki/List_of_World_Heritage_Sites_in_Northern_Europe" title="List of World Heritage Sites in Northern Europe">Denmark</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="border.7C30px.7CFlag_of_Schleswig-Holstein_Urban_and_rural_districts_in_the_state_of_Schleswig-Holstein_in_Germany_border.7C30px.7CFlag_of_Germany" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Germany_districts_Schleswig-Holstein" title="Template:Germany districts Schleswig-Holstein"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Germany_districts_Schleswig-Holstein" title="Template talk:Germany districts Schleswig-Holstein"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Germany_districts_Schleswig-Holstein&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="border.7C30px.7CFlag_of_Schleswig-Holstein_Urban_and_rural_districts_in_the_state_of_Schleswig-Holstein_in_Germany_border.7C30px.7CFlag_of_Germany" style="font-size:114%;margin:0 4em"><a href="/wiki/File:Flag_of_Schleswig-Holstein.svg" class="image" title="Flag of Schleswig-Holstein"><img alt="Flag of Schleswig-Holstein" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Schleswig-Holstein.svg/30px-Flag_of_Schleswig-Holstein.svg.png" width="30" height="18" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Schleswig-Holstein.svg/45px-Flag_of_Schleswig-Holstein.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Schleswig-Holstein.svg/60px-Flag_of_Schleswig-Holstein.svg.png 2x" data-file-width="1000" data-file-height="600" /></a> Urban and rural districts in the state of <a href="/wiki/Schleswig-Holstein" title="Schleswig-Holstein">Schleswig-Holstein</a> in Germany <a href="/wiki/File:Flag_of_Germany.svg" class="image" title="Flag of Germany"><img alt="Flag of Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/30px-Flag_of_Germany.svg.png" width="30" height="18" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/45px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/60px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Urban districts</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Flensburg" title="Flensburg">Flensburg</a></li>
+<li><a href="/wiki/Kiel" title="Kiel">Kiel</a></li>
+<li><a class="mw-selflink selflink">Lübeck</a></li>
+<li><a href="/wiki/Neum%C3%BCnster" title="Neumünster">Neumünster</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Rural districts</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dithmarschen" title="Dithmarschen">Dithmarschen</a></li>
+<li><a href="/wiki/Herzogtum_Lauenburg" title="Herzogtum Lauenburg">Herzogtum Lauenburg</a></li>
+<li><a href="/wiki/Nordfriesland_(district)" title="Nordfriesland (district)">Nordfriesland</a></li>
+<li><a href="/wiki/Ostholstein" title="Ostholstein">Ostholstein</a></li>
+<li><a href="/wiki/Pinneberg_(district)" title="Pinneberg (district)">Pinneberg</a></li>
+<li><a href="/wiki/Pl%C3%B6n_(district)" title="Plön (district)">Plön</a></li>
+<li><a href="/wiki/Rendsburg-Eckernf%C3%B6rde" title="Rendsburg-Eckernförde">Rendsburg-Eckernförde</a></li>
+<li><a href="/wiki/Schleswig-Flensburg" title="Schleswig-Flensburg">Schleswig-Flensburg</a></li>
+<li><a href="/wiki/Segeberg" title="Segeberg">Segeberg</a></li>
+<li><a href="/wiki/Steinburg" title="Steinburg">Steinburg</a></li>
+<li><a href="/wiki/Stormarn_(district)" title="Stormarn (district)">Stormarn</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/312802961">WorldCat Identities</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/312802961">312802961</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n81108828">n81108828</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/4036483-5">4036483-5</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.idref.fr/031509258">031509258</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb12271049t">cb12271049t</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb12271049t">(data)</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1289
+Cached time: 20171018150505
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.704 seconds
+Real time usage: 0.966 seconds
+Preprocessor visited node count: 8210/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 167483/2097152 bytes
+Template argument size: 22158/2097152 bytes
+Highest expansion depth: 26/40
+Expensive parser function count: 10/500
+Lua time usage: 0.242/10.000 seconds
+Lua memory usage: 8.85 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  748.734      1 -total
+ 44.36%  332.124      1 Template:Infobox_German_location
+ 41.17%  308.275      1 Template:Infobox_settlement
+ 35.88%  268.632      2 Template:Infobox
+ 12.30%   92.083      7 Template:Population_Germany
+  9.76%   73.073     10 Template:Navbox
+  8.34%   62.409      7 Template:Metadata_Population_DE-SH
+  7.66%   57.370      5 Template:Cite_web
+  6.90%   51.668      1 Template:Reflist
+  5.25%   39.275      1 Template:Citation_needed
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:17750-0!canonical and timestamp 20171018150519 and revision id 805929006
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Lübeck&amp;oldid=805929006">https://en.wikipedia.org/w/index.php?title=Lübeck&amp;oldid=805929006</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Cities_in_Schleswig-Holstein" title="Category:Cities in Schleswig-Holstein">Cities in Schleswig-Holstein</a></li><li><a href="/wiki/Category:L%C3%BCbeck" title="Category:Lübeck">Lübeck</a></li><li><a href="/wiki/Category:1143_establishments_in_the_Holy_Roman_Empire" title="Category:1143 establishments in the Holy Roman Empire">1143 establishments in the Holy Roman Empire</a></li><li><a href="/wiki/Category:Populated_coastal_places_in_Germany_(Baltic_Sea)" title="Category:Populated coastal places in Germany (Baltic Sea)">Populated coastal places in Germany (Baltic Sea)</a></li><li><a href="/wiki/Category:Members_of_the_Hanseatic_League" title="Category:Members of the Hanseatic League">Members of the Hanseatic League</a></li><li><a href="/wiki/Category:Landmarks_in_Germany" title="Category:Landmarks in Germany">Landmarks in Germany</a></li><li><a href="/wiki/Category:Port_cities_and_towns_in_Germany" title="Category:Port cities and towns in Germany">Port cities and towns in Germany</a></li><li><a href="/wiki/Category:Port_cities_and_towns_of_the_Baltic_Sea" title="Category:Port cities and towns of the Baltic Sea">Port cities and towns of the Baltic Sea</a></li><li><a href="/wiki/Category:World_Heritage_Sites_in_Germany" title="Category:World Heritage Sites in Germany">World Heritage Sites in Germany</a></li><li><a href="/wiki/Category:University_towns_in_Germany" title="Category:University towns in Germany">University towns in Germany</a></li><li><a href="/wiki/Category:Hanseatic_Cities" title="Category:Hanseatic Cities">Hanseatic Cities</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_German-language_sources_(de)" title="Category:CS1 German-language sources (de)">CS1 German-language sources (de)</a></li><li><a href="/wiki/Category:CS1_Polish-language_sources_(pl)" title="Category:CS1 Polish-language sources (pl)">CS1 Polish-language sources (pl)</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_July_2014" title="Category:Use dmy dates from July 2014">Use dmy dates from July 2014</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Pages_using_deprecated_image_syntax" title="Category:Pages using deprecated image syntax">Pages using deprecated image syntax</a></li><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_March_2011" title="Category:Articles with unsourced statements from March 2011">Articles with unsourced statements from March 2011</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=L%C3%BCbeck" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=L%C3%BCbeck" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/L%C3%BCbeck" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:L%C3%BCbeck" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="collapsible selected"><span><a href="/wiki/L%C3%BCbeck">Read</a></span></li>
+							<li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=L%C3%BCbeck&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=L%C3%BCbeck&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/L%C3%BCbeck" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/L%C3%BCbeck" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=L%C3%BCbeck&amp;oldid=805929006" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=L%C3%BCbeck&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2843" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=L%C3%BCbeck&amp;id=805929006" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=L%C3%BCbeck">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=L%C3%BCbeck&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=L%C3%BCbeck&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:L%C3%BCbeck" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikivoyage badge-Q17559452 badge-recommendedarticle" title="recommended article"><a href="https://en.wikivoyage.org/wiki/L%C3%BCbeck" hreflang="en">Wikivoyage</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/L%C3%BCbeck" title="Lübeck – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%84%D9%88%D8%A8%D9%8A%D9%83" title="لوبيك – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-an"><a href="https://an.wikipedia.org/wiki/L%C3%BCbeck" title="Lübeck – Aragonese" lang="an" hreflang="an" class="interlanguage-link-target">Aragonés</a></li><li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/L%C3%BCbeck" title="Lübeck – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/L%C3%BCbek" title="Lübek – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D9%84%D9%88%D8%A8%DA%A9" title="لوبک – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/L%C3%BCbeck" title="Lübeck – Chinese (Min Nan)" lang="zh-min-nan" hreflang="zh-min-nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%9B%D1%8E%D0%B1%D0%B5%D0%BA" title="Любек – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/%D0%9B%D1%8E%D0%B1%D1%8D%D0%BA" title="Любэк – Belarusian (Taraškievica orthography)" lang="be-x-old" hreflang="be-x-old" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9B%D1%8E%D0%B1%D0%B5%D0%BA" title="Любек – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bar"><a href="https://bar.wikipedia.org/wiki/L%C3%BCbeck" title="Lübeck – Bavarian" lang="bar" hreflang="bar" class="interlanguage-link-target">Boarisch</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/L%C3%BCbeck" title="Lübeck – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/L%C3%BCbeck" title="Lübeck – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/L%C3%BCbeck" title="Lübeck – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cv"><a href="https://cv.wikipedia.org/wiki/%D0%9B%D1%8E%D0%B1%D0%B5%D0%BA" title="Любек – Chuvash" lang="cv" hreflang="cv" class="interlanguage-link-target">Чӑвашла</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/L%C3%BCbeck_(kapital_sa_distrito)" title="Lübeck (kapital sa distrito) – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/L%C3%BCbeck" title="Lübeck – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-co"><a href="https://co.wikipedia.org/wiki/Lubecca" title="Lubecca – Corsican" lang="co" hreflang="co" class="interlanguage-link-target">Corsu</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/L%C3%BCbeck" title="Lübeck – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/L%C3%BCbeck" title="Lübeck – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/L%C3%BCbeck" title="Lübeck – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-dsb"><a href="https://dsb.wikipedia.org/wiki/L%C3%BCbeck" title="Lübeck – Lower Sorbian" lang="dsb" hreflang="dsb" class="interlanguage-link-target">Dolnoserbski</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/L%C3%BCbeck" title="Lübeck – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%9B%CE%AF%CE%BC%CF%80%CE%B5%CE%BA" title="Λίμπεκ – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/L%C3%BCbeck" title="Lübeck – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Lubeko" title="Lubeko – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/L%C3%BCbeck" title="Lübeck – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%84%D9%88%D8%A8%DA%A9" title="لوبک – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/L%C3%BCbeck" title="Lübeck – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/L%C3%BCbeck" title="Lübeck – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li><li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/L%C3%BCbeck" title="Lübeck – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li><li class="interlanguage-link interwiki-gd"><a href="https://gd.wikipedia.org/wiki/L%C3%BCbeck" title="Lübeck – Scottish Gaelic" lang="gd" hreflang="gd" class="interlanguage-link-target">Gàidhlig</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/L%C3%BCbeck" title="Lübeck – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%A4%BC%EB%B2%A0%ED%81%AC" title="뤼베크 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%BC%D5%B5%D5%B8%D6%82%D5%A2%D5%A5%D5%AF" title="Լյուբեկ – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hsb"><a href="https://hsb.wikipedia.org/wiki/Lubica" title="Lubica – Upper Sorbian" lang="hsb" hreflang="hsb" class="interlanguage-link-target">Hornjoserbsce</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/L%C3%BCbeck" title="Lübeck – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-io"><a href="https://io.wikipedia.org/wiki/L%C3%BCbeck" title="Lübeck – Ido" lang="io" hreflang="io" class="interlanguage-link-target">Ido</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/L%C3%BCbeck" title="Lübeck – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-os"><a href="https://os.wikipedia.org/wiki/%D0%9B%D1%8E%D0%B1%D0%B5%D0%BA" title="Любек – Ossetic" lang="os" hreflang="os" class="interlanguage-link-target">Ирон</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/L%C3%BCbeck" title="Lübeck – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Lubecca" title="Lubecca – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%9C%D7%99%D7%91%D7%A7" title="ליבק – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/L%C3%BCbeck" title="Lübeck – Javanese" lang="jv" hreflang="jv" class="interlanguage-link-target">Basa Jawa</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%9A%E1%83%98%E1%83%A3%E1%83%91%E1%83%94%E1%83%99%E1%83%98" title="ლიუბეკი – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-csb"><a href="https://csb.wikipedia.org/wiki/L%C3%BCbeck" title="Lübeck – Kashubian" lang="csb" hreflang="csb" class="interlanguage-link-target">Kaszëbsczi</a></li><li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/L%C3%BCbeck" title="Lübeck – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Lubeca" title="Lubeca – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/L%C4%ABbeka" title="Lībeka – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-lb"><a href="https://lb.wikipedia.org/wiki/L%C3%BCbeck" title="Lübeck – Luxembourgish" lang="lb" hreflang="lb" class="interlanguage-link-target">Lëtzebuergesch</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Liubekas" title="Liubekas – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-lmo"><a href="https://lmo.wikipedia.org/wiki/L%C3%BCbeca" title="Lübeca – Lombard" lang="lmo" hreflang="lmo" class="interlanguage-link-target">Lumbaart</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/L%C3%BCbeck" title="Lübeck – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%9B%D0%B8%D0%B1%D0%B5%D0%BA" title="Либек – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%B2%E0%A5%8D%E0%A4%AF%E0%A5%81%E0%A4%AC%E0%A5%87%E0%A4%95" title="ल्युबेक – Marathi" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/L%C3%BCbeck" title="Lübeck – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-nds-nl"><a href="https://nds-nl.wikipedia.org/wiki/Lubeek" title="Lubeek – Low Saxon" lang="nds-NL" hreflang="nds-NL" class="interlanguage-link-target">Nedersaksies</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%99%E3%83%83%E3%82%AF" title="リューベック – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-frr"><a href="https://frr.wikipedia.org/wiki/L%C3%BCbeck" title="Lübeck – Northern Frisian" lang="frr" hreflang="frr" class="interlanguage-link-target">Nordfriisk</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/L%C3%BCbeck" title="Lübeck – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/L%C3%BCbeck" title="Lübeck – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/L%C3%BCbeck" title="Lübeck – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/L%C3%BCbeck" title="Lübeck – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%D9%84%D9%88%D8%A8%DA%A9" title="لوبک – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li><li class="interlanguage-link interwiki-pms"><a href="https://pms.wikipedia.org/wiki/Lub%C3%ABcca" title="Lubëcca – Piedmontese" lang="pms" hreflang="pms" class="interlanguage-link-target">Piemontèis</a></li><li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/L%C3%BCbeck" title="Lübeck – Low German" lang="nds" hreflang="nds" class="interlanguage-link-target">Plattdüütsch</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Lubeka" title="Lubeka – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/L%C3%BCbeck" title="Lübeck – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/L%C3%BCbeck" title="Lübeck – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9B%D1%8E%D0%B1%D0%B5%D0%BA" title="Любек – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/L%C3%BCbeck" title="Lübeck – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-stq"><a href="https://stq.wikipedia.org/wiki/L%C3%BCbeck" title="Lübeck – Saterland Frisian" lang="stq" hreflang="stq" class="interlanguage-link-target">Seeltersk</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Lybeku" title="Lybeku – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/L%C3%BCbeck" title="Lübeck – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/L%C3%BCbeck" title="Lübeck – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/L%C3%BCbeck" title="Lübeck – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-szl"><a href="https://szl.wikipedia.org/wiki/L%C3%BCbeck" title="Lübeck – Silesian" lang="szl" hreflang="szl" class="interlanguage-link-target">Ślůnski</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%9B%D0%B8%D0%B1%D0%B5%D0%BA" title="Либек – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/L%C3%BCbeck" title="Lübeck – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Lyypekki" title="Lyypekki – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/L%C3%BCbeck" title="Lübeck – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%9B%D2%AF%D0%B1%D0%B5%D0%BA" title="Лүбек – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B9%80%E0%B8%9A%E0%B8%84" title="ลือเบค – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/L%C3%BCbeck" title="Lübeck – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-tw"><a href="https://tw.wikipedia.org/wiki/L%C3%BCbeck" title="Lübeck – Twi" lang="tw" hreflang="tw" class="interlanguage-link-target">Twi</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9B%D1%8E%D0%B1%D0%B5%D0%BA" title="Любек – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vec"><a href="https://vec.wikipedia.org/wiki/Lubeca" title="Lubeca – Venetian" lang="vec" hreflang="vec" class="interlanguage-link-target">Vèneto</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/L%C3%BCbeck" title="Lübeck – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/L%C3%BCbeck" title="Lübeck – Volapük" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/L%C3%BCbeck" title="Lübeck – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E5%91%82%E7%A2%A7%E5%85%8B" title="呂碧克 – Cantonese" lang="zh-yue" hreflang="zh-yue" class="interlanguage-link-target">粵語</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%90%95%E8%B4%9D%E5%85%8B" title="吕贝克 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2843#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 18 October 2017, at 15:05.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=L%C3%BCbeck&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.704","walltime":"0.966","ppvisitednodes":{"value":8210,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":167483,"limit":2097152},"templateargumentsize":{"value":22158,"limit":2097152},"expansiondepth":{"value":26,"limit":40},"expensivefunctioncount":{"value":10,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  748.734      1 -total"," 44.36%  332.124      1 Template:Infobox_German_location"," 41.17%  308.275      1 Template:Infobox_settlement"," 35.88%  268.632      2 Template:Infobox"," 12.30%   92.083      7 Template:Population_Germany","  9.76%   73.073     10 Template:Navbox","  8.34%   62.409      7 Template:Metadata_Population_DE-SH","  7.66%   57.370      5 Template:Cite_web","  6.90%   51.668      1 Template:Reflist","  5.25%   39.275      1 Template:Citation_needed"]},"scribunto":{"limitreport-timeusage":{"value":"0.242","limit":"10.000"},"limitreport-memusage":{"value":9281607,"limit":52428800}},"cachereport":{"origin":"mw1289","timestamp":"20171018150505","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":102,"wgHostname":"mw1320"});});</script>
+	</body>
+</html>

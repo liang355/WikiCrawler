@@ -1,0 +1,816 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Neuss - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Neuss","wgTitle":"Neuss","wgCurRevisionId":795317887,"wgRevisionId":795317887,"wgArticleId":411997,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 German-language sources (de)","Coordinates on Wikidata","Articles with hAudio microformats","All articles with unsourced statements","Articles with unsourced statements from March 2012","Official website different in Wikidata and Wikipedia","Articles with German-language external links","Wikipedia articles with VIAF identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","Cities in North Rhine-Westphalia","Neuss","16 BC establishments","Roman towns and cities in Germany","Rhein-Kreis Neuss","Members of the Hanseatic League","Roman legionary fortresses in Germany","Roman fortifications in Germania Inferior"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Neuss","wgRelevantArticleId":411997,"wgRequestId":"WeeaDQpAIDkAACWEosMAAAAQ","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCoordinates":{"lat":51.2,"lon":6.7},"wgWikibaseItemId":"Q2948","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.3"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Neuss_in_NE.svg/1200px-Neuss_in_NE.svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Neuss"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Neuss&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Neuss&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Neuss"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Neuss rootpage-Neuss vector-experimental-print-styles vector-nav-directionality skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Neuss</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox geography vcard" style="width:22em;width:23em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap"><span class="fn org"><span class="wrap">Neuss</span></span></th>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Neuss,_Rathaus_2008.JPG" class="image" title="Town hall"><img alt="Town hall" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Neuss%2C_Rathaus_2008.JPG/250px-Neuss%2C_Rathaus_2008.JPG" width="250" height="188" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Neuss%2C_Rathaus_2008.JPG/375px-Neuss%2C_Rathaus_2008.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Neuss%2C_Rathaus_2008.JPG/500px-Neuss%2C_Rathaus_2008.JPG 2x" data-file-width="2816" data-file-height="2112" /></a>
+<div>Town hall</div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" class="maptable" style="text-align:center">
+<table style="width:100%; background:none;">
+<tr>
+<td style="vertical-align:middle; text-align:center;"><a href="/wiki/File:DEU_Neuss_COA.svg" class="image" title="Coat of arms of Neuss "><img alt="Coat of arms of Neuss " src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/DEU_Neuss_COA.svg/80px-DEU_Neuss_COA.svg.png" width="80" height="55" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/DEU_Neuss_COA.svg/120px-DEU_Neuss_COA.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/DEU_Neuss_COA.svg/160px-DEU_Neuss_COA.svg.png 2x" data-file-width="794" data-file-height="549" /></a><br />
+<small>Coat of arms</small></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center">
+<div class="center">
+<div style="width:170px;float:none;clear:both;margin-left:auto;margin-right:auto">
+<div style="width:170px;padding:0">
+<div style="position:relative;width:170px"><a href="/wiki/File:Germany_adm_location_map.svg" class="image" title="Neuss  is located in Germany"><img alt="Neuss  is located in Germany" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/170px-Germany_adm_location_map.svg.png" width="170" height="202" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/255px-Germany_adm_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Germany_adm_location_map.svg/340px-Germany_adm_location_map.svg.png 2x" data-file-width="1073" data-file-height="1272" /></a>
+<div style="position:absolute;top:49.367%;left:12%">
+<div style="position:absolute;left:-3px;top:-3px;line-height:0"><img alt="Neuss " src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png" title="Neuss " width="6" height="6" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/9px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div>
+<div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:4px;text-align:left"><span style="padding:1px;float:left"><span class="wrap">Neuss</span></span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr class="mergedrow">
+<td colspan="2" style="text-align: center;">
+<div class="NavFrame collapsed" style="border:line;">
+<div class="NavHead" style="background:transparent;text-align:left;height:auto; padding:0.2em; padding-left:0.6em; padding-right:2em;">Location of Neuss within Rhein-Kreis Neuss district&#160;</div>
+<div class="NavContent" style="background:transparent;text-align:left;">
+<div class="noresize" style="height: 240px; width: 231px; "><map name="ImageMap_1_691849308" id="ImageMap_1_691849308">
+<area href="/wiki/Rhein-Kreis_Neuss" shape="poly" coords="12,61,33,61,33,75,12,75" alt="Rhein-Kreis Neuss" title="Rhein-Kreis Neuss" />
+<area href="/wiki/North_Rhine-Westphalia" shape="poly" coords="0,0,0,105,33,105,99,62,100,0,-10,0" alt="North Rhine-Westphalia" title="North Rhine-Westphalia" />
+<area href="/wiki/Duisburg" shape="poly" coords="163,5,176,0,163,0" alt="Duisburg" title="Duisburg" />
+<area href="/wiki/Mettmann_(district)" shape="poly" coords="204,0,207,46,259,50,252,0" alt="Mettmann (district)" title="Mettmann (district)" />
+<area href="/wiki/Mettmann_(district)" shape="poly" coords="243,71,252,72,252,91,245,91,243,77" alt="Mettmann (district)" title="Mettmann (district)" />
+<area href="/wiki/Mettmann_(district)" shape="poly" coords="234,148,252,154,252,200,234,181,245,171" alt="Mettmann (district)" title="Mettmann (district)" />
+<area href="/wiki/Cologne" shape="poly" coords="234,181,252,200,252,241,234,241,234,227,213,214,234,203,222,191" alt="Cologne" title="Cologne" />
+<area href="/wiki/Rhein-Erft-Kreis" shape="poly" coords="204,203,213,214,232,227,234,241,61,241,66,227,86,214,109,214,99,227,121,235,143,235,176,235,195,214,189,203,207,203" alt="Rhein-Erft-Kreis" title="Rhein-Erft-Kreis" />
+<area href="/wiki/D%C3%BCren_(district)" shape="poly" coords="66,227,57,241,61,241,12,241,21,235,59,221" alt="Düren (district)" title="Düren (district)" />
+<area href="/wiki/Heinsberg_(district)" shape="poly" coords="66,227,19,235,13,241,0,241,0,159,12,181,55,191,54,208,66,214,57,221" alt="Heinsberg (district)" title="Heinsberg (district)" />
+<area href="/wiki/M%C3%B6nchengladbach" shape="poly" coords="54,191,13,181,0,159,0,106,41,107,66,81,78,91,66,91,66,128,78,128,86,148,66,148,59,154,66,171,60,181,41,171" alt="Mönchengladbach" title="Mönchengladbach" />
+<area href="/wiki/Viersen_(district)" shape="poly" coords="78,91,66,77,100,62,99,41,109,41,116,62,121,68,100,91" alt="Viersen (district)" title="Viersen (district)" />
+<area href="/wiki/Krefeld" shape="poly" coords="109,41,99,41,100,0,157,0,116,41" alt="Krefeld" title="Krefeld" />
+<area href="/wiki/D%C3%BCsseldorf" shape="poly" coords="163,6,176,0,204,0,204,47,252,50,252,71,240,72,245,91,252,91,252,154,237,148,234,128,213,136,204,119,176,106,176,91,163,81,176,62,163,46,172,25" alt="Düsseldorf" title="Düsseldorf" />
+<area href="/wiki/Rommerskirchen" shape="poly" coords="143,235,176,235,195,214,187,196,163,171,143,181" alt="Rommerskirchen" title="Rommerskirchen" />
+<area href="/wiki/Neuss" shape="poly" coords="138,81,163,81,176,91,181,111,204,119,213,136,176,159,163,148,152,154,132,136" alt="Neuss" title="Neuss" />
+<area href="/wiki/Grevenbroich" shape="poly" coords="89,214,109,214,99,227,116,235,143,232,143,181,163,171,176,159,163,148,153,154,132,136,109,155,109,171,86,190,94,197" alt="Grevenbroich" title="Grevenbroich" />
+<area href="/wiki/Dormagen" shape="poly" coords="163,172,211,136,234,128,236,154,245,170,222,193,230,203,216,214,210,197,198,201,192,201,183,192,176,192" alt="Dormagen" title="Dormagen" />
+<area href="/wiki/Korschenbroich" shape="poly" coords="66,126,70,109,67,91,100,91,109,115,121,120,132,120,128,142,116,146,109,136,100,148,88,147,78,120,68,130" alt="Korschenbroich" title="Korschenbroich" />
+<area href="/wiki/J%C3%BCchen" shape="poly" coords="66,150,100,148,109,136,116,148,109,153,109,171,85,191,94,197,88,211,68,227,59,221,68,211,54,209,55,195,41,175,62,177,68,168,61,157" alt="Jüchen" title="Jüchen" />
+<area href="/wiki/Kaarst" shape="poly" coords="100,86,109,114,120,120,133,119,137,81,143,81,143,62,122,71" alt="Kaarst" title="Kaarst" />
+<area href="/wiki/Meerbusch" shape="poly" coords="159,0,126,31,109,47,114,59,124,68,139,61,148,81,159,76,176,65,163,48,172,22" alt="Meerbusch" title="Meerbusch" /></map><img alt="Neuss in NE.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Neuss_in_NE.svg/231px-Neuss_in_NE.svg.png" width="231" height="240" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Neuss_in_NE.svg/346px-Neuss_in_NE.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/34/Neuss_in_NE.svg/462px-Neuss_in_NE.svg.png 2x" data-file-width="358" data-file-height="372" usemap="#ImageMap_1_691849308" />
+<div style="margin-left: 211px; margin-top: -20px; text-align: left;"><a href="/wiki/File:Neuss_in_NE.svg" title="About this image"><img alt="About this image" src="/w/extensions/ImageMap/desc-20.png?15600" style="border: none;" /></a></div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr class="mergedbottomrow">
+<td colspan="2" style="text-align:center">Coordinates: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Neuss&amp;params=51_12_N_6_42_E_type:city(155414)_region:DE-NW"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">51°12′N</span> <span class="longitude">6°42′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">51.200°N 6.700°E</span><span style="display:none">﻿ / <span class="geo">51.200; 6.700</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Neuss&amp;params=51_12_N_6_42_E_type:city(155414)_region:DE-NW"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">51°12′N</span> <span class="longitude">6°42′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">51.200°N 6.700°E</span><span style="display:none">﻿ / <span class="geo">51.200; 6.700</span></span></span></a></span></span></span></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Country</th>
+<td><a href="/wiki/Germany" title="Germany">Germany</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/States_of_Germany" title="States of Germany">State</a></th>
+<td><a href="/wiki/North_Rhine-Westphalia" title="North Rhine-Westphalia">North Rhine-Westphalia</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Regierungsbezirk" title="Regierungsbezirk">Admin. region</a></th>
+<td><a href="/wiki/D%C3%BCsseldorf_(region)" title="Düsseldorf (region)">Düsseldorf</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Districts_of_Germany" title="Districts of Germany">District</a></th>
+<td><a href="/wiki/Rhein-Kreis_Neuss" title="Rhein-Kreis Neuss">Rhein-Kreis Neuss</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Government</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;<a href="/wiki/Burgomaster" title="Burgomaster">Mayor</a></th>
+<td><a href="https://de.wikipedia.org/wiki/Reiner_Breuer" class="extiw" title="de:Reiner Breuer">de:Reiner Breuer</a> (<a href="/wiki/Social_Democratic_Party_of_Germany" title="Social Democratic Party of Germany">SPD</a>)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Area</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Total</th>
+<td>99.48&#160;km<sup>2</sup> (38.41&#160;sq&#160;mi)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Elevation</th>
+<td>30 - 67&#160;m (−190&#160;ft)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Population <span style="font-weight:normal">(2015-12-31)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></span></th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Total</th>
+<td>155,414</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Density</th>
+<td>1,600/km<sup>2</sup> (4,000/sq&#160;mi)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/Time_zone" title="Time zone">Time zone</a></th>
+<td><a href="/wiki/Central_European_Time" title="Central European Time">CET</a>/<a href="/wiki/Central_European_Summer_Time" title="Central European Summer Time">CEST</a> (UTC+1/+2)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/List_of_postal_codes_in_Germany" title="List of postal codes in Germany">Postal codes</a></th>
+<td class="adr"><span class="postal-code">41460-41472</span></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/List_of_dialling_codes_in_Germany" title="List of dialling codes in Germany">Dialling codes</a></th>
+<td>02131, 02137 (Norf), 02182</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Vehicle_registration_plate" title="Vehicle registration plate">Vehicle registration</a></th>
+<td>NE</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Website</th>
+<td><a rel="nofollow" class="external text" href="http://www.neuss.de/">www.neuss.de</a></td>
+</tr>
+</table>
+<p><b>Neuss</b> (<small>German pronunciation:</small> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA/Standard_German" title="Help:IPA/Standard German">[ˈnɔʏs]</a></span><small class="nowrap metadata">&#160;(<span class="unicode haudio"><span class="fn"><span style="white-space:nowrap"><a href="/wiki/File:De-Neuss.ogg" title="About this sound"><img alt="About this sound" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" data-file-width="20" data-file-height="20" /></a>&#160;</span><a href="//upload.wikimedia.org/wikipedia/commons/8/87/De-Neuss.ogg" class="internal" title="De-Neuss.ogg">listen</a></span></span>)</small>; spelled <i>Neuß</i> until 1968; <a href="/wiki/Limburgish_language" title="Limburgish language">Limburgish</a>: <i>Nüss</i>; <a href="/wiki/Latin" title="Latin">Latin</a>: <i>Novaesium</i>) is a city in <a href="/wiki/North_Rhine-Westphalia" title="North Rhine-Westphalia">North Rhine-Westphalia</a>, <a href="/wiki/Germany" title="Germany">Germany</a>. It is located on the west bank of the <a href="/wiki/Rhine" title="Rhine">Rhine</a> opposing <a href="/wiki/D%C3%BCsseldorf" title="Düsseldorf">Düsseldorf</a>. Neuss is the largest city within the <a href="/wiki/Rhein-Kreis_Neuss" title="Rhein-Kreis Neuss">Rhein-Kreis Neuss</a> district. It is primarily known for its historic Roman sites, as well as the annual <a href="/wiki/Neuss_Sch%C3%BCtzenfest" title="Neuss Schützenfest">Neusser Bürger-Schützenfest</a>. In 1984 Neuss celebrated 2000 years since its foundation. It therefore holds the title of "Germany's oldest city" alongside the city of <a href="/wiki/Trier" title="Trier">Trier</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Ancient_Rome"><span class="tocnumber">1.1</span> <span class="toctext">Ancient Rome</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Middle_Ages"><span class="tocnumber">1.2</span> <span class="toctext">Middle Ages</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Early_Modernity"><span class="tocnumber">1.3</span> <span class="toctext">Early Modernity</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#19th_century_-_present"><span class="tocnumber">1.4</span> <span class="toctext">19th century - present</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Mayors_and_Lord_Mayors_since_1849"><span class="tocnumber">2</span> <span class="toctext">Mayors and Lord Mayors since 1849</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Number_of_inhabitants"><span class="tocnumber">3</span> <span class="toctext">Number of inhabitants</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Sports"><span class="tocnumber">4</span> <span class="toctext">Sports</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Points_of_interest"><span class="tocnumber">5</span> <span class="toctext">Points of interest</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Notable_people"><span class="tocnumber">6</span> <span class="toctext">Notable people</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#Gallery"><span class="tocnumber">6.1</span> <span class="toctext">Gallery</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Twinnings"><span class="tocnumber">7</span> <span class="toctext">Twinnings</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Neuss&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Rheinbahn.Neuss.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Rheinbahn.Neuss.jpg/220px-Rheinbahn.Neuss.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Rheinbahn.Neuss.jpg/330px-Rheinbahn.Neuss.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Rheinbahn.Neuss.jpg/440px-Rheinbahn.Neuss.jpg 2x" data-file-width="2048" data-file-height="1536" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Rheinbahn.Neuss.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Rheinbahn" title="Rheinbahn">Rheinbahn</a> tram in downtown Neuss.</div>
+</div>
+</div>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:St._Sebastianus_Kirche_Neuss_2.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/St._Sebastianus_Kirche_Neuss_2.JPG/220px-St._Sebastianus_Kirche_Neuss_2.JPG" width="220" height="451" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/8/89/St._Sebastianus_Kirche_Neuss_2.JPG 1.5x" data-file-width="319" data-file-height="654" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:St._Sebastianus_Kirche_Neuss_2.JPG" class="internal" title="Enlarge"></a></div>
+Saint Sebastianus church in the city of Neuss</div>
+</div>
+</div>
+<h3><span class="mw-headline" id="Ancient_Rome">Ancient Rome</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Neuss&amp;action=edit&amp;section=2" title="Edit section: Ancient Rome">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Neuss was founded by the <a href="/wiki/Ancient_Rome" title="Ancient Rome">Romans</a> in 16 BC as a military fortification (<i><a href="/wiki/Castrum" class="mw-redirect" title="Castrum">castrum</a></i>) with the current city to the north of the castrum, at the confluence of the rivers <a href="/wiki/Rhine" title="Rhine">Rhine</a> and <a href="/wiki/Erft" title="Erft">Erft</a>, with the name of <b>Novaesium</b>.</p>
+<p><a href="/wiki/Legio_XVI_Gallica" title="Legio XVI Gallica">Legio XVI Gallica</a> ("Gallic 16th Legion") of the Roman army was stationed here in 43-70 AD. It was disbanded after surrendering during the <a href="/wiki/Batavian_rebellion" class="mw-redirect" title="Batavian rebellion">Batavian rebellion</a> (AD 70).<sup id="cite_ref-Bunson2009_2-0" class="reference"><a href="#cite_note-Bunson2009-2">[2]</a></sup></p>
+<p>Later a civil settlement was founded in the area of today's centre of the town during the 1st century AD. Novaesium, together with <a href="/wiki/Treves" class="mw-redirect" title="Treves">Trier</a> (<i>Augusta Treverorum</i>), is one of the three oldest Roman settlements in Germany.</p>
+<h3><span class="mw-headline" id="Middle_Ages">Middle Ages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Neuss&amp;action=edit&amp;section=3" title="Edit section: Middle Ages">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Neuss grew during the <a href="/wiki/Middle_Ages" title="Middle Ages">Middle Ages</a> because of its prime location on several routes, by the crossing of the great Rhine valley, and with its <a href="/wiki/Harbour" class="mw-redirect" title="Harbour">harbour</a> and <a href="/wiki/Ferry" title="Ferry">ferry</a>. During the 10th century, the remains of the <a href="/wiki/Martyr" title="Martyr">martyr</a> and <a href="/wiki/Tribune" title="Tribune">tribune</a> <a href="/wiki/Saint_Quirinus_of_Neuss" class="mw-redirect" title="Saint Quirinus of Neuss">Saint Quirinus</a>, not to be confused with the Roman god <a href="/wiki/Quirinus" title="Quirinus">Quirinus</a>, had been relocated to Neuss. This resulted in <a href="/wiki/Pilgrimage" title="Pilgrimage">pilgrimage</a> to the shrine of St. Quirinus even from countries beyond the borders of the <a href="/wiki/Holy_Roman_Empire" title="Holy Roman Empire">Holy Roman Empire</a>. Neuss was first documented as a town in 1138.</p>
+<p>One of the main events in the town's history is the <a href="/wiki/Siege_of_Neuss" title="Siege of Neuss">siege of the town in 1474–75</a> by <a href="/wiki/Charles_the_Bold" title="Charles the Bold">Charles the Bold</a>, Duke of <a href="/wiki/Duchy_of_Burgundy" title="Duchy of Burgundy">Burgundy</a>, that lasted for nearly a year. The citizens of Neuss withstood the siege and were therefore rewarded by the Holy Roman Emperor <a href="/wiki/Frederick_III,_Holy_Roman_Emperor" title="Frederick III, Holy Roman Emperor">Frederick III</a>. The town was granted the right to mint its own coins and to carry the imperial <a href="/wiki/Coat_of_arms" title="Coat of arms">coat of arms</a>, the imperial eagle and the crown, in the town's own coat of arms. Neuss became a member of the <a href="/wiki/Hanseatic_League" title="Hanseatic League">Hanseatic League</a>, although it was never accepted by the other members of the League.</p>
+<h3><span class="mw-headline" id="Early_Modernity">Early Modernity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Neuss&amp;action=edit&amp;section=4" title="Edit section: Early Modernity">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 1586, <a href="/wiki/Destruction_of_Neuss" title="Destruction of Neuss">more than two-thirds of the city was destroyed by fire</a>, and several wars during the reign of King <a href="/wiki/Louis_XIV_of_France" title="Louis XIV of France">Louis XIV</a> of <a href="/wiki/Kingdom_of_France" title="Kingdom of France">France</a> resulted in worsening finances for Neuss. Its importance as a place for trading declined rapidly, and from the mid-17th century onwards, Neuss became a place only important for its agriculture.</p>
+<p>Until the late 18th century, Neuss belonged to the <a href="/wiki/Electorate_of_Cologne" title="Electorate of Cologne">Electorate of Cologne</a>. From 1794 to 1814, Neuss was part of <a href="/wiki/France" title="France">France</a> during the reign of <a href="/wiki/Napoleon_I_of_France" class="mw-redirect" title="Napoleon I of France">Napoleon</a>. In 1815 after the <a href="/wiki/Napoleonic_Wars" title="Napoleonic Wars">Napoleonic Wars</a>, Neuss became part of the <a href="/wiki/Kingdom_of_Prussia" title="Kingdom of Prussia">Kingdom of Prussia</a>, and was reorganized as a district with the municipalities of Neuss, <a href="/wiki/Dormagen" title="Dormagen">Dormagen</a>, <a href="/w/index.php?title=Nettesheim&amp;action=edit&amp;redlink=1" class="new" title="Nettesheim (page does not exist)">Nettesheim</a>, <a href="/w/index.php?title=Nievenheim&amp;action=edit&amp;redlink=1" class="new" title="Nievenheim (page does not exist)">Nievenheim</a>, <a href="/wiki/Rommerskirchen" title="Rommerskirchen">Rommerskirchen</a> and <a href="/wiki/Zons" title="Zons">Zons</a>. The town had a population of 6,333 at that time. It was part of the Prussian <a href="/wiki/Province_of_J%C3%BClich-Cleves-Berg" title="Province of Jülich-Cleves-Berg">Province of Jülich-Cleves-Berg</a> (1815–22) and its successor, the <a href="/wiki/Rhine_Province" title="Rhine Province">Rhine Province</a> (1822–1946).</p>
+<h3><span class="mw-headline" id="19th_century_-_present">19th century - present</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Neuss&amp;action=edit&amp;section=5" title="Edit section: 19th century - present">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Neuss regained its economic power in the 19th century, with expansion of the harbour in 1835, and increasing industrial activity. The city's boundaries were expanded in 1881. Neuss became part of the new state of <a href="/wiki/North_Rhine-Westphalia" title="North Rhine-Westphalia">North Rhine-Westphalia</a> in 1946.</p>
+<p>In 1968 the spelling of the name was changed from <i>Neuß</i> to <i>Neuss</i>. In 1975 the town of Neuss and the district of <a href="/wiki/Grevenbroich" title="Grevenbroich">Grevenbroich</a> were joined to form the district of <a href="/wiki/Rhein-Kreis_Neuss" title="Rhein-Kreis Neuss">Rhein-Kreis Neuss</a> with a population of 440,000 and its seat of government in Neuss. Neuss is also home to <a href="/wiki/Toshiba" title="Toshiba">Toshiba's</a> European headquarters.</p>
+<table class="infobox" style="float:right;">
+<tr>
+<td colspan="2"><b>Largest groups of foreign residents</b><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></td>
+</tr>
+<tr>
+<th>Nationality</th>
+<th>Population (2013)</th>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/23px-Flag_of_Turkey.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/35px-Flag_of_Turkey.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/45px-Flag_of_Turkey.svg.png 2x" data-file-width="1200" data-file-height="800" />&#160;</span><a href="/wiki/Turkey" title="Turkey">Turkey</a></td>
+<td>5,864</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/23px-Flag_of_Greece.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/35px-Flag_of_Greece.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/45px-Flag_of_Greece.svg.png 2x" data-file-width="600" data-file-height="400" />&#160;</span><a href="/wiki/Greece" title="Greece">Greece</a></td>
+<td>1,429</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/35px-Flag_of_Poland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/46px-Flag_of_Poland.svg.png 2x" data-file-width="1280" data-file-height="800" />&#160;</span><a href="/wiki/Poland" title="Poland">Poland</a></td>
+<td>1,218</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/23px-Flag_of_Portugal.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/35px-Flag_of_Portugal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/45px-Flag_of_Portugal.svg.png 2x" data-file-width="600" data-file-height="400" />&#160;</span><a href="/wiki/Portugal" title="Portugal">Portugal</a></td>
+<td>1,125</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/Flag_of_Serbia_and_Montenegro.svg/23px-Flag_of_Serbia_and_Montenegro.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/Flag_of_Serbia_and_Montenegro.svg/35px-Flag_of_Serbia_and_Montenegro.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/90/Flag_of_Serbia_and_Montenegro.svg/46px-Flag_of_Serbia_and_Montenegro.svg.png 2x" data-file-width="600" data-file-height="300" />&#160;</span><a href="/wiki/Serbia_and_Montenegro" title="Serbia and Montenegro">Serbia &amp; Montenegro</a></td>
+<td>1,016</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/wiki/Italy" title="Italy">Italy</a></td>
+<td>909</td>
+</tr>
+</table>
+<div style="clear:both;"></div>
+<h2><span class="mw-headline" id="Mayors_and_Lord_Mayors_since_1849">Mayors and Lord Mayors since 1849</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Neuss&amp;action=edit&amp;section=6" title="Edit section: Mayors and Lord Mayors since 1849">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>1849-1851: Heinrich Thywissen, Mayor (<a href="/wiki/B%C3%BCrgermeister" class="mw-redirect" title="Bürgermeister">Bürgermeister</a>)</li>
+<li>1851-1858: Michael Frings, Mayor</li>
+<li>1858-1882: Johann Joseph Ridder, Mayor</li>
+<li>1882-1889: Carl Wenders, Mayor</li>
+<li>1890-1902: Engelbert Tilmann, Mayor</li>
+<li>1902-1921: Franz Gielen, Lord Mayor</li>
+<li>1921-1930: Heinrich Hüpper, Lord Mayor</li>
+<li>1930-1934: Wilhelm Henrichs, <a href="/wiki/Centre_Party_(Germany)" title="Centre Party (Germany)">Centre Party (Germany)</a>, Lord Mayor (Oberbürgermeister)</li>
+<li>1934-1938: Wilhelm Eberhard Gelberg, <a href="/wiki/NSDAP" class="mw-redirect" title="NSDAP">NSDAP</a>, Lord Mayor</li>
+<li>1938-1945: Wilhelm Tödtmann, NSDAP, Lord Mayor</li>
+<li>1945-1946: Josef Nagel, Lord Mayor</li>
+<li>1946: Josef Schmitz, Lord Mayor</li>
+<li>1946-1961: Alfons Frings, CDU, Lord Mayor</li>
+<li>1961-1967: Peter Wilhelm Kallen, Lord Mayor</li>
+<li>1967-1982: Herbert Karrenberg, <a href="/wiki/Christian_Democratic_Union_of_Germany" title="Christian Democratic Union of Germany">CDU</a>, Lord Mayor</li>
+<li>1982-1987: Hermann Wilhelm Thywissen, CDU, Lord Mayor</li>
+<li>1987-1998: Bertold Mathias Reinartz, CDU, Mayor</li>
+<li>1998-2015: Herbert Napp, CDU, Mayor</li>
+<li>Since 2015:Reiner Breuer, <a href="/wiki/Social_Democratic_Party_of_Germany" title="Social Democratic Party of Germany">SPD</a>, Mayor</li>
+</ul>
+<h2><span class="mw-headline" id="Number_of_inhabitants">Number of inhabitants</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Neuss&amp;action=edit&amp;section=7" title="Edit section: Number of inhabitants">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>1798: 4.423</li>
+<li>1831: 7.888</li>
+<li>1861: 10.300</li>
+<li>1885: 20.074</li>
+<li>1900: 28.472</li>
+<li>1925: 44.958</li>
+<li>1945: 51.624</li>
+<li>1965: 111.104</li>
+<li>1987: 142.178</li>
+<li>2015: 159.672</li>
+</ul>
+<p><br /></p>
+<h2><span class="mw-headline" id="Sports">Sports</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Neuss&amp;action=edit&amp;section=8" title="Edit section: Sports">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>One sports club is Neusser Schlittschuh-Klub. Their sections are <a href="/wiki/Figure_skating" title="Figure skating">figure skating</a>, <a href="/wiki/Ice_stock_sport" title="Ice stock sport">ice stock sport</a> and, as the only club in Germany, <a href="/wiki/Bandy" title="Bandy">bandy</a>. With the lack of a large ice surface, the variety <a href="/wiki/Rink_bandy" title="Rink bandy">rink bandy</a> is practiced.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> And there is also a football club in the city of Neuss, the VfR Neuss Football Club. There is also a fieldhockey club, HTC Schwarz-Weiss Neuss, and TC Blau-Weiss Neuss, a famous tennis club where Nadal began his career. And an American Football Club, the Neuss Frogs. Besides Neuss owns an all-weather racecourse called "<a href="/w/index.php?title=Galopprennbahn_Neuss&amp;action=edit&amp;redlink=1" class="new" title="Galopprennbahn Neuss (page does not exist)">Galopprennbahn Neuss</a>".</p>
+<h2><span class="mw-headline" id="Points_of_interest">Points of interest</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Neuss&amp;action=edit&amp;section=9" title="Edit section: Points of interest">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><i><a href="/wiki/Botanischer_Garten_der_Stadt_Neuss" title="Botanischer Garten der Stadt Neuss">Botanischer Garten der Stadt Neuss</a></i>, the city's <a href="/wiki/Botanical_garden" title="Botanical garden">botanical garden</a></li>
+<li>Saint Quirinus Minster: a 13th-century late <a href="/wiki/Romanesque_architecture" title="Romanesque architecture">romanesque</a> church, dedicated to <a href="/wiki/Quirinus_of_Neuss" title="Quirinus of Neuss">the city's patron saint</a> and housing a shrine with his relics. Its dome-shaped eastern tower is one of the city's landmarks. In 2009 it was granted the title of <a href="/wiki/Minor_basilica" title="Minor basilica">minor basilica</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (March 2012)">citation needed</span></a></i>]</sup></li>
+<li><i>Obertor</i> (<i>Upper Gate</i>): southern city gate, built c.1200; today part of the <i>Clemens-Sels-Museum</i>. It is the only remaining of originally six gates that were part of the medieval town fortification.</li>
+<li><i>Blutturm</i> (<i>Bloody Tower</i>): built in the 13th century, the only remaining round tower of the historic town fortification.</li>
+<li><i>Zum "Schwatte Päd"</i> (<i>The Black Horse</i>): the oldest <a href="/wiki/Public_house" class="mw-redirect" title="Public house">public house</a> in the <a href="/wiki/Lower_Rhine" title="Lower Rhine">Lower Rhine</a> region, established 1604</li>
+<li>Saint Sebastianus Church</li>
+<li>Saint Maria Church:</li>
+<li><i>Christuskirche</i> (<i>Christ church</i>): <a href="/wiki/Historicism_(art)" title="Historicism (art)">historicistic</a> church, the city's oldest Protestant church</li>
+<li>Globe Theater, a replica of the <a href="/wiki/Globe_Theatre" title="Globe Theatre">London Globe Theatre</a>, with an annual Shakespeare festival</li>
+<li>Hamtor/the Hamgate</li>
+<li><i><a href="/wiki/Neuss_Sch%C3%BCtzenfest" title="Neuss Schützenfest">Neusser Bürger-Schützenfest</a></i>: one of Germany's largest <a href="/wiki/Sch%C3%BCtzenfest" title="Schützenfest">marksmen's festivals</a>, taking place annually on the last weekend in August; roundabout 7000 marksmen take part in the traditional parades.</li>
+</ul>
+<h2><span class="mw-headline" id="Notable_people">Notable people</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Neuss&amp;action=edit&amp;section=10" title="Edit section: Notable people">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:152px;"><a href="/wiki/File:Theodor_Schwann_Litho.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Theodor_Schwann_Litho.jpg/150px-Theodor_Schwann_Litho.jpg" width="150" height="202" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Theodor_Schwann_Litho.jpg/225px-Theodor_Schwann_Litho.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Theodor_Schwann_Litho.jpg/300px-Theodor_Schwann_Litho.jpg 2x" data-file-width="1260" data-file-height="1695" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Theodor_Schwann_Litho.jpg" class="internal" title="Enlarge"></a></div>
+Theodor Schwann 1857</div>
+</div>
+</div>
+<ul>
+<li><a href="/wiki/Hildegund_(virgin)" title="Hildegund (virgin)">Hildegund (virgin)</a> (1170-1188), saint</li>
+<li><a href="/wiki/Johann_Pennarius" title="Johann Pennarius">Johann Pennarius</a> (1517-1563), auxiliary bishop in Cologne</li>
+<li><a href="/wiki/Hermann_Thyraeus" title="Hermann Thyraeus">Hermann Thyraeus</a> (1532-1591), theologian and member of the <a href="/wiki/Society_of_Jesus" title="Society of Jesus">Society of Jesus</a></li>
+<li><a href="/wiki/Peter_Thyraeus" title="Peter Thyraeus">Peter Thyraeus</a>, (1546-1601) Jesuit, professor of theology in Würzburg</li>
+<li><a href="/wiki/Theodor_Schwann" title="Theodor Schwann">Theodor Schwann</a> (1810-1882), physiologist</li>
+<li><a href="/wiki/Franz_Maria_Feldhaus" title="Franz Maria Feldhaus">Franz Maria Feldhaus</a> (1874-1957), technical historian and scientific writer</li>
+<li><a href="/wiki/Joseph_Frings" class="mw-redirect" title="Joseph Frings">Joseph Frings</a> (1887-1978), Archbishop of the Archbishopric of Cologne</li>
+<li><a href="/wiki/Kurt_Josten" title="Kurt Josten">Kurt Josten</a> (1912-1994), German-British jurist, state official and resistance fighter</li>
+<li><a href="/wiki/Erik_Martin" title="Erik Martin">Erik Martin</a> (born 1936), author, songwriter and editor</li>
+<li><a href="/wiki/Mario_Ohoven" title="Mario Ohoven">Mario Ohoven</a> (born 1946), financial intermediary and investment adviser</li>
+<li><a href="/wiki/Elke_Aberle" title="Elke Aberle">Elke Aberle</a> (born 1950), actress</li>
+<li><a href="/wiki/M%C3%B2nica_Oltra" title="Mònica Oltra">Mònica Oltra</a> (born 1969) Spanish politician; currently vice president, spokesperson and minister for Equality and Inclusive Policies of the Valencian government.</li>
+<li><a href="/wiki/Friedhelm_Funkel" title="Friedhelm Funkel">Friedhelm Funkel</a> (born 1953), football player and coach</li>
+<li><a href="/wiki/Heike_Hohlbein" title="Heike Hohlbein">Heike Hohlbein</a> (born 1954), writer</li>
+<li><a href="/wiki/J%C3%BCrgen_P._Rabe" title="Jürgen P. Rabe">Jürgen P. Rabe</a> (born 1955), physicist</li>
+<li><a href="/wiki/Norbert_Hummelt" title="Norbert Hummelt">Norbert Hummelt</a> (born 1962), writer</li>
+<li><a href="/wiki/Kai_B%C3%B6cking" title="Kai Böcking">Kai Böcking</a> (born 1964), moderator</li>
+<li><a href="/wiki/Franziska_Pigulla" title="Franziska Pigulla">Franziska Pigulla</a> (born 1964), German actress, news presenter and voice actress</li>
+<li><a href="/wiki/Thomas_Rupprath" title="Thomas Rupprath">Thomas Rupprath</a> (born 1977), swimmer</li>
+<li><a href="/wiki/Lars_B%C3%B6rgeling" title="Lars Börgeling">Lars Börgeling</a> (born 1979), pole vaulter</li>
+<li><a href="/wiki/Judith_Flemig" title="Judith Flemig">Judith Flemig</a> (born 1979), volleyball player</li>
+<li><a href="/wiki/Marcel_Ohmann" title="Marcel Ohmann">Marcel Ohmann</a> (born 1991), ice hockey player</li>
+<li><a href="/wiki/Danny_da_Costa" title="Danny da Costa">Danny da Costa</a> (born 1993), footballer</li>
+<li>Houri Hagopian, also known as 'Neus'</li>
+</ul>
+<h3><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Neuss&amp;action=edit&amp;section=11" title="Edit section: Gallery">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:26.5px auto;"><a href="/wiki/File:Quirinus-M%C3%BCnster.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Quirinus-M%C3%BCnster.jpg/120px-Quirinus-M%C3%BCnster.jpg" width="120" height="97" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Quirinus-M%C3%BCnster.jpg/180px-Quirinus-M%C3%BCnster.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Quirinus-M%C3%BCnster.jpg/240px-Quirinus-M%C3%BCnster.jpg 2x" data-file-width="500" data-file-height="405" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Saint Quirinus Minster</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Neuss_Obertor_Landseite.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Neuss_Obertor_Landseite.JPG/96px-Neuss_Obertor_Landseite.JPG" width="96" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Neuss_Obertor_Landseite.JPG/144px-Neuss_Obertor_Landseite.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/79/Neuss_Obertor_Landseite.JPG/192px-Neuss_Obertor_Landseite.JPG 2x" data-file-width="2132" data-file-height="2660" /></a></div>
+</div>
+<div class="gallerytext">
+<p><i>Obertor</i></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Neuss_StSebastianus_v_N.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Neuss_StSebastianus_v_N.jpg/120px-Neuss_StSebastianus_v_N.jpg" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Neuss_StSebastianus_v_N.jpg/180px-Neuss_StSebastianus_v_N.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Neuss_StSebastianus_v_N.jpg/240px-Neuss_StSebastianus_v_N.jpg 2x" data-file-width="3420" data-file-height="2564" /></a></div>
+</div>
+<div class="gallerytext">
+<p>St. Sebastianus Church</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Christuskirche_Neuss_Turm.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Christuskirche_Neuss_Turm.JPG/90px-Christuskirche_Neuss_Turm.JPG" width="90" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Christuskirche_Neuss_Turm.JPG/135px-Christuskirche_Neuss_Turm.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Christuskirche_Neuss_Turm.JPG/180px-Christuskirche_Neuss_Turm.JPG 2x" data-file-width="1536" data-file-height="2048" /></a></div>
+</div>
+<div class="gallerytext">
+<p><i>Christuskirche</i></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Blutturm_2_Neuss.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Blutturm_2_Neuss.jpg/120px-Blutturm_2_Neuss.jpg" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Blutturm_2_Neuss.jpg/180px-Blutturm_2_Neuss.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Blutturm_2_Neuss.jpg/240px-Blutturm_2_Neuss.jpg 2x" data-file-width="4000" data-file-height="3000" /></a></div>
+</div>
+<div class="gallerytext">
+<p><i>Blutturm</i></p>
+</div>
+</div>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Twinnings">Twinnings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Neuss&amp;action=edit&amp;section=12" title="Edit section: Twinnings">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Ch%C3%A2lons-en-Champagne" title="Châlons-en-Champagne">Châlons-en-Champagne</a>, <a href="/wiki/France" title="France">France</a>, since 1972</li>
+<li><span class="flagicon"><a href="/wiki/Russia" title="Russia"><img alt="Russia" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/35px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/45px-Flag_of_Russia.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Pskov" title="Pskov">Pskov</a>, <a href="/wiki/Russia" title="Russia">Russia</a>, since 1990</li>
+<li><span class="flagicon"><a href="/wiki/Croatia" title="Croatia"><img alt="Croatia" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/23px-Flag_of_Croatia.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/35px-Flag_of_Croatia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/46px-Flag_of_Croatia.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Rijeka" title="Rijeka">Rijeka</a>, <a href="/wiki/Croatia" title="Croatia">Croatia</a>, since 1990</li>
+<li><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/Saint_Paul,_Minnesota" title="Saint Paul, Minnesota">Saint Paul, Minnesota</a>, <a href="/wiki/United_States" title="United States">United States</a>, since 1999</li>
+<li><span class="flagicon"><a href="/wiki/Turkey" title="Turkey"><img alt="Turkey" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/23px-Flag_of_Turkey.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/35px-Flag_of_Turkey.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/45px-Flag_of_Turkey.svg.png 2x" data-file-width="1200" data-file-height="800" /></a></span> <a href="/wiki/Nev%C5%9Fehir" title="Nevşehir">Nevşehir</a>, <a href="/wiki/Turkey" title="Turkey">Turkey</a>, since 2007</li>
+<li><span class="flagicon"><a href="/wiki/Turkey" title="Turkey"><img alt="Turkey" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/23px-Flag_of_Turkey.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/35px-Flag_of_Turkey.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/45px-Flag_of_Turkey.svg.png 2x" data-file-width="1200" data-file-height="800" /></a></span> <a href="/wiki/Bolu" title="Bolu">Bolu</a>, <a href="/wiki/Turkey" title="Turkey">Turkey</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Neuss&amp;action=edit&amp;section=13" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.it.nrw.de/statistik/a/daten/bevoelkerungszahlen_zensus/index.html">"Amtliche Bevölkerungszahlen"</a>. <i><a href="/wiki/Landesbetrieb_Information_und_Technik_NRW" class="mw-redirect" title="Landesbetrieb Information und Technik NRW">Landesbetrieb Information und Technik NRW</a></i> (in German). 18 July 2016.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANeuss&amp;rft.atitle=Amtliche+Bev%C3%B6lkerungszahlen&amp;rft.date=2016-07-18&amp;rft.genre=unknown&amp;rft.jtitle=Landesbetrieb+Information+und+Technik+NRW&amp;rft_id=http%3A%2F%2Fwww.it.nrw.de%2Fstatistik%2Fa%2Fdaten%2Fbevoelkerungszahlen_zensus%2Findex.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Bunson2009-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Bunson2009_2-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Matthew Bunson (1 January 2009). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=T5tic2VunRoC&amp;pg=PA313"><i>Encyclopedia of the Roman Empire</i></a>. Infobase Publishing. pp.&#160;313–. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-4381-1027-1" title="Special:BookSources/978-1-4381-1027-1">978-1-4381-1027-1</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANeuss&amp;rft.au=Matthew+Bunson&amp;rft.btitle=Encyclopedia+of+the+Roman+Empire&amp;rft.date=2009-01-01&amp;rft.genre=book&amp;rft.isbn=978-1-4381-1027-1&amp;rft.pages=313-&amp;rft.pub=Infobase+Publishing&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DT5tic2VunRoC%26pg%3DPA313&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.neuss.de/wirtschaft/statistiken/downloads/nzs-2013-05-auslaender.pdf">"Die ausländischen Mitbürger in der Stadt Neuss am 0 1.01.2013"</a> <span style="font-size:85%;">(PDF)</span>. Stadt Neuss<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-10-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANeuss&amp;rft.btitle=Die+ausl%C3%A4ndischen+Mitb%C3%BCrger+in+der+Stadt+Neuss+am+0+1.01.2013&amp;rft.genre=unknown&amp;rft.pub=Stadt+Neuss&amp;rft_id=http%3A%2F%2Fwww.neuss.de%2Fwirtschaft%2Fstatistiken%2Fdownloads%2Fnzs-2013-05-auslaender.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.neussersk.de/newstyle/frame.htm">Neusser Schlittschuh-Klub official home page</a></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Neuss&amp;action=edit&amp;section=14" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Neuss" class="extiw" title="commons:Category:Neuss">Neuss</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.neuss.de">Official website</a></span></span> <span class="languageicon">(in German)</span> <span class="languageicon">(in English)</span></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Cities_in_Germany_by_population" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Cities_in_Germany" title="Template:Cities in Germany"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Cities_in_Germany" title="Template talk:Cities in Germany"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cities_in_Germany&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Cities_in_Germany_by_population" style="font-size:114%;margin:0 4em">Cities in Germany by population</div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">1,000,000+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Berlin" title="Berlin">Berlin</a></li>
+<li><a href="/wiki/Cologne" title="Cologne">Cologne</a></li>
+<li><a href="/wiki/Hamburg" title="Hamburg">Hamburg</a></li>
+<li><a href="/wiki/Munich" title="Munich">Munich</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">500,000+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bremen" title="Bremen">Bremen</a></li>
+<li><a href="/wiki/Dortmund" title="Dortmund">Dortmund</a></li>
+<li><a href="/wiki/Dresden" title="Dresden">Dresden</a></li>
+<li><a href="/wiki/D%C3%BCsseldorf" title="Düsseldorf">Düsseldorf</a></li>
+<li><a href="/wiki/Essen" title="Essen">Essen</a></li>
+<li><a href="/wiki/Frankfurt" title="Frankfurt">Frankfurt</a></li>
+<li><a href="/wiki/Hanover" title="Hanover">Hanover</a></li>
+<li><a href="/wiki/Leipzig" title="Leipzig">Leipzig</a></li>
+<li><a href="/wiki/Nuremberg" title="Nuremberg">Nuremberg</a></li>
+<li><a href="/wiki/Stuttgart" title="Stuttgart">Stuttgart</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">200,000+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aachen" title="Aachen">Aachen</a></li>
+<li><a href="/wiki/Augsburg" title="Augsburg">Augsburg</a></li>
+<li><a href="/wiki/Bielefeld" title="Bielefeld">Bielefeld</a></li>
+<li><a href="/wiki/Bochum" title="Bochum">Bochum</a></li>
+<li><a href="/wiki/Bonn" title="Bonn">Bonn</a></li>
+<li><a href="/wiki/Braunschweig" title="Braunschweig">Braunschweig</a></li>
+<li><a href="/wiki/Chemnitz" title="Chemnitz">Chemnitz</a></li>
+<li><a href="/wiki/Duisburg" title="Duisburg">Duisburg</a></li>
+<li><a href="/wiki/Erfurt" title="Erfurt">Erfurt</a></li>
+<li><a href="/wiki/Freiburg_im_Breisgau" title="Freiburg im Breisgau">Freiburg im Breisgau</a></li>
+<li><a href="/wiki/Gelsenkirchen" title="Gelsenkirchen">Gelsenkirchen</a></li>
+<li><a href="/wiki/Halle_(Saale)" title="Halle (Saale)">Halle (Saale)</a></li>
+<li><a href="/wiki/Karlsruhe" title="Karlsruhe">Karlsruhe</a></li>
+<li><a href="/wiki/Kiel" title="Kiel">Kiel</a></li>
+<li><a href="/wiki/Krefeld" title="Krefeld">Krefeld</a></li>
+<li><a href="/wiki/L%C3%BCbeck" title="Lübeck">Lübeck</a></li>
+<li><a href="/wiki/Magdeburg" title="Magdeburg">Magdeburg</a></li>
+<li><a href="/wiki/Mainz" title="Mainz">Mainz</a></li>
+<li><a href="/wiki/Mannheim" title="Mannheim">Mannheim</a></li>
+<li><a href="/wiki/M%C3%BCnster" title="Münster">Münster</a></li>
+<li><a href="/wiki/M%C3%B6nchengladbach" title="Mönchengladbach">Mönchengladbach</a></li>
+<li><a href="/wiki/Oberhausen" title="Oberhausen">Oberhausen</a></li>
+<li><a href="/wiki/Rostock" title="Rostock">Rostock</a></li>
+<li><a href="/wiki/Wiesbaden" title="Wiesbaden">Wiesbaden</a></li>
+<li><a href="/wiki/Wuppertal" title="Wuppertal">Wuppertal</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">100,000+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bergisch_Gladbach" title="Bergisch Gladbach">Bergisch Gladbach</a></li>
+<li><a href="/wiki/Bottrop" title="Bottrop">Bottrop</a></li>
+<li><a href="/wiki/Bremerhaven" title="Bremerhaven">Bremerhaven</a></li>
+<li><a href="/wiki/Cottbus" title="Cottbus">Cottbus</a></li>
+<li><a href="/wiki/Darmstadt" title="Darmstadt">Darmstadt</a></li>
+<li><a href="/wiki/Erlangen" title="Erlangen">Erlangen</a></li>
+<li><a href="/wiki/F%C3%BCrth" title="Fürth">Fürth</a></li>
+<li><a href="/wiki/G%C3%B6ttingen" title="Göttingen">Göttingen</a></li>
+<li><a href="/wiki/Hagen" title="Hagen">Hagen</a></li>
+<li><a href="/wiki/Hamm" title="Hamm">Hamm</a></li>
+<li><a href="/wiki/Heidelberg" title="Heidelberg">Heidelberg</a></li>
+<li><a href="/wiki/Heilbronn" title="Heilbronn">Heilbronn</a></li>
+<li><a href="/wiki/Herne,_North_Rhine-Westphalia" title="Herne, North Rhine-Westphalia">Herne</a></li>
+<li><a href="/wiki/Hildesheim" title="Hildesheim">Hildesheim</a></li>
+<li><a href="/wiki/Ingolstadt" title="Ingolstadt">Ingolstadt</a></li>
+<li><a href="/wiki/Jena" title="Jena">Jena</a></li>
+<li><a href="/wiki/Kassel" title="Kassel">Kassel</a></li>
+<li><a href="/wiki/Koblenz" title="Koblenz">Koblenz</a></li>
+<li><a href="/wiki/Leverkusen" title="Leverkusen">Leverkusen</a></li>
+<li><a href="/wiki/Ludwigshafen" title="Ludwigshafen">Ludwigshafen</a></li>
+<li><a href="/wiki/Moers" title="Moers">Moers</a></li>
+<li><a href="/wiki/M%C3%BClheim" title="Mülheim">Mülheim an der Ruhr</a></li>
+<li><a class="mw-selflink selflink">Neuss</a></li>
+<li><a href="/wiki/Offenbach_am_Main" title="Offenbach am Main">Offenbach am Main</a></li>
+<li><a href="/wiki/Oldenburg_(Oldenburg)" class="mw-redirect" title="Oldenburg (Oldenburg)">Oldenburg</a></li>
+<li><a href="/wiki/Osnabr%C3%BCck" title="Osnabrück">Osnabrück</a></li>
+<li><a href="/wiki/Paderborn" title="Paderborn">Paderborn</a></li>
+<li><a href="/wiki/Pforzheim" title="Pforzheim">Pforzheim</a></li>
+<li><a href="/wiki/Potsdam" title="Potsdam">Potsdam</a></li>
+<li><a href="/wiki/Recklinghausen" title="Recklinghausen">Recklinghausen</a></li>
+<li><a href="/wiki/Regensburg" title="Regensburg">Regensburg</a></li>
+<li><a href="/wiki/Remscheid" title="Remscheid">Remscheid</a></li>
+<li><a href="/wiki/Reutlingen" title="Reutlingen">Reutlingen</a></li>
+<li><a href="/wiki/Saarbr%C3%BCcken" title="Saarbrücken">Saarbrücken</a></li>
+<li><a href="/wiki/Salzgitter" title="Salzgitter">Salzgitter</a></li>
+<li><a href="/wiki/Siegen" title="Siegen">Siegen</a></li>
+<li><a href="/wiki/Solingen" title="Solingen">Solingen</a></li>
+<li><a href="/wiki/Trier" title="Trier">Trier</a></li>
+<li><a href="/wiki/Ulm" title="Ulm">Ulm</a></li>
+<li><a href="/wiki/Wolfsburg" title="Wolfsburg">Wolfsburg</a></li>
+<li><a href="/wiki/W%C3%BCrzburg" title="Würzburg">Würzburg</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/List_of_cities_and_towns_in_Germany" title="List of cities and towns in Germany">complete list</a></li>
+<li><a href="/wiki/List_of_municipalities_in_Germany" title="List of municipalities in Germany">municipalities</a></li>
+<li><a href="/wiki/Metropolitan_regions_in_Germany" title="Metropolitan regions in Germany">metropolitan regions</a></li>
+<li><a href="/wiki/List_of_cities_in_Germany_by_population" title="List of cities in Germany by population">cities with more than 100,000 inhabitants</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Towns_and_municipalities_in_Rhein-Kreis_Neuss" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Cities_and_towns_in_Rhein-Kreis_Neuss_(district)" title="Template:Cities and towns in Rhein-Kreis Neuss (district)"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Cities_and_towns_in_Rhein-Kreis_Neuss_(district)" title="Template talk:Cities and towns in Rhein-Kreis Neuss (district)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cities_and_towns_in_Rhein-Kreis_Neuss_(district)&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Towns_and_municipalities_in_Rhein-Kreis_Neuss" style="font-size:114%;margin:0 4em">Towns and municipalities in <a href="/wiki/Rhein-Kreis_Neuss" title="Rhein-Kreis Neuss">Rhein-Kreis Neuss</a></div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px;font-size:95%;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dormagen" title="Dormagen">Dormagen</a></li>
+<li><a href="/wiki/Grevenbroich" title="Grevenbroich">Grevenbroich</a></li>
+<li><a href="/wiki/J%C3%BCchen" title="Jüchen">Jüchen</a></li>
+<li><a href="/wiki/Kaarst" title="Kaarst">Kaarst</a></li>
+<li><a href="/wiki/Korschenbroich" title="Korschenbroich">Korschenbroich</a></li>
+<li><a href="/wiki/Meerbusch" title="Meerbusch">Meerbusch</a></li>
+<li><a class="mw-selflink selflink">Neuss</a></li>
+<li><a href="/wiki/Rommerskirchen" title="Rommerskirchen">Rommerskirchen</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="1" style="width:1px;padding:0px 0px 0px 2px">
+<div>
+<div class="floatright"><a href="/wiki/File:Kreiswappen_des_Rhein-Kreises_Neuss.svg" class="image" title="Coat of Arms of Rhein-Kreis Neuss district"><img alt="Coat of Arms of Rhein-Kreis Neuss district" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kreiswappen_des_Rhein-Kreises_Neuss.svg/30px-Kreiswappen_des_Rhein-Kreises_Neuss.svg.png" width="30" height="36" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kreiswappen_des_Rhein-Kreises_Neuss.svg/45px-Kreiswappen_des_Rhein-Kreises_Neuss.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kreiswappen_des_Rhein-Kreises_Neuss.svg/60px-Kreiswappen_des_Rhein-Kreises_Neuss.svg.png 2x" data-file-width="400" data-file-height="476" /></a></div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/159715523">WorldCat Identities</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/159715523">159715523</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/4041924-1">4041924-1</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb119326238">cb119326238</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb119326238">(data)</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1266
+Cached time: 20171018174940
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.436 seconds
+Real time usage: 0.613 seconds
+Preprocessor visited node count: 6294/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 79560/2097152 bytes
+Template argument size: 19469/2097152 bytes
+Highest expansion depth: 26/40
+Expensive parser function count: 11/500
+Lua time usage: 0.141/10.000 seconds
+Lua memory usage: 5.11 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  518.828      1 -total
+ 66.76%  346.370      1 Template:Infobox_German_location
+ 63.22%  327.996      1 Template:Infobox_settlement
+ 53.90%  279.659      1 Template:Infobox
+ 15.28%   79.298      7 Template:Population_Germany
+  8.34%   43.267      7 Template:Metadata_Population_DE-NW
+  6.92%   35.917      1 Template:Citation_needed
+  6.80%   35.265      8 Template:Both
+  6.69%   34.688      2 Template:Cite_web
+  6.28%   32.607     12 Template:Str_left
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:411997-0!canonical and timestamp 20171018174940 and revision id 795317887
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Neuss&amp;oldid=795317887">https://en.wikipedia.org/w/index.php?title=Neuss&amp;oldid=795317887</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Cities_in_North_Rhine-Westphalia" title="Category:Cities in North Rhine-Westphalia">Cities in North Rhine-Westphalia</a></li><li><a href="/wiki/Category:Neuss" title="Category:Neuss">Neuss</a></li><li><a href="/wiki/Category:16_BC_establishments" title="Category:16 BC establishments">16 BC establishments</a></li><li><a href="/wiki/Category:Roman_towns_and_cities_in_Germany" title="Category:Roman towns and cities in Germany">Roman towns and cities in Germany</a></li><li><a href="/wiki/Category:Rhein-Kreis_Neuss" title="Category:Rhein-Kreis Neuss">Rhein-Kreis Neuss</a></li><li><a href="/wiki/Category:Members_of_the_Hanseatic_League" title="Category:Members of the Hanseatic League">Members of the Hanseatic League</a></li><li><a href="/wiki/Category:Roman_legionary_fortresses_in_Germany" title="Category:Roman legionary fortresses in Germany">Roman legionary fortresses in Germany</a></li><li><a href="/wiki/Category:Roman_fortifications_in_Germania_Inferior" title="Category:Roman fortifications in Germania Inferior">Roman fortifications in Germania Inferior</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_German-language_sources_(de)" title="Category:CS1 German-language sources (de)">CS1 German-language sources (de)</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_March_2012" title="Category:Articles with unsourced statements from March 2012">Articles with unsourced statements from March 2012</a></li><li><a href="/wiki/Category:Official_website_different_in_Wikidata_and_Wikipedia" title="Category:Official website different in Wikidata and Wikipedia">Official website different in Wikidata and Wikipedia</a></li><li><a href="/wiki/Category:Articles_with_German-language_external_links" title="Category:Articles with German-language external links">Articles with German-language external links</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Neuss" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Neuss" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Neuss" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Neuss" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Neuss">Read</a></span></li>
+							<li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Neuss&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Neuss&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Neuss" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Neuss" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Neuss&amp;oldid=795317887" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Neuss&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2948" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Neuss&amp;id=795317887" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Neuss">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Neuss&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Neuss&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Neuss" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikivoyage"><a href="https://en.wikivoyage.org/wiki/Neuss" hreflang="en">Wikivoyage</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Neuss" title="Neuss – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%86%D9%88%D9%8A%D8%B3" title="نويس – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Neuss" title="Neuss – Chinese (Min Nan)" lang="zh-min-nan" hreflang="zh-min-nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B9%D1%81" title="Нойс – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B9%D1%81" title="Нойс – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Neuss" title="Neuss – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Neuss_(kapital_sa_distrito)" title="Neuss (kapital sa distrito) – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Neuss" title="Neuss – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Neuss" title="Neuss – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Neuss" title="Neuss – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Neuss" title="Neuss – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Neuss" title="Neuss – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Neuss" title="Neuss – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Neuss" title="Neuss – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%86%D9%88%DB%8C%D8%B3_(%D8%B4%D9%87%D8%B1)" title="نویس (شهر) – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Neuss" title="Neuss – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/Neuss" title="Neuss – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%85%B8%EC%9D%B4%EC%8A%A4" title="노이스 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Neuss" title="Neuss – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Neuss" title="Neuss – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A0%D7%95%D7%99%D7%A1" title="נויס – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%9C%E1%83%9D%E1%83%98%E1%83%A1%E1%83%98" title="ნოისი – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B9%D1%81" title="Нойс – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Neuss" title="Neuss – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li><li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B9%D1%81" title="Нойс – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Novaesium" title="Novaesium – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Noisas" title="Noisas – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-li"><a href="https://li.wikipedia.org/wiki/N%C3%BCss" title="Nüss – Limburgish" lang="li" hreflang="li" class="interlanguage-link-target">Limburgs</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Neuss" title="Neuss – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Neuss" title="Neuss – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Neuss" title="Neuss – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%8E%E3%82%A4%E3%82%B9" title="ノイス – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-frr"><a href="https://frr.wikipedia.org/wiki/Neuss" title="Neuss – Northern Frisian" lang="frr" hreflang="frr" class="interlanguage-link-target">Nordfriisk</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Neuss" title="Neuss – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Neuss" title="Neuss – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Neuss" title="Neuss – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li><li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%D9%86%DB%8C%D9%88%D8%B3" title="نیوس – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li><li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/Neuss" title="Neuss – Low German" lang="nds" hreflang="nds" class="interlanguage-link-target">Plattdüütsch</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Neuss" title="Neuss – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Neuss" title="Neuss – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ksh"><a href="https://ksh.wikipedia.org/wiki/N%C3%BCss" title="Nüss – Colognian" lang="ksh" hreflang="ksh" class="interlanguage-link-target">Ripoarisch</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Neuss" title="Neuss – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B9%D1%81" title="Нойс – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Neuss" title="Neuss – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-stq"><a href="https://stq.wikipedia.org/wiki/Neuss" title="Neuss – Saterland Frisian" lang="stq" hreflang="stq" class="interlanguage-link-target">Seeltersk</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Neuss" title="Neuss – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Neuss" title="Neuss – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%9D%D0%BE%D1%98%D1%81" title="Нојс – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Neuss" title="Neuss – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Neuss" title="Neuss – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Neuss" title="Neuss – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B9%D1%81%D1%81" title="Нойсс – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Neuss" title="Neuss – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B9%D1%81" title="Нойс – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Neuss" title="Neuss – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/Neuss" title="Neuss – Volapük" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Neuss" title="Neuss – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E8%AF%BA%E4%BC%8A%E6%96%AF" title="诺伊斯 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2948#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 13 August 2017, at 13:17.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Neuss&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.436","walltime":"0.613","ppvisitednodes":{"value":6294,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":79560,"limit":2097152},"templateargumentsize":{"value":19469,"limit":2097152},"expansiondepth":{"value":26,"limit":40},"expensivefunctioncount":{"value":11,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  518.828      1 -total"," 66.76%  346.370      1 Template:Infobox_German_location"," 63.22%  327.996      1 Template:Infobox_settlement"," 53.90%  279.659      1 Template:Infobox"," 15.28%   79.298      7 Template:Population_Germany","  8.34%   43.267      7 Template:Metadata_Population_DE-NW","  6.92%   35.917      1 Template:Citation_needed","  6.80%   35.265      8 Template:Both","  6.69%   34.688      2 Template:Cite_web","  6.28%   32.607     12 Template:Str_left"]},"scribunto":{"limitreport-timeusage":{"value":"0.141","limit":"10.000"},"limitreport-memusage":{"value":5356383,"limit":52428800}},"cachereport":{"origin":"mw1266","timestamp":"20171018174940","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":75,"wgHostname":"mw1187"});});</script>
+	</body>
+</html>

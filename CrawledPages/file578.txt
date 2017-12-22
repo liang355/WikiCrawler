@@ -1,0 +1,1697 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Harvard Medical School - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Harvard_Medical_School","wgTitle":"Harvard Medical School","wgCurRevisionId":804726772,"wgRevisionId":804726772,"wgArticleId":329529,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Coordinates on Wikidata","Pages using infobox academic division with the type parameter","Pages using infobox academic division with the parent parameter","Pages using infobox academic division with the affiliation parameter","Articles to be merged from January 2016","All articles to be merged","Articles needing cleanup from March 2015","All pages needing cleanup","Cleanup tagged articles with a reason field from March 2015","Wikipedia pages needing cleanup from March 2015","Wikipedia list cleanup from March 2015","Pages using div col with small parameter","Harvard Medical School","Ivy League medical schools","1782 establishments in Massachusetts"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Harvard_Medical_School","wgRelevantArticleId":329529,"wgRequestId":"WeUGsQpAIDIAACUvSY0AAABP","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCoordinates":{"lat":42.335743,"lon":-71.105138},"wgWikibaseItemId":"Q49121","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.3"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Harvard_Medical_School_shield.svg/1200px-Harvard_Medical_School_shield.svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Harvard_Medical_School"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Harvard_Medical_School&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Harvard_Medical_School&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Harvard_Medical_School"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Harvard_Medical_School rootpage-Harvard_Medical_School vector-experimental-print-styles vector-nav-directionality skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Harvard Medical School</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox vcard" style="width:22em">
+<tr>
+<th colspan="2" class="fn org" style="text-align:center;font-size:125%;font-weight:bold">Harvard Medical School</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Harvard_Medical_School_shield.svg" class="image"><img alt="Harvard Medical School shield.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/4/49/Harvard_Medical_School_shield.svg/150px-Harvard_Medical_School_shield.svg.png" width="150" height="181" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/49/Harvard_Medical_School_shield.svg/225px-Harvard_Medical_School_shield.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/49/Harvard_Medical_School_shield.svg/300px-Harvard_Medical_School_shield.svg.png 2x" data-file-width="200" data-file-height="241" /></a>
+<div>Coat of arms of Harvard Medical School</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Established</th>
+<td>September&#160;19,&#160;1782<span style="display:none">&#160;(<span class="bday dtstart published updated">1782-09-19</span>)</span></td>
+</tr>
+<tr>
+<th scope="row">Type</th>
+<td><a href="/wiki/Medical_school" title="Medical school">Medical school</a></td>
+</tr>
+<tr>
+<th scope="row">Parent institution</th>
+<td><a href="/wiki/Harvard_University" title="Harvard University">Harvard University</a></td>
+</tr>
+<tr>
+<th scope="row">Academic affiliation</th>
+<td><i><a rel="nofollow" class="external text" href="https://hms.harvard.edu/about-hms/hms-affiliates">See list for affiliations</a></i></td>
+</tr>
+<tr>
+<th scope="row">Location</th>
+<td class="adr"><span class="locality"><a href="/wiki/Boston" title="Boston">Boston</a></span>, <span class="region"><a href="/wiki/Massachusetts" title="Massachusetts">Massachusetts</a></span>, <span class="country-name">United States</span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Harvard_Medical_School&amp;params=42.335743_N_71.105138_W_type:edu"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">42°20′09″N</span> <span class="longitude">71°06′18″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">42.335743°N 71.105138°W</span><span style="display:none">﻿ / <span class="geo">42.335743; -71.105138</span></span></span></a></span></span></span></td>
+</tr>
+<tr>
+<th scope="row">Dean</th>
+<td><a href="/wiki/George_Q._Daley" title="George Q. Daley">George Q. Daley</a></td>
+</tr>
+<tr>
+<th scope="row">Academic staff</th>
+<td>12,426</td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Doctorate" title="Doctorate">Doctoral students</a></th>
+<td>
+<p><b>Totals:</b></p>
+<ul>
+<li>MD - 726</li>
+<li>PhD - 803</li>
+<li>DMD - 145</li>
+<li>MMSc - 127</li>
+<li>DMSc - 37</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th scope="row">Alumni</th>
+<td>9,813</td>
+</tr>
+<tr>
+<th scope="row">Website</th>
+<td><span class="url"><a rel="nofollow" class="external text" href="http://hms.harvard.edu/">hms<wbr />.harvard<wbr />.edu</a></span></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Harvard_Medical_School_seal.svg" class="image"><img alt="Harvard Medical School seal.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/0/07/Harvard_Medical_School_seal.svg/250px-Harvard_Medical_School_seal.svg.png" width="250" height="63" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/07/Harvard_Medical_School_seal.svg/375px-Harvard_Medical_School_seal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/07/Harvard_Medical_School_seal.svg/500px-Harvard_Medical_School_seal.svg.png 2x" data-file-width="250" data-file-height="63" /></a></td>
+</tr>
+</table>
+<p><b>Harvard Medical School</b> (<b>HMS</b>) is the graduate <a href="/wiki/Medical_school" title="Medical school">medical school</a> of <a href="/wiki/Harvard_University" title="Harvard University">Harvard University</a>. It is located in the <a href="/wiki/Longwood_Medical_Area" class="mw-redirect" title="Longwood Medical Area">Longwood Medical Area</a> of the <a href="/wiki/Mission_Hill,_Boston" title="Mission Hill, Boston">Mission Hill</a> neighborhood of <a href="/wiki/Boston,_Massachusetts" class="mw-redirect" title="Boston, Massachusetts">Boston, Massachusetts</a>.</p>
+<p>There are approximately 2,900 full- and part-time voting faculty members consisting of assistant, associate, and full professors, and over 5,000 full or part-time, non-voting instructors.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Innovations"><span class="tocnumber">1.1</span> <span class="toctext">Innovations</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Broadening_admissions"><span class="tocnumber">1.2</span> <span class="toctext">Broadening admissions</span></a>
+<ul>
+<li class="toclevel-3 tocsection-4"><a href="#Women"><span class="tocnumber">1.2.1</span> <span class="toctext">Women</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#African-Americans"><span class="tocnumber">1.2.2</span> <span class="toctext">African-Americans</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Teaching_affiliates"><span class="tocnumber">2</span> <span class="toctext">Teaching affiliates</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Curriculum"><span class="tocnumber">3</span> <span class="toctext">Curriculum</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Partners_Harvard_Medical_International"><span class="tocnumber">4</span> <span class="toctext">Partners Harvard Medical International</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Notable_alumni"><span class="tocnumber">5</span> <span class="toctext">Notable alumni</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harvard_Medical_School&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Harvard is the third-oldest medical school in the United States (after <a href="/wiki/Perelman_School_of_Medicine_at_the_University_of_Pennsylvania" title="Perelman School of Medicine at the University of Pennsylvania">Perelman School of Medicine at the University of Pennsylvania</a> and <a href="/wiki/Columbia_University_College_of_Physicians_and_Surgeons" title="Columbia University College of Physicians and Surgeons">Columbia University College of Physicians and Surgeons</a>) and was founded by <a href="/wiki/John_Warren_(surgeon)" title="John Warren (surgeon)">John Warren</a> on September 19, 1782, with <a href="/wiki/Benjamin_Waterhouse" title="Benjamin Waterhouse">Benjamin Waterhouse</a>, and <a rel="nofollow" class="external text" href="https://hms.harvard.edu/about-hms/history-hms">Aaron Dexter</a>, "professor of chemistry and materia medica (pharmacology)."<sup id="cite_ref-:1_1-0" class="reference"><a href="#cite_note-:1-1">[1]</a></sup></p>
+<p>Lectures were first held in the basement of <a href="/wiki/Harvard_Hall" title="Harvard Hall">Harvard Hall</a>, then later in <a href="/wiki/Holden_Chapel" title="Holden Chapel">Holden Chapel</a>. Students paid no tuition, but purchased tickets to five or six daily lectures.<sup id="cite_ref-:1_1-1" class="reference"><a href="#cite_note-:1-1">[1]</a></sup><sup id="cite_ref-:2_2-0" class="reference"><a href="#cite_note-:2-2">[2]</a></sup> The first two students graduated in 1788.<sup id="cite_ref-:1_1-2" class="reference"><a href="#cite_note-:1-1">[1]</a></sup></p>
+<p>In 1810 the school moved to <a href="/wiki/Boston" title="Boston">Boston</a>&#160;– first to what is now downtown Washington Street; then Mason Street (1816–1846, during which time it was sometimes referred to as the Massachusetts Medical College); North Grove Street (1847); Copley Square (1883); and finally its current location (the <a href="/wiki/Longwood_Medical_Area" class="mw-redirect" title="Longwood Medical Area">Longwood Medical Area</a>) in 1906. In the Longwood campus there are five original marble-faced buildings of the quadrangle, which are used for laboratories, amphitheaters, and research space.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<p>When <a href="/wiki/Charles_William_Eliot" title="Charles William Eliot">Charles William Eliot</a> became Harvard's president in 1869, he found the medical school in the worst condition of any part of the university; his reforms laid the groundwork for its transformation into one of the leading medical schools in the world.<sup id="cite_ref-:2_2-1" class="reference"><a href="#cite_note-:2-2">[2]</a></sup></p>
+<h3><span class="mw-headline" id="Innovations">Innovations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harvard_Medical_School&amp;action=edit&amp;section=2" title="Edit section: Innovations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Harvard Medical School faculty have been associated with a number of important medical and public-health innovations:</p>
+<div class="div-col columns column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em;">
+<ul>
+<li>Introduction of smallpox vaccination to America</li>
+<li>First use of <a href="/wiki/Anesthesia" title="Anesthesia">anesthesia</a> for pain control during surgery</li>
+<li>The introduction of insulin to the US to treat <a href="/wiki/Diabetes_mellitus" title="Diabetes mellitus">diabetes</a></li>
+<li>Comprehending of the role of <a href="/wiki/Vitamin_B12" title="Vitamin B12">vitamin B12</a> in treating anemia</li>
+<li>Identification of <a href="/wiki/Coenzyme_A" title="Coenzyme A">coenzyme A</a> and understanding of proteins</li>
+<li>Developing tissue culture methods for the <a href="/wiki/Poliovirus" title="Poliovirus">polio virus</a>, which paved the way for vaccines against polio</li>
+<li>Mapping the visual system of the brain</li>
+<li>Development of the first successful <a href="/wiki/Chemotherapy" title="Chemotherapy">chemotherapy</a> for <a href="/wiki/Childhood_leukemia" title="Childhood leukemia">childhood leukemia</a></li>
+<li>Development of the first implantable cardiac pacemaker</li>
+<li>Discovering the inheritance of immunity to infection; development of artificial skin for burn victims</li>
+<li>The first successful heart valve surgery</li>
+<li>The first successful human kidney transplant</li>
+<li>The first reattachment of a severed human limb</li>
+<li>Discovery of the genes that cause <a href="/wiki/Duchenne_muscular_dystrophy" title="Duchenne muscular dystrophy">Duchenne Muscular Dystrophy</a>, <a href="/wiki/Huntington%27s_disease" title="Huntington's disease">Huntington’s Disease</a>, <a href="/wiki/Amyotrophic_lateral_sclerosis" title="Amyotrophic lateral sclerosis">amyotrophic lateral sclerosis</a> (<a href="/wiki/Lou_Gehrig%27s_Disease" class="mw-redirect" title="Lou Gehrig's Disease">Lou Gehrig’s Disease</a>), and <a href="/wiki/Alzheimer%27s_disease" title="Alzheimer's disease">Alzheimer’s Disease</a>, among many others</li>
+<li>Establishing the importance of tumor vascular supply (angiogenesis) and seeding the field of vascular biology</li>
+<li>Discovery of the cause of <a href="/wiki/Pre-eclampsia" title="Pre-eclampsia">preeclampsia</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></li>
+</ul>
+</div>
+<h3><span class="mw-headline" id="Broadening_admissions">Broadening admissions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harvard_Medical_School&amp;action=edit&amp;section=3" title="Edit section: Broadening admissions">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Women">Women</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harvard_Medical_School&amp;action=edit&amp;section=4" title="Edit section: Women">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="thumb tmulti tright">
+<div class="thumbinner" style="width:239px;max-width:239px">
+<div class="tsingle" style="margin:1px;width:237px;max-width:237px">
+<div class="thumbimage"><a href="/wiki/File:Massachusetts_Medical_College_ca1824_MasonSt_Boston.png" class="image"><img alt="Massachusetts Medical College at Mason St. (Old building)" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Massachusetts_Medical_College_ca1824_MasonSt_Boston.png/235px-Massachusetts_Medical_College_ca1824_MasonSt_Boston.png" width="235" height="139" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Massachusetts_Medical_College_ca1824_MasonSt_Boston.png/353px-Massachusetts_Medical_College_ca1824_MasonSt_Boston.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/87/Massachusetts_Medical_College_ca1824_MasonSt_Boston.png/470px-Massachusetts_Medical_College_ca1824_MasonSt_Boston.png 2x" data-file-width="550" data-file-height="326" /></a></div>
+<div class="thumbcaption" style="clear:left">Massachusetts Medical College at Mason St. (Old building)</div>
+</div>
+<div class="tsingle" style="margin:1px;width:237px;max-width:237px">
+<div class="thumbimage"><a href="/wiki/File:Harvard_Medical_School_HDR.jpg" class="image"><img alt="Harvard Medical School quadrangle in Longwood Medical Area." src="//upload.wikimedia.org/wikipedia/commons/thumb/2/25/Harvard_Medical_School_HDR.jpg/235px-Harvard_Medical_School_HDR.jpg" width="235" height="156" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/25/Harvard_Medical_School_HDR.jpg/353px-Harvard_Medical_School_HDR.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/25/Harvard_Medical_School_HDR.jpg/470px-Harvard_Medical_School_HDR.jpg 2x" data-file-width="3869" data-file-height="2569" /></a></div>
+<div class="thumbcaption" style="clear:left">Harvard Medical School quadrangle in <a href="/wiki/Longwood_Medical_and_Academic_Area" title="Longwood Medical and Academic Area">Longwood Medical Area</a>.</div>
+</div>
+</div>
+</div>
+<p>In mid-1847, Professor <a href="/wiki/Walter_Channing_(physician)" title="Walter Channing (physician)">Walter Channing</a>'s proposal that women be admitted to lectures and examinations was rejected by the <a href="/wiki/President_and_Fellows_of_Harvard_College" title="President and Fellows of Harvard College">President and Fellows of Harvard College</a>. Nonetheless, <a href="/wiki/Harriot_Kezia_Hunt" title="Harriot Kezia Hunt">Harriot Kezia Hunt</a> was soon after giving permission to attend medical lectures, but in 1850 this permission was withdrawn.</p>
+<p>In 1866 two women with extensive medical education elsewhere applied but were denied admission. In 1867 a single faculty member's vote blocked the admission of <a href="/wiki/Susan_Dimock" title="Susan Dimock">Susan Dimock</a>. In 1872 Harvard declined a gift of $10,000 conditioned on medical school admitting women medical students on the same term as men. A similar offer of $50,000, by group of ten women including <a href="/wiki/Marie_Elizabeth_Zakrzewska" title="Marie Elizabeth Zakrzewska">Marie Elizabeth Zakrzewska</a>, was declined in 1882, a committee of five was appointed to study the matter. After the medical school moved from North Grove Street to Boylston Street in 1883, professor <a href="/wiki/Henry_Ingersoll_Bowditch" title="Henry Ingersoll Bowditch">Henry Ingersoll Bowditch</a>'s proposal that the North Grove Street premises be used for medical education for women was rejected.</p>
+<p>In 1943 a dean's committee recommended the admission of women, the proportion of men and women being dependent solely on the qualifications of the applicants.<sup id="cite_ref-beecher_6-0" class="reference"><a href="#cite_note-beecher-6">[6]</a></sup> In 1945, the first class of women was admitted; projected benefits included helping male students learn to view women as equals, increasing the number of physicians in lower-paid specialties typically shunned by men, and replacing the weakest third of all-male classes with better-qualified women.<sup id="cite_ref-First_class_of_women_admitted_to_Harvard_Medical_School.2C_1945_7-0" class="reference"><a href="#cite_note-First_class_of_women_admitted_to_Harvard_Medical_School.2C_1945-7">[7]</a></sup> By 1972 about one fifth of Harvard medical students were women.<sup id="cite_ref-beecher_6-1" class="reference"><a href="#cite_note-beecher-6">[6]</a></sup></p>
+<h4><span class="mw-headline" id="African-Americans">African-Americans</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harvard_Medical_School&amp;action=edit&amp;section=5" title="Edit section: African-Americans">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In 1850 two black men, <a href="/wiki/Daniel_Laing,_Jr." title="Daniel Laing, Jr.">Daniel Laing, Jr.</a> and <a href="/wiki/Isaac_H._Snowden" title="Isaac H. Snowden">Isaac H. Snowden</a>, were admitted to the school, but they were later expelled under pressure from faculty, and other students, who objected.</p>
+<p>In 1968, in response to a petition signed by hundreds of medical students, the faculty established a commission on relations with the black community in Boston; at the time less than one percent of Harvard medical students were black. By 1973 the number of black students admitted had tripled, and by the next year it had quadrupled.<sup id="cite_ref-beecher_6-2" class="reference"><a href="#cite_note-beecher-6">[6]</a></sup></p>
+<h2><span class="mw-headline" id="Teaching_affiliates">Teaching affiliates</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harvard_Medical_School&amp;action=edit&amp;section=6" title="Edit section: Teaching affiliates">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 19em; -webkit-column-width: 19em; column-width: 19em;">
+<ul>
+<li><a href="/wiki/Beth_Israel_Deaconess_Medical_Center" title="Beth Israel Deaconess Medical Center">Beth Israel Deaconess Medical Center</a></li>
+<li><a href="/wiki/Boston_Children%27s_Hospital" title="Boston Children's Hospital">Boston Children's Hospital</a></li>
+<li><a href="/wiki/Brigham_and_Women%27s_Hospital" title="Brigham and Women's Hospital">Brigham and Women's Hospital</a></li>
+<li><a href="/wiki/Cambridge_Health_Alliance" title="Cambridge Health Alliance">Cambridge Health Alliance</a></li>
+<li><a href="/wiki/Dana%E2%80%93Farber_Cancer_Institute" title="Dana–Farber Cancer Institute">Dana–Farber Cancer Institute</a></li>
+<li><a href="/wiki/The_Forsyth_Institute" title="The Forsyth Institute">Forsyth Institute</a> (affiliated with the <a href="/wiki/Harvard_School_of_Dental_Medicine" title="Harvard School of Dental Medicine">Harvard School of Dental Medicine</a>)</li>
+<li><a href="/wiki/Rashi_School" title="Rashi School">Hebrew SeniorLife</a> <a rel="nofollow" class="external autonumber" href="http://hms.harvard.edu/about-hms/hms-affiliates/hebrew-seniorlife">[1]</a></li>
+<li><a href="/wiki/Joslin_Diabetes_Center" title="Joslin Diabetes Center">Joslin Diabetes Center</a></li>
+<li><a href="/w/index.php?title=Judge_Baker%27s_Children%27s_Center&amp;action=edit&amp;redlink=1" class="new" title="Judge Baker's Children's Center (page does not exist)">Judge Baker's Children's Center</a></li>
+<li><a href="/wiki/Massachusetts_Eye_and_Ear_Infirmary" class="mw-redirect" title="Massachusetts Eye and Ear Infirmary">Massachusetts Eye and Ear Infirmary</a></li>
+<li><a href="/wiki/Massachusetts_General_Hospital" title="Massachusetts General Hospital">Massachusetts General Hospital</a></li>
+<li><a href="/wiki/McLean_Hospital" title="McLean Hospital">McLean Hospital</a></li>
+<li><a href="/wiki/Mount_Auburn_Hospital" title="Mount Auburn Hospital">Mount Auburn Hospital</a></li>
+<li><a href="/wiki/Spaulding_Rehabilitation_Hospital" title="Spaulding Rehabilitation Hospital">Spaulding Rehabilitation Hospital</a></li>
+<li><a href="/wiki/VA_Boston_Healthcare_System" title="VA Boston Healthcare System">VA Boston Healthcare System</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Curriculum">Curriculum</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harvard_Medical_School&amp;action=edit&amp;section=7" title="Edit section: Curriculum">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:2009_HarvardMedicalSchool_Boston_3801149763.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/2009_HarvardMedicalSchool_Boston_3801149763.jpg/220px-2009_HarvardMedicalSchool_Boston_3801149763.jpg" width="220" height="220" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/2009_HarvardMedicalSchool_Boston_3801149763.jpg/330px-2009_HarvardMedicalSchool_Boston_3801149763.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/64/2009_HarvardMedicalSchool_Boston_3801149763.jpg/440px-2009_HarvardMedicalSchool_Boston_3801149763.jpg 2x" data-file-width="1689" data-file-height="1689" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:2009_HarvardMedicalSchool_Boston_3801149763.jpg" class="internal" title="Enlarge"></a></div>
+Gordon Hall</div>
+</div>
+</div>
+<p>In the early 20th century, the "block system", under which "each subject was treated intensively for a period and then dropped entirely", was eliminated.<sup id="cite_ref-:2_2-2" class="reference"><a href="#cite_note-:2-2">[2]</a></sup> In addition to the objective to test knowledge over memory, time was reduced.<sup id="cite_ref-:2_2-3" class="reference"><a href="#cite_note-:2-2">[2]</a></sup></p>
+<p>In 2015, Harvard introduced a new "Pathways" curriculum, intended to "foster active learning and critical thinking; earlier clinical experience; and advanced clinical and student-tailored basic/population science experiences that will provide customized pathways for every student."<sup id="cite_ref-:0_8-0" class="reference"><a href="#cite_note-:0-8">[8]</a></sup></p>
+<p>The <a href="/wiki/Harvard-MIT_Division_of_Health_Sciences_and_Technology" class="mw-redirect" title="Harvard-MIT Division of Health Sciences and Technology">Harvard-MIT Division of Health Sciences and Technology</a> (HST) offers an alternative MD program with a stronger emphasis on biomedical research. The HST MD program is significantly smaller than the Pathways program, accepting only 30 applicants every year.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></p>
+<h2><span class="mw-headline" id="Partners_Harvard_Medical_International">Partners Harvard Medical International</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harvard_Medical_School&amp;action=edit&amp;section=8" title="Edit section: Partners Harvard Medical International">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Harvard Medical School (HMS) has a medical-consulting arm, Partners Harvard Medical International (PHMI). PHMI has long-standing collaborative relationships with medical faculties at <a href="/wiki/Ludwig_Maximilian_University_of_Munich" title="Ludwig Maximilian University of Munich">Ludwig Maximilians University</a> in <a href="/wiki/Munich" title="Munich">Munich</a>, Germany, <a href="/wiki/Alfaisal_University" title="Alfaisal University">Alfaisal University</a>, <a href="/wiki/Riyadh" title="Riyadh">Riyadh</a>, <a href="/wiki/Saudi_Arabia" title="Saudi Arabia">Saudi Arabia</a> and the <a href="/wiki/Lebanese_American_University" title="Lebanese American University">Lebanese American University</a> (LAU) in <a href="/wiki/Beirut" title="Beirut">Beirut</a>, <a href="/wiki/Lebanon" title="Lebanon">Lebanon</a>. Other long-standing relationships include PHMI's work with <a href="/wiki/Asan_Medical_Center" title="Asan Medical Center">Asan Medical Center</a> in <a href="/wiki/Seoul" title="Seoul">Seoul</a>, South Korea, and <a href="/wiki/Tokyo_Medical_and_Dental_University" title="Tokyo Medical and Dental University">Tokyo Medical and Dental University</a> in Japan. In 2007 PHMI began a 10‑year collaboration with Lebanese American University; in October 2009 LAU opened a new medical school with assistance from PHMI.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></p>
+<h2><span class="mw-headline" id="Notable_alumni">Notable alumni</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harvard_Medical_School&amp;action=edit&amp;section=9" title="Edit section: Notable alumni">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox ambox-content ambox-multiple_issues compact-ambox" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">
+<div class="mw-collapsible" style="width:95%; margin: 0.2em 0;"><b>This article has multiple issues.</b> Please help <b><a class="external text" href="//en.wikipedia.org/w/index.php?title=Harvard_Medical_School&amp;action=edit">improve it</a></b> or discuss these issues on the <b><a href="/wiki/Talk:Harvard_Medical_School" title="Talk:Harvard Medical School">talk page</a></b>. <small><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove these template messages</a>)</i></small>
+<div class="mw-collapsible-content" style="margin-top: 0.3em;">
+<table class="plainlinks metadata ambox ambox-move" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Merge-arrow.svg/50px-Merge-arrow.svg.png" width="50" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Merge-arrow.svg/75px-Merge-arrow.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Merge-arrow.svg/100px-Merge-arrow.svg.png 2x" data-file-width="50" data-file-height="20" /></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">It has been suggested that this section be <a href="/wiki/Wikipedia:Merging" title="Wikipedia:Merging">merged</a> into <i><a href="/wiki/List_of_Harvard_University_people" title="List of Harvard University people">List of Harvard University people</a></i>. (<a href="/wiki/Talk:Harvard_Medical_School#Notable_Alumni_section" title="Talk:Harvard Medical School">Discuss</a>) <small><i>Proposed since January 2016.</i></small></div>
+</td>
+</tr>
+</table>
+<table class="plainlinks metadata ambox ambox-style ambox-Cleanup" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48" /></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This article may <b>require <a href="/wiki/Wikipedia:Cleanup" title="Wikipedia:Cleanup">cleanup</a></b> to meet Wikipedia's <a href="/wiki/Wikipedia:Manual_of_Style" title="Wikipedia:Manual of Style">quality standards</a>. The specific problem is: <b>criteria for list are lacking in Talk and text, degree of description is widely variable and essentially without citation, suggesting something of a dumping ground—see number of academics, appearance of many others where notability is dubious or not clearly established—based on widely varying individual editor criteria</b> <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Harvard_Medical_School&amp;action=edit">improve this article</a> if you can.</span> <small><i>(March 2015)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<table class="plainlinks metadata ambox ambox-style" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48" /></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This section contains <a href="/wiki/Wikipedia:Manual_of_Style/Embedded_lists" title="Wikipedia:Manual of Style/Embedded lists">embedded lists</a> that <b>may be poorly defined, <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">unverified</a> or <a href="/wiki/Wikipedia:NOT#IINFO" class="mw-redirect" title="Wikipedia:NOT">indiscriminate</a></b>. <span class="hide-when-compact">Please help to <a class="external text" href="//en.wikipedia.org/w/index.php?title=Harvard_Medical_School&amp;action=edit">clean it up</a> to meet Wikipedia's quality standards. Where appropriate, incorporate items into the main body of the article.</span> <small><i>(March 2015)</i></small></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<table class="wikitable" width="80%">
+<tr>
+<th width="20%">Name</th>
+<th width="15%">Class year</th>
+<th width="*">Notability</th>
+<th width="10%" class="unsortable nowrap">Reference(s)</th>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/John_R._Adler" title="John R. Adler">John R. Adler</a></td>
+<td style="text-align:center;">1980</td>
+<td class="note">academic</td>
+<td style="text-align:center;"><sup id="cite_ref-med._John_12-0" class="reference"><a href="#cite_note-med._John-12">[12]</a></sup></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Robert_B._Aird" title="Robert B. Aird">Robert B. Aird</a></td>
+<td style="text-align:center;"></td>
+<td class="note">academic</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Tenley_Albright" title="Tenley Albright">Tenley Albright</a></td>
+<td style="text-align:center;"></td>
+<td class="note">figure skater</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/David_Altshuler" title="David Altshuler">David Altshuler</a></td>
+<td style="text-align:center;"></td>
+<td class="note">geneticist</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Harold_Amos" title="Harold Amos">Harold Amos</a></td>
+<td style="text-align:center;"></td>
+<td class="note">microbiologist</td>
+<td style="text-align:center;"><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/William_French_Anderson" title="William French Anderson">William French Anderson</a></td>
+<td style="text-align:center;"></td>
+<td class="note">geneticist</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Christian_B._Anfinsen" title="Christian B. Anfinsen">Christian B. Anfinsen</a></td>
+<td style="text-align:center;"></td>
+<td class="note">biochemist, Nobel laureate</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Paul_S._Appelbaum" title="Paul S. Appelbaum">Paul S. Appelbaum</a></td>
+<td style="text-align:center;">1976</td>
+<td class="note">academic</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Jerry_Avorn" title="Jerry Avorn">Jerry Avorn</a></td>
+<td style="text-align:center;"></td>
+<td class="note">academic</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Babak_Azizzadeh" title="Babak Azizzadeh">Babak Azizzadeh</a></td>
+<td style="text-align:center;"></td>
+<td class="note">Facial surgery specialist and surgeon for <a href="/wiki/Mary_Jo_Buttafuoco" title="Mary Jo Buttafuoco">Mary Jo Buttafuoco</a> after she was shot by <a href="/wiki/Amy_Fisher" title="Amy Fisher">Amy Fisher</a> in 1992.</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Arie_Belldegrun" title="Arie Belldegrun">Arie S. Belldegrun</a></td>
+<td style="text-align:center;"></td>
+<td class="note">director of the <a href="/wiki/UCLA" class="mw-redirect" title="UCLA">UCLA</a> Institute of <a href="/wiki/Urology" title="Urology">Urologic</a> <a href="/wiki/Oncology" title="Oncology">Oncology</a> and is <a href="/wiki/Professor" title="Professor">Professor</a> and Chief of Urologic Oncology at the <a href="/wiki/David_Geffen_School_of_Medicine" class="mw-redirect" title="David Geffen School of Medicine">David Geffen School of Medicine</a></td>
+<td style="text-align:center;"><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Rebecka_Belldegrun" title="Rebecka Belldegrun">Rebecka Belldegrun</a></td>
+<td style="text-align:center;"></td>
+<td class="note"><a href="/wiki/Ophthalmologist" class="mw-redirect" title="Ophthalmologist">ophthalmologist</a> and businesswoman</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Herbert_Benson" title="Herbert Benson">Herbert Benson</a></td>
+<td style="text-align:center;"></td>
+<td class="note">cardiologist, author of <i><a href="/wiki/The_Relaxation_Response" title="The Relaxation Response">The Relaxation Response</a></i></td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Ira_Black" title="Ira Black">Ira Black</a></td>
+<td style="text-align:center;"></td>
+<td class="note"><a href="/wiki/Neuroscientist" title="Neuroscientist">neuroscientist</a> and <a href="/wiki/Stem_cell" title="Stem cell">stem cell</a> researcher who served as the first director of the <a href="/w/index.php?title=Stem_Cell_Institute_of_New_Jersey&amp;action=edit&amp;redlink=1" class="new" title="Stem Cell Institute of New Jersey (page does not exist)">Stem Cell Institute of New Jersey</a>.</td>
+<td style="text-align:center;"><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Roscoe_Brady" title="Roscoe Brady">Roscoe Brady</a></td>
+<td style="text-align:center;"></td>
+<td class="note">biochemist</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Eugene_Brody" title="Eugene Brody">Eugene Brody</a></td>
+<td style="text-align:center;">1944</td>
+<td class="note">psychiatrist</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Henry_Bryant_(naturalist)" title="Henry Bryant (naturalist)">Henry Bryant</a></td>
+<td style="text-align:center;"></td>
+<td class="note">physician</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Y%C5%8Dichi_Takahashi" title="Yōichi Takahashi">Yōichi Takahashi</a></td>
+<td style="text-align:center;"></td>
+<td class="note">physician, music composer</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Rafael_Campo_(poet)" title="Rafael Campo (poet)">Rafael Campo</a></td>
+<td style="text-align:center;"></td>
+<td class="note">poet</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Ethan_Canin" title="Ethan Canin">Ethan Canin</a></td>
+<td style="text-align:center;"></td>
+<td class="note">author</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Walter_Bradford_Cannon" title="Walter Bradford Cannon">Walter Bradford Cannon</a></td>
+<td style="text-align:center;"></td>
+<td class="note">physiologist</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/William_B._Castle_(hematologist)" class="mw-redirect" title="William B. Castle (hematologist)">William B. Castle</a></td>
+<td style="text-align:center;"></td>
+<td class="note">hematologist</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/George_C._S._Choate" class="mw-redirect" title="George C. S. Choate">George C. S. Choate</a></td>
+<td style="text-align:center;"></td>
+<td class="note">physician</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Gilbert_Chu" title="Gilbert Chu">Gilbert Chu</a></td>
+<td style="text-align:center;"></td>
+<td class="note">physician, biochemist</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Aram_Chobanian" title="Aram Chobanian">Aram Chobanian</a></td>
+<td style="text-align:center;"></td>
+<td class="note">President of <a href="/wiki/Boston_University" title="Boston University">Boston University</a> (2003–2005)</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Stanley_Cobb" title="Stanley Cobb">Stanley Cobb</a></td>
+<td style="text-align:center;"></td>
+<td class="note">neurologist</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Ernest_Codman" class="mw-redirect" title="Ernest Codman">Ernest Codman</a></td>
+<td style="text-align:center;"></td>
+<td class="note">physician</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Albert_Coons" title="Albert Coons">Albert Coons</a></td>
+<td style="text-align:center;"></td>
+<td class="note">physician, immunologist, Lasker Award winner</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Michael_Crichton" title="Michael Crichton">Michael Crichton</a></td>
+<td style="text-align:center;"></td>
+<td class="note">author</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Harvey_Cushing" title="Harvey Cushing">Harvey Cushing</a></td>
+<td style="text-align:center;"></td>
+<td class="note">neurosurgeon</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Elliott_Cutler" title="Elliott Cutler">Elliott Cutler</a></td>
+<td style="text-align:center;"></td>
+<td class="note">surgeon</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Hallowell_Davis" title="Hallowell Davis">Hallowell Davis</a> (1896–1992)</td>
+<td style="text-align:center;"></td>
+<td class="note">researcher of hearing, contributor to the invention of the electroencephalograph.</td>
+<td style="text-align:center;"><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Martin_Delany" title="Martin Delany">Martin Delany</a></td>
+<td style="text-align:center;"></td>
+<td class="note">One of the first African Americans to attend, and the first African-American field officer in the US; expelled after a faculty vote to end the admission of blacks.</td>
+<td style="text-align:center;"><sup id="cite_ref-Metaphysical_Club_17-0" class="reference"><a href="#cite_note-Metaphysical_Club-17">[17]</a></sup></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Fe_del_Mundo" title="Fe del Mundo">Fe del Mundo</a></td>
+<td style="text-align:center;"></td>
+<td class="note">pediatrician, first Filipino and possibly first woman admitted to HMS (1936)</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Allan_S._Detsky" title="Allan S. Detsky">Allan S. Detsky</a></td>
+<td style="text-align:center;"></td>
+<td class="note">physician</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/James_Madison_DeWolf" title="James Madison DeWolf">James Madison DeWolf</a></td>
+<td style="text-align:center;"></td>
+<td class="note">soldier; physician</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Peter_Diamandis" title="Peter Diamandis">Peter Diamandis</a></td>
+<td style="text-align:center;"></td>
+<td class="note">entrepreneur</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Daniel_DiLorenzo" title="Daniel DiLorenzo">Daniel DiLorenzo</a></td>
+<td style="text-align:center;"></td>
+<td class="note">entrepreneur; neurosurgeon; inventor</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Thomas_Dwight" title="Thomas Dwight">Thomas Dwight</a></td>
+<td style="text-align:center;"></td>
+<td class="note">anatomist</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Lawrence_Eron" title="Lawrence Eron">Lawrence Eron</a></td>
+<td style="text-align:center;"></td>
+<td class="note">infectious disease physician</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Edward_Evarts" title="Edward Evarts">Edward Evarts</a></td>
+<td style="text-align:center;"></td>
+<td class="note">neuroscientist</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Sidney_Farber" title="Sidney Farber">Sidney Farber</a></td>
+<td style="text-align:center;"></td>
+<td class="note">pathologist</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Paul_Farmer" title="Paul Farmer">Paul Farmer</a></td>
+<td style="text-align:center;"></td>
+<td class="note">infectious disease physician; global health</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Jonathan_Fielding" title="Jonathan Fielding">Jonathan Fielding</a></td>
+<td style="text-align:center;"></td>
+<td class="note">past president <a href="/wiki/American_College_of_Preventive_Medicine" title="American College of Preventive Medicine">American College of Preventive Medicine</a>; health administrator; academic</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Harvey_V._Fineberg" title="Harvey V. Fineberg">Harvey V. Fineberg</a></td>
+<td style="text-align:center;"></td>
+<td class="note">academic administrator</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Elliott_S._Fisher" title="Elliott S. Fisher">Elliott S. Fisher</a></td>
+<td style="text-align:center;">1981</td>
+<td class="note">director of The Dartmouth Institute</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/John_%22Honey_Fitz%22_Fitzgerald" class="mw-redirect" title="John &quot;Honey Fitz&quot; Fitzgerald">John "Honey Fitz" Fitzgerald</a></td>
+<td style="text-align:center;"></td>
+<td class="note">Mayor of Boston (1906–08; 1910–14)</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Thomas_B._Fitzpatrick" title="Thomas B. Fitzpatrick">Thomas Fitzpatrick</a></td>
+<td style="text-align:center;"></td>
+<td class="note">dermatologist</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Judah_Folkman" title="Judah Folkman">Judah Folkman</a></td>
+<td style="text-align:center;"></td>
+<td class="note">scientist</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Irwin_Freedberg" title="Irwin Freedberg">Irwin Freedberg</a></td>
+<td style="text-align:center;">1956</td>
+<td class="note">dermatologist</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Bill_Frist" title="Bill Frist">Bill Frist</a></td>
+<td style="text-align:center;"></td>
+<td class="note">U.S. Senator (1995–2007)</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Atul_Gawande" title="Atul Gawande">Atul Gawande</a></td>
+<td style="text-align:center;"></td>
+<td class="note">surgeon, author</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Charles_Brenton_Huggins" title="Charles Brenton Huggins">Charles Brenton Huggins</a></td>
+<td style="text-align:center;"></td>
+<td class="note">physician; physiologist; Nobel laureate</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/George_Lincoln_Goodale" title="George Lincoln Goodale">George Lincoln Goodale</a></td>
+<td style="text-align:center;"></td>
+<td class="note">botanist</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Robert_Goldwyn" title="Robert Goldwyn">Robert Goldwyn</a></td>
+<td style="text-align:center;"></td>
+<td class="note">surgeon, <a href="/wiki/Editor-in-chief" title="Editor-in-chief">editor-in-chief</a> of <i>Plastic and Reconstructive Surgery</i> for 25 years</td>
+<td style="text-align:center;"><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Ernest_Gruening" title="Ernest Gruening">Ernest Gruening</a></td>
+<td style="text-align:center;"></td>
+<td class="note">Governor of the Alaska Territory (1939–53); U.S. Senator (1959–69)</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/I._Kathleen_Hagen" title="I. Kathleen Hagen">I. Kathleen Hagen</a></td>
+<td style="text-align:center;"></td>
+<td class="note">Murder suspect</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Dean_Hamer" title="Dean Hamer">Dean Hamer</a></td>
+<td style="text-align:center;"></td>
+<td class="note">geneticist</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Alice_Hamilton" title="Alice Hamilton">Alice Hamilton</a></td>
+<td style="text-align:center;"></td>
+<td class="note">first female faculty member at Harvard Medical School.</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/J._Hartwell_Harrison" title="J. Hartwell Harrison">J. Hartwell Harrison</a></td>
+<td style="text-align:center;"></td>
+<td class="note">surgeon - first kidney transplant, <a href="/wiki/Editor-in-chief" title="Editor-in-chief">editor-in-chief</a> of <i>Campbell's Urology</i> (4th ed.)</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Michael_R._Harrison" title="Michael R. Harrison">Michael R. Harrison</a></td>
+<td style="text-align:center;"></td>
+<td class="note">pediatrician</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Bernadine_Healy" title="Bernadine Healy">Bernadine Healy</a></td>
+<td style="text-align:center;"></td>
+<td class="note">Director of the <a href="/wiki/National_Institutes_of_Health" title="National Institutes of Health">National Institutes of Health</a> (1991–93); CEO of the <a href="/wiki/American_Red_Cross" title="American Red Cross">American Red Cross</a> (1999–2001)</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Ronald_A._Heifetz" class="mw-redirect" title="Ronald A. Heifetz">Ronald A. Heifetz</a></td>
+<td style="text-align:center;"></td>
+<td class="note">academic</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Lawrence_Joseph_Henderson" title="Lawrence Joseph Henderson">Lawrence Joseph Henderson</a></td>
+<td style="text-align:center;"></td>
+<td class="note">biochemist</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Edward_H._Hill" title="Edward H. Hill">Edward H. Hill</a></td>
+<td style="text-align:center;">1867</td>
+<td class="note">founder of <a href="/wiki/Central_Maine_Medical_Center" title="Central Maine Medical Center">Central Maine Medical Center</a></td>
+<td style="text-align:center;"><sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/David_Ho_(scientist)" class="mw-redirect" title="David Ho (scientist)">David Ho</a></td>
+<td style="text-align:center;"></td>
+<td class="note">infectious disease physician</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Oliver_Wendell_Holmes,_Sr." class="mw-redirect" title="Oliver Wendell Holmes, Sr.">Oliver Wendell Holmes, Sr.</a></td>
+<td style="text-align:center;"></td>
+<td class="note">physician; poet</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/William_James" title="William James">William James</a></td>
+<td style="text-align:center;"></td>
+<td class="note">philosopher</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Mildred_Fay_Jefferson" title="Mildred Fay Jefferson">Mildred Fay Jefferson</a> Pro</td>
+<td style="text-align:center;"></td>
+<td class="note">Life Activist; first African American woman to graduate from Harvard Medical School.</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn">Clay Johnston</td>
+<td style="text-align:center;"></td>
+<td class="note">Dean of the <a href="/wiki/Dell_Medical_School" title="Dell Medical School">Dell Medical School</a> at <a href="/wiki/UT_Austin" class="mw-redirect" title="UT Austin">UT Austin</a></td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Elliott_P._Joslin" title="Elliott P. Joslin">Elliott P. Joslin</a></td>
+<td style="text-align:center;"></td>
+<td class="note">diabetolologist</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Nathan_Cooley_Keep" title="Nathan Cooley Keep">Nathan Cooley Keep</a></td>
+<td style="text-align:center;"></td>
+<td class="note">physician who founded the <a href="/wiki/Harvard_School_of_Dental_Medicine" title="Harvard School of Dental Medicine">Harvard School of Dental Medicine</a></td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Jonny_Kim" title="Jonny Kim">Jonny Kim</a></td>
+<td style="text-align:center;"></td>
+<td class="note">Navy SEAL, ER physician, Astronaut</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Jim_Kim" class="mw-redirect" title="Jim Kim">Jim Kim</a></td>
+<td style="text-align:center;"></td>
+<td class="note">physician, global health leader, current President of the World Bank</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Melvin_Konner" title="Melvin Konner">Melvin Konner</a></td>
+<td style="text-align:center;"></td>
+<td class="note">author and biological anthropologist</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Peter_D._Kramer" title="Peter D. Kramer">Peter D. Kramer</a></td>
+<td style="text-align:center;">1976</td>
+<td class="note">psychiatrist</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Charles_Krauthammer" title="Charles Krauthammer">Charles Krauthammer</a></td>
+<td style="text-align:center;">1975</td>
+<td class="note">columnist</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Daniel_Laing,_Jr." title="Daniel Laing, Jr.">Daniel Laing, Jr.</a></td>
+<td style="text-align:center;"></td>
+<td class="note">One of the first African Americans to attend, and one of the first African American physicians; expelled after a faculty vote to end the admission of blacks, but finished his degree elsewhere.</td>
+<td style="text-align:center;"><sup id="cite_ref-Metaphysical_Club_17-1" class="reference"><a href="#cite_note-Metaphysical_Club-17">[17]</a></sup></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Theodore_K._Lawless" title="Theodore K. Lawless">Theodore K. Lawless</a></td>
+<td style="text-align:center;"></td>
+<td class="note">dermatologist, medical researcher, and philanthropist</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Philip_J._Landrigan" title="Philip J. Landrigan">Philip J. Landrigan</a></td>
+<td style="text-align:center;"></td>
+<td class="note">epidemiologist and pediatrician</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Aristides_Le%C3%A3o" title="Aristides Leão">Aristides Leão</a></td>
+<td style="text-align:center;"></td>
+<td class="note">biologist</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Philip_Leder" title="Philip Leder">Philip Leder</a></td>
+<td style="text-align:center;"></td>
+<td class="note">geneticist</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Simon_LeVay" title="Simon LeVay">Simon LeVay</a></td>
+<td style="text-align:center;"></td>
+<td class="note">neuroscientist</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Pam_Ling" title="Pam Ling">Pam Ling</a></td>
+<td style="text-align:center;"></td>
+<td class="note">castmate on <i><a href="/wiki/The_Real_World:_San_Francisco" title="The Real World: San Francisco">The Real World: San Francisco</a></i></td>
+<td style="text-align:center;"><sup id="cite_ref-PamBio_20-0" class="reference"><a href="#cite_note-PamBio-20">[20]</a></sup></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Joseph_Lovell" title="Joseph Lovell">Joseph Lovell</a></td>
+<td style="text-align:center;"></td>
+<td class="note">Surgeon General of the U.S. Army (1818–36)</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Karl_Menninger" title="Karl Menninger">Karl Menninger</a></td>
+<td style="text-align:center;"></td>
+<td class="note">psychiatrist</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/John_S._Meyer" title="John S. Meyer">John S. Meyer</a></td>
+<td style="text-align:center;"></td>
+<td class="note">physician</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Randell_Mills" class="mw-redirect" title="Randell Mills">Randell Mills</a></td>
+<td style="text-align:center;"></td>
+<td class="note">scientist</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Vamsi_Mootha" title="Vamsi Mootha">Vamsi Mootha</a></td>
+<td style="text-align:center;"></td>
+<td class="note">systems biologist and geneticist</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Siddhartha_Mukherjee" title="Siddhartha Mukherjee">Siddhartha Mukherjee</a></td>
+<td style="text-align:center;"></td>
+<td class="note">physician, author</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Joseph_Murray" title="Joseph Murray">Joseph Murray</a></td>
+<td style="text-align:center;"></td>
+<td class="note">surgeon</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Joel_Mark_Noe" title="Joel Mark Noe">Joel Mark Noe</a></td>
+<td style="text-align:center;"></td>
+<td class="note">plastic surgeon</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Amos_Nourse" title="Amos Nourse">Amos Nourse</a></td>
+<td style="text-align:center;"></td>
+<td class="note">U.S. Senator (1857)</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/David_C._Page" title="David C. Page">David Page</a></td>
+<td style="text-align:center;"></td>
+<td class="note">biologist</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Hiram_Polk" title="Hiram Polk">Hiram Polk</a></td>
+<td style="text-align:center;"></td>
+<td class="note">academic</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Geoffrey_Potts" title="Geoffrey Potts">Geoffrey Potts</a></td>
+<td style="text-align:center;"></td>
+<td class="note">academic</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Morton_Prince" title="Morton Prince">Morton Prince</a></td>
+<td style="text-align:center;"></td>
+<td class="note">neurologist</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Alexander_Rich" title="Alexander Rich">Alexander Rich</a></td>
+<td style="text-align:center;"></td>
+<td class="note">biophysicist</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Oswald_Hope_Robertson" title="Oswald Hope Robertson">Oswald Hope Robertson</a></td>
+<td style="text-align:center;"></td>
+<td class="note">medical scientist</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/w/index.php?title=Richard_Starr_Ross&amp;action=edit&amp;redlink=1" class="new" title="Richard Starr Ross (page does not exist)">Richard Starr Ross</a></td>
+<td style="text-align:center;"></td>
+<td class="note">Dean Emeritus of the Johns Hopkins School of Medicine, Baltimore, MD, Former President of the American Heart Association.</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Wilfredo_Santa-G%C3%B3mez" title="Wilfredo Santa-Gómez">Wilfredo Santa-Gómez</a></td>
+<td style="text-align:center;"></td>
+<td class="note">author</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/George_E._Shambaugh,_Jr." title="George E. Shambaugh, Jr.">George E. Shambaugh, Jr.</a></td>
+<td style="text-align:center;"></td>
+<td class="note">Otolaryngologist</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Alfred_Sommer" title="Alfred Sommer">Alfred Sommer</a></td>
+<td style="text-align:center;"></td>
+<td class="note">academic</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Philip_Solomon" title="Philip Solomon">Philip Solomon</a> (psychiatrist)</td>
+<td style="text-align:center;"></td>
+<td class="note">academic</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Paul_Spangler" title="Paul Spangler">Paul Spangler</a></td>
+<td style="text-align:center;"></td>
+<td class="note"><a href="/wiki/Ship%27s_doctor" title="Ship's doctor">Naval surgeon</a> and record-setting Senior <a href="/wiki/Long_distance_runner" class="mw-redirect" title="Long distance runner">Long distance runner</a></td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Samuel_L._Stanley" title="Samuel L. Stanley">Samuel L. Stanley</a></td>
+<td style="text-align:center;"></td>
+<td class="note">5th President of <a href="/wiki/Stony_Brook_University" title="Stony Brook University">Stony Brook University</a>, academic, physician, <a href="/wiki/Biomedical_research" class="mw-redirect" title="Biomedical research">biomedical researcher</a></td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Jill_Stein" title="Jill Stein">Jill Stein</a></td>
+<td style="text-align:center;">1979</td>
+<td class="note">physician; activist; politician</td>
+<td style="text-align:center;"><sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Felicia_Stewart" title="Felicia Stewart">Felicia Stewart</a></td>
+<td style="text-align:center;"></td>
+<td class="note">physician</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Lubert_Stryer" title="Lubert Stryer">Lubert Stryer</a></td>
+<td style="text-align:center;"></td>
+<td class="note">academic; coauthor of <i>Biochemistry</i></td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Yellapragada_Subbarow" title="Yellapragada Subbarow">Yellapragada Subbarow</a></td>
+<td style="text-align:center;"></td>
+<td class="note">biochemist</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/James_B._Sumner" title="James B. Sumner">James B. Sumner</a></td>
+<td style="text-align:center;"></td>
+<td class="note">chemist</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Helen_B._Taussig" title="Helen B. Taussig">Helen B. Taussig</a></td>
+<td style="text-align:center;"></td>
+<td class="note">cardiologist; helped develop <a href="/wiki/Blalock%E2%80%93Taussig_shunt" title="Blalock–Taussig shunt">Blalock–Taussig shunt</a></td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/John_Templeton,_Jr." class="mw-redirect" title="John Templeton, Jr.">John Templeton, Jr.</a></td>
+<td style="text-align:center;"></td>
+<td class="note">president of the <a href="/wiki/John_Templeton_Foundation" title="John Templeton Foundation">John Templeton Foundation</a></td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/E._Donnall_Thomas" title="E. Donnall Thomas">E. Donnall Thomas</a></td>
+<td style="text-align:center;"></td>
+<td class="note">physician</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Lewis_Thomas" title="Lewis Thomas">Lewis Thomas</a></td>
+<td style="text-align:center;"></td>
+<td class="note">essayist</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Abby_Howe_Turner" title="Abby Howe Turner">Abby Howe Turner</a></td>
+<td style="text-align:center;"></td>
+<td class="note">academic</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Richard_Urman" title="Richard Urman">Richard Urman</a></td>
+<td style="text-align:center;"></td>
+<td class="note">physician</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/George_Eman_Vaillant" title="George Eman Vaillant">George Eman Vaillant</a></td>
+<td style="text-align:center;"></td>
+<td class="note">psychiatrist</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Mark_Vonnegut" title="Mark Vonnegut">Mark Vonnegut</a></td>
+<td style="text-align:center;"></td>
+<td class="note">author; pediatrician</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Joseph_Warren" title="Joseph Warren">Joseph Warren</a></td>
+<td style="text-align:center;"></td>
+<td class="note">soldier</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Andrew_Weil" title="Andrew Weil">Andrew Weil</a></td>
+<td style="text-align:center;"></td>
+<td class="note">proponent of alternative medicine and integrative medicine</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Paul_Dudley_White" title="Paul Dudley White">Paul Dudley White</a></td>
+<td style="text-align:center;"></td>
+<td class="note">cardiologist</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Robert_J._White" title="Robert J. White">Robert J. White</a></td>
+<td style="text-align:center;"></td>
+<td class="note">neurosurgeon (Performed first monkey head transplant in the 1970s)</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn">Patrisha <a href="/wiki/Zobel_de_Ayala" class="mw-redirect" title="Zobel de Ayala">Zobel de Ayala</a></td>
+<td style="text-align:center;"></td>
+<td class="note">Chairman of <a href="/wiki/World_Medical_Association" title="World Medical Association">World Medical Association</a>, surgeon, anesthesiologist, neurologist, medical researcher</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Charles_F._Winslow" title="Charles F. Winslow">Charles F. Winslow</a></td>
+<td style="text-align:center;"></td>
+<td class="note">early atomic theorist</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Leonard_Wood" title="Leonard Wood">Leonard Wood</a></td>
+<td style="text-align:center;"></td>
+<td class="note"><a href="/wiki/Chief_of_Staff_of_the_United_States_Army" title="Chief of Staff of the United States Army">Chief of Staff of the United States Army</a>&#160;; <a href="/wiki/Governor-General" class="mw-redirect" title="Governor-General">Governor-General</a> of the Philippines</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Louis_T._Wright" title="Louis T. Wright">Louis Tompkins Wright</a></td>
+<td style="text-align:center;"></td>
+<td class="note">researcher, practitioner, first black <a href="/wiki/Fellow_of_the_American_College_of_Surgeons" title="Fellow of the American College of Surgeons">Fellow of the American College of Surgeons</a>,</td>
+<td style="text-align:center;"><sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/David_Wu" title="David Wu">David Wu</a></td>
+<td style="text-align:center;"></td>
+<td class="note">Member of the U.S. House of Representatives (1999–2011)</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Jeffries_Wyman" title="Jeffries Wyman">Jeffries Wyman</a></td>
+<td style="text-align:center;"></td>
+<td class="note">anatomist</td>
+<td style="text-align:center;"></td>
+</tr>
+<tr style="vertical-align:top;" class="vcard">
+<td class="fn"><a href="/wiki/Alfred_Worcester" title="Alfred Worcester">Alfred Worcester</a></td>
+<td style="text-align:center;"></td>
+<td class="note">general practitioner</td>
+<td style="text-align:center;"></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harvard_Medical_School&amp;action=edit&amp;section=10" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="flag" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Boston.svg/32px-Flag_of_Boston.svg.png" width="32" height="22" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Boston.svg/48px-Flag_of_Boston.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Boston.svg/64px-Flag_of_Boston.svg.png 2x" data-file-width="500" data-file-height="350" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Boston" title="Portal:Boston">Boston portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Coat_of_arms_of_Massachusetts.svg/21px-Coat_of_arms_of_Massachusetts.svg.png" width="21" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Coat_of_arms_of_Massachusetts.svg/31px-Coat_of_arms_of_Massachusetts.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/57/Coat_of_arms_of_Massachusetts.svg/42px-Coat_of_arms_of_Massachusetts.svg.png 2x" data-file-width="202" data-file-height="270" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Massachusetts" title="Portal:Massachusetts">Massachusetts portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Platopainting.jpg/23px-Platopainting.jpg" width="23" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Platopainting.jpg/34px-Platopainting.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Platopainting.jpg/46px-Platopainting.jpg 2x" data-file-width="328" data-file-height="400" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:University" title="Portal:University">University portal</a></span></li>
+</ul>
+</div>
+<div class="div-col columns column-width" style="-moz-column-width: 20em; -webkit-column-width: 20em; column-width: 20em; font-size:90%;">
+<ul>
+<li><a href="/wiki/Harvard_School_of_Dental_Medicine" title="Harvard School of Dental Medicine">Harvard School of Dental Medicine</a></li>
+<li><a href="/wiki/List_of_Harvard_University_people" title="List of Harvard University people">List of Harvard University people</a></li>
+<li><a href="/wiki/List_of_Ivy_League_medical_schools" title="List of Ivy League medical schools">List of Ivy League medical schools</a></li>
+<li><a href="/wiki/Longwood_Medical_and_Academic_Area" title="Longwood Medical and Academic Area">Longwood Medical and Academic Area</a></li>
+</ul>
+</div>
+<div style="clear:both;"></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harvard_Medical_School&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-:1-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-:1_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:1_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:1_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://hms.harvard.edu/about-hms/history-hms">https://hms.harvard.edu/about-hms/history-hms</a></span></li>
+<li id="cite_note-:2-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-:2_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:2_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:2_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-:2_2-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Morison, Samuel Eliot (1930). <i>The Development of Harvard University since the inauguration of President Eliot, 1869-1929</i>. Cambridge, Massachusetts: Harvard University Press. pp.&#160;555–594 &amp; Preface.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+Medical+School&amp;rft.aufirst=Samuel+Eliot&amp;rft.aulast=Morison&amp;rft.btitle=The+Development+of+Harvard+University+since+the+inauguration+of+President+Eliot%2C+1869-1929&amp;rft.date=1930&amp;rft.genre=book&amp;rft.pages=555-594+%26+Preface&amp;rft.place=Cambridge%2C+Massachusetts&amp;rft.pub=Harvard+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://hms.harvard.edu/public/history/history.html">"Harvard Medical School&#160;— History"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">February 25,</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+Medical+School&amp;rft.btitle=Harvard+Medical+School+%E2%80%94+History&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fhms.harvard.edu%2Fpublic%2Fhistory%2Fhistory.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20060901175511/http://www.countway.harvard.edu/archives/historyNotes.shtml">"Countway Medical Library&#160;— Records Management&#160;— Historical Notes"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.countway.harvard.edu/archives/historyNotes.shtml">the original</a> on September 1, 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">February 25,</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+Medical+School&amp;rft.btitle=Countway+Medical+Library+%E2%80%94+Records+Management+%E2%80%94+Historical+Notes&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.countway.harvard.edu%2Farchives%2FhistoryNotes.shtml&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://medstudenthandbook.hms.harvard.edu/history-harvard-medicine">"History of Harvard Medicine"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-08-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+Medical+School&amp;rft.atitle=History+of+Harvard+Medicine&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fmedstudenthandbook.hms.harvard.edu%2Fhistory-harvard-medicine&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-beecher-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-beecher_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-beecher_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-beecher_6-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Beecher, Henry Knowles (1977). <i>Medicine at Harvard&#160;: the first three hundred years</i>. Hanover, N.H.: University Press of New England. pp.&#160;460–481.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+Medical+School&amp;rft.aufirst=Henry+Knowles&amp;rft.aulast=Beecher&amp;rft.btitle=Medicine+at+Harvard+%3A+the+first+three+hundred+years&amp;rft.date=1977&amp;rft.genre=book&amp;rft.pages=460-481&amp;rft.place=Hanover%2C+N.H.&amp;rft.pub=University+Press+of+New+England&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-First_class_of_women_admitted_to_Harvard_Medical_School.2C_1945-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-First_class_of_women_admitted_to_Harvard_Medical_School.2C_1945_7-0">^</a></b></span> <span class="reference-text"><cite class="citation report"><a rel="nofollow" class="external text" href="http://repository.countway.harvard.edu/xmlui/handle/10473/1782">First class of women admitted to Harvard Medical School, 1945</a> (Report). Countway Repository, Harvard University Library<span class="reference-accessdate">. Retrieved <span class="nowrap">May 2,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+Medical+School&amp;rft.btitle=First+class+of+women+admitted+to+Harvard+Medical+School%2C+1945&amp;rft.genre=report&amp;rft.pub=Countway+Repository%2C+Harvard+University+Library&amp;rft_id=http%3A%2F%2Frepository.countway.harvard.edu%2Fxmlui%2Fhandle%2F10473%2F1782&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-:0-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-:0_8-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://hms.harvard.edu/departments/medical-education/md-programs/pathways">"Pathways | HMS"</a>. <i>hms.harvard.edu</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-03-14</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+Medical+School&amp;rft.atitle=Pathways+%7C+HMS&amp;rft.genre=unknown&amp;rft.jtitle=hms.harvard.edu&amp;rft_id=https%3A%2F%2Fhms.harvard.edu%2Fdepartments%2Fmedical-education%2Fmd-programs%2Fpathways&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://hst.mit.edu/academics/md">"MD Program - Harvard-MIT Health Sciences and Technology"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">16 February</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+Medical+School&amp;rft.btitle=MD+Program+-+Harvard-MIT+Health+Sciences+and+Technology&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fhst.mit.edu%2Facademics%2Fmd&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://hms.harvard.edu/departments/medical-education/md-programs/health-sciences-technology-hst">"Health Sciences &amp; Technology (HST) - HMS"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">16 February</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+Medical+School&amp;rft.btitle=Health+Sciences+%26+Technology+%28HST%29+-+HMS&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fhms.harvard.edu%2Fdepartments%2Fmedical-education%2Fmd-programs%2Fhealth-sciences-technology-hst&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a href="/wiki/Partners_Harvard_Medical_International" title="Partners Harvard Medical International">Partners Harvard Medical International</a></span></li>
+<li id="cite_note-med._John-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-med._John_12-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://med.stanford.edu/profiles/john-adler">"John R. Adler, MD | Stanford Medicine"</a>. <i>med.stanford.edu</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-03-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+Medical+School&amp;rft.atitle=John+R.+Adler%2C+MD+%7C+Stanford+Medicine&amp;rft.genre=unknown&amp;rft.jtitle=med.stanford.edu&amp;rft_id=https%3A%2F%2Fmed.stanford.edu%2Fprofiles%2Fjohn-adler&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://articles.latimes.com/2003/mar/08/local/me-passings8.2">"Dr. Harold Amos, 84; Mentor to Aspiring Minority Physicians"</a>. <i>Los Angeles Times</i>. 2003-03-08<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-02-19</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+Medical+School&amp;rft.atitle=Dr.+Harold+Amos%2C+84%3B+Mentor+to+Aspiring+Minority+Physicians&amp;rft.date=2003-03-08&amp;rft.genre=unknown&amp;rft.jtitle=Los+Angeles+Times&amp;rft_id=http%3A%2F%2Farticles.latimes.com%2F2003%2Fmar%2F08%2Flocal%2Fme-passings8.2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://people.healthsciences.ucla.edu/institution/personnel?personnel_id=8731">"Arie Belldegrun M.D. | David Geffen School of Medicine at UCLA"</a>. People.healthsciences.ucla.edu<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-06-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+Medical+School&amp;rft.btitle=Arie+Belldegrun+M.D.+%26%23124%3B+David+Geffen+School+of+Medicine+at+UCLA&amp;rft.genre=unknown&amp;rft.pub=People.healthsciences.ucla.edu&amp;rft_id=http%3A%2F%2Fpeople.healthsciences.ucla.edu%2Finstitution%2Fpersonnel%3Fpersonnel_id%3D8731&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">Pearce, Jeremy. <a rel="nofollow" class="external text" href="https://www.nytimes.com/2006/01/12/nyregion/12black.html">"Dr. Ira B. Black, 64, Leader in New Jersey Stem Cell Effort, Dies"</a>, <i><a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a></i>, January 12, 2006. Retrieved August 13, 2009.</span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">Saxon, Wolfgang. <a rel="nofollow" class="external text" href="https://www.nytimes.com/1992/09/10/us/hallowell-davis-96-an-explorer-who-charted-the-inner-ear-dies.html">"Hallowell Davis, 96, an Explorer Who Charted the Inner Ear, Dies"</a>, <i><a href="/wiki/New_York_Times" class="mw-redirect" title="New York Times">New York Times</a></i>, September 10, 1992. Accessed July 19, 2010.</span></li>
+<li id="cite_note-Metaphysical_Club-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-Metaphysical_Club_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Metaphysical_Club_17-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFMenand2001" class="citation"><a href="/wiki/Louis_Menand" title="Louis Menand">Menand, Louis</a> (2001), <i><a href="/wiki/The_Metaphysical_Club:_A_Story_of_Ideas_in_America" title="The Metaphysical Club: A Story of Ideas in America">The Metaphysical Club: A Story of Ideas in America</a></i>, New York: <a href="/wiki/Farrar,_Straus_and_Giroux" title="Farrar, Straus and Giroux">Farrar, Straus and Giroux</a>, pp.&#160;7–9, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-374-52849-7" title="Special:BookSources/0-374-52849-7">0-374-52849-7</a></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+Medical+School&amp;rft.aufirst=Louis&amp;rft.aulast=Menand&amp;rft.btitle=The+Metaphysical+Club%3A+A+Story+of+Ideas+in+America&amp;rft.date=2001&amp;rft.genre=book&amp;rft.isbn=0-374-52849-7&amp;rft.pages=7-9&amp;rft.place=New+York&amp;rft.pub=Farrar%2C+Straus+and+Giroux&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">Murray, Joseph E. M.D., <a rel="nofollow" class="external text" href="http://journals.lww.com/plasreconsurg/Fulltext/2004/10001/Bob_Goldwyn.4.aspx"><i>Plastic &amp; Reconstructive Surgery</i></a>, October 2004, Volume 114, accessed March 20, 2011.</span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text">Howard Atwood Kelly, Walter Lincoln Burrage, <i>American Medical Biographies</i> (1920) pg. 527 <a rel="nofollow" class="external free" href="https://books.google.com/books?id=SIRIAQAAMAAJ">https://books.google.com/books?id=SIRIAQAAMAAJ</a></span></li>
+<li id="cite_note-PamBio-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-PamBio_20-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.mtv.com/ontv/dyn/realworld-season3/cast_member/cast_member.jhtml?personalityId=1016">"MTV Original TV Shows, Reality TV Shows - MTV"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">16 February</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+Medical+School&amp;rft.btitle=MTV+Original+TV+Shows%2C+Reality+TV+Shows+-+MTV&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.mtv.com%2Fontv%2Fdyn%2Frealworld-season3%2Fcast_member%2Fcast_member.jhtml%3FpersonalityId%3D1016&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://archive.boston.com/news/special/politics/2010/governor/jill_stein/">"Jill Stein (G-R) Candidate for Governor"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">May 31,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHarvard+Medical+School&amp;rft.btitle=Jill+Stein+%28G-R%29+Candidate+for+Governor&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Farchive.boston.com%2Fnews%2Fspecial%2Fpolitics%2F2010%2Fgovernor%2Fjill_stein%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.time.com/time/magazine/article/0,9171,882266,00.html">Medicine: Negro Fellow</a> <i>Time</i>, 29 October 1934</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Harvard_Medical_School&amp;action=edit&amp;section=12" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://hms.harvard.edu">Official website</a></span></span></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Harvard_University" style="padding:3px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Harvard" title="Template:Harvard"><abbr title="View this template" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Harvard" title="Template talk:Harvard"><abbr title="Discuss this template" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Harvard&amp;action=edit"><abbr title="Edit this template" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Harvard_University" style="font-size:114%;margin:0 4em"><a href="/wiki/Harvard_University" title="Harvard University"><span style="color:white">Harvard University</span></a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%"></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/History_of_Harvard_University" title="History of Harvard University">History</a></li>
+<li><a href="/wiki/John_Harvard_(clergyman)" title="John Harvard (clergyman)">John Harvard</a>
+<ul>
+<li><a href="/wiki/John_Harvard_(statue)" title="John Harvard (statue)">statue</a></li>
+</ul>
+</li>
+<li><a href="/wiki/President_of_Harvard_University" title="President of Harvard University">President</a> <a href="/wiki/Drew_Gilpin_Faust" title="Drew Gilpin Faust">Drew Gilpin Faust</a></li>
+<li><a href="/wiki/Harvard_Board_of_Overseers" title="Harvard Board of Overseers">Board of Overseers</a></li>
+<li><a href="/wiki/President_and_Fellows_of_Harvard_College" title="President and Fellows of Harvard College">President and Fellows of Harvard College</a></li>
+<li>Provost <a href="/wiki/Alan_M._Garber" class="mw-redirect" title="Alan M. Garber">Alan M. Garber</a></li>
+<li><a href="/wiki/Harvard_Library" title="Harvard Library">The Harvard Library</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="14" style="width:1px;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:John_Harvard_statue.jpg" class="image"><img alt="John Harvard statue.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/John_Harvard_statue.jpg/110px-John_Harvard_statue.jpg" width="110" height="123" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/John_Harvard_statue.jpg/165px-John_Harvard_statue.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/John_Harvard_statue.jpg/220px-John_Harvard_statue.jpg 2x" data-file-width="1622" data-file-height="1809" /></a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Arts and<br />
+Sciences</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%"></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_Faculty_of_Arts_and_Sciences" title="Harvard Faculty of Arts and Sciences">Harvard Faculty of Arts and Sciences</a></li>
+<li>Dean <a href="/wiki/Michael_D._Smith_(computer_scientist)" title="Michael D. Smith (computer scientist)">Michael D. Smith</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">College</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_College" title="Harvard College">Harvard College</a></li>
+<li>Dean <a href="/wiki/Rakesh_Khurana" title="Rakesh Khurana">Rakesh Khurana</a></li>
+<li><a href="/wiki/Radcliffe_College" title="Radcliffe College">Radcliffe College</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/List_of_Harvard_College_freshman_dormitories" title="List of Harvard College freshman dormitories">Freshman dormitories</a></li>
+<li>Upperclass houses
+<ul>
+<li><a href="/wiki/Adams_House_(Harvard_University)" class="mw-redirect" title="Adams House (Harvard University)">Adams</a></li>
+<li><a href="/wiki/Cabot_House" title="Cabot House">Cabot</a></li>
+<li><a href="/wiki/Currier_House_(Harvard_College)" title="Currier House (Harvard College)">Currier</a></li>
+<li><a href="/wiki/Dudley_House_(Harvard_College)" class="mw-redirect" title="Dudley House (Harvard College)">Dudley</a></li>
+<li><a href="/wiki/Dunster_House" title="Dunster House">Dunster</a></li>
+<li><a href="/wiki/Eliot_House" class="mw-redirect" title="Eliot House">Eliot</a></li>
+<li><a href="/wiki/Kirkland_House,_Harvard_University" class="mw-redirect" title="Kirkland House, Harvard University">Kirkland</a></li>
+<li><a href="/wiki/Leverett_House" title="Leverett House">Leverett</a></li>
+<li><a href="/wiki/Lowell_House" title="Lowell House">Lowell</a></li>
+<li><a href="/wiki/Mather_House_(Harvard_University)" class="mw-redirect" title="Mather House (Harvard University)">Mather</a></li>
+<li><a href="/wiki/Pforzheimer_House" title="Pforzheimer House">Pforzheimer</a></li>
+<li><a href="/wiki/Quincy_House_(Harvard)" class="mw-redirect" title="Quincy House (Harvard)">Quincy</a></li>
+<li><a href="/wiki/Winthrop_House" title="Winthrop House">Winthrop</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><a href="/wiki/List_of_Harvard_College_undergraduate_organizations" title="List of Harvard College undergraduate organizations">Undergraduate organizations</a></li>
+<li><i><a href="/wiki/The_Harvard_Crimson" title="The Harvard Crimson">The Harvard Crimson</a></i></li>
+<li><i><a href="/wiki/The_Harvard_Lampoon" title="The Harvard Lampoon">The Harvard Lampoon</a></i></li>
+<li><i><a href="/wiki/The_Harvard_Advocate" title="The Harvard Advocate">The Harvard Advocate</a></i></li>
+<li><i><a href="/wiki/The_Harvard_Independent" title="The Harvard Independent">The Harvard Independent</a></i></li>
+</ul>
+<ul>
+<li><b>Athletics</b>: <a href="/wiki/Harvard_Crimson" title="Harvard Crimson">Harvard Crimson</a></li>
+<li><a href="/wiki/Ivy_League" title="Ivy League">Ivy League</a></li>
+<li><a href="/wiki/Harvard_Stadium" title="Harvard Stadium">Harvard Stadium</a></li>
+<li><a href="/wiki/Harvard%E2%80%93Yale_football_rivalry" title="Harvard–Yale football rivalry">Yale football rivalry</a></li>
+<li><a href="/wiki/Lavietes_Pavilion" title="Lavietes Pavilion">Lavietes Pavilion</a></li>
+<li><a href="/wiki/Bright_Hockey_Center" class="mw-redirect" title="Bright Hockey Center">Bright Hockey Center</a></li>
+<li><a href="/wiki/Cornell%E2%80%93Harvard_hockey_rivalry" title="Cornell–Harvard hockey rivalry">Cornell hockey rivalry</a></li>
+<li><a href="/wiki/Beanpot_(ice_hockey)" title="Beanpot (ice hockey)">Beanpot</a></li>
+<li><a href="/wiki/Weld_Boathouse" title="Weld Boathouse">Weld Boathouse</a></li>
+<li><a href="/wiki/Newell_Boathouse_(Harvard_University)" class="mw-redirect" title="Newell Boathouse (Harvard University)">Newall Boathouse</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Continuing<br />
+Education</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_Division_of_Continuing_Education" title="Harvard Division of Continuing Education">Division of Continuing Education</a></li>
+<li>Dean <a href="/wiki/Huntington_D._Lambert" title="Huntington D. Lambert">Huntington D. Lambert</a></li>
+<li><a href="/wiki/Harvard_Extension_School" title="Harvard Extension School">Extension School</a></li>
+<li><a href="/wiki/Harvard_Summer_School" title="Harvard Summer School">Summer School</a></li>
+<li><a href="/wiki/History_of_Harvard_Extension_School" title="History of Harvard Extension School">History of Harvard Extension School</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Eng.<span style="white-space:nowrap"> </span>&amp;<span style="white-space:nowrap"> </span>Appl.<br />
+Sciences</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_John_A._Paulson_School_of_Engineering_and_Applied_Sciences" title="Harvard John A. Paulson School of Engineering and Applied Sciences">Harvard John A. Paulson School of Engineering and Applied Sciences</a></li>
+<li>Dean <a href="/wiki/Francis_J._Doyle_III" title="Francis J. Doyle III">Francis J. Doyle III</a></li>
+<li><a href="/wiki/Lyman_Laboratory_of_Physics" title="Lyman Laboratory of Physics">Lyman Laboratory of Physics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Graduate<br />
+School</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_Graduate_School_of_Arts_and_Sciences" title="Harvard Graduate School of Arts and Sciences">Graduate School of Arts and Sciences</a></li>
+<li>Dean <a href="/wiki/Xiao-Li_Meng" title="Xiao-Li Meng">Xiao-Li Meng</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Libraries</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cabot_Science_Library" title="Cabot Science Library">Cabot</a></li>
+<li><a href="/wiki/Harvard%E2%80%93Yenching_Library" title="Harvard–Yenching Library">Harvard-Yenching</a></li>
+<li><a href="/wiki/Houghton_Library" title="Houghton Library">Houghton</a>
+<ul>
+<li><i><a href="/wiki/Harvard_Review" title="Harvard Review">Harvard Review</a></i></li>
+</ul>
+</li>
+<li><a href="/wiki/Lamont_Library" title="Lamont Library">Lamont</a></li>
+<li><a href="/w/index.php?title=Pusey_Library&amp;action=edit&amp;redlink=1" class="new" title="Pusey Library (page does not exist)">Pusey</a></li>
+<li><a href="/wiki/Widener_Library" title="Widener Library">Widener</a>
+<ul>
+<li><a href="/wiki/Harry_Widener" class="mw-redirect" title="Harry Widener">Harry Widener</a></li>
+<li><a href="/wiki/Eleanor_Elkins_Widener" title="Eleanor Elkins Widener">Eleanor Elkins Widener</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Grossman_Library" title="Grossman Library">Grossman</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%"></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carpenter_Center_for_the_Visual_Arts" title="Carpenter Center for the Visual Arts">Carpenter Center for the Visual Arts</a></li>
+<li><a href="/wiki/Center_for_Hellenic_Studies" title="Center for Hellenic Studies">Center for Hellenic Studies</a></li>
+<li><a href="/w/index.php?title=Charles_Warren_Center_for_Studies_in_American_History&amp;action=edit&amp;redlink=1" class="new" title="Charles Warren Center for Studies in American History (page does not exist)">Charles Warren Center for Studies in American History</a></li>
+<li><a href="/wiki/Collection_of_Historical_Scientific_Instruments" class="mw-redirect" title="Collection of Historical Scientific Instruments">Collection of Historical Scientific Instruments</a></li>
+<li><a href="/wiki/Harvard%E2%80%93Smithsonian_Center_for_Astrophysics" title="Harvard–Smithsonian Center for Astrophysics">Harvard–Smithsonian Center for Astrophysics</a></li>
+<li><a href="/w/index.php?title=Institute_for_Quantitative_Social_Science&amp;action=edit&amp;redlink=1" class="new" title="Institute for Quantitative Social Science (page does not exist)">Institute for Quantitative Social Science</a></li>
+<li><a href="/wiki/Nieman_Foundation_for_Journalism" title="Nieman Foundation for Journalism">Nieman Foundation for Journalism</a></li>
+<li><a href="/wiki/Harvard_Ukrainian_Research_Institute" title="Harvard Ukrainian Research Institute">Ukrainian Research Institute</a></li>
+<li><a href="/wiki/Villa_I_Tatti" title="Villa I Tatti">Villa I Tatti</a></li>
+<li><a href="/wiki/W._E._B._Du_Bois_Institute" title="W. E. B. Du Bois Institute">W. E. B. Du Bois Institute</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Business</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_Business_School" title="Harvard Business School">Harvard Business School</a></li>
+<li>Dean <a href="/wiki/Nitin_Nohria" title="Nitin Nohria">Nitin Nohria</a></li>
+<li><a href="/wiki/Harvard_Business_Publishing" title="Harvard Business Publishing">Harvard Business Publishing</a>
+<ul>
+<li><a href="/wiki/Harvard_Business_Press" class="mw-redirect" title="Harvard Business Press">Harvard Business Press</a></li>
+<li><i><a href="/wiki/Harvard_Business_Review" title="Harvard Business Review">Harvard Business Review</a></i></li>
+</ul>
+</li>
+<li><a href="/wiki/Baker_Library/Bloomberg_Center" title="Baker Library/Bloomberg Center">Baker Library/Bloomberg Center</a></li>
+<li><a href="/wiki/Spangler_Center" title="Spangler Center">Spangler Center</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Design</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_Graduate_School_of_Design" title="Harvard Graduate School of Design">Harvard Graduate School of Design</a></li>
+<li>Dean <a href="/wiki/Mohsen_Mostafavi" title="Mohsen Mostafavi">Mohsen Mostafavi</a></li>
+<li><i><a href="/wiki/Harvard_Design_Magazine" title="Harvard Design Magazine">Harvard Design Magazine</a></i></li>
+<li><a href="/wiki/Joint_Center_for_Housing_Studies" title="Joint Center for Housing Studies">Joint Center for Housing Studies</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Divinity</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_Divinity_School" title="Harvard Divinity School">Harvard Divinity School</a></li>
+<li>Dean <a href="/wiki/David_N._Hempton" title="David N. Hempton">David N. Hempton</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Education</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_Graduate_School_of_Education" title="Harvard Graduate School of Education">Harvard Graduate School of Education</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Government</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/John_F._Kennedy_School_of_Government" title="John F. Kennedy School of Government">John F. Kennedy School of Government</a></li>
+<li>Dean <a href="/wiki/Douglas_Elmendorf" title="Douglas Elmendorf">Douglas Elmendorf</a></li>
+<li><a href="/wiki/Harvard_Institute_of_Politics" title="Harvard Institute of Politics">Institute of Politics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Law</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_Law_School" title="Harvard Law School">Harvard Law School</a></li>
+<li>Dean <a href="/wiki/Martha_Minow" title="Martha Minow">Martha Minow</a></li>
+<li><i><a href="/wiki/Harvard_Law_Review" title="Harvard Law Review">Harvard Law Review</a></i></li>
+<li><i><a href="/wiki/Harvard_Journal_of_Law_%26_Technology" title="Harvard Journal of Law &amp; Technology">Harvard Journal of Law &amp; Technology</a></i></li>
+<li><i><a href="/wiki/Harvard_Law_Record" title="Harvard Law Record">Harvard Law Record</a></i></li>
+<li><i><a href="/wiki/Harvard_International_Law_Journal" title="Harvard International Law Journal">Harvard International Law Journal</a></i></li>
+<li><i><a href="/wiki/Harvard_Civil_Rights-Civil_Liberties_Law_Review" title="Harvard Civil Rights-Civil Liberties Law Review">Harvard Civil Rights-Civil Liberties Law Review</a></i></li>
+<li><i><a href="/wiki/Harvard_Journal_on_Legislation" title="Harvard Journal on Legislation">Harvard Journal on Legislation</a></i></li>
+<li><a href="/wiki/Berkman_Center_for_Internet_%26_Society" class="mw-redirect" title="Berkman Center for Internet &amp; Society">Berkman Center</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Medicine</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%"></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-selflink selflink">Harvard Medical School</a></li>
+<li>Dean <a href="/wiki/Jeffrey_Scott_Flier" title="Jeffrey Scott Flier">Jeffrey Scott Flier</a></li>
+<li><a href="/wiki/Broad_Institute" title="Broad Institute">Broad Institute</a></li>
+<li><a href="/wiki/Countway_Library_of_Medicine" class="mw-redirect" title="Countway Library of Medicine">Countway Library</a></li>
+<li><a href="/wiki/Center_for_the_History_of_Medicine" class="mw-redirect" title="Center for the History of Medicine">Center for the History of Medicine</a>
+<ul>
+<li><a href="/wiki/Warren_Anatomical_Museum" title="Warren Anatomical Museum">Warren Anatomical Museum</a></li>
+</ul>
+</li>
+<li><a href="/w/index.php?title=Schepens_Eye_Research_Institute&amp;action=edit&amp;redlink=1" class="new" title="Schepens Eye Research Institute (page does not exist)">Schepens Eye Research Institute</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Dentistry</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_School_of_Dental_Medicine" title="Harvard School of Dental Medicine">Harvard School of Dental Medicine</a></li>
+<li>Dean <a href="/w/index.php?title=Bruce_Donoff&amp;action=edit&amp;redlink=1" class="new" title="Bruce Donoff (page does not exist)">Bruce Donoff</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Public health</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_T.H._Chan_School_of_Public_Health" title="Harvard T.H. Chan School of Public Health">Harvard T.H. Chan School of Public Health</a></li>
+<li>Dean <a href="/wiki/Michelle_Ann_Williams" title="Michelle Ann Williams">Michelle Ann Williams</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Museums</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_Art_Museums" title="Harvard Art Museums">Harvard Art Museums</a>
+<ul>
+<li><a href="/wiki/Arthur_M._Sackler_Museum" class="mw-redirect" title="Arthur M. Sackler Museum">Arthur M. Sackler</a></li>
+<li><a href="/wiki/Fogg_Museum" class="mw-redirect" title="Fogg Museum">Fogg Museum</a></li>
+<li><a href="/wiki/Busch%E2%80%93Reisinger_Museum" class="mw-redirect" title="Busch–Reisinger Museum">Busch-Reisinger</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Harvard_Collection_of_Historical_Scientific_Instruments" title="Harvard Collection of Historical Scientific Instruments">Harvard Collection of Historical Scientific Instruments</a></li>
+<li><a href="/wiki/Harvard_Museum_of_Natural_History" title="Harvard Museum of Natural History">Museum of Natural History</a>
+<ul>
+<li><a href="/wiki/Glass_Flowers" title="Glass Flowers">Glass Flowers</a></li>
+<li><a href="/wiki/Harvard_Mineralogical_Museum" title="Harvard Mineralogical Museum">Mineralogical Museum</a></li>
+<li><a href="/wiki/Harvard_University_Herbaria" title="Harvard University Herbaria">Herbaria</a></li>
+<li><a href="/wiki/Museum_of_Comparative_Zoology" title="Museum of Comparative Zoology">Comparative Zoology</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Peabody_Museum_of_Archaeology_and_Ethnology" title="Peabody Museum of Archaeology and Ethnology">Peabody Museum of Archaeology and Ethnology</a></li>
+<li><a href="/wiki/Semitic_Museum" title="Semitic Museum">Semitic Museum</a></li>
+<li><a href="/wiki/General_Artemas_Ward_House" title="General Artemas Ward House">General Artemas Ward House</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Cambridge<br />
+campus</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Memorial_Hall_(Harvard_University)" title="Memorial Hall (Harvard University)">Memorial Hall</a></li>
+<li><a href="/wiki/Harvard_Science_Center" title="Harvard Science Center">Science Center</a></li>
+<li><a href="/wiki/Smith_Campus_Center" title="Smith Campus Center">Smith Campus Center</a></li>
+<li><a href="/wiki/Peabody_Terrace" title="Peabody Terrace">Peabody Terrace</a></li>
+<li><a href="/wiki/Harvard_Graduate_Center" title="Harvard Graduate Center">Harvard Graduate Center</a></li>
+<li><a href="/wiki/Harvard_Hall" title="Harvard Hall">Harvard Hall</a></li>
+<li><a href="/wiki/University_Hall_(Harvard_University)" title="University Hall (Harvard University)">University Hall</a></li>
+<li><a href="/wiki/Memorial_Church_of_Harvard_University" title="Memorial Church of Harvard University">Memorial Church</a>
+<ul>
+<li><a href="/wiki/Harvard_University_Choir" title="Harvard University Choir">Choir</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Harvard_Yard" title="Harvard Yard">Harvard Yard</a></li>
+<li><a href="/wiki/Johnston_Gate" title="Johnston Gate">Johnston Gate</a></li>
+<li><a href="/wiki/Boylston_Hall" title="Boylston Hall">Boylston Hall</a></li>
+<li><a href="/wiki/Massachusetts_Hall_(Harvard_University)" title="Massachusetts Hall (Harvard University)">Massachusetts Hall</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Centers and<br />
+Institutes</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dumbarton_Oaks" title="Dumbarton Oaks">Dumbarton Oaks</a></li>
+<li><a href="/wiki/Harvard_Forest" title="Harvard Forest">Harvard Forest</a></li>
+<li><a href="/wiki/Harvard%E2%80%93MIT_Division_of_Health_Sciences_and_Technology" class="mw-redirect" title="Harvard–MIT Division of Health Sciences and Technology">Health Science and Technology</a></li>
+<li><a href="/wiki/Institute_for_Advanced_Theater_Training" title="Institute for Advanced Theater Training">Institute for Advanced Theater Training</a></li>
+<li><a href="/wiki/Radcliffe_Institute_for_Advanced_Study" title="Radcliffe Institute for Advanced Study">Radcliffe Institute for Advanced Study</a>
+<ul>
+<li><a href="/wiki/Schlesinger_Library" title="Schlesinger Library">Schlesinger Library</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Real_Colegio_Complutense" title="Real Colegio Complutense">Real Colegio Complutense</a></li>
+<li><a href="/wiki/Rowland_Institute_for_Science" title="Rowland Institute for Science">Rowland Institute for Science</a></li>
+<li><a href="/wiki/Wyss_Institute_for_Biologically_Inspired_Engineering" title="Wyss Institute for Biologically Inspired Engineering">Wyss Institute for Biologically Inspired Engineering</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Misc.</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/History_and_traditions_of_Harvard_commencements" title="History and traditions of Harvard commencements">Commencement traditions</a>
+<ul>
+<li><a href="/wiki/Academic_regalia_of_Harvard_University" title="Academic regalia of Harvard University">Academic regalia</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Heraldry_of_Harvard_University" title="Heraldry of Harvard University">Heraldry</a></li>
+<li><a href="/wiki/Harvard_Tercentenary_celebration" title="Harvard Tercentenary celebration">Tercentenary celebration</a></li>
+<li><a href="/wiki/Harvard_University_Professor" title="Harvard University Professor">Harvard University Professor</a></li>
+<li><i><a href="/wiki/Harvard_Magazine" title="Harvard Magazine">Harvard Magazine</a></i></li>
+<li><i><a href="/wiki/Harvard_Gazette" title="Harvard Gazette">Harvard Gazette</a></i></li>
+<li><a href="/wiki/Harvard_University_Press" title="Harvard University Press">Harvard University Press</a></li>
+<li><a href="/wiki/Harvard_Society_of_Fellows" title="Harvard Society of Fellows">Society of Fellows</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1186
+Cached time: 20171016191834
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.596 seconds
+Real time usage: 0.739 seconds
+Preprocessor visited node count: 4939/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 187227/2097152 bytes
+Template argument size: 29773/2097152 bytes
+Highest expansion depth: 19/40
+Expensive parser function count: 6/500
+Lua time usage: 0.221/10.000 seconds
+Lua memory usage: 7.07 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  533.357      1 -total
+ 29.71%  158.443      1 Template:Reflist
+ 22.29%  118.902      1 Template:Infobox_academic_division
+ 19.91%  106.201      3 Template:Ambox
+ 19.90%  106.149      1 Template:Infobox
+ 18.33%   97.783      1 Template:Multiple_issues
+ 17.68%   94.317      3 Template:Navbox
+ 11.41%   60.860      1 Template:Harvard
+ 10.00%   53.351      2 Template:Cite_book
+  9.41%   50.206      2 Template:Ifempty
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:329529-0!canonical and timestamp 20171016191833 and revision id 804726772
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Harvard_Medical_School&amp;oldid=804726772">https://en.wikipedia.org/w/index.php?title=Harvard_Medical_School&amp;oldid=804726772</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Harvard_Medical_School" title="Category:Harvard Medical School">Harvard Medical School</a></li><li><a href="/wiki/Category:Ivy_League_medical_schools" title="Category:Ivy League medical schools">Ivy League medical schools</a></li><li><a href="/wiki/Category:1782_establishments_in_Massachusetts" title="Category:1782 establishments in Massachusetts">1782 establishments in Massachusetts</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Pages_using_infobox_academic_division_with_the_type_parameter" title="Category:Pages using infobox academic division with the type parameter">Pages using infobox academic division with the type parameter</a></li><li><a href="/wiki/Category:Pages_using_infobox_academic_division_with_the_parent_parameter" title="Category:Pages using infobox academic division with the parent parameter">Pages using infobox academic division with the parent parameter</a></li><li><a href="/wiki/Category:Pages_using_infobox_academic_division_with_the_affiliation_parameter" title="Category:Pages using infobox academic division with the affiliation parameter">Pages using infobox academic division with the affiliation parameter</a></li><li><a href="/wiki/Category:Articles_to_be_merged_from_January_2016" title="Category:Articles to be merged from January 2016">Articles to be merged from January 2016</a></li><li><a href="/wiki/Category:All_articles_to_be_merged" title="Category:All articles to be merged">All articles to be merged</a></li><li><a href="/wiki/Category:Articles_needing_cleanup_from_March_2015" title="Category:Articles needing cleanup from March 2015">Articles needing cleanup from March 2015</a></li><li><a href="/wiki/Category:All_pages_needing_cleanup" title="Category:All pages needing cleanup">All pages needing cleanup</a></li><li><a href="/wiki/Category:Cleanup_tagged_articles_with_a_reason_field_from_March_2015" title="Category:Cleanup tagged articles with a reason field from March 2015">Cleanup tagged articles with a reason field from March 2015</a></li><li><a href="/wiki/Category:Wikipedia_pages_needing_cleanup_from_March_2015" title="Category:Wikipedia pages needing cleanup from March 2015">Wikipedia pages needing cleanup from March 2015</a></li><li><a href="/wiki/Category:Wikipedia_list_cleanup_from_March_2015" title="Category:Wikipedia list cleanup from March 2015">Wikipedia list cleanup from March 2015</a></li><li><a href="/wiki/Category:Pages_using_div_col_with_small_parameter" title="Category:Pages using div col with small parameter">Pages using div col with small parameter</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Harvard+Medical+School" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Harvard+Medical+School" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Harvard_Medical_School" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Harvard_Medical_School" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Harvard_Medical_School">Read</a></span></li>
+							<li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Harvard_Medical_School&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Harvard_Medical_School&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Harvard_Medical_School" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Harvard_Medical_School" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Harvard_Medical_School&amp;oldid=804726772" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Harvard_Medical_School&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q49121" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Harvard_Medical_School&amp;id=804726772" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Harvard+Medical+School">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Harvard+Medical+School&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Harvard_Medical_School&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Harvard_Medical_School" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%85%D8%AF%D8%B1%D8%B3%D8%A9_%D8%B7%D8%A8_%D9%87%D8%A7%D8%B1%D9%81%D8%A7%D8%B1%D8%AF" title="مدرسة طب هارفارد – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D1%81%D0%BA%D0%BE_%D1%83%D1%87%D0%B8%D0%BB%D0%B8%D1%89%D0%B5_%D0%BD%D0%B0_%D0%A5%D0%B0%D1%80%D0%B2%D0%B0%D1%80%D0%B4" title="Медицинско училище на Харвард – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Harvard_Medical_School" title="Harvard Medical School – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Escuela_M%C3%A9dica_Harvard" title="Escuela Médica Harvard – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%85%D8%AF%D8%B1%D8%B3%D9%87_%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C_%D9%87%D8%A7%D8%B1%D9%88%D8%A7%D8%B1%D8%AF" title="مدرسه پزشکی هاروارد – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Harvard_Medical_School" title="Harvard Medical School – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%ED%95%98%EB%B2%84%EB%93%9C_%EC%9D%98%ED%95%99%EB%8C%80%ED%95%99%EC%9B%90" title="하버드 의학대학원 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Harvard_Medical_School" title="Harvard Medical School – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Harvard_Medical_School" title="Harvard Medical School – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%BC%E3%83%90%E3%83%BC%E3%83%89%E5%A4%A7%E5%AD%A6%E5%8C%BB%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2" title="ハーバード大学医学大学院 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Harvard_Medical_School" title="Harvard Medical School – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Harvard_Medical_School" title="Harvard Medical School – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Facultatea_de_Medicin%C4%83_Harvard" title="Facultatea de Medicină Harvard – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D1%80%D0%B2%D0%B0%D1%80%D0%B4%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%88%D0%BA%D0%BE%D0%BB%D0%B0" title="Гарвардская медицинская школа – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Harvard_Medical_School" title="Harvard Medical School – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Harvard_%C3%9Cniversitesi_T%C4%B1p_Fak%C3%BCltesi" title="Harvard Üniversitesi Tıp Fakültesi – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%93%88%E4%BD%9B%E5%8C%BB%E5%AD%A6%E9%99%A2" title="哈佛医学院 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q49121#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 10 October 2017, at 19:32.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Harvard_Medical_School&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.596","walltime":"0.739","ppvisitednodes":{"value":4939,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":187227,"limit":2097152},"templateargumentsize":{"value":29773,"limit":2097152},"expansiondepth":{"value":19,"limit":40},"expensivefunctioncount":{"value":6,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  533.357      1 -total"," 29.71%  158.443      1 Template:Reflist"," 22.29%  118.902      1 Template:Infobox_academic_division"," 19.91%  106.201      3 Template:Ambox"," 19.90%  106.149      1 Template:Infobox"," 18.33%   97.783      1 Template:Multiple_issues"," 17.68%   94.317      3 Template:Navbox"," 11.41%   60.860      1 Template:Harvard"," 10.00%   53.351      2 Template:Cite_book","  9.41%   50.206      2 Template:Ifempty"]},"scribunto":{"limitreport-timeusage":{"value":"0.221","limit":"10.000"},"limitreport-memusage":{"value":7418363,"limit":52428800}},"cachereport":{"origin":"mw1186","timestamp":"20171016191834","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":72,"wgHostname":"mw1180"});});</script>
+	</body>
+</html>

@@ -1,0 +1,875 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Manuscript - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Manuscript","wgTitle":"Manuscript","wgCurRevisionId":805147418,"wgRevisionId":805147418,"wgArticleId":19167,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles needing clarification from August 2016","Articles incorporating a citation from the 1913 Catholic Encyclopedia with Wikisource reference","Use dmy dates from March 2011","Wikipedia articles with GND identifiers","Manuscripts","Book terminology","Textual criticism","Textual scholarship","Leather goods"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Manuscript","wgRelevantArticleId":19167,"wgRequestId":"WeDMJwpAAEUAAGWXy2kAAAAE","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Manuscripts","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Manuscript","wgWikibaseItemId":"Q87167","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.3"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Codex_Bruchsal_1_68r.jpg/1200px-Codex_Bruchsal_1_68r.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Manuscript"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Manuscript&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Manuscript&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Manuscript"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Manuscript rootpage-Manuscript vector-experimental-print-styles vector-nav-directionality skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Manuscript</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a href="/w/index.php?title=Manuscripts&amp;redirect=no" class="mw-redirect" title="Manuscripts">Manuscripts</a>)</span></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For other uses, see <a href="/wiki/Manuscript_(disambiguation)" class="mw-disambig" title="Manuscript (disambiguation)">Manuscript (disambiguation)</a>.</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Codex_Bruchsal_1_68r.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Codex_Bruchsal_1_68r.jpg/220px-Codex_Bruchsal_1_68r.jpg" width="220" height="281" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Codex_Bruchsal_1_68r.jpg/330px-Codex_Bruchsal_1_68r.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Codex_Bruchsal_1_68r.jpg/440px-Codex_Bruchsal_1_68r.jpg 2x" data-file-width="1883" data-file-height="2404" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Codex_Bruchsal_1_68r.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Christ_Pantocrator" title="Christ Pantocrator">Christ Pantocrator</a> seated in a capital "U" in an <a href="/wiki/Illuminated_manuscript" title="Illuminated manuscript">illuminated manuscript</a> from the Badische Landesbibliothek, Germany.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Thucydides_Manuscript.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Thucydides_Manuscript.jpg/220px-Thucydides_Manuscript.jpg" width="220" height="234" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Thucydides_Manuscript.jpg/330px-Thucydides_Manuscript.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/4/48/Thucydides_Manuscript.jpg 2x" data-file-width="417" data-file-height="443" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Thucydides_Manuscript.jpg" class="internal" title="Enlarge"></a></div>
+10th-century minuscule manuscript of <a href="/wiki/Thucydides" title="Thucydides">Thucydides</a>'s <a href="/wiki/History_of_the_Peloponnesian_War" title="History of the Peloponnesian War">History of the Peloponnesian War</a></div>
+</div>
+</div>
+<p>A <b>manuscript</b> (abbreviated <b>MS</b> for singular and <b>MSS</b> for plural) is any document written by hand or <a href="/wiki/Typewritten" class="mw-redirect" title="Typewritten">typewritten</a>, as opposed to being mechanically printed or reproduced in some indirect or automated way.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> More recently, it is understood to be an author's written, typed, or word-processed copy of a work, as distinguished from the print of the same.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Before the arrival of <a href="/wiki/Printing" title="Printing">printing</a>, all documents and books were manuscripts. Manuscripts are not defined by their contents, which may combine writing with mathematical calculations, maps, explanatory figures or illustrations. Manuscripts may be in book form, <a href="/wiki/Scroll_(parchment)" class="mw-redirect" title="Scroll (parchment)">scrolls</a> or in <a href="/wiki/Codex" title="Codex">codex</a> format. <a href="/wiki/Illuminated_manuscript" title="Illuminated manuscript">Illuminated manuscripts</a> are enriched with pictures, border decorations, elaborately embossed initial letters or full-page illustrations.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Cultural_background"><span class="tocnumber">1</span> <span class="toctext">Cultural background</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Modern_variations"><span class="tocnumber">2</span> <span class="toctext">Modern variations</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#European_manuscript_history"><span class="tocnumber">3</span> <span class="toctext">European manuscript history</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#A_sample_of_common_genres_of_manuscripts"><span class="tocnumber">4</span> <span class="toctext">A sample of common genres of manuscripts</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Bibles"><span class="tocnumber">4.1</span> <span class="toctext">Bibles</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Book_of_hours"><span class="tocnumber">4.2</span> <span class="toctext">Book of hours</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Liturgical_books_and_calendars"><span class="tocnumber">4.3</span> <span class="toctext">Liturgical books and calendars</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Scripts"><span class="tocnumber">5</span> <span class="toctext">Scripts</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Parts"><span class="tocnumber">6</span> <span class="toctext">Parts</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Major_U.S._repositories_of_medieval_manuscripts"><span class="tocnumber">7</span> <span class="toctext">Major U.S. repositories of medieval manuscripts</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#See_also"><span class="tocnumber">8</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Cultural_background">Cultural background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Manuscript&amp;action=edit&amp;section=1" title="Edit section: Cultural background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Sargis_Pitsak.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Sargis_Pitsak.jpg/220px-Sargis_Pitsak.jpg" width="220" height="308" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Sargis_Pitsak.jpg/330px-Sargis_Pitsak.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Sargis_Pitsak.jpg/440px-Sargis_Pitsak.jpg 2x" data-file-width="1808" data-file-height="2530" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Sargis_Pitsak.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Armenian_manuscript" class="mw-redirect" title="Armenian manuscript">Armenian Manuscript</a></div>
+</div>
+</div>
+<p>The traditional abbreviations are <b>MS</b> for manuscript and <b>MSS</b> for manuscripts,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> while the forms <b>MS.</b>, <b>ms</b> or <b>ms.</b> for singular, and <b>MSS.</b>, <b>mss</b> or <b>mss.</b> for plural (with or without the full stop, all uppercase or all lowercase) are also accepted.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> The second <i>s</i> is not simply the plural; by an old convention, it doubles the last letter of the abbreviation to express the plural, just as <i>pp.</i> means "pages".</p>
+<p>Before the invention of <a href="/wiki/Woodblock_printing" title="Woodblock printing">woodblock printing</a> in China or by <a href="/wiki/Moveable_type" class="mw-redirect" title="Moveable type">moveable type</a> in a <a href="/wiki/Printing_press" title="Printing press">printing press</a> in Europe, all written documents had to be both produced and reproduced by hand. Historically, manuscripts were produced in form of scrolls (<i>volume</i> in Latin) or books (<i>codex</i>, plural <i>codices</i>). Manuscripts were produced on <a href="/wiki/Vellum" title="Vellum">vellum</a> and other parchment, on <a href="/wiki/Papyrus" title="Papyrus">papyrus</a>, and on paper. In Russia <a href="/wiki/Birch_bark_document" class="mw-redirect" title="Birch bark document">birch bark documents</a> as old as from the 11th century have survived. In India, the <a href="/wiki/Palm_leaf_manuscript" class="mw-redirect" title="Palm leaf manuscript">palm leaf manuscript</a>, with a distinctive long rectangular shape, was used from ancient times until the 19th century. <a href="/wiki/Paper" title="Paper">Paper</a> spread from China via the Islamic world to Europe by the 14th century, and by the late 15th century had largely replaced parchment for many purposes.</p>
+<p>When Greek or Latin works were published, numerous professional copies were made simultaneously by scribes in a <a href="/wiki/Scriptorium" title="Scriptorium">scriptorium</a>, each making a single copy from an original that was declaimed aloud.</p>
+<p>The oldest written manuscripts have been preserved by the perfect dryness of their Middle Eastern resting places, whether placed within <a href="/wiki/Sarcophagus" title="Sarcophagus">sarcophagi</a> in Egyptian tombs, or reused as <a href="/wiki/Mummy" title="Mummy">mummy</a>-wrappings, discarded in the <a href="/wiki/Midden" title="Midden">middens</a> of <a href="/wiki/Oxyrhynchus" title="Oxyrhynchus">Oxyrhynchus</a> or secreted for safe-keeping in jars and buried (<a href="/wiki/Nag_Hammadi_library" title="Nag Hammadi library">Nag Hammadi library</a>) or stored in dry caves (<a href="/wiki/Dead_Sea_scrolls" class="mw-redirect" title="Dead Sea scrolls">Dead Sea scrolls</a>). Manuscripts in <a href="/wiki/Tocharian_languages" title="Tocharian languages">Tocharian languages</a>, written on palm leaves, survived in desert burials in the <a href="/wiki/Tarim_Basin" title="Tarim Basin">Tarim Basin</a> of Central Asia. Volcanic ash preserved some of the Roman library of the <a href="/wiki/Villa_of_the_Papyri" title="Villa of the Papyri">Villa of the Papyri</a> in <a href="/wiki/Herculaneum" title="Herculaneum">Herculaneum</a>.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:182px;"><a href="/wiki/File:Gharib_al-Hadith-page0019.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Gharib_al-Hadith-page0019.jpg/180px-Gharib_al-Hadith-page0019.jpg" width="180" height="256" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Gharib_al-Hadith-page0019.jpg/270px-Gharib_al-Hadith-page0019.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Gharib_al-Hadith-page0019.jpg/360px-Gharib_al-Hadith-page0019.jpg 2x" data-file-width="843" data-file-height="1197" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Gharib_al-Hadith-page0019.jpg" class="internal" title="Enlarge"></a></div>
+Gharib al-Hadith, by Abu `Ubayd al-Qasim b. Sallam al-Harawi (d. 223/837). The oldest known dated Arabic manuscript on paper in <a href="/wiki/Leiden_University_Library" title="Leiden University Library">Leiden University Library</a>, (dated 319 (931 AD))</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:182px;"><a href="/wiki/File:Lectionary_183_K068971.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Lectionary_183_K068971.JPG/180px-Lectionary_183_K068971.JPG" width="180" height="234" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Lectionary_183_K068971.JPG/270px-Lectionary_183_K068971.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/76/Lectionary_183_K068971.JPG/360px-Lectionary_183_K068971.JPG 2x" data-file-width="940" data-file-height="1220" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Lectionary_183_K068971.JPG" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Lectionary_183" title="Lectionary 183">Lectionary 183</a></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Illuminated_letter_U_between_1210_and_1230_..JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Illuminated_letter_U_between_1210_and_1230_..JPG/220px-Illuminated_letter_U_between_1210_and_1230_..JPG" width="220" height="316" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Illuminated_letter_U_between_1210_and_1230_..JPG/330px-Illuminated_letter_U_between_1210_and_1230_..JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Illuminated_letter_U_between_1210_and_1230_..JPG/440px-Illuminated_letter_U_between_1210_and_1230_..JPG 2x" data-file-width="534" data-file-height="768" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Illuminated_letter_U_between_1210_and_1230_..JPG" class="internal" title="Enlarge"></a></div>
+Inside the letter is a picture of a master in cathedra expounding on the Aphorisms of Hippocrates. Initial "V" rendered as "U" of "Vita brevis, ars vero longa", or "Life is short, but the art is long". "Isagoge", fol. 15b. HMD Collection, MS E 78.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:De_urinarum_differencia_negocium_between_1210_and_1230_..JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/De_urinarum_differencia_negocium_between_1210_and_1230_..JPG/220px-De_urinarum_differencia_negocium_between_1210_and_1230_..JPG" width="220" height="241" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/De_urinarum_differencia_negocium_between_1210_and_1230_..JPG/330px-De_urinarum_differencia_negocium_between_1210_and_1230_..JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/De_urinarum_differencia_negocium_between_1210_and_1230_..JPG/440px-De_urinarum_differencia_negocium_between_1210_and_1230_..JPG 2x" data-file-width="701" data-file-height="768" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:De_urinarum_differencia_negocium_between_1210_and_1230_..JPG" class="internal" title="Enlarge"></a></div>
+Image of two facing pages of the illuminated manuscript of "Isagoge", fols. 42b and 43a. On the top of the left hand page is an illuminated letter "D" - initial of "De urinarum differencia negocium" (The matter of the differences of urines). Inside the letter is a picture of a master on bench pointing at a raised flask while lecturing on the "Book on urines" of Theophilus. The right hand page is only shown in part. On its very bottom is an illuminated letter "U" - initial of "Urina ergo est colamentum sanguinis" (Urine is the filtrate of the blood). Inside the letter is a picture of a master holding up a flask while explaining the diagnostic significance of urine to a student or a patient. HMD Collection, MS E 78.</div>
+</div>
+</div>
+<p>Ironically, the manuscripts that were being most carefully preserved in the libraries of <a href="/wiki/Classical_antiquity" title="Classical antiquity">antiquity</a> are virtually all lost. Papyrus has a life of at most a century or two in relatively moist Italian or Greek conditions; only those works copied onto parchment, usually after the general conversion to Christianity, have survived, and by no means all of those.</p>
+<p>Originally, all books were in manuscript form. In China, and later other parts of East Asia, <a href="/wiki/Woodblock_printing" title="Woodblock printing">woodblock printing</a> was used for books from about the 7th century. The earliest dated example is the <a href="/wiki/Diamond_Sutra" title="Diamond Sutra">Diamond Sutra</a> of 868. In the Islamic world and the West, all books were in manuscript until the introduction of movable type printing in about 1450. Manuscript copying of books continued for a least a century, as printing remained expensive. Private or government documents remained hand-written until the invention of the typewriter in the late 19th century. Because of the likelihood of errors being introduced each time a manuscript was copied, the <a href="/wiki/Textual_criticism#Stemmatics" title="Textual criticism">filiation</a> of different versions of the same text is a fundamental part of the study and criticism of all texts that have been transmitted in manuscript.</p>
+<p>In <a href="/wiki/Southeast_Asia" title="Southeast Asia">Southeast Asia</a>, in the first millennium, documents of sufficiently great importance were inscribed on soft metallic sheets such as <a href="/wiki/Intaglio_printing" class="mw-redirect" title="Intaglio printing">copperplate</a>, softened by refiner's fire and inscribed with a metal stylus. In the <a href="/wiki/Philippines" title="Philippines">Philippines</a>, for example, as early as 900AD, specimen documents were not inscribed by stylus, but were punched much like the style of today's <a href="/wiki/Dot-matrix_printer" class="mw-redirect" title="Dot-matrix printer">dot-matrix printers</a>. This type of document was rare compared to the usual leaves and bamboo staves that were inscribed. However, neither the leaves nor paper were as durable as the metal document in the hot, humid climate. In <a href="/wiki/Burma" class="mw-redirect" title="Burma">Burma</a>, the kammavaca, Buddhist manuscripts, were inscribed on brass, copper or ivory sheets, and even on discarded monk robes folded and lacquered. In <a href="/wiki/Italy" title="Italy">Italy</a> some important <a href="/wiki/Etruria" title="Etruria">Etruscan</a> texts were similarly inscribed on thin gold plates: similar sheets have been discovered in <a href="/wiki/Bulgaria" title="Bulgaria">Bulgaria</a>. Technically, these are all inscriptions rather than manuscripts.</p>
+<p>The study of the writing, or "hand" in surviving manuscripts is termed <a href="/wiki/Palaeography" title="Palaeography">palaeography</a>. In the Western world, from the <a href="/wiki/Classical_antiquity" title="Classical antiquity">classical period</a> through the early centuries of the <a href="/wiki/Christian_era" class="mw-redirect" title="Christian era">Christian era</a>, manuscripts were written without spaces between the words (<a href="/wiki/Scriptio_continua" title="Scriptio continua">scriptio continua</a>), which makes them especially hard for the untrained to read. Extant copies of these early manuscripts written in <a href="/wiki/Greek_language" title="Greek language">Greek</a> or <a href="/wiki/Latin" title="Latin">Latin</a> and usually dating from the 4th century to the 8th century, are classified according to their use of either all <a href="/wiki/Majuscule" class="mw-redirect" title="Majuscule">upper case</a> or all <a href="/wiki/Lower_case" class="mw-redirect" title="Lower case">lower case letters</a>. <a href="/wiki/Hebrew_language" title="Hebrew language">Hebrew</a> manuscripts, such as the <a href="/wiki/Dead_Sea_scrolls" class="mw-redirect" title="Dead Sea scrolls">Dead Sea scrolls</a> make no such differentiation. Manuscripts using all upper case letters are called <a href="/wiki/Majuscule" class="mw-redirect" title="Majuscule">majuscule</a>, those using all lower case are called <a href="/wiki/Lower_case" class="mw-redirect" title="Lower case">minuscule</a>. Usually, the majuscule scripts such as <a href="/wiki/Uncial" class="mw-redirect" title="Uncial">uncial</a> are written with much more care. The scribe lifted his pen between each stroke, producing an unmistakable effect of regularity and formality. On the other hand, while minuscule scripts can be written with pen-lift, they may also be <a href="/wiki/Cursive" title="Cursive">cursive</a>, that is, use little or no pen-lift.</p>
+<h2><span class="mw-headline" id="Modern_variations">Modern variations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Manuscript&amp;action=edit&amp;section=2" title="Edit section: Modern variations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In the context of <a href="/wiki/Library_science" title="Library science">library science</a>, a manuscript is defined as any hand-written item in the collections of a library or an archive. For example, a library's collection of hand-written letters or diaries is considered a manuscript collection. Such manuscript collections are described in finding aids, similar to an index or table of contents to the collection, in accordance with national and international content standards such as <a href="/wiki/Describing_Archives:_A_Content_Standard" title="Describing Archives: A Content Standard">DACS</a> and <a href="/wiki/ISAD(G)" title="ISAD(G)">ISAD(G)</a>.</p>
+<p>In other contexts, however, the use of the term "manuscript" no longer necessarily means something that is hand-written. By analogy a <i>typescript</i> has been produced on a typewriter.<sup id="cite_ref-merriam-webster.com_9-0" class="reference"><a href="#cite_note-merriam-webster.com-9">[9]</a></sup></p>
+<p>In book, magazine, and music publishing, a manuscript is an original copy of a work written by an author or composer, which generally follows standardized typographic and formatting rules. (The staff paper commonly used for handwritten music is, for this reason, often called "manuscript paper"). In film and theatre, a manuscript, or <i>script</i> for short, is an author's or dramatist's text, used by a theatre company or film crew during the production of the work's performance or filming. More specifically, a motion picture manuscript is called a screenplay; a television manuscript, a teleplay; a manuscript for the theatre, a stage play; and a manuscript for audio-only performance is often called a radio play, even when the recorded performance is disseminated via non-radio means.</p>
+<p>In insurance, a manuscript policy is one that is negotiated between the insurer and the policyholder, as opposed to an off-the-shelf form supplied by the insurer.</p>
+<h2><span class="mw-headline" id="European_manuscript_history">European manuscript history</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Manuscript&amp;action=edit&amp;section=3" title="Edit section: European manuscript history">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Illuminated_manuscript" title="Illuminated manuscript">Illuminated manuscript</a></div>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:European_Output_of_Manuscripts_500%E2%80%931500.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/European_Output_of_Manuscripts_500%E2%80%931500.png/220px-European_Output_of_Manuscripts_500%E2%80%931500.png" width="220" height="164" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/European_Output_of_Manuscripts_500%E2%80%931500.png/330px-European_Output_of_Manuscripts_500%E2%80%931500.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/European_Output_of_Manuscripts_500%E2%80%931500.png/440px-European_Output_of_Manuscripts_500%E2%80%931500.png 2x" data-file-width="1278" data-file-height="953" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:European_Output_of_Manuscripts_500%E2%80%931500.png" class="internal" title="Enlarge"></a></div>
+After plummeting in the <a href="/wiki/Early_Middle_Ages" title="Early Middle Ages">Early Middle Ages</a>, the <a href="/wiki/High_Middle_Ages" title="High Middle Ages">high</a> and <a href="/wiki/Late_Middle_Ages" title="Late Middle Ages">late medieval period</a> witnessed a sharp increase of manuscript production.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></div>
+</div>
+</div>
+<p>Most surviving pre-modern manuscripts use the codex format (as in a modern book), which had replaced the scroll by <a href="/wiki/Late_Antiquity" class="mw-redirect" title="Late Antiquity">Late Antiquity</a>. <a href="/wiki/Parchment" title="Parchment">Parchment</a> or <a href="/wiki/Vellum" title="Vellum">vellum</a>, as the best type of parchment is known, had also replaced <a href="/wiki/Papyrus" title="Papyrus">papyrus</a>, which was not nearly so long lived and has survived to the present only in the extremely dry conditions of <a href="/wiki/Egypt" title="Egypt">Egypt</a>, although it was widely used across the Roman world. Parchment is made of animal skin, normally calf, sheep, and/or goat, but also other animals. With all skins, the quality of the finished product is based on how much preparation and skill was put into turning the skin into parchment. Parchment made from calf or sheep was the most common in Northern Europe, while civilizations in Southern Europe preferred goatskin.<sup id="cite_ref-Intro_11-0" class="reference"><a href="#cite_note-Intro-11">[11]</a></sup> Often, if the parchment is white or cream in color and veins from the animal can still be seen, it is calfskin. If it is yellow, greasy or in some cases shiny, then it was made from sheepskin.<sup id="cite_ref-Intro_11-1" class="reference"><a href="#cite_note-Intro-11">[11]</a></sup></p>
+<p>Vellum comes from the <a href="/wiki/Latin" title="Latin">Latin</a> word vitulinum which means “of calf”/ “made from calf”. For modern parchment makers and calligraphers, and apparently often in the past, the terms parchment and vellum are used based on the different degrees of quality, preparation and thickness, and not according to which animal the skin came from, and because of this, the more neutral term "membrane" is often used by modern academics, especially where the animal has not been established by testing.<sup id="cite_ref-Intro_11-2" class="reference"><a href="#cite_note-Intro-11">[11]</a></sup></p>
+<p>Because they are books, pre-modern manuscripts are best described using bibliographic rather than archival standards. The standard endorsed by the American Library Association is known as AMREMM.<sup id="cite_ref-AMREMM_12-0" class="reference"><a href="#cite_note-AMREMM-12">[12]</a></sup> A growing digital catalog of pre-modern manuscripts is <a href="/wiki/Digital_Scriptorium" title="Digital Scriptorium">Digital Scriptorium</a>, hosted by the University of California at Berkeley.</p>
+<h2><span class="mw-headline" id="A_sample_of_common_genres_of_manuscripts">A sample of common genres of manuscripts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Manuscript&amp;action=edit&amp;section=4" title="Edit section: A sample of common genres of manuscripts">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>From ancient texts to medieval maps, anything written down for study would have been done with manuscripts. Some of the most common genres were bibles, religious commentaries, philosophy, law and government texts.</p>
+<h3><span class="mw-headline" id="Bibles">Bibles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Manuscript&amp;action=edit&amp;section=5" title="Edit section: Bibles">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>“<a href="/wiki/The_Bible" class="mw-redirect" title="The Bible">The Bible</a> was the most studied book of the Middle Ages.”<sup id="cite_ref-beryl_13-0" class="reference"><a href="#cite_note-beryl-13">[13]</a></sup> The Bible was the center of medieval religious life. Along with the Bible came scores of commentaries. Commentaries were written in volumes, with some focusing on just single pages of scripture. Across Europe, there were universities that prided themselves on their biblical knowledge. Along with universities, certain cities also had their own celebrities of biblical knowledge during the medieval period.</p>
+<h3><span class="mw-headline" id="Book_of_hours">Book of hours</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Manuscript&amp;action=edit&amp;section=6" title="Edit section: Book of hours">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Pentecost_01.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Pentecost_01.jpg/220px-Pentecost_01.jpg" width="220" height="245" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Pentecost_01.jpg/330px-Pentecost_01.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Pentecost_01.jpg/440px-Pentecost_01.jpg 2x" data-file-width="897" data-file-height="1000" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Pentecost_01.jpg" class="internal" title="Enlarge"></a></div>
+The Pentecost, from an illuminated Catholic <a href="/wiki/Liturgical" class="mw-redirect" title="Liturgical">liturgical</a> manuscript, c.1310-1320</div>
+</div>
+</div>
+<p>A <a href="/wiki/Book_of_hours" title="Book of hours">book of hours</a> is a type of devotional text which was widely popular during the Middle Ages. They are the most common type of surviving medieval <a href="/wiki/Illuminated_manuscripts" class="mw-redirect" title="Illuminated manuscripts">illuminated manuscripts</a>. Each book of hours contain a similar collection of texts, <a href="/wiki/Christian_prayer" title="Christian prayer">prayers</a>, and <a href="/wiki/Psalms#The_Psalms_in_Christian_worship" title="Psalms">psalms</a> but decoration can vary between each and each example. Many have minimal illumination, often restricted to ornamented <a href="/wiki/Initials" class="mw-redirect" title="Initials">initials</a>, but books of hours made for wealthier patrons can be extremely extravagant with full-page <a href="/wiki/Miniature_(illuminated_manuscript)" title="Miniature (illuminated manuscript)">miniatures</a>.</p>
+<h3><span class="mw-headline" id="Liturgical_books_and_calendars">Liturgical books and calendars</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Manuscript&amp;action=edit&amp;section=7" title="Edit section: Liturgical books and calendars">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Along with Bibles, large numbers of manuscripts made in the Middle Ages were revieved in Church<sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="received? revived? reviewed? (August 2016)">clarification needed</span></a></i>]</sup>. Due to the complex church system of rituals and worship these books were the most elegantly written and finely decorated of all medieval manuscripts. Liturgical books usually came in two varieties. Those used during mass and those for divine office.<sup id="cite_ref-Intro_11-3" class="reference"><a href="#cite_note-Intro-11">[11]</a></sup></p>
+<p>Most liturgical books came with a calendar in the front. This served as a quick reference point for important dates in Jesus' life and to tell church officials which saints were to be honored and on what day. The format of the liturgical calendar was as follows:</p>
+<p><i>an example of a medieval liturgical calendar</i></p>
+<table class="wikitable">
+<tr>
+<th>January, August, December</th>
+<th>March, May, July, October</th>
+<th>April, June, September, November</th>
+<th>February</th>
+</tr>
+<tr>
+<td>Kal. (1)</td>
+<td>Kal. (1)</td>
+<td>Kal. (1)</td>
+<td>Kal. (1)</td>
+</tr>
+<tr>
+<td>IV Non. (2)</td>
+<td>VI Non. (2)</td>
+<td>IV Non. (2)</td>
+<td>IV Non. (2)</td>
+</tr>
+<tr>
+<td>III Non. (3)</td>
+<td>V Non. (3)</td>
+<td>III Non. (3)</td>
+<td>III Non. (3)</td>
+</tr>
+<tr>
+<td>II Non. (4)</td>
+<td>IV Non. (4)</td>
+<td>II Non. (4)</td>
+<td>II Non. (4)</td>
+</tr>
+<tr>
+<td>Non. (5)</td>
+<td>III Non. (5)</td>
+<td>Non. (5)</td>
+<td>Non. (5)</td>
+</tr>
+<tr>
+<td>VIII Id. (6)</td>
+<td>II Non. (6)</td>
+<td>VIII Id. (6)</td>
+<td>VIII Id. (6)</td>
+</tr>
+<tr>
+<td>VII Id. (7)</td>
+<td>Non. (7)</td>
+<td>VII Id. (7)</td>
+<td>VII Id. (7)</td>
+</tr>
+<tr>
+<td>VI Id. (8)</td>
+<td>VIII Id. (8)</td>
+<td>VI Id. (8)</td>
+<td>VI Id. (8)</td>
+</tr>
+<tr>
+<td>V Id. (9)</td>
+<td>VII Id. (9)</td>
+<td>V Id. (9)</td>
+<td>V Id. (9)</td>
+</tr>
+<tr>
+<td>IV Id. (10)</td>
+<td>VII Id. (10)</td>
+<td>IV Id. (10)</td>
+<td>IV Id. (10)</td>
+</tr>
+<tr>
+<td>III Id. (11)</td>
+<td>V Id. (11)</td>
+<td>III Id. (11)</td>
+<td>III Id. (11)</td>
+</tr>
+<tr>
+<td>II Id. (12)</td>
+<td>IV Id. (12)</td>
+<td>II Id. (12)</td>
+<td>II Id. (12)</td>
+</tr>
+<tr>
+<td>Id (13)</td>
+<td>III Id. (13)</td>
+<td>Id. (13)</td>
+<td>Id. (13)</td>
+</tr>
+<tr>
+<td>XIX Kal. (14)</td>
+<td>II Id. (14)</td>
+<td>XVIII Kal. (14)</td>
+<td>XVI Kal. (14)</td>
+</tr>
+<tr>
+<td>XVIII Kal. (15)</td>
+<td>Id. (15)</td>
+<td>XVII Kal. (15)</td>
+<td>XV Kal. (15)</td>
+</tr>
+<tr>
+<td>XVII Kal. (16)</td>
+<td>XVII Kal. (16)</td>
+<td>XVI Kal. (16)</td>
+<td>XIV Kal. (16)</td>
+</tr>
+<tr>
+<td>XVI Kal. (17)</td>
+<td>XVI Kal. (17)</td>
+<td>XV Kal. (17)</td>
+<td>XIII Kal. (17)</td>
+</tr>
+<tr>
+<td>XV Kal. (18)</td>
+<td>XV Kal. (18)</td>
+<td>XIV Kal. (18)</td>
+<td>XII Kal. (18)</td>
+</tr>
+<tr>
+<td>XIV Kal. (19)</td>
+<td>XIV Kal. (19)</td>
+<td>XIII Kal. (19)</td>
+<td>XI Kal. (19)</td>
+</tr>
+<tr>
+<td>XIII Kal. (20)</td>
+<td>XIII Kal. (20</td>
+<td>XII Kal. (20)</td>
+<td>X Kal. (20)</td>
+</tr>
+<tr>
+<td>XII Kal. (21)</td>
+<td>XII Kal. (21)</td>
+<td>XI Kal. (21)</td>
+<td>IX Kal. (21)</td>
+</tr>
+<tr>
+<td>XI Kal. (22)</td>
+<td>XI Kal. (22)</td>
+<td>X Kal. (22)</td>
+<td>VIII Kal. (22)</td>
+</tr>
+<tr>
+<td>X Kal. (23)</td>
+<td>X Kal. (23)</td>
+<td>IX Kal. (23)</td>
+<td>VII Kal. (23)</td>
+</tr>
+<tr>
+<td>IX Kal. (24)</td>
+<td>IX Kal. (24)</td>
+<td>VIII Kal. (24)</td>
+<td>VI Kal (<i>the extra day in a leap year</i>)</td>
+</tr>
+<tr>
+<td>VIII Kal. (25)</td>
+<td>VIII Kal. (25)</td>
+<td>VII Kal. (25)</td>
+<td>VI Kal. (24/25)</td>
+</tr>
+<tr>
+<td>VII Kal. (26)</td>
+<td>VII Kal. (26)</td>
+<td>VI Kal. (26)</td>
+<td>V Kal. (25/26)</td>
+</tr>
+<tr>
+<td>VI Kal. (27)</td>
+<td>VI Kal. (27)</td>
+<td>V Kal. (28)</td>
+<td>V Kal. (26/27)</td>
+</tr>
+<tr>
+<td>V Kal. (28)</td>
+<td>V Kal. (28)</td>
+<td>V Kal. (28)</td>
+<td>V Kal. (27/28)</td>
+</tr>
+<tr>
+<td>IV Kal. (29)</td>
+<td>IV Kal. (29)</td>
+<td>III Kal. (29)</td>
+<td>III Kal. (28/29)</td>
+</tr>
+<tr>
+<td>III Kal. (30)</td>
+<td>III Kal. (30)</td>
+<td>II Kal. (30)</td>
+<td></td>
+</tr>
+<tr>
+<td>II Kal. (31)</td>
+<td>II Kal. (31)</td>
+<td></td>
+<td></td>
+</tr>
+</table>
+<p>Almost all medieval calendars give each day's date according to the Roman method of reckoning time. In the Roman system, each month had three fixed points known as Kalends (Kal), the Nons and the Ides. The Nones fell on the fifth of the month in January, February, April, June, August, September, November and December, but on the seventh of the month in March, May, July and October. The Ides fell on the thirteenth in those months in which the Nones fell on the fifth, and the fifteenth in the other four months. All other days were dated by the number of days by which they preceded one of those fixed points.<sup id="cite_ref-Intro_11-4" class="reference"><a href="#cite_note-Intro-11">[11]</a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></p>
+<h2><span class="mw-headline" id="Scripts">Scripts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Manuscript&amp;action=edit&amp;section=8" title="Edit section: Scripts">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Codex_Manesse_193r_-_Albrecht_von_Rapperswil.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Codex_Manesse_193r_-_Albrecht_von_Rapperswil.jpg/220px-Codex_Manesse_193r_-_Albrecht_von_Rapperswil.jpg" width="220" height="294" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Codex_Manesse_193r_-_Albrecht_von_Rapperswil.jpg/330px-Codex_Manesse_193r_-_Albrecht_von_Rapperswil.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Codex_Manesse_193r_-_Albrecht_von_Rapperswil.jpg/440px-Codex_Manesse_193r_-_Albrecht_von_Rapperswil.jpg 2x" data-file-width="636" data-file-height="849" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Codex_Manesse_193r_-_Albrecht_von_Rapperswil.jpg" class="internal" title="Enlarge"></a></div>
+Manuscript, <a href="/wiki/Codex_Manesse" title="Codex Manesse">Codex Manesse</a> Most manuscripts were ruled with horizontal lines that served as the baselines on which the text was entered.</div>
+</div>
+</div>
+<p><a href="/wiki/Merovingian_script" title="Merovingian script">Merovingian script</a>, or "Luxeuil minuscule", is named after an abbey in Western France, the <a href="/wiki/Abbey_of_Luxeuil" class="mw-redirect" title="Abbey of Luxeuil">Luxeuil Abbey</a>, founded by the Irish missionary St <a href="/wiki/Columba" title="Columba">Columba</a> ca. 590.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> <a href="/wiki/Caroline_minuscule" class="mw-redirect" title="Caroline minuscule">Caroline minuscule</a> is a <a href="/wiki/Calligraphy" title="Calligraphy">calligraphic script</a> developed as a writing standard in <a href="/wiki/Europe" title="Europe">Europe</a> so that the <a href="/wiki/Latin_alphabet" title="Latin alphabet">Latin alphabet</a> could be easily recognized by the literate class from different regions. It was used in the <a href="/wiki/Holy_Roman_Empire" title="Holy Roman Empire">Holy Roman Empire</a> between approximately 800 and 1200. Codices, classical and Christian texts, and educational material were written in Carolingian minuscule throughout the <a href="/wiki/Carolingian_Renaissance" title="Carolingian Renaissance">Carolingian Renaissance</a>. The script developed into blackletter and became obsolete, though its revival in the Italian renaissance forms the basis of more recent scripts.<sup id="cite_ref-Intro_11-5" class="reference"><a href="#cite_note-Intro-11">[11]</a></sup> In <i>Introduction to Manuscript Studies</i>, Clemens and Graham associate the beginning of this text coming from the Abby of Saint-Martin at <a href="/wiki/Tours" title="Tours">Tours</a>.<sup id="cite_ref-Intro_11-6" class="reference"><a href="#cite_note-Intro-11">[11]</a></sup></p>
+<p>Caroline Minuscule arrived in England in the second half of the 10th century. Its adoption there, replacing Insular script, was encouraged by the importation of continental European manuscripts by Saints Dunstan, Aethelwold, and Oswald. This script spread quite rapidly, being employed in many English centres for copying Latin texts. English scribes adapted the Carolingian script, giving it proportion and legibility. This new revision of the Caroline Minuscule was called English Protogothic Bookhand. Another script that is derived from the Caroline Minuscule was the German Protogothic Bookhand. It originated in southern Germany during the second half of the 12th century.<sup id="cite_ref-.E2.80.9Cscript_17-0" class="reference"><a href="#cite_note-.E2.80.9Cscript-17">[17]</a></sup> All the individual letters are Caroline; but just as with English Protogothic Bookhand it evolved. This can be seen most notably in the arm of the letter h. It has a hairline that tapers out by curving to the left. When first read the German Protogothic h looks like the German Protogothic b.<sup id="cite_ref-manu_18-0" class="reference"><a href="#cite_note-manu-18">[18]</a></sup> Many more scripts sprang out of the German Protogothic Bookhand. After those came Bastard Anglicana, which is best described as: lipi = pandu lipi pura lipi vignayani</p>
+<blockquote>
+<p>The coexistence in the Gothic period of formal hands employed for the copying of books and cursive scripts used for documentary purposes eventually resulted in cross-fertilization between these two fundamentally different writing styles. Notably, scribes began to upgrade some of the cursive scripts. A script that has been thus formalized is known as a <i>bastard</i> script (whereas a bookhand that has had cursive elements fused onto it is known as a hybrid script). The advantage of such a script was that it could be written more quickly than a pure bookhand; it thus recommended itself to scribes in a period when demand for books was increasing and authors were tending to write longer texts. In England during the fourteenth and fifteenth centuries, many books were written in the script known as Bastard Anglicana.</p>
+</blockquote>
+<p><sup id="cite_ref-Intro_11-7" class="reference"><a href="#cite_note-Intro-11">[11]</a></sup></p>
+<h2><span class="mw-headline" id="Parts">Parts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Manuscript&amp;action=edit&amp;section=9" title="Edit section: Parts">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Cover</li>
+<li>Flyleaf</li>
+<li>Colophon</li>
+<li>incipit</li>
+<li>decoration; illustrations</li>
+<li>dimensions</li>
+<li>Shelfmark or Signature in holding library</li>
+</ul>
+<p>(as opposed to printed Catalog number)</p>
+<ul>
+<li>works/compositions included in same ms</li>
+<li>codicological elements:</li>
+<li>deletions method: erasure? overstrike? dots above letters?</li>
+<li>headers/footers</li>
+<li>page format/layout: columns? text and surrounding commentary/additions/glosses?</li>
+<li>interpolations</li>
+<li>owners' marginal notations/corrections</li>
+<li>owner signatures</li>
+<li>dedication/inscription</li>
+<li>censor signatures</li>
+<li>collation (quires)</li>
+<li>foliation</li>
+<li>Binding</li>
+<li>materials: paper/vellum/papyrus/uncials</li>
+<li>Ink</li>
+<li>writing implement used</li>
+<li>pastedown</li>
+<li>page numeration</li>
+<li>paleographic elements:</li>
+<li>script (one or more?)</li>
+<li>dating</li>
+<li>line fillers</li>
+<li>rubrication</li>
+<li>ruled lines</li>
+<li>leading word at bottom corner of page to indicate what first word on next page is [=catchwords?]</li>
+<li>historical elements of ms: blood, wine etc. stains</li>
+<li>condition: (e.g. smokiness/evidence of fire)</li>
+<li>mold</li>
+<li>wormed</li>
+<li class="mw-empty-elt"></li>
+</ul>
+<h2><span class="mw-headline" id="Major_U.S._repositories_of_medieval_manuscripts">Major U.S. repositories of medieval manuscripts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Manuscript&amp;action=edit&amp;section=10" title="Edit section: Major U.S. repositories of medieval manuscripts">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/The_Morgan_Library_%26_Museum" class="mw-redirect" title="The Morgan Library &amp; Museum">The Morgan Library &amp; Museum</a> = 1,300 (including papyri)</li>
+<li><a href="/wiki/Beinecke_Rare_Book_and_Manuscript_Library" class="mw-redirect" title="Beinecke Rare Book and Manuscript Library">Beinecke Rare Book and Manuscript Library</a>, Yale = 1,100</li>
+<li><a href="/wiki/Walters_Art_Museum" title="Walters Art Museum">Walters Art Museum</a> = 1,000</li>
+<li><a href="/wiki/Houghton_Library" title="Houghton Library">Houghton Library</a>, Harvard = 850</li>
+<li><a href="/wiki/Huntington_Library" title="Huntington Library">Huntington Library</a> = 400</li>
+<li><a href="/wiki/Newberry_Library" title="Newberry Library">Newberry Library</a> = 260</li>
+<li><a href="/wiki/Cornell_University_Library" title="Cornell University Library">Cornell University Library</a> = 150</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Manuscript&amp;action=edit&amp;section=11" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" width="40" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" data-file-width="391" data-file-height="391" /></td>
+<td class="mbox-text plainlist">Look up <i><b><a href="https://en.wiktionary.org/wiki/manuscript" class="extiw" title="wiktionary:manuscript">manuscript</a></b></i>&#160;or <i><b><a href="https://en.wiktionary.org/wiki/handwrit" class="extiw" title="wiktionary:handwrit">handwrit</a></b></i> in Wiktionary, the free dictionary.</td>
+</tr>
+</table>
+<div class="div-col columns column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em;">
+<ul>
+<li><a href="/wiki/Armenian_Illuminated_manuscript" class="mw-redirect" title="Armenian Illuminated manuscript">Armenian Illuminated manuscript</a></li>
+<li><a href="/wiki/Dead_Sea_Scrolls" title="Dead Sea Scrolls">Dead Sea Scrolls</a></li>
+<li><a href="/wiki/Digital_Scriptorium" title="Digital Scriptorium">Digital Scriptorium</a></li>
+<li><a href="/wiki/Genk%C5%8D_y%C5%8Dshi" title="Genkō yōshi">Genkō yōshi</a></li>
+<li><a href="/wiki/Gospel_Book" title="Gospel Book">Gospel Book</a></li>
+<li><a href="/wiki/List_of_Hiberno-Saxon_illustrated_manuscripts" class="mw-redirect" title="List of Hiberno-Saxon illustrated manuscripts">List of Hiberno-Saxon illustrated manuscripts</a></li>
+<li><a href="/wiki/Manuscript_culture" title="Manuscript culture">Manuscript culture</a></li>
+<li><a href="/wiki/Miniature_(illuminated_manuscript)" title="Miniature (illuminated manuscript)">Miniature (illuminated manuscript)</a></li>
+<li><a href="/wiki/Music_manuscript" title="Music manuscript">Music manuscript</a></li>
+<li><a href="/wiki/Palm-leaf_manuscript" title="Palm-leaf manuscript">Palm-leaf manuscript</a></li>
+<li><a href="/wiki/Preservation_of_Illuminated_Manuscripts" class="mw-redirect" title="Preservation of Illuminated Manuscripts">Preservation of Illuminated Manuscripts</a></li>
+<li><a href="/wiki/Printing_press" title="Printing press">Printing press</a></li>
+<li><a href="/wiki/Voynich_manuscript" title="Voynich manuscript">Voynich manuscript</a></li>
+<li><a href="/wiki/Woodblock_printing" title="Woodblock printing">Woodblock printing</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Manuscript&amp;action=edit&amp;section=12" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.merriam-webster.com/dictionary/manuscript">http://www.merriam-webster.com/dictionary/manuscript</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite id="CITEREFReference-OED-manuscript" class="citation"><a rel="nofollow" class="external text" href="http://oed.com/search?searchType=dictionary&amp;q=manuscript">"manuscript"</a>. <i><a href="/wiki/Oxford_English_Dictionary" title="Oxford English Dictionary">Oxford English Dictionary</a></i> (3rd ed.). <a href="/wiki/Oxford_University_Press" title="Oxford University Press">Oxford University Press</a>. September 2005.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AManuscript&amp;rft.atitle=manuscript&amp;rft.btitle=Oxford+English+Dictionary&amp;rft.date=2005-09&amp;rft.edition=3rd&amp;rft.genre=bookitem&amp;rft.pub=Oxford+University+Press&amp;rft_id=http%3A%2F%2Foed.com%2Fsearch%3FsearchType%3Ddictionary%26q%3Dmanuscript&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span>&#160;<span style="font-size:0.95em; font-size: 90%; color: #555">(Subscription or <a rel="nofollow" class="external text" href="https://global.oup.com/oxforddnb/info/freeodnb/libraries/">UK public library membership</a> required.)</span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Harper, Douglas. "<a rel="nofollow" class="external text" href="http://www.etymonline.com/index.php?term=manuscript">Manuscript</a>." Online Etymology Dictionary. November 2001. Accessed 10-11-2007.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.library.rochester.edu/index.cfm?PAGE=228">Medieval English Literary Manuscripts</a>." www.Library.Rtruuochester.Edu. 22 June 2004. University of Rochester Libraries. Accessed 10-11-2007.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.bl.uk/catalogues/illuminatedmanuscripts/GlossM.asp">"Manuscript" (abbreviated ms. and mss.) in British Library Glossaries</a>, <a href="/wiki/The_British_Library" class="mw-redirect" title="The British Library">The British Library</a>. Accessed 12 March 2016.</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.thefreedictionary.com/ms">"ms", "ms." and "MS"</a> in The Free Dictionary (American Heritage 2011 and Random House Kernerman Webster's 2010). Accessed 12 March 2016.</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.thefreedictionary.com/MSS">"MSS", "mss" and "mss."</a> in The Free Dictionary (American Heritage 2011, Collins 2014 and Random House Kernerman Webster's 2010). Accessed 12 March 2016.</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.dictionary.com/browse/mss-">"MSS"</a> (MS. and ms., MSS. and mss.) in Dictionary.com LLC(Random House 2014 and Collins 2012). Accessed 12 March 2016.</span></li>
+<li id="cite_note-merriam-webster.com-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-merriam-webster.com_9-0">^</a></b></span> <span class="reference-text"><cite id="CITEREFMerriam-Webster" class="citation"><a href="/wiki/Merriam-Webster" title="Merriam-Webster">Merriam-Webster</a>, <a rel="nofollow" class="external text" href="http://www.merriam-webster.com/dictionary/typescript"><i>Merriam-Webster's Collegiate Dictionary</i></a>, Merriam-Webster.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AManuscript&amp;rft.au=Merriam-Webster&amp;rft.btitle=Merriam-Webster%27s+Collegiate+Dictionary&amp;rft.genre=book&amp;rft.pub=Merriam-Webster&amp;rft_id=http%3A%2F%2Fwww.merriam-webster.com%2Fdictionary%2Ftypescript&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Buringh, Eltjo; van Zanden, Jan Luiten: "Charting the “Rise of the West”: Manuscripts and Printed Books in Europe, A Long-Term Perspective from the Sixth through Eighteenth Centuries", <i>The Journal of Economic History</i>, Vol. 69, No. 2 (2009), pp.&#160;409–445 (416, table 1)</span></li>
+<li id="cite_note-Intro-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-Intro_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Intro_11-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Intro_11-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Intro_11-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Intro_11-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Intro_11-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-Intro_11-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-Intro_11-7"><sup><i><b>h</b></i></sup></a></span> <span class="reference-text">Clemens, Raymond, and Timothy Graham. Introduction to Manuscript Studies. Ithaca: <a href="/wiki/Cornell_University_Press" title="Cornell University Press">Cornell University Press</a>, 2008.</span></li>
+<li id="cite_note-AMREMM-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-AMREMM_12-0">^</a></b></span> <span class="reference-text">Pass, Gregory. Descriptive Cataloging of Ancient, Medieval, Renaissance, and Early Modern Manuscripts. Chicago: Association of College and Research Libraries, 2002.</span></li>
+<li id="cite_note-beryl-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-beryl_13-0">^</a></b></span> <span class="reference-text">Beryl Smalley, The Study of the Bible in the Middle Ages. 3rd ed. (Oxford, 1983), xxvii</span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">F.P. Pickering, The Calendar Pages of Medieval Service Books: An Introductory Note for Art Historians (Reading, UK., 1980.</span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">Brown, Michelle P. <i>Anglo-Saxon Manuscripts</i>. Toronto, 1991.</span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">Brown, Michelle P. <i>A Guide to Western Historical Scripts from Antiquity to 1600</i>. Toronto,1990.</span></li>
+<li id="cite_note-.E2.80.9Cscript-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-.E2.80.9Cscript_17-0">^</a></b></span> <span class="reference-text">Clemens, Raymond, and Timothy Graham. "English Protogothic Bookhand." In Introduction to Manuscript Studies. Ithaca: Cornell University Press, 2008. 146-147.</span></li>
+<li id="cite_note-manu-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-manu_18-0">^</a></b></span> <span class="reference-text">Clemens, Raymond, and Timothy Graham. "German Protogothic Bookhand." In Introduction to Manuscript Studies. Ithaca: Cornell University Press, 2008. 149-150.</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Manuscript&amp;action=edit&amp;section=13" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Manuscripts" class="extiw" title="commons:Category:Manuscripts">Manuscripts</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://prodigi.bl.uk/illcat/glossary.asp">British Library Glossary of manuscript terms, mostly relating to Western medieval manuscripts</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.manuscript-cultures.uni-hamburg.de/index_e.html">Centre for the Studies of Manuscript Cultures, Hamburg</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.hss.ed.ac.uk/chb/">Centre for the History of the Book, University of Edinburgh</a></li>
+<li><a rel="nofollow" class="external text" href="http://chinesecodicology.blogspot.com/">Chinese Codicology</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.digital-scriptorium.org/">Digital Scriptorium</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.shapell.org/">Shapell Manuscript Foundation</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.lib.unc.edu/mss/">Manuscripts Department, University of North Carolina at Chapel Hill</a></li>
+<li>The <a href="/wiki/Sarasvati_Mahal_Library" class="mw-redirect" title="Sarasvati Mahal Library">Sarasvati Mahal Library</a>, has the <a rel="nofollow" class="external text" href="http://www.sarasvatimahallibrary.tn.nic.in/">richest collection of manuscripts in Sanskrit, Tamil, Marathi and Telugu</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.schoyencollection.com/contents.htm">The Schøyen Collection – the world's largest private collection of manuscripts of all types, with many descriptions and images</a></li>
+<li><img alt="Wikisource-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png" width="12" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/18px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/24px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" />&#160;<cite class="citation encyclopaedia">Herbermann, Charles, ed. (1913). "<a href="https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Manuscripts" class="extiw" title="wikisource:Catholic Encyclopedia (1913)/Manuscripts">Manuscripts</a>". <i><a href="/wiki/Catholic_Encyclopedia" title="Catholic Encyclopedia">Catholic Encyclopedia</a></i>. New York: Robert Appleton Company.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AManuscript&amp;rft.atitle=Manuscripts&amp;rft.btitle=Catholic+Encyclopedia&amp;rft.date=1913&amp;rft.genre=bookitem&amp;rft.place=New+York&amp;rft.pub=Robert+Appleton+Company&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><a rel="nofollow" class="external text" href="http://cooperative-society.org/">Newberry Library Manuscript Search</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.getty.edu/art/exhibitions/making/">Getty Exhibitions</a></li>
+<li><a rel="nofollow" class="external text" href="http://eurofresh.se/manuskrypty/index_eng.html">Polish manuscripts in Sweden</a></li>
+<li><a rel="nofollow" class="external text" href="http://libcudl.colorado.edu:8180/luna/servlet/s/e3i64d">Medieval Manuscript Leaves, University of Colorado Boulder Libraries</a></li>
+<li><a rel="nofollow" class="external text" href="http://lichfield.as.uky.edu">Manuscripts of Lichfield Cathedral</a> - Digital facsimile of the 8th-century St Chad Gospels and Cathedral's 15th-century Wycliffe New Testament, 2010. Includes the ability to overlay images captured with 13 different bands of light, historical images (starting in 1887), and multispectral visualizations. Also includes sixteen interactive 3D renderings. College of Arts &amp; Sciences, University of Kentucky</li>
+<li><a rel="nofollow" class="external text" href="http://lichfield.as.uky.edu/historical-images">Historical Image Overlays</a> - See how an early medieval manuscript is aging</li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Historiography" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Historiography" title="Template:Historiography"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Historiography" title="Template talk:Historiography"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Historiography&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Historiography" style="font-size:114%;margin:0 4em"><a href="/wiki/Historiography" title="Historiography">Historiography</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><b><a href="/wiki/Historical_method" title="Historical method">Historical method</a></b></li>
+<li><b><a href="/wiki/History" title="History">History</a></b></li>
+<li><i><a href="/wiki/Category:History" title="Category:History">history</a></i></li>
+<li><i><a href="/wiki/Category:Theories_of_history" title="Category:Theories of history">theories of history</a></i></li>
+<li><i><a href="/wiki/Category:Historiography" title="Category:Historiography">historiography</a></i></li>
+<li><i><a href="/wiki/Category:Historians" title="Category:Historians">historians</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Primary_source" title="Primary source">Primary sources</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Historical_document" title="Historical document">Historical documents</a></li>
+<li><a href="/wiki/Papyrus" title="Papyrus">Papyri</a></li>
+<li><a href="/wiki/Religious_text" title="Religious text">Religious texts</a></li>
+<li><a href="/wiki/Codex" title="Codex">Codices</a></li>
+<li><a href="/wiki/Scroll" title="Scroll">Scrolls</a></li>
+<li><a href="/wiki/Hieroglyph" title="Hieroglyph">Hieroglyphs</a></li>
+<li><a class="mw-selflink selflink">Manuscripts</a></li>
+<li><a href="/wiki/Facsimile" title="Facsimile">Facsimiles</a></li>
+<li><a href="/wiki/Archive" title="Archive">Archives</a></li>
+<li><a href="/wiki/Deed" title="Deed">Deeds</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Organizations, Institutes</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Historical_society" title="Historical society">Historical society</a></li>
+<li><a href="/wiki/Historiographical_Institute_of_the_University_of_Tokyo" title="Historiographical Institute of the University of Tokyo">Historiographical Institute of the University of Tokyo</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Concepts (choice)</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Battle_for_Australia" title="Battle for Australia">Battle for Australia</a></li>
+<li><a href="/wiki/Pax_Sinica" title="Pax Sinica">Pax Sinica</a></li>
+<li><a href="/wiki/Political_midlife_crisis" class="mw-redirect" title="Political midlife crisis">Political midlife crisis</a></li>
+<li><a href="/wiki/Renaissance" title="Renaissance">Renaissance</a></li>
+<li><a href="/wiki/Translatio_imperii" title="Translatio imperii">Translatio imperii</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Methodology, Schools (choice)</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Annales_School" title="Annales School">Annales School</a>
+<ul>
+<li><a href="/wiki/History_of_mentalities" title="History of mentalities">History of mentalities</a></li>
+<li><a href="/wiki/Nouvelle_histoire" title="Nouvelle histoire">Nouvelle histoire</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Microhistory" title="Microhistory">Microhistory</a></li>
+<li><a href="/wiki/Case_study#History" title="Case study">Case study</a></li>
+<li><a href="/wiki/Historical_linguistics" title="Historical linguistics">Historical linguistics</a></li>
+<li><a href="/wiki/Great_Man_theory" class="mw-redirect" title="Great Man theory">Great Man theory</a>
+<ul>
+<li><a href="/wiki/Heroic_theory_of_invention_and_scientific_development" title="Heroic theory of invention and scientific development">Heroic theory of invention and scientific development</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Historic_recurrence" title="Historic recurrence">Historic recurrence</a></li>
+<li><a href="/wiki/Historical_anthropology" title="Historical anthropology">Historical anthropology</a></li>
+<li><a href="/wiki/Historical_determinism" title="Historical determinism">Historical determinism</a></li>
+<li><a href="/wiki/Historical_realism" title="Historical realism">Historical realism</a></li>
+<li><a href="/wiki/Historicism" title="Historicism">Historicism</a></li>
+<li><a href="/wiki/Historiometry" title="Historiometry">Historiometry</a>
+<ul>
+<li><a href="/wiki/Cliometrics" title="Cliometrics">Cliometrics</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Historism" title="Historism">Historism</a></li>
+<li><a href="/wiki/Marxist_historiography" title="Marxist historiography">Marxist historiography</a>
+<ul>
+<li><a href="/wiki/Historical_materialism" title="Historical materialism">Historical materialism</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Codicology" title="Codicology">Codicology</a></li>
+<li><a href="/wiki/Palaeography" title="Palaeography">Palaeography</a></li>
+<li><a href="/wiki/Intellectual_history" title="Intellectual history">Intellectual history</a>
+<ul>
+<li><a href="/wiki/Idea_of_Progress" class="mw-redirect" title="Idea of Progress">Idea of Progress</a></li>
+<li><a href="/wiki/History_of_modernisation_theory" title="History of modernisation theory">History of modernisation theory</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Historical_criticism" title="Historical criticism">Historical criticism</a></li>
+<li><a href="/wiki/Historical_geography" title="Historical geography">Historical geography</a>
+<ul>
+<li><a href="/wiki/Historical_geographic_information_system" title="Historical geographic information system">Historical geographic information system</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">By country</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Historiography_of_Albania" title="Historiography of Albania">Historiography of Albania</a></li>
+<li><a href="/wiki/Historiography_of_Argentina" title="Historiography of Argentina">Historiography of Argentina</a></li>
+<li><a href="/wiki/Historiography_of_Canada" title="Historiography of Canada">Historiography of Canada</a></li>
+<li><a href="/wiki/Chinese_historiography" title="Chinese historiography">Chinese historiography</a></li>
+<li><a href="/wiki/Historiography_of_Germany" title="Historiography of Germany">Historiography of Germany</a></li>
+<li><a href="/wiki/Greek_historiography" title="Greek historiography">Greek historiography</a></li>
+<li><a href="/wiki/Historiography_of_early_Islam" title="Historiography of early Islam">Historiography of early Islam</a></li>
+<li><a href="/wiki/Historiography_of_Japan" title="Historiography of Japan">Historiography of Japan</a></li>
+<li><a href="/wiki/Roman_historiography" title="Roman historiography">Roman historiography</a></li>
+<li><a href="/wiki/Serbian_historiography" title="Serbian historiography">Serbian historiography</a>
+<ul>
+<li><a href="/wiki/Encyclopedia_of_Serbian_Historiography" title="Encyclopedia of Serbian Historiography">Encyclopedia of Serbian Historiography</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Historiography_in_the_Soviet_Union" title="Historiography in the Soviet Union">Historiography in the Soviet Union</a></li>
+<li><a href="/wiki/Historiography_of_the_United_Kingdom" title="Historiography of the United Kingdom">Historiography of the United Kingdom</a></li>
+<li><a href="/wiki/Historiography_of_the_United_States" title="Historiography of the United States">Historiography of the United States</a></li>
+<li><a href="/wiki/Historiography_of_Scotland" title="Historiography of Scotland">Historiography of Scotland</a></li>
+<li><a href="/wiki/Historiography_of_Switzerland" title="Historiography of Switzerland">Historiography of Switzerland</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Others</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Historiography_of_science" title="Historiography of science">Historiography of science</a></li>
+<li><a href="/wiki/Historiography_of_the_salon" title="Historiography of the salon">Historiography of the salon</a></li>
+<li><a href="/wiki/Historiography_of_the_May_Revolution" title="Historiography of the May Revolution">Historiography of the May Revolution</a></li>
+<li><a href="/wiki/Historiography_of_World_War_II" title="Historiography of World War II">Historiography of World War II</a></li>
+<li><a href="/wiki/Functionalism_versus_intentionalism" title="Functionalism versus intentionalism">Functionalism versus intentionalism</a></li>
+<li><a href="/wiki/Historiography_of_early_Islam" title="Historiography of early Islam">Historiography of early Islam</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Related</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Historical_fiction" title="Historical fiction">Historical fiction</a></li>
+<li><a href="/wiki/Historical_revisionism" title="Historical revisionism">Historical revisionism</a></li>
+<li><a href="/wiki/Historical_negationism" title="Historical negationism">Historical negationism</a></li>
+<li><a href="/wiki/Historiography_and_nationalism" title="Historiography and nationalism">Historiography and nationalism</a></li>
+<li><a href="/wiki/Historical_marker" title="Historical marker">Historical marker</a></li>
+<li><a href="/wiki/List_of_historians" title="List of historians">List of historians</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/4126273-6">4126273-6</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.ndl.go.jp/auth/ndlna/00571802">00571802</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1303
+Cached time: 20171013111622
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.236 seconds
+Real time usage: 0.333 seconds
+Preprocessor visited node count: 1344/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 33068/2097152 bytes
+Template argument size: 1306/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 2/500
+Lua time usage: 0.068/10.000 seconds
+Lua memory usage: 3.16 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  249.805      1 -total
+ 26.39%   65.913      1 Template:Reflist
+ 18.30%   45.717      1 Template:OED
+ 17.24%   43.067      1 Template:Clarification_needed
+ 16.60%   41.460      2 Template:Citation
+ 14.97%   37.386      1 Template:Fix-span
+  9.10%   22.721      1 Template:Other_uses
+  8.39%   20.952      2 Template:Category_handler
+  8.03%   20.048      1 Template:Authority_control
+  6.60%   16.493      1 Template:Historiography
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:19167-0!canonical and timestamp 20171013111622 and revision id 805147418
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Manuscript&amp;oldid=805147418">https://en.wikipedia.org/w/index.php?title=Manuscript&amp;oldid=805147418</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Manuscripts" title="Category:Manuscripts">Manuscripts</a></li><li><a href="/wiki/Category:Book_terminology" title="Category:Book terminology">Book terminology</a></li><li><a href="/wiki/Category:Textual_criticism" title="Category:Textual criticism">Textual criticism</a></li><li><a href="/wiki/Category:Textual_scholarship" title="Category:Textual scholarship">Textual scholarship</a></li><li><a href="/wiki/Category:Leather_goods" title="Category:Leather goods">Leather goods</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_August_2016" title="Category:Wikipedia articles needing clarification from August 2016">Wikipedia articles needing clarification from August 2016</a></li><li><a href="/wiki/Category:Articles_incorporating_a_citation_from_the_1913_Catholic_Encyclopedia_with_Wikisource_reference" title="Category:Articles incorporating a citation from the 1913 Catholic Encyclopedia with Wikisource reference">Articles incorporating a citation from the 1913 Catholic Encyclopedia with Wikisource reference</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_March_2011" title="Category:Use dmy dates from March 2011">Use dmy dates from March 2011</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Manuscript" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Manuscript" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Manuscript" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Manuscript" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Manuscript">Read</a></span></li>
+							<li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Manuscript&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Manuscript&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Manuscript" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Manuscript" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Manuscript&amp;oldid=805147418" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Manuscript&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q87167" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Manuscript&amp;id=805147418" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Manuscript">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Manuscript&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Manuscript&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Manuscripts" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Manuskrip" title="Manuskrip – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-als"><a href="https://als.wikipedia.org/wiki/Manuskript" title="Manuskript – Alemannisch" lang="als" hreflang="als" class="interlanguage-link-target">Alemannisch</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%85%D8%AE%D8%B7%D9%88%D8%B7" title="مخطوط – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/%C6%8Flyazma" title="Əlyazma – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D8%A7%D9%84_%DB%8C%D8%A7%D8%B2%D9%85%D8%A7" title="ال یازما – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%AA%E0%A6%BE%E0%A6%A3%E0%A7%8D%E0%A6%A1%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%AA%E0%A6%BF" title="পাণ্ডুলিপি – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BD%D1%83%D1%81%D0%BA%D1%80%D1%8B%D0%BF%D1%82" title="Манускрыпт – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/%D0%A0%D1%83%D0%BA%D0%B0%D0%BF%D1%96%D1%81" title="Рукапіс – Belarusian (Taraškievica orthography)" lang="be-x-old" hreflang="be-x-old" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A0%D1%8A%D0%BA%D0%BE%D0%BF%D0%B8%D1%81" title="Ръкопис – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Dornskrid" title="Dornskrid – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Manuscrit" title="Manuscrit – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cv"><a href="https://cv.wikipedia.org/wiki/%D0%90%D0%BB%C3%A7%D1%8B%D1%80%D1%83" title="Алçыру – Chuvash" lang="cv" hreflang="cv" class="interlanguage-link-target">Чӑвашла</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Rukopis" title="Rukopis – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Llawysgrif" title="Llawysgrif – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Manuskript" title="Manuskript – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Manuskript" title="Manuskript – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/K%C3%A4sikiri" title="Käsikiri – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%A7%CE%B5%CE%B9%CF%81%CF%8C%CE%B3%CF%81%CE%B1%CF%86%CE%BF" title="Χειρόγραφο – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Manuscrito" title="Manuscrito – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Manuskripto" title="Manuskripto – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Eskuizkribu" title="Eskuizkribu – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%86%D8%B3%D8%AE%D9%87_%D8%AE%D8%B7%DB%8C" title="نسخه خطی – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Manuscrit" title="Manuscrit – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/H%C3%A2nskrift_(dokumint)" title="Hânskrift (dokumint) – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Manuscrito" title="Manuscrito – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%82%AC%EB%B3%B8" title="사본 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%81%D5%A5%D5%BC%D5%A1%D5%A3%D5%AB%D6%80" title="Ձեռագիր – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A5%81%E0%A4%B2%E0%A4%BF%E0%A4%AA%E0%A4%BF" title="पाण्डुलिपि – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-io"><a href="https://io.wikipedia.org/wiki/Manuskripto" title="Manuskripto – Ido" lang="io" hreflang="io" class="interlanguage-link-target">Ido</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Naskah" title="Naskah – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Handrit" title="Handrit – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Manoscritto" title="Manoscritto – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%9B%D7%AA%D7%91_%D7%99%D7%93_(%D7%94%D7%A2%D7%AA%D7%A7)" title="כתב יד (העתק) – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-kn"><a href="https://kn.wikipedia.org/wiki/%E0%B2%B9%E0%B2%B8%E0%B3%8D%E0%B2%A4%E0%B2%AA%E0%B3%8D%E0%B2%B0%E0%B2%A4%E0%B2%BF" title="ಹಸ್ತಪ್ರತಿ – Kannada" lang="kn" hreflang="kn" class="interlanguage-link-target">ಕನ್ನಡ</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Manuscriptum" title="Manuscriptum – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Manuskripts" title="Manuskripts – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/K%C3%A9zirat_(dokumentum)" title="Kézirat (dokumentum) – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Naskhah" title="Naskhah – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Handschrift_(document)" title="Handschrift (document) – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E5%86%99%E6%9C%AC" title="写本 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-nap"><a href="https://nap.wikipedia.org/wiki/Manascritto" title="Manascritto – Neapolitan" lang="nap" hreflang="nap" class="interlanguage-link-target">Napulitano</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Manuskript" title="Manuskript – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Manuskript" title="Manuskript – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Qo%CA%BBlyozma" title="Qoʻlyozma – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pa"><a href="https://pa.wikipedia.org/wiki/%E0%A8%B9%E0%A9%B1%E0%A8%A5%E0%A8%B2%E0%A8%BF%E0%A8%96%E0%A8%A4" title="ਹੱਥਲਿਖਤ – Punjabi" lang="pa" hreflang="pa" class="interlanguage-link-target">ਪੰਜਾਬੀ</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/R%C4%99kopis" title="Rękopis – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Manuscrito" title="Manuscrito – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Manuscris" title="Manuscris – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D1%8C" title="Рукопись – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Dor%C3%ABshkrimi" title="Dorëshkrimi – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Manuscript" title="Manuscript – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Rukopis_(star%C3%BD_dokument)" title="Rukopis (starý dokument) – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Rokopis" title="Rokopis – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%A0%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D0%BD%D0%B0_%D0%BA%D1%9A%D0%B8%D0%B3%D0%B0" title="Рукописна књига – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Rukopis" title="Rukopis – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-su"><a href="https://su.wikipedia.org/wiki/Naskah" title="Naskah – Sundanese" lang="su" hreflang="su" class="interlanguage-link-target">Basa Sunda</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/K%C3%A4sikirjoitus" title="Käsikirjoitus – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Handskrift" title="Handskrift – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Manuskrito" title="Manuskrito – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%95%E0%AF%88%E0%AE%AF%E0%AF%86%E0%AE%B4%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%81%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%9F%E0%AE%BF" title="கையெழுத்துப்படி – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/%E0%B0%B0%E0%B0%BE%E0%B0%A4%E0%B0%AA%E0%B1%8D%E0%B0%B0%E0%B0%A4%E0%B1%81%E0%B0%B2%E0%B1%81" title="రాతప్రతులు – Telugu" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/El_yazmas%C4%B1" title="El yazması – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A0%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81" title="Рукопис – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Th%E1%BB%A7_b%E1%BA%A3n" title="Thủ bản – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-wa"><a href="https://wa.wikipedia.org/wiki/Pap%C3%AEscr%C3%AEt" title="Papîscrît – Walloon" lang="wa" hreflang="wa" class="interlanguage-link-target">Walon</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%89%8B%E6%8A%84%E6%9C%AC" title="手抄本 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q87167#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 13 October 2017, at 11:16.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Manuscript&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.236","walltime":"0.333","ppvisitednodes":{"value":1344,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":33068,"limit":2097152},"templateargumentsize":{"value":1306,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  249.805      1 -total"," 26.39%   65.913      1 Template:Reflist"," 18.30%   45.717      1 Template:OED"," 17.24%   43.067      1 Template:Clarification_needed"," 16.60%   41.460      2 Template:Citation"," 14.97%   37.386      1 Template:Fix-span","  9.10%   22.721      1 Template:Other_uses","  8.39%   20.952      2 Template:Category_handler","  8.03%   20.048      1 Template:Authority_control","  6.60%   16.493      1 Template:Historiography"]},"scribunto":{"limitreport-timeusage":{"value":"0.068","limit":"10.000"},"limitreport-memusage":{"value":3308484,"limit":52428800}},"cachereport":{"origin":"mw1303","timestamp":"20171013111622","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":100,"wgHostname":"mw1274"});});</script>
+	</body>
+</html>

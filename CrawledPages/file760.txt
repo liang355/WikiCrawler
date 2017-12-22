@@ -1,0 +1,1618 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Magenta - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Magenta","wgTitle":"Magenta","wgCurRevisionId":804642940,"wgRevisionId":804642940,"wgArticleId":46408,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Shades of magenta","Shades of pink","Shades of red","Shades of violet","Optical spectrum","Color","Rainbow","Web colors"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Magenta","wgRelevantArticleId":46408,"wgRequestId":"WdyGIQpAMEsAAJ6ivbMAAAAU","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q3276756","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.2"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/a/a7/MagentaIcon.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Magenta"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Magenta&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Magenta&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Magenta"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Magenta rootpage-Magenta vector-nav-directionality skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Magenta</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">This article is about the color. For other uses, see <a href="/wiki/Magenta_(disambiguation)" class="mw-disambig" title="Magenta (disambiguation)">Magenta (disambiguation)</a>.</div>
+<table class="infobox" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">Magenta</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;line-height:12px; background-color:#FF00FF; border: 0.1px solid #000000">&#160;</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:MagentaIcon.png" class="image"><img alt="MagentaIcon.png" src="//upload.wikimedia.org/wikipedia/commons/a/a7/MagentaIcon.png" width="220" height="220" data-file-width="220" data-file-height="220" /></a></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center"><span style="position: relative; float: right; font-size: 70%"><a href="/wiki/Wikipedia:WikiProject_Color/Normalized_Color_Coordinates" title="About these coordinates"><img alt="About these coordinates" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gtk-dialog-info.svg/15px-Gtk-dialog-info.svg.png" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gtk-dialog-info.svg/23px-Gtk-dialog-info.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gtk-dialog-info.svg/30px-Gtk-dialog-info.svg.png 2x" data-file-width="60" data-file-height="60" /></a></span> &#160; &#160; Color coordinates</th>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Web_colors#Hex_triplet" title="Web colors">Hex triplet</a></th>
+<td>#FF00FF</td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/SRGB_color_space" class="mw-redirect" title="SRGB color space">sRGB</a><sup><b>B</b></sup>&#160;&#160;(<a href="/wiki/Red" title="Red">r</a>,&#160;<a href="/wiki/Green" title="Green">g</a>,&#160;<a href="/wiki/Blue" title="Blue">b</a>)</th>
+<td>(255, 0, 255)</td>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap"><a href="/wiki/CMYK_color_model" title="CMYK color model">CMYK</a><sup><b>H</b></sup> &#160; (<a href="/wiki/Cyan" title="Cyan">c</a>, <a class="mw-selflink selflink">m</a>, <a href="/wiki/Yellow" title="Yellow">y</a>, <a href="/wiki/Black" title="Black">k</a>)</span></th>
+<td><span class="nowrap">(0, 100, 0, 0)</span></td>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap"><a href="/wiki/HSV_color_space" class="mw-redirect" title="HSV color space">HSV</a> &#160; &#160; &#160; (<a href="/wiki/Hue" title="Hue">h</a>, <a href="/wiki/Saturation_(color_theory)" class="mw-redirect" title="Saturation (color theory)">s</a>, <a href="/wiki/Brightness" title="Brightness">v</a>)</span></th>
+<td><span class="nowrap">(300°, 100%, 100%)</span></td>
+</tr>
+<tr>
+<th scope="row">Source</th>
+<td><a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-color/#svg-color">CSS Color Module Level 3</a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><b>B</b>: Normalized to [0–255] (byte)<br />
+<b>H</b>: Normalized to [0–100] (hundred)</td>
+</tr>
+</table>
+<p><b>Magenta</b> (<span class="nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="'m' in 'my'">m</span><span title="/ə/: 'a' in 'about'">ə</span><span title="/ˈ/: primary stress follows">ˈ</span><span title="'d' in 'dye'">d</span><span title="/ʒ/: 's' in 'pleasure'">ʒ</span><span title="/ɛ/: 'e' in 'dress'">ɛ</span><span title="'n' in 'nigh'">n</span><span title="'t' in 'tie'">t</span><span title="/ə/: 'a' in 'about'">ə</span></span>/</a></span></span>) is a <a href="/wiki/Color" title="Color">color</a> that is variously defined as purplish-<a href="/wiki/Red" title="Red">red</a>,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> reddish-<a href="/wiki/Purple" title="Purple">purple</a>, purplish-<a href="/wiki/Pink" title="Pink">pink</a>, or <a href="/wiki/Mauve" title="Mauve">mauvish</a>-<a href="/wiki/Crimson" title="Crimson">crimson</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> On computer screens, it is made by mixing equal amounts of blue and red.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> On <a href="/wiki/Color_wheel" title="Color wheel">color wheels</a> of the <a href="/wiki/RGB_color_model" title="RGB color model">RGB (additive)</a> and <a href="/wiki/Subtractive_color" title="Subtractive color">CMY (subtractive)</a> color models, it is located midway between <a href="/wiki/Red" title="Red">red</a> and <a href="/wiki/Blue" title="Blue">blue</a>. It is the <a href="/wiki/Complementary_color" class="mw-redirect" title="Complementary color">complementary color</a> of <a href="/wiki/Green" title="Green">green</a>. It is one of the four colors of ink used in color printing and by an <a href="/wiki/Inkjet_printer" class="mw-redirect" title="Inkjet printer">inkjet printer</a>, along with <a href="/wiki/Cyan" title="Cyan">cyan</a>, <a href="/wiki/Yellow" title="Yellow">yellow</a>, and black, to make all the other colors. The tone of magenta used in <a href="/wiki/Printing" title="Printing">printing</a> is called "printer's magenta" (Magenta (CMYK)).</p>
+<p>Magenta was first made and patented in 1859 by the French chemist François-Emmanuel Verguin, who first called it <i>fuschine</i>. It was renamed to celebrate the French victory at the the <a href="/wiki/Battle_of_Magenta" title="Battle of Magenta">Battle of Magenta</a> fought between the French and Austrians on June 4, 1859, near the Italian town of <a href="/wiki/Magenta,_Lombardy" title="Magenta, Lombardy">Magenta</a> in <a href="/wiki/Lombardy" title="Lombardy">Lombardy</a>.<sup id="cite_ref-Ball214_4-0" class="reference"><a href="#cite_note-Ball214-4">[4]</a></sup> A virtually identical color, called roseine, was created in 1860 by two British chemists, Chambers Nicolson and George Maule.</p>
+<p>The <a href="/wiki/Web_colors" title="Web colors">web color</a> magenta is also called <a href="/wiki/Fuchsia_(color)" title="Fuchsia (color)">fuchsia</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#In_optics_and_color_science"><span class="tocnumber">1</span> <span class="toctext">In optics and color science</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Fuchsia_and_magenta"><span class="tocnumber">2</span> <span class="toctext">Fuchsia and magenta</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Gallery"><span class="tocnumber">3</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#History"><span class="tocnumber">4</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Fuchsine_and_magenta_dye_.281859.29"><span class="tocnumber">4.1</span> <span class="toctext">Fuchsine and magenta dye (1859)</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Process_magenta_.28pigment_magenta.3B_printer.27s_magenta.29_.281890s.29"><span class="tocnumber">4.2</span> <span class="toctext">Process magenta (pigment magenta; printer's magenta) (1890s)</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Web_colors_magenta_and_fuchsia"><span class="tocnumber">4.3</span> <span class="toctext">Web colors magenta and fuchsia</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#In_science_and_culture"><span class="tocnumber">5</span> <span class="toctext">In science and culture</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#In_art"><span class="tocnumber">5.1</span> <span class="toctext">In art</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#In_astronomy"><span class="tocnumber">5.2</span> <span class="toctext">In astronomy</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#In_biology:_magenta_insects.2C_birds.2C_fish.2C_and_animals"><span class="tocnumber">5.3</span> <span class="toctext">In biology: magenta insects, birds, fish, and animals</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#In_botany"><span class="tocnumber">5.4</span> <span class="toctext">In botany</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#In_vexilology_and_heraldry"><span class="tocnumber">6</span> <span class="toctext">In vexilology and heraldry</span></a>
+<ul>
+<li class="toclevel-2 tocsection-14"><a href="#In_politics"><span class="tocnumber">6.1</span> <span class="toctext">In politics</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#Notes_and_citations"><span class="tocnumber">8</span> <span class="toctext">Notes and citations</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="In_optics_and_color_science">In optics and color science</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Magenta&amp;action=edit&amp;section=1" title="Edit section: In optics and color science">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Magenta is an <a href="/wiki/Spectral_color#Non-spectral_colors" title="Spectral color">extra-spectral color</a>, meaning that it is not found in the <a href="/wiki/Visible_spectrum" title="Visible spectrum">visible spectrum</a> of light. Rather, it is physiologically and psychologically perceived as the mixture of red and violet/blue light, with the absence of green.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></p>
+<p>In the RGB color system, used to create all the colors on a television or computer display, magenta is a secondary color, made by combining equal amounts of red and blue light at a high intensity. In this system, magenta is the <a href="/wiki/Complementary_color" class="mw-redirect" title="Complementary color">complementary color</a> of green, and combining green and magenta light on a black screen will create white.</p>
+<p>In the <a href="/wiki/CMYK_color_model" title="CMYK color model">CMYK color model</a>, used in color printing, it is one of the three primary colors, along with cyan and yellow, used to print all the rest of the colors. If magenta, cyan, and yellow are printed on top of each other on a page, they make black. In this model, magenta is the complementary color of green, and these two colors have the highest contrast and the greatest harmony. If combined, green and magenta ink will look dark gray or black. The magenta used in color printing, sometimes called process magenta, is a darker shade than the color used on computer screens.</p>
+<p>A <a href="/wiki/Line_of_purples" title="Line of purples">purple</a> hue in terms of <a href="/wiki/Color_theory" title="Color theory">color theory</a>, magenta is evoked by light having less power in green <a href="/wiki/Wavelength" title="Wavelength">wavelengths</a> than in blue/violet and red wavelengths (<a href="/wiki/Complementary_color" class="mw-redirect" title="Complementary color">complements</a> of magenta have wavelength 500–530 <a href="/wiki/Nanometer" class="mw-redirect" title="Nanometer">nm</a>).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></p>
+<p>In the <a href="/wiki/Munsell_color_system" title="Munsell color system">Munsell color system</a>, magenta is called <i>red–purple</i>.</p>
+<p>If the spectrum is wrapped to form a color wheel, magenta (additive secondary) appears midway between <a href="/wiki/Red" title="Red">red</a> and violet. Violet and red, the two components of magenta, are at opposite ends of the visible spectrum and have very different wavelengths. The additive secondary color magenta, as noted above, is made by combining violet and red light at equal intensity; it is not on the actual spectrum.</p>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:RGB_illumination.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/RGB_illumination.jpg/120px-RGB_illumination.jpg" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/RGB_illumination.jpg/180px-RGB_illumination.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/28/RGB_illumination.jpg/240px-RGB_illumination.jpg 2x" data-file-width="400" data-file-height="300" /></a></div>
+</div>
+<div class="gallerytext">
+<p>In the <a href="/wiki/RGB_color_model" title="RGB color model">RGB color model</a>, used to make colors on computer and television displays, magenta is created by the combination of equal amounts of blue and red light.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:25px auto;"><a href="/wiki/File:RBG_color_wheel.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RBG_color_wheel.svg/120px-RBG_color_wheel.svg.png" width="120" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RBG_color_wheel.svg/180px-RBG_color_wheel.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RBG_color_wheel.svg/240px-RBG_color_wheel.svg.png 2x" data-file-width="600" data-file-height="500" /></a></div>
+</div>
+<div class="gallerytext">
+<p>In the RGB color wheel of <a href="/wiki/Additive_colors" class="mw-redirect" title="Additive colors">additive colors</a>, magenta is midway between blue and red.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:SubtractiveColor.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/SubtractiveColor.svg/120px-SubtractiveColor.svg.png" width="120" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/SubtractiveColor.svg/180px-SubtractiveColor.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/19/SubtractiveColor.svg/240px-SubtractiveColor.svg.png 2x" data-file-width="400" data-file-height="400" /></a></div>
+</div>
+<div class="gallerytext">
+<p>In the <a href="/wiki/CMYK_color_model" title="CMYK color model">CMYK color model</a>, used in color printing, <a href="/wiki/Cyan" title="Cyan">cyan</a>, magenta, and <a href="/wiki/Yellow" title="Yellow">yellow</a> combined make black. In practice, since the inks are not perfect, some black ink is added.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:63.5px auto;"><a href="/wiki/File:Linear_visible_spectrum.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Linear_visible_spectrum.svg/120px-Linear_visible_spectrum.svg.png" width="120" height="23" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Linear_visible_spectrum.svg/180px-Linear_visible_spectrum.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Linear_visible_spectrum.svg/240px-Linear_visible_spectrum.svg.png 2x" data-file-width="605" data-file-height="115" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Magenta is not part of the visible spectrum of light.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Blended_colour_wheel.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Blended_colour_wheel.svg/120px-Blended_colour_wheel.svg.png" width="120" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Blended_colour_wheel.svg/180px-Blended_colour_wheel.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Blended_colour_wheel.svg/240px-Blended_colour_wheel.svg.png 2x" data-file-width="160" data-file-height="160" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Visible spectrum wrapped to join violet and red in an additive mixture of magenta. In reality, violet and red are at opposite ends of the spectrum, and have very different wavelengths.</p>
+</div>
+</div>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Fuchsia_and_magenta">Fuchsia and magenta</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Magenta&amp;action=edit&amp;section=2" title="Edit section: Fuchsia and magenta">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In optics, <a href="/wiki/Fuchsia_(color)" title="Fuchsia (color)">fuchsia</a> and magenta are essentially the same color. The <a href="/wiki/Web_colors" title="Web colors">web colors</a> fuchsia and magenta are completely identical, and are made by mixing exactly the same proportions of blue and red light. In design and printing, there is a little more variation. The French version of fuchsia in the <a href="/wiki/RGB_color_model" title="RGB color model">RGB color model</a> and in printing contains a higher proportion of red than the American version of fuchsia. <a href="/wiki/Fuchsia" title="Fuchsia">Fuchsia</a> flowers themselves, which inspired both colors, have a variety of colors, from fuchsia to purple to red and pink.</p>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Magenta&amp;action=edit&amp;section=3" title="Edit section: Gallery">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:20.5px auto;"><a href="/wiki/File:DoubleFuchsias_wb.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/DoubleFuchsias_wb.jpg/120px-DoubleFuchsias_wb.jpg" width="120" height="109" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/DoubleFuchsias_wb.jpg/180px-DoubleFuchsias_wb.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/08/DoubleFuchsias_wb.jpg/240px-DoubleFuchsias_wb.jpg 2x" data-file-width="500" data-file-height="456" /></a></div>
+</div>
+<div class="gallerytext">
+<p>The flower of <a href="/wiki/Fuchsia" title="Fuchsia">Fuchsia</a> plant was the original inspiration for the dye, which was later renamed magenta dye.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:33.5px auto;"><a href="/wiki/File:Basic_Fuchsine_Crystals.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Basic_Fuchsine_Crystals.JPG/120px-Basic_Fuchsine_Crystals.JPG" width="120" height="83" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Basic_Fuchsine_Crystals.JPG/180px-Basic_Fuchsine_Crystals.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Basic_Fuchsine_Crystals.JPG/240px-Basic_Fuchsine_Crystals.JPG 2x" data-file-width="1136" data-file-height="783" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Magenta took its name in 1860 from this <a href="/wiki/Aniline_dye" class="mw-redirect" title="Aniline dye">aniline dye</a> that was originally called "<a href="/wiki/Fuchsine" title="Fuchsine">fuchsine</a>", after the fuchsia flower.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:NIEdot367.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/NIEdot367.jpg/74px-NIEdot367.jpg" width="74" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/NIEdot367.jpg/111px-NIEdot367.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b6/NIEdot367.jpg/148px-NIEdot367.jpg 2x" data-file-width="832" data-file-height="1344" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Magenta has been used in color printing since the late nineteenth century. Images are printed in three colors; magenta, cyan, and yellow, which when combined can make all colors. This image from 1902 is using the alternative <a href="/wiki/RYB_color_model" title="RYB color model">RYB color model</a> instead.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:31.5px auto;"><a href="/wiki/File:Refill_Ink_Kit_Color_crop.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Refill_Ink_Kit_Color_crop.jpg/120px-Refill_Ink_Kit_Color_crop.jpg" width="120" height="87" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Refill_Ink_Kit_Color_crop.jpg/180px-Refill_Ink_Kit_Color_crop.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Refill_Ink_Kit_Color_crop.jpg/240px-Refill_Ink_Kit_Color_crop.jpg 2x" data-file-width="666" data-file-height="484" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Color printers today use magenta, cyan, and yellow ink to produce the full range of colors.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Komplement%C3%A4rfarben_magenta_auf_gr%C3%BCn.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Komplement%C3%A4rfarben_magenta_auf_gr%C3%BCn.png/120px-Komplement%C3%A4rfarben_magenta_auf_gr%C3%BCn.png" width="120" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Komplement%C3%A4rfarben_magenta_auf_gr%C3%BCn.png/180px-Komplement%C3%A4rfarben_magenta_auf_gr%C3%BCn.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/11/Komplement%C3%A4rfarben_magenta_auf_gr%C3%BCn.png/240px-Komplement%C3%A4rfarben_magenta_auf_gr%C3%BCn.png 2x" data-file-width="800" data-file-height="800" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Magenta is the <a href="/wiki/Complementary_color" class="mw-redirect" title="Complementary color">complementary color</a> of <a href="/wiki/Green" title="Green">green</a>. The two colors combined in the RGB model form white. Side-by-side, they provide the highest possible contrast and reinforce each other's brightness.</p>
+</div>
+</div>
+</li>
+</ul>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Magenta&amp;action=edit&amp;section=4" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="Fuchsine_and_magenta_dye_(1859)"></span><span class="mw-headline" id="Fuchsine_and_magenta_dye_.281859.29">Fuchsine and magenta dye (1859)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Magenta&amp;action=edit&amp;section=5" title="Edit section: Fuchsine and magenta dye (1859)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The color magenta was the result of the industrial chemistry revolution of the mid-nineteenth century, which began with the invention by <a href="/wiki/William_Perkin" class="mw-redirect" title="William Perkin">William Perkin</a> of <a href="/wiki/Mauveine" title="Mauveine">mauveine</a> in 1856, which was the first synthetic <a href="/wiki/Aniline_dye" class="mw-redirect" title="Aniline dye">aniline dye</a>. The enormous commercial success of the dye and the new color it produced, <a href="/wiki/Mauve" title="Mauve">mauve</a>, inspired other chemists in Europe to develop new colors made from aniline dyes.<sup id="cite_ref-Ball214_4-1" class="reference"><a href="#cite_note-Ball214-4">[4]</a></sup></p>
+<p>In France, François-Emmanuel Verguin, the director of the chemical factory of Louis Rafard near <a href="/wiki/Lyon" title="Lyon">Lyon</a>, tried many different formulae before finally in late 1858 or early 1859, mixing aniline with <a href="/wiki/Carbon_tetrachloride" title="Carbon tetrachloride">carbon tetrachloride</a>, producing a reddish-purple dye which he called "<a href="/wiki/Fuchsine" title="Fuchsine">fuchsine</a>", after the color of the flower of the fuchsia plant. He quit the Rafard factory and took his color to a firm of paint manufacturers, Francisque and Joseph Renard, who began to manufacture the dye in 1859.</p>
+<p>In the same year, two British chemists, Chambers Nicolson and George Maule, working at the laboratory of the paint manufacturer George Simpson, located in Walworth, south of London, made another aniline dye with a similar red-purple color, which they began to manufacture in 1860 under the name "roseine". In 1860 they changed the name of the color to "magenta", in honor of the <a href="/wiki/Battle_of_Magenta" title="Battle of Magenta">Battle of Magenta</a> fought between the French and Austrians at <a href="/wiki/Magenta,_Lombardy" title="Magenta, Lombardy">Magenta, Lombardy</a> the year before, and the new color became a commercial success.<sup id="cite_ref-Ball214_4-2" class="reference"><a href="#cite_note-Ball214-4">[4]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p>
+<div style="clear:both;"></div>
+<p>Starting in 1935 the family of <a href="/wiki/Quinacridone" title="Quinacridone">quinacridone</a> dyes was developed. These have colors ranging from red to violet, so nowadays a quinacridone dye is often used for magenta. Various tones of magenta—light, bright, brilliant, vivid, rich, or deep—may be formulated by adding varying amounts of white to quinacridone artist's paints.</p>
+<div style="clear:both;"></div>
+<p>Another dye used for magenta is <a href="/wiki/Lithol_Rubine_BK" title="Lithol Rubine BK">Lithol Rubine BK</a>. One of its uses is as a food coloring.</p>
+<h3><span id="Process_magenta_(pigment_magenta;_printer's_magenta)_(1890s)"></span><span class="mw-headline" id="Process_magenta_.28pigment_magenta.3B_printer.27s_magenta.29_.281890s.29">Process magenta (pigment magenta; printer's magenta) (1890s)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Magenta&amp;action=edit&amp;section=6" title="Edit section: Process magenta (pigment magenta; printer's magenta) (1890s)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="infobox" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">Process magenta (subtractive primary, sRGB approximation)</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;line-height:12px; background-color:#FF0090; border: 0.1px solid #000000">&#160;</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center"><span style="position: relative; float: right; font-size: 70%"><a href="/wiki/Wikipedia:WikiProject_Color/Normalized_Color_Coordinates" title="About these coordinates"><img alt="About these coordinates" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gtk-dialog-info.svg/15px-Gtk-dialog-info.svg.png" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gtk-dialog-info.svg/23px-Gtk-dialog-info.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gtk-dialog-info.svg/30px-Gtk-dialog-info.svg.png 2x" data-file-width="60" data-file-height="60" /></a></span> &#160; &#160; Color coordinates</th>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Web_colors#Hex_triplet" title="Web colors">Hex triplet</a></th>
+<td>#FF0090</td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/SRGB_color_space" class="mw-redirect" title="SRGB color space">sRGB</a><sup><b>B</b></sup>&#160;&#160;(<a href="/wiki/Red" title="Red">r</a>,&#160;<a href="/wiki/Green" title="Green">g</a>,&#160;<a href="/wiki/Blue" title="Blue">b</a>)</th>
+<td>(255, 0, 144)</td>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap"><a href="/wiki/CMYK_color_model" title="CMYK color model">CMYK</a><sup><b>H</b></sup> &#160; (<a href="/wiki/Cyan" title="Cyan">c</a>, <a class="mw-selflink selflink">m</a>, <a href="/wiki/Yellow" title="Yellow">y</a>, <a href="/wiki/Black" title="Black">k</a>)</span></th>
+<td><span class="nowrap">(0, 100, 0, 0)</span></td>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap"><a href="/wiki/HSV_color_space" class="mw-redirect" title="HSV color space">HSV</a> &#160; &#160; &#160; (<a href="/wiki/Hue" title="Hue">h</a>, <a href="/wiki/Saturation_(color_theory)" class="mw-redirect" title="Saturation (color theory)">s</a>, <a href="/wiki/Brightness" title="Brightness">v</a>)</span></th>
+<td><span class="nowrap">(320°, 100%, 100%)</span></td>
+</tr>
+<tr>
+<th scope="row">Source</th>
+<td><a rel="nofollow" class="external autonumber" href="http://www.ebay.com/itm/Tintbook-CMYK-Color-Selector-COATED-VERSION-TINT-Graphic-Design-/150745163442">[1]</a> <a href="/wiki/CMYK" class="mw-redirect" title="CMYK">CMYK</a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><b>B</b>: Normalized to [0–255] (byte)<br />
+<b>H</b>: Normalized to [0–100] (hundred)</td>
+</tr>
+</table>
+<p>In <a href="/wiki/Color_printing" title="Color printing">color printing</a>, the color called <b>process magenta</b>, <b>pigment magenta</b>, or <b>printer's magenta</b> is one of the three primary pigment colors which, along with <a href="/wiki/Yellow" title="Yellow">yellow</a> and <a href="/wiki/Cyan" title="Cyan">cyan</a>, constitute the three <a href="/wiki/Primary_colors#Subtractive_primaries" class="mw-redirect" title="Primary colors">subtractive primary colors</a> of pigment. (The secondary colors of pigment are blue, green, and red.) As such, the hue magenta is the <a href="/wiki/Complementary_color" class="mw-redirect" title="Complementary color">complement</a> of <a href="/wiki/Green" title="Green">green</a>: magenta <a href="/wiki/Pigment" title="Pigment">pigments</a> absorb green light; thus magenta and green are opposite colors.</p>
+<p>The <a href="/wiki/CMYK" class="mw-redirect" title="CMYK">CMYK</a> printing process was invented in the 1890s, when newspapers began to publish color <a href="/wiki/Comic_strip" title="Comic strip">comic strips</a>.</p>
+<p>Process magenta is not an <a href="/wiki/RGB" class="mw-redirect" title="RGB">RGB</a> color, and there is no fixed conversion from CMYK primaries to RGB. Different formulations are used for printer's ink, so there may be variations in the printed color that is pure magenta ink. A typical formulation of <i>process magenta</i> is shown in the color box at right.</p>
+<h3><span class="mw-headline" id="Web_colors_magenta_and_fuchsia">Web colors magenta and fuchsia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Magenta&amp;action=edit&amp;section=7" title="Edit section: Web colors magenta and fuchsia">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="infobox" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">Magenta (Fuchsia)</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;line-height:12px; background-color:#FF00FF; border: 0.1px solid #000000">&#160;</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center"><span style="position: relative; float: right; font-size: 70%"><a href="/wiki/Wikipedia:WikiProject_Color/Normalized_Color_Coordinates" title="About these coordinates"><img alt="About these coordinates" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gtk-dialog-info.svg/15px-Gtk-dialog-info.svg.png" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gtk-dialog-info.svg/23px-Gtk-dialog-info.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gtk-dialog-info.svg/30px-Gtk-dialog-info.svg.png 2x" data-file-width="60" data-file-height="60" /></a></span> &#160; &#160; Color coordinates</th>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Web_colors#Hex_triplet" title="Web colors">Hex triplet</a></th>
+<td>#FF00FF</td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/SRGB_color_space" class="mw-redirect" title="SRGB color space">sRGB</a><sup><b>B</b></sup>&#160;&#160;(<a href="/wiki/Red" title="Red">r</a>,&#160;<a href="/wiki/Green" title="Green">g</a>,&#160;<a href="/wiki/Blue" title="Blue">b</a>)</th>
+<td>(255, 0, 255)</td>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap"><a href="/wiki/CMYK_color_model" title="CMYK color model">CMYK</a><sup><b>H</b></sup> &#160; (<a href="/wiki/Cyan" title="Cyan">c</a>, <a class="mw-selflink selflink">m</a>, <a href="/wiki/Yellow" title="Yellow">y</a>, <a href="/wiki/Black" title="Black">k</a>)</span></th>
+<td><span class="nowrap">(0, 100, 0, 0)</span></td>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap"><a href="/wiki/HSV_color_space" class="mw-redirect" title="HSV color space">HSV</a> &#160; &#160; &#160; (<a href="/wiki/Hue" title="Hue">h</a>, <a href="/wiki/Saturation_(color_theory)" class="mw-redirect" title="Saturation (color theory)">s</a>, <a href="/wiki/Brightness" title="Brightness">v</a>)</span></th>
+<td><span class="nowrap">(300°, 100%, 100%)</span></td>
+</tr>
+<tr>
+<th scope="row">Source</th>
+<td><a href="/wiki/X11_color_names" title="X11 color names">X11</a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><b>B</b>: Normalized to [0–255] (byte)<br />
+<b>H</b>: Normalized to [0–100] (hundred)</td>
+</tr>
+</table>
+<p>At right is the <a href="/wiki/Web_color" class="mw-redirect" title="Web color">web color</a> <b>magenta</b>. It is one of the three secondary colors in the <a href="/wiki/RGB_color_model" title="RGB color model">RGB color model</a>. On the <a href="/wiki/File:RBG_color_wheel.svg" title="File:RBG color wheel.svg">RGB color wheel</a>, magenta is the color between <a href="/wiki/Rose_(color)" title="Rose (color)">rose</a> and <a href="/wiki/Violet_(color)" title="Violet (color)">violet</a>, and halfway between <a href="/wiki/Red" title="Red">red</a> and <a href="/wiki/Blue" title="Blue">blue</a>.</p>
+<div class="color_swatch" style="background: white; border: solid 1px black; float: right; margin: 0 .5em 1em 1.5em; font-size: 90%; text-align: center; width: 12em;">
+<div style="background: #ff00ff; border-bottom: solid 1px black; color: #000000; height: 9em" title="#ff00ff"></div>
+<p>Magenta (fuchsia)<br />
+#ff00ff</p>
+</div>
+<p>This color is called <i>magenta</i> in <a href="/wiki/X11_color_names" title="X11 color names">X11</a> and <i>fuchsia</i> in <a href="/wiki/HTML" title="HTML">HTML</a>. In the RGB color model, it is created by combining equal intensities of red and blue light. The two web colors magenta and <b>fuchsia</b> are exactly the same color. Sometimes the web color magenta is called <i>electric magenta</i> or <i>electronic magenta</i>.</p>
+<p>While the magenta used in printing and the web color have the same name, they have important differences. Process magenta (the color used for magenta printing ink—also called printer's or pigment magenta) is much less vivid than the color magenta achievable on a computer screen. CMYK printing technology cannot accurately reproduce on paper the color on the computer screen. When the web color magenta is reproduced on paper, it is called fuchsia and it is physically impossible for it to appear on paper as vivid as on a computer screen.</p>
+<p>Colored pencils and <a href="/wiki/Crayon" title="Crayon">crayons</a> called "magenta" are usually colored the color of <i>process magenta</i> (<i>printer's magenta</i>) shown above.</p>
+<h2><span class="mw-headline" id="In_science_and_culture">In science and culture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Magenta&amp;action=edit&amp;section=8" title="Edit section: In science and culture">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="In_art">In art</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Magenta&amp;action=edit&amp;section=9" title="Edit section: In art">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>Shades of magenta began to appear in art soon after it was introduced. <a href="/wiki/Paul_Gauguin" title="Paul Gauguin">Paul Gauguin</a> (1848-1903) used a shade of magenta in 1890 in his portrait of Marie Lagadu, and in some of his South Seas paintings.</li>
+<li><a href="/wiki/Henri_Matisse" title="Henri Matisse">Henri Matisse</a> and the members of the <a href="/wiki/Fauvist" class="mw-redirect" title="Fauvist">Fauvist</a> movement used magenta and other non-traditional colors to surprise viewers, and to move their emotions through the use of bold colors.</li>
+<li>Since the mid-1960s, water based fluorescent magenta paint has been available to paint <a href="/wiki/Psychedelic_art" title="Psychedelic art">psychedelic</a> <a href="/wiki/Black_light" class="mw-redirect" title="Black light">black light</a> <a href="/wiki/Painting" title="Painting">paintings</a>. (Fluorescent <a href="/wiki/Cerise_(color)" title="Cerise (color)">cerise</a>, fluorescent <a href="/wiki/Chartreuse_yellow" class="mw-redirect" title="Chartreuse yellow">chartreuse yellow</a>, fluorescent blue, and fluorescent green.)</li>
+</ul>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Bouguereau-Psyche.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/23/Bouguereau-Psyche.jpg/72px-Bouguereau-Psyche.jpg" width="72" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/23/Bouguereau-Psyche.jpg/107px-Bouguereau-Psyche.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/23/Bouguereau-Psyche.jpg/143px-Bouguereau-Psyche.jpg 2x" data-file-width="598" data-file-height="1000" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Magenta, along with mauve, made with the newly discovered <a href="/wiki/Aniline_dyes" class="mw-redirect" title="Aniline dyes">aniline dyes</a>, became a popular fashion color in the second half of the nineteenth century. It appeared in art in this 1890 work, <i>Psyche</i>, by <a href="/wiki/Bouguereau" class="mw-redirect" title="Bouguereau">Bouguereau</a>.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Paul_Gauguin_099.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Paul_Gauguin_099.jpg/100px-Paul_Gauguin_099.jpg" width="100" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Paul_Gauguin_099.jpg/149px-Paul_Gauguin_099.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Paul_Gauguin_099.jpg/199px-Paul_Gauguin_099.jpg 2x" data-file-width="2024" data-file-height="2438" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Paul_Gauguin" title="Paul Gauguin">Paul Gauguin</a>, <i>Portrait of Marie Lagadu</i> (1890).</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:26px auto;"><a href="/wiki/File:Matissetoits.gif" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/98/Matissetoits.gif/120px-Matissetoits.gif" width="120" height="98" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/98/Matissetoits.gif/180px-Matissetoits.gif 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/98/Matissetoits.gif/240px-Matissetoits.gif 2x" data-file-width="800" data-file-height="650" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Henri_Matisse" title="Henri Matisse">Henri Matisse</a>, <i>Les toits de Collioure</i> (1905). Henri Matisse and the other painters of the <a href="/wiki/Fauvist" class="mw-redirect" title="Fauvist">Fauvist</a> movement were the first to make a major use of magenta to surprise and make an impact on the emotions of the viewer.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:1967_Mantra-Rock_Dance_Avalon_poster.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/1967_Mantra-Rock_Dance_Avalon_poster.jpg/72px-1967_Mantra-Rock_Dance_Avalon_poster.jpg" width="72" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/1967_Mantra-Rock_Dance_Avalon_poster.jpg/108px-1967_Mantra-Rock_Dance_Avalon_poster.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/47/1967_Mantra-Rock_Dance_Avalon_poster.jpg/145px-1967_Mantra-Rock_Dance_Avalon_poster.jpg 2x" data-file-width="1772" data-file-height="2935" /></a></div>
+</div>
+<div class="gallerytext">
+<p>In the 1960s, magenta was a popular color in <a href="/wiki/Psychedelic_art" title="Psychedelic art">psychedelic art</a>, such as this concert poster for the <a href="/wiki/Avalon_Ballroom" class="mw-redirect" title="Avalon Ballroom">Avalon Ballroom</a> in <a href="/wiki/San_Francisco" title="San Francisco">San Francisco</a> (1967).</p>
+</div>
+</div>
+</li>
+</ul>
+<h3><span class="mw-headline" id="In_astronomy">In astronomy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Magenta&amp;action=edit&amp;section=10" title="Edit section: In astronomy">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>Astronomers have reported that <a href="/wiki/Spectral_class" class="mw-redirect" title="Spectral class">spectral class</a> T brown dwarfs (the ones with the coolest temperatures except for the recently discovered Y brown dwarfs) are colored magenta because of absorption by <a href="/wiki/Sodium" title="Sodium">sodium</a> and <a href="/wiki/Potassium" title="Potassium">potassium</a> <a href="/wiki/Atom" title="Atom">atoms</a> of light in the green portion of the spectrum.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></li>
+</ul>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:T-dwarf-nasa-hurt.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/T-dwarf-nasa-hurt.png/120px-T-dwarf-nasa-hurt.png" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/T-dwarf-nasa-hurt.png/180px-T-dwarf-nasa-hurt.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/94/T-dwarf-nasa-hurt.png/240px-T-dwarf-nasa-hurt.png 2x" data-file-width="800" data-file-height="600" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Artist's vision of a spectral class T brown dwarf</p>
+</div>
+</div>
+</li>
+</ul>
+<h3><span id="In_biology:_magenta_insects,_birds,_fish,_and_animals"></span><span class="mw-headline" id="In_biology:_magenta_insects.2C_birds.2C_fish.2C_and_animals">In biology: magenta insects, birds, fish, and animals</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Magenta&amp;action=edit&amp;section=11" title="Edit section: In biology: magenta insects, birds, fish, and animals">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Reef0484.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Reef0484.jpg/85px-Reef0484.jpg" width="85" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Reef0484.jpg/127px-Reef0484.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Reef0484.jpg/169px-Reef0484.jpg 2x" data-file-width="600" data-file-height="849" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Coral" title="Coral">Coral</a> from the <a href="/wiki/Persian_Gulf" title="Persian Gulf">Persian Gulf</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Andean_Flamingo_Adult,_Phoenicopterus_andinus.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Andean_Flamingo_Adult%2C_Phoenicopterus_andinus.jpg/120px-Andean_Flamingo_Adult%2C_Phoenicopterus_andinus.jpg" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Andean_Flamingo_Adult%2C_Phoenicopterus_andinus.jpg/180px-Andean_Flamingo_Adult%2C_Phoenicopterus_andinus.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Andean_Flamingo_Adult%2C_Phoenicopterus_andinus.jpg/240px-Andean_Flamingo_Adult%2C_Phoenicopterus_andinus.jpg 2x" data-file-width="785" data-file-height="590" /></a></div>
+</div>
+<div class="gallerytext">
+<p>An Andean <a href="/wiki/Flamingo" title="Flamingo">flamingo</a>, (<a href="/wiki/Phoenicopterus_andinus" class="mw-redirect" title="Phoenicopterus andinus">Phoenicopterus andinus</a>)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:31.5px auto;"><a href="/wiki/File:Anisoptera_Ana_Cotta_2830198213.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Anisoptera_Ana_Cotta_2830198213.jpg/120px-Anisoptera_Ana_Cotta_2830198213.jpg" width="120" height="87" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Anisoptera_Ana_Cotta_2830198213.jpg/180px-Anisoptera_Ana_Cotta_2830198213.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/67/Anisoptera_Ana_Cotta_2830198213.jpg/240px-Anisoptera_Ana_Cotta_2830198213.jpg 2x" data-file-width="1117" data-file-height="808" /></a></div>
+</div>
+<div class="gallerytext">
+<p>A <a href="/wiki/Dragonfly" title="Dragonfly">dragonfly</a>, or <a href="/wiki/Anisoptera" class="mw-redirect" title="Anisoptera">Anisoptera</a> Ana Cotta</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:33px auto;"><a href="/wiki/File:Pseudanthias_tuka.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Pseudanthias_tuka.jpg/120px-Pseudanthias_tuka.jpg" width="120" height="84" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Pseudanthias_tuka.jpg/180px-Pseudanthias_tuka.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Pseudanthias_tuka.jpg/240px-Pseudanthias_tuka.jpg 2x" data-file-width="1542" data-file-height="1077" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Pseudanthias" title="Pseudanthias">Pseudanthias</a> tuka, a reef fish from the <a href="/wiki/Indian_Ocean" title="Indian Ocean">Indian Ocean</a>.</p>
+</div>
+</div>
+</li>
+</ul>
+<h3><span class="mw-headline" id="In_botany">In botany</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Magenta&amp;action=edit&amp;section=12" title="Edit section: In botany">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Magenta is a common color for flowers, particularly in the tropics and sub-tropics. Because magenta is the complementary color of green, magenta flowers have the highest contrast with the green foliage, and therefore are more visible to the animals needed for their pollination.</p>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:35.5px auto;"><a href="/wiki/File:Orchid_Phalaenopsis_hybrid.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/Orchid_Phalaenopsis_hybrid.jpg/120px-Orchid_Phalaenopsis_hybrid.jpg" width="120" height="79" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/Orchid_Phalaenopsis_hybrid.jpg/180px-Orchid_Phalaenopsis_hybrid.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/30/Orchid_Phalaenopsis_hybrid.jpg/240px-Orchid_Phalaenopsis_hybrid.jpg 2x" data-file-width="3409" data-file-height="2234" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Orchid" class="mw-redirect" title="Orchid">Orchid</a> Phalaenopsis</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Rhododendron_sp._016.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Rhododendron_sp._016.JPG/90px-Rhododendron_sp._016.JPG" width="90" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Rhododendron_sp._016.JPG/135px-Rhododendron_sp._016.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Rhododendron_sp._016.JPG/180px-Rhododendron_sp._016.JPG 2x" data-file-width="2112" data-file-height="2816" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Rhododendron" title="Rhododendron">rhododendron</a>.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Clematis_patens_sunset_02.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Clematis_patens_sunset_02.JPG/120px-Clematis_patens_sunset_02.JPG" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Clematis_patens_sunset_02.JPG/180px-Clematis_patens_sunset_02.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Clematis_patens_sunset_02.JPG/240px-Clematis_patens_sunset_02.JPG 2x" data-file-width="4000" data-file-height="3000" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Clematis" title="Clematis">Clematis</a> "Sunset"</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:26.5px auto;"><a href="/wiki/File:Pink_Cape_Primrose_2_(4639387712).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Pink_Cape_Primrose_2_%284639387712%29.jpg/120px-Pink_Cape_Primrose_2_%284639387712%29.jpg" width="120" height="97" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Pink_Cape_Primrose_2_%284639387712%29.jpg/180px-Pink_Cape_Primrose_2_%284639387712%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/27/Pink_Cape_Primrose_2_%284639387712%29.jpg/240px-Pink_Cape_Primrose_2_%284639387712%29.jpg 2x" data-file-width="3930" data-file-height="3162" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Cape primrose (<a href="/wiki/Primulaceae" title="Primulaceae">Primulaceae</a>)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Geraniaceae_-_Geranium_sanguineum-1.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Geraniaceae_-_Geranium_sanguineum-1.JPG/120px-Geraniaceae_-_Geranium_sanguineum-1.JPG" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Geraniaceae_-_Geranium_sanguineum-1.JPG/180px-Geraniaceae_-_Geranium_sanguineum-1.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/39/Geraniaceae_-_Geranium_sanguineum-1.JPG/240px-Geraniaceae_-_Geranium_sanguineum-1.JPG 2x" data-file-width="1024" data-file-height="766" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Geranium_sanguineum" title="Geranium sanguineum">geranium sanguineum</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Dahlia_-_%22Hillcrest_Royal%22_cultivar.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Dahlia_-_%22Hillcrest_Royal%22_cultivar.jpg/120px-Dahlia_-_%22Hillcrest_Royal%22_cultivar.jpg" width="120" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Dahlia_-_%22Hillcrest_Royal%22_cultivar.jpg/180px-Dahlia_-_%22Hillcrest_Royal%22_cultivar.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Dahlia_-_%22Hillcrest_Royal%22_cultivar.jpg/240px-Dahlia_-_%22Hillcrest_Royal%22_cultivar.jpg 2x" data-file-width="800" data-file-height="800" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Dahlia" title="Dahlia">Dahlia</a> "Hillcrest Royal"</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Rambler_Roses_Cape_Cod.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Rambler_Roses_Cape_Cod.jpg/90px-Rambler_Roses_Cape_Cod.jpg" width="90" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Rambler_Roses_Cape_Cod.jpg/134px-Rambler_Roses_Cape_Cod.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/97/Rambler_Roses_Cape_Cod.jpg/179px-Rambler_Roses_Cape_Cod.jpg 2x" data-file-width="1936" data-file-height="2592" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Rambler <a href="/wiki/Rose" title="Rose">rose</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Syringa_%27Paul_Deschanel%27_02.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/Syringa_%27Paul_Deschanel%27_02.jpg/90px-Syringa_%27Paul_Deschanel%27_02.jpg" width="90" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/Syringa_%27Paul_Deschanel%27_02.jpg/135px-Syringa_%27Paul_Deschanel%27_02.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/Syringa_%27Paul_Deschanel%27_02.jpg/180px-Syringa_%27Paul_Deschanel%27_02.jpg 2x" data-file-width="2112" data-file-height="2816" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Syringa" title="Syringa">Syringa</a> "Paul Deschanel"</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Lilium_%27Malinoviy_Zvon%27_03.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Lilium_%27Malinoviy_Zvon%27_03.JPG/90px-Lilium_%27Malinoviy_Zvon%27_03.JPG" width="90" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Lilium_%27Malinoviy_Zvon%27_03.JPG/135px-Lilium_%27Malinoviy_Zvon%27_03.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Lilium_%27Malinoviy_Zvon%27_03.JPG/180px-Lilium_%27Malinoviy_Zvon%27_03.JPG 2x" data-file-width="2112" data-file-height="2816" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Lily" class="mw-redirect" title="Lily">Lily</a> "Malinoviy Zvon"</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Bl%C3%BCte_Sommerphlox,_Kategorie-Polemoniaceae.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Bl%C3%BCte_Sommerphlox%2C_Kategorie-Polemoniaceae.JPG/80px-Bl%C3%BCte_Sommerphlox%2C_Kategorie-Polemoniaceae.JPG" width="80" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Bl%C3%BCte_Sommerphlox%2C_Kategorie-Polemoniaceae.JPG/120px-Bl%C3%BCte_Sommerphlox%2C_Kategorie-Polemoniaceae.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Bl%C3%BCte_Sommerphlox%2C_Kategorie-Polemoniaceae.JPG/160px-Bl%C3%BCte_Sommerphlox%2C_Kategorie-Polemoniaceae.JPG 2x" data-file-width="2592" data-file-height="3888" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Polemoniaceae" title="Polemoniaceae">Polemoniaceae</a>, or <a href="/wiki/Phlox" title="Phlox">Phlox</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Cactus_plant_petailed.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Cactus_plant_petailed.jpg/120px-Cactus_plant_petailed.jpg" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Cactus_plant_petailed.jpg/180px-Cactus_plant_petailed.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Cactus_plant_petailed.jpg/240px-Cactus_plant_petailed.jpg 2x" data-file-width="2048" data-file-height="1536" /></a></div>
+</div>
+<div class="gallerytext">
+<p>A <a href="/wiki/Cactus" title="Cactus">cactus</a> flower</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Achillea_%27Staroe_Burgundskoe%27_02.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Achillea_%27Staroe_Burgundskoe%27_02.jpg/90px-Achillea_%27Staroe_Burgundskoe%27_02.jpg" width="90" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Achillea_%27Staroe_Burgundskoe%27_02.jpg/135px-Achillea_%27Staroe_Burgundskoe%27_02.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Achillea_%27Staroe_Burgundskoe%27_02.jpg/180px-Achillea_%27Staroe_Burgundskoe%27_02.jpg 2x" data-file-width="2112" data-file-height="2816" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Achillea" title="Achillea">Achillea</a> "Staroe Burgundskoe"</p>
+</div>
+</div>
+</li>
+</ul>
+<h2><span class="mw-headline" id="In_vexilology_and_heraldry">In vexilology and heraldry</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Magenta&amp;action=edit&amp;section=13" title="Edit section: In vexilology and heraldry">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Magenta is an extremely rare color to find on heraldic flags and coats of arms, since its adoption dates back to relatively recent times. However, there are some examples of its use:</p>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:35px auto;"><a href="/wiki/File:Cantabrian_L%C3%A1baru_Flag.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Cantabrian_L%C3%A1baru_Flag.svg/120px-Cantabrian_L%C3%A1baru_Flag.svg.png" width="120" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Cantabrian_L%C3%A1baru_Flag.svg/180px-Cantabrian_L%C3%A1baru_Flag.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/da/Cantabrian_L%C3%A1baru_Flag.svg/240px-Cantabrian_L%C3%A1baru_Flag.svg.png 2x" data-file-width="662" data-file-height="442" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Cantabrian_Labarum" class="mw-redirect" title="Cantabrian Labarum">Cantabrian Labarum</a>, <a href="/wiki/Cantabria" title="Cantabria">Cantabria</a>, <a href="/wiki/Spain" title="Spain">Spain</a>.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Blason_ville_fr_Magenta_(Marne).svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Blason_ville_fr_Magenta_%28Marne%29.svg/109px-Blason_ville_fr_Magenta_%28Marne%29.svg.png" width="109" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Blason_ville_fr_Magenta_%28Marne%29.svg/164px-Blason_ville_fr_Magenta_%28Marne%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Blason_ville_fr_Magenta_%28Marne%29.svg/218px-Blason_ville_fr_Magenta_%28Marne%29.svg.png 2x" data-file-width="600" data-file-height="660" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Coat of arms of the <a href="/wiki/Magenta,_Marne" title="Magenta, Marne">commune of Magenta</a>, <a href="/wiki/France" title="France">France</a>.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:35px auto;"><a href="/wiki/File:Flag_of_Cartago_(Valle_del_Cauca).svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Flag_of_Cartago_%28Valle_del_Cauca%29.svg/120px-Flag_of_Cartago_%28Valle_del_Cauca%29.svg.png" width="120" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Flag_of_Cartago_%28Valle_del_Cauca%29.svg/180px-Flag_of_Cartago_%28Valle_del_Cauca%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Flag_of_Cartago_%28Valle_del_Cauca%29.svg/240px-Flag_of_Cartago_%28Valle_del_Cauca%29.svg.png 2x" data-file-width="750" data-file-height="500" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Flag of the <a href="/wiki/Cartago,_Colombia" class="mw-redirect" title="Cartago, Colombia">municipality of Cartago</a>, <a href="/wiki/Colombia" title="Colombia">Colombia</a>.</p>
+</div>
+</div>
+</li>
+</ul>
+<h3><span class="mw-headline" id="In_politics">In politics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Magenta&amp;action=edit&amp;section=14" title="Edit section: In politics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>The color magenta is used to symbolize <a href="/wiki/Anti-racism" title="Anti-racism">anti-racism</a> by the <a href="/wiki/Amsterdam" title="Amsterdam">Amsterdam</a>-based anti-racism Magenta Foundation.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></li>
+<li>In Danish politics the magenta is the color of <a href="/wiki/Det_Radikale_Venstre" class="mw-redirect" title="Det Radikale Venstre">Det Radikale Venstre</a>, the Danish social-liberal party.</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Magenta&amp;action=edit&amp;section=15" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Fuchsia_(color)" title="Fuchsia (color)">Fuchsia (color)</a></li>
+<li><a href="/wiki/List_of_colors" class="mw-redirect" title="List of colors">List of colors</a></li>
+<li><a href="/wiki/Rose_(color)" title="Rose (color)">Rose</a></li>
+<li><a href="/wiki/Shades_of_magenta" title="Shades of magenta">Shades of magenta</a></li>
+</ul>
+<h2><span class="mw-headline" id="Notes_and_citations">Notes and citations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Magenta&amp;action=edit&amp;section=16" title="Edit section: Notes and citations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><i>Webster's New World Dictionary of the American Language</i> (1964)</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.oxforddictionaries.com/us/definition/american_english/magenta">definition of magenta</a> in Oxford dictionary (American English) (US)</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation book">Christine E. Barnes (1 February 2011). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=23rNl2hwk3AC&amp;pg=PA18#v=onepage&amp;q=magenta%20red%20violet%20color%20theory&amp;f=false"><i>The Quilter's Color Club: Secrets of Value, Temperature &amp; Special Effects</i></a>. C&amp;T Publishing Inc. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9781607051664" title="Special:BookSources/9781607051664">9781607051664</a><span class="reference-accessdate">. Retrieved <span class="nowrap">27 July</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMagenta&amp;rft.au=Christine+E.+Barnes&amp;rft.btitle=The+Quilter%27s+Color+Club%3A+Secrets+of+Value%2C+Temperature+%26+Special+Effects&amp;rft.date=2011-02-01&amp;rft.genre=book&amp;rft.isbn=9781607051664&amp;rft.pub=C%26T+Publishing+Inc&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D23rNl2hwk3AC%26pg%3DPA18%23v%3Donepage%26q%3Dmagenta%2520red%2520violet%2520color%2520theory%26f%3Dfalse&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Ball214-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Ball214_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Ball214_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Ball214_4-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Philip Ball (2001). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=3Bd3KqmkhPMC&amp;pg=PA214#v=onepage&amp;q=aniline%20mauve%20magenta&amp;f=false"><i>Bright Earth: Art and the Invention of Color</i></a> (illustrated ed.). University of Chicago Press. p.&#160;214. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0226036281" title="Special:BookSources/978-0226036281">978-0226036281</a><span class="reference-accessdate">. Retrieved <span class="nowrap">27 July</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMagenta&amp;rft.au=Philip+Ball&amp;rft.btitle=Bright+Earth%3A+Art+and+the+Invention+of+Color&amp;rft.date=2001&amp;rft.edition=illustrated&amp;rft.genre=book&amp;rft.isbn=978-0226036281&amp;rft.pages=214&amp;rft.pub=University+of+Chicago+Press&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D3Bd3KqmkhPMC%26pg%3DPA214%23v%3Donepage%26q%3Daniline%2520mauve%2520magenta%26f%3Dfalse&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> Originally referenced from French edition pages 311–312 <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-2754105033" title="Special:BookSources/978-2754105033">978-2754105033</a></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web">the auroran sunset, updated Xavier. <a rel="nofollow" class="external text" href="http://www.abelard.org/colour/col-hi.htm">"theory of colour: Orange is Tertiary"</a>. <i>abelard.org</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMagenta&amp;rft.atitle=theory+of+colour%3A+Orange+is+Tertiary&amp;rft.au=the+auroran+sunset%2C+updated+Xavier&amp;rft.genre=unknown&amp;rft.jtitle=abelard.org&amp;rft_id=http%3A%2F%2Fwww.abelard.org%2Fcolour%2Fcol-hi.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Bruce MacEvoy. "<a rel="nofollow" class="external text" href="http://www.handprint.com/HP/WCL/color1.html#huenames">Light and the Eye</a>", <i>Handprint</i>. A chart citing R.W.G. Hunt 2004. <i>The Reproduction of Color</i>.</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Maerz and Paul. <i>A Dictionary of Color</i>, New York:1930 McGraw-Hill Page 126 Plate 52 Color Sample K12–Magenta</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.darkstar1.co.uk/ds3.htm">Brown Dwarves</a> (go halfway down the website to see a picture of a magenta brown dwarf)</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Burrows et al. The theory of brown dwarfs and extrasolar giant planets. Reviews of Modern Physics 2001; 73: 719-65</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://spider.ipac.caltech.edu/staff/davy/2mass/science/comparison.html">An Artist's View of Brown Dwarf Types</a> (26 June 2002) Dr. Robert Hurt of the Infrared Processing and Analysis Center</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Magenta Foundation. <a rel="nofollow" class="external text" href="http://www.magenta.nl/english/">Organization website</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20060827010357/http://www.magenta.nl/english/">Archived</a> 2006-08-27 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>..</span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Magenta&amp;action=edit&amp;section=17" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.handprint.com/HP/WCL/waterc.html">Pictures of actual aniline dye samples in various shades of magenta.</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.null-hypothesis.co.uk/science/strange-but-true/colour_spectrum_magenta_complimentary_bizarre">Magenta is a product of the brain rather than a spectral frequency</a></li>
+<li><a rel="nofollow" class="external text" href="http://richannel.org/colour-mixing-and-the-mystery-of-magenta">Colour Mixing and the Mystery of Magenta</a>, <a href="/wiki/Royal_Institution" title="Royal Institution">Royal Institution</a> video</li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Shades_of_magenta" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background:magenta; color:black; border: 1px solid #000000">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Shades_of_magenta" title="Template:Shades of magenta"><abbr title="View this template" style=";background:magenta; color:black; border: 1px solid #000000;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/w/index.php?title=Template_talk:Shades_of_magenta&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Shades of magenta (page does not exist)"><abbr title="Discuss this template" style=";background:magenta; color:black; border: 1px solid #000000;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Shades_of_magenta&amp;action=edit"><abbr title="Edit this template" style=";background:magenta; color:black; border: 1px solid #000000;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Shades_of_magenta" style="font-size:114%;margin:0 4em"><a href="/wiki/Shades_of_magenta" title="Shades of magenta"><span style="color:black">Shades of magenta</span></a></div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0">
+<table style="background:transparent; width:100%">
+<tr style="vertical-align:bottom;font-size:90%">
+<td style="width:5%"><a href="/wiki/Amaranth_(color)" title="Amaranth (color)">Amaranth</a></td>
+<td style="width:5%"><a href="/wiki/Amaranth_pink" class="mw-redirect" title="Amaranth pink">Amaranth pink</a></td>
+<td style="width:5%"><a href="/wiki/Amaranth_purple" class="mw-redirect" title="Amaranth purple">Amaranth purple</a></td>
+<td style="width:5%"><a href="/wiki/Blush_(color)" title="Blush (color)">Blush</a></td>
+<td style="width:5%"><a href="/wiki/Cerise_(color)" title="Cerise (color)">Cerise</a></td>
+<td style="width:5%"><a href="/wiki/Crimson" title="Crimson">Crimson</a></td>
+<td style="width:5%"><a href="/wiki/Eggplant_(color)" title="Eggplant (color)">Eggplant</a></td>
+<td style="width:5%"><a href="/wiki/Fandango_(color)" class="mw-redirect" title="Fandango (color)">Fandango</a></td>
+<td style="width:5%"><a href="/wiki/Folly_(color)" class="mw-redirect" title="Folly (color)">Folly</a></td>
+<td style="width:5%"><a href="/wiki/Fuchsia_(color)" title="Fuchsia (color)">Fuchsia</a></td>
+</tr>
+<tr>
+<td style="background:#E52B50;border:1px solid;">&#160;</td>
+<td style="background:#F19CBB;border:1px solid;">&#160;</td>
+<td style="background:#AB274F;border:1px solid;">&#160;</td>
+<td style="background:#DE5D83;border:1px solid;">&#160;</td>
+<td style="background:#DE3163;border:1px solid;">&#160;</td>
+<td style="background:#DC143C;border:1px solid;">&#160;</td>
+<td style="background:#614051;border:1px solid;">&#160;</td>
+<td style="background:#B53389;border:1px solid;">&#160;</td>
+<td style="background:#FF004F;border:1px solid;">&#160;</td>
+<td style="background:#FF00FF;border:1px solid;">&#160;</td>
+</tr>
+<tr style="vertical-align:bottom;font-size:90%">
+<td style="width:5%"><a href="/wiki/Hollywood_cerise" class="mw-redirect" title="Hollywood cerise">Hollywood cerise</a></td>
+<td style="width:5%"><a href="/wiki/Hot_magenta" class="mw-redirect" title="Hot magenta">Hot magenta</a></td>
+<td style="width:5%"><a class="mw-selflink selflink">Magenta</a></td>
+<td style="width:5%"><a href="/wiki/Magenta_(Pantone)" class="mw-redirect" title="Magenta (Pantone)">Magenta (Pantone)</a></td>
+<td style="width:5%"><a href="/wiki/Magenta_dye" class="mw-redirect" title="Magenta dye">Magenta dye</a></td>
+<td style="width:5%"><a href="/wiki/Magenta_haze" class="mw-redirect" title="Magenta haze">Magenta haze</a></td>
+<td style="width:5%"><a href="/wiki/Mulberry_(color)" title="Mulberry (color)">Mulberry</a></td>
+<td style="width:5%"><a href="/wiki/Orchid_(color)" title="Orchid (color)">Orchid</a></td>
+<td style="width:5%"><a href="/wiki/Plum_(color)" title="Plum (color)">Plum</a></td>
+<td style="width:5%"><a href="/wiki/Purple_pizzazz" class="mw-redirect" title="Purple pizzazz">Purple pizzazz</a></td>
+</tr>
+<tr>
+<td style="background:#F400A1;border:1px solid;">&#160;</td>
+<td style="background:#FF1DCE;border:1px solid;">&#160;</td>
+<td style="background:#FF0090;border:1px solid;">&#160;</td>
+<td style="background:#D0417E;border:1px solid;">&#160;</td>
+<td style="background:#CA1F7B;border:1px solid;">&#160;</td>
+<td style="background:#9F4576;border:1px solid;">&#160;</td>
+<td style="background:#C54B8C;border:1px solid;">&#160;</td>
+<td style="background:#DA70D6;border:1px solid;">&#160;</td>
+<td style="background:#8E4585;border:1px solid;">&#160;</td>
+<td style="background:#FE4EDA;border:1px solid;">&#160;</td>
+</tr>
+<tr style="vertical-align:bottom;font-size:90%">
+<td style="width:5%"><a href="/wiki/Quinacridone_magenta" class="mw-redirect" title="Quinacridone magenta">Quinacridone magenta</a></td>
+<td style="width:5%"><a href="/wiki/Raspberry_(color)" title="Raspberry (color)">Raspberry</a></td>
+<td style="width:5%"><a href="/wiki/Razzle_dazzle_rose" class="mw-redirect" title="Razzle dazzle rose">Razzle dazzle rose</a></td>
+<td style="width:5%"><a href="/wiki/Red-violet" title="Red-violet">Red-violet</a></td>
+<td style="width:5%"><a href="/wiki/Rose_(color)" title="Rose (color)">Rose</a></td>
+<td style="width:5%"><a href="/wiki/Shocking_pink" class="mw-redirect" title="Shocking pink">Shocking pink</a></td>
+<td style="width:5%"><a href="/wiki/Sky_magenta" class="mw-redirect" title="Sky magenta">Sky magenta</a></td>
+<td style="width:5%"><a href="/wiki/Steel_pink" class="mw-redirect" title="Steel pink">Steel pink</a></td>
+<td style="width:5%"><a href="/wiki/Telemagenta" class="mw-redirect" title="Telemagenta">Telemagenta</a></td>
+<td style="width:5%"><a href="/wiki/Ultra_pink" class="mw-redirect" title="Ultra pink">Ultra pink</a></td>
+</tr>
+<tr>
+<td style="background:#8E3A59;border:1px solid;">&#160;</td>
+<td style="background:#E30B5C;border:1px solid;">&#160;</td>
+<td style="background:#FF33CC;border:1px solid;">&#160;</td>
+<td style="background:#C71585;border:1px solid;">&#160;</td>
+<td style="background:#FF007F;border:1px solid;">&#160;</td>
+<td style="background:#FC0FC0;border:1px solid;">&#160;</td>
+<td style="background:#CF71AF;border:1px solid;">&#160;</td>
+<td style="background:#CC33CC;border:1px solid;">&#160;</td>
+<td style="background:#CF3476;border:1px solid;">&#160;</td>
+<td style="background:#FF6FFF;border:1px solid;">&#160;</td>
+</tr>
+<tr style="vertical-align:bottom;font-size:90%">
+<td style="width:5%"><a href="/wiki/Violet-red" class="mw-redirect" title="Violet-red">Violet-red</a></td>
+</tr>
+<tr>
+<td style="background:#F75394;border:1px solid;">&#160;</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="font-size:smaller; background:transparent; border-top:magenta 1px solid;">
+<div>A typical sample is shown for each name; a range of color-variations is commonly associated with each color-name.</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Shades_of_pink" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background:#FFCBDB; color:black; border: 1px solid #000000">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Shades_of_pink" title="Template:Shades of pink"><abbr title="View this template" style=";background:#FFCBDB; color:black; border: 1px solid #000000;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Shades_of_pink" title="Template talk:Shades of pink"><abbr title="Discuss this template" style=";background:#FFCBDB; color:black; border: 1px solid #000000;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Shades_of_pink&amp;action=edit"><abbr title="Edit this template" style=";background:#FFCBDB; color:black; border: 1px solid #000000;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Shades_of_pink" style="font-size:114%;margin:0 4em"><a href="/wiki/Shades_of_pink" title="Shades of pink"><span style="color:black">Shades of pink</span></a></div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0">
+<table style="background:transparent; width:100%">
+<tr style="vertical-align:bottom;font-size:90%">
+<td style="width:5%"><a href="/wiki/Amaranth_(color)" title="Amaranth (color)">Amaranth</a></td>
+<td style="width:5%"><a href="/wiki/Amaranth_pink" class="mw-redirect" title="Amaranth pink">Amaranth pink</a></td>
+<td style="width:5%"><a href="/wiki/Baker-Miller_pink" title="Baker-Miller pink">Baker-Miller pink</a></td>
+<td style="width:5%"><a href="/wiki/Boto_pink" class="mw-redirect" title="Boto pink">Boto pink</a></td>
+<td style="width:5%"><a href="/wiki/Brink_pink" class="mw-redirect" title="Brink pink">Brink pink</a></td>
+<td style="width:5%"><a href="/wiki/Carmine_(color)" title="Carmine (color)">Carmine</a></td>
+<td style="width:5%"><a href="/wiki/Carnation_pink" class="mw-redirect" title="Carnation pink">Carnation pink</a></td>
+<td style="width:5%"><a href="/wiki/Cerise_(color)" title="Cerise (color)">Cerise</a></td>
+<td style="width:5%"><a href="/wiki/Coral_pink" class="mw-redirect" title="Coral pink">Coral pink</a></td>
+<td style="width:5%"><a href="/wiki/Crimson" title="Crimson">Crimson</a></td>
+</tr>
+<tr>
+<td style="background:#E52B50;border:1px solid;">&#160;</td>
+<td style="background:#F19CBB;border:1px solid;">&#160;</td>
+<td style="background:#FF91AF;border:1px solid;">&#160;</td>
+<td style="background:#E4C4CF;border:1px solid;">&#160;</td>
+<td style="background:#FB607F;border:1px solid;">&#160;</td>
+<td style="background:#960018;border:1px solid;">&#160;</td>
+<td style="background:#FFA6C9;border:1px solid;">&#160;</td>
+<td style="background:#DE3163;border:1px solid;">&#160;</td>
+<td style="background:#F88379;border:1px solid;">&#160;</td>
+<td style="background:#DC143C;border:1px solid;">&#160;</td>
+</tr>
+<tr style="vertical-align:bottom;font-size:90%">
+<td style="width:5%"><a href="/wiki/Cyclamen_(color)" title="Cyclamen (color)">Cyclamen</a></td>
+<td style="width:5%"><a href="/wiki/Deep_carmine" class="mw-redirect" title="Deep carmine">Deep carmine</a></td>
+<td style="width:5%"><a href="/wiki/Deep_pink" class="mw-redirect" title="Deep pink">Deep pink</a></td>
+<td style="width:5%"><a href="/wiki/Fandango_(color)" class="mw-redirect" title="Fandango (color)">Fandango</a></td>
+<td style="width:5%"><a href="/wiki/Folly_(color)" class="mw-redirect" title="Folly (color)">Folly</a></td>
+<td style="width:5%"><a href="/wiki/French_rose_(color)" class="mw-redirect" title="French rose (color)">French rose</a></td>
+<td style="width:5%"><a href="/wiki/Fuchsia_(color)" title="Fuchsia (color)">Fuchsia</a></td>
+<td style="width:5%"><a href="/wiki/Hollywood_cerise" class="mw-redirect" title="Hollywood cerise">Hollywood cerise</a></td>
+<td style="width:5%"><a href="/wiki/Hot_magenta" class="mw-redirect" title="Hot magenta">Hot magenta</a></td>
+<td style="width:5%"><a href="/wiki/Hot_pink" class="mw-redirect" title="Hot pink">Hot pink</a></td>
+</tr>
+<tr>
+<td style="background:#F56FA1;border:1px solid;">&#160;</td>
+<td style="background:#EF3038;border:1px solid;">&#160;</td>
+<td style="background:#FF1493;border:1px solid;">&#160;</td>
+<td style="background:#B53389;border:1px solid;">&#160;</td>
+<td style="background:#FF004F;border:1px solid;">&#160;</td>
+<td style="background:#F64A8A;border:1px solid;">&#160;</td>
+<td style="background:#FF00FF;border:1px solid;">&#160;</td>
+<td style="background:#F400A1;border:1px solid;">&#160;</td>
+<td style="background:#FF00CC;border:1px solid;">&#160;</td>
+<td style="background:#FF69B4;border:1px solid;">&#160;</td>
+</tr>
+<tr style="vertical-align:bottom;font-size:90%">
+<td style="width:5%"><a href="/wiki/Lavender_pink" class="mw-redirect" title="Lavender pink">Lavender pink</a></td>
+<td style="width:5%"><a class="mw-selflink selflink">Magenta</a></td>
+<td style="width:5%"><a href="/wiki/Mauve" title="Mauve">Mauve</a></td>
+<td style="width:5%"><a href="/wiki/Mexican_pink" title="Mexican pink">Mexican pink</a></td>
+<td style="width:5%"><a href="/wiki/Mountbatten_pink" title="Mountbatten pink">Mountbatten pink</a></td>
+<td style="width:5%"><a href="/wiki/Persian_rose" class="mw-redirect" title="Persian rose">Persian rose</a></td>
+<td style="width:5%"><a href="/wiki/Pink" title="Pink">Pink</a></td>
+<td style="width:5%"><a href="/wiki/Puce" title="Puce">Puce</a></td>
+<td style="width:5%"><a href="/wiki/Raspberry_(color)" title="Raspberry (color)">Raspberry</a></td>
+<td style="width:5%"><a href="/wiki/Rose_(color)" title="Rose (color)">Rose</a></td>
+</tr>
+<tr>
+<td style="background:#FBAED2;border:1px solid;">&#160;</td>
+<td style="background:#FF0090;border:1px solid;">&#160;</td>
+<td style="background:#E0B0FF;border:1px solid;">&#160;</td>
+<td style="background:#E4007C;border:1px solid;">&#160;</td>
+<td style="background:#997A8D;border:1px solid;">&#160;</td>
+<td style="background:#FE28A2;border:1px solid;">&#160;</td>
+<td style="background:#FFCBDB;border:1px solid;">&#160;</td>
+<td style="background:#CC8899;border:1px solid;">&#160;</td>
+<td style="background:#E30B5C;border:1px solid;">&#160;</td>
+<td style="background:#FF007F;border:1px solid;">&#160;</td>
+</tr>
+<tr style="vertical-align:bottom;font-size:90%">
+<td style="width:5%"><a href="/wiki/Rose_pink_(color)" class="mw-redirect" title="Rose pink (color)">Rose pink</a></td>
+<td style="width:5%"><a href="/wiki/Ruby_(color)" title="Ruby (color)">Ruby</a></td>
+<td style="width:5%"><a href="/wiki/Salmon_(color)" title="Salmon (color)">Salmon pink</a></td>
+<td style="width:5%"><a href="/wiki/Shocking_pink" class="mw-redirect" title="Shocking pink">Shocking pink</a></td>
+<td style="width:5%"><a href="/wiki/Thulian_pink" class="mw-redirect" title="Thulian pink">Thulian pink</a></td>
+<td style="width:5%"><a href="/wiki/Ultra_pink" class="mw-redirect" title="Ultra pink">Ultra pink</a></td>
+</tr>
+<tr>
+<td style="background:#FF66CC;border:1px solid;">&#160;</td>
+<td style="background:#E0115F;border:1px solid;">&#160;</td>
+<td style="background:#FF91A4;border:1px solid;">&#160;</td>
+<td style="background:#FC0FC0;border:1px solid;">&#160;</td>
+<td style="background:#DE6FA1;border:1px solid;">&#160;</td>
+<td style="background:#FF6FFF;border:1px solid;">&#160;</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="font-size:smaller; background:transparent; border-top:#FFCBDB 1px solid;">
+<div>A typical sample is shown for each name; a range of color-variations is commonly associated with each color-name.</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Shades_of_red" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background:#b50400; color:white; border: 1px solid #000000">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Shades_of_red" title="Template:Shades of red"><abbr title="View this template" style=";background:#b50400; color:white; border: 1px solid #000000;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Shades_of_red" title="Template talk:Shades of red"><abbr title="Discuss this template" style=";background:#b50400; color:white; border: 1px solid #000000;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Shades_of_red&amp;action=edit"><abbr title="Edit this template" style=";background:#b50400; color:white; border: 1px solid #000000;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Shades_of_red" style="font-size:114%;margin:0 4em"><a href="/wiki/Shades_of_red" title="Shades of red"><span style="color:white">Shades of red</span></a></div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0">
+<table style="background:transparent; width:100%">
+<tr style="vertical-align:bottom;font-size:90%">
+<td style="width:5%"><a href="/wiki/Alizarin_crimson_(color)" title="Alizarin crimson (color)">Alizarin crimson</a></td>
+<td style="width:5%"><a href="/wiki/Amaranth_(color)" title="Amaranth (color)">Amaranth</a></td>
+<td style="width:5%"><a href="/wiki/American_rose" class="mw-redirect" title="American rose">American rose</a></td>
+<td style="width:5%"><a href="/wiki/Auburn_(color)" class="mw-redirect" title="Auburn (color)">Auburn</a></td>
+<td style="width:5%"><a href="/wiki/Blood_red" title="Blood red">Blood red</a></td>
+<td style="width:5%"><a href="/wiki/Burgundy_(color)" title="Burgundy (color)">Burgundy</a></td>
+<td style="width:5%"><a href="/wiki/Cardinal_(color)" title="Cardinal (color)">Cardinal</a></td>
+<td style="width:5%"><a href="/wiki/Carmine_(color)" title="Carmine (color)">Carmine</a></td>
+<td style="width:5%"><a href="/wiki/Carnelian_(color)" title="Carnelian (color)">Carnelian</a></td>
+<td style="width:5%"><a href="/wiki/Cerise_(color)" title="Cerise (color)">Cerise</a></td>
+</tr>
+<tr>
+<td style="background:#E32636;border:1px solid;">&#160;</td>
+<td style="background:#E52B50;border:1px solid;">&#160;</td>
+<td style="background:#FF033E;border:1px solid;">&#160;</td>
+<td style="background:#A52A2A;border:1px solid;">&#160;</td>
+<td style="background:#660000;border:1px solid;">&#160;</td>
+<td style="background:#800020;border:1px solid;">&#160;</td>
+<td style="background:#C41E3A;border:1px solid;">&#160;</td>
+<td style="background:#960018;border:1px solid;">&#160;</td>
+<td style="background:#B31B1B;border:1px solid;">&#160;</td>
+<td style="background:#DE3163;border:1px solid;">&#160;</td>
+</tr>
+<tr style="vertical-align:bottom;font-size:90%">
+<td style="width:5%"><a href="/wiki/Chocolate_Cosmos_(color)" class="mw-redirect" title="Chocolate Cosmos (color)">Chocolate Cosmos</a></td>
+<td style="width:5%"><a href="/wiki/Cinnabar_(color)" class="mw-redirect" title="Cinnabar (color)">Cinnabar</a></td>
+<td style="width:5%"><a href="/wiki/Coquelicot" title="Coquelicot">Coquelicot</a></td>
+<td style="width:5%"><a href="/wiki/Crimson" title="Crimson">Crimson</a></td>
+<td style="width:5%"><a href="/wiki/Dark_red" class="mw-redirect" title="Dark red">Dark red</a></td>
+<td style="width:5%"><a href="/wiki/Electric_crimson" class="mw-redirect" title="Electric crimson">Electric crimson</a></td>
+<td style="width:5%"><a href="/wiki/Fire_brick_(color)" class="mw-redirect" title="Fire brick (color)">Fire brick</a></td>
+<td style="width:5%"><a href="/wiki/Flame_(color)" class="mw-redirect" title="Flame (color)">Flame</a></td>
+<td style="width:5%"><a href="/wiki/Folly_(color)" class="mw-redirect" title="Folly (color)">Folly</a></td>
+<td style="width:5%"><a href="/wiki/Fuchsia_(color)" title="Fuchsia (color)">Fuchsia</a></td>
+</tr>
+<tr>
+<td style="background:#58111A;border:1px solid;">&#160;</td>
+<td style="background:#E44D2E;border:1px solid;">&#160;</td>
+<td style="background:#FF3800;border:1px solid;">&#160;</td>
+<td style="background:#DC143C;border:1px solid;">&#160;</td>
+<td style="background:#8B0000;border:1px solid;">&#160;</td>
+<td style="background:#FF003F;border:1px solid;">&#160;</td>
+<td style="background:#B22222;border:1px solid;">&#160;</td>
+<td style="background:#E25822;border:1px solid;">&#160;</td>
+<td style="background:#FF004F;border:1px solid;">&#160;</td>
+<td style="background:#FF00FF;border:1px solid;">&#160;</td>
+</tr>
+<tr style="vertical-align:bottom;font-size:90%">
+<td style="width:5%"><a href="/wiki/Indian_red_(color)" title="Indian red (color)">Indian red</a></td>
+<td style="width:5%"><a class="mw-selflink selflink">Magenta</a></td>
+<td style="width:5%"><a href="/wiki/Maroon" title="Maroon">Maroon</a></td>
+<td style="width:5%"><a href="/wiki/Mahogany_(color)" title="Mahogany (color)">Mahogany</a></td>
+<td style="width:5%"><a href="/w/index.php?title=Mystic_red&amp;action=edit&amp;redlink=1" class="new" title="Mystic red (page does not exist)">Mystic red</a></td>
+<td style="width:5%"><a href="/wiki/Oxblood" title="Oxblood">Oxblood</a></td>
+<td style="width:5%"><a href="/wiki/Persian_red" title="Persian red">Persian red</a></td>
+<td style="width:5%"><a href="/wiki/Pink" title="Pink">Pink</a></td>
+<td style="width:5%"><a href="/wiki/Raspberry_(color)" title="Raspberry (color)">Raspberry</a></td>
+<td style="width:5%"><a href="/wiki/Red" title="Red">Red</a></td>
+</tr>
+<tr>
+<td style="background:#CD5C5C;border:1px solid;">&#160;</td>
+<td style="background:#FF0090;border:1px solid;">&#160;</td>
+<td style="background:#800000;border:1px solid;">&#160;</td>
+<td style="background:#C04000;border:1px solid;">&#160;</td>
+<td style="background:#FF3300;border:1px solid;">&#160;</td>
+<td style="background:#800020;border:1px solid;">&#160;</td>
+<td style="background:#C81D11;border:1px solid;">&#160;</td>
+<td style="background:#FFCBDB;border:1px solid;">&#160;</td>
+<td style="background:#E30B5C;border:1px solid;">&#160;</td>
+<td style="background:#FF0000;border:1px solid;">&#160;</td>
+</tr>
+<tr style="vertical-align:bottom;font-size:90%">
+<td style="width:5%"><a href="/wiki/Red-violet" title="Red-violet">Red-violet</a></td>
+<td style="width:5%"><a href="/wiki/Redwood_(color)" class="mw-redirect" title="Redwood (color)">Redwood</a></td>
+<td style="width:5%"><a href="/wiki/Rose_(color)" title="Rose (color)">Rose</a></td>
+<td style="width:5%"><a href="/wiki/Rosewood_(color)" class="mw-redirect" title="Rosewood (color)">Rosewood</a></td>
+<td style="width:5%"><a href="/wiki/Rosso_corsa" title="Rosso corsa">Rosso corsa</a></td>
+<td style="width:5%"><a href="/wiki/Ruby_(color)" title="Ruby (color)">Ruby</a></td>
+<td style="width:5%"><a href="/wiki/Rust_(color)" title="Rust (color)">Rust</a></td>
+<td style="width:5%"><a href="/wiki/Scarlet_(color)" title="Scarlet (color)">Scarlet</a></td>
+<td style="width:5%"><a href="/wiki/Terra_cotta_(color)" title="Terra cotta (color)">Terra cotta</a></td>
+<td style="width:5%"><a href="/wiki/Turkey_red" title="Turkey red">Turkey red</a></td>
+</tr>
+<tr>
+<td style="background:#C71585;border:1px solid;">&#160;</td>
+<td style="background:#AB4E52;border:1px solid;">&#160;</td>
+<td style="background:#FF007F;border:1px solid;">&#160;</td>
+<td style="background:#65000B;border:1px solid;">&#160;</td>
+<td style="background:#CC0000;border:1px solid;">&#160;</td>
+<td style="background:#E0115F;border:1px solid;">&#160;</td>
+<td style="background:#B7410E;border:1px solid;">&#160;</td>
+<td style="background:#FF2400;border:1px solid;">&#160;</td>
+<td style="background:#E2725B;border:1px solid;">&#160;</td>
+<td style="background:#A91101;border:1px solid;">&#160;</td>
+</tr>
+<tr style="vertical-align:bottom;font-size:90%">
+<td style="width:5%"><a href="/wiki/Tuscan_red" title="Tuscan red">Tuscan red</a></td>
+<td style="width:5%"><a href="/wiki/Tyrian_purple" title="Tyrian purple">Tyrian purple</a></td>
+<td style="width:5%"><a href="/wiki/Venetian_red" title="Venetian red">Venetian red</a></td>
+<td style="width:5%"><a href="/wiki/Vermilion" title="Vermilion">Vermilion</a></td>
+<td style="width:5%"><a href="/wiki/Wine_(color)" title="Wine (color)">Wine</a></td>
+</tr>
+<tr>
+<td style="background:#7C3030;border:1px solid;">&#160;</td>
+<td style="background:#66023C;border:1px solid;">&#160;</td>
+<td style="background:#C80815;border:1px solid;">&#160;</td>
+<td style="background:#E34234;border:1px solid;">&#160;</td>
+<td style="background:#722F37;border:1px solid;">&#160;</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="font-size:smaller; background:transparent; border-top:#b50400 1px solid;">
+<div>A typical sample is shown for each name; a range of color-variations is commonly associated with each color-name.</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Shades_of_violet" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background:#4B0082; color:white; border: 1px solid #000000">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Shades_of_violet" title="Template:Shades of violet"><abbr title="View this template" style=";background:#4B0082; color:white; border: 1px solid #000000;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Shades_of_violet" title="Template talk:Shades of violet"><abbr title="Discuss this template" style=";background:#4B0082; color:white; border: 1px solid #000000;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Shades_of_violet&amp;action=edit"><abbr title="Edit this template" style=";background:#4B0082; color:white; border: 1px solid #000000;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Shades_of_violet" style="font-size:114%;margin:0 4em"><a href="/wiki/Shades_of_violet" title="Shades of violet"><span style="color:white">Shades of violet</span></a></div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0">
+<table style="background:transparent; width:100%">
+<tr style="vertical-align:bottom;font-size:90%">
+<td style="width:5%"><a href="/wiki/Amethyst_(color)" class="mw-redirect" title="Amethyst (color)">Amethyst</a></td>
+<td style="width:5%"><a href="/wiki/Byzantium_(color)" title="Byzantium (color)">Byzantium</a></td>
+<td style="width:5%"><a href="/wiki/Cerise_(color)" title="Cerise (color)">Cerise</a></td>
+<td style="width:5%"><a href="/wiki/Dark_purple" title="Dark purple">Dark purple</a></td>
+<td style="width:5%"><a href="/wiki/Eggplant_(color)" title="Eggplant (color)">Eggplant</a></td>
+<td style="width:5%"><a href="/wiki/Fandango_(color)" class="mw-redirect" title="Fandango (color)">Fandango</a></td>
+<td style="width:5%"><a href="/wiki/Fuchsia_(color)" title="Fuchsia (color)">Fuchsia</a></td>
+<td style="width:5%"><a href="/wiki/Heliotrope_(color)" title="Heliotrope (color)">Heliotrope</a></td>
+<td style="width:5%"><a href="/wiki/Indigo" title="Indigo">Indigo</a></td>
+<td style="width:5%"><a href="/wiki/Lavender_blush" class="mw-redirect" title="Lavender blush">Lavender blush</a></td>
+</tr>
+<tr>
+<td style="background:#9966CC;border:1px solid;">&#160;</td>
+<td style="background:#702963;border:1px solid;">&#160;</td>
+<td style="background:#DE3163;border:1px solid;">&#160;</td>
+<td style="background:#301934;border:1px solid;">&#160;</td>
+<td style="background:#614051;border:1px solid;">&#160;</td>
+<td style="background:#B53389;border:1px solid;">&#160;</td>
+<td style="background:#FF00FF;border:1px solid;">&#160;</td>
+<td style="background:#DF73FF;border:1px solid;">&#160;</td>
+<td style="background:#4B0082;border:1px solid;">&#160;</td>
+<td style="background:#FFF0F5;border:1px solid;">&#160;</td>
+</tr>
+<tr style="vertical-align:bottom;font-size:90%">
+<td style="width:5%"><a href="/wiki/Lavender_(floral)" class="mw-redirect" title="Lavender (floral)">Lavender (floral)</a></td>
+<td style="width:5%"><a href="/wiki/Lavender_(color)" title="Lavender (color)">Lavender (web)</a></td>
+<td style="width:5%"><a href="/wiki/Lilac_(color)" title="Lilac (color)">Lilac</a></td>
+<td style="width:5%"><a class="mw-selflink selflink">Magenta</a></td>
+<td style="width:5%"><a href="/wiki/Mauve" title="Mauve">Mauve</a></td>
+<td style="width:5%"><a href="/wiki/Orchid_(color)" title="Orchid (color)">Orchid</a></td>
+<td style="width:5%"><a href="/wiki/Plum_(color)" title="Plum (color)">Plum</a></td>
+<td style="width:5%"><a href="/wiki/Periwinkle_(color)" title="Periwinkle (color)">Periwinkle</a></td>
+<td style="width:5%"><a href="/wiki/Purple" title="Purple">Purple</a></td>
+<td style="width:5%"><a href="/wiki/Red-violet" title="Red-violet">Red-violet</a></td>
+</tr>
+<tr>
+<td style="background:#B57EDC;border:1px solid;">&#160;</td>
+<td style="background:#E6E6FA;border:1px solid;">&#160;</td>
+<td style="background:#C8A2C8;border:1px solid;">&#160;</td>
+<td style="background:#FF0090;border:1px solid;">&#160;</td>
+<td style="background:#E0B0FF;border:1px solid;">&#160;</td>
+<td style="background:#DA70D6;border:1px solid;">&#160;</td>
+<td style="background:#8E4585;border:1px solid;">&#160;</td>
+<td style="background:#CCCCFF;border:1px solid;">&#160;</td>
+<td style="background:#800080;border:1px solid;">&#160;</td>
+<td style="background:#C71585;border:1px solid;">&#160;</td>
+</tr>
+<tr style="vertical-align:bottom;font-size:90%">
+<td style="width:5%"><a href="/wiki/Rose_(color)" title="Rose (color)">Rose</a></td>
+<td style="width:5%"><a href="/wiki/Thistle_(color)" class="mw-redirect" title="Thistle (color)">Thistle</a></td>
+<td style="width:5%"><a href="/wiki/Tyrian_purple" title="Tyrian purple">Tyrian purple</a></td>
+<td style="width:5%"><a href="/wiki/Mulberry_(color)" title="Mulberry (color)">Mulberry</a></td>
+<td style="width:5%"><a href="/wiki/Violet_(color)" title="Violet (color)">Violet</a></td>
+<td style="width:5%"><a href="/wiki/Violet-blue" class="mw-redirect" title="Violet-blue">Violet-blue</a></td>
+<td style="width:5%"><a href="/wiki/Wisteria_(color)" class="mw-redirect" title="Wisteria (color)">Wisteria</a></td>
+</tr>
+<tr>
+<td style="background:#FF007F;border:1px solid;">&#160;</td>
+<td style="background:#D8BFD8;border:1px solid;">&#160;</td>
+<td style="background:#66023C;border:1px solid;">&#160;</td>
+<td style="background:#C54B8C;border:1px solid;">&#160;</td>
+<td style="background:#8F00FF;border:1px solid;">&#160;</td>
+<td style="background:#324AB2;border:1px solid;">&#160;</td>
+<td style="background:#C9A0DC;border:1px solid;">&#160;</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="font-size:smaller; background:transparent; border-top:#4B0082 1px solid;">
+<div>A typical sample is shown for each name; a range of color-variations is commonly associated with each color-name.</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Color_topics" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Color_topics" title="Template:Color topics"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Color_topics" title="Template talk:Color topics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Color_topics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Color_topics" style="font-size:114%;margin:0 4em"><a href="/wiki/Color" title="Color">Color</a> topics</div>
+</th>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div>
+<ul>
+<li><a href="/wiki/Shades_of_red" title="Shades of red">Red</a></li>
+<li><a href="/wiki/Shades_of_orange" title="Shades of orange">Orange</a></li>
+<li><a href="/wiki/Shades_of_yellow" title="Shades of yellow">Yellow</a></li>
+<li><a href="/wiki/Shades_of_green" title="Shades of green">Green</a></li>
+<li><a href="/wiki/Shades_of_cyan" title="Shades of cyan">Cyan</a></li>
+<li><a href="/wiki/Shades_of_blue" title="Shades of blue">Blue</a></li>
+<li><a href="/wiki/Indigo" title="Indigo">Indigo</a></li>
+<li><a href="/wiki/Shades_of_violet" title="Shades of violet">Violet</a></li>
+<li><a href="/wiki/Shades_of_purple" title="Shades of purple">Purple</a></li>
+<li><a href="/wiki/Shades_of_magenta" title="Shades of magenta">Magenta</a></li>
+<li><a href="/wiki/Shades_of_pink" title="Shades of pink">Pink</a></li>
+<li><a href="/wiki/Shades_of_brown" title="Shades of brown">Brown</a></li>
+<li><a href="/wiki/Shades_of_white" title="Shades of white">White</a></li>
+<li><a href="/wiki/Shades_of_gray" title="Shades of gray">Gray</a></li>
+<li><a href="/wiki/Shades_of_black" title="Shades of black">Black</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Colorimetry" title="Colorimetry">Color science</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Color physics</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Electromagnetic_spectrum" title="Electromagnetic spectrum">Electromagnetic spectrum</a>
+<ul>
+<li><a href="/wiki/Light" title="Light">Light</a></li>
+<li><a href="/wiki/Rainbow" title="Rainbow">Rainbow</a></li>
+<li><a href="/wiki/Visible_spectrum" title="Visible spectrum">Visible</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Spectral_color" title="Spectral color">Spectral colors</a></li>
+<li><a href="/wiki/Chromophore" title="Chromophore">Chromophore</a>
+<ul>
+<li><a href="/wiki/Structural_coloration" title="Structural coloration">Structural coloration</a></li>
+<li><a href="/wiki/Animal_coloration" title="Animal coloration">Animal coloration</a></li>
+</ul>
+</li>
+<li><a href="/wiki/On_Vision_and_Colors" title="On Vision and Colors">On Vision and Colors</a></li>
+<li><a href="/wiki/Metamerism_(color)" title="Metamerism (color)">Metamerism</a>
+<ul>
+<li><a href="/wiki/Spectral_power_distribution" title="Spectral power distribution">Spectral power distribution</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Color perception</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Color_vision" title="Color vision">Color vision</a>
+<ul>
+<li><a href="/wiki/Color_blindness" title="Color blindness">Color blindness</a>
+<ul>
+<li><a href="/wiki/Achromatopsia" title="Achromatopsia">Achromatopsia</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Ishihara_test" title="Ishihara test">test</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Tetrachromacy" title="Tetrachromacy">Tetrachromacy</a>
+<ul>
+<li><a href="/wiki/Color_constancy" title="Color constancy">Color constancy</a></li>
+<li><a href="/wiki/Color_term" title="Color term">Color term</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Color_depth" title="Color depth">Color depth</a>
+<ul>
+<li><a href="/wiki/Color_photography" title="Color photography">Color photography</a></li>
+<li><a href="/wiki/Spot_color" title="Spot color">Spot color</a></li>
+<li><a href="/wiki/Color_printing" title="Color printing">Color printing</a></li>
+<li><a href="/wiki/Web_colors" title="Web colors">Web colors</a></li>
+<li><a href="/wiki/Color_mapping" title="Color mapping">Color mapping</a></li>
+<li><a href="/wiki/Color_code" title="Color code">Color code</a></li>
+<li><a href="/wiki/Color_management" title="Color management">Color management</a></li>
+<li><a href="/wiki/Chrominance" title="Chrominance">Chrominance</a></li>
+<li><a href="/wiki/False_color" title="False color">False color</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Chroma_key" title="Chroma key">Chroma key</a></li>
+<li><a href="/wiki/Color_balance" title="Color balance">Color balance</a></li>
+<li><a href="/wiki/Colour_cast" title="Colour cast">Color cast</a></li>
+<li><a href="/wiki/Color_temperature" title="Color temperature">Color temperature</a></li>
+<li><a href="/wiki/Eigengrau" title="Eigengrau">Eigengrau</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Color_psychology" title="Color psychology">Color psychology</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Color_symbolism" title="Color symbolism">Color symbolism</a></li>
+<li><a href="/wiki/Color_preferences" title="Color preferences">Color preferences</a></li>
+<li><a href="/wiki/L%C3%BCscher_color_test" title="Lüscher color test">Lüscher color test</a></li>
+<li><a href="/wiki/Kruithof_curve" title="Kruithof curve">Kruithof curve</a></li>
+<li><a href="/wiki/Political_color" class="mw-redirect" title="Political color">Political color</a></li>
+<li><a href="/wiki/National_colors" class="mw-redirect" title="National colors">National colors</a></li>
+<li><a href="/wiki/Chromophobia" title="Chromophobia">Chromophobia</a></li>
+<li><a href="/wiki/Chromotherapy" title="Chromotherapy">Chromotherapy</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+<td class="navbox-image" rowspan="6" style="width:1px;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:RBG_color_wheel.svg" class="image"><img alt="RBG color wheel.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RBG_color_wheel.svg/100px-RBG_color_wheel.svg.png" width="100" height="83" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RBG_color_wheel.svg/150px-RBG_color_wheel.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RBG_color_wheel.svg/200px-RBG_color_wheel.svg.png 2x" data-file-width="600" data-file-height="500" /></a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Philosophy_of_color" title="Philosophy of color">Color<br />
+philosophy</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Color_space" title="Color space">Color space</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Color_model" title="Color model">Color model</a>
+<ul>
+<li><a href="/wiki/Additive_color" title="Additive color">additive</a></li>
+<li><a href="/wiki/Subtractive_color" title="Subtractive color">subtractive</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Color_mixing" title="Color mixing">Color mixing</a>
+<ul>
+<li><a href="/wiki/Primary_color" title="Primary color">Primary color</a></li>
+<li><a href="/wiki/Secondary_color" title="Secondary color">Secondary color</a></li>
+<li><a href="/wiki/Tertiary_color" title="Tertiary color">Tertiary color (intermediate)</a></li>
+<li><a href="/wiki/Tertiary_color#Tertiary-_and_quaternary-color_terms" title="Tertiary color">Quaternary color</a></li>
+<li><a href="/wiki/Tertiary_color#Tertiary-_and_quaternary-color_terms" title="Tertiary color">Quinary color</a></li>
+<li><a href="/wiki/Color_theory#Warm_vs._cool_colors" title="Color theory">Aggressive color (warm)</a></li>
+<li><a href="/wiki/Color_theory#Warm_vs._cool_colors" title="Color theory">Receding color (cool)</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Pastel_(color)" title="Pastel (color)">Pastel colors</a></li>
+<li><a href="/wiki/Color_gradient" title="Color gradient">Color gradient</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Color_scheme" title="Color scheme">Color scheme</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Color_tool" class="mw-redirect" title="Color tool">Color tool</a>
+<ul>
+<li><a href="/wiki/Monochromatic_color" title="Monochromatic color">Monochromatic colors</a></li>
+<li><a href="/wiki/Complementary_colors" title="Complementary colors">Complementary colors</a></li>
+<li><a href="/wiki/Analogous_colors" title="Analogous colors">Analogous colors</a></li>
+<li><a href="/wiki/Grey" title="Grey">Achromatic colors (Neutral)</a></li>
+<li><a href="/wiki/Polychrome" title="Polychrome">Polychromatic colors</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Impossible_color" title="Impossible color">Impossible colors</a></li>
+<li><a href="/wiki/Light-on-dark_color_scheme" title="Light-on-dark color scheme">Light-on-dark</a></li>
+<li><a href="/wiki/Tincture_(heraldry)" title="Tincture (heraldry)">Tinctures in heraldry</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Color_theory" title="Color theory">Color theory</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Chromaticity" title="Chromaticity">Chromaticity diagram</a></li>
+<li><a href="/wiki/Color_solid" title="Color solid">Color solid</a></li>
+<li><a href="/wiki/Color_wheel" title="Color wheel">Color wheel</a></li>
+<li><a href="/wiki/Color_triangle" title="Color triangle">Color triangle</a></li>
+<li><a href="/wiki/Color_analysis_(art)" title="Color analysis (art)">Color analysis (art)</a></li>
+<li><a href="/wiki/Color_realism_(art_style)" title="Color realism (art style)">Color realism (art style)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Color_term" title="Color term">Color terms</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Basic_color_term" class="mw-redirect" title="Basic color term">Basic terms</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Blue" title="Blue">Blue</a></li>
+<li><a href="/wiki/Green" title="Green">Green</a></li>
+<li><a href="/wiki/Red" title="Red">Red</a></li>
+<li><a href="/wiki/Yellow" title="Yellow">Yellow</a></li>
+<li><a href="/wiki/Pink" title="Pink">Pink</a></li>
+<li><a href="/wiki/Purple" title="Purple">Purple</a></li>
+<li><a href="/wiki/Orange_(colour)" title="Orange (colour)">Orange</a></li>
+<li><a href="/wiki/Black" title="Black">Black</a></li>
+<li><a href="/wiki/Grey" title="Grey">Gray</a></li>
+<li><a href="/wiki/White" title="White">White</a></li>
+<li><a href="/wiki/Brown" title="Brown">Brown</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Category:Color_in_culture" title="Category:Color in culture">Cultural differences</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Linguistic_relativity_and_the_color_naming_debate" title="Linguistic relativity and the color naming debate">Linguistic relativity and the color naming debate</a>
+<ul>
+<li><a href="/wiki/Blue%E2%80%93green_distinction_in_language" title="Blue–green distinction in language">Blue–green distinction in language</a></li>
+</ul>
+</li>
+<li>Color history
+<ul>
+<li><a href="/wiki/Color_in_Chinese_culture" title="Color in Chinese culture">Color in Chinese culture</a></li>
+<li><a href="/wiki/Traditional_colors_of_Japan" title="Traditional colors of Japan">Traditional colors of Japan</a></li>
+<li><a href="/wiki/Human_skin_color" title="Human skin color">Human skin color</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Color dimensions</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hue" title="Hue">Hue</a>
+<ul>
+<li><a href="/wiki/Dichromatism" title="Dichromatism">Dichromatism</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Colorfulness" title="Colorfulness">Colorfulness (chroma and saturation)</a></li>
+<li><a href="/wiki/Tints_and_shades" title="Tints and shades">Tints and shades</a></li>
+<li><a href="/wiki/Lightness" title="Lightness">Lightness (tone and value)</a></li>
+<li><a href="/wiki/Grayscale" title="Grayscale">Grayscale</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Color<br />
+organizations</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Pantone" title="Pantone">Pantone</a></li>
+<li><a href="/wiki/Color_Marketing_Group" title="Color Marketing Group">Color Marketing Group</a></li>
+<li><a href="/wiki/The_Color_Association_of_the_United_States" title="The Color Association of the United States">The Color Association of the United States</a></li>
+<li><a href="/wiki/International_Colour_Authority" title="International Colour Authority">International Colour Authority</a></li>
+<li><a href="/wiki/International_Commission_on_Illumination" title="International Commission on Illumination">International Commission on Illumination (CIE)</a></li>
+<li><a href="/wiki/International_Color_Consortium" title="International Color Consortium">International Color Consortium</a></li>
+<li><a href="/wiki/International_Colour_Association" title="International Colour Association">International Colour Association</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Lists_of_colors" title="Lists of colors">Lists</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_colors:_A%E2%80%93F" title="List of colors: A–F">List of colors: A–F</a></li>
+<li><a href="/wiki/List_of_colors:_G%E2%80%93M" title="List of colors: G–M">List of colors: G–M</a></li>
+<li><a href="/wiki/List_of_colors:_N%E2%80%93Z" title="List of colors: N–Z">List of colors: N–Z</a></li>
+<li><a href="/wiki/List_of_colors_(compact)" title="List of colors (compact)">List of colors (compact)</a></li>
+<li><a href="/wiki/List_of_colors_by_shade" title="List of colors by shade">List of colors by shade</a></li>
+<li><a href="/wiki/List_of_color_palettes" title="List of color palettes">List of color palettes</a></li>
+<li><a href="/wiki/List_of_color_spaces_and_their_uses" title="List of color spaces and their uses">List of color spaces</a></li>
+<li><a href="/wiki/List_of_Crayola_crayon_colors" title="List of Crayola crayon colors">List of Crayola crayon colors</a>
+<ul>
+<li><a href="/wiki/History_of_Crayola_crayons" title="History of Crayola crayons">history</a></li>
+<li><a href="/wiki/List_of_Crayola_colored_pencil_colors" title="List of Crayola colored pencil colors">pencil colors</a></li>
+<li><a href="/wiki/List_of_Crayola_marker_colors" title="List of Crayola marker colors">marker colors</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Color_chart" title="Color chart">Color chart</a></li>
+<li><a href="/wiki/List_of_fictional_colors" title="List of fictional colors">List of fictional colors</a></li>
+<li><a href="/wiki/List_of_RAL_colors" title="List of RAL colors">List of RAL colors</a></li>
+<li><a href="/wiki/Web_colors" title="Web colors">List of web colors</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Index_of_color-related_articles" title="Index of color-related articles">Related</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Visual_perception" title="Visual perception">Vision</a></li>
+<li><a href="/wiki/Image_processing" class="mw-redirect" title="Image processing">Image processing</a></li>
+<li><a href="/wiki/Multi-primary_color_display" title="Multi-primary color display">Multi-primary color display</a>
+<ul>
+<li><a href="/wiki/Quattron" title="Quattron">Quattron</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Qualia" title="Qualia">Qualia</a></li>
+<li><a href="/wiki/Lighting" title="Lighting">Lighting</a></li>
+<li><a href="/wiki/Local_color_(visual_art)" title="Local color (visual art)">Local color (visual art)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <b><a href="/wiki/Category:Color" title="Category:Color">Category</a></b></li>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <b><a href="/wiki/Portal:Color" title="Portal:Color">Portal</a></b></li>
+<li><a href="/wiki/Index_of_color-related_articles" title="Index of color-related articles">Index of color-related articles</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1193
+Cached time: 20171010081531
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.624 seconds
+Real time usage: 0.799 seconds
+Preprocessor visited node count: 9120/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 230656/2097152 bytes
+Template argument size: 18372/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 43/500
+Lua time usage: 0.152/10.000 seconds
+Lua memory usage: 3.96 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  623.709      1 -total
+ 32.75%  204.275      8 Template:Navbox
+ 27.47%  171.345      4 Template:Shades_of_color
+ 20.91%  130.397     28 Template:Shades_of_color/10
+ 19.01%  118.544      1 Template:Reflist
+ 12.64%   78.807      3 Template:Infobox_color
+ 12.38%   77.195      1 Template:Shades_of_red
+ 11.71%   73.037      3 Template:Infobox
+ 11.31%   70.511    160 Template:Shades_of_color/link
+  7.67%   47.816      1 Template:Shades_of_magenta
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:46408-0!canonical and timestamp 20171010081557 and revision id 804642940
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Magenta&amp;oldid=804642940">https://en.wikipedia.org/w/index.php?title=Magenta&amp;oldid=804642940</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Shades_of_magenta" title="Category:Shades of magenta">Shades of magenta</a></li><li><a href="/wiki/Category:Shades_of_pink" title="Category:Shades of pink">Shades of pink</a></li><li><a href="/wiki/Category:Shades_of_red" title="Category:Shades of red">Shades of red</a></li><li><a href="/wiki/Category:Shades_of_violet" title="Category:Shades of violet">Shades of violet</a></li><li><a href="/wiki/Category:Optical_spectrum" title="Category:Optical spectrum">Optical spectrum</a></li><li><a href="/wiki/Category:Color" title="Category:Color">Color</a></li><li><a href="/wiki/Category:Rainbow" title="Category:Rainbow">Rainbow</a></li><li><a href="/wiki/Category:Web_colors" title="Category:Web colors">Web colors</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Magenta" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Magenta" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Magenta" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:Magenta" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Magenta">Read</a></span></li>
+							<li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Magenta&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Magenta&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Magenta" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Magenta" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Magenta&amp;oldid=804642940" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Magenta&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3276756" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Magenta&amp;id=804642940" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Magenta">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Magenta&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Magenta&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Magenta_(colour)" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Magenta_(kleur)" title="Magenta (kleur) – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%85%D8%A7%D8%AC%D9%86%D8%AA%D9%8A" title="ماجنتي – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Magenta" title="Magenta – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li><li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D8%A2%DA%86%DB%8C%D9%82_%D8%A8%D9%86%D8%A4%D8%B4%D9%87%E2%80%8C%DB%8C%DB%8C" title="آچیق بنؤشه‌یی – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%AE%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BE" title="ম্যাজেন্টা – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B4%D0%B6%D1%8D%D0%BD%D1%82%D0%B0" title="Маджэнта – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B4%D0%B6%D0%B5%D0%BD%D1%82%D0%B0_(%D1%86%D0%B2%D1%8F%D1%82)" title="Маджента (цвят) – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Magenta_(liv)" title="Magenta (liv) – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Magenta" title="Magenta – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Purpurov%C3%A1" title="Purpurová – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Magenta" title="Magenta – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Magenta_(Farbe)" title="Magenta (Farbe) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%9C%CE%B1%CF%84%CE%B6%CE%AD%CE%BD%CF%84%CE%B1" title="Ματζέντα – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Magenta" title="Magenta – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Ma%C4%9Dento" title="Maĝento – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Magenta" title="Magenta – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D8%AE%D8%A7%D8%A8%DB%8C" title="سرخابی – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Magenta_(couleur)" title="Magenta (couleur) – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Maxenta" title="Maxenta – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%A7%88%EC%A0%A0%ED%83%80" title="마젠타 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B0%E0%A4%BE%E0%A4%A8%E0%A5%80_(%E0%A4%B0%E0%A4%82%E0%A4%97)" title="रानी (रंग) – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Magenta" title="Magenta – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Magenta" title="Magenta – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Magenta_(colore)" title="Magenta (colore) – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%9E%D7%92%27%D7%A0%D7%98%D7%94" title="מג'נטה – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/Mag%C3%A9nta" title="Magénta – Javanese" lang="jv" hreflang="jv" class="interlanguage-link-target">Basa Jawa</a></li><li class="interlanguage-link interwiki-lb"><a href="https://lb.wikipedia.org/wiki/Magenta" title="Magenta – Luxembourgish" lang="lb" hreflang="lb" class="interlanguage-link-target">Lëtzebuergesch</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B3%D0%B5%D0%BD%D1%82%D0%B0" title="Магента – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Magenta" title="Magenta – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Magenta_(kleur)" title="Magenta (kleur) – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%BC%E3%83%B3%E3%82%BF" title="マゼンタ – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Magenta" title="Magenta – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Magenta_(color)" title="Magenta (color) – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Magenta_(barwa)" title="Magenta (barwa) – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Magenta" title="Magenta – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Magenta" title="Magenta – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B4%D0%B6%D0%B5%D0%BD%D1%82%D0%B0_(%D1%86%D0%B2%D0%B5%D1%82)" title="Маджента (цвет) – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Magenta" title="Magenta – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Ngjyra_magent%C3%AB" title="Ngjyra magentë – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Magenta" title="Magenta – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-so"><a href="https://so.wikipedia.org/wiki/Basli_(midab)" title="Basli (midab) – Somali" lang="so" hreflang="so" class="interlanguage-link-target">Soomaaliga</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Magenta" title="Magenta – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Magenta" title="Magenta – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Magenta" title="Magenta – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Mahenta" title="Mahenta – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Galibarda" title="Galibarda – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B4%D0%B6%D0%B5%D0%BD%D1%82%D0%B0_%D0%BA%D0%BE%D0%BB%D1%96%D1%80" title="Маджента колір – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-yi"><a href="https://yi.wikipedia.org/wiki/%D7%9E%D7%90%D7%93%D7%96%D7%A9%D7%A2%D7%A0%D7%98%D7%90" title="מאדזשענטא – Yiddish" lang="yi" hreflang="yi" class="interlanguage-link-target">ייִדיש</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E6%A1%83%E7%B4%85" title="桃紅 – Cantonese" lang="zh-yue" hreflang="zh-yue" class="interlanguage-link-target">粵語</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%B4%8B%E7%B4%85%E8%89%B2" title="洋紅色 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>					</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3276756#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 10 October 2017, at 08:15.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Magenta&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.624","walltime":"0.799","ppvisitednodes":{"value":9120,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":230656,"limit":2097152},"templateargumentsize":{"value":18372,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":43,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  623.709      1 -total"," 32.75%  204.275      8 Template:Navbox"," 27.47%  171.345      4 Template:Shades_of_color"," 20.91%  130.397     28 Template:Shades_of_color/10"," 19.01%  118.544      1 Template:Reflist"," 12.64%   78.807      3 Template:Infobox_color"," 12.38%   77.195      1 Template:Shades_of_red"," 11.71%   73.037      3 Template:Infobox"," 11.31%   70.511    160 Template:Shades_of_color/link","  7.67%   47.816      1 Template:Shades_of_magenta"]},"scribunto":{"limitreport-timeusage":{"value":"0.152","limit":"10.000"},"limitreport-memusage":{"value":4148531,"limit":52428800}},"cachereport":{"origin":"mw1193","timestamp":"20171010081531","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":71,"wgHostname":"mw1240"});});</script>
+	</body>
+</html>

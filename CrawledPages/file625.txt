@@ -1,0 +1,814 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>List of Harvard College freshman dormitories - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"List_of_Harvard_College_freshman_dormitories","wgTitle":"List of Harvard College freshman dormitories","wgCurRevisionId":805909238,"wgRevisionId":805909238,"wgArticleId":29631120,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from February 2015","Articles needing additional references from January 2014","All articles needing additional references","Articles needing more detailed references","Harvard University-related lists","Harvard Freshman Dormitories"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"List_of_Harvard_College_freshman_dormitories","wgRelevantArticleId":29631120,"wgRequestId":"Wee0MgpAEKYAAF9Pgw0AAACT","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"List_of_Harvard_dormitories","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/List_of_Harvard_College_freshman_dormitories","wgWikibaseItemId":"Q6572909","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cskins.vector.styles.experimental.print%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.3"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/List_of_Harvard_College_freshman_dormitories"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=List_of_Harvard_College_freshman_dormitories&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=List_of_Harvard_College_freshman_dormitories&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/List_of_Harvard_College_freshman_dormitories"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-List_of_Harvard_College_freshman_dormitories rootpage-List_of_Harvard_College_freshman_dormitories vector-experimental-print-styles vector-nav-directionality skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">List of Harvard College freshman dormitories</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a href="/w/index.php?title=List_of_Harvard_dormitories&amp;redirect=no" class="mw-redirect" title="List of Harvard dormitories">List of Harvard dormitories</a>)</span></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=List_of_Harvard_College_freshman_dormitories&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(January 2014)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<p>This is a list of dormitories at <a href="/wiki/Harvard_College" title="Harvard College">Harvard College</a>. Only freshmen live in these dormitories, which are located in and around <a href="/wiki/Harvard_Yard" title="Harvard Yard">Harvard Yard</a>. Sophomores, juniors and seniors live in the <a href="/wiki/Harvard_College#House_system" title="Harvard College">House system</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Apley_Court"><span class="tocnumber">1</span> <span class="toctext">Apley Court</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Canaday_Hall"><span class="tocnumber">2</span> <span class="toctext">Canaday Hall</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Grays_Hall"><span class="tocnumber">3</span> <span class="toctext">Grays Hall</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Greenough_Hall"><span class="tocnumber">4</span> <span class="toctext">Greenough Hall</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Hollis_Hall"><span class="tocnumber">5</span> <span class="toctext">Hollis Hall</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Holworthy_Hall"><span class="tocnumber">6</span> <span class="toctext">Holworthy Hall</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Hurlbut_Hall"><span class="tocnumber">7</span> <span class="toctext">Hurlbut Hall</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Lionel_Hall"><span class="tocnumber">8</span> <span class="toctext">Lionel Hall</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Massachusetts_Hall"><span class="tocnumber">9</span> <span class="toctext">Massachusetts Hall</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Matthews_Hall"><span class="tocnumber">10</span> <span class="toctext">Matthews Hall</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Mower_Hall"><span class="tocnumber">11</span> <span class="toctext">Mower Hall</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Pennypacker_Hall"><span class="tocnumber">12</span> <span class="toctext">Pennypacker Hall</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Stoughton_Hall"><span class="tocnumber">13</span> <span class="toctext">Stoughton Hall</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Straus_Hall"><span class="tocnumber">14</span> <span class="toctext">Straus Hall</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Thayer_Hall"><span class="tocnumber">15</span> <span class="toctext">Thayer Hall</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#Weld_Hall"><span class="tocnumber">16</span> <span class="toctext">Weld Hall</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#Wigglesworth_Hall"><span class="tocnumber">17</span> <span class="toctext">Wigglesworth Hall</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#Sources"><span class="tocnumber">18</span> <span class="toctext">Sources</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#References"><span class="tocnumber">19</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Apley_Court">Apley Court</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Harvard_College_freshman_dormitories&amp;action=edit&amp;section=1" title="Edit section: Apley Court">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><b>Apley Court</b> – Rooms are the most spacious of the freshman dorms. Past notable residents include <a href="/wiki/T._S._Eliot" title="T. S. Eliot">T. S. Eliot</a>. Formerly part of Adams House, Apley Court is the only Gold Coast era freshman dormitory—constructed in 1897 as part of a series of luxurious apartments built on Holyoke Street. Accommodations include marble bathrooms, private in-suite showers, multiple walk in closets, and two common rooms in the basement.</p>
+<h2><span class="mw-headline" id="Canaday_Hall">Canaday Hall</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Harvard_College_freshman_dormitories&amp;action=edit&amp;section=2" title="Edit section: Canaday Hall">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Canaday_Hall,_Harvard_-_IMG_6629.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Canaday_Hall%2C_Harvard_-_IMG_6629.JPG/220px-Canaday_Hall%2C_Harvard_-_IMG_6629.JPG" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Canaday_Hall%2C_Harvard_-_IMG_6629.JPG/330px-Canaday_Hall%2C_Harvard_-_IMG_6629.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Canaday_Hall%2C_Harvard_-_IMG_6629.JPG/440px-Canaday_Hall%2C_Harvard_-_IMG_6629.JPG 2x" data-file-width="3264" data-file-height="2448" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Canaday_Hall,_Harvard_-_IMG_6629.JPG" class="internal" title="Enlarge"></a></div>
+Canaday Hall</div>
+</div>
+</div>
+<p><b>Canaday Hall</b> – Completed in 1974, it is the newest dormitory in <a href="/wiki/Harvard_Yard" title="Harvard Yard">Harvard Yard</a>. Seen from the air its seven buildings resemble a question mark. It is named after Ward M. Canaday, former president and major shareholder of the <a href="/wiki/Willys" title="Willys">Willys</a>, manufacturer of <a href="/wiki/Jeep" title="Jeep">Jeeps</a> during <a href="/wiki/World_War_II" title="World War II">World War II</a>.</p>
+<p>Canaday's construction immediately followed the 1969 student takeover of <a href="/wiki/University_Hall_(Harvard_University)" title="University Hall (Harvard University)">University Hall</a>;<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> certain features of its design were meant to confound student organizing. There is a Muslim prayer space in the basement. <sup id="cite_ref-prayer-space_2-0" class="reference"><a href="#cite_note-prayer-space-2">[2]</a></sup></p>
+<p>Residents have included <a href="/wiki/Charles_Lane_(journalist)" title="Charles Lane (journalist)">Charles Lane</a>, <a href="/wiki/Eduardo_Saverin" title="Eduardo Saverin">Eduardo Saverin</a>, <a href="/wiki/Esther_Lofgren" title="Esther Lofgren">Esther Lofgren</a>, <a href="/wiki/Ben_Mezrich" title="Ben Mezrich">Ben Mezrich</a>, <a href="/wiki/David_Sacks" title="David Sacks">David Sacks</a>, <a href="/wiki/Mira_Sorvino" title="Mira Sorvino">Mira Sorvino</a>, and <a href="/wiki/Paul_Wylie" title="Paul Wylie">Paul Wylie</a>.<sup id="cite_ref-search_3-0" class="reference"><a href="#cite_note-search-3">[3]</a></sup></p>
+<h2><span class="mw-headline" id="Grays_Hall">Grays Hall</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Harvard_College_freshman_dormitories&amp;action=edit&amp;section=3" title="Edit section: Grays Hall">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:152px;"><a href="/wiki/File:Grays_Hall_-_Harvard.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Grays_Hall_-_Harvard.jpg/150px-Grays_Hall_-_Harvard.jpg" width="150" height="119" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Grays_Hall_-_Harvard.jpg/225px-Grays_Hall_-_Harvard.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Grays_Hall_-_Harvard.jpg/300px-Grays_Hall_-_Harvard.jpg 2x" data-file-width="713" data-file-height="564" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Grays_Hall_-_Harvard.jpg" class="internal" title="Enlarge"></a></div>
+Grays Hall</div>
+</div>
+</div>
+<p><b>Grays Hall</b> – Opened in 1863, Grays became the College's first building with water taps in the basement. (Residents of other buildings in Harvard Yard had to haul water from pumps in the Yard.) Known as "The Harvard Hilton",<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> it is considered the most luxurious dormitory in the Yard.<sup id="cite_ref-JFKslept_5-0" class="reference"><a href="#cite_note-JFKslept-5">[5]</a></sup></p>
+<p>Past residents include <a href="/wiki/Jeff_Bingaman" title="Jeff Bingaman">Jeff Bingaman</a>, <a href="/wiki/Michael_Cohrs" title="Michael Cohrs">Michael Cohrs</a>, <a href="/wiki/Jeremy_Doner" title="Jeremy Doner">Jeremy Doner</a>, <a href="/wiki/Ryan_Fitzpatrick" title="Ryan Fitzpatrick">Ryan Fitzpatrick</a>, <a href="/wiki/Julie_Hilden" title="Julie Hilden">Julie Hilden</a>, <a href="/wiki/Norman_Mailer" title="Norman Mailer">Norman Mailer</a>, <a href="/wiki/Malia_Obama" class="mw-redirect" title="Malia Obama">Malia Obama</a>, <a href="/wiki/Natalie_Portman" title="Natalie Portman">Natalie Portman</a>, <a href="/wiki/Joseph_Ransohoff" title="Joseph Ransohoff">Joseph Ransohoff</a>, <a href="/wiki/Frank_Rich" title="Frank Rich">Frank Rich</a>, <a href="/wiki/Mo_Rocca" title="Mo Rocca">Mo Rocca</a>, <a href="/wiki/John_Weidman" title="John Weidman">John Weidman</a>, and <a href="/wiki/Michael_Weishan" title="Michael Weishan">Michael Weishan</a>.</p>
+<h2><span class="mw-headline" id="Greenough_Hall">Greenough Hall</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Harvard_College_freshman_dormitories&amp;action=edit&amp;section=4" title="Edit section: Greenough Hall">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><b>Greenough Hall</b> – Located just outside the confines of Harvard Yard, Greenough is part of a group of dormitories outside the Yard called the "Union Dormitories". Past notable residents include <a href="/wiki/Elliott_Abrams" title="Elliott Abrams">Elliott Abrams</a>, <a href="/wiki/Bill_Kristol" class="mw-redirect" title="Bill Kristol">Bill Kristol</a>, <a href="/wiki/Wallace_Shawn" title="Wallace Shawn">Wallace Shawn</a>, <a href="/wiki/Laurence_Tribe" title="Laurence Tribe">Laurence Tribe</a> and <a href="/wiki/Colin_Jost" title="Colin Jost">Colin Jost</a>.</p>
+<h2><span class="mw-headline" id="Hollis_Hall">Hollis Hall</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Harvard_College_freshman_dormitories&amp;action=edit&amp;section=5" title="Edit section: Hollis Hall">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:152px;"><a href="/wiki/File:Hollis_Hall,_Harvard_University_-_080019pv.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Hollis_Hall%2C_Harvard_University_-_080019pv.jpg/150px-Hollis_Hall%2C_Harvard_University_-_080019pv.jpg" width="150" height="120" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Hollis_Hall%2C_Harvard_University_-_080019pv.jpg/225px-Hollis_Hall%2C_Harvard_University_-_080019pv.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/29/Hollis_Hall%2C_Harvard_University_-_080019pv.jpg/300px-Hollis_Hall%2C_Harvard_University_-_080019pv.jpg 2x" data-file-width="1024" data-file-height="821" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Hollis_Hall,_Harvard_University_-_080019pv.jpg" class="internal" title="Enlarge"></a></div>
+Hollis Hall in 1934</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:152px;"><a href="/wiki/File:Hollis_Hall,_Harvard_University.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Hollis_Hall%2C_Harvard_University.JPG/150px-Hollis_Hall%2C_Harvard_University.JPG" width="150" height="113" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Hollis_Hall%2C_Harvard_University.JPG/225px-Hollis_Hall%2C_Harvard_University.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Hollis_Hall%2C_Harvard_University.JPG/300px-Hollis_Hall%2C_Harvard_University.JPG 2x" data-file-width="2560" data-file-height="1920" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Hollis_Hall,_Harvard_University.JPG" class="internal" title="Enlarge"></a></div>
+Hollis Hall in 2007</div>
+</div>
+</div>
+<p><b>Hollis Hall</b> – Built in 1763, Hollis is one of the oldest buildings at Harvard, and housed George Washington's troops during the <a href="/wiki/American_Revolution" title="American Revolution">American Revolution</a>. Past residents include <a href="/wiki/Charles_Francis_Adams,_Sr." class="mw-redirect" title="Charles Francis Adams, Sr.">Charles Francis Adams, Sr.</a>, <a href="/wiki/Horatio_Alger,_Jr." class="mw-redirect" title="Horatio Alger, Jr.">Horatio Alger, Jr.</a>, <a href="/wiki/Jim_Cramer" title="Jim Cramer">Jim Cramer</a>, <a href="/wiki/Ralph_Waldo_Emerson" title="Ralph Waldo Emerson">Ralph Waldo Emerson</a>, <a href="/wiki/Edward_Everett" title="Edward Everett">Edward Everett</a>, <a href="/wiki/Boisfeuillet_Jones,_Jr." class="mw-redirect" title="Boisfeuillet Jones, Jr.">Boisfeuillet Jones, Jr.</a>, <a href="/wiki/Joseph_P._Kennedy,_Sr." class="mw-redirect" title="Joseph P. Kennedy, Sr.">Joseph P. Kennedy, Sr.</a>, <a href="/wiki/Wendell_Phillips" title="Wendell Phillips">Wendell Phillips</a>, <a href="/wiki/Henry_David_Thoreau" title="Henry David Thoreau">Henry David Thoreau</a>, <a href="/wiki/George_Santayana" title="George Santayana">George Santayana</a>, <a href="/wiki/Charles_Sumner" title="Charles Sumner">Charles Sumner</a>, <a href="/wiki/John_Updike" title="John Updike">John Updike</a>, and <a href="/wiki/William_Weld" class="mw-redirect" title="William Weld">William Weld</a>.</p>
+<h2><span class="mw-headline" id="Holworthy_Hall">Holworthy Hall</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Harvard_College_freshman_dormitories&amp;action=edit&amp;section=6" title="Edit section: Holworthy Hall">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:152px;"><a href="/wiki/File:Holworthy_Hall,_Harvard_University.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Holworthy_Hall%2C_Harvard_University.JPG/150px-Holworthy_Hall%2C_Harvard_University.JPG" width="150" height="113" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Holworthy_Hall%2C_Harvard_University.JPG/225px-Holworthy_Hall%2C_Harvard_University.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Holworthy_Hall%2C_Harvard_University.JPG/300px-Holworthy_Hall%2C_Harvard_University.JPG 2x" data-file-width="2560" data-file-height="1920" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Holworthy_Hall,_Harvard_University.JPG" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Holworthy_Hall" title="Holworthy Hall">Holworthy Hall</a></div>
+</div>
+</div>
+<p><b><a href="/wiki/Holworthy_Hall" title="Holworthy Hall">Holworthy Hall</a></b> – Holworthy was built in 1812 and was named after Sir Matthew Holworthy, a wealthy merchant who made what was, at the time, the largest donation to Harvard in its history. Past residents include <a href="/wiki/Horatio_Alger,_Jr." class="mw-redirect" title="Horatio Alger, Jr.">Horatio Alger, Jr.</a>, <a href="/wiki/David_Halberstam" title="David Halberstam">David Halberstam</a>, <a href="/wiki/Christian_Herter" title="Christian Herter">Christian Herter</a>, <a href="/wiki/Conan_O%27Brien" title="Conan O'Brien">Conan O'Brien</a>, <a href="/wiki/Sumner_Redstone" title="Sumner Redstone">Sumner Redstone</a>, <a href="/wiki/Henry_Hobson_Richardson" title="Henry Hobson Richardson">Henry Hobson Richardson</a>, <a href="/wiki/Noah_Welch" title="Noah Welch">Noah Welch</a>, <a href="/wiki/Cornel_West" title="Cornel West">Cornel West</a>, and <a href="/wiki/Jeff_Zucker" title="Jeff Zucker">Jeff Zucker</a>.</p>
+<h2><span class="mw-headline" id="Hurlbut_Hall">Hurlbut Hall</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Harvard_College_freshman_dormitories&amp;action=edit&amp;section=7" title="Edit section: Hurlbut Hall">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><b>Hurlbut Hall</b> – Another "Union" dormitory, named after Byron Hurlbut, a former Dean of Harvard College.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></p>
+<p>Past notable residents include <a href="/wiki/James_Blake_(tennis)" title="James Blake (tennis)">James Blake</a>, <a href="/wiki/Roger_W._Ferguson,_Jr." class="mw-redirect" title="Roger W. Ferguson, Jr.">Roger W. Ferguson, Jr.</a>, <a href="/wiki/Amory_Lovins" title="Amory Lovins">Amory Lovins</a>, <a href="/wiki/Roger_Myerson" title="Roger Myerson">Roger Myerson</a>, and <a href="/wiki/Elizabeth_Wurtzel" title="Elizabeth Wurtzel">Elizabeth Wurtzel</a>.</p>
+<h2><span class="mw-headline" id="Lionel_Hall">Lionel Hall</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Harvard_College_freshman_dormitories&amp;action=edit&amp;section=8" title="Edit section: Lionel Hall">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><b>Lionel Hall</b> – Lionel (built 1925)<sup id="cite_ref-bricks_7-0" class="reference"><a href="#cite_note-bricks-7">[7]</a></sup><sup class="reference nowrap">:77</sup> was given by Harvard President <a href="/wiki/A._Lawrence_Lowell" class="mw-redirect" title="A. Lawrence Lowell">A. Lawrence Lowell</a> as a memorial to <a href="/wiki/Lionel_de_Jersey_Harvard" title="Lionel de Jersey Harvard">Lionel de Jersey Harvard</a>, the first relative of John Harvard to attend Harvard, and who was killed in World War I. Past residents include <a href="/wiki/Peter_Benchley" title="Peter Benchley">Peter Benchley</a>, <a href="/wiki/Lou_Dobbs" title="Lou Dobbs">Lou Dobbs</a>, <a href="/wiki/Kevin_Kallaugher" title="Kevin Kallaugher">Kevin Kallaugher</a>, <a href="/wiki/Grover_Norquist" title="Grover Norquist">Grover Norquist</a>, <a href="/wiki/Endicott_Peabody" title="Endicott Peabody">Endicott Peabody</a>, and <a href="/wiki/Erich_Segal" title="Erich Segal">Erich Segal</a>.</p>
+<h2><span class="mw-headline" id="Massachusetts_Hall">Massachusetts Hall</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Harvard_College_freshman_dormitories&amp;action=edit&amp;section=9" title="Edit section: Massachusetts Hall">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Massachusetts_Hall,_Harvard_University.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Massachusetts_Hall%2C_Harvard_University.JPG/220px-Massachusetts_Hall%2C_Harvard_University.JPG" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Massachusetts_Hall%2C_Harvard_University.JPG/330px-Massachusetts_Hall%2C_Harvard_University.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Massachusetts_Hall%2C_Harvard_University.JPG/440px-Massachusetts_Hall%2C_Harvard_University.JPG 2x" data-file-width="2560" data-file-height="1920" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Massachusetts_Hall,_Harvard_University.JPG" class="internal" title="Enlarge"></a></div>
+Massachusetts Hall</div>
+</div>
+</div>
+<p><b><a href="/wiki/Massachusetts_Hall,_Harvard_University" class="mw-redirect" title="Massachusetts Hall, Harvard University">Massachusetts Hall</a></b> – The oldest surviving building at Harvard and the country's oldest dormitory, Massachusetts Hall is located next to <a href="/wiki/Johnston_Gate" title="Johnston Gate">Johnston Gate</a>. Designed by two Harvard Presidents, <a href="/wiki/John_Leverett_the_Younger" title="John Leverett the Younger">John Leverett</a> and <a href="/wiki/Benjamin_Wadsworth" title="Benjamin Wadsworth">Benjamin Wadsworth</a>, between 1718 and 1720 for the housing of sixty-four students, the building served various functions over the years, including a refuge for American soldiers during the <a href="/wiki/Siege_of_Boston" title="Siege of Boston">Siege of Boston</a>, and an observatory after <a href="/wiki/Thomas_Hollis_(1659%E2%80%931731)" title="Thomas Hollis (1659–1731)">Thomas Hollis</a>' donation of a twenty-four-foot telescope in 1722. Today, it houses the offices of Harvard's President, with a handful of freshmen living on the uppermost floor.</p>
+<p>Five of the United States' <a href="/wiki/Founding_Fathers_of_the_United_States" title="Founding Fathers of the United States">Founding Fathers</a> lived here.<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources"><span title="Statement needs to be more specific about the content to which it refers.">specify</span></a></i>]</sup> Other residents have included <a href="/wiki/Zabdiel_Adams" title="Zabdiel Adams">Zabdiel Adams</a>, <a href="/wiki/John_Harbison" title="John Harbison">John Harbison</a>, <a href="/wiki/Alan_Jay_Lerner" title="Alan Jay Lerner">Alan Jay Lerner</a>, <a href="/wiki/John_Redcliffe-Maud,_Baron_Redcliffe-Maud" title="John Redcliffe-Maud, Baron Redcliffe-Maud">John Redcliffe-Maud</a>, <a href="/wiki/Elliot_Richardson" title="Elliot Richardson">Elliot Richardson</a>, <a href="/wiki/Jared_Sparks" title="Jared Sparks">Jared Sparks</a>, <a href="/wiki/Jones_Very" title="Jones Very">Jones Very</a>, and <a href="/wiki/Edward_Wigglesworth" title="Edward Wigglesworth">Edward Wigglesworth</a>.</p>
+<h2><span class="mw-headline" id="Matthews_Hall">Matthews Hall</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Harvard_College_freshman_dormitories&amp;action=edit&amp;section=10" title="Edit section: Matthews Hall">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><b>Matthews Hall</b> – Past notable residents include <a href="/wiki/Philip_Warren_Anderson" title="Philip Warren Anderson">Philip Warren Anderson</a>, <a href="/wiki/Matt_Birk" title="Matt Birk">Matt Birk</a>, <a href="/wiki/Matt_Damon" title="Matt Damon">Matt Damon</a>, <a href="/wiki/John_Dos_Passos" title="John Dos Passos">John Dos Passos</a>, <a href="/wiki/Maura_Healey" title="Maura Healey">Maura Healey</a>, <a href="/wiki/Barney_Frank" title="Barney Frank">Barney Frank</a>, <a href="/wiki/William_Randolph_Hearst" title="William Randolph Hearst">William Randolph Hearst</a>, <a href="/wiki/Mark_Penn" title="Mark Penn">Mark Penn</a>, <a href="/wiki/Daniel_Quillen" title="Daniel Quillen">Daniel Quillen</a>, <a href="/wiki/Robert_Rubin" title="Robert Rubin">Robert Rubin</a>, <a href="/wiki/Chuck_Schumer" title="Chuck Schumer">Chuck Schumer</a>, <a href="/wiki/Lloyd_Shapley" title="Lloyd Shapley">Lloyd Shapley</a>, and <a href="/wiki/Maurice_Wertheim" title="Maurice Wertheim">Maurice Wertheim</a>.</p>
+<h2><span class="mw-headline" id="Mower_Hall">Mower Hall</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Harvard_College_freshman_dormitories&amp;action=edit&amp;section=11" title="Edit section: Mower Hall">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><b>Mower Hall</b> – Past residents include <a href="/wiki/Timothy_Crouse" title="Timothy Crouse">Timothy Crouse</a>, <a href="/wiki/Al_Franken" title="Al Franken">Al Franken</a>, <a href="/wiki/Al_Gore" title="Al Gore">Al Gore</a>, <a href="/wiki/Edward_Gorey" title="Edward Gorey">Edward Gorey</a>, <a href="/wiki/Tommy_Lee_Jones" title="Tommy Lee Jones">Tommy Lee Jones</a>, <a href="/wiki/Arthur_Kopit" title="Arthur Kopit">Arthur Kopit</a>, <a href="/wiki/Charles_Murray_(political_scientist)" title="Charles Murray (political scientist)">Charles Murray</a>, <a href="/wiki/Thomas_Oliphant" title="Thomas Oliphant">Thomas Oliphant</a>, and <a href="/wiki/Bob_Somerby" class="mw-redirect" title="Bob Somerby">Bob Somerby</a>.</p>
+<h2><span class="mw-headline" id="Pennypacker_Hall">Pennypacker Hall</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Harvard_College_freshman_dormitories&amp;action=edit&amp;section=12" title="Edit section: Pennypacker Hall">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:152px;"><a href="/wiki/File:Pennypacker_Hall_-_Harvard.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/Pennypacker_Hall_-_Harvard.jpg/150px-Pennypacker_Hall_-_Harvard.jpg" width="150" height="113" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/Pennypacker_Hall_-_Harvard.jpg/225px-Pennypacker_Hall_-_Harvard.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/55/Pennypacker_Hall_-_Harvard.jpg/300px-Pennypacker_Hall_-_Harvard.jpg 2x" data-file-width="2048" data-file-height="1536" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Pennypacker_Hall_-_Harvard.jpg" class="internal" title="Enlarge"></a></div>
+Pennypacker Hall</div>
+</div>
+</div>
+<p><b>Pennypacker Hall</b> – Part of the Union Dormitories, Pennypacker is named for Henry Pennypacker, a former president of Harvard's admissions committee. The studios of radio station <a href="/wiki/WHRB" title="WHRB">WHRB (95.3 FM)</a> are in the basement.</p>
+<p>Past residents include <a href="/wiki/Hendrik_Hertzberg" title="Hendrik Hertzberg">Hendrik Hertzberg</a>, <a href="/wiki/Nicholas_D._Kristof" class="mw-redirect" title="Nicholas D. Kristof">Nicholas Kristof</a>, <a href="/wiki/Peter_Sagal" title="Peter Sagal">Peter Sagal</a>, <a href="/wiki/Andrew_Tobias" title="Andrew Tobias">Andrew Tobias</a>, <a href="/wiki/Chris_Wallace_(journalist)" class="mw-redirect" title="Chris Wallace (journalist)">Chris Wallace</a>, and <a href="/wiki/Fernando_Zobel_de_Ayala" title="Fernando Zobel de Ayala">Fernando Zobel de Ayala</a>.</p>
+<h2><span class="mw-headline" id="Stoughton_Hall">Stoughton Hall</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Harvard_College_freshman_dormitories&amp;action=edit&amp;section=13" title="Edit section: Stoughton Hall">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Stoughton_Hall,_Harvard_University.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Stoughton_Hall%2C_Harvard_University.JPG/220px-Stoughton_Hall%2C_Harvard_University.JPG" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Stoughton_Hall%2C_Harvard_University.JPG/330px-Stoughton_Hall%2C_Harvard_University.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/46/Stoughton_Hall%2C_Harvard_University.JPG/440px-Stoughton_Hall%2C_Harvard_University.JPG 2x" data-file-width="2560" data-file-height="1920" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Stoughton_Hall,_Harvard_University.JPG" class="internal" title="Enlarge"></a></div>
+Stoughton Hall</div>
+</div>
+</div>
+<p><b>Stoughton Hall</b> – Stoughton Hall(Built 1805) is Harvard's second building to be named Stoughton Hall. The original Stoughton Hall was built in 1700 and funded by Massachusetts Lieutenant Governor <a href="/wiki/William_Stoughton_(Massachusetts)" class="mw-redirect" title="William Stoughton (Massachusetts)">William Stoughton</a>, who also presided over the <a href="/wiki/Salem_witch_trials" title="Salem witch trials">Salem witch trials</a>. Past residents include <a href="/wiki/Trip_Hawkins" title="Trip Hawkins">Trip Hawkins</a>, <a href="/wiki/Jeremy_Lin" title="Jeremy Lin">Jeremy Lin</a>, <a href="/wiki/Eric_Maskin" title="Eric Maskin">Eric Maskin</a>, <a href="/wiki/Mehmet_Oz" title="Mehmet Oz">Mehmet Oz</a>, and <a href="/wiki/Sydney_Schanberg" title="Sydney Schanberg">Sydney Schanberg</a>.</p>
+<h2><span class="mw-headline" id="Straus_Hall">Straus Hall</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Harvard_College_freshman_dormitories&amp;action=edit&amp;section=14" title="Edit section: Straus Hall">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Straus.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Straus.jpg/220px-Straus.jpg" width="220" height="161" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Straus.jpg/330px-Straus.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Straus.jpg/440px-Straus.jpg 2x" data-file-width="628" data-file-height="459" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Straus.jpg" class="internal" title="Enlarge"></a></div>
+Straus Hall</div>
+</div>
+</div>
+<p><b>Straus Hall</b> – Straus was built in 1926 by three brothers in memory of their parents, <a href="/wiki/Isidor_Straus" title="Isidor Straus">Isidor</a> and <a href="/wiki/Ida_Straus" title="Ida Straus">Ida Straus</a>, New York department store entrepreneurs <a href="/wiki/Abraham_%26_Straus" title="Abraham &amp; Straus">Abraham &amp; Straus</a>, who had died in the sinking of the <a href="/wiki/RMS_Titanic" title="RMS Titanic">RMS Titanic</a>.</p>
+<p>Notable residents include <a href="/wiki/Darren_Aronofsky" title="Darren Aronofsky">Darren Aronofsky</a>, <a href="/wiki/Phil_Bredesen" title="Phil Bredesen">Phil Bredesen</a>, <a href="/wiki/William_S._Burroughs" title="William S. Burroughs">William S. Burroughs</a>, <a href="/wiki/Joseph_Lelyveld" title="Joseph Lelyveld">Joseph Lelyveld</a>, <a href="/wiki/Soledad_O%27Brien" title="Soledad O'Brien">Soledad O'Brien</a>, <a href="/wiki/Tom_Ridge" title="Tom Ridge">Tom Ridge</a>, <a href="/wiki/John_G._Roberts" class="mw-redirect" title="John G. Roberts">John Roberts</a>, <a href="/wiki/David_Souter" title="David Souter">David Souter</a>, <a href="/wiki/Caspar_Weinberger" title="Caspar Weinberger">Caspar Weinberger</a>, <a href="/wiki/Tim_Wirth" title="Tim Wirth">Tim Wirth</a>, and <a href="/wiki/Mark_Zuckerberg" title="Mark Zuckerberg">Mark Zuckerberg</a>.<sup id="cite_ref-search_3-1" class="reference"><a href="#cite_note-search-3">[3]</a></sup></p>
+<h2><span class="mw-headline" id="Thayer_Hall">Thayer Hall</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Harvard_College_freshman_dormitories&amp;action=edit&amp;section=15" title="Edit section: Thayer Hall">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><b>Thayer Hall</b> – Thayer was built in 1870 and originally offered housing to students who had trouble affording the ever-increasing prices of housing outside the University. Past notable residents include <a href="/wiki/James_Agee" title="James Agee">James Agee</a>, <a href="/wiki/Conrad_Aiken" title="Conrad Aiken">Conrad Aiken</a>, <a href="/wiki/Steve_Ballmer" title="Steve Ballmer">Steve Ballmer</a>, <a href="/wiki/Andy_Borowitz" title="Andy Borowitz">Andy Borowitz</a>, <a href="/wiki/Hamzah_bin_al_Hussein" class="mw-redirect" title="Hamzah bin al Hussein">Hamzah bin al Hussein</a>, <a href="/wiki/E._E._Cummings" title="E. E. Cummings">E. E. Cummings</a>, <a href="/wiki/Roy_J._Glauber" title="Roy J. Glauber">Roy J. Glauber</a>, <a href="/wiki/Walter_Isaacson" title="Walter Isaacson">Walter Isaacson</a>, <a href="/wiki/Perri_Klass" title="Perri Klass">Perri Klass</a>, <a href="/wiki/Bernard_Francis_Law" title="Bernard Francis Law">Bernard Francis Law</a>, <a href="/wiki/Crown_Princess_Masako" class="mw-redirect" title="Crown Princess Masako">Crown Princess Masako</a>, <a href="/wiki/Jonathan_Mostow" title="Jonathan Mostow">Jonathan Mostow</a>, <a href="/wiki/Arthur_Schlesinger_Jr." class="mw-redirect" title="Arthur Schlesinger Jr.">Arthur Schlesinger Jr.</a>, <a href="/wiki/Edward_Seaga" title="Edward Seaga">Edward Seaga</a>, <a href="/wiki/Jonathan_Taylor_Thomas" title="Jonathan Taylor Thomas">Jonathan Taylor Thomas</a>, <a href="/wiki/James_Tobin" title="James Tobin">James Tobin</a>, and <a href="/wiki/Owen_Wister" title="Owen Wister">Owen Wister</a>.</p>
+<h2><span class="mw-headline" id="Weld_Hall">Weld Hall</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Harvard_College_freshman_dormitories&amp;action=edit&amp;section=16" title="Edit section: Weld Hall">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:152px;"><a href="/wiki/File:Weld_Hall_-_Harvard.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/e/ea/Weld_Hall_-_Harvard.jpg/150px-Weld_Hall_-_Harvard.jpg" width="150" height="100" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/e/ea/Weld_Hall_-_Harvard.jpg/225px-Weld_Hall_-_Harvard.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/e/ea/Weld_Hall_-_Harvard.jpg/300px-Weld_Hall_-_Harvard.jpg 2x" data-file-width="600" data-file-height="401" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Weld_Hall_-_Harvard.jpg" class="internal" title="Enlarge"></a></div>
+Weld Hall</div>
+</div>
+</div>
+<p><b>Weld Hall</b> – Built in 1870, Weld was the second of two important additions to the Harvard campus designed by <a href="/wiki/William_Robert_Ware" title="William Robert Ware">Ware &amp; Van Brunt</a> (the first being <a href="/wiki/Memorial_Hall_(Harvard_University)" title="Memorial Hall (Harvard University)">Memorial Hall</a>).</p>
+<p>It was a gift of <a href="/wiki/William_Fletcher_Weld" title="William Fletcher Weld">William Fletcher Weld</a>, in memory of his brother <a href="/wiki/Stephen_Minot_Weld" title="Stephen Minot Weld">Stephen Minot Weld</a>, and represented a new trend toward picturesque silhouettes that became important in American domestic architecture of the later nineteenth century, as can be seen in the <a href="/wiki/Queen_Anne_Style_architecture" class="mw-redirect" title="Queen Anne Style architecture">Queen Anne style</a> which was popular during the same period.</p>
+<p>Past residents include <a href="/wiki/Robert_Bacon" title="Robert Bacon">Robert Bacon</a>, <a href="/wiki/Ben_Bernanke" title="Ben Bernanke">Ben Bernanke</a>, <a href="/wiki/Michael_Crichton" title="Michael Crichton">Michael Crichton</a>, <a href="/wiki/Christopher_Durang" title="Christopher Durang">Christopher Durang</a>, <a href="/wiki/Daniel_Ellsberg" title="Daniel Ellsberg">Daniel Ellsberg</a>, <a href="/wiki/Douglas_J._Feith" title="Douglas J. Feith">Douglas J. Feith</a>, <a href="/wiki/Fred_Grandy" title="Fred Grandy">Fred Grandy</a>, <a href="/wiki/Lionel_de_Jersey_Harvard" title="Lionel de Jersey Harvard">Lionel de Jersey Harvard</a>, <a href="/wiki/Rashida_Jones" title="Rashida Jones">Rashida Jones</a>, <a href="/wiki/Ryan_Jones" title="Ryan Jones">Ryan Jones</a>, <a href="/wiki/John_F._Kennedy" title="John F. Kennedy">John F. Kennedy</a>, <a href="/wiki/Douglas_Kenney" title="Douglas Kenney">Douglas Kenney</a>, <a href="/wiki/Michael_Kinsley" title="Michael Kinsley">Michael Kinsley</a>, <a href="/wiki/Neil_H._McElroy" title="Neil H. McElroy">Neil H. McElroy</a>, <a href="/wiki/Neil_deGrasse_Tyson" title="Neil deGrasse Tyson">Neil deGrasse Tyson</a>, <a href="/wiki/Patrick_Harlan" title="Patrick Harlan">Patrick Harlan</a> and <a href="/wiki/Scott_Weinger" title="Scott Weinger">Scott Weinger</a>.</p>
+<h2><span class="mw-headline" id="Wigglesworth_Hall">Wigglesworth Hall</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Harvard_College_freshman_dormitories&amp;action=edit&amp;section=17" title="Edit section: Wigglesworth Hall">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:WigglesworthHall.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/6/60/WigglesworthHall.jpg/220px-WigglesworthHall.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/60/WigglesworthHall.jpg/330px-WigglesworthHall.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/6/60/WigglesworthHall.jpg/440px-WigglesworthHall.jpg 2x" data-file-width="800" data-file-height="600" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:WigglesworthHall.jpg" class="internal" title="Enlarge"></a></div>
+Wigglesworth Hall</div>
+</div>
+</div>
+<p><b>Wigglesworth Hall</b> – The second largest of the freshman dormitories, and actually three buildings, Wigglesworth is located along the southern edge of the Yard, between <a href="/wiki/Widener_Library" title="Widener Library">Widener Library</a> and Boylston Hall to the north, and Massachusetts Avenue to the south. It was constructed in 1931 as "part of President Lowell's plan to enclose the Yard from the traffic of Harvard Square."</p>
+<p>Past residents include <a href="/wiki/Leonard_Bernstein" title="Leonard Bernstein">Leonard Bernstein</a>, <a href="/wiki/Melissa_Block" title="Melissa Block">Melissa Block</a>, <a href="/wiki/Benjamin_C._Bradlee" class="mw-redirect" title="Benjamin C. Bradlee">Benjamin C. Bradlee</a>, <a href="/wiki/Mark_Danner" title="Mark Danner">Mark Danner</a>, <a href="/wiki/Jared_Diamond" title="Jared Diamond">Jared Diamond</a>, <a href="/wiki/Bill_Gates" title="Bill Gates">Bill Gates</a>, <a href="/wiki/Andre_Gregory" title="Andre Gregory">Andre Gregory</a>, <a href="/wiki/Donald_P._Hodel" title="Donald P. Hodel">Donald P. Hodel</a>, <a href="/wiki/Ted_Kennedy" title="Ted Kennedy">Ted Kennedy</a>, <a href="/wiki/Aga_Khan_IV" title="Aga Khan IV">Aga Khan IV</a>, <a href="/wiki/John_Lithgow" title="John Lithgow">John Lithgow</a>, <a href="/wiki/Robert_Lowell" title="Robert Lowell">Robert Lowell</a>, <a href="/wiki/Christopher_Nowinski" title="Christopher Nowinski">Christopher Nowinski</a>, <a href="/wiki/Pat_Toomey" title="Pat Toomey">Pat Toomey</a>, <a href="/wiki/David_Vitter" title="David Vitter">David Vitter</a>, <a href="/wiki/Naomi_Yang" class="mw-redirect" title="Naomi Yang">Naomi Yang</a>, and <a href="/wiki/Randi_Zuckerberg" title="Randi Zuckerberg">Randi Zuckerberg</a>.</p>
+<div style="clear:both;"></div>
+<h2><span class="mw-headline" id="Sources">Sources</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Harvard_College_freshman_dormitories&amp;action=edit&amp;section=18" title="Edit section: Sources">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://hcs.harvard.edu/~dorms">Harvard Dorm History Search</a> for past residents</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Harvard_College_freshman_dormitories&amp;action=edit&amp;section=19" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.thecrimson.com/printerfriendly.aspx?ref=519215">[1]</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link since February 2015">dead link</span></a></i>]</span></sup></span></li>
+<li id="cite_note-prayer-space-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-prayer-space_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://hcs.harvard.edu/his/prayer-spaces/">"Canaday E Musallah"</a>. Hcs.harvard.edu<span class="reference-accessdate">. Retrieved <span class="nowrap">19 June</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Harvard+College+freshman+dormitories&amp;rft.btitle=Canaday+E+Musallah&amp;rft.genre=unknown&amp;rft.pub=Hcs.harvard.edu&amp;rft_id=http%3A%2F%2Fhcs.harvard.edu%2Fhis%2Fprayer-spaces%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-search-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-search_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-search_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://hcs.harvard.edu/~dorms/">"Dorm History Search"</a>. Hcs.harvard.edu<span class="reference-accessdate">. Retrieved <span class="nowrap">16 February</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Harvard+College+freshman+dormitories&amp;rft.btitle=Dorm+History+Search&amp;rft.genre=unknown&amp;rft.pub=Hcs.harvard.edu&amp;rft_id=http%3A%2F%2Fhcs.harvard.edu%2F~dorms%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><i>The Unofficial Guide" Harvard Student Agencies. <a rel="nofollow" class="external text" href="http://ug.hsa.net/topics/life-at-harvard/life-and-times/housing/freshman-dorms/page/2/">Freshman Dorms</a>.</i></span></li>
+<li id="cite_note-JFKslept-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-JFKslept_5-0">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.thecrimson.com/article/1995/6/27/john-f-kennedy-slept-here-soon/">"John F. Kennedy Slept Here; Soon You Will Too"</a>. <i>The Harvard Crimson</i>. 27 June 1995<span class="reference-accessdate">. Retrieved <span class="nowrap">11 February</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Harvard+College+freshman+dormitories&amp;rft.atitle=John+F.+Kennedy+Slept+Here%3B+Soon+You+Will+Too&amp;rft.date=1995-06-27&amp;rft.genre=article&amp;rft.jtitle=The+Harvard+Crimson&amp;rft_id=http%3A%2F%2Fwww.thecrimson.com%2Farticle%2F1995%2F6%2F27%2Fjohn-f-kennedy-slept-here-soon%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation"><a rel="nofollow" class="external text" href="https://harvardmagazine.com/sites/default/files/Convocation.pdf#page=4"><i>Harvard College Class of 2016 Freshman Convocation</i></a> <span style="font-size:85%;">(PDF)</span><span class="reference-accessdate">, retrieved <span class="nowrap">16 December</span> 2016</span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Harvard+College+freshman+dormitories&amp;rft.btitle=Harvard+College+Class+of+2016+Freshman+Convocation&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fharvardmagazine.com%2Fsites%2Fdefault%2Ffiles%2FConvocation.pdf%23page%3D4&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-bricks-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-bricks_7-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Harvard University (1949). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=aupNAAAAMAAJ"><i>Education, bricks and mortar: Harvard buildings and their contribution to the advancement of learning</i></a>. Harvard University. p.&#160;77.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Harvard+College+freshman+dormitories&amp;rft.au=Harvard+University&amp;rft.btitle=Education%2C+bricks+and+mortar%3A+Harvard+buildings+and+their+contribution+to+the+advancement+of+learning&amp;rft.date=1949&amp;rft.genre=book&amp;rft.pages=77&amp;rft.pub=Harvard+University&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DaupNAAAAMAAJ&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Harvard_University" style="padding:3px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Harvard" title="Template:Harvard"><abbr title="View this template" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Harvard" title="Template talk:Harvard"><abbr title="Discuss this template" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Harvard&amp;action=edit"><abbr title="Edit this template" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Harvard_University" style="font-size:114%;margin:0 4em"><a href="/wiki/Harvard_University" title="Harvard University"><span style="color:white">Harvard University</span></a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%"></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/History_of_Harvard_University" title="History of Harvard University">History</a></li>
+<li><a href="/wiki/John_Harvard_(clergyman)" title="John Harvard (clergyman)">John Harvard</a>
+<ul>
+<li><a href="/wiki/John_Harvard_(statue)" title="John Harvard (statue)">statue</a></li>
+</ul>
+</li>
+<li><a href="/wiki/President_of_Harvard_University" title="President of Harvard University">President</a> <a href="/wiki/Drew_Gilpin_Faust" title="Drew Gilpin Faust">Drew Gilpin Faust</a></li>
+<li><a href="/wiki/Harvard_Board_of_Overseers" title="Harvard Board of Overseers">Board of Overseers</a></li>
+<li><a href="/wiki/President_and_Fellows_of_Harvard_College" title="President and Fellows of Harvard College">President and Fellows of Harvard College</a></li>
+<li>Provost <a href="/wiki/Alan_M._Garber" class="mw-redirect" title="Alan M. Garber">Alan M. Garber</a></li>
+<li><a href="/wiki/Harvard_Library" title="Harvard Library">The Harvard Library</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="14" style="width:1px;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:John_Harvard_statue.jpg" class="image"><img alt="John Harvard statue.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/John_Harvard_statue.jpg/110px-John_Harvard_statue.jpg" width="110" height="123" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/John_Harvard_statue.jpg/165px-John_Harvard_statue.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/John_Harvard_statue.jpg/220px-John_Harvard_statue.jpg 2x" data-file-width="1622" data-file-height="1809" /></a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Arts and<br />
+Sciences</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%"></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_Faculty_of_Arts_and_Sciences" title="Harvard Faculty of Arts and Sciences">Harvard Faculty of Arts and Sciences</a></li>
+<li>Dean <a href="/wiki/Michael_D._Smith_(computer_scientist)" title="Michael D. Smith (computer scientist)">Michael D. Smith</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">College</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_College" title="Harvard College">Harvard College</a></li>
+<li>Dean <a href="/wiki/Rakesh_Khurana" title="Rakesh Khurana">Rakesh Khurana</a></li>
+<li><a href="/wiki/Radcliffe_College" title="Radcliffe College">Radcliffe College</a></li>
+</ul>
+<ul>
+<li><a class="mw-selflink selflink">Freshman dormitories</a></li>
+<li>Upperclass houses
+<ul>
+<li><a href="/wiki/Adams_House_(Harvard_University)" class="mw-redirect" title="Adams House (Harvard University)">Adams</a></li>
+<li><a href="/wiki/Cabot_House" title="Cabot House">Cabot</a></li>
+<li><a href="/wiki/Currier_House_(Harvard_College)" title="Currier House (Harvard College)">Currier</a></li>
+<li><a href="/wiki/Dudley_House_(Harvard_College)" class="mw-redirect" title="Dudley House (Harvard College)">Dudley</a></li>
+<li><a href="/wiki/Dunster_House" title="Dunster House">Dunster</a></li>
+<li><a href="/wiki/Eliot_House" class="mw-redirect" title="Eliot House">Eliot</a></li>
+<li><a href="/wiki/Kirkland_House,_Harvard_University" class="mw-redirect" title="Kirkland House, Harvard University">Kirkland</a></li>
+<li><a href="/wiki/Leverett_House" title="Leverett House">Leverett</a></li>
+<li><a href="/wiki/Lowell_House" title="Lowell House">Lowell</a></li>
+<li><a href="/wiki/Mather_House_(Harvard_University)" class="mw-redirect" title="Mather House (Harvard University)">Mather</a></li>
+<li><a href="/wiki/Pforzheimer_House" title="Pforzheimer House">Pforzheimer</a></li>
+<li><a href="/wiki/Quincy_House_(Harvard)" class="mw-redirect" title="Quincy House (Harvard)">Quincy</a></li>
+<li><a href="/wiki/Winthrop_House" title="Winthrop House">Winthrop</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><a href="/wiki/List_of_Harvard_College_undergraduate_organizations" title="List of Harvard College undergraduate organizations">Undergraduate organizations</a></li>
+<li><i><a href="/wiki/The_Harvard_Crimson" title="The Harvard Crimson">The Harvard Crimson</a></i></li>
+<li><i><a href="/wiki/The_Harvard_Lampoon" title="The Harvard Lampoon">The Harvard Lampoon</a></i></li>
+<li><i><a href="/wiki/The_Harvard_Advocate" title="The Harvard Advocate">The Harvard Advocate</a></i></li>
+<li><i><a href="/wiki/The_Harvard_Independent" title="The Harvard Independent">The Harvard Independent</a></i></li>
+</ul>
+<ul>
+<li><b>Athletics</b>: <a href="/wiki/Harvard_Crimson" title="Harvard Crimson">Harvard Crimson</a></li>
+<li><a href="/wiki/Ivy_League" title="Ivy League">Ivy League</a></li>
+<li><a href="/wiki/Harvard_Stadium" title="Harvard Stadium">Harvard Stadium</a></li>
+<li><a href="/wiki/Harvard%E2%80%93Yale_football_rivalry" title="Harvard–Yale football rivalry">Yale football rivalry</a></li>
+<li><a href="/wiki/Lavietes_Pavilion" title="Lavietes Pavilion">Lavietes Pavilion</a></li>
+<li><a href="/wiki/Bright_Hockey_Center" class="mw-redirect" title="Bright Hockey Center">Bright Hockey Center</a></li>
+<li><a href="/wiki/Cornell%E2%80%93Harvard_hockey_rivalry" title="Cornell–Harvard hockey rivalry">Cornell hockey rivalry</a></li>
+<li><a href="/wiki/Beanpot_(ice_hockey)" title="Beanpot (ice hockey)">Beanpot</a></li>
+<li><a href="/wiki/Weld_Boathouse" title="Weld Boathouse">Weld Boathouse</a></li>
+<li><a href="/wiki/Newell_Boathouse_(Harvard_University)" class="mw-redirect" title="Newell Boathouse (Harvard University)">Newall Boathouse</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Continuing<br />
+Education</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_Division_of_Continuing_Education" title="Harvard Division of Continuing Education">Division of Continuing Education</a></li>
+<li>Dean <a href="/wiki/Huntington_D._Lambert" title="Huntington D. Lambert">Huntington D. Lambert</a></li>
+<li><a href="/wiki/Harvard_Extension_School" title="Harvard Extension School">Extension School</a></li>
+<li><a href="/wiki/Harvard_Summer_School" title="Harvard Summer School">Summer School</a></li>
+<li><a href="/wiki/History_of_Harvard_Extension_School" title="History of Harvard Extension School">History of Harvard Extension School</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Eng.<span style="white-space:nowrap"> </span>&amp;<span style="white-space:nowrap"> </span>Appl.<br />
+Sciences</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_John_A._Paulson_School_of_Engineering_and_Applied_Sciences" title="Harvard John A. Paulson School of Engineering and Applied Sciences">Harvard John A. Paulson School of Engineering and Applied Sciences</a></li>
+<li>Dean <a href="/wiki/Francis_J._Doyle_III" title="Francis J. Doyle III">Francis J. Doyle III</a></li>
+<li><a href="/wiki/Lyman_Laboratory_of_Physics" title="Lyman Laboratory of Physics">Lyman Laboratory of Physics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Graduate<br />
+School</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_Graduate_School_of_Arts_and_Sciences" title="Harvard Graduate School of Arts and Sciences">Graduate School of Arts and Sciences</a></li>
+<li>Dean <a href="/wiki/Xiao-Li_Meng" title="Xiao-Li Meng">Xiao-Li Meng</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Libraries</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cabot_Science_Library" title="Cabot Science Library">Cabot</a></li>
+<li><a href="/wiki/Harvard%E2%80%93Yenching_Library" title="Harvard–Yenching Library">Harvard-Yenching</a></li>
+<li><a href="/wiki/Houghton_Library" title="Houghton Library">Houghton</a>
+<ul>
+<li><i><a href="/wiki/Harvard_Review" title="Harvard Review">Harvard Review</a></i></li>
+</ul>
+</li>
+<li><a href="/wiki/Lamont_Library" title="Lamont Library">Lamont</a></li>
+<li><a href="/w/index.php?title=Pusey_Library&amp;action=edit&amp;redlink=1" class="new" title="Pusey Library (page does not exist)">Pusey</a></li>
+<li><a href="/wiki/Widener_Library" title="Widener Library">Widener</a>
+<ul>
+<li><a href="/wiki/Harry_Widener" class="mw-redirect" title="Harry Widener">Harry Widener</a></li>
+<li><a href="/wiki/Eleanor_Elkins_Widener" title="Eleanor Elkins Widener">Eleanor Elkins Widener</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Grossman_Library" title="Grossman Library">Grossman</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%"></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carpenter_Center_for_the_Visual_Arts" title="Carpenter Center for the Visual Arts">Carpenter Center for the Visual Arts</a></li>
+<li><a href="/wiki/Center_for_Hellenic_Studies" title="Center for Hellenic Studies">Center for Hellenic Studies</a></li>
+<li><a href="/w/index.php?title=Charles_Warren_Center_for_Studies_in_American_History&amp;action=edit&amp;redlink=1" class="new" title="Charles Warren Center for Studies in American History (page does not exist)">Charles Warren Center for Studies in American History</a></li>
+<li><a href="/wiki/Collection_of_Historical_Scientific_Instruments" class="mw-redirect" title="Collection of Historical Scientific Instruments">Collection of Historical Scientific Instruments</a></li>
+<li><a href="/wiki/Harvard%E2%80%93Smithsonian_Center_for_Astrophysics" title="Harvard–Smithsonian Center for Astrophysics">Harvard–Smithsonian Center for Astrophysics</a></li>
+<li><a href="/w/index.php?title=Institute_for_Quantitative_Social_Science&amp;action=edit&amp;redlink=1" class="new" title="Institute for Quantitative Social Science (page does not exist)">Institute for Quantitative Social Science</a></li>
+<li><a href="/wiki/Nieman_Foundation_for_Journalism" title="Nieman Foundation for Journalism">Nieman Foundation for Journalism</a></li>
+<li><a href="/wiki/Harvard_Ukrainian_Research_Institute" title="Harvard Ukrainian Research Institute">Ukrainian Research Institute</a></li>
+<li><a href="/wiki/Villa_I_Tatti" title="Villa I Tatti">Villa I Tatti</a></li>
+<li><a href="/wiki/W._E._B._Du_Bois_Institute" title="W. E. B. Du Bois Institute">W. E. B. Du Bois Institute</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Business</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_Business_School" title="Harvard Business School">Harvard Business School</a></li>
+<li>Dean <a href="/wiki/Nitin_Nohria" title="Nitin Nohria">Nitin Nohria</a></li>
+<li><a href="/wiki/Harvard_Business_Publishing" title="Harvard Business Publishing">Harvard Business Publishing</a>
+<ul>
+<li><a href="/wiki/Harvard_Business_Press" class="mw-redirect" title="Harvard Business Press">Harvard Business Press</a></li>
+<li><i><a href="/wiki/Harvard_Business_Review" title="Harvard Business Review">Harvard Business Review</a></i></li>
+</ul>
+</li>
+<li><a href="/wiki/Baker_Library/Bloomberg_Center" title="Baker Library/Bloomberg Center">Baker Library/Bloomberg Center</a></li>
+<li><a href="/wiki/Spangler_Center" title="Spangler Center">Spangler Center</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Design</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_Graduate_School_of_Design" title="Harvard Graduate School of Design">Harvard Graduate School of Design</a></li>
+<li>Dean <a href="/wiki/Mohsen_Mostafavi" title="Mohsen Mostafavi">Mohsen Mostafavi</a></li>
+<li><i><a href="/wiki/Harvard_Design_Magazine" title="Harvard Design Magazine">Harvard Design Magazine</a></i></li>
+<li><a href="/wiki/Joint_Center_for_Housing_Studies" title="Joint Center for Housing Studies">Joint Center for Housing Studies</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Divinity</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_Divinity_School" title="Harvard Divinity School">Harvard Divinity School</a></li>
+<li>Dean <a href="/wiki/David_N._Hempton" title="David N. Hempton">David N. Hempton</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Education</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_Graduate_School_of_Education" title="Harvard Graduate School of Education">Harvard Graduate School of Education</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Government</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/John_F._Kennedy_School_of_Government" title="John F. Kennedy School of Government">John F. Kennedy School of Government</a></li>
+<li>Dean <a href="/wiki/Douglas_Elmendorf" title="Douglas Elmendorf">Douglas Elmendorf</a></li>
+<li><a href="/wiki/Harvard_Institute_of_Politics" title="Harvard Institute of Politics">Institute of Politics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Law</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_Law_School" title="Harvard Law School">Harvard Law School</a></li>
+<li>Dean <a href="/wiki/Martha_Minow" title="Martha Minow">Martha Minow</a></li>
+<li><i><a href="/wiki/Harvard_Law_Review" title="Harvard Law Review">Harvard Law Review</a></i></li>
+<li><i><a href="/wiki/Harvard_Journal_of_Law_%26_Technology" title="Harvard Journal of Law &amp; Technology">Harvard Journal of Law &amp; Technology</a></i></li>
+<li><i><a href="/wiki/Harvard_Law_Record" title="Harvard Law Record">Harvard Law Record</a></i></li>
+<li><i><a href="/wiki/Harvard_International_Law_Journal" title="Harvard International Law Journal">Harvard International Law Journal</a></i></li>
+<li><i><a href="/wiki/Harvard_Civil_Rights-Civil_Liberties_Law_Review" title="Harvard Civil Rights-Civil Liberties Law Review">Harvard Civil Rights-Civil Liberties Law Review</a></i></li>
+<li><i><a href="/wiki/Harvard_Journal_on_Legislation" title="Harvard Journal on Legislation">Harvard Journal on Legislation</a></i></li>
+<li><a href="/wiki/Berkman_Center_for_Internet_%26_Society" class="mw-redirect" title="Berkman Center for Internet &amp; Society">Berkman Center</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Medicine</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%"></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_Medical_School" title="Harvard Medical School">Harvard Medical School</a></li>
+<li>Dean <a href="/wiki/Jeffrey_Scott_Flier" title="Jeffrey Scott Flier">Jeffrey Scott Flier</a></li>
+<li><a href="/wiki/Broad_Institute" title="Broad Institute">Broad Institute</a></li>
+<li><a href="/wiki/Countway_Library_of_Medicine" class="mw-redirect" title="Countway Library of Medicine">Countway Library</a></li>
+<li><a href="/wiki/Center_for_the_History_of_Medicine" class="mw-redirect" title="Center for the History of Medicine">Center for the History of Medicine</a>
+<ul>
+<li><a href="/wiki/Warren_Anatomical_Museum" title="Warren Anatomical Museum">Warren Anatomical Museum</a></li>
+</ul>
+</li>
+<li><a href="/w/index.php?title=Schepens_Eye_Research_Institute&amp;action=edit&amp;redlink=1" class="new" title="Schepens Eye Research Institute (page does not exist)">Schepens Eye Research Institute</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Dentistry</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_School_of_Dental_Medicine" title="Harvard School of Dental Medicine">Harvard School of Dental Medicine</a></li>
+<li>Dean <a href="/w/index.php?title=Bruce_Donoff&amp;action=edit&amp;redlink=1" class="new" title="Bruce Donoff (page does not exist)">Bruce Donoff</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Public health</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_T.H._Chan_School_of_Public_Health" title="Harvard T.H. Chan School of Public Health">Harvard T.H. Chan School of Public Health</a></li>
+<li>Dean <a href="/wiki/Michelle_Ann_Williams" title="Michelle Ann Williams">Michelle Ann Williams</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Museums</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harvard_Art_Museums" title="Harvard Art Museums">Harvard Art Museums</a>
+<ul>
+<li><a href="/wiki/Arthur_M._Sackler_Museum" class="mw-redirect" title="Arthur M. Sackler Museum">Arthur M. Sackler</a></li>
+<li><a href="/wiki/Fogg_Museum" class="mw-redirect" title="Fogg Museum">Fogg Museum</a></li>
+<li><a href="/wiki/Busch%E2%80%93Reisinger_Museum" class="mw-redirect" title="Busch–Reisinger Museum">Busch-Reisinger</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Harvard_Collection_of_Historical_Scientific_Instruments" title="Harvard Collection of Historical Scientific Instruments">Harvard Collection of Historical Scientific Instruments</a></li>
+<li><a href="/wiki/Harvard_Museum_of_Natural_History" title="Harvard Museum of Natural History">Museum of Natural History</a>
+<ul>
+<li><a href="/wiki/Glass_Flowers" title="Glass Flowers">Glass Flowers</a></li>
+<li><a href="/wiki/Harvard_Mineralogical_Museum" title="Harvard Mineralogical Museum">Mineralogical Museum</a></li>
+<li><a href="/wiki/Harvard_University_Herbaria" title="Harvard University Herbaria">Herbaria</a></li>
+<li><a href="/wiki/Museum_of_Comparative_Zoology" title="Museum of Comparative Zoology">Comparative Zoology</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Peabody_Museum_of_Archaeology_and_Ethnology" title="Peabody Museum of Archaeology and Ethnology">Peabody Museum of Archaeology and Ethnology</a></li>
+<li><a href="/wiki/Semitic_Museum" title="Semitic Museum">Semitic Museum</a></li>
+<li><a href="/wiki/General_Artemas_Ward_House" title="General Artemas Ward House">General Artemas Ward House</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Cambridge<br />
+campus</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Memorial_Hall_(Harvard_University)" title="Memorial Hall (Harvard University)">Memorial Hall</a></li>
+<li><a href="/wiki/Harvard_Science_Center" title="Harvard Science Center">Science Center</a></li>
+<li><a href="/wiki/Smith_Campus_Center" title="Smith Campus Center">Smith Campus Center</a></li>
+<li><a href="/wiki/Peabody_Terrace" title="Peabody Terrace">Peabody Terrace</a></li>
+<li><a href="/wiki/Harvard_Graduate_Center" title="Harvard Graduate Center">Harvard Graduate Center</a></li>
+<li><a href="/wiki/Harvard_Hall" title="Harvard Hall">Harvard Hall</a></li>
+<li><a href="/wiki/University_Hall_(Harvard_University)" title="University Hall (Harvard University)">University Hall</a></li>
+<li><a href="/wiki/Memorial_Church_of_Harvard_University" title="Memorial Church of Harvard University">Memorial Church</a>
+<ul>
+<li><a href="/wiki/Harvard_University_Choir" title="Harvard University Choir">Choir</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Harvard_Yard" title="Harvard Yard">Harvard Yard</a></li>
+<li><a href="/wiki/Johnston_Gate" title="Johnston Gate">Johnston Gate</a></li>
+<li><a href="/wiki/Boylston_Hall" title="Boylston Hall">Boylston Hall</a></li>
+<li><a href="/wiki/Massachusetts_Hall_(Harvard_University)" title="Massachusetts Hall (Harvard University)">Massachusetts Hall</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Centers and<br />
+Institutes</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dumbarton_Oaks" title="Dumbarton Oaks">Dumbarton Oaks</a></li>
+<li><a href="/wiki/Harvard_Forest" title="Harvard Forest">Harvard Forest</a></li>
+<li><a href="/wiki/Harvard%E2%80%93MIT_Division_of_Health_Sciences_and_Technology" class="mw-redirect" title="Harvard–MIT Division of Health Sciences and Technology">Health Science and Technology</a></li>
+<li><a href="/wiki/Institute_for_Advanced_Theater_Training" title="Institute for Advanced Theater Training">Institute for Advanced Theater Training</a></li>
+<li><a href="/wiki/Radcliffe_Institute_for_Advanced_Study" title="Radcliffe Institute for Advanced Study">Radcliffe Institute for Advanced Study</a>
+<ul>
+<li><a href="/wiki/Schlesinger_Library" title="Schlesinger Library">Schlesinger Library</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Real_Colegio_Complutense" title="Real Colegio Complutense">Real Colegio Complutense</a></li>
+<li><a href="/wiki/Rowland_Institute_for_Science" title="Rowland Institute for Science">Rowland Institute for Science</a></li>
+<li><a href="/wiki/Wyss_Institute_for_Biologically_Inspired_Engineering" title="Wyss Institute for Biologically Inspired Engineering">Wyss Institute for Biologically Inspired Engineering</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#A51C30;color:white;-moz-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; -webkit-box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E; box-shadow: inset 2px 2px 0 #1E1E1E, inset -2px -2px 0 #1E1E1E;;width:1%">Misc.</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/History_and_traditions_of_Harvard_commencements" title="History and traditions of Harvard commencements">Commencement traditions</a>
+<ul>
+<li><a href="/wiki/Academic_regalia_of_Harvard_University" title="Academic regalia of Harvard University">Academic regalia</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Heraldry_of_Harvard_University" title="Heraldry of Harvard University">Heraldry</a></li>
+<li><a href="/wiki/Harvard_Tercentenary_celebration" title="Harvard Tercentenary celebration">Tercentenary celebration</a></li>
+<li><a href="/wiki/Harvard_University_Professor" title="Harvard University Professor">Harvard University Professor</a></li>
+<li><i><a href="/wiki/Harvard_Magazine" title="Harvard Magazine">Harvard Magazine</a></i></li>
+<li><i><a href="/wiki/Harvard_Gazette" title="Harvard Gazette">Harvard Gazette</a></i></li>
+<li><a href="/wiki/Harvard_University_Press" title="Harvard University Press">Harvard University Press</a></li>
+<li><a href="/wiki/Harvard_Society_of_Fellows" title="Harvard Society of Fellows">Society of Fellows</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1218
+Cached time: 20171018120530
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.264 seconds
+Real time usage: 0.345 seconds
+Preprocessor visited node count: 1092/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 93192/2097152 bytes
+Template argument size: 1762/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 2/500
+Lua time usage: 0.101/10.000 seconds
+Lua memory usage: 3.87 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  221.750      1 -total
+ 39.26%   87.055      1 Template:Reflist
+ 38.69%   85.804      3 Template:Navbox
+ 24.87%   55.142      1 Template:Harvard
+ 19.86%   44.030      1 Template:Refimprove
+ 16.15%   35.814      1 Template:Refn
+ 15.16%   33.618      1 Template:Cite_book
+ 12.95%   28.706      1 Template:Ambox
+ 11.73%   26.017      3 Template:CollegePrimaryStyle
+ 11.36%   25.200      2 Template:Fix
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:29631120-0!canonical and timestamp 20171018120531 and revision id 805909238
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=List_of_Harvard_College_freshman_dormitories&amp;oldid=805909238">https://en.wikipedia.org/w/index.php?title=List_of_Harvard_College_freshman_dormitories&amp;oldid=805909238</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Harvard_University-related_lists" title="Category:Harvard University-related lists">Harvard University-related lists</a></li><li><a href="/wiki/Category:Harvard_Freshman_Dormitories" title="Category:Harvard Freshman Dormitories">Harvard Freshman Dormitories</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_February_2015" title="Category:Articles with dead external links from February 2015">Articles with dead external links from February 2015</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_January_2014" title="Category:Articles needing additional references from January 2014">Articles needing additional references from January 2014</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Articles_needing_more_detailed_references" title="Category:Articles needing more detailed references">Articles needing more detailed references</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=List+of+Harvard+College+freshman+dormitories" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=List+of+Harvard+College+freshman+dormitories" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-main" class="selected"><span><a href="/wiki/List_of_Harvard_College_freshman_dormitories" title="View the content page [c]" accesskey="c">Article</a></span></li>
+							<li id="ca-talk"><span><a href="/wiki/Talk:List_of_Harvard_College_freshman_dormitories" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="collapsible selected"><span><a href="/wiki/List_of_Harvard_College_freshman_dormitories">Read</a></span></li>
+							<li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=List_of_Harvard_College_freshman_dormitories&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+							<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=List_of_Harvard_College_freshman_dormitories&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/List_of_Harvard_College_freshman_dormitories" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/List_of_Harvard_College_freshman_dormitories" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=List_of_Harvard_College_freshman_dormitories&amp;oldid=805909238" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=List_of_Harvard_College_freshman_dormitories&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q6572909" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=List_of_Harvard_College_freshman_dormitories&amp;id=805909238" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=List+of+Harvard+College+freshman+dormitories">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=List+of+Harvard+College+freshman+dormitories&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=List_of_Harvard_College_freshman_dormitories&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+											</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q6572909#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last edited on 18 October 2017, at 12:05.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=List_of_Harvard_College_freshman_dormitories&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.264","walltime":"0.345","ppvisitednodes":{"value":1092,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":93192,"limit":2097152},"templateargumentsize":{"value":1762,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  221.750      1 -total"," 39.26%   87.055      1 Template:Reflist"," 38.69%   85.804      3 Template:Navbox"," 24.87%   55.142      1 Template:Harvard"," 19.86%   44.030      1 Template:Refimprove"," 16.15%   35.814      1 Template:Refn"," 15.16%   33.618      1 Template:Cite_book"," 12.95%   28.706      1 Template:Ambox"," 11.73%   26.017      3 Template:CollegePrimaryStyle"," 11.36%   25.200      2 Template:Fix"]},"scribunto":{"limitreport-timeusage":{"value":"0.101","limit":"10.000"},"limitreport-memusage":{"value":4057376,"limit":52428800}},"cachereport":{"origin":"mw1218","timestamp":"20171018120530","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":74,"wgHostname":"mw1211"});});</script>
+	</body>
+</html>
